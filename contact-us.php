@@ -63,7 +63,7 @@
                 
                 <div class="col-tact-stye-one col-lg-6">
                     <div class="contact-form-style-one">
-                        <form action="contactMail.php" method="POST" class="contact-form contact-form">
+                        <form action="contactMail.php" method="POST" class="contact-form2">
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="form-group">
@@ -89,7 +89,7 @@
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="form-group comments">
-                                        <textarea class="form-control" id="message" name="message" placeholder="Tell Us About Project *"></textarea>
+                                        <textarea class="form-control" id="message" name="message_msg" placeholder="Tell Us About Project *"></textarea>
                                     </div>
                                 </div>
                             </div>

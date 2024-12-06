@@ -28,8 +28,8 @@ $email_password = getenv('EMAIL_PASSWORD');
 if (isset($_POST)) {
     $name = trim($_POST['name']);
     $email = trim($_POST['email']);
-    $mobile = trim($_POST['mobile']);
-    $msg_subject = trim($_POST['subject']);
+    $mobile = trim($_POST['phone']);
+    // $msg_subject = trim($_POST['subject']);
     $messages = trim($_POST['message']);
     $msg_list = explode(' ', strtolower($messages));
 
@@ -102,11 +102,11 @@ if (isset($_POST)) {
     } else {
         if ($mail->send() == true) {
             echo "<script>alert('Message has been sent!');</script>";
-            echo "<script>window.location.href='contact.php'</script>";
+            echo "<script>window.location.href='contact-us.php'</script>";
             exit;
         } else {
             echo "<script>alert('Message could not be sent. Mailer Error: {$mail->ErrorInfo}');</script>";
-            echo "<script>window.location.href='contact.php'</script>";
+            echo "<script>window.location.href='index.php'</script>";
             exit;
         }
     }

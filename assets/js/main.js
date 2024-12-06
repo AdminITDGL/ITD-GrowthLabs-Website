@@ -454,7 +454,7 @@
 					$.post(action, {
 							name: $('#name').val(),
 							email: $('#email').val(),
-							phone: $('#phone').val(),
+							phone: $('#').val(),
 							comments: $('#comments').val()
 						},
 						function(data) {
