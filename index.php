@@ -125,7 +125,7 @@
                     <i class="flaticon-startup-6"></i>
                     <h4><a href="coming-soon.php">Website Development</a></h4>
                     <p>
-                        Create a robust online presence with custom website development that’s scalable, secure, and user-friendly.
+                        Create a robust online presence with custom website development that’s scalable, secure, client-side/server-side scripting and user-friendly.
                     </p>
                     <a href="coming-soon.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
                 </div>
@@ -491,7 +491,7 @@
                     <div class="contact-form-style-one">
                         <h4 class="sub-title">Have Questions?</h4>
                         <h2 class="title">Send us a Message</h2>
-                        <form action="contact.php" method="POST" class="contact-form contact-form">
+                        <form action="contactMail.php" method="POST" class="contact-form2">
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="form-group">
@@ -509,7 +509,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="form-group">
-                                        <input class="form-control" id="company" name="company" placeholder="Company Name" type="text">
+                                        <input class="form-control" id="phone" name="phone" placeholder="Phone" type="text">
                                         <span class="alert-error"></span>
                                     </div>
                                 </div>
@@ -517,8 +517,13 @@
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="form-group comments">
-                                        <textarea class="form-control" id="comments" name="comments" placeholder="Tell Us About Your Project *"></textarea>
+                                        <textarea class="form-control" id="message" name="message_msg" placeholder="Tell Us About Project *"></textarea>
                                     </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-12 col-md-12">
+                                <div class="form-group">
+                                    <div class="g-recaptcha" data-sitekey="6Lez7pMqAAAAAEW9ugHXssmeVZdvo2jSYXMH98FB"></div>
                                 </div>
                             </div>
                             <div class="row">
