@@ -63,7 +63,7 @@
                 
                 <div class="col-tact-stye-one col-lg-6">
                     <div class="contact-form-style-one">
-                        <form action="assets/mail/contact.php" method="POST" class="contact-form contact-form">
+                        <form action="contactMail.php" method="POST" class="contact-form contact-form">
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="form-group">
@@ -89,8 +89,13 @@
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="form-group comments">
-                                        <textarea class="form-control" id="comments" name="comments" placeholder="Tell Us About Project *"></textarea>
+                                        <textarea class="form-control" id="message" name="message" placeholder="Tell Us About Project *"></textarea>
                                     </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-12 col-md-12">
+                                <div class="form-group">
+                                    <div class="g-recaptcha" data-sitekey="6LcFRV8qAAAAAN1xI6EpRBy_VCk0VddhKRAXY7XK"></div>
                                 </div>
                             </div>
                             <div class="row">
