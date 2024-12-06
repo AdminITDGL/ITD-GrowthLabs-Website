@@ -229,7 +229,7 @@
                     <i class="flaticon-startup-6"></i>
                     <h4><a href="coming-soon.php">Graphics Design</a></h4>
                     <p>
-                        Elevate your brand with the creative <strong>graphics design</strong> services, delivering eye-catching visuals that communicate effectively.
+                        Elevate your brand with the creative <strong>graphics design</strong>, delivering eye-catching visuals that communicate effectively.
                     </p>
                     <a href="coming-soon.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
                 </div>
