@@ -63,7 +63,7 @@ if (isset($_POST)) {
     <p style='margin-bottom: 10px; font-weight: normal; font-size:16px; color: #333333;'>Name : $name</p>
     <h2 style='font-weight: 200; font-size: 16px; margin: 20px 0; color: #333333;'> Email ID : $email </h2>
     <h2 style='font-weight: 200; font-size: 16px; margin: 20px 0; color: #333333;'> Mobile No. : $mobile </h2>
-    <h2 style='font-weight: 200; font-size: 16px; margin: 20px 0; color: #333333;'> Message : $message </h2>
+    <h2 style='font-weight: 200; font-size: 16px; margin: 20px 0; color: #333333;'> Message : $messages </h2>
     </tr>
     </table>
     </div></td>
