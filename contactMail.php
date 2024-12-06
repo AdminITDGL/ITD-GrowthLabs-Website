@@ -1,7 +1,7 @@
 <?php
 
 require __DIR__ . '/PHPMailerAutoload.php';
-require __DIR__ . '/credential.php';
+
 function loadEnv($file)
 {
     if (!file_exists($file)) {
