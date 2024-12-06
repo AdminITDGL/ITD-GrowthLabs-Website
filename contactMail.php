@@ -51,7 +51,7 @@ if (isset($_POST)) {
   
     $message = implode(' ', $msg_list);
 
-    $subject = "ITD GROWTHLAB ENQUIRY";
+    $subject = "ITD GROWTHLABS ENQUIRY";
     $body = "<table bgcolor='#fafafa' style=' width: 100%!important; height: 100%; background-color: #fafafa; padding: 20px; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, 'Lucida Grande', sans-serif;  font-size: 100%; line-height: 1.6;'>
     <tr>
     <td></td>
