@@ -19,3 +19,4 @@
         <script src="assets/js/TweenMax.min.js"></script>
         <script src="assets/js/validnavs.js"></script>
         <script src="assets/js/main.js"></script>
+        <script type="text/javascript" src='https://www.google.com/recaptcha/api.js' async defer></script>
