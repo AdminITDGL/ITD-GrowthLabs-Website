@@ -9,10 +9,10 @@
     <meta name="description" content="Dilabs - Creative Digital Agency Template">
 
     <!-- ========== Page Title ========== -->
-    <title>Dilabs - Creative Digital Agency Template</title>
+    <title>Contact Us | GrowthLabs Digital Marketing Company</title>
 
     <!-- ========== Favicon Icon ========== -->
-<?php include("./includes/header_script.php")?>
+    <?php include("./includes/header_script.php") ?>
 
 </head>
 
@@ -24,9 +24,8 @@
 
     <!-- Header 
     ============================================= -->
-    <?php include("./includes/header.php")?>
+    <?php include("./includes/header.php") ?>
     <!-- End Header -->
-
 
     <!-- Start 404 
     ============================================= -->
@@ -52,6 +51,5 @@
     </div>
     <!-- End 404 -->
 
-
-<?php include("./includes/footer.php")?>
-<?php include("./includes/footer_script.php")?>
+    <?php include("./includes/footer.php") ?>
+    <?php include("./includes/footer_script.php") ?>

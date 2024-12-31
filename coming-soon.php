@@ -12,21 +12,19 @@
     <title>Dilabs - Creative Digital Agency Template</title>
 
     <!-- ========== Favicon Icon ========== -->
-    <?php include("./includes/header_script.php")?>
+    <?php include("./includes/header_script.php") ?>
 
 </head>
 
 <body>
 
-  
-   
     <!-- Preloader Start -->
     <div class="se-pre-con"></div>
     <!-- Preloader Ends -->
 
     <!-- Header 
     ============================================= -->
-    <?php include("./includes/header.php")?>
+    <?php include("./includes/header.php") ?>
     <!-- End Header -->
 
     <!-- Start 404 
@@ -43,7 +41,7 @@
                         <h1>Coming Soon</h1>
                         <h2>Sorry Page Was Not Found!</h2>
                         <p>
-                           We’re diligently working on will soon go live! Stay tuned for a seamless browsing experience, packed with thoughtfully designed layouts and valuable content tailored to meet your needs. We’re excited to unveil it shortly—get ready to explore!
+                            We’re diligently working on will soon go live! Stay tuned for a seamless browsing experience, packed with thoughtfully designed layouts and valuable content tailored to meet your needs. We’re excited to unveil it shortly—get ready to explore!
                         </p>
                         <a class="btn mt-20 btn-md btn-theme" href="#">Back to home</a>
                     </div>
@@ -53,6 +51,5 @@
     </div>
     <!-- End 404 -->
 
-  
-<?php include("./includes/footer.php")?>
-<?php include("./includes/footer_script.php")?>
+    <?php include("./includes/footer.php") ?>
+    <?php include("./includes/footer_script.php") ?>

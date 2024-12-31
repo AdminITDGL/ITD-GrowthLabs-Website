@@ -1,9 +1,7 @@
-
-
     <!-- Start Footer 
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
-        
+
         <div class="container">
             <div class="f-items default-padding-bottom pt-70 pt-xs-0">
                 <div class="row">
@@ -13,11 +11,11 @@
                             <img src="assets/img/shape/6.png" alt="Image Not Found">
                         </div>
                         <div class="f-item about pr-50 pr-xs-0 pr-md-0">
-                           <div class="logo" style="font-size: 45px; font-weight: bold; color: #fff;">
-							GrowthLabs
-						</div>
+                            <div class="logo" style="font-size: 45px; font-weight: bold; color: #fff;">
+                                GrowthLabs
+                            </div>
                             <p>
-                             Let's collaborate to create content that drives growth.
+                                Let's collaborate to create content that drives growth.
                             </p>
                             <!--div class="footer-social mt-30">
                                 <ul>
@@ -41,11 +39,11 @@
                                 <li>
                                     <a href="about-us.php">About</a>
                                 </li>
-                                
+
                                 <li>
                                     <a href="contact-us.php">Career</a>
                                 </li>
-                              
+
                                 <li>
                                     <a href="contact-us.php">Contact</a>
                                 </li>
@@ -62,7 +60,7 @@
                                 <li>
                                     <div class="content">
                                         <strong>Address:</strong>
-                                       Gundecha Onclave, Mumbai, 400072
+                                        Gundecha Onclave, Mumbai, 400072
                                     </div>
                                 </li>
                                 <li>
@@ -71,7 +69,7 @@
                                         <a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs</a>
                                     </div>
                                 </li>
-                              
+
                             </ul>
                         </div>
                     </div>
@@ -90,11 +88,14 @@
                             </form>
                         </div>
                     </div>
-                     End Singel Item -->
+                    <!-- End Singel Item -->
+
+
+
                 </div>
             </div>
         </div>
-        
+
         <!-- Footer Bottom -->
         <div class="footer-bottom bg-dark text-light text-center">
             <div class="container">
@@ -108,6 +109,3 @@
             </div>
         </div>
         <!-- End Footer Bottom -->
-
-    </footer>
-    <!-- End Footer -->
