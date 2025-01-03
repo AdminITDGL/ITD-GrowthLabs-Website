@@ -66,7 +66,7 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                     <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand" href="index.php">
+                <a class="navbar-brand" href="../index.php">
                     <img src="../assets/img/logo.png" class="logo" alt="Logo">
                 </a>
             </div>
@@ -562,7 +562,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingOne">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    What is <strong>blog post writing</strong>, and why is it important for my business?
+                                    What is blog post writing, and why is it important for my business?
                                 </button>
                             </h2>
                             <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
@@ -578,7 +578,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingTwo">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    How can <strong>SEO blog writing</strong> boost my website’s visibility?
+                                    How can SEO blog writing boost my website’s visibility?
                                 </button>
                             </h2>
                             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
@@ -609,9 +609,7 @@
                         <!-- FAQ Item 4 -->
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingFour">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                    How can expert <strong>blog writing</strong> improve customer engagement?
-                                </button>
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour"> How can expert blog writing improve customer engagement?</button>
                             </h2>
                             <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                 <div class="accordion-body">
@@ -642,7 +640,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingSix">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                                    What is thought leadership in <strong>blog writing</strong>?
+                                    What is thought leadership in blog writing?
                                 </button>
                             </h2>
                             <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#faqAccordion">
@@ -674,7 +672,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingEight">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
-                                    How often should I publish <strong>blog posts</strong> to maintain SEO rankings?
+                                    How often should I publish blog posts to maintain SEO rankings?
                                 </button>
                             </h2>
                             <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#faqAccordion">
@@ -690,7 +688,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingNine">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
-                                    How do <strong>blog post writers</strong> ensure content aligns with my brand voice?
+                                    How do blog post writers ensure content aligns with my brand voice?
                                 </button>
                             </h2>
                             <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine" data-bs-parent="#faqAccordion">
@@ -706,7 +704,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingTen">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
-                                    What makes a <strong>blog post</strong> suitable for SEO?
+                                    What makes a blog post suitable for SEO?
                                 </button>
                             </h2>
                             <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen" data-bs-parent="#faqAccordion">
@@ -956,7 +954,7 @@
                     <!-- Singel Item -->
                     <div class="col-lg-3 col-md-6 footer-item mt-50">
                         <div class="footer-animated-shape">
-                            <img src="assets/img/shape/6.png" alt="Image Not Found">
+                            <img src="../assets/img/shape/6.png" alt="Image Not Found">
                         </div>
                         <div class="f-item about pr-50 pr-xs-0 pr-md-0">
                            <div class="logo" style="font-size: 45px; font-weight: bold; color: #fff;">
@@ -985,11 +983,11 @@
                                     <a href="website-content-writing.php">Services</a>
                                 </li>
                                 <li>
-                                    <a href="about-us.php">About</a>
+                                    <a href="../coming-soon.php">About</a>
                                 </li>
                                 
                                 <li>
-                                    <a href="../contact-us.php">Career</a>
+                                    <a href="../coming-soon.php">Career</a>
                                 </li>
                               
                                 <li>

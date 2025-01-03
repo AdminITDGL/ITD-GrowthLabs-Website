@@ -6,12 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="We are a digital marketing agency in Andheri, Mumba, we deliver accelerated, sustainable growth for brands globally with our comprehensive digital services.">
-    <meta name="keywords" content="Digital Marketing Company, Digital Marketing Services, Content Writing Services, SEO Content Writing Services, Best Content Writing, Online Marketing Agency, Digital Strategy Services, Content Marketing Agency, Digital Advertising Services, Expert Content Writing Services.">
-    <meta name="author" content="Dilabs">
-
-    <!-- ========== Page Title ========== -->
-    <title>GrowthLabs: Best Digital Marketing Agency &amp; Company | Digital Marketing Services </title>
+    <meta name="description" content="Dilabs - Creative Digital Agency Template">
 
     <!-- ========== Page Title ========== -->
     <title>Contact Us | GrowthLabs Digital Marketing Company</title>
@@ -31,7 +26,6 @@
     ============================================= -->
     <?php include("./includes/header.php") ?>
     <!-- End Header -->
-
 
     <!-- Start Banner Area 
     ============================================= -->
@@ -54,7 +48,7 @@
                                                 We fuel growth with digital marketing, content, and tech solutions that bring businesses to life.
                                             </p>
                                             <div class="button">
-                                                <a class="btn btn-theme btn-md animation" href="contact-us.php">Let's Talk</a>
+                                                <a class="btn btn-theme btn-md animation" href="contact-us.html">Let's Talk</a>
                                             </div>
                                 </div>
                             </div>
@@ -79,8 +73,9 @@
                                         We create tailored digital strategies that align with your business goals, delivering results that make a lasting impact in your industry.
                                     </p>
                                     <div class="button">
-                                        <a class="btn btn-theme btn-md animation" href="contact-us.php">Let's Talk</a>
+                                        <a class="btn btn-theme btn-md animation" href="contact-us.html">Let's Talk</a>
                                     </div>
+
                                 </div>
                             </div>
                         </div>
@@ -97,16 +92,15 @@
             <div class="swiper-button-next"></div>
         </div>
     </div>
+
     <!-- End Main -->
-
-
     <div class="services-style-three-area bg-dark bg-cover default-padding bottom-less" style="background-image: url(assets/img/shape/banner-6.jpg);">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">Services We Offer</h5>
-                        <h2 class="title">Digital Marketing and Content Solutions That Drive Results</h2>
+                        <h2 class="title">Digital and Content Marketing Solutions That Drive Results</h2>
                     </div>
                 </div>
             </div>
@@ -114,122 +108,113 @@
 
         <div class="container">
             <div class="row">
-                <!-- Single Item -->
+                <!-- Website Design & Development -->
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
                         <i class="flaticon-startup-6"></i>
-                        <h4><a href="services-details.php">Website Development</a></h4>
+                        <h4><a href="https://www.itdgrowthlabs.com/services/website-development-company.php" target="_blank">Website Design & Development</a></h4>
                         <p>
-                            Create a robust online presence with custom website development that’s scalable, secure, and user-friendly.
+                            Enhance your online presence with custom website design and development that combines aesthetics and functionality to deliver results.
                         </p>
-                        <a href="services-details.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
+                        <a href="https://www.itdgrowthlabs.com/services/website-development-company.php" target="_blank" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
                     </div>
                 </div>
-                <!-- End Single Item -->
 
-                <!-- Single Item -->
+                <!-- Content Marketing Services -->
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
                         <i class="flaticon-planning"></i>
-                        <h4><a href="services-details.php">Website Content Writing</a></h4>
+                        <h4><a href="https://www.itdgrowthlabs.com/services/content-marketing-services.php" target="_blank">Content Marketing Services</a></h4>
                         <p>
-                            Engage your audience with the <strong>website content writing</strong> services that deliver SEO-optimized content tailored to your brand’s goals.
+                            Drive engagement and conversions with targeted content marketing strategies designed to grow your brand and deliver measurable results.
                         </p>
-                        <a href="services-details.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
+                        <a href="https://www.itdgrowthlabs.com/services/content-marketing-services.php" target="_blank" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
                     </div>
                 </div>
-                <!-- End Single Item -->
 
-                <!-- Single Item -->
+                <!-- Website Content Writing -->
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
+                        <i class="flaticon-planning"></i>
+                        <h4><a href="https://www.itdgrowthlabs.com/services/website-content-writing.php" target="_blank">Website Content Writing</a></h4>
+                        <p>
+                            Deliver compelling and SEO-friendly website content that captures your audience’s attention and drives organic growth.
+                        </p>
+                        <a href="https://www.itdgrowthlabs.com/services/website-content-writing.php" target="_blank" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
+                    </div>
+                </div>
+
+                <!-- SEO Article Writing -->
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
                         <i class="flaticon-marketing-agent"></i>
-                        <h4><a href="services-details.php">Content Strategy</a></h4>
+                        <h4><a href="https://www.itdgrowthlabs.com/services/seo-article-writing.php" target="_blank">SEO Article Writing</a></h4>
                         <p>
-                            Build long-term success with a well-defined <strong>content strategy</strong> that aligns with your business objectives and engages your audience.
+                            Improve visibility and rankings with SEO-optimized articles that resonate with your target audience and drive traffic.
                         </p>
-                        <a href="services-details.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
+                        <a href="https://www.itdgrowthlabs.com/services/seo-article-writing.php" target="_blank" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
                     </div>
                 </div>
-                <!-- End Single Item -->
 
-                <!-- Single Item -->
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
-                        <i class="flaticon-research-1"></i>
-                        <h4><a href="services-details.php">SEO Article Writing</a></h4>
-                        <p>
-                            Boost visibility with the <strong>SEO article writing</strong> services that create high-quality content to improve search rankings and drive traffic.
-                        </p>
-                        <a href="services-details.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
-                        <i class="flaticon-startup-6"></i>
-                        <h4><a href="services-details.php">Blog Writing</a></h4>
-                        <p>
-                            Stand out online with the <strong>blog writing</strong> services, offering insightful content that attracts and informs your audience.
-                        </p>
-                        <a href="services-details.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
+                <!-- Case Study Writing -->
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
                         <i class="flaticon-secure-1"></i>
-                        <h4><a href="services-details.php">Case Study Writing</a></h4>
+                        <h4><a href="https://www.itdgrowthlabs.com/services/case-study-writing-services.php" target="_blank">Case Study Writing</a></h4>
                         <p>
-                            Highlight your achievements with the <strong>case study writing</strong> services, designed to build trust and showcase your success stories.
+                            Showcase your success stories with professionally crafted case studies that build trust and highlight results.
                         </p>
-                        <a href="services-details.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
+                        <a href="https://www.itdgrowthlabs.com/services/case-study-writing-services.php" target="_blank" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
                     </div>
                 </div>
-                <!-- End Single Item -->
 
-                <!-- Single Item -->
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
-                        <i class="flaticon-planning"></i>
-                        <h4><a href="services-details.php">Social Media Management</a></h4>
-                        <p>
-                            Achieve better results with the <strong>social media management</strong> services, which focus on boosting engagement and brand visibility.
-                        </p>
-                        <a href="services-details.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
-                        <i class="flaticon-data-analysis-1"></i>
-                        <h4><a href="services-details.php">Search Ads</a></h4>
-                        <p>
-                            Maximize ROI with the tailored <strong>search ads</strong> services, delivering impactful campaigns that drive targeted traffic.
-                        </p>
-                        <a href="services-details.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
+                <!-- Product Descriptions -->
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
                         <i class="flaticon-startup-6"></i>
-                        <h4><a href="services-details.php">Graphics Design</a></h4>
+                        <h4><a href="https://www.itdgrowthlabs.com/services/product-description-writing-services.php" target="_blank">Product Descriptions</a></h4>
                         <p>
-                            Elevate your brand with the creative <strong>graphics design</strong> services, delivering eye-catching visuals that communicate effectively.
+                            Drive sales with persuasive product descriptions that highlight key features and benefits, optimized for search engines.
                         </p>
-                        <a href="services-details.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
+                        <a href="https://www.itdgrowthlabs.com/services/product-description-writing-services.php" target="_blank" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
                     </div>
                 </div>
-                <!-- End Single Item -->
+
+                <!-- Google Search Ads -->
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
+                        <i class="flaticon-data-analysis-1"></i>
+                        <h4><a href="https://www.itdgrowthlabs.com/services/google-search-ads-services.php" target="_blank">Google Search Ads</a></h4>
+                        <p>
+                            Maximize ROI with expertly managed Google Search Ads campaigns that target the right audience and drive conversions.
+                        </p>
+                        <a href="https://www.itdgrowthlabs.com/services/google-search-ads-services.php" target="_blank" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
+                    </div>
+                </div>
+
+                <!-- SEO Audit & Optimization -->
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
+                        <i class="flaticon-research-1"></i>
+                        <h4><a href="https://www.itdgrowthlabs.com/services/seo-auditing-services.php" target="_blank">SEO Audit & Optimization</a></h4>
+                        <p>
+                            Boost your website's performance with comprehensive SEO audits and tailored optimization strategies that deliver results.
+                        </p>
+                        <a href="https://www.itdgrowthlabs.com/services/seo-auditing-services.php" target="_blank" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
+                    </div>
+                </div>
+
+                <!-- Social Media Marketing -->
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
+                        <i class="flaticon-planning"></i>
+                        <h4><a href="https://www.itdgrowthlabs.com/services/social-media-marketing.php" target="_blank">Social Media Marketing</a></h4>
+                        <p>
+                            Drive engagement and grow your online presence with tailored social media marketing strategies that deliver tangible results.
+                        </p>
+                        <a href="https://www.itdgrowthlabs.com/services/social-media-marketing.php" target="_blank" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -280,7 +265,6 @@
                     </div>
                 </div>
                 <!-- End Single Item -->
-
                 <!-- Single Item -->
                 <div class="col-xl-3 col-lg-6 process-style-one">
                     <div class="item">
@@ -294,7 +278,6 @@
                     </div>
                 </div>
                 <!-- End Single Item -->
-
                 <!-- Single Item -->
                 <div class="col-xl-3 col-lg-6 process-style-one">
                     <div class="item">
@@ -486,7 +469,7 @@
                     <div class="contact-form-style-one">
                         <h4 class="sub-title">Have Questions?</h4>
                         <h2 class="title">Send us a Message</h2>
-                        <form action="assets/mail/contact.php" method="POST" class="contact-form contact-form">
+                        <form action="contactMail.php" method="POST" class="contact-form contact-form">
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="form-group">
@@ -534,113 +517,6 @@
         </div>
     </div>
     <!-- End Contact -->
-
-
-    <!-- Start Blog 
-    ============================================= -->
-    <!--div class="blog-area home-blog default-padding bg-gray bottom-less">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center">
-                        <h5 class="sub-title">News & Events</h5>
-                        <h2 class="title">Check out our blog posts </h2>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-            <div class="col-xl-4 col-md-6 mb-30">
-                    <div class="blog-style-one">
-                        <div class="relative">
-                            <div class="thumb">
-                                <a href="blog-single-with-sidebar.php"><img src="assets/img/800x600.png" alt="Image Not Found"></a>
-                            </div>
-                            <div class="tags">
-                                <a href="#">Marketing</a>
-                            </div>
-                        </div>
-                        <div class="info">
-                            <div class="meta">
-                                <ul>
-                                    <li>
-                                        <a href="#">Md Sohag</a>
-                                    </li>
-                                    <li>
-                                        25 April, 2023
-                                    </li>
-                                </ul>
-                            </div>
-                            <h3 class="post-title"><a href="blog-single-with-sidebar.php">Miscovery incommode earnestly commanded if.</a></h3>
-                            <a href="blog-single-with-sidebar.php" class="button-regular">
-                                Continue Reading <i class="fas fa-arrow-right"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-        <div class="col-xl-4 col-md-6 mb-30">
-                    <div class="blog-style-one">
-                        <div class="relative">
-                            <div class="thumb">
-                                <a href="blog-single-with-sidebar.php"><img src="assets/img/800x600.png" alt="Image Not Found"></a>
-                            </div>
-                            <div class="tags">
-                                <a href="#">Agency</a>
-                            </div>
-                        </div>
-                        <div class="info">
-                            <div class="meta">
-                                <ul>
-                                    <li>
-                                        <a href="#">Md Sohag</a>
-                                    </li>
-                                    <li>
-                                        25 April, 2023
-                                    </li>
-                                </ul>
-                            </div>
-                            <h3 class="post-title"><a href="blog-single-with-sidebar.php">Expression acceptance imprudence particular</a></h3>
-                            <a href="blog-single-with-sidebar.php" class="button-regular">
-                                Continue Reading <i class="fas fa-arrow-right"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-    <div class="col-xl-4 col-md-6 mb-30">
-                    <div class="blog-style-one">
-                        <div class="relative">
-                            <div class="thumb">
-                                <a href="blog-single-with-sidebar.php"><img src="assets/img/800x600.png" alt="Image Not Found"></a>
-                            </div>
-                            <div class="tags">
-                                <a href="#">Business</a>
-                            </div>
-                        </div>
-                        <div class="info">
-                            <div class="meta">
-                                <ul>
-                                    <li>
-                                        <a href="#">Md Sohag</a>
-                                    </li>
-                                    <li>
-                                        25 April, 2023
-                                    </li>
-                                </ul>
-                            </div>
-                            <h3 class="post-title"><a href="blog-single-with-sidebar.php">Considered imprudence of technical friendship.</a></h3>
-                            <a href="blog-single-with-sidebar.php" class="button-regular">
-                                Continue Reading <i class="fas fa-arrow-right"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <!- End Single Item -->
-    </div>
-    </div>
-    </div>
-    <!-- End Blog -->
-
 
     <?php include("./includes/footer.php") ?>
     <?php include("./includes/footer_script.php") ?>

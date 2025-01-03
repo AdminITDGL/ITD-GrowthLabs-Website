@@ -65,7 +65,7 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                     <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand" href="index.php">
+                <a class="navbar-brand" href="../index.php">
                     <img src="../assets/img/logo.png" class="logo" alt="Logo">
                 </a>
             </div>
@@ -861,7 +861,7 @@
     ============================================= -->
     <div class="contact-area overflow-hidden default-padding" style="background-image: url(assets/img/shape/map.png);">
         <div class="shape-right-bottom">
-            <img src="assets/img/shape/18.png" alt="Shape">
+            <img src="../assets/img/shape/18.png" alt="Shape">
         </div>
         <div class="container">
             <div class="row align-center">
@@ -964,7 +964,7 @@
                     <!-- Singel Item -->
                     <div class="col-lg-3 col-md-6 footer-item mt-50">
                         <div class="footer-animated-shape">
-                            <img src="assets/img/shape/6.png" alt="Image Not Found">
+                            <img src="../assets/img/shape/6.png" alt="Image Not Found">
                         </div>
                         <div class="f-item about pr-50 pr-xs-0 pr-md-0">
                            <div class="logo" style="font-size: 45px; font-weight: bold; color: #fff;">
@@ -993,11 +993,11 @@
                                     <a href="website-content-writing.php">Services</a>
                                 </li>
                                 <li>
-                                    <a href="about-us.php">About</a>
+                                    <a href="../coming-soon.php">About</a>
                                 </li>
                                 
                                 <li>
-                                    <a href="../contact-us.php">Career</a>
+                                    <a href="../coming-soon.php">Career</a>
                                 </li>
                               
                                 <li>
