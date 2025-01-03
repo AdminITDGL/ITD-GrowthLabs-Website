@@ -25,7 +25,6 @@
     <link href="../assets/css/helper.css" rel="stylesheet">
     <link href="../assets/css/unit-test.css" rel="stylesheet">
     <link href="../assets/css/style.css" rel="stylesheet">
-    <link href="style.css" rel="stylesheet">
     <!-- ========== End Stylesheet ========== -->
 </head>
 
