@@ -856,10 +856,6 @@
                                     </button>
                                 </div>
                             </div>
-                            <!-- Alert Message -->
-                            <div class="col-lg-12 alert-notification">
-                                <div id="message" class="alert-msg"></div>
-                            </div>
                         </form>
                     </div>
                 </div>

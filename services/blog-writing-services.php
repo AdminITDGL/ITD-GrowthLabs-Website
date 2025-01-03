@@ -892,7 +892,7 @@
                     <div class="contact-form-style-one">
                         <h4 class="sub-title">Have Questions?</h4>
                         <h2 class="title">Send us a Message</h2>
-                        <form action="../contactMail.php" method="POST" class="contact-form contact-form">
+                        <form action="../contactMail.php" method="POST" class="contact-form">
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="form-group">
@@ -933,10 +933,6 @@
                                         <i class="fa fa-paper-plane"></i> Get in Touch
                                     </button>
                                 </div>
-                            </div>
-                            <!-- Alert Message -->
-                            <div class="col-lg-12 alert-notification">
-                                <div id="message" class="alert-msg"></div>
                             </div>
                         </form>
                     </div>

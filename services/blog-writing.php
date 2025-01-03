@@ -931,14 +931,10 @@
                             </div>
                             <div class="row">
                                 <div class="col-lg-12">
-                                    <button type="submit" name="submit" id="submit">
+                                    <button type="submit" name="submit">
                                         <i class="fa fa-paper-plane"></i> Get in Touch
                                     </button>
                                 </div>
-                            </div>
-                            <!-- Alert Message -->
-                            <div class="col-lg-12 alert-notification">
-                                <div id="message" class="alert-msg"></div>
                             </div>
                         </form>
                     </div>
@@ -950,7 +946,7 @@
 
     <!-- Start Footer 
     ============================================= -->
-    <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
+    <footer class="bg-dark text-light" style="background-image: url(../assets/img/shape/5.png);">
         
         <div class="container">
             <div class="f-items default-padding-bottom pt-70 pt-xs-0">
