@@ -847,9 +847,9 @@
 
     <!-- Start Contact Us 
     ============================================= -->
-    <div class="contact-area overflow-hidden default-padding" style="background-image: url(../assets/img/shape/map.png);">
+    <div class="contact-area overflow-hidden default-padding" style="background-image: url(assets/img/shape/map.png);">
         <div class="shape-right-bottom">
-            <img src="../assets/img/shape/18.png" alt="Shape">
+            <img src="assets/img/shape/18.png" alt="Shape">
         </div>
         <div class="container">
             <div class="row align-center">
@@ -864,7 +864,7 @@
                                 <div class="content">
                                     <h4 class="title">Location</h4>
                                     <p>
-                                        Gundecha Onclave, Powai, Mumbai, Maharashtra 400072
+                                        Gundecha Onclave, Ansa Industrial Estate, Chandivali, Powai, Mumbai, Maharashtra 400072
                                     </p>
                                 </div>
                             </li>
@@ -893,7 +893,7 @@
                     <div class="contact-form-style-one">
                         <h4 class="sub-title">Have Questions?</h4>
                         <h2 class="title">Send us a Message</h2>
-                        <form action="assets/mail/contact.php" method="POST" class="contact-form contact-form">
+                        <form action="contactMail.php" method="POST" class="contact-form contact-form">
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="form-group">
@@ -921,6 +921,11 @@
                                     <div class="form-group comments">
                                         <textarea class="form-control" id="comments" name="comments" placeholder="Tell Us About Your Project *"></textarea>
                                     </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-12 col-md-12">
+                                <div class="form-group">
+                                    <div class="g-recaptcha" data-sitekey="6Lez7pMqAAAAAEW9ugHXssmeVZdvo2jSYXMH98FB"></div>
                                 </div>
                             </div>
                             <div class="row">
@@ -1019,23 +1024,6 @@
                     </div>
                     <!-- End Singel Item -->
 
-                    <!-- Singel Item -->
-                    <!--div class="col-lg-3 col-md-6 footer-item mt-50">
-                        <div class="f-item newsletter">
-                            <h4 class="widget-title">Newsletter</h4>
-                            <p>
-                                Join our subscribers list to get the instant latest news and special offers.
-                            </p>
-                            <form action="#">
-                                <input type="email" placeholder="Your Email" class="form-control" name="email">
-                                <button type="submit"><i class="fas fa-arrow-right"></i></button>  
-                            </form>
-                        </div>
-                    </div>
-                    <!-- End Singel Item -->
-
-
-
                 </div>
             </div>
         </div>
@@ -1077,7 +1065,7 @@
     <script src="../assets/js/TweenMax.min.js"></script>
     <script src="../assets/js/validnavs.js"></script>
     <script src="../assets/js/main.js"></script>
-
+    <script type="text/javascript" src='https://www.google.com/recaptcha/api.js' async defer></script>
 </body>
 
 </html>

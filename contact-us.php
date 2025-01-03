@@ -12,23 +12,23 @@
     <title>Contact Us | GrowthLabs Digital Marketing Company</title>
 
     <!-- ========== Favicon Icon ========== -->
-<?php include("./includes/header_script.php")?>
+    <?php include("./includes/header_script.php") ?>
 
 </head>
 
 <body>
 
     <!-- Preloader Start -->
-    <div class="se-pre-con"></div>
+    <!-- <div class="se-pre-con"></div> -->
     <!-- Preloader Ends -->
 
     <!-- Header 
     ============================================= -->
-    <?php include("./includes/header.php")?>
+    <?php include("./includes/header.php") ?>
     <!-- End Header -->
 
 
-     <!-- Start Breadcrumb 
+    <!-- Start Breadcrumb 
     ============================================= -->
     <div class="breadcrumb-area bg-gray bg-cover" style="background-image: url(assets/img/shape/banner-3.jpg);">
         <div class="container">
@@ -60,7 +60,7 @@
         </div>
         <div class="container">
             <div class="row align-center">
-                
+
                 <div class="col-tact-stye-one col-lg-6">
                     <div class="contact-form-style-one">
                         <form action="contactMail.php" method="POST" class="contact-form2">
@@ -118,21 +118,15 @@
                         <div class="mb-40">
                             <h2>Contact Information</h2>
                             <p>
-                               We are here to help your business grow with our digital marketing expertise <br> Whether you have a project in mind or need guidance, we're here to assist you!
+                                We are here to help your business grow with our digital marketing expertise <br> Whether you have a project in mind or need guidance, we're here to assist you!
                             </p>
                         </div>
                         <ul class="contact-address">
-                            <!--li class="wow fadeInUp">
-                                <div class="content">
-                                    <h4 class="title">Phone</h4>
-                                    <a href="">+4733378901</a>
-                                </div>
-                            </li-->
                             <li class="wow fadeInUp" data-wow-delay="300ms">
                                 <div class="info">
                                     <h4 class="title">Location</h4>
                                     <p>
-                                       
+
                                         Gundecha Onclave, Mumbai, Maharashtra 400072
                                     </p>
                                 </div>
@@ -143,33 +137,15 @@
                                     <a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs</a>
                                 </div>
                             </li>
-                            <!--li class="wow fadeInUp" data-wow-delay="700ms">
-                                <div class="info">
-                                    <h4 class="title">Follow Us</h4>
-                                    <ul class="social-link">
-                                        <li>
-                                            <a class="facebook" href="#" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                        </li>
-                                        <li>
-                                            <a class="twitter" href="#" target="_blank"><i class="fab fa-twitter"></i></a>
-                                        </li>
-                                        <li>
-                                            <a class="pinterest" href="#" target="_blank"><i class="fab fa-pinterest-p"></i></a>
-                                        </li>
-                                        <li>
-                                            <a class="linkedin" href="#" target="_blank"><i class="fab fa-linkedin-in"></i></a>
-                                        </li-->
-                                    </ul>
-                                </div>
-                            </li>
                         </ul>
                     </div>
+                    </li>
+                    </ul>
                 </div>
-
             </div>
         </div>
     </div>
     <!-- End Contact -->
 
-<?php include("./includes/footer.php")?>
-<?php include("./includes/footer_script.php")?>
+    <?php include("./includes/footer.php") ?>
+    <?php include("./includes/footer_script.php") ?>

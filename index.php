@@ -6,10 +6,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Dilabs - Creative Digital Agency Template">
+    <meta name="description" content="We are a digital marketing agency in Andheri, Mumba, we deliver accelerated, sustainable growth for brands globally with our comprehensive digital services.">
+    <meta name="keywords" content="Digital Marketing Company, Digital Marketing Services, Content Writing Services, SEO Content Writing Services, Best Content Writing, Online Marketing Agency, Digital Strategy Services, Content Marketing Agency, Digital Advertising Services, Expert Content Writing Services.">
 
     <!-- ========== Page Title ========== -->
-    <title>Contact Us | GrowthLabs Digital Marketing Company</title>
+    <title>GrowthLabs: Best Digital Marketing Agency &amp; Company | Digital Marketing Services </title>
 
     <!-- ========== Favicon Icon ========== -->
     <?php include("./includes/header_script.php") ?>
@@ -19,7 +20,7 @@
 <body>
 
     <!-- Preloader Start -->
-    <div class="se-pre-con"></div>
+    <!-- <div class="se-pre-con"></div> -->
     <!-- Preloader Ends -->
 
     <!-- Header 
@@ -48,7 +49,7 @@
                                                 We fuel growth with digital marketing, content, and tech solutions that bring businesses to life.
                                             </p>
                                             <div class="button">
-                                                <a class="btn btn-theme btn-md animation" href="contact-us.html">Let's Talk</a>
+                                                <a class="btn btn-theme btn-md animation" href="contact-us.php">Let's Talk</a>
                                             </div>
                                 </div>
                             </div>
@@ -73,7 +74,7 @@
                                         We create tailored digital strategies that align with your business goals, delivering results that make a lasting impact in your industry.
                                     </p>
                                     <div class="button">
-                                        <a class="btn btn-theme btn-md animation" href="contact-us.html">Let's Talk</a>
+                                        <a class="btn btn-theme btn-md animation" href="contact-us.php">Let's Talk</a>
                                     </div>
 
                                 </div>
@@ -497,6 +498,11 @@
                                     <div class="form-group comments">
                                         <textarea class="form-control" id="comments" name="comments" placeholder="Tell Us About Your Project *"></textarea>
                                     </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-12 col-md-12">
+                                <div class="form-group">
+                                    <div class="g-recaptcha" data-sitekey="6Lez7pMqAAAAAEW9ugHXssmeVZdvo2jSYXMH98FB"></div>
                                 </div>
                             </div>
                             <div class="row">

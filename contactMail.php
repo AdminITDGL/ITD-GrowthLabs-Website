@@ -83,7 +83,9 @@ if (isset($_POST)) {
     $mail->setFrom($email_id, $subject);
     $mail->addAddress("$email");
     $mail->addAddress("info@itdgrowthlabs.com");
-    // $mail->addBCC("suraj@itdservices.in");
+    $mail->addBCC("ashish@itdservices.in");
+    $mail->addBCC("loy@itdservices.in");
+    $mail->addBCC("suraj@itdservices.in");
     $mail->isHTML(true);
     $mail->Subject = $subject;
     $mail->Body = $body;
