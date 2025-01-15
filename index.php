@@ -8,7 +8,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="We are a digital marketing agency in Andheri, Mumba, we deliver accelerated, sustainable growth for brands globally with our comprehensive digital services.">
     <meta name="keywords" content="Digital Marketing Company, Digital Marketing Services, Content Writing Services, SEO Content Writing Services, Best Content Writing, Online Marketing Agency, Digital Strategy Services, Content Marketing Agency, Digital Advertising Services, Expert Content Writing Services.">
-
+    <!-- ========== Favicon Icon ========== -->
+    <link rel="shortcut icon" href="./assets/img/favicon.png" type="image/x-icon">
     <!-- ========== Page Title ========== -->
     <title>GrowthLabs: Best Digital Marketing Agency &amp; Company | Digital Marketing Services </title>
 
@@ -526,3 +527,4 @@
 
     <?php include("./includes/footer.php") ?>
     <?php include("./includes/footer_script.php") ?>
+
