@@ -880,49 +880,53 @@
                         <div class="contact-form-style-one">
                             <h4 class="sub-title">Have Questions?</h4>
                             <h2 class="title">Send us a Message</h2>
-                            <form action="../contactMail.php" method="POST" class="contact-form contact-form">
-                                <div class="row">
-                                    <div class="col-lg-12">
-                                        <div class="form-group">
-                                            <input class="form-control" id="name" name="name" placeholder="Name" type="text">
-                                            <span class="alert-error"></span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-lg-6">
-                                        <div class="form-group">
-                                            <input class="form-control" id="email" name="email" placeholder="Email*" type="email">
-                                            <span class="alert-error"></span>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6">
-                                        <div class="form-group">
-                                            <input class="form-control" id="company" name="company" placeholder="Company Name" type="text">
-                                            <span class="alert-error"></span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-lg-12">
-                                        <div class="form-group comments">
-                                            <textarea class="form-control" id="comments" name="comments" placeholder="Tell Us About Your Project *"></textarea>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-12 col-md-12">
+                            <form action="contactMail.php" method="POST" class="contact-form2">
+                            <div class="row">
+                                <div class="col-lg-12">
                                     <div class="form-group">
-                                        <div class="g-recaptcha" data-sitekey="6Lez7pMqAAAAAEW9ugHXssmeVZdvo2jSYXMH98FB"></div>
+                                        <input class="form-control" id="name" name="name" placeholder="Name" type="text">
+                                        <span class="alert-error"></span>
                                     </div>
                                 </div>
-                                <div class="row">
-                                    <div class="col-lg-12">
-                                        <button type="submit" name="submit" id="submit">
-                                            <i class="fa fa-paper-plane"></i> Get in Touch
-                                        </button>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="form-group">
+                                        <input class="form-control" id="email" name="email" placeholder="Email*" type="email">
+                                        <span class="alert-error"></span>
                                     </div>
                                 </div>
-                            </form>
+                                <div class="col-lg-6">
+                                    <div class="form-group">
+                                        <input class="form-control" id="phone" name="phone" placeholder="Phone" type="text">
+                                        <span class="alert-error"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="form-group comments">
+                                        <textarea class="form-control" id="message" name="message_msg" placeholder="Tell Us About Project *"></textarea>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-12 col-md-12">
+                                <div class="form-group">
+                                    <div class="g-recaptcha" data-sitekey="6Lez7pMqAAAAAEW9ugHXssmeVZdvo2jSYXMH98FB"></div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <button type="submit" name="submit" id="submit">
+                                        <i class="fa fa-paper-plane"></i> Get in Touch
+                                    </button>
+                                </div>
+                            </div>
+                            <!-- Alert Message -->
+                            <div class="col-lg-12 alert-notification">
+                                <div id="message" class="alert-msg"></div>
+                            </div>
+                        </form>
                         </div>
                     </div>
                 </div>
