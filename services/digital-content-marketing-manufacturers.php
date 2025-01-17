@@ -867,7 +867,7 @@
                     <div class="contact-form-style-one">
                         <h4 class="sub-title">Have Questions?</h4>
                         <h2 class="title">Send us a Message</h2>
-                        <form action="assets/mail/contact.php" method="POST" class="contact-form contact-form">
+                        <form action="contactMail.php" method="POST" class="contact-form2">
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="form-group">
@@ -885,7 +885,7 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="form-group">
-                                        <input class="form-control" id="company" name="company" placeholder="Company Name" type="text">
+                                        <input class="form-control" id="phone" name="phone" placeholder="Phone" type="text">
                                         <span class="alert-error"></span>
                                     </div>
                                 </div>
@@ -893,8 +893,13 @@
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="form-group comments">
-                                        <textarea class="form-control" id="comments" name="comments" placeholder="Tell Us About Your Project *"></textarea>
+                                        <textarea class="form-control" id="subject" name="subject" placeholder="Tell Us About Project *" type="text"></textarea>
                                     </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-12 col-md-12">
+                                <div class="form-group">
+                                    <div class="g-recaptcha" data-sitekey="6Lez7pMqAAAAAEW9ugHXssmeVZdvo2jSYXMH98FB"></div>
                                 </div>
                             </div>
                             <div class="row">

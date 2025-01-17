@@ -72,7 +72,7 @@ if (isset($_POST)) {
     $mail->Body = $body;
     $mail->AltBody = "";
 
-    $secretKey = "6LeZC2EqAAAAAA867-vlc6dVZlz4LefMFo67blZ7";
+    $secretKey = "6Lez7pMqAAAAAAp8c0AZUQqbYAqv8mAVaHMSYieK";
     $response = $_POST['g-recaptcha-response'];
 
     $url = 'https://www.google.com/recaptcha/api/siteverify?secret=' . $secretKey . '&response=' . $response;

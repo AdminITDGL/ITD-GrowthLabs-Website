@@ -933,7 +933,7 @@
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="form-group comments">
-                                        <textarea class="form-control" id="message" name="message_msg" placeholder="Tell Us About Project *"></textarea>
+                                        <textarea class="form-control" id="subject" name="subject" placeholder="Tell Us About Project *" type="text"></textarea>
                                     </div>
                                 </div>
                             </div>
