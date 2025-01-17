@@ -69,6 +69,8 @@
                                                    <li><a href="services/blog-writing-services.php">Blog Writing</a></li>
                                                    <li><a href="services/case-study-writing-services.php">Case Study Writing</a></li>
                                                    <li><a href="services/product-description-writing-services.php">Product Description</a></li>
+                                                   <li><a href="services/logistics-content-marketing.php">Logistics Content Marketing</a></li>
+                                                   <li><a href="services/digital-content-marketing-manufacturers.php">Digital Content Marketing Manufacturers</a></li>
 
                                                </ul>
                                            </div>
@@ -83,6 +85,8 @@
                                                    <li><a href="services/seo-auditing-services.php">SEO Audit and Optimization</a></li>
                                                    <li><a href="services/social-media-marketing.php">Social Media Marketing</a></li>
                                                    <li><a href="services/google-search-ads-services.php">Google Search Ads</a></li>
+                                                   <li><a href="services/technical-writing-services.php">Technical Writing Services</a></li>
+                                                   <li><a href="services/ecommerce-content-services.php">Ecommerce Content Services</a></li>
                                                </ul>
                                            </div>
                                        </div>

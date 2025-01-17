@@ -29,27 +29,8 @@ if (isset($_POST)) {
     $name = trim($_POST['name']);
     $email = trim($_POST['email']);
     $mobile = trim($_POST['phone']);
-    // $msg_subject = trim($_POST['subject']);
-    $messages = trim($_POST['message']);
-    $msg_list = explode(' ', strtolower($messages));
-
-    $bad_words = array('porrn', 'free', 'hd', 'brazzers', 'girl', 'hot', 'baby', 'boobs', 'boob', 'sussex', 'sexy', 'fucked', 'fucking', 'fuck', 'sites', 'site', 'xx', 'xxx', 'pornvideo', 'pornvideos', 'porn', 'porno', 'sex', 'sexcam', 'sexo', 'sexual', 'sexuality', 'sexually', 'sexy', 'video', 'videos', 'venice', 'sexvideo', 'sexvideos', 'dargs');
-    for ($i = 0; $i < count($msg_list); ++$i) {
-        $word = $msg_list[$i];
-        $chk_word = strtolower($msg_list[$i]);
-        for ($j = 0; $j < count($bad_words); ++$j) {
-            $bad_word = $bad_words[$j];
-            if (strpos($chk_word, $bad_word) !== false) {
-                $f_char = substr($word, 0, 1);
-                $length = strlen($word);
-                $index = $length - 1;
-                $l_char =  substr($word, $index, 1);
-                $msg_list[$i] = '***';
-            }
-        }
-    }
-  
-    $message = implode(' ', $msg_list);
+    $msg_subject = trim($_POST['subject']);
+    // $message = trim($_POST['message']);
 
     $subject = "ITD GROWTHLABS ENQUIRY";
     $body = "<table bgcolor='#fafafa' style=' width: 100%!important; height: 100%; background-color: #fafafa; padding: 20px; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, 'Lucida Grande', sans-serif;  font-size: 100%; line-height: 1.6;'>
@@ -63,7 +44,7 @@ if (isset($_POST)) {
     <p style='margin-bottom: 10px; font-weight: normal; font-size:16px; color: #333333;'>Name : $name</p>
     <h2 style='font-weight: 200; font-size: 16px; margin: 20px 0; color: #333333;'> Email ID : $email </h2>
     <h2 style='font-weight: 200; font-size: 16px; margin: 20px 0; color: #333333;'> Mobile No. : $mobile </h2>
-    <h2 style='font-weight: 200; font-size: 16px; margin: 20px 0; color: #333333;'> Message : $messages </h2>
+    <h2 style='font-weight: 200; font-size: 16px; margin: 20px 0; color: #333333;'> Message : $msg_subject </h2>
     </tr>
     </table>
     </div></td>
@@ -91,7 +72,7 @@ if (isset($_POST)) {
     $mail->Body = $body;
     $mail->AltBody = "";
 
-    $secretKey = "6Lez7pMqAAAAAAp8c0AZUQqbYAqv8mAVaHMSYieK";
+    $secretKey = "6LeZC2EqAAAAAA867-vlc6dVZlz4LefMFo67blZ7";
     $response = $_POST['g-recaptcha-response'];
 
     $url = 'https://www.google.com/recaptcha/api/siteverify?secret=' . $secretKey . '&response=' . $response;
