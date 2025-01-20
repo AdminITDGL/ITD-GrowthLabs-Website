@@ -136,6 +136,10 @@
                                                     <li><a href="../coming-soon.php">Manufacturing</a></li>
                                                     <li><a href="../coming-soon.php">Technology</a></li>
                                                     <li><a href="../coming-soon.php">E-commerce</a></li>
+                                                    <li><a href="services/technical-writing-services.php">Technical Writing Services</a></li>
+                                                   <li><a href="services/ecommerce-content-services.php">Ecommerce Content Services</a></li>
+                                                   <li><a href="services/logistics-content-marketing.php">Logistics Content Marketing</a></li>
+                                                   <li><a href="services/digital-content-marketing-manufacturers.php">Digital Content Marketing Manufacturers</a></li>
                                                 </ul>
                                             </div>
                                         </div>
