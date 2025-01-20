@@ -77,7 +77,7 @@
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                         <i class="fa fa-bars"></i>
                     </button>
-                    <a class="navbar-brand" href="index.html">
+                    <a class="navbar-brand" href="index.php">
                         <img src="../assets/img/logo.png" class="logo" alt="Logo">
                     </a>
                 </div>
@@ -93,20 +93,20 @@
 
                     <ul class="nav navbar-nav navbar-center" data-in="fadeInDown" data-out="fadeOutUp">
                         <li class="dropdown">
-                            <a href="website-development-company.html">Website Design & Development</a>
+                            <a href="website-development-company.php">Website Design & Development</a>
                             <!--ul class="dropdown-menu">
-                            <li><a href="blog-standard.html">Blog Standard</a></li>
-                            <li><a href="blog-with-sidebar.html">Blog With Sidebar</a></li>
-                            <li><a href="blog-2-colum.html">Blog Grid Two Colum</a></li>
-                            <li><a href="blog-3-colum.html">Blog Grid Three Colum</a></li>
-                            <li><a href="blog-single.html">Blog Single</a></li>
-                            <li><a href="blog-single-with-sidebar.html">Blog Single With Sidebar</a></li>
+                            <li><a href="blog-standard.php">Blog Standard</a></li>
+                            <li><a href="blog-with-sidebar.php">Blog With Sidebar</a></li>
+                            <li><a href="blog-2-colum.php">Blog Grid Two Colum</a></li>
+                            <li><a href="blog-3-colum.php">Blog Grid Three Colum</a></li>
+                            <li><a href="blog-single.php">Blog Single</a></li>
+                            <li><a href="blog-single-with-sidebar.php">Blog Single With Sidebar</a></li>
                         </ul-->
                         </li>
                         <li class="dropdown">
 
                         <li class="dropdown megamenu-fw">
-                            <a href="website-content-writing.html" class="dropdown-toggle" data-toggle="dropdown">Content Services</a>
+                            <a href="website-content-writing.php" class="dropdown-toggle" data-toggle="dropdown">Content Services</a>
                             <ul class="dropdown-menu megamenu-content" role="menu">
                                 <li>
                                     <div class="row">
@@ -117,11 +117,11 @@
                                             <h6 class="title">SEO & Content Writing</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="website-content-writing.html">Website Content Writing</a></li>
-                                                    <li><a href="seo-article-writing.html">SEO Article Writing</a></li>
-                                                    <li><a href="blog-writing-services.html">Blog Writing</a></li>
-                                                    <li><a href="case-study-writing-services.html">Case Study Writing</a></li>
-                                                    <li><a href="product-description-writing-services.html">Product Description</a></li>
+                                                    <li><a href="website-content-writing.php">Website Content Writing</a></li>
+                                                    <li><a href="seo-article-writing.php">SEO Article Writing</a></li>
+                                                    <li><a href="blog-writing-services.php">Blog Writing</a></li>
+                                                    <li><a href="case-study-writing-services.php">Case Study Writing</a></li>
+                                                    <li><a href="product-description-writing-services.php">Product Description</a></li>
 
                                                 </ul>
                                             </div>
@@ -132,10 +132,10 @@
                                             <h6 class="title">End-to-End Services</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="content-marketing-services.html">Content Marketing Services</a></li>
-                                                    <li><a href="seo-auditing-services.html">SEO Audit and Optimization</a></li>
-                                                    <li><a href="social-media-marketing.html">Social Media Marketing</a></li>
-                                                    <li><a href="google-search-ads-services.html">Google Search Ads</a></li>
+                                                    <li><a href="content-marketing-services.php">Content Marketing Services</a></li>
+                                                    <li><a href="seo-auditing-services.php">SEO Audit and Optimization</a></li>
+                                                    <li><a href="social-media-marketing.php">Social Media Marketing</a></li>
+                                                    <li><a href="google-search-ads-services.php">Google Search Ads</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -161,17 +161,17 @@
 
                         </li>
                         <li class="dropdown">
-                            <a href="coming-soon.html" class="dropdown-toggle" data-toggle="dropdown">Resources</a>
+                            <a href="coming-soon.php" class="dropdown-toggle" data-toggle="dropdown">Resources</a>
                             <!--ul class="dropdown-menu">
-                            <li><a href="blog-standard.html">Blog Standard</a></li>
-                            <li><a href="blog-with-sidebar.html">Blog With Sidebar</a></li>
-                            <li><a href="blog-2-colum.html">Blog Grid Two Colum</a></li>
-                            <li><a href="blog-3-colum.html">Blog Grid Three Colum</a></li>
-                            <li><a href="blog-single.html">Blog Single</a></li>
-                            <li><a href="blog-single-with-sidebar.html">Blog Single With Sidebar</a></li>
+                            <li><a href="blog-standard.php">Blog Standard</a></li>
+                            <li><a href="blog-with-sidebar.php">Blog With Sidebar</a></li>
+                            <li><a href="blog-2-colum.php">Blog Grid Two Colum</a></li>
+                            <li><a href="blog-3-colum.php">Blog Grid Three Colum</a></li>
+                            <li><a href="blog-single.php">Blog Single</a></li>
+                            <li><a href="blog-single-with-sidebar.php">Blog Single With Sidebar</a></li>
                         </ul-->
                         </li>
-                        <li><a href="contact-us.html">Contact</a></li>
+                        <li><a href="contact-us.php">Contact</a></li>
                     </ul>
                 </div><!-- /.navbar-collapse -->
 
@@ -277,7 +277,7 @@
                                     <li>Engaging content strategies to position your tech brand as an industry leader</li>
                                 </ul>
                                 <div class="button" style="margin-top: 20px;">
-                                    <a class="btn btn-theme btn-md animation" href="contact-us.html">Start Elevating Your Brand</a>
+                                    <a class="btn btn-theme btn-md animation" href="contact-us.php">Start Elevating Your Brand</a>
                                 </div>
                             </div>
                         </div>
@@ -926,18 +926,18 @@
                             <h4 class="widget-title">Company</h4>
                             <ul>
                                 <li>
-                                    <a href="website-content-writing.html">Services</a>
+                                    <a href="website-content-writing.php">Services</a>
                                 </li>
                                 <li>
-                                    <a href="about-us.html">About</a>
-                                </li>
-
-                                <li>
-                                    <a href="contact-us.html">Career</a>
+                                    <a href="about-us.php">About</a>
                                 </li>
 
                                 <li>
-                                    <a href="contact-us.html">Contact</a>
+                                    <a href="contact-us.php">Career</a>
+                                </li>
+
+                                <li>
+                                    <a href="contact-us.php">Contact</a>
                                 </li>
                             </ul>
                         </div>
