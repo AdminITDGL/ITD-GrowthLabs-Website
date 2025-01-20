@@ -125,11 +125,11 @@
                                         <div class="col-menu col-lg-4">
                                             <h6 class="title">Industries We Serve</h6>
                                             <div class="content">
-                                                <ul class="menu-col">
-                                                    <li><a href="services/logistics-content-marketing.php">Logistics</a></li>
-                                                    <li><a href="services/digital-content-marketing-manufacturers.php">Manufacturing</a></li>
-                                                    <li><a href="services/technical-writing-services.php">Technology</a></li>
-                                                    <li><a href="services/ecommerce-content-services.php">E-commerce</a></li>
+                                            <ul class="menu-col">
+                                                    <li><a href="logistics-content-marketing.php">Logistics</a></li>
+                                                    <li><a href="digital-content-marketing-manufacturers.php">Manufacturing</a></li>
+                                                    <li><a href="technical-writing-services.php">Technology</a></li>
+                                                    <li><a href="ecommerce-content-services.php">E-commerce</a></li>
                                                 </ul>
                                             </div>
                                         </div>
