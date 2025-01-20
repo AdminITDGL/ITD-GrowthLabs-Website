@@ -123,14 +123,10 @@
                                             <h6 class="title">Industries We Serve</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../coming-soon.php">Logistics</a></li>
-                                                    <li><a href="../coming-soon.php">Manufacturing</a></li>
-                                                    <li><a href="../coming-soon.php">Technology</a></li>
-                                                    <li><a href="../coming-soon.php">E-commerce</a></li>
-                                                    <li><a href="services/technical-writing-services.php">Technical Writing Services</a></li>
-                                                   <li><a href="services/ecommerce-content-services.php">Ecommerce Content Services</a></li>
-                                                   <li><a href="services/logistics-content-marketing.php">Logistics Content Marketing</a></li>
-                                                   <li><a href="services/digital-content-marketing-manufacturers.php">Digital Content Marketing Manufacturers</a></li>
+                                                    <li><a href="services/logistics-content-marketing.php">Logistics</a></li>
+                                                    <li><a href="services/digital-content-marketing-manufacturers.php">Manufacturing</a></li>
+                                                    <li><a href="services/technical-writing-services.php">Technology</a></li>
+                                                    <li><a href="services/ecommerce-content-services.php">E-commerce</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -885,52 +881,52 @@
                             <h4 class="sub-title">Have Questions?</h4>
                             <h2 class="title">Send us a Message</h2>
                             <form action="contactMail.php" method="POST" class="contact-form2">
-                            <div class="row">
-                                <div class="col-lg-12">
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <div class="form-group">
+                                            <input class="form-control" id="name" name="name" placeholder="Name" type="text">
+                                            <span class="alert-error"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-lg-6">
+                                        <div class="form-group">
+                                            <input class="form-control" id="email" name="email" placeholder="Email*" type="email">
+                                            <span class="alert-error"></span>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <div class="form-group">
+                                            <input class="form-control" id="phone" name="phone" placeholder="Phone" type="text">
+                                            <span class="alert-error"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <div class="form-group comments">
+                                            <textarea class="form-control" id="subject" name="subject" placeholder="Tell Us About Project *" type="text"></textarea>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-12 col-md-12">
                                     <div class="form-group">
-                                        <input class="form-control" id="name" name="name" placeholder="Name" type="text">
-                                        <span class="alert-error"></span>
+                                        <div class="g-recaptcha" data-sitekey="6Lez7pMqAAAAAEW9ugHXssmeVZdvo2jSYXMH98FB"></div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-6">
-                                    <div class="form-group">
-                                        <input class="form-control" id="email" name="email" placeholder="Email*" type="email">
-                                        <span class="alert-error"></span>
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <button type="submit" name="submit" id="submit">
+                                            <i class="fa fa-paper-plane"></i> Get in Touch
+                                        </button>
                                     </div>
                                 </div>
-                                <div class="col-lg-6">
-                                    <div class="form-group">
-                                        <input class="form-control" id="phone" name="phone" placeholder="Phone" type="text">
-                                        <span class="alert-error"></span>
-                                    </div>
+                                <!-- Alert Message -->
+                                <div class="col-lg-12 alert-notification">
+                                    <div id="message" class="alert-msg"></div>
                                 </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <div class="form-group comments">
-                                        <textarea class="form-control" id="subject" name="subject" placeholder="Tell Us About Project *" type="text"></textarea>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-12 col-md-12">
-                                <div class="form-group">
-                                    <div class="g-recaptcha" data-sitekey="6Lez7pMqAAAAAEW9ugHXssmeVZdvo2jSYXMH98FB"></div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <button type="submit" name="submit" id="submit">
-                                        <i class="fa fa-paper-plane"></i> Get in Touch
-                                    </button>
-                                </div>
-                            </div>
-                            <!-- Alert Message -->
-                            <div class="col-lg-12 alert-notification">
-                                <div id="message" class="alert-msg"></div>
-                            </div>
-                        </form>
+                            </form>
                         </div>
                     </div>
                 </div>
