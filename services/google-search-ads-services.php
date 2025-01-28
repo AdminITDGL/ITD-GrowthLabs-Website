@@ -258,7 +258,7 @@
                                     <li>Google Ads experts with years of experience in creating successful ad campaigns</li>
                                 </ul>
                                 <div class="button" style="margin-top: 20px;">
-                                    <a class="btn btn-theme btn-md animation" href="../contact-us.php">Get Started with Google Ads</a>
+                                    <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min">Let's Talk</a>
                                 </div>
                             </div>
                         </div>

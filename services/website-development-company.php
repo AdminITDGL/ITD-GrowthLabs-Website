@@ -261,7 +261,7 @@
                                     <li>A dedicated team of designers, developers, & SEO experts</li>
                                 </ul>
                                 <div class="button" style="margin-top: 20px;">
-                                    <a class="btn btn-theme btn-md animation" href="../contact-us.php">Let's Talk</a>
+                                    <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min">Let's Talk</a>
                                 </div>
                             </div>
                         </div>

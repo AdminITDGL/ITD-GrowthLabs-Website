@@ -253,7 +253,7 @@
                                     <li>Experienced product description writers delivering high-quality, persuasive content</li>
                                 </ul>
                                 <div class="button" style="margin-top: 20px;">
-                                    <a class="btn btn-theme btn-md animation" href="../contact-us.php">Get Started Today</a>
+                                    <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min">Let's Talk</a>
                                 </div>
                             </div>
                         </div>

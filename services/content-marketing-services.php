@@ -262,7 +262,7 @@
                                     <li>Experienced content writers committed to delivering top-quality articles and <strong>case study writing services</strong></li>
                                 </ul>
                                 <div class="button" style="margin-top: 20px;">
-                                    <a class="btn btn-theme btn-md animation" href="../contact-us.php">Get Started Today</a>
+                                    <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min">Let's Talk</a>
                                 </div>
                             </div>
                         </div>

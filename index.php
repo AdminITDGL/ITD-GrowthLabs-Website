@@ -50,7 +50,7 @@
                                                 We fuel growth with digital marketing, content, and tech solutions that bring businesses to life.
                                             </p>
                                             <div class="button">
-                                                <a class="btn btn-theme btn-md animation" href="contact-us.php">Let's Talk</a>
+                                                <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min">Let's Talk</a>
                                             </div>
                                 </div>
                             </div>
@@ -75,7 +75,7 @@
                                         We create tailored digital strategies that align with your business goals, delivering results that make a lasting impact in your industry.
                                     </p>
                                     <div class="button">
-                                        <a class="btn btn-theme btn-md animation" href="contact-us.php">Let's Talk</a>
+                                        <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min">Let's Talk</a>
                                     </div>
 
                                 </div>
