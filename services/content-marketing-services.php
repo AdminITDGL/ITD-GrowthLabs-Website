@@ -128,7 +128,7 @@
                                         <div class="col-menu col-lg-4">
                                             <h6 class="title">Industries We Serve</h6>
                                             <div class="content">
-                                            <ul class="menu-col">
+                                                <ul class="menu-col">
                                                     <li><a href="logistics-content-marketing.php">Logistics</a></li>
                                                     <li><a href="digital-content-marketing-manufacturers.php">Manufacturing</a></li>
                                                     <li><a href="technical-writing-services.php">Technology</a></li>
@@ -352,7 +352,14 @@
         </div>
     </div>
     <!-- End Service Range -->
+    <!-- Calendly inline widget begin -->
 
+    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+
+    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+
+
+    <!-- Calendly inline widget end -->
 
     <!-- Start Why Choose Us 
     ============================================= -->
@@ -754,7 +761,14 @@
     </div>
     <!-- End Content Marketing Services -->
 
+    <!-- Calendly inline widget begin -->
 
+    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+
+    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+
+
+    <!-- Calendly inline widget end -->
     <!-- Start Content Marketing Process
     ============================================= -->
     <div class="process-style-one-area text-center default-padding">
@@ -1058,6 +1072,24 @@
     <script src="../assets/js/validnavs.js"></script>
     <script src="../assets/js/main.js"></script>
     <script type="text/javascript" src='https://www.google.com/recaptcha/api.js' async defer></script>
+    <!-- Calendly badge widget begin -->
+
+    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+
+    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+
+    <script type="text/javascript">
+        window.onload = function() {
+            Calendly.initBadgeWidget({
+                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                text: 'Schedule time with me',
+                color: '#0069ff',
+                textColor: '#ffffff'
+            });
+        }
+    </script>
+
+    <!-- Calendly badge widget end -->
 </body>
 
 </html>

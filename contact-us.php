@@ -7,8 +7,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Dilabs - Creative Digital Agency Template">
-<!-- ========== Favicon Icon ========== -->
-<link rel="shortcut icon" href="./assets/img/favicon.png" type="image/x-icon">
+    <!-- ========== Favicon Icon ========== -->
+    <link rel="shortcut icon" href="./assets/img/favicon.png" type="image/x-icon">
     <!-- ========== Page Title ========== -->
     <title>Contact Us | GrowthLabs Digital Marketing Company</title>
 
@@ -147,6 +147,14 @@
         </div>
     </div>
     <!-- End Contact -->
+    <!-- Calendly inline widget begin -->
+
+    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+
+    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+
+
+    <!-- Calendly inline widget end -->
 
     <?php include("./includes/footer.php") ?>
     <?php include("./includes/footer_script.php") ?>

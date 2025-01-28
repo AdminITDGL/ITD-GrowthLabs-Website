@@ -345,7 +345,14 @@
         </div>
     </div>
     <!-- End Service Range -->
+<!-- Calendly inline widget begin -->
 
+<div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+
+
+<!-- Calendly inline widget end -->
     <!-- Start Why Choose Us 
     ============================================= -->
     <div class="choose-us-style-one-area default-padding">
@@ -682,7 +689,14 @@
         </div>
     </div>
     <!-- End SEO Audit & Optimization Services -->
+<!-- Calendly inline widget begin -->
 
+<div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+
+
+<!-- Calendly inline widget end -->
     <!-- Start Content Marketing Process
     ============================================= -->
     <div class="process-style-one-area text-center default-padding">
@@ -986,6 +1000,24 @@
     <script src="../assets/js/validnavs.js"></script>
     <script src="../assets/js/main.js"></script>
     <script type="text/javascript" src='https://www.google.com/recaptcha/api.js' async defer></script>
+    <!-- Calendly badge widget begin -->
+
+    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+
+    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+
+    <script type="text/javascript">
+        window.onload = function() {
+            Calendly.initBadgeWidget({
+                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                text: 'Schedule time with me',
+                color: '#0069ff',
+                textColor: '#ffffff'
+            });
+        }
+    </script>
+
+    <!-- Calendly badge widget end -->
 </body>
 
 </html>

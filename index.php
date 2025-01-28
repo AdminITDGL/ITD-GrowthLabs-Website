@@ -220,7 +220,14 @@
             </div>
         </div>
     </div>
+    <!-- Calendly inline widget begin -->
 
+    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+
+    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+
+
+    <!-- Calendly inline widget end -->
     <!-- Start Proces
     ============================================= -->
     <div class="process-style-one-area text-center default-padding">
@@ -422,7 +429,14 @@
         </div>
     </div>
     <!-- End Knowledge Hub -->
+    <!-- Calendly inline widget begin -->
 
+    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+
+    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+
+
+    <!-- Calendly inline widget end -->
     <!-- Start Contact Us 
     ============================================= -->
     <div class="contact-area overflow-hidden default-padding" style="background-image: url(assets/img/shape/map.png);">
@@ -527,4 +541,3 @@
 
     <?php include("./includes/footer.php") ?>
     <?php include("./includes/footer_script.php") ?>
-

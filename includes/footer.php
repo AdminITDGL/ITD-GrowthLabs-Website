@@ -1,4 +1,22 @@
-    <!-- Start Footer 
+
+  <!-- Calendly badge widget begin -->
+
+  <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+  <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+  <script type="text/javascript">
+    window.onload = function() {
+      Calendly.initBadgeWidget({
+        url: 'https://calendly.com/itdgrowthlabs-info/30min',
+        text: 'Schedule time with me',
+        color: '#0069ff',
+        textColor: '#ffffff'
+      });
+    }
+  </script>
+
+  <!-- Calendly badge widget end -->
+   
+<!-- Start Footer 
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
 
