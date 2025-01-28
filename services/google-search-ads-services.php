@@ -790,7 +790,7 @@
     ============================================= -->
     <div class="contact-area overflow-hidden default-padding" style="background-image: url(assets/img/shape/map.png);">
         <div class="shape-right-bottom">
-            <img src="assets/img/shape/18.png" alt="Shape">
+            <img src="../assets/img/shape/18.png" alt="Shape">
         </div>
         <div class="container">
             <div class="row align-center">
