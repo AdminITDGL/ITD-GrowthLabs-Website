@@ -144,7 +144,7 @@
 
                         </li>
                         <li class="dropdown">
-                            <a href="../resources/all-blogs.php" class="dropdown-toggle" data-toggle="dropdown">Resources</a>
+                            <a href="../resources/all-blogs.php" >Resources</a>
                             <!--ul class="dropdown-menu">
                             <li><a href="blog-standard.php">Blog Standard</a></li>
                             <li><a href="blog-with-sidebar.php">Blog With Sidebar</a></li>
