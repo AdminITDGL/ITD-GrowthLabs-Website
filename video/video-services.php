@@ -331,16 +331,7 @@
             </div>
         </div>
     </div>
-    <!-- End Service Range -->
 
-    <!-- Calendly inline widget begin -->
-
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
-
-    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-
-
-    <!-- Calendly inline widget end -->
     <!-- Start Feature 
     ============================================= -->
     <div class="feature-style-one-area default-padding-top bottom-less">
@@ -656,7 +647,14 @@
     </div>
     <!-- End Knowledge Hub -->
 
+    <!-- Calendly inline widget begin -->
 
+    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+
+    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+
+
+    <!-- Calendly inline widget end -->
 
     <!-- Start Why You Need Video Production Services
     ============================================= -->
