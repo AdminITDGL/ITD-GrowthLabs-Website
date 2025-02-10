@@ -29,6 +29,14 @@
     <link href="../assets/css/unit-test.css" rel="stylesheet">
     <link href="../assets/css/style.css" rel="stylesheet">
     <!-- ========== End Stylesheet ========== -->
+      <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZR348BRLFX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-ZR348BRLFX');
+</script>
 </head>
 
 <body>
