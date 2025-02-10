@@ -370,6 +370,77 @@
         <div class="f-items default-padding-bottom pt-70 pt-xs-0">
             <div class="row">
                 <!-- Singel Item -->
+
+
+                <div class="col-lg-3 col-md-3 mt-50 footer-item pl-50 pl-md-15 pl-xs-15">
+                    <div class="f-item link">
+                        <h4 class="widget-title">Content Services</h4>
+                        <ul>
+                            <li><a href="services/website-content-writing.php">Website Content Writing</a></li>
+                            <li><a href="services/seo-article-writing.php">SEO Article Writing</a></li>
+                            <li><a href="services/blog-writing-services.php">Blog Writing</a></li>
+                            <li><a href="services/case-study-writing-services.php">Case Study Writing</a></li>
+                            <li><a href="services/product-description-writing-services.php">Product Description</a></li>
+                            <li><a href="services/website-development-company.php">Website Design & Development</a></li>
+                            <li><a href="services/content-marketing-services.php">Content Marketing Services</a></li>
+                            <li><a href="services/seo-auditing-services.php">SEO Audit and Optimization</a></li>
+                            <li><a href="services/social-media-marketing.php">Social Media Marketing</a></li>
+                            <li><a href="services/google-search-ads-services.php">Google Search Ads</a></li>
+                            <li><a href="services/logistics-content-marketing.php">Logistics</a></li>
+                            <li><a href="services/coming-soon.php">Manufacturing</a></li>
+                            <li><a href="services/coming-soon.php">Technology</a></li>
+                            <li><a href="services/ecommerce-content-services.php">E-commerce</a></li>
+                            <li><a href="services/ecommerce-content-services.php"></a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-3 mt-50 footer-item pl-50 pl-md-15 pl-xs-15">
+                    <div class="f-item link">
+                        <h4 class="widget-title">Video Services</h4>
+                        <ul>
+                            <li><a href="./video/video-services.php">Explainer Videos</a></li>
+                            <li><a href="./video/video-services.php">Demo Videos</a></li>
+                            <li><a href="./video/video-services.php">Video Ads</a></li>
+                            <li><a href="./video/video-services.php">Social Media Videos</a></li>
+                            <li><a href="./video/video-services.php">Repurpose Videos</a></li>
+                            <li><a href="./video/video-services.php">Video Editing</a></li>
+                            <li><a href="./video/video-services.php">How-to Videos</a></li>
+                            <li><a href="./video/video-services.php">Onboarding Videos</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-3 mt-50 footer-item pl-50 pl-md-15 pl-xs-15">
+                    <div class="f-item link">
+                        <h4 class="widget-title">Data Services</h4>
+                        <ul>
+                            <li><a href="coming-soon.php">Documents & PDF Data Entry Services</a></li>
+                            <li><a href="coming-soon.php">Offline Data Entry Services</a></li>
+                            <li><a href="coming-soon.php">Online Data Entry Services</a></li>
+                            <li><a href="coming-soon.php">Product Data Entry Services</a></li>
+                            <li><a href="coming-soon.php">Data Labeling Services</a></li>
+                            <li><a href="coming-soon.php">Image Annotation Services</a> </li>
+                            <li><a href="coming-soon.php">Text Annotation Services</a></li>
+                            <li><a href="coming-soon.php">Video Annotation Services</a></li>
+                            <li><a href="coming-soon.php">Content Moderation Services</a></li>
+                            <li><a href="coming-soon.php">Dedicated Team / FTE Based</a></li>
+                            <li><a href="coming-soon.php">Project Based</a></li>
+                            <li><a href="coming-soon.php">Pay Per Item(Line,Image) Based</a></li>
+                            <li><a href="coming-soon.php">Hourly Rate Based</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-3 footer-item mt-50">
+                    <div class="f-item contact">
+                        <h4 class="widget-title">Resources</h4>
+                        <ul>
+                            <li><a href="./resources/all-blogs.php">Blogs</a></li>
+                        </ul>
+                    </div>
+                </div>
+
                 <div class="col-lg-3 col-md-3 footer-item mt-50">
                     <div class="footer-animated-shape">
                         <img src="assets/img/shape/6.png" alt="Image Not Found">
@@ -381,57 +452,11 @@
                         <p>
                             Let's collaborate to create content that drives growth.
                         </p>
-                        <!--div class="footer-social mt-30">
-                                <ul>
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                </ul>
-                            </div-->
                     </div>
                 </div>
-                <!-- End Singel Item -->
-
-                <!-- Singel Item -->
-                <div class="col-lg-3 col-md-3 mt-50 footer-item pl-50 pl-md-15 pl-xs-15">
-                    <div class="f-item link">
-                        <h4 class="widget-title">Content Services</h4>
-                        <ul>
-                            <li><a href="../video/video-services.php">Explainer Videos</a></li>
-                            <li><a href="../video/video-services.php">Demo Videos</a></li>
-                            <li><a href="../video/video-services.php">Video Ads</a></li>
-                            <li><a href="../video/video-services.php">Social Media Videos</a></li>
-                            <li><a href="../video/video-services.php">Repurpose Videos</a></li>
-                            <li><a href="../video/video-services.php">Video Editing</a></li>
-                            <li><a href="../video/video-services.php">How-to Videos</a></li>
-                            <li><a href="../video/video-services.php">Onboarding Videos</a></li>
-                        </ul>
-                    </div>
-                </div>
-                
 
                 <div class="col-lg-3 col-md-3 mt-50 footer-item pl-50 pl-md-15 pl-xs-15">
                     <div class="f-item link">
-                        <h4 class="widget-title">Video Services</h4>
-                        <ul>
-                            <li><a href="../coming-soon.php">Documents & PDF Data Entry Services</a></li>
-                            <li><a href="../coming-soon.php">Offline Data Entry Services</a></li>
-                            <li><a href="../coming-soon.php">Online Data Entry Services</a></li>
-                            <li><a href="../coming-soon.php">Product Data Entry Services</a></li>
-                            <li><a href="../coming-soon.php">Data Labeling Services</a></li>
-                            <li><a href="../coming-soon.php">Image Annotation Services</a> </li>
-                            <li><a href="../coming-soon.php">Text Annotation Services</a></li>
-                            <li><a href="../coming-soon.php">Video Annotation Services</a></li>
-                        </ul>
-                    </div>
-                </div>
-                
-                <!-- End Singel Item -->
-
-                <!-- Singel Item -->
-                <div class="col-lg-3 col-md-3 footer-item mt-50">
-                    <div class="f-item contact">
-                        <h4 class="widget-title">Contact Info</h4>
                         <ul>
                             <li>
                                 <div class="content">
@@ -439,13 +464,19 @@
                                     Gundecha Onclave, Mumbai, 400072
                                 </div>
                             </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-3 mt-50 footer-item pl-50 pl-md-15 pl-xs-15">
+                    <div class="f-item link">
+                        <ul>
                             <li>
                                 <div class="content">
                                     <strong>Email:</strong>
                                     <a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs</a>
                                 </div>
                             </li>
-
                         </ul>
                     </div>
                 </div>
