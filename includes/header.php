@@ -39,7 +39,7 @@
                    <ul class="nav navbar-nav navbar-center" data-in="fadeInDown" data-out="fadeOutUp">
 
                        <li class="dropdown megamenu-fw">
-                           <a href="website-content-writing.php" class="dropdown-toggle" data-toggle="dropdown">Content Services</a>
+                           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Content Services</a>
                            <ul class="dropdown-menu megamenu-content" role="menu">
                                <li>
                                    <div class="row">
@@ -100,7 +100,7 @@
                            </ul>
                        </li>
                        <li class="dropdown megamenu-fw">
-                           <a href="data-services.php" class="dropdown-toggle" data-toggle="dropdown">Data Services</a>
+                           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data Services</a>
                            <ul class="dropdown-menu megamenu-content" role="menu">
                                <li>
                                    <div class="row">
