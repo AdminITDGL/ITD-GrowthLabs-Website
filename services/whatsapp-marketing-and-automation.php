@@ -138,6 +138,16 @@
                             </ul>
                         </li>
                         <li class="dropdown">
+                           <a href="#" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
+                           <ul class="dropdown-menu">
+                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
+                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
+                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
+                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
+                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
+                           </ul>
+                       </li>
+                        <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Video Services</a>
                             <ul class="dropdown-menu">
                                 <li><a href="../video/video-services.php">Explainer Videos</a></li>
@@ -777,98 +787,125 @@
     <!-- Start Footer 
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
-
+    <div class="container">
+        <div class="f-items default-padding-bottom pt-70 pt-xs-0">
+            <div class="row">
+                <!-- Content Services -->
+                <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                    <div class="f-item link">
+                        <h4 class="widget-title">Content Services</h4>
+                        <ul>
+                            <li><a href="../services/website-content-writing.php">Website Content Writing</a></li>
+                            <li><a href="../services/seo-article-writing.php">SEO Article Writing</a></li>
+                            <li><a href="../services/blog-writing-services.php">Blog Writing</a></li>
+                            <li><a href="../services/case-study-writing-services.php">Case Study Writing</a></li>
+                            <li><a href="../services/product-description-writing-services.php">Product Description</a></li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- End-to-End Services -->
+                <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                    <div class="f-item link">
+                        <h4 class="widget-title">End-to-End Services</h4>
+                        <ul>
+                            <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
+                            <li><a href="../services/content-marketing-services.php">Content Marketing Services</a></li>
+                            <li><a href="../services/seo-auditing-services.php">SEO Audit and Optimization</a></li>
+                            <li><a href="../services/social-media-marketing.php">Social Media Marketing</a></li>
+                            <li><a href="../services/google-search-ads-services.php">Google Search Ads</a></li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Industries We Serve & WhatsApp Marketing -->
+                <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                    <div class="f-item link">
+                   
+                        <h4 class="widget-title">WhatsApp Marketing</h4>
+                        <ul>
+                            <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
+                            <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
+                            <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
+                            <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
+                            <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Video Services -->
+                <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                    <div class="f-item link">
+                        <h4 class="widget-title">Video Services</h4>
+                        <ul>
+                            <li><a href="../video/video-services.php">Explainer Videos</a></li>
+                            <li><a href="../video/video-services.php">Demo Videos</a></li>
+                            <li><a href="../video/video-services.php">Social Media Videos</a></li>
+                            <li><a href="../video/video-services.php">Video Editing</a></li>
+                            <li><a href="../video/video-services.php">How-to Videos</a></li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Data Services -->
+                <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                    <div class="f-item link">
+                        <h4 class="widget-title">Data Services</h4>
+                        <ul>
+                            <li><a href="../coming-soon.php">Documents & PDF Data Entry Services</a></li>
+                            <li><a href="../coming-soon.php">Offline Data Entry Services</a></li>
+                            <li><a href="../coming-soon.php">Online Data Entry Services</a></li>
+                            <li><a href="../coming-soon.php">Product Data Entry Services</a></li>
+                        </ul>
+                    </div>
+                </div>
+				<!-- Data Services -->
+                <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                    <div class="f-item link">
+                        <h4 class="widget-title">Data Annotation Services</h4>
+                        <ul>
+                            <li><a href="../coming-soon.php">Data Labeling Services</a></li>
+                            <li><a href="../coming-soon.php">Image Annotation Services</a></li>
+                            <li><a href="../coming-soon.php">Text Annotation Services</a></li>
+							<li><a href="../coming-soon.php">Video Annotation Services</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- Data Services -->
+                <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                    <div class="f-item link">
+                        <h4 class="widget-title">Resources</h4>
+                        <ul>
+                            <li><a href="../resources/all-blogs.php">Blogs</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- Contact Information -->
+                <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                    <div class="f-item contact">
+                        <h4 class="widget-title">Contact Us</h4>
+                        <ul>
+                            <li>Gundecha Onclave, Mumbai, 400072</li>
+                            <li><a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Footer Bottom -->
+    <div class="footer-bottom bg-dark text-light text-center">
         <div class="container">
-            <div class="f-items default-padding-bottom pt-70 pt-xs-0">
-                <div class="row">
-                    <!-- Singel Item -->
-                    <div class="col-lg-3 col-md-6 footer-item mt-50">
-                        <div class="footer-animated-shape">
-                            <img src="assets/img/shape/6.png" alt="Image Not Found">
-                        </div>
-                        <div class="f-item about pr-50 pr-xs-0 pr-md-0">
-                            <div class="logo" style="font-size: 45px; font-weight: bold; color: #fff;">
-                                GrowthLabs
-                            </div>
-                            <p>
-                                Let's collaborate to create content that drives growth.
-                            </p>
-                            <!--div class="footer-social mt-30">
-                                <ul>
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                </ul>
-                            </div-->
-                        </div>
-                    </div>
-                    <!-- End Singel Item -->
-
-                    <!-- Singel Item -->
-                    <div class="col-lg-3 col-md-6 mt-50 footer-item pl-50 pl-md-15 pl-xs-15">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Company</h4>
-                            <ul>
-                                <li>
-                                    <a href="website-content-writing.html">Services</a>
-                                </li>
-                                <li>
-                                    <a href="about-us.html">About</a>
-                                </li>
-
-                                <li>
-                                    <a href="contact-us.html">Career</a>
-                                </li>
-
-                                <li>
-                                    <a href="contact-us.html">Contact</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!-- End Singel Item -->
-
-                    <!-- Singel Item -->
-                    <div class="col-lg-3 col-md-6 footer-item  mt-50">
-                        <div class="f-item contact">
-                            <h4 class="widget-title">Contact Info</h4>
-                            <ul>
-                                <li>
-                                    <div class="content">
-                                        <strong>Address:</strong>
-                                        Gundecha Onclave, Mumbai, 400072
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="content">
-                                        <strong>Email:</strong>
-                                        <a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs</a>
-                                    </div>
-                                </li>
-
-                            </ul>
-                        </div>
-                    </div>
-
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>Copyright &copy; 2025 ITD GrowthLabs All Rights Reserved</p>
                 </div>
             </div>
         </div>
-
-        <!-- Footer Bottom -->
-        <div class="footer-bottom bg-dark text-light text-center">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <p>
-                            Copyright &copy; 2025 ITD GrowthLabs All Rights Reserved
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End Footer Bottom -->
-
-    </footer>
+    </div>
+    <!-- End Footer Bottom -->
+</footer>
 
     <!-- jQuery Frameworks
     ============================================= -->
