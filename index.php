@@ -39,18 +39,20 @@
 
                 <!-- Single Item -->
                 <div class="swiper-slide banner-style-four">
-                    <div class="banner-thumb bg-cover shadow dark" style="background: url(assets/img/homepage2.png);"></div>
+                    <div class="banner-thumb bg-cover shadow dark" style="background: url(assets/img/homepage2.png);">
+                    </div>
                     <div class="container">
                         <div class="row align-center">
                             <div class="col-xl-6 col-lg-7 col-md-10">
                                 <div class="content">
-                                    <h4>Grow Your Business Online<h4>
-                                            <h2>Customized Digital and Tech Solutions for Success</h2>
+                                    <h4>Digital, Tech & Marketing Solutions<h4>
+                                            <h2>Let’s Grow Your Business Online</h2>
                                             <p>
-                                                We fuel growth with digital marketing, content, and tech solutions that bring businesses to life.
+                                                SEO content, web development, WhatsApp automation, and video marketing to scale businesses and boost engagement.
                                             </p>
                                             <div class="button">
-                                                <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min">Let's Talk</a>
+                                                <a class="btn btn-theme btn-md animation"
+                                                    href="https://calendly.com/itdgrowthlabs-info/30min">Let's Talk</a>
                                             </div>
                                 </div>
                             </div>
@@ -64,7 +66,8 @@
 
                 <!-- Single Item -->
                 <div class="swiper-slide banner-style-four">
-                    <div class="banner-thumb bg-cover shadow dark" style="background: url(assets/img/homepage1.png);"></div>
+                    <div class="banner-thumb bg-cover shadow dark" style="background: url(assets/img/homepage1.png);">
+                    </div>
                     <div class="container">
                         <div class="row align-center">
                             <div class="col-xl-6 col-lg-7 col-md-10">
@@ -72,10 +75,12 @@
                                     <h4>Industry-Specific Digital Solutions</h4>
                                     <h2>Empower Your Business for Lasting Growth</h2>
                                     <p>
-                                        We create tailored digital strategies that align with your business goals, delivering results that make a lasting impact in your industry.
+                                        We create tailored digital strategies that align with your business goals,
+                                        delivering results that make a lasting impact in your industry.
                                     </p>
                                     <div class="button">
-                                        <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min">Let's Talk</a>
+                                        <a class="btn btn-theme btn-md animation"
+                                            href="https://calendly.com/itdgrowthlabs-info/30min">Let's Talk</a>
                                     </div>
 
                                 </div>
@@ -94,169 +99,136 @@
             <div class="swiper-button-next"></div>
         </div>
     </div>
-    <div class="brand-style-one bg-gradient">
-        <div class="container-fill">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="brand-carousel">
-                        <!-- Additional required wrapper -->
-                        <div class="swiper-wrapper">
-                            <!-- Single Item -->
-                            <div class="swiper-slide">
-                                <img src="assets/img/brand/caper.png" alt="Image Not Found">
-                            </div>
-                            <!-- End Single Item -->
-                            <!-- Single Item -->
-                            <div class="swiper-slide">
-                                <img src="assets/img/brand/courierdost.png" alt="Image Not Found">
-                            </div>
-                            <!-- End Single Item -->
-                            <!-- Single Item -->
-                            <div class="swiper-slide">
-                                <img src="assets/img/brand/pannest.png" alt="Image Not Found">
-                            </div>
-                            <!-- End Single Item -->
-                            <!-- Single Item -->
-                            <div class="swiper-slide">
-                                <img src="assets/img/brand/we3scs.png" alt="Image Not Found">
-                            </div>
-                            <!-- End Single Item -->
-
-                            <!-- End Single Item -->
+	
+ <div class="brand-style-one bg-gradient">
+    <div class="container-fill">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="brand-carousel">
+                    <!-- Additional required wrapper -->
+                    <div class="swiper-wrapper">
+                        <!-- Single Item -->
+                        <div class="swiper-slide">
+                            <img src="assets/img/brand/caper.png" alt="Image Not Found">
                         </div>
+                        <!-- End Single Item -->
+                        <!-- Single Item -->
+                        <div class="swiper-slide">
+                            <img src="assets/img/brand/courierdost.png" alt="Image Not Found">
+                        </div>
+                        <!-- End Single Item -->
+                        <!-- Single Item -->
+                        <div class="swiper-slide">
+                            <img src="assets/img/brand/pannest.png" alt="Image Not Found">
+                        </div>
+                        <!-- End Single Item -->
+                        <!-- Single Item -->
+                        <div class="swiper-slide">
+                            <img src="assets/img/brand/we3scs.png" alt="Image Not Found">
+                        </div>
+                        <!-- End Single Item -->
+                        
+                        <!-- End Single Item -->
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- End Main -->
-    <div class="services-style-three-area bg-dark bg-cover default-padding bottom-less" style="background-image: url(assets/img/shape/banner-6.jpg);">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center">
-                        <h5 class="sub-title">Services We Offer</h5>
-                        <h2 class="title">Digital and Content Marketing Solutions That Drive Results</h2>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="container">
-            <div class="row">
-                <!-- Website Design & Development -->
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
-                        <i class="flaticon-startup-6"></i>
-                        <h4><a href="https://www.itdgrowthlabs.com/services/website-development-company.php" target="_blank">Website Design & Development</a></h4>
-                        <p>
-                            Enhance your online presence with custom website design and development that combines aesthetics and functionality to deliver results.
-                        </p>
-                        <a href="https://www.itdgrowthlabs.com/services/website-development-company.php" target="_blank" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
-                    </div>
-                </div>
-
-                <!-- Content Marketing Services -->
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
-                        <i class="flaticon-planning"></i>
-                        <h4><a href="https://www.itdgrowthlabs.com/services/content-marketing-services.php" target="_blank">Content Marketing Services</a></h4>
-                        <p>
-                            Drive engagement and conversions with targeted content marketing strategies designed to grow your brand and deliver measurable results.
-                        </p>
-                        <a href="https://www.itdgrowthlabs.com/services/content-marketing-services.php" target="_blank" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
-                    </div>
-                </div>
-
-                <!-- Website Content Writing -->
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
-                        <i class="flaticon-planning"></i>
-                        <h4><a href="https://www.itdgrowthlabs.com/services/website-content-writing.php" target="_blank">Website Content Writing</a></h4>
-                        <p>
-                            Deliver compelling and SEO-friendly website content that captures your audience’s attention and drives organic growth.
-                        </p>
-                        <a href="https://www.itdgrowthlabs.com/services/website-content-writing.php" target="_blank" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
-                    </div>
-                </div>
-
-                <!-- SEO Article Writing -->
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
-                        <i class="flaticon-marketing-agent"></i>
-                        <h4><a href="https://www.itdgrowthlabs.com/services/seo-article-writing.php" target="_blank">SEO Article Writing</a></h4>
-                        <p>
-                            Improve visibility and rankings with SEO-optimized articles that resonate with your target audience and drive traffic.
-                        </p>
-                        <a href="https://www.itdgrowthlabs.com/services/seo-article-writing.php" target="_blank" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
-                    </div>
-                </div>
-
-                <!-- Case Study Writing -->
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
-                        <i class="flaticon-secure-1"></i>
-                        <h4><a href="https://www.itdgrowthlabs.com/services/case-study-writing-services.php" target="_blank">Case Study Writing</a></h4>
-                        <p>
-                            Showcase your success stories with professionally crafted case studies that build trust and highlight results.
-                        </p>
-                        <a href="https://www.itdgrowthlabs.com/services/case-study-writing-services.php" target="_blank" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
-                    </div>
-                </div>
-
-                <!-- Product Descriptions -->
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
-                        <i class="flaticon-startup-6"></i>
-                        <h4><a href="https://www.itdgrowthlabs.com/services/product-description-writing-services.php" target="_blank">Product Descriptions</a></h4>
-                        <p>
-                            Drive sales with persuasive product descriptions that highlight key features and benefits, optimized for search engines.
-                        </p>
-                        <a href="https://www.itdgrowthlabs.com/services/product-description-writing-services.php" target="_blank" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
-                    </div>
-                </div>
-
-                <!-- Google Search Ads -->
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
-                        <i class="flaticon-data-analysis-1"></i>
-                        <h4><a href="https://www.itdgrowthlabs.com/services/google-search-ads-services.php" target="_blank">Google Search Ads</a></h4>
-                        <p>
-                            Maximize ROI with expertly managed Google Search Ads campaigns that target the right audience and drive conversions.
-                        </p>
-                        <a href="https://www.itdgrowthlabs.com/services/google-search-ads-services.php" target="_blank" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
-                    </div>
-                </div>
-
-                <!-- SEO Audit & Optimization -->
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
-                        <i class="flaticon-research-1"></i>
-                        <h4><a href="https://www.itdgrowthlabs.com/services/seo-auditing-services.php" target="_blank">SEO Audit & Optimization</a></h4>
-                        <p>
-                            Boost your website's performance with comprehensive SEO audits and tailored optimization strategies that deliver results.
-                        </p>
-                        <a href="https://www.itdgrowthlabs.com/services/seo-auditing-services.php" target="_blank" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
-                    </div>
-                </div>
-
-                <!-- Social Media Marketing -->
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
-                        <i class="flaticon-planning"></i>
-                        <h4><a href="https://www.itdgrowthlabs.com/services/social-media-marketing.php" target="_blank">Social Media Marketing</a></h4>
-                        <p>
-                            Drive engagement and grow your online presence with tailored social media marketing strategies that deliver tangible results.
-                        </p>
-                        <a href="https://www.itdgrowthlabs.com/services/social-media-marketing.php" target="_blank" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
-                    </div>
+</div>
+<!-- End Brand Area -->
+<!-- Digital Marketing & Content Solutions -->
+<div class="services-style-three-area bg-dark bg-cover default-padding bottom-less"
+    style="background-image: url(assets/img/shape/banner-6.jpg);">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2">
+                <div class="site-heading text-center">
+                    <h5 class="sub-title">Our Services</h5>
+                    <h2 class="title"> End-to-End Digital, Tech & Marketing Solutions</h2>
                 </div>
             </div>
         </div>
     </div>
+
+    <div class="container">
+        <div class="row">
+            <!-- Website Development & Optimization -->
+            <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
+                    <i class="flaticon-startup-6"></i>
+                    <h4><a href="#">Website Development & Optimization</a></h4>
+                    <p>
+                        Get a high-performance website that enhances user experience, speeds up conversions, 
+                        and strengthens your brand's online presence.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Website Content Writing -->
+            <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
+                    <i class="flaticon-planning"></i>
+                    <h4><a href="#">SEO Website Content Writing</a></h4>
+                    <p>
+                       Receive compelling, SEO-rich content carefully tailored to improve visibility, engage visitors, and convert them into loyal, paying customers.
+                    </p>
+                </div>
+            </div>
+
+            <!-- WhatsApp Marketing & Automation -->
+            <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
+                    <i class="flaticon-marketing-agent"></i>
+                    <h4><a href="#">WhatsApp Marketing & Automation</a></h4>
+                    <p>
+                        Automate customer interactions with targeted WhatsApp campaigns, ensuring higher 
+                        engagement, improved conversions, and faster response times.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Content Marketing & Strategy -->
+            <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
+                    <i class="flaticon-planning"></i>
+                    <h4><a href="#">Content Marketing & Strategy</a></h4>
+                    <p>
+                    Get a tailored content strategy expertly designed to attract, nurture, and convert your audience, driving long-term brand awareness, growth, and trust.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Video Production & Marketing -->
+            <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
+                    <i class="flaticon-secure-1"></i>
+                    <h4><a href="#">Video Production & Marketing</a></h4>
+                    <p>
+                        Elevate your brand with high-quality videos that captivate audiences, increase awareness, 
+                        and drive more customer engagement.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Data Solutions & Analytics -->
+            <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
+                    <i class="flaticon-data-analysis-1"></i>
+                    <h4><a href="#">Data Services for AI & ML</a></h4>
+                    <p>
+                        Get precise data annotation and labeling services to improve AI & ML model accuracy, 
+                        ensuring better decision-making and automation.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
     <!-- Calendly inline widget begin -->
 
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1"
+        style="min-width:320px;height:700px;"></div>
 
     <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 
@@ -317,7 +289,7 @@
                         <div class="point">
                             <span>03</span>
                         </div>
-                        <h4>Content Development</h4>
+                        <h4>Development</h4>
                     </div>
                 </div>
                 <!-- End Single Item -->
@@ -361,7 +333,10 @@
                         <h4 class="sub-title">Why Choose Us</h4>
                         <h2 class="title">A decade of expertise <br> delivering digital solutions</h2>
                         <p>
-                            We are a team of experts offering customized digital marketing solutions, from content writing to content marketing strategies that drive sales. Our approach integrates industry-led solutions with cutting-edge content and technology expertise, enabling businesses to grow and succeed in today's dynamic digital landscape.
+                            We are a team of experts offering customized digital marketing solutions, from content
+                            writing to content marketing strategies that drive sales. Our approach integrates
+                            industry-led solutions with cutting-edge content and technology expertise, enabling
+                            businesses to grow and succeed in today's dynamic digital landscape.
                         </p>
                         <ul class="list-grid-four">
                             <li>Quality Focus</li>
@@ -381,79 +356,134 @@
     </div>
     <!-- End About -->
 
-    <!-- Start Knowledge Hub 
-    ============================================= -->
-    <div class="knowledge-hub-area overflow-hidden default-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-5">
-                    <div class="knowledge-hub-style-one">
-                        <h4 class="sub-title">Our Knowledge Hub</h4>
-                        <h2 class="title">Helping Your Organization Grow with Continuous Support</h2>
-                        <ul class="list-regular mt-30">
-                            <li>Customized Digital Strategies</li>
-                            <li>End-to-End Content Solutions</li>
-                            <li>Industry-Driven Insights</li>
-                        </ul>
-                        <div class="circle-progress">
-                            <div class="progressbar">
-                                <div class="circle" data-percent="90">
-                                    <strong></strong>
+  <!-- Start Knowledge Hub  -->
+<div class="knowledge-hub-area overflow-hidden default-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-5">
+                <div class="knowledge-hub-style-one">
+                    <h4 class="sub-title">Our Knowledge Hub</h4>
+                    <h2 class="title">Empowering Your Business with Expert Digital Solutions</h2>
+                    <ul class="list-regular mt-30">
+                        <li>Comprehensive Web Development</li>
+                        <li>SEO & Content Optimization</li>
+                        <li>Automated Marketing & Data Solutions</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-xl-6 offset-xl-1">
+                <div class="faq-style-one">
+                    <div class="accordion" id="faqAccordion">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingOne">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    How do you approach web development projects?
+                                </button>
+                            </h2>
+                            <div id="collapseOne" class="accordion-collapse collapse show"
+                                aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">
+                                    <p>
+                                        Our web development process begins with understanding your business goals. We design user-friendly, responsive websites with SEO best practices. From development to deployment, we ensure your website is optimized for performance and engagement.
+                                    </p>
                                 </div>
-                                <h4>Projects Delivered</h4>
-                            </div>
-                            <div class="progressbar">
-                                <div class="circle" data-percent="87">
-                                    <strong></strong>
-                                </div>
-                                <h4>Satisfied Clients</h4>
                             </div>
                         </div>
-                    </div>
-                </div>
-                <div class="col-xl-6 offset-xl-1">
-                    <div class="faq-style-one">
-                        <div class="accordion" id="faqAccordion">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingOne">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        What is the typical process for delivering a project?
-                                    </button>
-                                </h2>
-                                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            Our process starts with understanding your business needs and goals. We then create a customized digital strategy, followed by content creation, marketing execution, and performance tracking. Our ongoing support ensures your project evolves as your business grows.
-                                        </p>
-                                    </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingTwo">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    What makes your SEO and content writing services effective?
+                                </button>
+                            </h2>
+                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                                data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">
+                                    <p>
+                                        We create high-quality, keyword-optimized content tailored to your audience. Our SEO strategies focus on on-page and technical SEO, ensuring higher search rankings and sustained organic traffic growth.
+                                    </p>
                                 </div>
                             </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingTwo">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        How do you ensure that the content aligns with our brand?
-                                    </button>
-                                </h2>
-                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            We take the time to understand your brand’s tone, voice, and values. Our team collaborates closely with you to create content that resonates with your audience while maintaining brand consistency across all touchpoints.
-                                        </p>
-                                    </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingThree">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree" aria-expanded="false"
+                                    aria-controls="collapseThree">
+                                    How does WhatsApp marketing automation benefit businesses?
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse"
+                                aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">
+                                    <p>
+                                        Our WhatsApp marketing automation services enable businesses to send personalized messages, automate customer interactions, and drive engagement efficiently. We integrate AI-driven chatbots for seamless communication and lead nurturing.
+                                    </p>
                                 </div>
                             </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingThree">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        How do you measure the success of our efforts?
-                                    </button>
-                                </h2>
-                                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            We track the organic growth of your content, focusing on continuous improvement through content optimization and strategic insights. Our efforts are measured by sustained engagement, lead generation, and conversion through organic channels, with constant support ensuring that your strategy evolves with your business.
-                                        </p>
-                                    </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingFour">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    What is included in your SEO blog writing services?
+                                </button>
+                            </h2>
+                            <div id="collapseFour" class="accordion-collapse collapse"
+                                aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">
+                                    <p>
+                                        Our SEO blog writing services include keyword research, content planning, engaging blog creation, and continuous optimization. We ensure your blogs rank well on search engines and provide valuable insights to your audience.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingFive">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    How do your video services enhance brand engagement?
+                                </button>
+                            </h2>
+                            <div id="collapseFive" class="accordion-collapse collapse"
+                                aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">
+                                    <p>
+                                        We create high-quality explainer videos, promotional content, and brand storytelling videos to engage your audience. Our video production includes scripting, editing, animation, and optimization for digital platforms.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingSix">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                    What data services do you provide?
+                                </button>
+                            </h2>
+                            <div id="collapseSix" class="accordion-collapse collapse"
+                                aria-labelledby="headingSix" data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">
+                                    <p>
+                                        We specialize in white-labeling and annotation services, including text and image annotation. These services help businesses enhance their AI models with accurate data labeling and categorization.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingSeven">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                                    What is website content, and why is it important?
+                                </button>
+                            </h2>
+                            <div id="collapseSeven" class="accordion-collapse collapse"
+                                aria-labelledby="headingSeven" data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">
+                                    <p>
+                                        Website content includes all text, images, videos, and interactive elements that communicate your brand message. High-quality content improves SEO, engages visitors, and drives conversions.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -462,10 +492,14 @@
             </div>
         </div>
     </div>
-    <!-- End Knowledge Hub -->
+</div>
+<!-- End Knowledge Hub -->
+
+
     <!-- Calendly inline widget begin -->
 
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1"
+        style="min-width:320px;height:700px;"></div>
 
     <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 
@@ -490,7 +524,8 @@
                                 <div class="content">
                                     <h4 class="title">Location</h4>
                                     <p>
-                                        Gundecha Onclave, Ansa Industrial Estate, Chandivali, Powai, Mumbai, Maharashtra 400072
+                                        Gundecha Onclave, Mumbai, Maharashtra
+                                        400072
                                     </p>
                                 </div>
                             </li>
@@ -523,7 +558,8 @@
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="form-group">
-                                        <input class="form-control" id="name" name="name" placeholder="Name" type="text">
+                                        <input class="form-control" id="name" name="name" placeholder="Name"
+                                            type="text">
                                         <span class="alert-error"></span>
                                     </div>
                                 </div>
@@ -531,13 +567,15 @@
                             <div class="row">
                                 <div class="col-lg-6">
                                     <div class="form-group">
-                                        <input class="form-control" id="email" name="email" placeholder="Email*" type="email">
+                                        <input class="form-control" id="email" name="email" placeholder="Email*"
+                                            type="email">
                                         <span class="alert-error"></span>
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="form-group">
-                                        <input class="form-control" id="phone" name="phone" placeholder="Phone" type="text">
+                                        <input class="form-control" id="phone" name="phone" placeholder="Phone"
+                                            type="text">
                                         <span class="alert-error"></span>
                                     </div>
                                 </div>
@@ -545,13 +583,15 @@
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="form-group comments">
-                                        <textarea class="form-control" id="subject" name="subject" placeholder="Tell Us About Project *" type="text"></textarea>
+                                        <textarea class="form-control" id="subject" name="subject"
+                                            placeholder="Tell Us About Project *" type="text"></textarea>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-12 col-md-12">
                                 <div class="form-group">
-                                    <div class="g-recaptcha" data-sitekey="6Lez7pMqAAAAAEW9ugHXssmeVZdvo2jSYXMH98FB"></div>
+                                    <div class="g-recaptcha" data-sitekey="6Lez7pMqAAAAAEW9ugHXssmeVZdvo2jSYXMH98FB">
+                                    </div>
                                 </div>
                             </div>
                             <div class="row">
@@ -572,6 +612,23 @@
         </div>
     </div>
     <!-- End Contact -->
+
+    <!-- Calendly badge widget begin -->
+
+    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <script type="text/javascript">
+        window.onload = function () {
+            Calendly.initBadgeWidget({
+                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                text: 'Schedule time with me',
+                color: '#0069ff',
+                textColor: '#ffffff'
+            });
+        }
+    </script>
+
+    <!-- Calendly badge widget end -->
 
     <?php include("./includes/footer.php") ?>
     <?php include("./includes/footer_script.php") ?>
