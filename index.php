@@ -94,7 +94,41 @@
             <div class="swiper-button-next"></div>
         </div>
     </div>
+    <div class="brand-style-one bg-gradient">
+        <div class="container-fill">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="brand-carousel">
+                        <!-- Additional required wrapper -->
+                        <div class="swiper-wrapper">
+                            <!-- Single Item -->
+                            <div class="swiper-slide">
+                                <img src="assets/img/brand/caper.png" alt="Image Not Found">
+                            </div>
+                            <!-- End Single Item -->
+                            <!-- Single Item -->
+                            <div class="swiper-slide">
+                                <img src="assets/img/brand/courierdost.png" alt="Image Not Found">
+                            </div>
+                            <!-- End Single Item -->
+                            <!-- Single Item -->
+                            <div class="swiper-slide">
+                                <img src="assets/img/brand/pannest.png" alt="Image Not Found">
+                            </div>
+                            <!-- End Single Item -->
+                            <!-- Single Item -->
+                            <div class="swiper-slide">
+                                <img src="assets/img/brand/we3scs.png" alt="Image Not Found">
+                            </div>
+                            <!-- End Single Item -->
 
+                            <!-- End Single Item -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
     <!-- End Main -->
     <div class="services-style-three-area bg-dark bg-cover default-padding bottom-less" style="background-image: url(assets/img/shape/banner-6.jpg);">
         <div class="container">

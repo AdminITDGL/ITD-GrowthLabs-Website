@@ -200,9 +200,7 @@
 
                             </ul>
                         </li>
-                        <li class="dropdown">
-                            <a href="../resources/all-blogs.php">Resources</a>
-                        </li>
+                        
                         <li><a href="../contact-us.php">Contact</a></li>
                     </ul>
                 </div><!-- /.navbar-collapse -->
