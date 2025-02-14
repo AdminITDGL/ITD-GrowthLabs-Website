@@ -259,7 +259,7 @@
                                     <li><strong>Seamless Sales & Support</strong> to improve customer experience</li>
                                 </ul>
                                 <div class="button" style="margin-top: 20px;">
-                                    <a class="btn btn-theme btn-md animation" href="contact-us.html">Get Started with WhatsApp</a>
+                                    <a class="btn btn-theme btn-md animation" href="../contact-us.php">Get Started with WhatsApp</a>
                                 </div>
                             </div>
                         </div>

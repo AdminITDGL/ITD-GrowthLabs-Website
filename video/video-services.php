@@ -260,7 +260,7 @@
                                     <li>Quick turnaround with <strong>High-Quality Video Production</strong></li>
                                 </ul>
                                 <div class="button" style="margin-top: 20px;">
-                                    <a class="btn btn-theme btn-md animation" href="contact-us.html">Get Started with Video Services</a>
+                                    <a class="btn btn-theme btn-md animation" href="../contact-us.php">Get Started with Video Services</a>
                                 </div>
                             </div>
                         </div>
