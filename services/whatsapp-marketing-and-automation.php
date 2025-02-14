@@ -140,11 +140,11 @@
                         <li class="dropdown">
                            <a href="../services/whatsapp-marketing-and-automation.php" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
                            <ul class="dropdown-menu">
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
+                            <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
+                            <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
+                            <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
+                            <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
+                            <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
                            </ul>
                        </li>
                         <li class="dropdown">
