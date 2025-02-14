@@ -156,11 +156,13 @@
             <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                 <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
                     <i class="flaticon-startup-6"></i>
-                    <h4><a href="#">Website Development & Optimization</a></h4>
+                    <h4><a href="./services/website-development-company.php">Website Development & Optimization</a></h4>
                     <p>
                         Get a high-performance website that enhances user experience, speeds up conversions, 
                         and strengthens your brand's online presence.
                     </p>
+                    <a href="./services/website-development-company.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
+
                 </div>
             </div>
 
@@ -168,10 +170,12 @@
             <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                 <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
                     <i class="flaticon-planning"></i>
-                    <h4><a href="#">SEO Website Content Writing</a></h4>
+                    <h4><a href="./services/website-content-writing.php">SEO Website Content Writing</a></h4>
                     <p>
                        Receive compelling, SEO-rich content carefully tailored to improve visibility, engage visitors, and convert them into loyal, paying customers.
                     </p>
+                    <a href="./services/website-content-writing.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
+
                 </div>
             </div>
 
@@ -179,11 +183,13 @@
             <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                 <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
                     <i class="flaticon-marketing-agent"></i>
-                    <h4><a href="#">WhatsApp Marketing & Automation</a></h4>
+                    <h4><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Marketing & Automation</a></h4>
                     <p>
                         Automate customer interactions with targeted WhatsApp campaigns, ensuring higher 
                         engagement, improved conversions, and faster response times.
                     </p>
+                    <a href="./services/whatsapp-marketing-and-automation.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
+
                 </div>
             </div>
 
@@ -191,10 +197,12 @@
             <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                 <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
                     <i class="flaticon-planning"></i>
-                    <h4><a href="#">Content Marketing & Strategy</a></h4>
+                    <h4><a href="coming-soon.php">Content Marketing & Strategy</a></h4>
                     <p>
                     Get a tailored content strategy expertly designed to attract, nurture, and convert your audience, driving long-term brand awareness, growth, and trust.
                     </p>
+                    <a href="coming-soon.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
+
                 </div>
             </div>
 
@@ -202,11 +210,13 @@
             <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                 <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
                     <i class="flaticon-secure-1"></i>
-                    <h4><a href="#">Video Production & Marketing</a></h4>
+                    <h4><a href="./video/video-services.php">Video Production & Marketing</a></h4>
                     <p>
                         Elevate your brand with high-quality videos that captivate audiences, increase awareness, 
                         and drive more customer engagement.
                     </p>
+                    <a href="./video/video-services.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
+
                 </div>
             </div>
 
@@ -214,11 +224,13 @@
             <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                 <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
                     <i class="flaticon-data-analysis-1"></i>
-                    <h4><a href="#">Data Services for AI & ML</a></h4>
+                    <h4><a href="coming-soon.php">Data Services for AI & ML</a></h4>
                     <p>
                         Get precise data annotation and labeling services to improve AI & ML model accuracy, 
                         ensuring better decision-making and automation.
                     </p>
+                    <a href="coming-soon.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
+
                 </div>
             </div>
         </div>
