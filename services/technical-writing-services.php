@@ -286,7 +286,41 @@
         <!-- End Single Item -->
     </div>
     <!-- End Banner -->
+    <div class="brand-style-one bg-gradient">
+        <div class="container-fill">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="brand-carousel">
+                        <!-- Additional required wrapper -->
+                        <div class="swiper-wrapper">
+                            <!-- Single Item -->
+                            <div class="swiper-slide">
+                                <img src="../assets/img/brand/caper.png" alt="Image Not Found">
+                            </div>
+                            <!-- End Single Item -->
+                            <!-- Single Item -->
+                            <div class="swiper-slide">
+                                <img src="../assets/img/brand/courierdost.png" alt="Image Not Found">
+                            </div>
+                            <!-- End Single Item -->
+                            <!-- Single Item -->
+                            <div class="swiper-slide">
+                                <img src="../assets/img/brand/pannest.png" alt="Image Not Found">
+                            </div>
+                            <!-- End Single Item -->
+                            <!-- Single Item -->
+                            <div class="swiper-slide">
+                                <img src="../assets/img/brand/we3scs.png" alt="Image Not Found">
+                            </div>
+                            <!-- End Single Item -->
 
+                            <!-- End Single Item -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
     <!-- Start Service Range
     ============================================= -->
     <div class="service-range-area default-padding bg-gray">
