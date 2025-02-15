@@ -294,9 +294,7 @@
                             </div>
                             <!-- End Single Item -->
                             <!-- Single Item -->
-                            <div class="swiper-slide">
-                                <img src="../assets/img/brand/courierdost.png" alt="Image Not Found">
-                            </div>
+                            
                             <!-- End Single Item -->
                             <!-- Single Item -->
                             <div class="swiper-slide">
