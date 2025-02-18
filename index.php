@@ -11,7 +11,7 @@
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="./assets/img/favicon.png" type="image/x-icon">
     <!-- ========== Page Title ========== -->
-    <title>SEO Content, Explainer Videos | Data & Tech Solutions </title>
+    <title>B2B Tech & Marketing Company | Strategy & Growth</title>
 
     <!-- ========== Favicon Icon ========== -->
     <?php include("./includes/header_script.php") ?>
