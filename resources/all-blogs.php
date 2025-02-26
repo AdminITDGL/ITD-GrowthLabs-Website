@@ -439,6 +439,110 @@
                 </div>
                 <!-- End Single Item -->
 
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="thumb">
+                            <a href="Best_Growth_Marketing_Agencies_in_India_Today.php"><img src="../assets/img/blogs/How-to-Use.png" alt="Website Content Writing"></a>
+                        </div>
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        25 February, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Best_Growth_Marketing_Agencies_in_India_Today.php">Best Growth Marketing Agencies in India Today</a></h3>
+                            <a href="../resources/Best_Growth_Marketing_Agencies_in_India_Today.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="thumb">
+                            <a href="How_to_Write_Content_That_Attracts_Leads_and_Sales.php"><img src="../assets/img/blogs/How-to-Use.png" alt="Website Content Writing"></a>
+                        </div>
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Anushka</a>
+                                    </li>
+                                    <li>
+                                        18 February, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/How_to_Write_Content_That_Attracts_Leads_and_Sales.php">How to Write Content That Attracts Leads and Sales</a></h3>
+                            <a href="../resources/How_to_Write_Content_That_Attracts_Leads_and_Sales.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="thumb">
+                            <a href="How_to_Write_Content_That_Attracts_Leads_and_Sales.php"><img src="../assets/img/blogs/How-to-Use.png" alt="Website Content Writing"></a>
+                        </div>
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Anushka</a>
+                                    </li>
+                                    <li>
+                                        18 February, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/How_to_Write_Content_That_Attracts_Leads_and_Sales.php">How to Write Content That Attracts Leads and Sales</a></h3>
+                            <a href="../resources/How_to_Write_Content_That_Attracts_Leads_and_Sales.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="thumb">
+                            <a href="How_to_Write_Content_That_Attracts_Leads_and_Sales.php"><img src="../assets/img/blogs/How-to-Use.png" alt="Website Content Writing"></a>
+                        </div>
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Anushka</a>
+                                    </li>
+                                    <li>
+                                        18 February, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/How_to_Write_Content_That_Attracts_Leads_and_Sales.php">How to Write Content That Attracts Leads and Sales</a></h3>
+                            <a href="../resources/How_to_Write_Content_That_Attracts_Leads_and_Sales.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
             </div>
             <!-- Pagination -->
             <div class="row">
