@@ -647,6 +647,58 @@
                 </div>
                 <!-- End Single Item -->
 
+                  <!-- Single Item -->
+                  <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="thumb">
+                            <a href="Why_High-Quality_Content_Matters_for_SEO_Rankings.php"><img src="../assets/img/blogs/How-to-Use.png" alt="Website Content Writing"></a>
+                        </div>
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 February, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Why_High-Quality_Content_Matters_for_SEO_Rankings.php">Why High-Quality Content Matters for SEO Rankings</a></h3>
+                            <a href="../resources/Why_High-Quality_Content_Matters_for_SEO_Rankings.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                  <!-- Single Item -->
+                  <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="thumb">
+                            <a href="Why_Blogs_Are_the_Backbone_of_Content_Marketing_Strategies.php"><img src="../assets/img/blogs/How-to-Use.png" alt="Website Content Writing"></a>
+                        </div>
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 February, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Why_Blogs_Are_the_Backbone_of_Content_Marketing_Strategies.php">Why Blogs Are the Backbone of Content Marketing Strategies</a></h3>
+                            <a href="../resources/Why_Blogs_Are_the_Backbone_of_Content_Marketing_Strategies.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
             </div>
             <!-- Pagination -->
             <div class="row">
