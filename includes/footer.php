@@ -1,8 +1,7 @@
-
 <!-- Start Footer 
     ============================================= -->
 
-    <!-- Start Footer  ============================================= -->
+<!-- Start Footer  ============================================= -->
 <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
     <div class="container">
         <div class="f-items default-padding-bottom pt-70 pt-xs-0">
@@ -20,7 +19,7 @@
                         </ul>
                     </div>
                 </div>
-                
+
                 <!-- End-to-End Services -->
                 <div class="col-lg-3 col-md-3 mt-50 footer-item">
                     <div class="f-item link">
@@ -34,11 +33,11 @@
                         </ul>
                     </div>
                 </div>
-                
+
                 <!-- Industries We Serve & WhatsApp Marketing -->
                 <div class="col-lg-3 col-md-3 mt-50 footer-item">
                     <div class="f-item link">
-                   
+
                         <h4 class="widget-title">WhatsApp Marketing</h4>
                         <ul>
                             <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
@@ -49,7 +48,7 @@
                         </ul>
                     </div>
                 </div>
-                
+
                 <!-- Video Services -->
                 <div class="col-lg-3 col-md-3 mt-50 footer-item">
                     <div class="f-item link">
@@ -63,7 +62,7 @@
                         </ul>
                     </div>
                 </div>
-                
+
                 <!-- Data Services -->
                 <div class="col-lg-3 col-md-3 mt-50 footer-item">
                     <div class="f-item link">
@@ -76,7 +75,7 @@
                         </ul>
                     </div>
                 </div>
-				<!-- Data Services -->
+                <!-- Data Services -->
                 <div class="col-lg-3 col-md-3 mt-50 footer-item">
                     <div class="f-item link">
                         <h4 class="widget-title">Data Annotation Services</h4>
@@ -84,7 +83,7 @@
                             <li><a href="coming-soon.php">Data Labeling Services</a></li>
                             <li><a href="coming-soon.php">Image Annotation Services</a></li>
                             <li><a href="coming-soon.php">Text Annotation Services</a></li>
-							<li><a href="coming-soon.php">Video Annotation Services</a></li>
+                            <li><a href="coming-soon.php">Video Annotation Services</a></li>
                         </ul>
                     </div>
                 </div>
@@ -110,7 +109,7 @@
             </div>
         </div>
     </div>
-    
+
     <!-- Footer Bottom -->
     <div class="footer-bottom bg-dark text-light text-center">
         <div class="container">
@@ -123,3 +122,18 @@
     </div>
     <!-- End Footer Bottom -->
 </footer>
+
+<!-- Calendly badge widget begin -->
+
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"> 
+<!-- <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script> -->
+<!-- <script type="text/javascript">
+    window.onload = function() {
+        Calendly.initBadgeWidget({
+            url: 'https://calendly.com/itdgrowthlabs-info/30min',
+            text: 'Schedule time with me',
+            color: '#0069ff',
+            textColor: '#ffffff'
+        });
+    }
+</script>Calendly badge widget end -->
