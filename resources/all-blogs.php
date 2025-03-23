@@ -261,9 +261,6 @@
                 <!-- Single Item -->
                 <div class="col-lg-4 col-md-6 mb-50">
                     <div class="blog-style-one">
-                        <div class="thumb">
-                            <a href="top-10-website-content-writing-agencies-in-India.php"><img src="../assets/img/homepage5.png" alt="Website Content Writing"></a>
-                        </div>
                         <div class="info">
                             <div class="meta">
                                 <ul>
@@ -287,9 +284,6 @@
                 <!-- Single Item -->
                 <div class="col-lg-4 col-md-6 mb-50">
                     <div class="blog-style-one">
-                        <div class="thumb">
-                            <a href="top-5-benefits-of-using-chatGPT-deepseek-for-seo-content-writing.php"><img src="../assets/img/blogs/chatgpt-deepseek.png" alt="Website Content Writing"></a>
-                        </div>
                         <div class="info">
                             <div class="meta">
                                 <ul>
@@ -313,9 +307,6 @@
                 <!-- Single Item -->
                 <div class="col-lg-4 col-md-6 mb-50">
                     <div class="blog-style-one">
-                        <div class="thumb">
-                            <a href="How-to-Use-ChatGPT-and-DeepSeek-SEO-Friendly-Content-Creation.php"><img src="../assets/img/blogs/How-to-Use.png" alt="Website Content Writing"></a>
-                        </div>
                         <div class="info">
                             <div class="meta">
                                 <ul>
@@ -339,9 +330,6 @@
                 <!-- Single Item -->
                 <div class="col-lg-4 col-md-6 mb-50">
                     <div class="blog-style-one">
-                        <div class="thumb">
-                            <a href="ChatGPT-DeepSeek-Which-is-Better-for-Content-Writers.php"><img src="../assets/img/blogs/Chatgpt-vs-deepseek.png" alt="Website Content Writing"></a>
-                        </div>
                         <div class="info">
                             <div class="meta">
                                 <ul>
@@ -365,9 +353,6 @@
                 <!-- Single Item -->
                 <div class="col-lg-4 col-md-6 mb-50">
                     <div class="blog-style-one">
-                        <div class="thumb">
-                            <a href="Top-10-Content-Writing-Agencies-in-India.php"><img src="../assets/img/blogs/top-10-content.png" alt="Website Content Writing"></a>
-                        </div>
                         <div class="info">
                             <div class="meta">
                                 <ul>
@@ -390,9 +375,6 @@
                  <!-- Single Item -->
                 <div class="col-lg-4 col-md-6 mb-50">
                     <div class="blog-style-one">
-                        <div class="thumb">
-                            <a href="Why_Your_Business_Needs_a_Content_Writing.php"><img src="../assets/img/blogs/How-to-Use.png" alt="Website Content Writing"></a>
-                        </div>
                         <div class="info">
                             <div class="meta">
                                 <ul>
@@ -416,9 +398,6 @@
                  <!-- Single Item -->
                  <div class="col-lg-4 col-md-6 mb-50">
                     <div class="blog-style-one">
-                        <div class="thumb">
-                            <a href="How_to_Write_Content_That_Attracts_Leads_and_Sales.php"><img src="../assets/img/blogs/How-to-Use.png" alt="Website Content Writing"></a>
-                        </div>
                         <div class="info">
                             <div class="meta">
                                 <ul>
@@ -442,9 +421,6 @@
                 <!-- Single Item -->
                 <div class="col-lg-4 col-md-6 mb-50">
                     <div class="blog-style-one">
-                        <div class="thumb">
-                            <a href="Best_Growth_Marketing_Agencies_in_India_Today.php"><img src="../assets/img/blogs/How-to-Use.png" alt="Website Content Writing"></a>
-                        </div>
                         <div class="info">
                             <div class="meta">
                                 <ul>
@@ -468,9 +444,6 @@
                 <!-- Single Item -->
                 <div class="col-lg-4 col-md-6 mb-50">
                     <div class="blog-style-one">
-                        <div class="thumb">
-                            <a href="What_Is_SEO_Boost_Your_Rankings_with_Search_Optimization.php"><img src="../assets/img/blogs/How-to-Use.png" alt="Website Content Writing"></a>
-                        </div>
                         <div class="info">
                             <div class="meta">
                                 <ul>
@@ -494,9 +467,6 @@
                 <!-- Single Item -->
                 <div class="col-lg-4 col-md-6 mb-50">
                     <div class="blog-style-one">
-                        <div class="thumb">
-                            <a href="How_to_Write_SEO_Articles_That_Drive_Massive_Traffic.php"><img src="../assets/img/blogs/How-to-Use.png" alt="Website Content Writing"></a>
-                        </div>
                         <div class="info">
                             <div class="meta">
                                 <ul>
@@ -520,9 +490,6 @@
                 <!-- Single Item -->
                 <div class="col-lg-4 col-md-6 mb-50">
                     <div class="blog-style-one">
-                        <div class="thumb">
-                            <a href="How_to_Improve_Organic_Traffic_With_Blog_Writing.php"><img src="../assets/img/blogs/How-to-Use.png" alt="Website Content Writing"></a>
-                        </div>
                         <div class="info">
                             <div class="meta">
                                 <ul>
@@ -546,9 +513,6 @@
                 <!-- Single Item -->
                 <div class="col-lg-4 col-md-6 mb-50">
                     <div class="blog-style-one">
-                        <div class="thumb">
-                            <a href="How_to_Choose_the_Right_Content_Writing_Agency.php"><img src="../assets/img/blogs/How-to-Use.png" alt="Website Content Writing"></a>
-                        </div>
                         <div class="info">
                             <div class="meta">
                                 <ul>
@@ -572,9 +536,6 @@
                  <!-- Single Item -->
                  <div class="col-lg-4 col-md-6 mb-50">
                     <div class="blog-style-one">
-                        <div class="thumb">
-                            <a href="How_to_Write_a_Compelling_Meta_Description_for_SEO.php"><img src="../assets/img/blogs/How-to-Use.png" alt="Website Content Writing"></a>
-                        </div>
                         <div class="info">
                             <div class="meta">
                                 <ul>
@@ -598,9 +559,6 @@
                 <!-- Single Item -->
                 <div class="col-lg-4 col-md-6 mb-50">
                     <div class="blog-style-one">
-                        <div class="thumb">
-                            <a href="How_to_Structure_a_Blog_Post_for_Maximum_Readability.php"><img src="../assets/img/blogs/How-to-Use.png" alt="Website Content Writing"></a>
-                        </div>
                         <div class="info">
                             <div class="meta">
                                 <ul>
@@ -624,9 +582,6 @@
                 <!-- Single Item -->
                 <div class="col-lg-4 col-md-6 mb-50">
                     <div class="blog-style-one">
-                        <div class="thumb">
-                            <a href="How_to_Integrate_Keywords_Effectively_Without_Overstuffing.php"><img src="../assets/img/blogs/How-to-Use.png" alt="Website Content Writing"></a>
-                        </div>
                         <div class="info">
                             <div class="meta">
                                 <ul>
@@ -650,9 +605,6 @@
                   <!-- Single Item -->
                   <div class="col-lg-4 col-md-6 mb-50">
                     <div class="blog-style-one">
-                        <div class="thumb">
-                            <a href="Why_High-Quality_Content_Matters_for_SEO_Rankings.php"><img src="../assets/img/blogs/How-to-Use.png" alt="Website Content Writing"></a>
-                        </div>
                         <div class="info">
                             <div class="meta">
                                 <ul>
@@ -673,12 +625,9 @@
                 </div>
                 <!-- End Single Item -->
 
-                  <!-- Single Item -->
-                  <div class="col-lg-4 col-md-6 mb-50">
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
                     <div class="blog-style-one">
-                        <div class="thumb">
-                            <a href="Why_Blogs_Are_the_Backbone_of_Content_Marketing_Strategies.php"><img src="../assets/img/blogs/How-to-Use.png" alt="Website Content Writing"></a>
-                        </div>
                         <div class="info">
                             <div class="meta">
                                 <ul>
@@ -699,21 +648,105 @@
                 </div>
                 <!-- End Single Item -->
 
+                 <!-- Single Item -->
+                 <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Sharanya</a>
+                                    </li>
+                                    <li>
+                                        27 February, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/9_Best_AI_Writing_Tools_to_Boost_Your_Writing_in_2025.php">9 Best AI Writing Tools to Boost Your Writing in 2025
+                            </a></h3>
+                            <a href="../resources/9_Best_AI_Writing_Tools_to_Boost_Your_Writing_in_2025.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                 <!-- Single Item -->
+                 <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Sharanya</a>
+                                    </li>
+                                    <li>
+                                        27 February, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/chatgpt_vs_deepseek_the_comparison.php">chatgpt vs deepseek the comparison
+                            </a></h3>
+                            <a href="../resources/chatgpt_vs_deepseek_the_comparison.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                 <!-- Single Item -->
+                 <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Sharanya</a>
+                                    </li>
+                                    <li>
+                                        27 February, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/How_to_Write_a_Blog_Post_A_Step_by_Step_Guide_for_2025.php">How to Write a Blog Post: A Step-by-Step Guide for 2025
+                            </a></h3>
+                            <a href="../resources/How_to_Write_a_Blog_Post_A_Step_by_Step_Guide_for_2025.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Sharanya</a>
+                                    </li>
+                                    <li>
+                                        27 February, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/How_to_Write_SEO-Friendly_Blogs_in_2025_Top_SEO_Writing_Tips_Content_Strategies.php">How to Write SEO-Friendly Blogs in 2025: Top SEO Writing Tips & Content Strategies
+                            </a></h3>
+                            <a href="../resources/How_to_Write_SEO-Friendly_Blogs_in_2025_Top_SEO_Writing_Tips_Content_Strategies.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
             </div>
             <!-- Pagination -->
-            <div class="row">
-                <div class="col-md-12 pagi-area text-center">
-                    <nav aria-label="navigation">
-                        <ul class="pagination">
-                            <li class="page-item"><a class="page-link" href="#"><i class="fas fa-angle-left"></i></a></li>
-                            <li class="page-item active"><a class="page-link" href="#">1</a></li>
-                            <li class="page-item"><a class="page-link" href="#">2</a></li>
-                            <li class="page-item"><a class="page-link" href="#">3</a></li>
-                            <li class="page-item"><a class="page-link" href="#"><i class="fas fa-angle-right"></i></a></li>
-                        </ul>
-                    </nav>
-                </div>
-            </div>
         </div>
     </div>
     <!-- End Blog -->
