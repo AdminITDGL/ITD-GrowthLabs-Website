@@ -962,6 +962,246 @@
                 </div>
                 <!-- End Single Item -->
 
+                 <!-- Single Item -->
+                 <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Anushka</a>
+                                    </li>
+                                    <li>
+                                        25 March, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/A_Step_by_Step_Guide_to_Writing_an_SEO_Blog_Post.php">A Step-by-Step Guide to Writing an SEO Blog Post
+                            </a></h3>
+                            <a href="../resources/A_Step_by_Step_Guide_to_Writing_an_SEO_Blog_Post.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Anushka</a>
+                                    </li>
+                                    <li>
+                                        25 March, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Mastering_Keyword_Research_Top_Tips_for_SEO_Writing_Success.php">Mastering Keyword Research: Top Tips for SEO Writing Success
+                            </a></h3>
+                            <a href="../resources/Mastering_Keyword_Research_Top_Tips_for_SEO_Writing_Success.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        25 March, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/The_Dos_and_Don’ts_of_Content_Marketing_for_Startups.php">The Dos and Don’ts of Content Marketing for Startups
+                            </a></h3>
+                            <a href="../resources/The_Dos_and_Don’ts_of_Content_Marketing_for_Startups.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        25 March, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/How_to_Use_AI_Tools_like_ChatGPT_to_Enhance_Blog_Writing.php">How to Use AI Tools like ChatGPT to Enhance Blog Writing
+                            </a></h3>
+                            <a href="../resources/How_to_Use_AI_Tools_like_ChatGPT_to_Enhance_Blog_Writing.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        25 March, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Content_Writing_Services_for_the_Banking_Finance_Industry.php">Content Writing Services for the Banking & Finance Industry
+                            </a></h3>
+                            <a href="../resources/Content_Writing_Services_for_the_Banking_Finance_Industry.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        25 March, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Financial_Content_Writing_What_It_Is_and_How_to_Start.php">Financial Content Writing: What It Is and How to Start
+                            </a></h3>
+                            <a href="../resources/Financial_Content_Writing_What_It_Is_and_How_to_Start.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        25 March, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/How_to_Write_a_SaaS_Blog_A_Step_by_Step_Guide.php">How to Write a SaaS Blog: A Step by Step Guide
+                            </a></h3>
+                            <a href="../resources/How_to_Write_a_SaaS_Blog_A_Step_by_Step_Guide.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        25 March, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Website_Writing_10_Tips_and_Strategies_for_Effective_Online_Content.php">Website Writing: 10 Tips and Strategies for Effective Online Content
+                            </a></h3>
+                            <a href="../resources/Website_Writing_10_Tips_and_Strategies_for_Effective_Online_Content.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        25 March, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/How_WhatsApp_Automation_Can_10x_Your_Customer_Engagement.php">How WhatsApp Automation Can 10x Your Customer Engagement
+                            </a></h3>
+                            <a href="../resources/How_WhatsApp_Automation_Can_10x_Your_Customer_Engagement.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        25 March, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/The_Future_of_WhatsApp_Chatbots_for_Business_Growth.php">The Future of WhatsApp Chatbots for Business Growth
+                            </a></h3>
+                            <a href="../resources/The_Future_of_WhatsApp_Chatbots_for_Business_Growth.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
             </div>
             <!-- Pagination -->
         </div>
