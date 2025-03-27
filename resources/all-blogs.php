@@ -1202,6 +1202,78 @@
                 </div>
                 <!-- End Single Item -->
 
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        25 March, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/5_Ways_WhatsApp_Automation_Reduces_Customer_Support_Costs.php">5 Ways WhatsApp Automation Reduces Customer Support Costs
+                            </a></h3>
+                            <a href="../resources/5_Ways_WhatsApp_Automation_Reduces_Customer_Support_Costs.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        25 March, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/WhatsApp_Drip_Campaigns_How_to_Nurture_Leads_Effectively.php">WhatsApp Drip Campaigns: How to Nurture Leads Effectively
+                            </a></h3>
+                            <a href="../resources/WhatsApp_Drip_Campaigns_How_to_Nurture_Leads_Effectively.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        25 March, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Automating_Sales_&_Support_with_WhatsApp_A_Game_Changer.php">Automating Sales & Support with WhatsApp – A Game Changer
+                            </a></h3>
+                            <a href="../resources/Automating_Sales_&_Support_with_WhatsApp_A_Game_Changer.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
             </div>
             <!-- Pagination -->
         </div>
