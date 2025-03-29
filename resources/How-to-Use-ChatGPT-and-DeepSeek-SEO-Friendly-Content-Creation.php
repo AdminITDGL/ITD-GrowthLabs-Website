@@ -306,7 +306,7 @@
 
                                     <p>Whether you’re looking to boost your search engine rankings or create compelling content that converts, AI tools like ChatGPT and DeepSeek offer the expertise and precision needed to elevate your brand’s content strategy.</p>
 
-                                    <p>Ready to take your content to the next level? Explore the benefits of using AI for SEO content writing. <a href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Schedule a free consultation</a> or visit <a href="https://www.itdgrowthlabs.com/" target="_blank">ITD Growth Labs</a> for more information on how AI tools can transform your content and SEO strategy.</p>
+                                    <p>Ready to take your content to the next level? Explore the benefits of using AI for SEO content writing. <a href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Schedule a free consultation</a> or visit <a href="https://www.itdgrowthlabs.com/" target="_blank">ITDGrowthLabs</a> for more information on how AI tools can transform your content and SEO strategy.</p>
 
                                 </div>
                             </div>
