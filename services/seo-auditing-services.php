@@ -380,7 +380,7 @@
     <!-- Calendly inline widget end -->
     <!-- Start Why Choose Us 
     ============================================= -->
-    <div class="choose-us-style-one-area default-padding">
+    <!-- <div class="choose-us-style-one-area default-padding">
         <div class="container">
             <div class="row">
                 <div class="col-lg-7 choose-us-style-one">
@@ -440,7 +440,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- End Why Choose Us -->
 
 
