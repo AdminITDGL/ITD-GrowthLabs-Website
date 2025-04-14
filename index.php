@@ -47,9 +47,7 @@
                                 <div class="content">
                                     <h4>Digital, Tech & Marketing Solutions<h4>
                                             <h2>We Build Websites That Work — With Content That Sells.</h2>
-                                            <p>
-                                                SEO content, web development, WhatsApp automation, and video marketing to scale businesses and boost engagement.
-                                            </p>
+                                            
                                             <div class="button">
                                                 <a class="btn btn-theme btn-md animation"
                                                     href="https://calendly.com/itdgrowthlabs-info/30min">Let's Talk</a>
