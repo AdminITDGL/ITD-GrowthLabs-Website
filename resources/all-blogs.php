@@ -2763,6 +2763,296 @@
                 </div>
                 <!-- End Single Item -->
 
+                 <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 May, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Must_Have_Technical_Documents_for_Every_Business.php">Must-Have Technical Documents for Every Business
+                            </a></h3>
+                            <a href="../resources/Must_Have_Technical_Documents_for_Every_Business.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 May, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Technical_vs_Content_Writing_Which_Path_Fits_You_Best.php">Technical vs Content Writing: Which Path Fits You Best?
+                            </a></h3>
+                            <a href="../resources/Technical_vs_Content_Writing_Which_Path_Fits_You_Best.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                 <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 May, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Master_the_Craft_Essential_Skills_for_a_Successful_Technical_Writing_Career.php"> Master the Craft: Essential Skills for a Successful Technical Writing Career
+                            </a></h3>
+                            <a href="../resources/Master_the_Craft_Essential_Skills_for_a_Successful_Technical_Writing_Career.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 May, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Mastering_the_Art_of_Writing_Effective_User_Manuals.php">Mastering the Art of Writing Effective User Manuals
+                            </a></h3>
+                            <a href="../resources/Mastering_the_Art_of_Writing_Effective_User_Manuals.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 May, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Mastering_the_Art_of_Software_Documentation.php">Mastering the Art of Software Documentation: The Crucial Role of Technical Writing
+                            </a></h3>
+                            <a href="../resources/Mastering_the_Art_of_Software_Documentation.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 May, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Avoid_the_Pitfalls_Common_Mistakes_in_Technical_Documentation.php">Avoid the Pitfalls: Common Mistakes in Technical Documentation
+                            </a></h3>
+                            <a href="../resources/Avoid_the_Pitfalls_Common_Mistakes_in_Technical_Documentation.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 May, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Mastering_chnical_Writing_Tools_You_Should_Know.php">Mastering the Craft: Top Technical Writing Tools You Should Know
+                            </a></h3>
+                            <a href="../resources/Mastering_chnical_Writing_Tools_You_Should_Know.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 May, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/A_Complete_Guide_to_Writing_Standard_Procedures.php">Mastering SOPs: A Complete Guide to Writing Standard Procedures
+                            </a></h3>
+                            <a href="../resources/A_Complete_Guide_to_Writing_Standard_Procedures.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 May, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Why_Clarity_is_King_in_Technical_Writing.php"> Write It Right: Why Clarity is King in Technical Writing
+                            </a></h3>
+                            <a href="../resources/Why_Clarity_is_King_in_Technical_Writing.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 May, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Mastering_Technical_Writing_for_the_IT_Industry.php">Mastering Technical Writing for the IT Industry: A Complete Guide
+                            </a></h3>
+                            <a href="../resources/Mastering_Technical_Writing_for_the_IT_Industry.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 May, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Why_Smart_Companies_Outsource_Technical_Writing.php">Why Smart Companies Outsource Technical Writing: A Strategic Move
+                            </a></h3>
+                            <a href="../resources/Why_Smart_Companies_Outsource_Technical_Writing.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 May, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Mastering_the_Art_of_API_Documentation_Writing.php">Mastering the Art of API Documentation Writing: A Guide for Developers
+                            </a></h3>
+                            <a href="../resources/Mastering_the_Art_of_API_Documentation_Writing.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+
+
 
 
             </div>
