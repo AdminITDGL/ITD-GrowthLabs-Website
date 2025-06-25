@@ -378,7 +378,7 @@
     </div>
     <!-- Start Service Range
     ============================================= -->
-    <div class="service-range-area default-padding bg-gray">
+    <!-- <div class="service-range-area default-padding bg-gray">
         <div class="container">
             <div class="row">
                 <div class="col-xl-6 col-lg-5">
@@ -435,7 +435,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- End Service Range -->
 
 
