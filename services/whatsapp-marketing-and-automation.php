@@ -629,18 +629,7 @@
     <div class="knowledge-hub-area overflow-hidden default-padding">
         <div class="container">
             <div class="row">
-                <div class="col-xl-5">
-                    <div class="knowledge-hub-style-one">
-                        <h4 class="sub-title">Our Knowledge Hub</h4>
-                        <h2 class="title">Everything You Need to Know About WhatsApp Marketing</h2>
-                        <ul class="list-regular mt-30">
-                            <li>How WhatsApp Business enhances customer engagement</li>
-                            <li>Best practices for WhatsApp marketing campaigns</li>
-                            <li>Automation and AI in WhatsApp messaging</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-xl-6 offset-xl-1">
+                <div class="col-12">
                     <div class="faq-style-one">
                         <div class="accordion" id="faqAccordion">
                             <!-- FAQ Item 1 -->

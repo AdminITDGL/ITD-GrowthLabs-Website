@@ -610,32 +610,7 @@
     <div class="knowledge-hub-area overflow-hidden default-padding">
         <div class="container">
             <div class="row">
-                <div class="col-xl-5">
-                    <div class="knowledge-hub-style-one">
-                        <h4 class="sub-title">Our Knowledge Hub</h4>
-                        <h2 class="title">Supporting Your Business with Effective Google Ads Strategies and Lead Generation Solutions</h2>
-                        <ul class="list-regular mt-30">
-                            <li>Optimized Google Ads Campaigns for Better Visibility</li>
-                            <li>High-Converting Landing Pages for Lead Generation</li>
-                            <li>Expert Guidance on Google Ads Management Services</li>
-                        </ul>
-                        <div class="circle-progress">
-                            <div class="progressbar">
-                                <div class="circle" data-percent="90">
-                                    <strong></strong>
-                                </div>
-                                <h4>Google Ads Campaigns Managed</h4>
-                            </div>
-                            <div class="progressbar">
-                                <div class="circle" data-percent="87">
-                                    <strong></strong>
-                                </div>
-                                <h4>Lead Generation Success</h4>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-6 offset-xl-1">
+                <div class="col-12">
                     <div class="faq-style-one">
                         <div class="accordion" id="faqAccordion">
                             <!-- FAQ Item 1 -->

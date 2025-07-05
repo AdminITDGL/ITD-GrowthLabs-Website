@@ -562,32 +562,7 @@
     <div class="knowledge-hub-area overflow-hidden default-padding">
         <div class="container">
             <div class="row">
-                <div class="col-xl-5">
-                    <div class="knowledge-hub-style-one">
-                        <h4 class="sub-title">Our Knowledge Hub</h4>
-                        <h2 class="title">Enhancing Your Brand with Professional Video Services</h2>
-                        <ul class="list-regular mt-30">
-                            <li>High-Quality Video Production for Businesses</li>
-                            <li>Engaging Video Marketing Strategies</li>
-                            <li>Expert Guidance on Video Editing and Optimization</li>
-                        </ul>
-                        <div class="circle-progress">
-                            <div class="progressbar">
-                                <div class="circle" data-percent="95">
-                                    <strong></strong>
-                                </div>
-                                <h4>Videos Produced Successfully</h4>
-                            </div>
-                            <div class="progressbar">
-                                <div class="circle" data-percent="90">
-                                    <strong></strong>
-                                </div>
-                                <h4>Client Satisfaction Rate</h4>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-6 offset-xl-1">
+                <div class="col-12">
                     <div class="faq-style-one">
                         <div class="accordion" id="faqAccordion">
 

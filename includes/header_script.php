@@ -1,7 +1,13 @@
+ <!-- Bootstrap CSS -->
+ <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+ <link href="assets/css/carousel-custom.css" rel="stylesheet">
+ <!-- Bootstrap CSS -->
+ <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
+ <!-- jQuery -->
+ <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
  <!-- jQuery Frameworks
     ============================================= -->
-    
- <script src="assets/js/jquery-3.6.0.min.js"></script>
  <script src="assets/js/bootstrap.bundle.min.js"></script>
  <script src="assets/js/jquery.appear.js"></script>
  <script src="assets/js/jquery.easing.min.js"></script>
@@ -22,10 +28,13 @@
  <script src="assets/js/main.js"></script>
  <script type="text/javascript" src='https://www.google.com/recaptcha/api.js' async defer></script>
  <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZR348BRLFX"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-ZR348BRLFX');
-</script>
+ <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZR348BRLFX"></script>
+ <script>
+   window.dataLayer = window.dataLayer || [];
+
+   function gtag() {
+     dataLayer.push(arguments);
+   }
+   gtag('js', new Date());
+   gtag('config', 'G-ZR348BRLFX');
+ </script>

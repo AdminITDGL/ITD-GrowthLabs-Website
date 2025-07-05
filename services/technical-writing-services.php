@@ -624,7 +624,7 @@
             <div class="row">
                 <div class="col-xl-5">
                     <div class="knowledge-hub-style-one">
-                        <h4 class="sub-title">Our Knowledge Hub</h4>
+                        <h4 class="sub-title"></h4>
                         <h2 class="title">Empowering Technology Companies with Precision-Driven Content Marketing</h2>
                         <ul class="list-regular mt-30">
                             <li>Tailored Content Strategies for Technology Businesses</li>

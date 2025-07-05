@@ -622,32 +622,7 @@
     <div class="knowledge-hub-area overflow-hidden default-padding">
         <div class="container">
             <div class="row">
-                <div class="col-xl-5">
-                    <div class="knowledge-hub-style-one">
-                        <h4 class="sub-title">Our Knowledge Hub</h4>
-                        <h2 class="title">Empowering the Logistics & Transportation Industry with Targeted Solutions</h2>
-                        <ul class="list-regular mt-30">
-                            <li>Custom Content Strategies for Logistics</li>
-                            <li>SEO-Driven Website Development and Optimization</li>
-                            <li>Thought Leadership for Industry Recognition</li>
-                        </ul>
-                        <div class="circle-progress">
-                            <div class="progressbar">
-                                <div class="circle" data-percent="92">
-                                    <strong></strong>
-                                </div>
-                                <h4>Projects Delivered</h4>
-                            </div>
-                            <div class="progressbar">
-                                <div class="circle" data-percent="89">
-                                    <strong></strong>
-                                </div>
-                                <h4>Satisfied Clients</h4>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-6 offset-xl-1">
+                <div class="col-12">
                     <div class="faq-style-one">
                         <div class="accordion" id="faqAccordion">
                             <!-- FAQ Item 1 -->

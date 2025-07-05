@@ -1,0 +1,134 @@
+/* Custom Carousel Styles */
+.carousel {
+    margin: 50px 0;
+}
+
+.carousel-item {
+    padding: 20px 0;
+}
+
+.carousel .card {
+    border: none;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+}
+
+.carousel .card:hover {
+    transform: translateY(-5px);
+}
+
+.carousel .services-style-three {
+    padding: 40px 30px;
+    text-align: center;
+    border-radius: 10px;
+    position: relative;
+    overflow: hidden;
+}
+
+.carousel .services-style-three i {
+    font-size: 60px;
+    color: #0069ff;
+    margin-bottom: 20px;
+    display: block;
+}
+
+.carousel .services-style-three h4 {
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.carousel .services-style-three h4 a {
+    color: #333;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.carousel .services-style-three h4 a:hover {
+    color: #0069ff;
+}
+
+.carousel .services-style-three p {
+    color: #666;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.carousel .btn-service {
+    display: inline-block;
+    padding: 10px 25px;
+    background: #0069ff;
+    color: white;
+    text-decoration: none;
+    border-radius: 25px;
+    transition: all 0.3s ease;
+}
+
+.carousel .btn-service:hover {
+    background: #0056cc;
+    color: white;
+    transform: translateX(5px);
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    width: 50px;
+    height: 50px;
+    background: #0069ff;
+    border-radius: 50%;
+    top: 50%;
+    transform: translateY(-50%);
+    opacity: 0.8;
+}
+
+.carousel-control-prev:hover,
+.carousel-control-next:hover {
+    opacity: 1;
+    background: #0056cc;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    width: 20px;
+    height: 20px;
+}
+
+/* Carousel Indicators */
+.carousel-indicators {
+    bottom: -50px;
+}
+
+.carousel-indicators button {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #ccc;
+    border: none;
+    margin: 0 5px;
+    transition: all 0.3s ease;
+}
+
+.carousel-indicators button.active {
+    background-color: #0069ff;
+    transform: scale(1.2);
+}
+
+.carousel-indicators button:hover {
+    background-color: #0069ff;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .carousel .services-style-three {
+        padding: 30px 20px;
+    }
+    
+    .carousel .services-style-three i {
+        font-size: 40px;
+    }
+    
+    .carousel-control-prev,
+    .carousel-control-next {
+        width: 40px;
+        height: 40px;
+    }
+} 
