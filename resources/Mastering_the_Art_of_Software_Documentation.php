@@ -51,250 +51,258 @@
     <!-- Header 
 ============================================= -->
     <header>
-    <!-- Start Navigation -->
-    <nav class="navbar mobile-sidenav navbar-default validnavs dark on menu-center no-full">
+        <!-- Start Navigation -->
+        <nav class="navbar mobile-sidenav navbar-default validnavs dark on menu-center no-full">
 
-        <!-- Start Top Search -->
-        <div class="top-search">
-            <div class="container">
-                <form action="#">
-                    <div class="input-group">
-                        <span class="input-group-addon"><i class="fa fa-search"></i></span>
-                        <input type="text" class="form-control" placeholder="Search">
-                        <span class="input-group-addon close-search"><i class="fa fa-times"></i></span>
-                    </div>
-                </form>
-            </div>
-        </div>
-        <!-- End Top Search -->
-
-        <div class="container d-flex justify-content-between align-items-center">
-            <!-- Start Header Navigation -->
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
-                    <i class="fa fa-bars"></i>
-                </button>
-                <a class="navbar-brand" href="../index.php">
-                    <img src="../assets/img/logo.jpg" class="logo" alt="Logo">
-                </a>
-            </div>
-            <!-- End Header Navigation -->
-
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="navbar-menu">
-                <img src="../assets/img/logo.jpg" alt="Logo">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
-                    <i class="fa fa-times"></i>
-                </button>
-                <ul class="nav navbar-nav navbar-center" data-in="fadeInDown" data-out="fadeOutUp">
-
-                    <li class="dropdown megamenu-fw">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tech Services</a>
-                        <ul class="dropdown-menu megamenu-content" role="menu">
-                            <li>
-                                <div class="row">
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Core Tech Services</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../services/website-development-company.php">Website Design
-                                                        & Development</a></li>
-                                                <li><a href="../coming-soon.php">Template-Based Website Development</a>
-                                                </li>
-                                                <li><a href="../coming-soon.php">WordPress Website Development</a></li>
-                                                <li><a href="../coming-soon.php">Custom Website Development</a></li>
-                                                <li><a href="../coming-soon.php">E-commerce Website Development</a></li>
-
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">End-to-End Services</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../services/website-development-company.php">Website Design
-                                                        & Development</a></li>
-                                                <li><a href="../services/content-marketing-services.php">Content
-                                                        Marketing Services</a></li>
-                                                <li><a href="../services/seo-auditing-services.php">SEO Audit and
-                                                        Optimization</a></li>
-                                                <li><a href="../services/social-media-marketing.php">Social Media
-                                                        Marketing</a></li>
-                                                <li><a href="../services/google-search-ads-services.php">Google Search
-                                                        Ads</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">More Tech Solutions</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-
-                                                <li><a href="../coming-soon.php">App Development</a></li>
-                                                <li><a href="../coming-soon.php">IT Outsourcing Services</a></li>
-                                                <li><a href="../coming-soon.php">IT Team Outsourcing</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </li>
-
-
-                    <li class="dropdown megamenu-fw">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Content Services</a>
-                        <ul class="dropdown-menu megamenu-content" role="menu">
-                            <li>
-                                <div class="row">
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">SEO &amp; Content Writing</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../services/website-content-writing.php">Website Content
-                                                        Writing</a></li>
-                                                <li><a href="../services/seo-article-writing.php">SEO Article
-                                                        Writing</a></li>
-                                                <li><a href="../services/blog-writing-services.php">Blog Writing</a>
-                                                </li>
-                                                <li><a href="../services/case-study-writing-services.php">Case Study
-                                                        Writing</a></li>
-                                                <li><a href="../services/product-description-writing-services.php">Product
-                                                        Description</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Specialized Content Services</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../coming-soon.php">Content Writing & Strategy</a></li>
-                                                <li><a href="../coming-soon.php">Technical Writing Services</a></li>
-                                                <li><a href="../coming-soon.php">Whitepapers & Case Studies</a></li>
-                                                <li><a href="../coming-soon.php">Content Team Outsourcing</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Industries We Serve</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../services/logistics-content-marketing.php">Logistics</a>
-                                                </li>
-                                                <li><a href="../services/coming-soon.php">Manufacturing</a></li>
-                                                <li><a href="../services/coming-soon.php">Technology</a></li>
-                                                <li><a href="../services/ecommerce-content-services.php">E-commerce</a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </li>
-
-                    <li class="dropdown megamenu-fw">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">eLearning Services</a>
-                        <ul class="dropdown-menu megamenu-content" role="menu">
-                            <li>
-                                <div class="row">
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Custom Solutions</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../coming-soon.php">Custom eLearning Development</a></li>
-                                                <li><a href="../coming-soon.php">PowerPoint to eLearning Conversion</a>
-                                                </li>
-                                                <li><a href="../coming-soon.php">Mobile Learning / Microlearning</a>
-                                                </li>
-                                                <li><a href="../coming-soon.php">Gamified Learning Modules</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Use Cases</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="#">Employee Onboarding</a></li>
-                                                <li><a href="#">Talent Development</a></li>
-                                                <li><a href="#">Compliance Training</a></li>
-                                                <li><a href="#">Sales Enablement</a></li>
-                                                <li><a href="#">Customer Education</a></li>
-                                                <li><a href="#">Partner Enablement</a></li>
-                                                <li><a href="#">Frontline Workforce Training</a></li>
-                                                <li><a href="#">Member Training</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Industries Served</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="#">Software & Tech</a></li>
-                                                <li><a href="#">Financial Services</a></li>
-                                                <li><a href="#">Manufacturing</a></li>
-                                                <li><a href="#">Healthcare</a></li>
-                                                <li><a href="#">Government</a></li>
-                                                <li><a href="#">Restaurants & Hospitality</a></li>
-                                                <li><a href="#">Education</a></li>
-                                                <li><a href="#">Retail</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </li>
-
-                    <!--li class="dropdown">
-                        <a href="./services/whatsapp-marketing-and-automation.php" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
-                        </ul>
-                    </li-->
-
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Video Services</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="../video/video-services.php">Explainer Videos</a></li>
-                            <li><a href="../video/video-services.php">Demo Videos</a></li>
-                            <li><a href="../video/video-services.php">Video Ads</a></li>
-                            <li><a href="../video/video-services.php">Social Media Videos</a></li>
-                            <li><a href="../video/video-services.php">Repurpose Videos</a></li>
-                            <li><a href="../video/video-services.php">Video Editing</a></li>
-                            <li><a href="../video/video-services.php">How-to Videos</a></li>
-                            <li><a href="../video/video-services.php">Onboarding Videos</a></li>
-                        </ul>
-                    </li>
-
-                    <li><a href="contact-us.php">Contact</a></li>
-                </ul>
-            </div><!-- /.navbar-collapse -->
-
-            <div class="attr-right">
-                <!-- Start Atribute Navigation -->
-                <div class="attr-nav">
-                    <ul>
-                        <li class="button">
-                            <a href="https://calendly.com/itdgrowthlabs-info/30min">Book a Call</a>
-                        </li>
-                    </ul>
+            <!-- Start Top Search -->
+            <div class="top-search">
+                <div class="container">
+                    <form action="#">
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="fa fa-search"></i></span>
+                            <input type="text" class="form-control" placeholder="Search">
+                            <span class="input-group-addon close-search"><i class="fa fa-times"></i></span>
+                        </div>
+                    </form>
                 </div>
-                <!-- End Atribute Navigation -->
-
-                <!-- Overlay screen for menu -->
-                <div class="overlay-screen"></div>
-                <!-- End Overlay screen for menu -->
             </div>
+            <!-- End Top Search -->
 
-        </div>
-    </nav>
-    <!-- End Navigation -->
-</header>
+            <div class="d-flex justify-content-between align-items-center">
+                <!-- Start Header Navigation -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                        <i class="fa fa-bars"></i>
+                    </button>
+                    <a class="navbar-brand" href="../index.php">
+                        <img src="../assets/img/logo.jpg" class="logo" alt="Logo">
+                    </a>
+                </div>
+                <!-- End Header Navigation -->
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="navbar-menu">
+                    <img src="../assets/img/logo.jpg" alt="Logo">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                        <i class="fa fa-times"></i>
+                    </button>
+                    <ul class="nav navbar-nav navbar-center" data-in="fadeInDown" data-out="fadeOutUp">
+
+                        <li class="dropdown megamenu-fw">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tech Services</a>
+                            <ul class="dropdown-menu megamenu-content" role="menu">
+                                <li>
+                                    <div class="row">
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Core Tech Services</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
+                                                    <li><a href="../services/Template-Based-Website-Development.php">Template-Based Website Development</a>
+                                                    </li>
+                                                    <li><a href="../services/WordPress-Website-Development.php">WordPress Website Development</a></li>
+                                                    <li><a href="../services/Custom-Website-Development.php">Custom Website Development</a></li>
+                                                    <li><a href="../services/E-commerce-Website-Development.php">E-commerce Website Development</a></li>
+
+                                                </ul>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">End-to-End Services</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
+                                                    <li><a href="../services/content-marketing-services.php">Content Marketing Services</a></li>
+                                                    <li><a href="../services/seo-auditing-services.php">SEO Audit and Optimization</a></li>
+                                                    <li><a href="../services/social-media-marketing.php">Social Media Marketing</a></li>
+                                                    <li><a href="../services/google-search-ads-services.php">Google Search Ads</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">More Tech Solutions</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+
+                                                    <li><a href="../services/App-Development.php">App Development</a></li>
+                                                    <li><a href="../services/IT-Outsourcing-Services.php">IT Outsourcing Services</a></li>
+                                                    <li><a href="../services/IT-Team-Outsourcing.php">IT Team Outsourcing</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flow</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data Services</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
+                                <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
+                                <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
+                                <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
+                                <li><a href="../data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
+                                <li><a href="../data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
+                                <li><a href="../data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
+                                <li><a href="../data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
+                                <li><a href="../data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown megamenu-fw">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Content Services</a>
+                            <ul class="dropdown-menu megamenu-content" role="menu">
+                                <li>
+                                    <div class="row">
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">SEO &amp; Content Writing</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/website-content-writing.php">Website Content Writing</a></li>
+                                                    <li><a href="../services/seo-article-writing.php">SEO Article Writing</a></li>
+                                                    <li><a href="../services/blog-writing-services.php">Blog Writing</a></li>
+                                                    <li><a href="../services/case-study-writing-services.php">Case Study Writing</a></li>
+                                                    <li><a href="../services/product-description-writing-services.php">Product Description</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Specialized Content Services</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/content_writing_strategy.php">Content Writing & Strategy</a></li>
+                                                    <li><a href="../services/technical-writing-services.php">Technical Writing Services</a></li>
+                                                    <li><a href="../services/White-Papers-Case-Studies.php">Whitepapers & Case Studies</a></li>
+                                                    <li><a href="../services/Content-Team-Outsourcing.php">Content Team Outsourcing</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Industries We Serve</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/logistics-content-marketing.php">Logistics</a></li>
+                                                    <li><a href="../services/Industries-We-Serve-Manufacturing.php">Manufacturing</a></li>
+                                                    <li><a href="../services/Industries-We-Serve-Technology.php">Technology</a></li>
+                                                    <li><a href="../services/ecommerce-content-services.php">E-commerce</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown megamenu-fw">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">eLearning Services</a>
+                            <ul class="dropdown-menu megamenu-content" role="menu">
+                                <li>
+                                    <div class="row">
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Custom Solutions</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/Custom-eLearning-Development.php">Custom eLearning Development</a></li>
+                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php">PowerPoint to eLearning Conversion</a></li>
+                                                    <li><a href="../services/Mobile-Learn-Microlearning.php">Mobile Learning / Microlearning</a></li>
+                                                    <li><a href="../services/Gamified-Learning-Modules.php">Gamified Learning Modules</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Use Cases</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/Employee-Onboarding.php">Employee Onboarding</a></li>
+                                                    <li><a href="../services/Talent-Development.php">Talent Development</a></li>
+                                                    <li><a href="../services/Compliance-Training.php">Compliance Training</a></li>
+                                                    <li><a href="../services/Sales-Enablement.php">Sales Enablement</a></li>
+                                                    <li><a href="../services/Customer-Education.php">Customer Education</a></li>
+                                                    <li><a href="../services/Partner-Enablement.php">Partner Enablement</a></li>
+                                                    <li><a href="../services/Frontline-Workforce-Training.php">Frontline Workforce Training</a></li>
+                                                    <li><a href="../services/Member-Training.php">Member Training</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Industries Served</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../coming-soon.php">Software & Tech</a></li>
+                                                    <li><a href="../coming-soon.php">Financial Services</a></li>
+                                                    <li><a href="../coming-soon.php">Manufacturing</a></li>
+                                                    <li><a href="../coming-soon.php">Healthcare</a></li>
+                                                    <li><a href="../coming-soon.php">Government</a></li>
+                                                    <li><a href="../coming-soon.php">Restaurants & Hospitality</a></li>
+                                                    <li><a href="../coming-soon.php">Education</a></li>
+                                                    <li><a href="../coming-soon.php">Retail</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <!-- <li class="dropdown">
+                           <a href="./services/whatsapp-marketing-and-automation.php" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
+                           <ul class="dropdown-menu">
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
+                           </ul>
+                       </li> -->
+
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Video Services</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
+                                <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
+                                <li><a href="../services/Video-Ads.php">Video Ads</a></li>
+                                <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
+                                <li><a href="../services/Repurpose-Videos.php">Repurpose Videos</a></li>
+                                <li><a href="../services/Video-Editing.php">Video Editing</a></li>
+                                <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
+                                <li><a href="../services/Onboarding-Videos.php">Onboarding Videos</a></li>
+                            </ul>
+                        </li>
+
+                        <li><a href="../contact-us.php">Contact</a></li>
+                    </ul>
+                </div><!-- /.navbar-collapse -->
+
+                <div class="attr-right">
+                    <!-- Start Atribute Navigation -->
+                    <div class="attr-nav">
+                        <ul>
+                            <li class="button">
+                                <a href="https://calendly.com/itdgrowthlabs-info/30min">Book a Call</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- End Atribute Navigation -->
+
+                    <!-- Overlay screen for menu -->
+                    <div class="overlay-screen"></div>
+                    <!-- End Overlay screen for menu -->
+                </div>
+
+            </div>
+        </nav>
+        <!-- End Navigation -->
+    </header>
     <!-- End Header -->
     <!-- Start Banner Area 
     ============================================= -->
@@ -314,161 +322,161 @@
                                         </ul>
                                     </div>
 
-                                <h2>Introduction</h2>
-                                <p>In today's fast-paced digital world, software documentation serves as the backbone of efficient software development and maintenance. Whether it's creating user manuals, API docs, or guides tailored for developers, technical documentation software and expert writing skills are indispensable. But what truly makes software documentation effective? The answer lies in professional technical writing that clearly communicates complex technical concepts in an accessible way.</p>
+                                    <h2>Introduction</h2>
+                                    <p>In today's fast-paced digital world, software documentation serves as the backbone of efficient software development and maintenance. Whether it's creating user manuals, API docs, or guides tailored for developers, technical documentation software and expert writing skills are indispensable. But what truly makes software documentation effective? The answer lies in professional technical writing that clearly communicates complex technical concepts in an accessible way.</p>
 
-                                <p>Writing for developers, in particular, requires a specialized approach that combines clarity, accuracy, and usability. API docs, system manuals, and troubleshooting guides all rely heavily on precise software documentation to reduce errors, improve onboarding, and enhance user satisfaction. Companies like ITD GrowthLabs offer robust solutions to help organizations streamline this process, ensuring documentation is not only well-written but also strategically aligned with user needs and business goals.</p>
+                                    <p>Writing for developers, in particular, requires a specialized approach that combines clarity, accuracy, and usability. API docs, system manuals, and troubleshooting guides all rely heavily on precise software documentation to reduce errors, improve onboarding, and enhance user satisfaction. Companies like ITD GrowthLabs offer robust solutions to help organizations streamline this process, ensuring documentation is not only well-written but also strategically aligned with user needs and business goals.</p>
 
-                                <p>In this blog, we'll delve deep into the pivotal role of technical writing in software documentation, highlighting best practices, challenges, and tools — all while weaving in how ITD GrowthLabs can elevate your documentation game.</p>
+                                    <p>In this blog, we'll delve deep into the pivotal role of technical writing in software documentation, highlighting best practices, challenges, and tools — all while weaving in how ITD GrowthLabs can elevate your documentation game.</p>
 
-                                <h2>What is Technical Writing in Software Documentation?</h2>
-                                <p>Technical writing in software documentation is a specialized discipline focused on producing accurate, clear, and structured content that supports users in understanding and using software products. It's not just about listing functionalities; it's about breaking down complex technical concepts into digestible, actionable instructions.</p>
+                                    <h2>What is Technical Writing in Software Documentation?</h2>
+                                    <p>Technical writing in software documentation is a specialized discipline focused on producing accurate, clear, and structured content that supports users in understanding and using software products. It's not just about listing functionalities; it's about breaking down complex technical concepts into digestible, actionable instructions.</p>
 
-                                <p>Whether aimed at end-users, system administrators, or developers, software documentation must align with the audience's technical proficiency and information needs. The goal is to facilitate seamless interaction with the software, reduce support tickets, and shorten onboarding times.</p>
+                                    <p>Whether aimed at end-users, system administrators, or developers, software documentation must align with the audience's technical proficiency and information needs. The goal is to facilitate seamless interaction with the software, reduce support tickets, and shorten onboarding times.</p>
 
-                                <h3>Types of Software Documentation:</h3>
-                                <ul>
-                                    <li>End-user documentation: Guides for non-technical users that include how-to instructions, installation manuals, and FAQs.</li>
-                                    <li>Administrator guides: Materials for configuring, deploying, and maintaining software in enterprise environments.</li>
-                                    <li>Developer documentation: APIs, SDKs, libraries, CLI tools, and system architectures aimed at technical professionals.</li>
-                                    <li>Internal documentation: Specifications, engineering notes, or architectural decisions created for internal teams.</li>
-                                </ul>
+                                    <h3>Types of Software Documentation:</h3>
+                                    <ul>
+                                        <li>End-user documentation: Guides for non-technical users that include how-to instructions, installation manuals, and FAQs.</li>
+                                        <li>Administrator guides: Materials for configuring, deploying, and maintaining software in enterprise environments.</li>
+                                        <li>Developer documentation: APIs, SDKs, libraries, CLI tools, and system architectures aimed at technical professionals.</li>
+                                        <li>Internal documentation: Specifications, engineering notes, or architectural decisions created for internal teams.</li>
+                                    </ul>
 
-                                <p>Good technical writing enables readers to take action confidently, resolve issues independently, and get more value from the software.</p>
+                                    <p>Good technical writing enables readers to take action confidently, resolve issues independently, and get more value from the software.</p>
 
-                                <h2>Why Technical Writing Is Critical in Software</h2>
-                                <p>The importance of technical writing in software development cannot be overstated. Well-crafted documentation is often the bridge between a product's potential and its actual usability. Without it, even the most powerful software can seem unusable.</p>
+                                    <h2>Why Technical Writing Is Critical in Software</h2>
+                                    <p>The importance of technical writing in software development cannot be overstated. Well-crafted documentation is often the bridge between a product's potential and its actual usability. Without it, even the most powerful software can seem unusable.</p>
 
-                                <h3>Key reasons why technical documentation matters:</h3>
-                                <ul>
-                                    <li>It reduces support requests by offering answers before users ask questions.</li>
-                                    <li>It accelerates onboarding for new team members or customers.</li>
-                                    <li>It promotes consistency in software usage and implementation.</li>
-                                    <li>It enables collaboration between cross-functional teams through shared understanding.</li>
-                                    <li>It establishes credibility and professionalism for the software product.</li>
-                                </ul>
+                                    <h3>Key reasons why technical documentation matters:</h3>
+                                    <ul>
+                                        <li>It reduces support requests by offering answers before users ask questions.</li>
+                                        <li>It accelerates onboarding for new team members or customers.</li>
+                                        <li>It promotes consistency in software usage and implementation.</li>
+                                        <li>It enables collaboration between cross-functional teams through shared understanding.</li>
+                                        <li>It establishes credibility and professionalism for the software product.</li>
+                                    </ul>
 
-                                <p>In agile environments, where frequent updates and iterations occur, keeping documentation current is a strategic necessity rather than an afterthought.</p>
+                                    <p>In agile environments, where frequent updates and iterations occur, keeping documentation current is a strategic necessity rather than an afterthought.</p>
 
-                                <h2>Writing for Developers: A Specialized Challenge</h2>
-                                <p>Writing for developers requires a different mindset than writing for general users. Developers are technically proficient but value precision, clarity, and utility above all. They don't want marketing fluff or vague instructions—they want specifics they can trust.</p>
+                                    <h2>Writing for Developers: A Specialized Challenge</h2>
+                                    <p>Writing for developers requires a different mindset than writing for general users. Developers are technically proficient but value precision, clarity, and utility above all. They don't want marketing fluff or vague instructions—they want specifics they can trust.</p>
 
-                                <p>Why does writing for developers matter? Because developers are often integrating your software into their systems, extending its capabilities, or building entire solutions on top of your APIs. If the developer documentation is vague, outdated, or inconsistent, it can lead to wasted hours, errors in production, or even product abandonment.</p>
+                                    <p>Why does writing for developers matter? Because developers are often integrating your software into their systems, extending its capabilities, or building entire solutions on top of your APIs. If the developer documentation is vague, outdated, or inconsistent, it can lead to wasted hours, errors in production, or even product abandonment.</p>
 
-                                <h3>Key Components of Effective Developer Documentation</h3>
-                                <p>To be truly effective, developer documentation should offer more than just a surface-level overview. It needs to go deep, providing technical details in a digestible format.</p>
+                                    <h3>Key Components of Effective Developer Documentation</h3>
+                                    <p>To be truly effective, developer documentation should offer more than just a surface-level overview. It needs to go deep, providing technical details in a digestible format.</p>
 
-                                <h4>Here are some essential components:</h4>
+                                    <h4>Here are some essential components:</h4>
 
-                                <h5>1. Precise Explanations of APIs and SDKs</h5>
-                                <ul>
-                                    <li>Describe each API endpoint or method clearly, including what it does, expected input/output, and limitations.</li>
-                                    <li>Include authentication details, such as token formats or OAuth flows.</li>
-                                    <li>Specify data types, optional vs. required fields, and rate limits.</li>
-                                    <li>Ensure consistency in naming conventions, formatting, and response structures.</li>
-                                </ul>
+                                    <h5>1. Precise Explanations of APIs and SDKs</h5>
+                                    <ul>
+                                        <li>Describe each API endpoint or method clearly, including what it does, expected input/output, and limitations.</li>
+                                        <li>Include authentication details, such as token formats or OAuth flows.</li>
+                                        <li>Specify data types, optional vs. required fields, and rate limits.</li>
+                                        <li>Ensure consistency in naming conventions, formatting, and response structures.</li>
+                                    </ul>
 
-                                <h5>2. Detailed Code Samples and Use Cases</h5>
-                                <ul>
-                                    <li>Include language-specific examples (e.g., Python, JavaScript, Java) wherever applicable.</li>
-                                    <li>Highlight real-world use cases that illustrate practical implementation.</li>
-                                    <li>Offer step-by-step walkthroughs that help developers replicate behavior in their environments.</li>
-                                    <li>Ensure the code is copy-paste ready and syntax-checked for immediate usability.</li>
-                                </ul>
+                                    <h5>2. Detailed Code Samples and Use Cases</h5>
+                                    <ul>
+                                        <li>Include language-specific examples (e.g., Python, JavaScript, Java) wherever applicable.</li>
+                                        <li>Highlight real-world use cases that illustrate practical implementation.</li>
+                                        <li>Offer step-by-step walkthroughs that help developers replicate behavior in their environments.</li>
+                                        <li>Ensure the code is copy-paste ready and syntax-checked for immediate usability.</li>
+                                    </ul>
 
-                                <h5>3. Clear Error Handling Guidelines</h5>
-                                <ul>
-                                    <li>List error codes with their meanings and suggested resolutions.</li>
-                                    <li>Provide troubleshooting scenarios that developers are likely to face.</li>
-                                    <li>Explain retry mechanisms, timeout errors, and rate limiting responses.</li>
-                                    <li>Help developers understand what went wrong and how to fix it quickly.</li>
-                                </ul>
+                                    <h5>3. Clear Error Handling Guidelines</h5>
+                                    <ul>
+                                        <li>List error codes with their meanings and suggested resolutions.</li>
+                                        <li>Provide troubleshooting scenarios that developers are likely to face.</li>
+                                        <li>Explain retry mechanisms, timeout errors, and rate limiting responses.</li>
+                                        <li>Help developers understand what went wrong and how to fix it quickly.</li>
+                                    </ul>
 
-                                <h5>4. Consistent Terminology and Structure</h5>
-                                <ul>
-                                    <li>Use a standard glossary of terms to avoid confusion across modules.</li>
-                                    <li>Follow a predictable documentation structure: Introduction → Setup → Examples → Troubleshooting.</li>
-                                    <li>Apply style guides (such as Google Developer Documentation Style Guide) for formatting and tone.</li>
-                                    <li>Group related content under clear headings and include searchable navigation or indexes.</li>
-                                </ul>
+                                    <h5>4. Consistent Terminology and Structure</h5>
+                                    <ul>
+                                        <li>Use a standard glossary of terms to avoid confusion across modules.</li>
+                                        <li>Follow a predictable documentation structure: Introduction → Setup → Examples → Troubleshooting.</li>
+                                        <li>Apply style guides (such as Google Developer Documentation Style Guide) for formatting and tone.</li>
+                                        <li>Group related content under clear headings and include searchable navigation or indexes.</li>
+                                    </ul>
 
-                                <h3>What Makes Developer Documentation High-Quality?</h3>
-                                <p>While the technical accuracy is non-negotiable, quality developer documentation is also defined by how well it supports the developer's workflow. A well-documented API with robust examples can be the difference between quick adoption and frustration.</p>
+                                    <h3>What Makes Developer Documentation High-Quality?</h3>
+                                    <p>While the technical accuracy is non-negotiable, quality developer documentation is also defined by how well it supports the developer's workflow. A well-documented API with robust examples can be the difference between quick adoption and frustration.</p>
 
-                                <h4>Qualities of excellent developer docs:</h4>
-                                <ul>
-                                    <li>Discoverability: Users can easily find what they're looking for via search or intuitive structure.</li>
-                                    <li>Completeness: Covers all features, methods, exceptions, and edge cases.</li>
-                                    <li>Accuracy: Reflects the actual state of the product; outdated docs lead to failed implementations.</li>
-                                    <li>Clarity: Sentences are simple, jargon-free (when possible), and unambiguous.</li>
-                                    <li>Modularity: Content is organized in chunks so readers can skip to what they need.</li>
-                                </ul>
+                                    <h4>Qualities of excellent developer docs:</h4>
+                                    <ul>
+                                        <li>Discoverability: Users can easily find what they're looking for via search or intuitive structure.</li>
+                                        <li>Completeness: Covers all features, methods, exceptions, and edge cases.</li>
+                                        <li>Accuracy: Reflects the actual state of the product; outdated docs lead to failed implementations.</li>
+                                        <li>Clarity: Sentences are simple, jargon-free (when possible), and unambiguous.</li>
+                                        <li>Modularity: Content is organized in chunks so readers can skip to what they need.</li>
+                                    </ul>
 
-                                <h2>Tools Used in Technical Writing for Software</h2>
-                                <p>Many professional technical writers use purpose-built tools to create and manage software documentation, including:</p>
-                                <ul>
-                                    <li>Markdown and reStructuredText for lightweight formatting.</li>
-                                    <li>Swagger/OpenAPI for auto-generating API docs from source code.</li>
-                                    <li>Sphinx, MkDocs, or Docusaurus for static site generation.</li>
-                                    <li>GitHub/GitLab for version control and collaborative documentation updates.</li>
-                                    <li>Content management systems (CMS) like Confluence or Notion for internal docs.</li>
-                                </ul>
+                                    <h2>Tools Used in Technical Writing for Software</h2>
+                                    <p>Many professional technical writers use purpose-built tools to create and manage software documentation, including:</p>
+                                    <ul>
+                                        <li>Markdown and reStructuredText for lightweight formatting.</li>
+                                        <li>Swagger/OpenAPI for auto-generating API docs from source code.</li>
+                                        <li>Sphinx, MkDocs, or Docusaurus for static site generation.</li>
+                                        <li>GitHub/GitLab for version control and collaborative documentation updates.</li>
+                                        <li>Content management systems (CMS) like Confluence or Notion for internal docs.</li>
+                                    </ul>
 
-                                <p>These tools help ensure version control, seamless updates, and consistent formatting across platforms.</p>
+                                    <p>These tools help ensure version control, seamless updates, and consistent formatting across platforms.</p>
 
-                                <h2>Collaborative Aspects of Technical Writing</h2>
-                                <p>Modern technical writing is rarely done in isolation. Writers collaborate with:</p>
-                                <ul>
-                                    <li>Developers, who provide source content and technical reviews.</li>
-                                    <li>Product managers, who ensure feature alignment.</li>
-                                    <li>UX designers, who inform content layout and usability.</li>
-                                    <li>QA teams, who help identify gaps or inconsistencies.</li>
-                                </ul>
+                                    <h2>Collaborative Aspects of Technical Writing</h2>
+                                    <p>Modern technical writing is rarely done in isolation. Writers collaborate with:</p>
+                                    <ul>
+                                        <li>Developers, who provide source content and technical reviews.</li>
+                                        <li>Product managers, who ensure feature alignment.</li>
+                                        <li>UX designers, who inform content layout and usability.</li>
+                                        <li>QA teams, who help identify gaps or inconsistencies.</li>
+                                    </ul>
 
-                                <p>In agile teams, technical writers often participate in sprint planning and reviews to stay informed about feature changes that impact documentation.</p>
+                                    <p>In agile teams, technical writers often participate in sprint planning and reviews to stay informed about feature changes that impact documentation.</p>
 
-                                <h2>Continuous Improvement in Documentation</h2>
-                                <p>In the world of software, documentation is never done. Continuous releases and rapid updates mean technical writers must:</p>
-                                <ul>
-                                    <li>Monitor user feedback to identify confusing areas.</li>
-                                    <li>Track support tickets for repeated questions.</li>
-                                    <li>Maintain changelogs that summarize updates.</li>
-                                    <li>Iterate and refine existing content to keep it relevant.</li>
-                                </ul>
+                                    <h2>Continuous Improvement in Documentation</h2>
+                                    <p>In the world of software, documentation is never done. Continuous releases and rapid updates mean technical writers must:</p>
+                                    <ul>
+                                        <li>Monitor user feedback to identify confusing areas.</li>
+                                        <li>Track support tickets for repeated questions.</li>
+                                        <li>Maintain changelogs that summarize updates.</li>
+                                        <li>Iterate and refine existing content to keep it relevant.</li>
+                                    </ul>
 
-                                <p>Living documentation is more effective than static, version-locked guides. API reference updates, deprecated features, or new SDK support should be reflected immediately to prevent misinformation.</p>
+                                    <p>Living documentation is more effective than static, version-locked guides. API reference updates, deprecated features, or new SDK support should be reflected immediately to prevent misinformation.</p>
 
-                                <h2>The Types of Software Documentation That Rely on Technical Writing</h2>
-                                <p>When considering the scope of software documentation, several key categories come into play:</p>
-                                <ul>
-                                <li>User Manuals: Instructions for end-users on how to install, configure, and use software.</li>
-                                <li>API Documentation (API Docs): Detailed information about APIs for developers integrating or extending software.</li>
-                                <li>Developer Guides: Step-by-step instructions for coding, testing, and deploying software components.</li>
-                                <li>Release Notes: Updates highlighting new features, fixes, and changes.</li>
-                                <li>FAQs and Troubleshooting Guides: Helping users quickly solve common problems.</li>
-                                <li>System Architecture Documentation: Technical specifications and design decisions for complex systems.</li>
-                                <li>Code Comments and Inline Documentation: Supporting code readability and maintenance.</li>
-                                <li>Integration Guides: Instructions for connecting software with other systems or services.</li>
-                                <li>Security Documentation: Guidelines for secure implementation and usage.</li>
-                                <li>Training Materials: Resources for onboarding new team members or users.</li>
-                                </ul>
+                                    <h2>The Types of Software Documentation That Rely on Technical Writing</h2>
+                                    <p>When considering the scope of software documentation, several key categories come into play:</p>
+                                    <ul>
+                                        <li>User Manuals: Instructions for end-users on how to install, configure, and use software.</li>
+                                        <li>API Documentation (API Docs): Detailed information about APIs for developers integrating or extending software.</li>
+                                        <li>Developer Guides: Step-by-step instructions for coding, testing, and deploying software components.</li>
+                                        <li>Release Notes: Updates highlighting new features, fixes, and changes.</li>
+                                        <li>FAQs and Troubleshooting Guides: Helping users quickly solve common problems.</li>
+                                        <li>System Architecture Documentation: Technical specifications and design decisions for complex systems.</li>
+                                        <li>Code Comments and Inline Documentation: Supporting code readability and maintenance.</li>
+                                        <li>Integration Guides: Instructions for connecting software with other systems or services.</li>
+                                        <li>Security Documentation: Guidelines for secure implementation and usage.</li>
+                                        <li>Training Materials: Resources for onboarding new team members or users.</li>
+                                    </ul>
 
-                                <h2>Best Practices for Software Documentation</h2>
-                                <p>To create effective software documentation, technical writers should follow these best practices:</p>
-                                <ul>
-                                    <li>Start with user needs and use cases</li>
-                                    <li>Use consistent terminology and formatting</li>
-                                    <li>Include code examples and screenshots where helpful</li>
-                                    <li>Implement version control for documentation</li>
-                                    <li>Regularly review and update content</li>
-                                    <li>Test documentation with actual users</li>
-                                </ul>
+                                    <h2>Best Practices for Software Documentation</h2>
+                                    <p>To create effective software documentation, technical writers should follow these best practices:</p>
+                                    <ul>
+                                        <li>Start with user needs and use cases</li>
+                                        <li>Use consistent terminology and formatting</li>
+                                        <li>Include code examples and screenshots where helpful</li>
+                                        <li>Implement version control for documentation</li>
+                                        <li>Regularly review and update content</li>
+                                        <li>Test documentation with actual users</li>
+                                    </ul>
 
-                                <h2>Conclusion</h2>
-                                <p>Technical writing plays a crucial role in software documentation by bridging the gap between complex technical concepts and user understanding. By following best practices and leveraging modern tools, technical writers can create documentation that is both comprehensive and accessible.</p>
+                                    <h2>Conclusion</h2>
+                                    <p>Technical writing plays a crucial role in software documentation by bridging the gap between complex technical concepts and user understanding. By following best practices and leveraging modern tools, technical writers can create documentation that is both comprehensive and accessible.</p>
 
-                                <p>Remember that good documentation is a living resource that evolves with the software it describes. Regular updates, user feedback, and collaboration with development teams are essential for maintaining high-quality documentation that serves its purpose effectively.</p>
-                                </div>  
+                                    <p>Remember that good documentation is a living resource that evolves with the software it describes. Regular updates, user feedback, and collaboration with development teams are essential for maintaining high-quality documentation that serves its purpose effectively.</p>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -579,11 +587,11 @@
 
                             <h4 class="widget-title">WhatsApp Marketing</h4>
                             <ul>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flows</a></li>
                             </ul>
                         </div>
                     </div>
@@ -593,24 +601,26 @@
                         <div class="f-item link">
                             <h4 class="widget-title">Video Services</h4>
                             <ul>
-                                <li><a href="../video/video-services.php">Explainer Videos</a></li>
-                                <li><a href="../video/video-services.php">Demo Videos</a></li>
-                                <li><a href="../video/video-services.php">Social Media Videos</a></li>
-                                <li><a href="../video/video-services.php">Video Editing</a></li>
-                                <li><a href="../video/video-services.php">How-to Videos</a></li>
+                                <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
+                                <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
+                                <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
+                                <li><a href="../services/Video-Editing.php">Video Editing</a></li>
+                                <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
+                            </ul>
                             </ul>
                         </div>
                     </div>
+
 
                     <!-- Data Services -->
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">Data Services</h4>
                             <ul>
-                                <li><a href="../coming-soon.php">Documents & PDF Data Entry Services</a></li>
-                                <li><a href="../coming-soon.php">Offline Data Entry Services</a></li>
-                                <li><a href="../coming-soon.php">Online Data Entry Services</a></li>
-                                <li><a href="../coming-soon.php">Product Data Entry Services</a></li>
+                                <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry Services</a></li>
+                                <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
+                                <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
+                                <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
                             </ul>
                         </div>
                     </div>
@@ -619,10 +629,10 @@
                         <div class="f-item link">
                             <h4 class="widget-title">Data Annotation Services</h4>
                             <ul>
-                                <li><a href="../coming-soon.php">Data Labeling Services</a></li>
-                                <li><a href="../coming-soon.php">Image Annotation Services</a></li>
-                                <li><a href="../coming-soon.php">Text Annotation Services</a></li>
-                                <li><a href="../coming-soon.php">Video Annotation Services</a></li>
+                                <li><a href="../data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
+                                <li><a href="../data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
+                                <li><a href="../data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
+                                <li><a href="../data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
                             </ul>
                         </div>
                     </div>
@@ -654,7 +664,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <p>Copyright &copy; 2025 <a href="https://www.itdgrowthlabs.com/">ITD GrowthLabs</a> All Rights Reserved</p>
+                        <p>Copyright &copy; 2025 ITD GrowthLabs All Rights Reserved</p>
                     </div>
                 </div>
             </div>

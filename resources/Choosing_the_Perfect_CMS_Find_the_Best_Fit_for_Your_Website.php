@@ -51,250 +51,258 @@
     <!-- Header 
 ============================================= -->
     <header>
-    <!-- Start Navigation -->
-    <nav class="navbar mobile-sidenav navbar-default validnavs dark on menu-center no-full">
+        <!-- Start Navigation -->
+        <nav class="navbar mobile-sidenav navbar-default validnavs dark on menu-center no-full">
 
-        <!-- Start Top Search -->
-        <div class="top-search">
-            <div class="container">
-                <form action="#">
-                    <div class="input-group">
-                        <span class="input-group-addon"><i class="fa fa-search"></i></span>
-                        <input type="text" class="form-control" placeholder="Search">
-                        <span class="input-group-addon close-search"><i class="fa fa-times"></i></span>
-                    </div>
-                </form>
-            </div>
-        </div>
-        <!-- End Top Search -->
-
-        <div class="container d-flex justify-content-between align-items-center">
-            <!-- Start Header Navigation -->
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
-                    <i class="fa fa-bars"></i>
-                </button>
-                <a class="navbar-brand" href="../index.php">
-                    <img src="../assets/img/logo.jpg" class="logo" alt="Logo">
-                </a>
-            </div>
-            <!-- End Header Navigation -->
-
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="navbar-menu">
-                <img src="../assets/img/logo.jpg" alt="Logo">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
-                    <i class="fa fa-times"></i>
-                </button>
-                <ul class="nav navbar-nav navbar-center" data-in="fadeInDown" data-out="fadeOutUp">
-
-                    <li class="dropdown megamenu-fw">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tech Services</a>
-                        <ul class="dropdown-menu megamenu-content" role="menu">
-                            <li>
-                                <div class="row">
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Core Tech Services</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../services/website-development-company.php">Website Design
-                                                        & Development</a></li>
-                                                <li><a href="../coming-soon.php">Template-Based Website Development</a>
-                                                </li>
-                                                <li><a href="../coming-soon.php">WordPress Website Development</a></li>
-                                                <li><a href="../coming-soon.php">Custom Website Development</a></li>
-                                                <li><a href="../coming-soon.php">E-commerce Website Development</a></li>
-
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">End-to-End Services</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../services/website-development-company.php">Website Design
-                                                        & Development</a></li>
-                                                <li><a href="../services/content-marketing-services.php">Content
-                                                        Marketing Services</a></li>
-                                                <li><a href="../services/seo-auditing-services.php">SEO Audit and
-                                                        Optimization</a></li>
-                                                <li><a href="../services/social-media-marketing.php">Social Media
-                                                        Marketing</a></li>
-                                                <li><a href="../services/google-search-ads-services.php">Google Search
-                                                        Ads</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">More Tech Solutions</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-
-                                                <li><a href="../coming-soon.php">App Development</a></li>
-                                                <li><a href="../coming-soon.php">IT Outsourcing Services</a></li>
-                                                <li><a href="../coming-soon.php">IT Team Outsourcing</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </li>
-
-
-                    <li class="dropdown megamenu-fw">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Content Services</a>
-                        <ul class="dropdown-menu megamenu-content" role="menu">
-                            <li>
-                                <div class="row">
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">SEO &amp; Content Writing</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../services/website-content-writing.php">Website Content
-                                                        Writing</a></li>
-                                                <li><a href="../services/seo-article-writing.php">SEO Article
-                                                        Writing</a></li>
-                                                <li><a href="../services/blog-writing-services.php">Blog Writing</a>
-                                                </li>
-                                                <li><a href="../services/case-study-writing-services.php">Case Study
-                                                        Writing</a></li>
-                                                <li><a href="../services/product-description-writing-services.php">Product
-                                                        Description</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Specialized Content Services</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../coming-soon.php">Content Writing & Strategy</a></li>
-                                                <li><a href="../coming-soon.php">Technical Writing Services</a></li>
-                                                <li><a href="../coming-soon.php">Whitepapers & Case Studies</a></li>
-                                                <li><a href="../coming-soon.php">Content Team Outsourcing</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Industries We Serve</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../services/logistics-content-marketing.php">Logistics</a>
-                                                </li>
-                                                <li><a href="../services/coming-soon.php">Manufacturing</a></li>
-                                                <li><a href="../services/coming-soon.php">Technology</a></li>
-                                                <li><a href="../services/ecommerce-content-services.php">E-commerce</a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </li>
-
-                    <li class="dropdown megamenu-fw">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">eLearning Services</a>
-                        <ul class="dropdown-menu megamenu-content" role="menu">
-                            <li>
-                                <div class="row">
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Custom Solutions</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../coming-soon.php">Custom eLearning Development</a></li>
-                                                <li><a href="../coming-soon.php">PowerPoint to eLearning Conversion</a>
-                                                </li>
-                                                <li><a href="../coming-soon.php">Mobile Learning / Microlearning</a>
-                                                </li>
-                                                <li><a href="../coming-soon.php">Gamified Learning Modules</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Use Cases</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="#">Employee Onboarding</a></li>
-                                                <li><a href="#">Talent Development</a></li>
-                                                <li><a href="#">Compliance Training</a></li>
-                                                <li><a href="#">Sales Enablement</a></li>
-                                                <li><a href="#">Customer Education</a></li>
-                                                <li><a href="#">Partner Enablement</a></li>
-                                                <li><a href="#">Frontline Workforce Training</a></li>
-                                                <li><a href="#">Member Training</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Industries Served</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="#">Software & Tech</a></li>
-                                                <li><a href="#">Financial Services</a></li>
-                                                <li><a href="#">Manufacturing</a></li>
-                                                <li><a href="#">Healthcare</a></li>
-                                                <li><a href="#">Government</a></li>
-                                                <li><a href="#">Restaurants & Hospitality</a></li>
-                                                <li><a href="#">Education</a></li>
-                                                <li><a href="#">Retail</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </li>
-
-                    <!--li class="dropdown">
-                        <a href="./services/whatsapp-marketing-and-automation.php" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
-                        </ul>
-                    </li-->
-
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Video Services</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="../video/video-services.php">Explainer Videos</a></li>
-                            <li><a href="../video/video-services.php">Demo Videos</a></li>
-                            <li><a href="../video/video-services.php">Video Ads</a></li>
-                            <li><a href="../video/video-services.php">Social Media Videos</a></li>
-                            <li><a href="../video/video-services.php">Repurpose Videos</a></li>
-                            <li><a href="../video/video-services.php">Video Editing</a></li>
-                            <li><a href="../video/video-services.php">How-to Videos</a></li>
-                            <li><a href="../video/video-services.php">Onboarding Videos</a></li>
-                        </ul>
-                    </li>
-
-                    <li><a href="contact-us.php">Contact</a></li>
-                </ul>
-            </div><!-- /.navbar-collapse -->
-
-            <div class="attr-right">
-                <!-- Start Atribute Navigation -->
-                <div class="attr-nav">
-                    <ul>
-                        <li class="button">
-                            <a href="https://calendly.com/itdgrowthlabs-info/30min">Book a Call</a>
-                        </li>
-                    </ul>
+            <!-- Start Top Search -->
+            <div class="top-search">
+                <div class="container">
+                    <form action="#">
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="fa fa-search"></i></span>
+                            <input type="text" class="form-control" placeholder="Search">
+                            <span class="input-group-addon close-search"><i class="fa fa-times"></i></span>
+                        </div>
+                    </form>
                 </div>
-                <!-- End Atribute Navigation -->
-
-                <!-- Overlay screen for menu -->
-                <div class="overlay-screen"></div>
-                <!-- End Overlay screen for menu -->
             </div>
+            <!-- End Top Search -->
 
-        </div>
-    </nav>
-    <!-- End Navigation -->
-</header>
+            <div class="d-flex justify-content-between align-items-center">
+                <!-- Start Header Navigation -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                        <i class="fa fa-bars"></i>
+                    </button>
+                    <a class="navbar-brand" href="../index.php">
+                        <img src="../assets/img/logo.jpg" class="logo" alt="Logo">
+                    </a>
+                </div>
+                <!-- End Header Navigation -->
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="navbar-menu">
+                    <img src="../assets/img/logo.jpg" alt="Logo">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                        <i class="fa fa-times"></i>
+                    </button>
+                    <ul class="nav navbar-nav navbar-center" data-in="fadeInDown" data-out="fadeOutUp">
+
+                        <li class="dropdown megamenu-fw">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tech Services</a>
+                            <ul class="dropdown-menu megamenu-content" role="menu">
+                                <li>
+                                    <div class="row">
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Core Tech Services</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
+                                                    <li><a href="../services/Template-Based-Website-Development.php">Template-Based Website Development</a>
+                                                    </li>
+                                                    <li><a href="../services/WordPress-Website-Development.php">WordPress Website Development</a></li>
+                                                    <li><a href="../services/Custom-Website-Development.php">Custom Website Development</a></li>
+                                                    <li><a href="../services/E-commerce-Website-Development.php">E-commerce Website Development</a></li>
+
+                                                </ul>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">End-to-End Services</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
+                                                    <li><a href="../services/content-marketing-services.php">Content Marketing Services</a></li>
+                                                    <li><a href="../services/seo-auditing-services.php">SEO Audit and Optimization</a></li>
+                                                    <li><a href="../services/social-media-marketing.php">Social Media Marketing</a></li>
+                                                    <li><a href="../services/google-search-ads-services.php">Google Search Ads</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">More Tech Solutions</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+
+                                                    <li><a href="../services/App-Development.php">App Development</a></li>
+                                                    <li><a href="../services/IT-Outsourcing-Services.php">IT Outsourcing Services</a></li>
+                                                    <li><a href="../services/IT-Team-Outsourcing.php">IT Team Outsourcing</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flow</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data Services</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
+                                <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
+                                <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
+                                <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
+                                <li><a href="../data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
+                                <li><a href="../data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
+                                <li><a href="../data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
+                                <li><a href="../data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
+                                <li><a href="../data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown megamenu-fw">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Content Services</a>
+                            <ul class="dropdown-menu megamenu-content" role="menu">
+                                <li>
+                                    <div class="row">
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">SEO &amp; Content Writing</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/website-content-writing.php">Website Content Writing</a></li>
+                                                    <li><a href="../services/seo-article-writing.php">SEO Article Writing</a></li>
+                                                    <li><a href="../services/blog-writing-services.php">Blog Writing</a></li>
+                                                    <li><a href="../services/case-study-writing-services.php">Case Study Writing</a></li>
+                                                    <li><a href="../services/product-description-writing-services.php">Product Description</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Specialized Content Services</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/content_writing_strategy.php">Content Writing & Strategy</a></li>
+                                                    <li><a href="../services/technical-writing-services.php">Technical Writing Services</a></li>
+                                                    <li><a href="../services/White-Papers-Case-Studies.php">Whitepapers & Case Studies</a></li>
+                                                    <li><a href="../services/Content-Team-Outsourcing.php">Content Team Outsourcing</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Industries We Serve</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/logistics-content-marketing.php">Logistics</a></li>
+                                                    <li><a href="../services/Industries-We-Serve-Manufacturing.php">Manufacturing</a></li>
+                                                    <li><a href="../services/Industries-We-Serve-Technology.php">Technology</a></li>
+                                                    <li><a href="../services/ecommerce-content-services.php">E-commerce</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown megamenu-fw">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">eLearning Services</a>
+                            <ul class="dropdown-menu megamenu-content" role="menu">
+                                <li>
+                                    <div class="row">
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Custom Solutions</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/Custom-eLearning-Development.php">Custom eLearning Development</a></li>
+                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php">PowerPoint to eLearning Conversion</a></li>
+                                                    <li><a href="../services/Mobile-Learn-Microlearning.php">Mobile Learning / Microlearning</a></li>
+                                                    <li><a href="../services/Gamified-Learning-Modules.php">Gamified Learning Modules</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Use Cases</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/Employee-Onboarding.php">Employee Onboarding</a></li>
+                                                    <li><a href="../services/Talent-Development.php">Talent Development</a></li>
+                                                    <li><a href="../services/Compliance-Training.php">Compliance Training</a></li>
+                                                    <li><a href="../services/Sales-Enablement.php">Sales Enablement</a></li>
+                                                    <li><a href="../services/Customer-Education.php">Customer Education</a></li>
+                                                    <li><a href="../services/Partner-Enablement.php">Partner Enablement</a></li>
+                                                    <li><a href="../services/Frontline-Workforce-Training.php">Frontline Workforce Training</a></li>
+                                                    <li><a href="../services/Member-Training.php">Member Training</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Industries Served</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../coming-soon.php">Software & Tech</a></li>
+                                                    <li><a href="../coming-soon.php">Financial Services</a></li>
+                                                    <li><a href="../coming-soon.php">Manufacturing</a></li>
+                                                    <li><a href="../coming-soon.php">Healthcare</a></li>
+                                                    <li><a href="../coming-soon.php">Government</a></li>
+                                                    <li><a href="../coming-soon.php">Restaurants & Hospitality</a></li>
+                                                    <li><a href="../coming-soon.php">Education</a></li>
+                                                    <li><a href="../coming-soon.php">Retail</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <!-- <li class="dropdown">
+                           <a href="./services/whatsapp-marketing-and-automation.php" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
+                           <ul class="dropdown-menu">
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
+                           </ul>
+                       </li> -->
+
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Video Services</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
+                                <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
+                                <li><a href="../services/Video-Ads.php">Video Ads</a></li>
+                                <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
+                                <li><a href="../services/Repurpose-Videos.php">Repurpose Videos</a></li>
+                                <li><a href="../services/Video-Editing.php">Video Editing</a></li>
+                                <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
+                                <li><a href="../services/Onboarding-Videos.php">Onboarding Videos</a></li>
+                            </ul>
+                        </li>
+
+                        <li><a href="../contact-us.php">Contact</a></li>
+                    </ul>
+                </div><!-- /.navbar-collapse -->
+
+                <div class="attr-right">
+                    <!-- Start Atribute Navigation -->
+                    <div class="attr-nav">
+                        <ul>
+                            <li class="button">
+                                <a href="https://calendly.com/itdgrowthlabs-info/30min">Book a Call</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- End Atribute Navigation -->
+
+                    <!-- Overlay screen for menu -->
+                    <div class="overlay-screen"></div>
+                    <!-- End Overlay screen for menu -->
+                </div>
+
+            </div>
+        </nav>
+        <!-- End Navigation -->
+    </header>
     <!-- End Header -->
     <!-- Start Banner Area 
     ============================================= -->
@@ -334,76 +342,76 @@
 
                                     <h2>Why Do You Need a CMS?</h2>
                                     <p>Using a CMS simplifies website creation and management, offering several key benefits:</p>
-                                    
+
                                     <h3>1. Ease of Use</h3>
                                     <ul>
                                         <li>A CMS eliminates the need for extensive coding knowledge.</li>
                                         <li>The graphical user interface (GUI) allows users to create and modify content easily.</li>
                                         <li>Drag-and-drop functionality and WYSIWYG (What You See Is What You Get) editors enhance usability.</li>
                                     </ul>
-                                    
+
                                     <h3>2. SEO Optimization</h3>
                                     <ul>
                                         <li>Many CMS platforms offer built-in SEO tools.</li>
                                         <li>Features like meta tags, alt text, and URL customization improve search engine rankings.</li>
                                         <li>Plugins such as Yoast SEO for WordPress provide advanced optimization options.</li>
                                     </ul>
-                                    
+
                                     <h3>3. Customization and Flexibility</h3>
                                     <ul>
                                         <li>A CMS supports themes, templates, and plugins for design customization.</li>
                                         <li>Users can modify layout and functionality without altering core code.</li>
                                         <li>Open-source CMS platforms like WordPress, Joomla, and Drupal provide extensive customization options.</li>
                                     </ul>
-                                    
+
                                     <h3>4. Scalability</h3>
                                     <ul>
                                         <li>A CMS grows with your business, from small blogs to enterprise-level websites.</li>
                                         <li>Additional features, pages, and integrations can be added as needed.</li>
                                         <li>Cloud-based CMS platforms offer greater flexibility in scaling operations.</li>
                                     </ul>
-                                    
+
                                     <h3>5. Collaboration and User Management</h3>
                                     <ul>
                                         <li>Multiple users can access and manage content simultaneously.</li>
                                         <li>Role-based permissions allow administrators to control editing access.</li>
                                         <li>Workflow approvals ensure quality control and organized content updates.</li>
                                     </ul>
-                                    
+
                                     <h3>6. Cost-Effectiveness</h3>
                                     <ul>
                                         <li>Open-source CMS platforms like WordPress eliminate expensive development costs.</li>
                                         <li>Pre-built themes and plugins reduce the need for custom design and coding.</li>
                                         <li>Hosting and maintenance costs are often lower compared to custom-coded websites.</li>
                                     </ul>
-                                    
+
                                     <h3>7. Fast Deployment</h3>
                                     <ul>
                                         <li>Websites can be set up quickly using pre-designed templates.</li>
                                         <li>Built-in features like form builders, galleries, and eCommerce modules accelerate development.</li>
                                         <li>Automatic updates and security patches ensure smooth performance.</li>
                                     </ul>
-                                    
+
                                     <h3>8. Security and Maintenance</h3>
                                     <ul>
                                         <li>Many CMS platforms offer regular security updates.</li>
                                         <li>Plugins and third-party security tools enhance website protection.</li>
                                         <li>Backup and recovery options minimize data loss risks.</li>
                                     </ul>
-                                    
+
                                     <h3>9. Integration with Third-Party Tools</h3>
                                     <ul>
                                         <li>CMS platforms integrate with CRM software, email marketing tools, and social media.</li>
                                         <li>API support enables connection with external applications.</li>
                                         <li>eCommerce features like payment gateways and inventory management can be added.</li>
                                     </ul>
-                                    
+
                                     <p>A CMS is an essential tool for modern website management, offering a balance of usability, customization, and scalability. Whether for a blog, business website, or online store, a CMS streamlines content management and enhances digital presence.</p>
                                     <p>Which feature do you think is the most important for your website?</p>
 
                                     <h2>Types of CMS Platforms</h2>
                                     <p>There are various CMS (Content Management System) platforms, each designed to cater to specific needs and business requirements. Below are the major types of CMS software, along with their features, advantages, and limitations.</p>
-                                    
+
                                     <h3>1. Open-Source CMS</h3>
                                     <p><strong>Examples:</strong> WordPress, Joomla, Drupal</p>
                                     <p><strong>Key Features:</strong></p>
@@ -443,7 +451,7 @@
                                         <li><strong>Limited Customization:</strong> Users have restricted access to modify the platform's core functionality.</li>
                                         <li><strong>Ongoing Subscription Fees:</strong> Monthly or annual costs can add up over time.</li>
                                     </ul>
-                                    
+
                                     <h3>3. Headless CMS</h3>
                                     <p><strong>Examples:</strong> Contentful, Strapi</p>
                                     <p><strong>Key Features:</strong></p>
@@ -463,7 +471,7 @@
                                         <li><strong>Requires Technical Expertise:</strong> Developers are needed to implement and manage the API-driven system.</li>
                                         <li><strong>Complex Setup:</strong> More challenging to configure compared to traditional CMS platforms.</li>
                                     </ul>
-                                    
+
                                     <h3>4. Cloud-Based CMS</h3>
                                     <p><strong>Examples:</strong> HubSpot CMS, Magento Commerce</p>
                                     <p><strong>Key Features:</strong></p>
@@ -483,7 +491,7 @@
                                         <li><strong>Subscription-Based:</strong> Costs can increase over time due to monthly fees.</li>
                                         <li><strong>Customization Limits:</strong> Some cloud CMS platforms restrict access to backend customization.</li>
                                     </ul>
-                                    
+
                                     <h3>5. Enterprise CMS</h3>
                                     <p><strong>Examples:</strong> Sitecore, Adobe Experience Manager</p>
                                     <p><strong>Key Features:</strong></p>
@@ -503,7 +511,7 @@
                                         <li><strong>Expensive:</strong> High licensing and implementation costs.</li>
                                         <li><strong>Requires IT Support:</strong> Skilled developers and IT professionals are necessary for setup and maintenance.</li>
                                     </ul>
-                                    
+
                                     <p>Each CMS type serves a unique purpose, depending on the user's technical expertise, business requirements, and budget. Understanding their key features, advantages, and drawbacks helps in selecting the most suitable platform for your needs.</p>
 
                                     <h2>Key Factors to Consider When Choosing a CMS</h2>
@@ -514,7 +522,7 @@
                                         <li><strong>Drag-and-Drop Functionality:</strong> Many beginner-friendly platforms, like WordPress and Wix, offer drag-and-drop builders that make website design effortless.</li>
                                         <li><strong>Minimal Coding Required:</strong> Non-developers should be able to update pages, add media, and publish content without writing code.</li>
                                     </ul>
-                                    
+
                                     <h3>2. Customization Options</h3>
                                     <p>A flexible CMS allows you to tailor the website according to your unique business or personal needs.</p>
                                     <ul>
@@ -522,7 +530,7 @@
                                         <li><strong>Plugin and Module Support:</strong> A good CMS should offer a variety of plugins/extensions to add extra functionality, such as forms, e-commerce, or membership options.</li>
                                         <li><strong>Custom Code Access:</strong> Advanced users may require direct access to HTML, CSS, and JavaScript for deeper customization.</li>
                                     </ul>
-                                    
+
                                     <h3>3. SEO Capabilities</h3>
                                     <p>A CMS with built-in SEO tools can help improve your website's ranking on search engines.</p>
                                     <ul>
@@ -531,7 +539,7 @@
                                         <li><strong>Mobile Optimization:</strong> Google prioritizes mobile-friendly sites, so the CMS should offer responsive design options.</li>
                                         <li><strong>Metadata and Image Optimization:</strong> A strong CMS enables easy modification of title tags, meta descriptions, and alt text for images.</li>
                                     </ul>
-                                    
+
                                     <h3>4. Security Features</h3>
                                     <p>A secure CMS is essential to protect websites from cyber threats such as hacking, malware, and data breaches.</p>
                                     <ul>
@@ -540,7 +548,7 @@
                                         <li><strong>User Roles & Permissions:</strong> Limit access levels for different users to prevent unauthorized content modifications.</li>
                                         <li><strong>Firewalls and Anti-Malware Tools:</strong> Some CMS platforms offer built-in security plugins or third-party integrations.</li>
                                     </ul>
-                                    
+
                                     <h3>5. Scalability</h3>
                                     <p>If you plan to expand your website, the CMS should be capable of handling growth in traffic and content.</p>
                                     <ul>
@@ -548,7 +556,7 @@
                                         <li><strong>E-commerce Integration:</strong> If you plan to sell products, platforms like Shopify and Magento provide built-in e-commerce features.</li>
                                         <li><strong>Multisite and Multilingual Support:</strong> Growing businesses may need multi-domain support or the ability to serve different languages.</li>
                                     </ul>
-                                    
+
                                     <h3>6. Support & Community</h3>
                                     <p>A strong support system ensures that troubleshooting help is readily available.</p>
                                     <ul>
@@ -556,7 +564,7 @@
                                         <li><strong>Customer Support:</strong> Some CMSs offer dedicated customer service, while open-source platforms rely on community-driven support.</li>
                                         <li><strong>Documentation & Tutorials:</strong> Look for a CMS with an extensive knowledge base, how-to guides, and video tutorials.</li>
                                     </ul>
-                                    
+
                                     <p>By considering these factors, you can choose the best CMS that aligns with your goals and technical expertise.</p>
 
                                     <p>Which feature is a deal-breaker for you?</p>
@@ -585,7 +593,7 @@
                                         <li>The WordPress CMS itself is free, but users may need to pay for hosting, premium themes, and plugins.</li>
                                         <li>Open-source nature makes it highly affordable compared to proprietary CMS solutions.</li>
                                     </ul>
-                                    
+
                                     <h3>2. Shopify – Best for E-Commerce</h3>
                                     <p>For small businesses looking to set up an online store, Shopify is one of the best CMS options. It offers everything from hosting to built-in payment processing.</p>
                                     <p><strong>E-commerce Features:</strong></p>
@@ -609,7 +617,7 @@
                                         <li>Fully hosted platform, meaning Shopify takes care of security, updates, and backups.</li>
                                         <li>Comes with SSL encryption and PCI compliance for secure transactions.</li>
                                     </ul>
-                                    
+
                                     <h3>3. Wix – Best for Beginners</h3>
                                     <p>Wix is an excellent drag-and-drop website builder designed for small businesses that need a simple yet professional-looking website.</p>
                                     <p><strong>Ease of Use:</strong></p>
@@ -633,7 +641,7 @@
                                         <li>Wix is a fully hosted solution, meaning users don't have to worry about server management.</li>
                                         <li>Includes automatic updates, SSL encryption, and DDoS protection.</li>
                                     </ul>
-                                    
+
                                     <h3>4. Squarespace – Best for Design & Branding</h3>
                                     <p>For small businesses that prioritize aesthetics and branding, Squarespace offers some of the best-designed templates on the market.</p>
                                     <p><strong>Ease of Use:</strong></p>
@@ -656,7 +664,7 @@
                                         <li>Fully managed hosting with fast servers and reliable performance.</li>
                                         <li>SSL encryption and automatic backups for data protection.</li>
                                     </ul>
-                                    
+
                                     <p>By selecting the right CMS, small businesses can ensure an efficient, scalable, and cost-effective online presence.</p>
 
                                     <p>Which CMS do you think is the best fit for your business?</p>
@@ -688,8 +696,8 @@
                                     <p>Choosing the right CMS platform depends on your business needs, budget, and technical expertise. Whether you need the best CMS for small businesses, a powerful website CMS, or an SEO-optimized platform, making an informed decision is key.</p>
                                     <p>If you need professional guidance, <a href="https://www.itdgrowthlabs.com/">ITD GrowthLabs</a> can help you select and implement the perfect CMS for your website.</p>
                                     <p>Which CMS are you considering for your website? Let us know in the comments!</p>
-                                    
-                                    
+
+
                                 </div>
                             </div>
                         </div>
@@ -801,11 +809,11 @@
 
                             <h4 class="widget-title">WhatsApp Marketing</h4>
                             <ul>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flows</a></li>
                             </ul>
                         </div>
                     </div>
@@ -815,24 +823,26 @@
                         <div class="f-item link">
                             <h4 class="widget-title">Video Services</h4>
                             <ul>
-                                <li><a href="../video/video-services.php">Explainer Videos</a></li>
-                                <li><a href="../video/video-services.php">Demo Videos</a></li>
-                                <li><a href="../video/video-services.php">Social Media Videos</a></li>
-                                <li><a href="../video/video-services.php">Video Editing</a></li>
-                                <li><a href="../video/video-services.php">How-to Videos</a></li>
+                                <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
+                                <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
+                                <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
+                                <li><a href="../services/Video-Editing.php">Video Editing</a></li>
+                                <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
+                            </ul>
                             </ul>
                         </div>
                     </div>
+
 
                     <!-- Data Services -->
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">Data Services</h4>
                             <ul>
-                                <li><a href="../coming-soon.php">Documents & PDF Data Entry Services</a></li>
-                                <li><a href="../coming-soon.php">Offline Data Entry Services</a></li>
-                                <li><a href="../coming-soon.php">Online Data Entry Services</a></li>
-                                <li><a href="../coming-soon.php">Product Data Entry Services</a></li>
+                                <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry Services</a></li>
+                                <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
+                                <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
+                                <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
                             </ul>
                         </div>
                     </div>
@@ -841,10 +851,10 @@
                         <div class="f-item link">
                             <h4 class="widget-title">Data Annotation Services</h4>
                             <ul>
-                                <li><a href="../coming-soon.php">Data Labeling Services</a></li>
-                                <li><a href="../coming-soon.php">Image Annotation Services</a></li>
-                                <li><a href="../coming-soon.php">Text Annotation Services</a></li>
-                                <li><a href="../coming-soon.php">Video Annotation Services</a></li>
+                                <li><a href="../data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
+                                <li><a href="../data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
+                                <li><a href="../data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
+                                <li><a href="../data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
                             </ul>
                         </div>
                     </div>
@@ -876,7 +886,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <p>Copyright &copy; 2025 <a href="https://www.itdgrowthlabs.com/">ITD GrowthLabs</a> All Rights Reserved</p>
+                        <p>Copyright &copy; 2025 ITD GrowthLabs All Rights Reserved</p>
                     </div>
                 </div>
             </div>

@@ -68,7 +68,7 @@
             </div>
             <!-- End Top Search -->
 
-            <div class="container d-flex justify-content-between align-items-center">
+            <div class="d-flex justify-content-between align-items-center">
                 <!-- Start Header Navigation -->
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
@@ -97,31 +97,26 @@
                                             <h6 class="title">Core Tech Services</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/website-development-company.php">Website Design
-                                                            & Development</a></li>
-                                                    <li><a href="../coming-soon.php">Template-Based Website Development</a>
+                                                    <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
+                                                    <li><a href="../services/Template-Based-Website-Development.php">Template-Based Website Development</a>
                                                     </li>
-                                                    <li><a href="../coming-soon.php">WordPress Website Development</a></li>
-                                                    <li><a href="../coming-soon.php">Custom Website Development</a></li>
-                                                    <li><a href="../coming-soon.php">E-commerce Website Development</a></li>
+                                                    <li><a href="../services/WordPress-Website-Development.php">WordPress Website Development</a></li>
+                                                    <li><a href="../services/Custom-Website-Development.php">Custom Website Development</a></li>
+                                                    <li><a href="../services/E-commerce-Website-Development.php">E-commerce Website Development</a></li>
 
                                                 </ul>
                                             </div>
                                         </div>
+
                                         <div class="col-menu col-lg-4">
                                             <h6 class="title">End-to-End Services</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/website-development-company.php">Website Design
-                                                            & Development</a></li>
-                                                    <li><a href="../services/content-marketing-services.php">Content
-                                                            Marketing Services</a></li>
-                                                    <li><a href="../services/seo-auditing-services.php">SEO Audit and
-                                                            Optimization</a></li>
-                                                    <li><a href="../services/social-media-marketing.php">Social Media
-                                                            Marketing</a></li>
-                                                    <li><a href="../services/google-search-ads-services.php">Google Search
-                                                            Ads</a></li>
+                                                    <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
+                                                    <li><a href="../services/content-marketing-services.php">Content Marketing Services</a></li>
+                                                    <li><a href="../services/seo-auditing-services.php">SEO Audit and Optimization</a></li>
+                                                    <li><a href="../services/social-media-marketing.php">Social Media Marketing</a></li>
+                                                    <li><a href="../services/google-search-ads-services.php">Google Search Ads</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -130,9 +125,9 @@
                                             <div class="content">
                                                 <ul class="menu-col">
 
-                                                    <li><a href="../coming-soon.php">App Development</a></li>
-                                                    <li><a href="../coming-soon.php">IT Outsourcing Services</a></li>
-                                                    <li><a href="../coming-soon.php">IT Team Outsourcing</a></li>
+                                                    <li><a href="../services/App-Development.php">App Development</a></li>
+                                                    <li><a href="../services/IT-Outsourcing-Services.php">IT Outsourcing Services</a></li>
+                                                    <li><a href="../services/IT-Team-Outsourcing.php">IT Team Outsourcing</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -140,8 +135,30 @@
                                 </li>
                             </ul>
                         </li>
-
-
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flow</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data Services</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
+                                <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
+                                <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
+                                <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
+                                <li><a href="../data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
+                                <li><a href="../data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
+                                <li><a href="../data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
+                                <li><a href="../data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
+                                <li><a href="../data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
+                            </ul>
+                        </li>
                         <li class="dropdown megamenu-fw">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Content Services</a>
                             <ul class="dropdown-menu megamenu-content" role="menu">
@@ -151,16 +168,11 @@
                                             <h6 class="title">SEO &amp; Content Writing</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/website-content-writing.php">Website Content
-                                                            Writing</a></li>
-                                                    <li><a href="../services/seo-article-writing.php">SEO Article
-                                                            Writing</a></li>
-                                                    <li><a href="../services/blog-writing-services.php">Blog Writing</a>
-                                                    </li>
-                                                    <li><a href="../services/case-study-writing-services.php">Case Study
-                                                            Writing</a></li>
-                                                    <li><a href="../services/product-description-writing-services.php">Product
-                                                            Description</a></li>
+                                                    <li><a href="../services/website-content-writing.php">Website Content Writing</a></li>
+                                                    <li><a href="../services/seo-article-writing.php">SEO Article Writing</a></li>
+                                                    <li><a href="../services/blog-writing-services.php">Blog Writing</a></li>
+                                                    <li><a href="../services/case-study-writing-services.php">Case Study Writing</a></li>
+                                                    <li><a href="../services/product-description-writing-services.php">Product Description</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -168,10 +180,10 @@
                                             <h6 class="title">Specialized Content Services</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../coming-soon.php">Content Writing & Strategy</a></li>
-                                                    <li><a href="../coming-soon.php">Technical Writing Services</a></li>
-                                                    <li><a href="../coming-soon.php">Whitepapers & Case Studies</a></li>
-                                                    <li><a href="../coming-soon.php">Content Team Outsourcing</a></li>
+                                                    <li><a href="../services/content_writing_strategy.php">Content Writing & Strategy</a></li>
+                                                    <li><a href="../services/technical-writing-services.php">Technical Writing Services</a></li>
+                                                    <li><a href="../services/White-Papers-Case-Studies.php">Whitepapers & Case Studies</a></li>
+                                                    <li><a href="../services/Content-Team-Outsourcing.php">Content Team Outsourcing</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -179,12 +191,10 @@
                                             <h6 class="title">Industries We Serve</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/logistics-content-marketing.php">Logistics</a>
-                                                    </li>
-                                                    <li><a href="../services/coming-soon.php">Manufacturing</a></li>
-                                                    <li><a href="../services/coming-soon.php">Technology</a></li>
-                                                    <li><a href="../services/ecommerce-content-services.php">E-commerce</a>
-                                                    </li>
+                                                    <li><a href="../services/logistics-content-marketing.php">Logistics</a></li>
+                                                    <li><a href="../services/Industries-We-Serve-Manufacturing.php">Manufacturing</a></li>
+                                                    <li><a href="../services/Industries-We-Serve-Technology.php">Technology</a></li>
+                                                    <li><a href="../services/ecommerce-content-services.php">E-commerce</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -202,12 +212,10 @@
                                             <h6 class="title">Custom Solutions</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../coming-soon.php">Custom eLearning Development</a></li>
-                                                    <li><a href="../coming-soon.php">PowerPoint to eLearning Conversion</a>
-                                                    </li>
-                                                    <li><a href="../coming-soon.php">Mobile Learning / Microlearning</a>
-                                                    </li>
-                                                    <li><a href="../coming-soon.php">Gamified Learning Modules</a></li>
+                                                    <li><a href="../services/Custom-eLearning-Development.php">Custom eLearning Development</a></li>
+                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php">PowerPoint to eLearning Conversion</a></li>
+                                                    <li><a href="../services/Mobile-Learn-Microlearning.php">Mobile Learning / Microlearning</a></li>
+                                                    <li><a href="../services/Gamified-Learning-Modules.php">Gamified Learning Modules</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -215,14 +223,14 @@
                                             <h6 class="title">Use Cases</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="#">Employee Onboarding</a></li>
-                                                    <li><a href="#">Talent Development</a></li>
-                                                    <li><a href="#">Compliance Training</a></li>
-                                                    <li><a href="#">Sales Enablement</a></li>
-                                                    <li><a href="#">Customer Education</a></li>
-                                                    <li><a href="#">Partner Enablement</a></li>
-                                                    <li><a href="#">Frontline Workforce Training</a></li>
-                                                    <li><a href="#">Member Training</a></li>
+                                                    <li><a href="../services/Employee-Onboarding.php">Employee Onboarding</a></li>
+                                                    <li><a href="../services/Talent-Development.php">Talent Development</a></li>
+                                                    <li><a href="../services/Compliance-Training.php">Compliance Training</a></li>
+                                                    <li><a href="../services/Sales-Enablement.php">Sales Enablement</a></li>
+                                                    <li><a href="../services/Customer-Education.php">Customer Education</a></li>
+                                                    <li><a href="../services/Partner-Enablement.php">Partner Enablement</a></li>
+                                                    <li><a href="../services/Frontline-Workforce-Training.php">Frontline Workforce Training</a></li>
+                                                    <li><a href="../services/Member-Training.php">Member Training</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -230,14 +238,14 @@
                                             <h6 class="title">Industries Served</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="#">Software & Tech</a></li>
-                                                    <li><a href="#">Financial Services</a></li>
-                                                    <li><a href="#">Manufacturing</a></li>
-                                                    <li><a href="#">Healthcare</a></li>
-                                                    <li><a href="#">Government</a></li>
-                                                    <li><a href="#">Restaurants & Hospitality</a></li>
-                                                    <li><a href="#">Education</a></li>
-                                                    <li><a href="#">Retail</a></li>
+                                                    <li><a href="../coming-soon.php">Software & Tech</a></li>
+                                                    <li><a href="../coming-soon.php">Financial Services</a></li>
+                                                    <li><a href="../coming-soon.php">Manufacturing</a></li>
+                                                    <li><a href="../coming-soon.php">Healthcare</a></li>
+                                                    <li><a href="../coming-soon.php">Government</a></li>
+                                                    <li><a href="../coming-soon.php">Restaurants & Hospitality</a></li>
+                                                    <li><a href="../coming-soon.php">Education</a></li>
+                                                    <li><a href="../coming-soon.php">Retail</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -246,32 +254,32 @@
                             </ul>
                         </li>
 
-                        <!--li class="dropdown">
-                        <a href="./services/whatsapp-marketing-and-automation.php" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
-                        </ul>
-                    </li-->
+                        <!-- <li class="dropdown">
+                           <a href="./services/whatsapp-marketing-and-automation.php" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
+                           <ul class="dropdown-menu">
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
+                           </ul>
+                       </li> -->
 
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Video Services</a>
                             <ul class="dropdown-menu">
-                                <li><a href="../video/video-services.php">Explainer Videos</a></li>
-                                <li><a href="../video/video-services.php">Demo Videos</a></li>
-                                <li><a href="../video/video-services.php">Video Ads</a></li>
-                                <li><a href="../video/video-services.php">Social Media Videos</a></li>
-                                <li><a href="../video/video-services.php">Repurpose Videos</a></li>
-                                <li><a href="../video/video-services.php">Video Editing</a></li>
-                                <li><a href="../video/video-services.php">How-to Videos</a></li>
-                                <li><a href="../video/video-services.php">Onboarding Videos</a></li>
+                                <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
+                                <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
+                                <li><a href="../services/Video-Ads.php">Video Ads</a></li>
+                                <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
+                                <li><a href="../services/Repurpose-Videos.php">Repurpose Videos</a></li>
+                                <li><a href="../services/Video-Editing.php">Video Editing</a></li>
+                                <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
+                                <li><a href="../services/Onboarding-Videos.php">Onboarding Videos</a></li>
                             </ul>
                         </li>
 
-                        <li><a href="contact-us.php">Contact</a></li>
+                        <li><a href="../contact-us.php">Contact</a></li>
                     </ul>
                 </div><!-- /.navbar-collapse -->
 
@@ -314,203 +322,203 @@
                                         </ul>
                                     </div>
                                     <h1>Rewriting Website Content: The Ultimate Guide to Timely Updates</h1>
-                               
-                                <p><strong>Introduction</strong></p>
-                                <p>Your website is your digital storefront. But just like physical storefronts need refreshing to stay relevant, your web pages need a <strong>website content update</strong> to engage visitors, reflect brand growth, and improve rankings. Whether you’re planning a full <strong>website redesign content</strong> overhaul, a simple <strong>SEO content refresh</strong>, or revamping pages for <strong>rebranding content</strong>, it’s crucial to know when and how to take action. Content that’s outdated or misaligned with your audience can damage your credibility and SEO performance.</p>
-                                <p>That’s where <strong>ITD GrowthLabs</strong> steps in. Our team specializes in strategizing and executing targeted website content updates that reflect your brand voice, business goals, and SEO needs. This blog dives deep into identifying the right time to rewrite your content, actionable steps to do it effectively, and how to align your digital presence with evolving market demands.</p>
-                                <p>Let’s explore how to turn outdated content into a performance powerhouse.</p>
 
-                                <h2>When Should You Rewrite Website Content?</h2>
-                                <p>A website content update isn’t just about keeping your site looking fresh. It’s about ensuring that your messaging reflects your brand's current reality, resonates with your target audience, and supports your digital performance goals. Businesses evolve—and your content should evolve with them. Below are the most common scenarios where rewriting your website content becomes not just helpful but necessary.</p>
-                                
-                                <h4>1. Your Business Has Rebranded</h4>
-                                <p>If your business has undergone a rebranding, your current content may no longer represent your brand identity, tone, or vision. A logo or color palette change is only the surface. When your brand’s voice shifts—be it from formal to conversational or from product-centric to customer-focused—your website must reflect this change in messaging.</p>
-                                <ul>
-                                    <li>Mission and values have changed</li>
-                                    <li>New brand voice or tone adopted</li>
-                                    <li>Messaging no longer matches visual identity</li>
-                                </ul>
-                                <p>In such a case, a <strong>rebranding content</strong> overhaul is crucial. It aligns your storytelling and voice across all touchpoints and ensures consistency across the user journey.</p>
-                                
-                                <h4>2. SEO Metrics Are Declining</h4>
-                                <p>Content that once performed well might now be outdated or irrelevant in the eyes of search engines. If you’re noticing a drop in your SEO performance—such as fewer impressions, decreased organic traffic, lower rankings, or reduced conversions—it may be time for a <strong>SEO content refresh</strong>.</p>
-                                <ul>
-                                    <li>Outdated keywords or topics</li>
-                                    <li>Poor meta tags and headers</li>
-                                    <li>Competitors outranking you on priority keywords</li>
-                                </ul>
-                                <p>Rewriting content with fresh search intent, improved structure, and updated keyword research helps your site regain visibility and user engagement.</p>
-                                
-                                <h4>3. You’re Launching a Website Redesign</h4>
-                                <p>Design and content must work together. If you’re launching a website redesign, keeping the old content can break the flow of the new layout or clash with your upgraded user experience. A mismatch between visuals and text can confuse users or reduce trust.</p>
-                                <ul>
-                                    <li>New site structure or navigation</li>
-                                    <li>Responsive/mobile-first design adjustments</li>
-                                    <li>Focus on improved user journey and clarity</li>
-                                </ul>
-                                <p>A <strong>website redesign content</strong> plan helps tailor messaging for new sections, ensures calls-to-action are effectively placed, and keeps language concise and conversion-focused.</p>
-                                
-                                <h4>4. Products, Services, or Audience Have Changed</h4>
-                                <p>As your business scales, your offerings and audience are likely to change. If you've added new products, adjusted services, or discovered a new customer demographic, your website needs to reflect those shifts.</p>
-                                <ul>
-                                    <li>New product lines or service packages are introduced</li>
-                                    <li>Existing services are restructured or phased out</li>
-                                    <li>Target personas or industries have shifted</li>
-                                </ul>
-                                <p>A focused <strong>website content update</strong> will reframe your value propositions, update benefit statements, and ensure that messaging speaks directly to your current audience’s needs.</p>
-                                
-                                <h4>5. You Have Too Much Outdated or Duplicate Content</h4>
-                                <p>Old blog posts, redundant service pages, and bloated content make websites hard to navigate and dilute your message. If users are struggling to find what they need—or if your internal teams can’t even tell which page to send someone to—it's a sign of content clutter.</p>
-                                <ul>
-                                    <li>Conflicting information across pages</li>
-                                    <li>Repetitive or overlapping copy</li>
-                                    <li>Dated statistics or broken links</li>
-                                </ul>
-                                <p>A content cleanup through rewriting or consolidating helps create a leaner, more effective website. This improves readability, navigation, and authority in the eyes of both users and search engines.</p>
-                                <p>Each of these situations represents a powerful opportunity to realign your brand’s digital presence. By knowing when and why to act, you ensure your website is not just a digital placeholder, but a strategic tool that reflects your growth, vision, and goals.</p>
-                                <blockquote>
-                                    <strong>What’s the oldest piece of content currently live on your website? Is it still accurate and relevant?</strong>
-                                </blockquote>
+                                    <p><strong>Introduction</strong></p>
+                                    <p>Your website is your digital storefront. But just like physical storefronts need refreshing to stay relevant, your web pages need a <strong>website content update</strong> to engage visitors, reflect brand growth, and improve rankings. Whether you’re planning a full <strong>website redesign content</strong> overhaul, a simple <strong>SEO content refresh</strong>, or revamping pages for <strong>rebranding content</strong>, it’s crucial to know when and how to take action. Content that’s outdated or misaligned with your audience can damage your credibility and SEO performance.</p>
+                                    <p>That’s where <strong>ITD GrowthLabs</strong> steps in. Our team specializes in strategizing and executing targeted website content updates that reflect your brand voice, business goals, and SEO needs. This blog dives deep into identifying the right time to rewrite your content, actionable steps to do it effectively, and how to align your digital presence with evolving market demands.</p>
+                                    <p>Let’s explore how to turn outdated content into a performance powerhouse.</p>
 
-                                <h2>How Often Should You Refresh Website Content?</h2>
-                                <p>Content expiration depends on the type of content and how frequently your industry evolves. Here’s a practical refresh schedule:</p>
-                                <ul>
-                                    <li><strong>Homepage:</strong> Every 6 months — reflect core messages and new CTAs</li>
-                                    <li><strong>Product/Service Pages:</strong> Every 3–6 months — adjust for offers, benefits, and updates</li>
-                                    <li><strong>Blog Articles:</strong> Every 6–12 months — add internal links, update stats, improve readability</li>
-                                    <li><strong>About Page:</strong> Annually — showcase milestones or mission updates</li>
-                                </ul>
-                                <p>Doing a <strong>website content update</strong> regularly keeps your site authoritative and engaging. Remember, content is not “set and forget.”</p>
+                                    <h2>When Should You Rewrite Website Content?</h2>
+                                    <p>A website content update isn’t just about keeping your site looking fresh. It’s about ensuring that your messaging reflects your brand's current reality, resonates with your target audience, and supports your digital performance goals. Businesses evolve—and your content should evolve with them. Below are the most common scenarios where rewriting your website content becomes not just helpful but necessary.</p>
 
-                                <h2>Key Signs You Need a Website Content Update</h2>
-                                <p>Your website is your digital storefront, and just like any physical space, it needs regular maintenance. If you're uncertain whether your site needs a <strong>website content update</strong>, there are several measurable and observable indicators that can help you decide. Below are the most common red flags that suggest your content may be outdated, misaligned, or underperforming.</p>
-                                
-                                <h4>1. Outdated Contact Details or Pricing</h4>
-                                <p>If your contact information or pricing structure has changed and your website hasn’t caught up, that’s a clear warning sign. Inaccurate details can lead to frustrated visitors, lost leads, and a credibility hit.</p>
-                                <ul>
-                                    <li>Old email addresses or phone numbers</li>
-                                    <li>Office addresses that are no longer valid</li>
-                                    <li>Pricing that doesn’t reflect current costs or packages</li>
-                                </ul>
-                                <p>Keeping this basic information accurate is critical to building trust and ensuring a seamless user experience.</p>
-                                
-                                <h4>2. Low On-Page Time and High Bounce Rates</h4>
-                                <p>Analytics can tell a powerful story. If your website has low average time-on-page or high bounce rates, users are likely finding the content unengaging, irrelevant, or hard to navigate. This often stems from stale or poorly written copy.</p>
-                                <ul>
-                                    <li>Pages with less than 30 seconds average time</li>
-                                    <li>High exit rates on core landing pages</li>
-                                    <li>Bounce rates above 60% on product or service pages</li>
-                                </ul>
-                                <p>These numbers usually indicate that visitors aren’t getting what they expected—or what they need—from your content.</p>
-                                
-                                <h4>3. Conflicting Tone and Branding Between Pages</h4>
-                                <p>When different pages on your site sound like they were written by different people with no cohesive strategy, it confuses visitors. A conflicting tone or inconsistent branding weakens your brand image and causes friction in the user journey.</p>
-                                <ul>
-                                    <li>A formal tone on the homepage but a casual tone in blogs</li>
-                                    <li>Mixed use of first person ("we") and third person ("the company")</li>
-                                    <li>Different messaging priorities on similar product or service pages</li>
-                                </ul>
-                                <p>A content style audit can help unify your messaging across all pages and ensure every word supports your brand voice.</p>
-                                
-                                <h4>4. Poor Performance in SEO Reports</h4>
-                                <p>SEO tools often reveal issues that aren’t visible to the naked eye. If your organic traffic is dropping, keyword rankings are stagnant, or your site is filled with thin or duplicated content, it’s a strong signal for a <strong>website content update</strong>.</p>
-                                <ul>
-                                    <li>Keyword cannibalization between pages</li>
-                                    <li>Pages with low word count or no clear topic</li>
-                                    <li>Metadata that is outdated or missing altogether</li>
-                                </ul>
-                                <p>Updating your content with keyword-rich, intent-matching text improves search visibility and strengthens authority.</p>
-                                
-                                <h4>5. Mobile UX Mismatched with Desktop Copy</h4>
-                                <p>If your desktop copy reads fine but becomes hard to follow on mobile devices, it’s time to revise. Mobile users need concise, skimmable content that matches their screen behavior and attention span.</p>
-                                <ul>
-                                    <li>Large paragraphs that don’t break well on small screens</li>
-                                    <li>CTAs buried below too much copy</li>
-                                    <li>Inconsistent formatting between mobile and desktop versions</li>
-                                </ul>
-                                <p>Optimizing your content structure for mobile ensures better engagement and conversions across all devices.</p>
-                                <p>By recognizing these warning signs early, you can implement timely and strategic content updates that improve performance, usability, and brand trust.</p>
-                                <blockquote>
-                                    <strong>What feedback have you received from users about your website? Has anyone pointed out confusing or missing information?</strong>
-                                </blockquote>
+                                    <h4>1. Your Business Has Rebranded</h4>
+                                    <p>If your business has undergone a rebranding, your current content may no longer represent your brand identity, tone, or vision. A logo or color palette change is only the surface. When your brand’s voice shifts—be it from formal to conversational or from product-centric to customer-focused—your website must reflect this change in messaging.</p>
+                                    <ul>
+                                        <li>Mission and values have changed</li>
+                                        <li>New brand voice or tone adopted</li>
+                                        <li>Messaging no longer matches visual identity</li>
+                                    </ul>
+                                    <p>In such a case, a <strong>rebranding content</strong> overhaul is crucial. It aligns your storytelling and voice across all touchpoints and ensures consistency across the user journey.</p>
 
-                                <h2>Steps to Effectively Rewrite Website Content</h2>
-                                <p>Rewriting content doesn’t mean starting from scratch. Use this strategic approach:</p>
-                                <ul>
-                                    <li><strong>Conduct a Content Audit</strong><br>
-                                        Evaluate what exists, what's working, and what needs retiring. Tag everything by priority.
-                                    </li>
-                                    <li><strong>Define New Objectives</strong><br>
-                                        Are you rebranding? Improving SEO? Enhancing UX? Let your goal shape your rewrite.
-                                    </li>
-                                    <li><strong>Map User Intent</strong><br>
-                                        Understand what users are looking for on each page and tailor messaging accordingly.
-                                    </li>
-                                    <li><strong>Apply SEO Strategies</strong><br>
-                                        Integrate current keywords, proper heading hierarchy, alt texts, meta tags, and schema markup — essential for a powerful SEO content refresh.
-                                    </li>
-                                    <li><strong>Ensure Consistency in Tone and Voice</strong><br>
-                                        A rebranding content campaign only works if your tone and language are unified site-wide.
-                                    </li>
-                                    <li><strong>Collaborate with Design and Dev Teams</strong><br>
-                                        A website redesign content rewrite should align with UX design, CTA placement, and mobile responsiveness.
-                                    </li>
-                                    <li><strong>Review, Test, and Optimize</strong><br>
-                                        Post-publish, analyze performance metrics and adjust where needed.
-                                    </li>
-                                </ul>
+                                    <h4>2. SEO Metrics Are Declining</h4>
+                                    <p>Content that once performed well might now be outdated or irrelevant in the eyes of search engines. If you’re noticing a drop in your SEO performance—such as fewer impressions, decreased organic traffic, lower rankings, or reduced conversions—it may be time for a <strong>SEO content refresh</strong>.</p>
+                                    <ul>
+                                        <li>Outdated keywords or topics</li>
+                                        <li>Poor meta tags and headers</li>
+                                        <li>Competitors outranking you on priority keywords</li>
+                                    </ul>
+                                    <p>Rewriting content with fresh search intent, improved structure, and updated keyword research helps your site regain visibility and user engagement.</p>
 
-                                <h2>Aligning Content Strategy with SEO Trends</h2>
-                                <p>As search engine algorithms continue to evolve, your content strategy must keep pace to remain visible and effective. Static content quickly becomes outdated in a dynamic digital landscape. By aligning your content approach with the latest SEO trends, you ensure that your website not only ranks higher but also delivers a better user experience. Below are key tactics to implement as part of a modern SEO content refresh.</p>
-                                
-                                <h4>1. Use Structured Data to Boost Click-Through Rates</h4>
-                                <p>Structured data (or schema markup) helps search engines better understand the content on your website. By using it, you can enhance how your pages appear in the search results with rich snippets, which in turn can improve your click-through rates (CTR).</p>
-                                <ul>
-                                    <li>Product schema to show price and availability</li>
-                                    <li>Review schema to display star ratings</li>
-                                    <li>FAQ schema to highlight answers directly in search results</li>
-                                </ul>
-                                <p>Implementing structured data makes your content more appealing and accessible, leading to increased visibility and interaction.</p>
-                                
-                                <h4>2. Refresh Internal Linking Structures</h4>
-                                <p>A clear, logical internal linking structure improves both SEO performance and the user journey. Search engines use internal links to discover and index pages. When done correctly, they also help distribute page authority and keep users engaged longer.</p>
-                                <ul>
-                                    <li>Link from high-authority pages to newer or underperforming ones</li>
-                                    <li>Use descriptive anchor text that aligns with the target page’s content</li>
-                                    <li>Avoid broken links or orphaned pages</li>
-                                </ul>
-                                <p>Updating your internal links regularly ensures that your site remains crawlable, organized, and strategically optimized.</p>
-                                
-                                <h4>3. Incorporate Voice-Search Phrases</h4>
-                                <p>The rise of smart devices has shifted how people search online. Instead of short keywords, users now favor natural, conversational queries. Adapting your content to include voice-search phrases helps capture this growing segment of traffic.</p>
-                                <ul>
-                                    <li>Use full questions like “What is the best way to send mangoes to the UK?”</li>
-                                    <li>Include long-tail keywords with localized context</li>
-                                    <li>Create FAQ sections that mirror how users speak</li>
-                                </ul>
-                                <p>Optimizing for voice search aligns your content with how modern audiences seek information.</p>
-                                
-                                <h4>4. Improve Readability for Mobile</h4>
-                                <p>A large portion of web traffic now comes from mobile devices, and search engines prioritize mobile-friendly content. Improving readability for mobile users is no longer optional—it’s essential.</p>
-                                <ul>
-                                    <li>Use short paragraphs and bullet points</li>
-                                    <li>Add subheadings every 100–150 words</li>
-                                    <li>Optimize font size and contrast for small screens</li>
-                                </ul>
-                                <p>Readable content improves engagement, reduces bounce rates, and boosts rankings in mobile search results.</p>
-                                
-                                <h4>5. Integrate Semantically-Related Keywords for Depth</h4>
-                                <p>Search engines now favor topic relevance over exact-match keywords. This means using semantically-related keywords—terms and phrases related to your main topic—to add context and depth.</p>
-                                <ul>
-                                    <li>Use keyword clusters instead of relying on a single term</li>
-                                    <li>Include synonyms and contextually relevant terms</li>
-                                    <li>Use tools like Google’s NLP API or LSIGraph to discover related terms</li>
-                                </ul>
-                                <p>This strategy improves your content’s comprehensiveness and helps search engines better match your pages with a variety of search queries.</p>
-                                <p>An effective SEO content refresh involves more than just tweaking a few headlines. It’s about embedding current search trends into your broader content strategy to maintain competitiveness, relevance, and alignment with user intent.</p>
-                                <blockquote>
-                                    <strong>Are your target keywords still aligned with how your ideal customers search today?</strong>
-                                </blockquote>
+                                    <h4>3. You’re Launching a Website Redesign</h4>
+                                    <p>Design and content must work together. If you’re launching a website redesign, keeping the old content can break the flow of the new layout or clash with your upgraded user experience. A mismatch between visuals and text can confuse users or reduce trust.</p>
+                                    <ul>
+                                        <li>New site structure or navigation</li>
+                                        <li>Responsive/mobile-first design adjustments</li>
+                                        <li>Focus on improved user journey and clarity</li>
+                                    </ul>
+                                    <p>A <strong>website redesign content</strong> plan helps tailor messaging for new sections, ensures calls-to-action are effectively placed, and keeps language concise and conversion-focused.</p>
+
+                                    <h4>4. Products, Services, or Audience Have Changed</h4>
+                                    <p>As your business scales, your offerings and audience are likely to change. If you've added new products, adjusted services, or discovered a new customer demographic, your website needs to reflect those shifts.</p>
+                                    <ul>
+                                        <li>New product lines or service packages are introduced</li>
+                                        <li>Existing services are restructured or phased out</li>
+                                        <li>Target personas or industries have shifted</li>
+                                    </ul>
+                                    <p>A focused <strong>website content update</strong> will reframe your value propositions, update benefit statements, and ensure that messaging speaks directly to your current audience’s needs.</p>
+
+                                    <h4>5. You Have Too Much Outdated or Duplicate Content</h4>
+                                    <p>Old blog posts, redundant service pages, and bloated content make websites hard to navigate and dilute your message. If users are struggling to find what they need—or if your internal teams can’t even tell which page to send someone to—it's a sign of content clutter.</p>
+                                    <ul>
+                                        <li>Conflicting information across pages</li>
+                                        <li>Repetitive or overlapping copy</li>
+                                        <li>Dated statistics or broken links</li>
+                                    </ul>
+                                    <p>A content cleanup through rewriting or consolidating helps create a leaner, more effective website. This improves readability, navigation, and authority in the eyes of both users and search engines.</p>
+                                    <p>Each of these situations represents a powerful opportunity to realign your brand’s digital presence. By knowing when and why to act, you ensure your website is not just a digital placeholder, but a strategic tool that reflects your growth, vision, and goals.</p>
+                                    <blockquote>
+                                        <strong>What’s the oldest piece of content currently live on your website? Is it still accurate and relevant?</strong>
+                                    </blockquote>
+
+                                    <h2>How Often Should You Refresh Website Content?</h2>
+                                    <p>Content expiration depends on the type of content and how frequently your industry evolves. Here’s a practical refresh schedule:</p>
+                                    <ul>
+                                        <li><strong>Homepage:</strong> Every 6 months — reflect core messages and new CTAs</li>
+                                        <li><strong>Product/Service Pages:</strong> Every 3–6 months — adjust for offers, benefits, and updates</li>
+                                        <li><strong>Blog Articles:</strong> Every 6–12 months — add internal links, update stats, improve readability</li>
+                                        <li><strong>About Page:</strong> Annually — showcase milestones or mission updates</li>
+                                    </ul>
+                                    <p>Doing a <strong>website content update</strong> regularly keeps your site authoritative and engaging. Remember, content is not “set and forget.”</p>
+
+                                    <h2>Key Signs You Need a Website Content Update</h2>
+                                    <p>Your website is your digital storefront, and just like any physical space, it needs regular maintenance. If you're uncertain whether your site needs a <strong>website content update</strong>, there are several measurable and observable indicators that can help you decide. Below are the most common red flags that suggest your content may be outdated, misaligned, or underperforming.</p>
+
+                                    <h4>1. Outdated Contact Details or Pricing</h4>
+                                    <p>If your contact information or pricing structure has changed and your website hasn’t caught up, that’s a clear warning sign. Inaccurate details can lead to frustrated visitors, lost leads, and a credibility hit.</p>
+                                    <ul>
+                                        <li>Old email addresses or phone numbers</li>
+                                        <li>Office addresses that are no longer valid</li>
+                                        <li>Pricing that doesn’t reflect current costs or packages</li>
+                                    </ul>
+                                    <p>Keeping this basic information accurate is critical to building trust and ensuring a seamless user experience.</p>
+
+                                    <h4>2. Low On-Page Time and High Bounce Rates</h4>
+                                    <p>Analytics can tell a powerful story. If your website has low average time-on-page or high bounce rates, users are likely finding the content unengaging, irrelevant, or hard to navigate. This often stems from stale or poorly written copy.</p>
+                                    <ul>
+                                        <li>Pages with less than 30 seconds average time</li>
+                                        <li>High exit rates on core landing pages</li>
+                                        <li>Bounce rates above 60% on product or service pages</li>
+                                    </ul>
+                                    <p>These numbers usually indicate that visitors aren’t getting what they expected—or what they need—from your content.</p>
+
+                                    <h4>3. Conflicting Tone and Branding Between Pages</h4>
+                                    <p>When different pages on your site sound like they were written by different people with no cohesive strategy, it confuses visitors. A conflicting tone or inconsistent branding weakens your brand image and causes friction in the user journey.</p>
+                                    <ul>
+                                        <li>A formal tone on the homepage but a casual tone in blogs</li>
+                                        <li>Mixed use of first person ("we") and third person ("the company")</li>
+                                        <li>Different messaging priorities on similar product or service pages</li>
+                                    </ul>
+                                    <p>A content style audit can help unify your messaging across all pages and ensure every word supports your brand voice.</p>
+
+                                    <h4>4. Poor Performance in SEO Reports</h4>
+                                    <p>SEO tools often reveal issues that aren’t visible to the naked eye. If your organic traffic is dropping, keyword rankings are stagnant, or your site is filled with thin or duplicated content, it’s a strong signal for a <strong>website content update</strong>.</p>
+                                    <ul>
+                                        <li>Keyword cannibalization between pages</li>
+                                        <li>Pages with low word count or no clear topic</li>
+                                        <li>Metadata that is outdated or missing altogether</li>
+                                    </ul>
+                                    <p>Updating your content with keyword-rich, intent-matching text improves search visibility and strengthens authority.</p>
+
+                                    <h4>5. Mobile UX Mismatched with Desktop Copy</h4>
+                                    <p>If your desktop copy reads fine but becomes hard to follow on mobile devices, it’s time to revise. Mobile users need concise, skimmable content that matches their screen behavior and attention span.</p>
+                                    <ul>
+                                        <li>Large paragraphs that don’t break well on small screens</li>
+                                        <li>CTAs buried below too much copy</li>
+                                        <li>Inconsistent formatting between mobile and desktop versions</li>
+                                    </ul>
+                                    <p>Optimizing your content structure for mobile ensures better engagement and conversions across all devices.</p>
+                                    <p>By recognizing these warning signs early, you can implement timely and strategic content updates that improve performance, usability, and brand trust.</p>
+                                    <blockquote>
+                                        <strong>What feedback have you received from users about your website? Has anyone pointed out confusing or missing information?</strong>
+                                    </blockquote>
+
+                                    <h2>Steps to Effectively Rewrite Website Content</h2>
+                                    <p>Rewriting content doesn’t mean starting from scratch. Use this strategic approach:</p>
+                                    <ul>
+                                        <li><strong>Conduct a Content Audit</strong><br>
+                                            Evaluate what exists, what's working, and what needs retiring. Tag everything by priority.
+                                        </li>
+                                        <li><strong>Define New Objectives</strong><br>
+                                            Are you rebranding? Improving SEO? Enhancing UX? Let your goal shape your rewrite.
+                                        </li>
+                                        <li><strong>Map User Intent</strong><br>
+                                            Understand what users are looking for on each page and tailor messaging accordingly.
+                                        </li>
+                                        <li><strong>Apply SEO Strategies</strong><br>
+                                            Integrate current keywords, proper heading hierarchy, alt texts, meta tags, and schema markup — essential for a powerful SEO content refresh.
+                                        </li>
+                                        <li><strong>Ensure Consistency in Tone and Voice</strong><br>
+                                            A rebranding content campaign only works if your tone and language are unified site-wide.
+                                        </li>
+                                        <li><strong>Collaborate with Design and Dev Teams</strong><br>
+                                            A website redesign content rewrite should align with UX design, CTA placement, and mobile responsiveness.
+                                        </li>
+                                        <li><strong>Review, Test, and Optimize</strong><br>
+                                            Post-publish, analyze performance metrics and adjust where needed.
+                                        </li>
+                                    </ul>
+
+                                    <h2>Aligning Content Strategy with SEO Trends</h2>
+                                    <p>As search engine algorithms continue to evolve, your content strategy must keep pace to remain visible and effective. Static content quickly becomes outdated in a dynamic digital landscape. By aligning your content approach with the latest SEO trends, you ensure that your website not only ranks higher but also delivers a better user experience. Below are key tactics to implement as part of a modern SEO content refresh.</p>
+
+                                    <h4>1. Use Structured Data to Boost Click-Through Rates</h4>
+                                    <p>Structured data (or schema markup) helps search engines better understand the content on your website. By using it, you can enhance how your pages appear in the search results with rich snippets, which in turn can improve your click-through rates (CTR).</p>
+                                    <ul>
+                                        <li>Product schema to show price and availability</li>
+                                        <li>Review schema to display star ratings</li>
+                                        <li>FAQ schema to highlight answers directly in search results</li>
+                                    </ul>
+                                    <p>Implementing structured data makes your content more appealing and accessible, leading to increased visibility and interaction.</p>
+
+                                    <h4>2. Refresh Internal Linking Structures</h4>
+                                    <p>A clear, logical internal linking structure improves both SEO performance and the user journey. Search engines use internal links to discover and index pages. When done correctly, they also help distribute page authority and keep users engaged longer.</p>
+                                    <ul>
+                                        <li>Link from high-authority pages to newer or underperforming ones</li>
+                                        <li>Use descriptive anchor text that aligns with the target page’s content</li>
+                                        <li>Avoid broken links or orphaned pages</li>
+                                    </ul>
+                                    <p>Updating your internal links regularly ensures that your site remains crawlable, organized, and strategically optimized.</p>
+
+                                    <h4>3. Incorporate Voice-Search Phrases</h4>
+                                    <p>The rise of smart devices has shifted how people search online. Instead of short keywords, users now favor natural, conversational queries. Adapting your content to include voice-search phrases helps capture this growing segment of traffic.</p>
+                                    <ul>
+                                        <li>Use full questions like “What is the best way to send mangoes to the UK?”</li>
+                                        <li>Include long-tail keywords with localized context</li>
+                                        <li>Create FAQ sections that mirror how users speak</li>
+                                    </ul>
+                                    <p>Optimizing for voice search aligns your content with how modern audiences seek information.</p>
+
+                                    <h4>4. Improve Readability for Mobile</h4>
+                                    <p>A large portion of web traffic now comes from mobile devices, and search engines prioritize mobile-friendly content. Improving readability for mobile users is no longer optional—it’s essential.</p>
+                                    <ul>
+                                        <li>Use short paragraphs and bullet points</li>
+                                        <li>Add subheadings every 100–150 words</li>
+                                        <li>Optimize font size and contrast for small screens</li>
+                                    </ul>
+                                    <p>Readable content improves engagement, reduces bounce rates, and boosts rankings in mobile search results.</p>
+
+                                    <h4>5. Integrate Semantically-Related Keywords for Depth</h4>
+                                    <p>Search engines now favor topic relevance over exact-match keywords. This means using semantically-related keywords—terms and phrases related to your main topic—to add context and depth.</p>
+                                    <ul>
+                                        <li>Use keyword clusters instead of relying on a single term</li>
+                                        <li>Include synonyms and contextually relevant terms</li>
+                                        <li>Use tools like Google’s NLP API or LSIGraph to discover related terms</li>
+                                    </ul>
+                                    <p>This strategy improves your content’s comprehensiveness and helps search engines better match your pages with a variety of search queries.</p>
+                                    <p>An effective SEO content refresh involves more than just tweaking a few headlines. It’s about embedding current search trends into your broader content strategy to maintain competitiveness, relevance, and alignment with user intent.</p>
+                                    <blockquote>
+                                        <strong>Are your target keywords still aligned with how your ideal customers search today?</strong>
+                                    </blockquote>
                                 </div>
                             </div>
                         </div>
@@ -621,11 +629,11 @@
 
                             <h4 class="widget-title">WhatsApp Marketing</h4>
                             <ul>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flows</a></li>
                             </ul>
                         </div>
                     </div>
@@ -635,24 +643,26 @@
                         <div class="f-item link">
                             <h4 class="widget-title">Video Services</h4>
                             <ul>
-                                <li><a href="../video/video-services.php">Explainer Videos</a></li>
-                                <li><a href="../video/video-services.php">Demo Videos</a></li>
-                                <li><a href="../video/video-services.php">Social Media Videos</a></li>
-                                <li><a href="../video/video-services.php">Video Editing</a></li>
-                                <li><a href="../video/video-services.php">How-to Videos</a></li>
+                                <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
+                                <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
+                                <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
+                                <li><a href="../services/Video-Editing.php">Video Editing</a></li>
+                                <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
+                            </ul>
                             </ul>
                         </div>
                     </div>
+
 
                     <!-- Data Services -->
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">Data Services</h4>
                             <ul>
-                                <li><a href="../coming-soon.php">Documents & PDF Data Entry Services</a></li>
-                                <li><a href="../coming-soon.php">Offline Data Entry Services</a></li>
-                                <li><a href="../coming-soon.php">Online Data Entry Services</a></li>
-                                <li><a href="../coming-soon.php">Product Data Entry Services</a></li>
+                                <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry Services</a></li>
+                                <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
+                                <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
+                                <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
                             </ul>
                         </div>
                     </div>
@@ -661,10 +671,10 @@
                         <div class="f-item link">
                             <h4 class="widget-title">Data Annotation Services</h4>
                             <ul>
-                                <li><a href="../coming-soon.php">Data Labeling Services</a></li>
-                                <li><a href="../coming-soon.php">Image Annotation Services</a></li>
-                                <li><a href="../coming-soon.php">Text Annotation Services</a></li>
-                                <li><a href="../coming-soon.php">Video Annotation Services</a></li>
+                                <li><a href="../data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
+                                <li><a href="../data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
+                                <li><a href="../data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
+                                <li><a href="../data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
                             </ul>
                         </div>
                     </div>
@@ -696,7 +706,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <p>Copyright &copy; 2025 <a href="https://www.itdgrowthlabs.com/">ITD GrowthLabs</a> All Rights Reserved</p>
+                        <p>Copyright &copy; 2025 ITD GrowthLabs All Rights Reserved</p>
                     </div>
                 </div>
             </div>

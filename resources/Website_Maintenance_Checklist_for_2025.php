@@ -68,7 +68,7 @@
             </div>
             <!-- End Top Search -->
 
-            <div class="container d-flex justify-content-between align-items-center">
+            <div class="d-flex justify-content-between align-items-center">
                 <!-- Start Header Navigation -->
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
@@ -97,31 +97,26 @@
                                             <h6 class="title">Core Tech Services</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/website-development-company.php">Website Design
-                                                            & Development</a></li>
-                                                    <li><a href="../coming-soon.php">Template-Based Website Development</a>
+                                                    <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
+                                                    <li><a href="../services/Template-Based-Website-Development.php">Template-Based Website Development</a>
                                                     </li>
-                                                    <li><a href="../coming-soon.php">WordPress Website Development</a></li>
-                                                    <li><a href="../coming-soon.php">Custom Website Development</a></li>
-                                                    <li><a href="../coming-soon.php">E-commerce Website Development</a></li>
+                                                    <li><a href="../services/WordPress-Website-Development.php">WordPress Website Development</a></li>
+                                                    <li><a href="../services/Custom-Website-Development.php">Custom Website Development</a></li>
+                                                    <li><a href="../services/E-commerce-Website-Development.php">E-commerce Website Development</a></li>
 
                                                 </ul>
                                             </div>
                                         </div>
+
                                         <div class="col-menu col-lg-4">
                                             <h6 class="title">End-to-End Services</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/website-development-company.php">Website Design
-                                                            & Development</a></li>
-                                                    <li><a href="../services/content-marketing-services.php">Content
-                                                            Marketing Services</a></li>
-                                                    <li><a href="../services/seo-auditing-services.php">SEO Audit and
-                                                            Optimization</a></li>
-                                                    <li><a href="../services/social-media-marketing.php">Social Media
-                                                            Marketing</a></li>
-                                                    <li><a href="../services/google-search-ads-services.php">Google Search
-                                                            Ads</a></li>
+                                                    <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
+                                                    <li><a href="../services/content-marketing-services.php">Content Marketing Services</a></li>
+                                                    <li><a href="../services/seo-auditing-services.php">SEO Audit and Optimization</a></li>
+                                                    <li><a href="../services/social-media-marketing.php">Social Media Marketing</a></li>
+                                                    <li><a href="../services/google-search-ads-services.php">Google Search Ads</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -130,9 +125,9 @@
                                             <div class="content">
                                                 <ul class="menu-col">
 
-                                                    <li><a href="../coming-soon.php">App Development</a></li>
-                                                    <li><a href="../coming-soon.php">IT Outsourcing Services</a></li>
-                                                    <li><a href="../coming-soon.php">IT Team Outsourcing</a></li>
+                                                    <li><a href="../services/App-Development.php">App Development</a></li>
+                                                    <li><a href="../services/IT-Outsourcing-Services.php">IT Outsourcing Services</a></li>
+                                                    <li><a href="../services/IT-Team-Outsourcing.php">IT Team Outsourcing</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -140,8 +135,30 @@
                                 </li>
                             </ul>
                         </li>
-
-
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flow</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data Services</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
+                                <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
+                                <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
+                                <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
+                                <li><a href="../data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
+                                <li><a href="../data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
+                                <li><a href="../data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
+                                <li><a href="../data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
+                                <li><a href="../data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
+                            </ul>
+                        </li>
                         <li class="dropdown megamenu-fw">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Content Services</a>
                             <ul class="dropdown-menu megamenu-content" role="menu">
@@ -151,16 +168,11 @@
                                             <h6 class="title">SEO &amp; Content Writing</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/website-content-writing.php">Website Content
-                                                            Writing</a></li>
-                                                    <li><a href="../services/seo-article-writing.php">SEO Article
-                                                            Writing</a></li>
-                                                    <li><a href="../services/blog-writing-services.php">Blog Writing</a>
-                                                    </li>
-                                                    <li><a href="../services/case-study-writing-services.php">Case Study
-                                                            Writing</a></li>
-                                                    <li><a href="../services/product-description-writing-services.php">Product
-                                                            Description</a></li>
+                                                    <li><a href="../services/website-content-writing.php">Website Content Writing</a></li>
+                                                    <li><a href="../services/seo-article-writing.php">SEO Article Writing</a></li>
+                                                    <li><a href="../services/blog-writing-services.php">Blog Writing</a></li>
+                                                    <li><a href="../services/case-study-writing-services.php">Case Study Writing</a></li>
+                                                    <li><a href="../services/product-description-writing-services.php">Product Description</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -168,10 +180,10 @@
                                             <h6 class="title">Specialized Content Services</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../coming-soon.php">Content Writing & Strategy</a></li>
-                                                    <li><a href="../coming-soon.php">Technical Writing Services</a></li>
-                                                    <li><a href="../coming-soon.php">Whitepapers & Case Studies</a></li>
-                                                    <li><a href="../coming-soon.php">Content Team Outsourcing</a></li>
+                                                    <li><a href="../services/content_writing_strategy.php">Content Writing & Strategy</a></li>
+                                                    <li><a href="../services/technical-writing-services.php">Technical Writing Services</a></li>
+                                                    <li><a href="../services/White-Papers-Case-Studies.php">Whitepapers & Case Studies</a></li>
+                                                    <li><a href="../services/Content-Team-Outsourcing.php">Content Team Outsourcing</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -179,12 +191,10 @@
                                             <h6 class="title">Industries We Serve</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/logistics-content-marketing.php">Logistics</a>
-                                                    </li>
-                                                    <li><a href="../services/coming-soon.php">Manufacturing</a></li>
-                                                    <li><a href="../services/coming-soon.php">Technology</a></li>
-                                                    <li><a href="../services/ecommerce-content-services.php">E-commerce</a>
-                                                    </li>
+                                                    <li><a href="../services/logistics-content-marketing.php">Logistics</a></li>
+                                                    <li><a href="../services/Industries-We-Serve-Manufacturing.php">Manufacturing</a></li>
+                                                    <li><a href="../services/Industries-We-Serve-Technology.php">Technology</a></li>
+                                                    <li><a href="../services/ecommerce-content-services.php">E-commerce</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -202,12 +212,10 @@
                                             <h6 class="title">Custom Solutions</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../coming-soon.php">Custom eLearning Development</a></li>
-                                                    <li><a href="../coming-soon.php">PowerPoint to eLearning Conversion</a>
-                                                    </li>
-                                                    <li><a href="../coming-soon.php">Mobile Learning / Microlearning</a>
-                                                    </li>
-                                                    <li><a href="../coming-soon.php">Gamified Learning Modules</a></li>
+                                                    <li><a href="../services/Custom-eLearning-Development.php">Custom eLearning Development</a></li>
+                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php">PowerPoint to eLearning Conversion</a></li>
+                                                    <li><a href="../services/Mobile-Learn-Microlearning.php">Mobile Learning / Microlearning</a></li>
+                                                    <li><a href="../services/Gamified-Learning-Modules.php">Gamified Learning Modules</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -215,14 +223,14 @@
                                             <h6 class="title">Use Cases</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="#">Employee Onboarding</a></li>
-                                                    <li><a href="#">Talent Development</a></li>
-                                                    <li><a href="#">Compliance Training</a></li>
-                                                    <li><a href="#">Sales Enablement</a></li>
-                                                    <li><a href="#">Customer Education</a></li>
-                                                    <li><a href="#">Partner Enablement</a></li>
-                                                    <li><a href="#">Frontline Workforce Training</a></li>
-                                                    <li><a href="#">Member Training</a></li>
+                                                    <li><a href="../services/Employee-Onboarding.php">Employee Onboarding</a></li>
+                                                    <li><a href="../services/Talent-Development.php">Talent Development</a></li>
+                                                    <li><a href="../services/Compliance-Training.php">Compliance Training</a></li>
+                                                    <li><a href="../services/Sales-Enablement.php">Sales Enablement</a></li>
+                                                    <li><a href="../services/Customer-Education.php">Customer Education</a></li>
+                                                    <li><a href="../services/Partner-Enablement.php">Partner Enablement</a></li>
+                                                    <li><a href="../services/Frontline-Workforce-Training.php">Frontline Workforce Training</a></li>
+                                                    <li><a href="../services/Member-Training.php">Member Training</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -230,14 +238,14 @@
                                             <h6 class="title">Industries Served</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="#">Software & Tech</a></li>
-                                                    <li><a href="#">Financial Services</a></li>
-                                                    <li><a href="#">Manufacturing</a></li>
-                                                    <li><a href="#">Healthcare</a></li>
-                                                    <li><a href="#">Government</a></li>
-                                                    <li><a href="#">Restaurants & Hospitality</a></li>
-                                                    <li><a href="#">Education</a></li>
-                                                    <li><a href="#">Retail</a></li>
+                                                    <li><a href="../coming-soon.php">Software & Tech</a></li>
+                                                    <li><a href="../coming-soon.php">Financial Services</a></li>
+                                                    <li><a href="../coming-soon.php">Manufacturing</a></li>
+                                                    <li><a href="../coming-soon.php">Healthcare</a></li>
+                                                    <li><a href="../coming-soon.php">Government</a></li>
+                                                    <li><a href="../coming-soon.php">Restaurants & Hospitality</a></li>
+                                                    <li><a href="../coming-soon.php">Education</a></li>
+                                                    <li><a href="../coming-soon.php">Retail</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -246,32 +254,32 @@
                             </ul>
                         </li>
 
-                        <!--li class="dropdown">
-                        <a href="./services/whatsapp-marketing-and-automation.php" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
-                        </ul>
-                    </li-->
+                        <!-- <li class="dropdown">
+                           <a href="./services/whatsapp-marketing-and-automation.php" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
+                           <ul class="dropdown-menu">
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
+                           </ul>
+                       </li> -->
 
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Video Services</a>
                             <ul class="dropdown-menu">
-                                <li><a href="../video/video-services.php">Explainer Videos</a></li>
-                                <li><a href="../video/video-services.php">Demo Videos</a></li>
-                                <li><a href="../video/video-services.php">Video Ads</a></li>
-                                <li><a href="../video/video-services.php">Social Media Videos</a></li>
-                                <li><a href="../video/video-services.php">Repurpose Videos</a></li>
-                                <li><a href="../video/video-services.php">Video Editing</a></li>
-                                <li><a href="../video/video-services.php">How-to Videos</a></li>
-                                <li><a href="../video/video-services.php">Onboarding Videos</a></li>
+                                <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
+                                <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
+                                <li><a href="../services/Video-Ads.php">Video Ads</a></li>
+                                <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
+                                <li><a href="../services/Repurpose-Videos.php">Repurpose Videos</a></li>
+                                <li><a href="../services/Video-Editing.php">Video Editing</a></li>
+                                <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
+                                <li><a href="../services/Onboarding-Videos.php">Onboarding Videos</a></li>
                             </ul>
                         </li>
 
-                        <li><a href="contact-us.php">Contact</a></li>
+                        <li><a href="../contact-us.php">Contact</a></li>
                     </ul>
                 </div><!-- /.navbar-collapse -->
 
@@ -315,270 +323,270 @@
                                     </div>
                                     <h1>Website Maintenance Checklist for 2025: Essential Site Maintenance Tips by ITD Growthlabs
                                     </h1>
-                               
-                                <p>
-                                    In the rapidly evolving digital landscape of 2025, maintaining a website is not just about aesthetics—it's about ensuring optimal performance, security, and user experience. Regular website updates and diligent web upkeep are crucial for businesses aiming to stay competitive and relevant. At ITD Growthlabs, we understand the significance of ongoing web care and have curated a comprehensive checklist to guide you through the essential aspects of website maintenance. This guide will equip you with actionable site maintenance tips to keep your website running smoothly and efficiently throughout the year.
-                                </p>
 
-                                <h3>Understanding Website Maintenance: Importance and Benefits</h3>
-                                <p>
-                                    Before diving into checklists and technical tasks, it's essential to grasp what website maintenance really means—and why it holds such vital importance in 2025. As businesses increasingly rely on their digital presence to attract and convert customers, ongoing web care becomes not just a best practice, but a necessity.
-                                </p>
-                                <p>
-                                    Website maintenance refers to the continuous process of inspecting, updating, and optimizing your website to ensure it functions flawlessly, remains secure, and delivers a high-quality experience to users. This includes everything from software and plugin updates to performance tuning, malware scans, and even content refreshing. Unlike a one-off website launch, maintenance is a long-term commitment that reflects your brand's dedication to professionalism and reliability.
-                                </p>
+                                    <p>
+                                        In the rapidly evolving digital landscape of 2025, maintaining a website is not just about aesthetics—it's about ensuring optimal performance, security, and user experience. Regular website updates and diligent web upkeep are crucial for businesses aiming to stay competitive and relevant. At ITD Growthlabs, we understand the significance of ongoing web care and have curated a comprehensive checklist to guide you through the essential aspects of website maintenance. This guide will equip you with actionable site maintenance tips to keep your website running smoothly and efficiently throughout the year.
+                                    </p>
 
-                                <h4>Why is Website Maintenance Crucial in 2025?</h4>
-                                <p>
-                                    The digital environment is more competitive—and more vulnerable—than ever. User expectations have evolved; they demand fast-loading, mobile-friendly, and secure websites that provide valuable, relevant content. Search engines like Google prioritize these factors when ranking your site, and even a minor issue can negatively impact visibility and traffic.
-                                </p>
-                                <p>
-                                    A neglected website doesn't just look outdated—it becomes a liability. Broken links, slow load times, outdated security protocols, and unoptimized content can deter potential customers, harm your reputation, and even open the door to cyberattacks. This is where routine website updates and proactive site maintenance play a game-changing role.
-                                </p>
+                                    <h3>Understanding Website Maintenance: Importance and Benefits</h3>
+                                    <p>
+                                        Before diving into checklists and technical tasks, it's essential to grasp what website maintenance really means—and why it holds such vital importance in 2025. As businesses increasingly rely on their digital presence to attract and convert customers, ongoing web care becomes not just a best practice, but a necessity.
+                                    </p>
+                                    <p>
+                                        Website maintenance refers to the continuous process of inspecting, updating, and optimizing your website to ensure it functions flawlessly, remains secure, and delivers a high-quality experience to users. This includes everything from software and plugin updates to performance tuning, malware scans, and even content refreshing. Unlike a one-off website launch, maintenance is a long-term commitment that reflects your brand's dedication to professionalism and reliability.
+                                    </p>
 
-                                <h4>Key Benefits of Consistent Website Maintenance</h4>
-                                
-                                <h5>Improved Security</h5>
-                                <p>
-                                    Cyberattacks are becoming increasingly sophisticated, especially with the rise of AI-based hacking tools and ransomware. Regular updates to your CMS, plugins, and themes—as well as frequent security scans—help plug vulnerabilities before hackers can exploit them. Installing SSL certificates, setting up firewalls, and monitoring suspicious activity are all essential components of a solid web upkeep strategy.
-                                </p>
+                                    <h4>Why is Website Maintenance Crucial in 2025?</h4>
+                                    <p>
+                                        The digital environment is more competitive—and more vulnerable—than ever. User expectations have evolved; they demand fast-loading, mobile-friendly, and secure websites that provide valuable, relevant content. Search engines like Google prioritize these factors when ranking your site, and even a minor issue can negatively impact visibility and traffic.
+                                    </p>
+                                    <p>
+                                        A neglected website doesn't just look outdated—it becomes a liability. Broken links, slow load times, outdated security protocols, and unoptimized content can deter potential customers, harm your reputation, and even open the door to cyberattacks. This is where routine website updates and proactive site maintenance play a game-changing role.
+                                    </p>
 
-                                <h5>Better User Experience</h5>
-                                <p>
-                                    Visitors expect seamless navigation, clean design, and quick load times. Regular maintenance ensures that all features—contact forms, buttons, checkout carts, and videos—work correctly across all devices and browsers. A well-maintained website shows your users that you care about their experience, which builds trust and keeps them coming back.
-                                </p>
+                                    <h4>Key Benefits of Consistent Website Maintenance</h4>
 
-                                <h5>Higher SEO Rankings</h5>
-                                <p>
-                                    Search engines reward websites that demonstrate consistent activity, strong security, and relevant content. By following modern site maintenance tips—like updating blogs, optimizing metadata, and eliminating duplicate content—you can improve your rankings in search engine results pages (SERPs). Tools like Google Search Console and SEO plugins help identify technical SEO issues that need attention during maintenance.
-                                </p>
+                                    <h5>Improved Security</h5>
+                                    <p>
+                                        Cyberattacks are becoming increasingly sophisticated, especially with the rise of AI-based hacking tools and ransomware. Regular updates to your CMS, plugins, and themes—as well as frequent security scans—help plug vulnerabilities before hackers can exploit them. Installing SSL certificates, setting up firewalls, and monitoring suspicious activity are all essential components of a solid web upkeep strategy.
+                                    </p>
 
-                                <h5>Reduced Downtime</h5>
-                                <p>
-                                    Unexpected downtime can severely damage your reputation and lead to lost sales. Scheduled maintenance allows you to detect and fix issues—such as server overloads, database errors, or plugin conflicts—before they escalate. With regular monitoring and preventive updates, your site stays online and functional around the clock.
-                                </p>
+                                    <h5>Better User Experience</h5>
+                                    <p>
+                                        Visitors expect seamless navigation, clean design, and quick load times. Regular maintenance ensures that all features—contact forms, buttons, checkout carts, and videos—work correctly across all devices and browsers. A well-maintained website shows your users that you care about their experience, which builds trust and keeps them coming back.
+                                    </p>
 
-                                <h5>Long-Term Cost Savings</h5>
-                                <p>
-                                    Emergency fixes and recovery from data breaches can be expensive and time-consuming. On the other hand, regular web upkeep minimizes the likelihood of serious breakdowns. Think of it as preventive care for your digital property—an investment that saves you from future headaches and heavy repair bills.
-                                </p>
+                                    <h5>Higher SEO Rankings</h5>
+                                    <p>
+                                        Search engines reward websites that demonstrate consistent activity, strong security, and relevant content. By following modern site maintenance tips—like updating blogs, optimizing metadata, and eliminating duplicate content—you can improve your rankings in search engine results pages (SERPs). Tools like Google Search Console and SEO plugins help identify technical SEO issues that need attention during maintenance.
+                                    </p>
 
-                                <p>
-                                    In a digital-first world, your website is often the first impression potential customers have of your brand. A neglected or malfunctioning site reflects poorly on your professionalism and can drive visitors away. On the other hand, a well-maintained website fosters user trust, strengthens brand image, and drives consistent traffic and conversions.
-                                </p>
-                                <p>
-                                    In 2025 and beyond, website maintenance is no longer a "nice-to-have"—it's the foundation of online business success. Whether you're a startup or an established enterprise, integrating ongoing web care into your operations is one of the smartest digital strategies you can adopt.
-                                </p>
+                                    <h5>Reduced Downtime</h5>
+                                    <p>
+                                        Unexpected downtime can severely damage your reputation and lead to lost sales. Scheduled maintenance allows you to detect and fix issues—such as server overloads, database errors, or plugin conflicts—before they escalate. With regular monitoring and preventive updates, your site stays online and functional around the clock.
+                                    </p>
 
-                                <h3>1. Regular Software and Plugin Updates</h3>
-                                <p>
-                                    Keeping your website's software and plugins up-to-date is critical for maintaining security, compatibility, and functionality.
-                                </p>
+                                    <h5>Long-Term Cost Savings</h5>
+                                    <p>
+                                        Emergency fixes and recovery from data breaches can be expensive and time-consuming. On the other hand, regular web upkeep minimizes the likelihood of serious breakdowns. Think of it as preventive care for your digital property—an investment that saves you from future headaches and heavy repair bills.
+                                    </p>
 
-                                <h4>Content Management System (CMS) Updates:</h4>
-                                <p>
-                                    Regularly updating your CMS (like WordPress, Joomla, or Drupal) ensures you get the latest security patches, performance improvements, and new features. Outdated CMS versions are one of the leading causes of website hacks and malware injections.
-                                </p>
+                                    <p>
+                                        In a digital-first world, your website is often the first impression potential customers have of your brand. A neglected or malfunctioning site reflects poorly on your professionalism and can drive visitors away. On the other hand, a well-maintained website fosters user trust, strengthens brand image, and drives consistent traffic and conversions.
+                                    </p>
+                                    <p>
+                                        In 2025 and beyond, website maintenance is no longer a "nice-to-have"—it's the foundation of online business success. Whether you're a startup or an established enterprise, integrating ongoing web care into your operations is one of the smartest digital strategies you can adopt.
+                                    </p>
 
-                                <h4>Plugin and Theme Updates:</h4>
-                                <p>
-                                    Plugins and themes can introduce vulnerabilities if not maintained. Developers often release updates to fix bugs, patch security flaws, and introduce new features. Only install plugins from reputable sources and delete any that are inactive or unused to reduce your attack surface.
-                                </p>
+                                    <h3>1. Regular Software and Plugin Updates</h3>
+                                    <p>
+                                        Keeping your website's software and plugins up-to-date is critical for maintaining security, compatibility, and functionality.
+                                    </p>
 
-                                <h4>Automated Updates:</h4>
-                                <p>
-                                    To streamline the update process and reduce manual effort, enable automated updates for critical components like core CMS files and essential security plugins. However, always monitor for post-update issues and conflicts.
-                                </p>
+                                    <h4>Content Management System (CMS) Updates:</h4>
+                                    <p>
+                                        Regularly updating your CMS (like WordPress, Joomla, or Drupal) ensures you get the latest security patches, performance improvements, and new features. Outdated CMS versions are one of the leading causes of website hacks and malware injections.
+                                    </p>
 
-                                <h4>Compatibility Checks:</h4>
-                                <p>
-                                    Before applying major updates, especially on production sites, test updates in a staging environment to avoid breaking existing functionality.
-                                </p>
+                                    <h4>Plugin and Theme Updates:</h4>
+                                    <p>
+                                        Plugins and themes can introduce vulnerabilities if not maintained. Developers often release updates to fix bugs, patch security flaws, and introduce new features. Only install plugins from reputable sources and delete any that are inactive or unused to reduce your attack surface.
+                                    </p>
 
-                                <h3>2. Comprehensive Website Backups</h3>
-                                <p>
-                                    Backups are your insurance policy. A proper backup strategy ensures that your website can be restored quickly in case of data loss.
-                                </p>
+                                    <h4>Automated Updates:</h4>
+                                    <p>
+                                        To streamline the update process and reduce manual effort, enable automated updates for critical components like core CMS files and essential security plugins. However, always monitor for post-update issues and conflicts.
+                                    </p>
 
-                                <h4>Backup Frequency:</h4>
-                                <p>
-                                    The ideal frequency depends on how often your site changes. E-commerce sites or blogs with daily updates should have daily backups. Static websites may only need weekly backups.
-                                </p>
+                                    <h4>Compatibility Checks:</h4>
+                                    <p>
+                                        Before applying major updates, especially on production sites, test updates in a staging environment to avoid breaking existing functionality.
+                                    </p>
 
-                                <h4>Backup Types:</h4>
-                                <p>
-                                    Perform both full and incremental backups. Full backups include the entire website, while incremental backups only capture changes since the last backup, saving storage space and time.
-                                </p>
+                                    <h3>2. Comprehensive Website Backups</h3>
+                                    <p>
+                                        Backups are your insurance policy. A proper backup strategy ensures that your website can be restored quickly in case of data loss.
+                                    </p>
 
-                                <h4>Offsite Storage:</h4>
-                                <p>
-                                    Always store backups in secure, offsite locations such as cloud services or remote servers. Avoid relying solely on your hosting provider's backup system.
-                                </p>
+                                    <h4>Backup Frequency:</h4>
+                                    <p>
+                                        The ideal frequency depends on how often your site changes. E-commerce sites or blogs with daily updates should have daily backups. Static websites may only need weekly backups.
+                                    </p>
 
-                                <h4>Backup Testing:</h4>
-                                <p>
-                                    Schedule periodic tests to restore from backups to confirm their integrity and usability. A backup is only valuable if it can be successfully restored when needed.
-                                </p>
+                                    <h4>Backup Types:</h4>
+                                    <p>
+                                        Perform both full and incremental backups. Full backups include the entire website, while incremental backups only capture changes since the last backup, saving storage space and time.
+                                    </p>
 
-                                <h4>Automated Backup Tools:</h4>
-                                <p>
-                                    Use tools like UpdraftPlus, BackupBuddy, or CodeGuard to automate backups and receive regular status reports.
-                                </p>
+                                    <h4>Offsite Storage:</h4>
+                                    <p>
+                                        Always store backups in secure, offsite locations such as cloud services or remote servers. Avoid relying solely on your hosting provider's backup system.
+                                    </p>
 
-                                <h3>3. Performance Monitoring and Optimization</h3>
-                                <p>
-                                    Website performance plays a crucial role in shaping user experience, reducing bounce rates, and improving search engine rankings. A fast and smoothly functioning site keeps visitors engaged and encourages them to explore further.
-                                </p>
+                                    <h4>Backup Testing:</h4>
+                                    <p>
+                                        Schedule periodic tests to restore from backups to confirm their integrity and usability. A backup is only valuable if it can be successfully restored when needed.
+                                    </p>
 
-                                <h4>Speed Testing Tools</h4>
-                                <p>
-                                    Regularly assessing your website's speed with tools like Google PageSpeed Insights, GTmetrix, and Lighthouse helps you pinpoint performance bottlenecks. These tools provide detailed reports on key metrics such as:
-                                </p>
-                                <ul>
-                                    <li><strong>First Contentful Paint (FCP):</strong> The time taken for the first visible element (text, image) to appear on the screen. Faster FCP improves perceived loading speed.</li>
-                                    <li><strong>Time to Interactive (TTI):</strong> How long it takes before the page becomes fully interactive, allowing users to click buttons or enter data without delay.</li>
-                                </ul>
-                                <p>
-                                    Use the insights from these tests to prioritize fixes and monitor improvements over time.
-                                </p>
+                                    <h4>Automated Backup Tools:</h4>
+                                    <p>
+                                        Use tools like UpdraftPlus, BackupBuddy, or CodeGuard to automate backups and receive regular status reports.
+                                    </p>
 
-                                <h4>Image Optimization</h4>
-                                <p>
-                                    Images often constitute the largest portion of a webpage's load size, so optimizing them is critical:
-                                </p>
-                                <ul>
-                                    <li>Use compression tools to reduce file size without noticeable loss in quality.</li>
-                                    <li>Convert images to modern formats like WebP, which offer better compression ratios.</li>
-                                    <li>Implement lazy loading, which delays loading of images outside the viewport until the user scrolls near them, reducing initial page load time and bandwidth usage.</li>
-                                </ul>
+                                    <h3>3. Performance Monitoring and Optimization</h3>
+                                    <p>
+                                        Website performance plays a crucial role in shaping user experience, reducing bounce rates, and improving search engine rankings. A fast and smoothly functioning site keeps visitors engaged and encourages them to explore further.
+                                    </p>
 
-                                <h4>Caching Mechanisms</h4>
-                                <p>
-                                    Caching stores copies of your web pages or assets temporarily to serve them faster to repeat visitors:
-                                </p>
-                                <ul>
-                                    <li><strong>Browser Caching:</strong> Allows static files (images, CSS, JavaScript) to be stored on the user's device so they don't have to be re-downloaded on every visit.</li>
-                                    <li><strong>Server-side Caching:</strong> Through plugins like W3 Total Cache or LiteSpeed Cache, saves pre-generated versions of pages to reduce server processing time.</li>
-                                    <li><strong>Performance Impact:</strong> Proper caching setup can drastically improve load times and reduce server load.</li>
-                                </ul>
+                                    <h4>Speed Testing Tools</h4>
+                                    <p>
+                                        Regularly assessing your website's speed with tools like Google PageSpeed Insights, GTmetrix, and Lighthouse helps you pinpoint performance bottlenecks. These tools provide detailed reports on key metrics such as:
+                                    </p>
+                                    <ul>
+                                        <li><strong>First Contentful Paint (FCP):</strong> The time taken for the first visible element (text, image) to appear on the screen. Faster FCP improves perceived loading speed.</li>
+                                        <li><strong>Time to Interactive (TTI):</strong> How long it takes before the page becomes fully interactive, allowing users to click buttons or enter data without delay.</li>
+                                    </ul>
+                                    <p>
+                                        Use the insights from these tests to prioritize fixes and monitor improvements over time.
+                                    </p>
 
-                                <h4>Code Minification and Compression</h4>
-                                <p>
-                                    Minifying code involves removing unnecessary characters such as whitespace, comments, and line breaks from CSS, JavaScript, and HTML files. This reduces file sizes and speeds up page loading.
-                                </p>
-                                <p>
-                                    Additionally, enabling Gzip or Brotli compression on your web server compresses files before sending them to the browser, which further decreases transfer times. Most modern browsers support these compression methods.
-                                </p>
+                                    <h4>Image Optimization</h4>
+                                    <p>
+                                        Images often constitute the largest portion of a webpage's load size, so optimizing them is critical:
+                                    </p>
+                                    <ul>
+                                        <li>Use compression tools to reduce file size without noticeable loss in quality.</li>
+                                        <li>Convert images to modern formats like WebP, which offer better compression ratios.</li>
+                                        <li>Implement lazy loading, which delays loading of images outside the viewport until the user scrolls near them, reducing initial page load time and bandwidth usage.</li>
+                                    </ul>
 
-                                <h4>Database Optimization</h4>
-                                <p>
-                                    A cluttered or bloated database can slow down your site, especially dynamic websites relying heavily on database queries (like WordPress sites):
-                                </p>
-                                <ul>
-                                    <li>Use tools like WP-Optimize or built-in database maintenance commands to clean up unnecessary data such as post revisions, spam comments, transients, and unused tables.</li>
-                                    <li>Regularly optimize database tables to improve query performance and reduce overhead.</li>
-                                    <li>By maintaining a lean and efficient database, your server can respond faster to user requests, enhancing overall site speed.</li>
-                                </ul>
+                                    <h4>Caching Mechanisms</h4>
+                                    <p>
+                                        Caching stores copies of your web pages or assets temporarily to serve them faster to repeat visitors:
+                                    </p>
+                                    <ul>
+                                        <li><strong>Browser Caching:</strong> Allows static files (images, CSS, JavaScript) to be stored on the user's device so they don't have to be re-downloaded on every visit.</li>
+                                        <li><strong>Server-side Caching:</strong> Through plugins like W3 Total Cache or LiteSpeed Cache, saves pre-generated versions of pages to reduce server processing time.</li>
+                                        <li><strong>Performance Impact:</strong> Proper caching setup can drastically improve load times and reduce server load.</li>
+                                    </ul>
 
-                                <h3>4. Security Audits and Malware Scanning</h3>
-                                <p>
-                                    Security is one of the most critical aspects of website maintenance. Protecting your website from cyber threats not only safeguards your users' sensitive data but also preserves your brand's reputation and ensures uninterrupted business operations.
-                                </p>
+                                    <h4>Code Minification and Compression</h4>
+                                    <p>
+                                        Minifying code involves removing unnecessary characters such as whitespace, comments, and line breaks from CSS, JavaScript, and HTML files. This reduces file sizes and speeds up page loading.
+                                    </p>
+                                    <p>
+                                        Additionally, enabling Gzip or Brotli compression on your web server compresses files before sending them to the browser, which further decreases transfer times. Most modern browsers support these compression methods.
+                                    </p>
 
-                                <h4>SSL Certificates</h4>
-                                <p>
-                                    An SSL (Secure Sockets Layer) certificate encrypts the data transferred between your website and visitors, protecting information such as login credentials, payment details, and personal data from interception by hackers.
-                                </p>
-                                <ul>
-                                    <li>SSL certificates also boost user confidence by displaying the padlock icon in the browser address bar.</li>
-                                    <li>Google and other search engines prioritize websites with SSL certificates, giving them an SEO advantage.</li>
-                                    <li>You can obtain free SSL certificates through providers like Let's Encrypt, which automatically renew every 90 days.</li>
-                                    <li>For higher trust levels, consider paid SSL certificates offering Extended Validation (EV) or Organization Validation (OV), which display your company name in the browser bar.</li>
-                                </ul>
+                                    <h4>Database Optimization</h4>
+                                    <p>
+                                        A cluttered or bloated database can slow down your site, especially dynamic websites relying heavily on database queries (like WordPress sites):
+                                    </p>
+                                    <ul>
+                                        <li>Use tools like WP-Optimize or built-in database maintenance commands to clean up unnecessary data such as post revisions, spam comments, transients, and unused tables.</li>
+                                        <li>Regularly optimize database tables to improve query performance and reduce overhead.</li>
+                                        <li>By maintaining a lean and efficient database, your server can respond faster to user requests, enhancing overall site speed.</li>
+                                    </ul>
 
-                                <h4>Security Plugins</h4>
-                                <p>
-                                    Deploying reputable security plugins adds a crucial layer of defense for your website.
-                                </p>
-                                <p>
-                                    Plugins like Wordfence, Sucuri Security, and iThemes Security offer features such as:
-                                </p>
-                                <ul>
-                                    <li>Real-time monitoring of file changes and login attempts.</li>
-                                    <li>Protection against brute-force attacks by limiting login retries.</li>
-                                    <li>Scanning for known malware signatures and vulnerabilities.</li>
-                                    <li>Enforcing strong password policies and user lockouts.</li>
-                                </ul>
-                                <p>
-                                    Regularly update and configure these plugins for optimal protection and stay informed about security advisories.
-                                </p>
+                                    <h3>4. Security Audits and Malware Scanning</h3>
+                                    <p>
+                                        Security is one of the most critical aspects of website maintenance. Protecting your website from cyber threats not only safeguards your users' sensitive data but also preserves your brand's reputation and ensures uninterrupted business operations.
+                                    </p>
 
-                                <h4>Regular Scans</h4>
-                                <p>
-                                    Routine scanning for malware and vulnerabilities is essential to catch threats early before they cause damage.
-                                </p>
-                                <ul>
-                                    <li>Schedule automated scans at least once a month, or more frequently for sites with high traffic or sensitive data.</li>
-                                    <li>Complement automated scans with manual security audits by security professionals or by using external services.</li>
-                                    <li>Use scanning tools to detect backdoors, suspicious files, outdated software, and unauthorized modifications.</li>
-                                </ul>
+                                    <h4>SSL Certificates</h4>
+                                    <p>
+                                        An SSL (Secure Sockets Layer) certificate encrypts the data transferred between your website and visitors, protecting information such as login credentials, payment details, and personal data from interception by hackers.
+                                    </p>
+                                    <ul>
+                                        <li>SSL certificates also boost user confidence by displaying the padlock icon in the browser address bar.</li>
+                                        <li>Google and other search engines prioritize websites with SSL certificates, giving them an SEO advantage.</li>
+                                        <li>You can obtain free SSL certificates through providers like Let's Encrypt, which automatically renew every 90 days.</li>
+                                        <li>For higher trust levels, consider paid SSL certificates offering Extended Validation (EV) or Organization Validation (OV), which display your company name in the browser bar.</li>
+                                    </ul>
 
-                                <h4>User Access Management</h4>
-                                <p>
-                                    Managing user access carefully minimizes the risk of insider threats and unauthorized activities.
-                                </p>
-                                <ul>
-                                    <li>Enforce strong password policies requiring complex passwords that change regularly.</li>
-                                    <li>Limit the number of users with administrative privileges; only trusted personnel should have full access.</li>
-                                    <li>Implement Two-Factor Authentication (2FA) for all users, especially administrators, adding an extra layer of security beyond passwords.</li>
-                                    <li>Regularly review user roles and permissions, immediately removing or disabling accounts that are inactive, outdated, or belong to former employees.</li>
-                                </ul>
+                                    <h4>Security Plugins</h4>
+                                    <p>
+                                        Deploying reputable security plugins adds a crucial layer of defense for your website.
+                                    </p>
+                                    <p>
+                                        Plugins like Wordfence, Sucuri Security, and iThemes Security offer features such as:
+                                    </p>
+                                    <ul>
+                                        <li>Real-time monitoring of file changes and login attempts.</li>
+                                        <li>Protection against brute-force attacks by limiting login retries.</li>
+                                        <li>Scanning for known malware signatures and vulnerabilities.</li>
+                                        <li>Enforcing strong password policies and user lockouts.</li>
+                                    </ul>
+                                    <p>
+                                        Regularly update and configure these plugins for optimal protection and stay informed about security advisories.
+                                    </p>
 
-                                <h4>Firewall Protection</h4>
-                                <p>
-                                    A Web Application Firewall (WAF) acts as a barrier between your website and incoming internet traffic.
-                                </p>
-                                <ul>
-                                    <li>WAFs monitor and filter malicious requests in real-time.</li>
-                                    <li>They block common attacks like SQL injection, cross-site scripting (XSS), and distributed denial-of-service (DDoS) attempts before they reach your server.</li>
-                                    <li>Using a WAF helps reduce server load and improves website uptime by proactively defending against threats.</li>
-                                </ul>
-                                    
-                                    
+                                    <h4>Regular Scans</h4>
+                                    <p>
+                                        Routine scanning for malware and vulnerabilities is essential to catch threats early before they cause damage.
+                                    </p>
+                                    <ul>
+                                        <li>Schedule automated scans at least once a month, or more frequently for sites with high traffic or sensitive data.</li>
+                                        <li>Complement automated scans with manual security audits by security professionals or by using external services.</li>
+                                        <li>Use scanning tools to detect backdoors, suspicious files, outdated software, and unauthorized modifications.</li>
+                                    </ul>
+
+                                    <h4>User Access Management</h4>
+                                    <p>
+                                        Managing user access carefully minimizes the risk of insider threats and unauthorized activities.
+                                    </p>
+                                    <ul>
+                                        <li>Enforce strong password policies requiring complex passwords that change regularly.</li>
+                                        <li>Limit the number of users with administrative privileges; only trusted personnel should have full access.</li>
+                                        <li>Implement Two-Factor Authentication (2FA) for all users, especially administrators, adding an extra layer of security beyond passwords.</li>
+                                        <li>Regularly review user roles and permissions, immediately removing or disabling accounts that are inactive, outdated, or belong to former employees.</li>
+                                    </ul>
+
+                                    <h4>Firewall Protection</h4>
+                                    <p>
+                                        A Web Application Firewall (WAF) acts as a barrier between your website and incoming internet traffic.
+                                    </p>
+                                    <ul>
+                                        <li>WAFs monitor and filter malicious requests in real-time.</li>
+                                        <li>They block common attacks like SQL injection, cross-site scripting (XSS), and distributed denial-of-service (DDoS) attempts before they reach your server.</li>
+                                        <li>Using a WAF helps reduce server load and improves website uptime by proactively defending against threats.</li>
+                                    </ul>
+
+
                                 </div>
                             </div>
                         </div>
                     </div>
                     <!-- Start Sidebar -->
                     <div class="sidebar col-xl-4 col-lg-5 col-md-12 mt-md-50 mt-xs-50">
-                            <div class="sidebar-item recent-post">
-                                <h4 class="title">Recent Post</h4>
+                        <div class="sidebar-item recent-post">
+                            <h4 class="title">Recent Post</h4>
+                            <ul>
+                                <li>
+                                    <div class="thumb">
+                                        <a href="top-10-website-content-writing-agencies-in-India.php">
+                                            <img src="../assets/img/homepage5.png" alt="Website Content Writing">
+                                        </a>
+                                    </div>
+                                    <div class="info">
+                                        <a href="blog-single-with-sidebar.php">Top 10 Website Content Writing Agencies in India</a>
+                                    </div>
+                                </li>
+                                <!-- Add more recent posts here -->
+                            </ul>
+                        </div>
+
+                        <div class="sidebar-item social-sidebar">
+                            <h4 class="title">Follow Us</h4>
+                            <div class="sidebar-info">
                                 <ul>
-                                    <li>
-                                        <div class="thumb">
-                                            <a href="top-10-website-content-writing-agencies-in-India.php">
-                                                <img src="../assets/img/homepage5.png" alt="Website Content Writing">
-                                            </a>
-                                        </div>
-                                        <div class="info">
-                                            <a href="blog-single-with-sidebar.php">Top 10 Website Content Writing Agencies in India</a>
-                                        </div>
-                                    </li>
-                                    <!-- Add more recent posts here -->
+                                    <li class="facebook"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li class="twitter"><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li class="pinterest"><a href="#"><i class="fab fa-pinterest"></i></a></li>
+                                    <li class="linkedin"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
                                 </ul>
                             </div>
-
-                            <div class="sidebar-item social-sidebar">
-                                <h4 class="title">Follow Us</h4>
-                                <div class="sidebar-info">
-                                    <ul>
-                                        <li class="facebook"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li class="twitter"><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                        <li class="pinterest"><a href="#"><i class="fab fa-pinterest"></i></a></li>
-                                        <li class="linkedin"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
+                        </div>
                         </aside>
                     </div>
                     <!-- End Sidebar -->
@@ -654,11 +662,11 @@
 
                             <h4 class="widget-title">WhatsApp Marketing</h4>
                             <ul>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flows</a></li>
                             </ul>
                         </div>
                     </div>
@@ -668,24 +676,26 @@
                         <div class="f-item link">
                             <h4 class="widget-title">Video Services</h4>
                             <ul>
-                                <li><a href="../video/video-services.php">Explainer Videos</a></li>
-                                <li><a href="../video/video-services.php">Demo Videos</a></li>
-                                <li><a href="../video/video-services.php">Social Media Videos</a></li>
-                                <li><a href="../video/video-services.php">Video Editing</a></li>
-                                <li><a href="../video/video-services.php">How-to Videos</a></li>
+                                <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
+                                <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
+                                <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
+                                <li><a href="../services/Video-Editing.php">Video Editing</a></li>
+                                <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
+                            </ul>
                             </ul>
                         </div>
                     </div>
+
 
                     <!-- Data Services -->
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">Data Services</h4>
                             <ul>
-                                <li><a href="../coming-soon.php">Documents & PDF Data Entry Services</a></li>
-                                <li><a href="../coming-soon.php">Offline Data Entry Services</a></li>
-                                <li><a href="../coming-soon.php">Online Data Entry Services</a></li>
-                                <li><a href="../coming-soon.php">Product Data Entry Services</a></li>
+                                <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry Services</a></li>
+                                <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
+                                <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
+                                <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
                             </ul>
                         </div>
                     </div>
@@ -694,10 +704,10 @@
                         <div class="f-item link">
                             <h4 class="widget-title">Data Annotation Services</h4>
                             <ul>
-                                <li><a href="../coming-soon.php">Data Labeling Services</a></li>
-                                <li><a href="../coming-soon.php">Image Annotation Services</a></li>
-                                <li><a href="../coming-soon.php">Text Annotation Services</a></li>
-                                <li><a href="../coming-soon.php">Video Annotation Services</a></li>
+                                <li><a href="../data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
+                                <li><a href="../data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
+                                <li><a href="../data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
+                                <li><a href="../data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
                             </ul>
                         </div>
                     </div>
@@ -729,7 +739,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <p>Copyright &copy; 2025 <a href="https://www.itdgrowthlabs.com/">ITD GrowthLabs</a> All Rights Reserved</p>
+                        <p>Copyright &copy; 2025 ITD GrowthLabs All Rights Reserved</p>
                     </div>
                 </div>
             </div>

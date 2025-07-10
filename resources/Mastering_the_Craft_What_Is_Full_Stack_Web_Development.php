@@ -68,7 +68,7 @@
             </div>
             <!-- End Top Search -->
 
-            <div class="container d-flex justify-content-between align-items-center">
+            <div class="d-flex justify-content-between align-items-center">
                 <!-- Start Header Navigation -->
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
@@ -97,31 +97,26 @@
                                             <h6 class="title">Core Tech Services</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/website-development-company.php">Website Design
-                                                            & Development</a></li>
-                                                    <li><a href="../coming-soon.php">Template-Based Website Development</a>
+                                                    <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
+                                                    <li><a href="../services/Template-Based-Website-Development.php">Template-Based Website Development</a>
                                                     </li>
-                                                    <li><a href="../coming-soon.php">WordPress Website Development</a></li>
-                                                    <li><a href="../coming-soon.php">Custom Website Development</a></li>
-                                                    <li><a href="../coming-soon.php">E-commerce Website Development</a></li>
+                                                    <li><a href="../services/WordPress-Website-Development.php">WordPress Website Development</a></li>
+                                                    <li><a href="../services/Custom-Website-Development.php">Custom Website Development</a></li>
+                                                    <li><a href="../services/E-commerce-Website-Development.php">E-commerce Website Development</a></li>
 
                                                 </ul>
                                             </div>
                                         </div>
+
                                         <div class="col-menu col-lg-4">
                                             <h6 class="title">End-to-End Services</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/website-development-company.php">Website Design
-                                                            & Development</a></li>
-                                                    <li><a href="../services/content-marketing-services.php">Content
-                                                            Marketing Services</a></li>
-                                                    <li><a href="../services/seo-auditing-services.php">SEO Audit and
-                                                            Optimization</a></li>
-                                                    <li><a href="../services/social-media-marketing.php">Social Media
-                                                            Marketing</a></li>
-                                                    <li><a href="../services/google-search-ads-services.php">Google Search
-                                                            Ads</a></li>
+                                                    <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
+                                                    <li><a href="../services/content-marketing-services.php">Content Marketing Services</a></li>
+                                                    <li><a href="../services/seo-auditing-services.php">SEO Audit and Optimization</a></li>
+                                                    <li><a href="../services/social-media-marketing.php">Social Media Marketing</a></li>
+                                                    <li><a href="../services/google-search-ads-services.php">Google Search Ads</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -130,9 +125,9 @@
                                             <div class="content">
                                                 <ul class="menu-col">
 
-                                                    <li><a href="../coming-soon.php">App Development</a></li>
-                                                    <li><a href="../coming-soon.php">IT Outsourcing Services</a></li>
-                                                    <li><a href="../coming-soon.php">IT Team Outsourcing</a></li>
+                                                    <li><a href="../services/App-Development.php">App Development</a></li>
+                                                    <li><a href="../services/IT-Outsourcing-Services.php">IT Outsourcing Services</a></li>
+                                                    <li><a href="../services/IT-Team-Outsourcing.php">IT Team Outsourcing</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -140,8 +135,30 @@
                                 </li>
                             </ul>
                         </li>
-
-
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flow</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data Services</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
+                                <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
+                                <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
+                                <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
+                                <li><a href="../data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
+                                <li><a href="../data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
+                                <li><a href="../data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
+                                <li><a href="../data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
+                                <li><a href="../data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
+                            </ul>
+                        </li>
                         <li class="dropdown megamenu-fw">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Content Services</a>
                             <ul class="dropdown-menu megamenu-content" role="menu">
@@ -151,16 +168,11 @@
                                             <h6 class="title">SEO &amp; Content Writing</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/website-content-writing.php">Website Content
-                                                            Writing</a></li>
-                                                    <li><a href="../services/seo-article-writing.php">SEO Article
-                                                            Writing</a></li>
-                                                    <li><a href="../services/blog-writing-services.php">Blog Writing</a>
-                                                    </li>
-                                                    <li><a href="../services/case-study-writing-services.php">Case Study
-                                                            Writing</a></li>
-                                                    <li><a href="../services/product-description-writing-services.php">Product
-                                                            Description</a></li>
+                                                    <li><a href="../services/website-content-writing.php">Website Content Writing</a></li>
+                                                    <li><a href="../services/seo-article-writing.php">SEO Article Writing</a></li>
+                                                    <li><a href="../services/blog-writing-services.php">Blog Writing</a></li>
+                                                    <li><a href="../services/case-study-writing-services.php">Case Study Writing</a></li>
+                                                    <li><a href="../services/product-description-writing-services.php">Product Description</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -168,10 +180,10 @@
                                             <h6 class="title">Specialized Content Services</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../coming-soon.php">Content Writing & Strategy</a></li>
-                                                    <li><a href="../coming-soon.php">Technical Writing Services</a></li>
-                                                    <li><a href="../coming-soon.php">Whitepapers & Case Studies</a></li>
-                                                    <li><a href="../coming-soon.php">Content Team Outsourcing</a></li>
+                                                    <li><a href="../services/content_writing_strategy.php">Content Writing & Strategy</a></li>
+                                                    <li><a href="../services/technical-writing-services.php">Technical Writing Services</a></li>
+                                                    <li><a href="../services/White-Papers-Case-Studies.php">Whitepapers & Case Studies</a></li>
+                                                    <li><a href="../services/Content-Team-Outsourcing.php">Content Team Outsourcing</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -179,12 +191,10 @@
                                             <h6 class="title">Industries We Serve</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/logistics-content-marketing.php">Logistics</a>
-                                                    </li>
-                                                    <li><a href="../services/coming-soon.php">Manufacturing</a></li>
-                                                    <li><a href="../services/coming-soon.php">Technology</a></li>
-                                                    <li><a href="../services/ecommerce-content-services.php">E-commerce</a>
-                                                    </li>
+                                                    <li><a href="../services/logistics-content-marketing.php">Logistics</a></li>
+                                                    <li><a href="../services/Industries-We-Serve-Manufacturing.php">Manufacturing</a></li>
+                                                    <li><a href="../services/Industries-We-Serve-Technology.php">Technology</a></li>
+                                                    <li><a href="../services/ecommerce-content-services.php">E-commerce</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -202,12 +212,10 @@
                                             <h6 class="title">Custom Solutions</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../coming-soon.php">Custom eLearning Development</a></li>
-                                                    <li><a href="../coming-soon.php">PowerPoint to eLearning Conversion</a>
-                                                    </li>
-                                                    <li><a href="../coming-soon.php">Mobile Learning / Microlearning</a>
-                                                    </li>
-                                                    <li><a href="../coming-soon.php">Gamified Learning Modules</a></li>
+                                                    <li><a href="../services/Custom-eLearning-Development.php">Custom eLearning Development</a></li>
+                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php">PowerPoint to eLearning Conversion</a></li>
+                                                    <li><a href="../services/Mobile-Learn-Microlearning.php">Mobile Learning / Microlearning</a></li>
+                                                    <li><a href="../services/Gamified-Learning-Modules.php">Gamified Learning Modules</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -215,14 +223,14 @@
                                             <h6 class="title">Use Cases</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="#">Employee Onboarding</a></li>
-                                                    <li><a href="#">Talent Development</a></li>
-                                                    <li><a href="#">Compliance Training</a></li>
-                                                    <li><a href="#">Sales Enablement</a></li>
-                                                    <li><a href="#">Customer Education</a></li>
-                                                    <li><a href="#">Partner Enablement</a></li>
-                                                    <li><a href="#">Frontline Workforce Training</a></li>
-                                                    <li><a href="#">Member Training</a></li>
+                                                    <li><a href="../services/Employee-Onboarding.php">Employee Onboarding</a></li>
+                                                    <li><a href="../services/Talent-Development.php">Talent Development</a></li>
+                                                    <li><a href="../services/Compliance-Training.php">Compliance Training</a></li>
+                                                    <li><a href="../services/Sales-Enablement.php">Sales Enablement</a></li>
+                                                    <li><a href="../services/Customer-Education.php">Customer Education</a></li>
+                                                    <li><a href="../services/Partner-Enablement.php">Partner Enablement</a></li>
+                                                    <li><a href="../services/Frontline-Workforce-Training.php">Frontline Workforce Training</a></li>
+                                                    <li><a href="../services/Member-Training.php">Member Training</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -230,14 +238,14 @@
                                             <h6 class="title">Industries Served</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="#">Software & Tech</a></li>
-                                                    <li><a href="#">Financial Services</a></li>
-                                                    <li><a href="#">Manufacturing</a></li>
-                                                    <li><a href="#">Healthcare</a></li>
-                                                    <li><a href="#">Government</a></li>
-                                                    <li><a href="#">Restaurants & Hospitality</a></li>
-                                                    <li><a href="#">Education</a></li>
-                                                    <li><a href="#">Retail</a></li>
+                                                    <li><a href="../coming-soon.php">Software & Tech</a></li>
+                                                    <li><a href="../coming-soon.php">Financial Services</a></li>
+                                                    <li><a href="../coming-soon.php">Manufacturing</a></li>
+                                                    <li><a href="../coming-soon.php">Healthcare</a></li>
+                                                    <li><a href="../coming-soon.php">Government</a></li>
+                                                    <li><a href="../coming-soon.php">Restaurants & Hospitality</a></li>
+                                                    <li><a href="../coming-soon.php">Education</a></li>
+                                                    <li><a href="../coming-soon.php">Retail</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -246,32 +254,32 @@
                             </ul>
                         </li>
 
-                        <!--li class="dropdown">
-                        <a href="./services/whatsapp-marketing-and-automation.php" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
-                        </ul>
-                    </li-->
+                        <!-- <li class="dropdown">
+                           <a href="./services/whatsapp-marketing-and-automation.php" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
+                           <ul class="dropdown-menu">
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
+                           </ul>
+                       </li> -->
 
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Video Services</a>
                             <ul class="dropdown-menu">
-                                <li><a href="../video/video-services.php">Explainer Videos</a></li>
-                                <li><a href="../video/video-services.php">Demo Videos</a></li>
-                                <li><a href="../video/video-services.php">Video Ads</a></li>
-                                <li><a href="../video/video-services.php">Social Media Videos</a></li>
-                                <li><a href="../video/video-services.php">Repurpose Videos</a></li>
-                                <li><a href="../video/video-services.php">Video Editing</a></li>
-                                <li><a href="../video/video-services.php">How-to Videos</a></li>
-                                <li><a href="../video/video-services.php">Onboarding Videos</a></li>
+                                <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
+                                <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
+                                <li><a href="../services/Video-Ads.php">Video Ads</a></li>
+                                <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
+                                <li><a href="../services/Repurpose-Videos.php">Repurpose Videos</a></li>
+                                <li><a href="../services/Video-Editing.php">Video Editing</a></li>
+                                <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
+                                <li><a href="../services/Onboarding-Videos.php">Onboarding Videos</a></li>
                             </ul>
                         </li>
 
-                        <li><a href="contact-us.php">Contact</a></li>
+                        <li><a href="../contact-us.php">Contact</a></li>
                     </ul>
                 </div><!-- /.navbar-collapse -->
 
@@ -314,182 +322,182 @@
                                         </ul>
                                     </div>
                                     <h1>Mastering the Craft: What Is Full Stack Web Development?</h1>
-                               
-                                <p>
-                                    In today's fast-evolving digital world, full stack development has emerged as one of the most coveted skills in technology. But what exactly is full stack web development? How does it differ from simply mastering frontend backend development? If you're curious about the world of web development or considering a career in tech, understanding the distinction between full stack vs frontend roles is crucial. Essentially, full stack development involves working across all layers of web applications—from the user interface on the frontend to the databases and servers on the backend. This broad skill set makes full stack developers versatile problem-solvers who can handle entire projects end-to-end. In this blog, we'll dive deep into the meaning of full stack development, explore various web developer roles, and help you discover how ITD GrowthLabs can help you acquire these valuable skills.
-                                </p>
 
-                                <h2>What Is Full Stack Web Development?</h2>
-                                <p>
-                                    At its heart, full stack development refers to the practice of working on both the frontend backend development of websites and web applications. A full stack developer is skilled in coding everything users interact with visually (frontend), as well as the underlying logic and data handling that powers the application (backend).
-                                </p>
-                                <ul>
-                                    <li><strong>Frontend development</strong> focuses on everything a user sees and interacts with: layouts, colors, buttons, forms, and animations.</li>
-                                    <li><strong>Backend development</strong> handles servers, databases, APIs, and application logic that operate behind the scenes.</li>
-                                </ul>
-                                <p>
-                                    A full stack developer combines both skill sets, enabling them to build, maintain, and troubleshoot entire web projects independently. This is what sets full stack development apart from more specialized roles focused solely on either frontend or backend.
-                                </p>
+                                    <p>
+                                        In today's fast-evolving digital world, full stack development has emerged as one of the most coveted skills in technology. But what exactly is full stack web development? How does it differ from simply mastering frontend backend development? If you're curious about the world of web development or considering a career in tech, understanding the distinction between full stack vs frontend roles is crucial. Essentially, full stack development involves working across all layers of web applications—from the user interface on the frontend to the databases and servers on the backend. This broad skill set makes full stack developers versatile problem-solvers who can handle entire projects end-to-end. In this blog, we'll dive deep into the meaning of full stack development, explore various web developer roles, and help you discover how ITD GrowthLabs can help you acquire these valuable skills.
+                                    </p>
 
-                                <h2>The Importance of Full Stack Development</h2>
-                                <p>
-                                    In today's fast-paced digital environment, full stack development has emerged as a crucial skill set that can significantly impact the success and efficiency of web and application development. A full stack developer is someone who is proficient in both frontend and backend technologies. They understand how every part of the web development process works and can troubleshoot or build a complete solution from scratch. This holistic perspective provides several advantages to both developers and businesses.
-                                </p>
+                                    <h2>What Is Full Stack Web Development?</h2>
+                                    <p>
+                                        At its heart, full stack development refers to the practice of working on both the frontend backend development of websites and web applications. A full stack developer is skilled in coding everything users interact with visually (frontend), as well as the underlying logic and data handling that powers the application (backend).
+                                    </p>
+                                    <ul>
+                                        <li><strong>Frontend development</strong> focuses on everything a user sees and interacts with: layouts, colors, buttons, forms, and animations.</li>
+                                        <li><strong>Backend development</strong> handles servers, databases, APIs, and application logic that operate behind the scenes.</li>
+                                    </ul>
+                                    <p>
+                                        A full stack developer combines both skill sets, enabling them to build, maintain, and troubleshoot entire web projects independently. This is what sets full stack development apart from more specialized roles focused solely on either frontend or backend.
+                                    </p>
 
-                                <h3>Versatility Across the Stack</h3>
-                                <p>
-                                    One of the most significant advantages of full stack development is the versatility it offers.
-                                </p>
-                                <ul>
-                                    <li>Full stack developers are capable of handling both client-side and server-side responsibilities.</li>
-                                    <li>They can switch from writing APIs in Node.js to creating beautiful interfaces with React or Vue.js without needing to pause the project flow.</li>
-                                    <li>This ability to multitask across layers allows them to respond to challenges more effectively and reduces the dependency on multiple specialists for small or medium-sized projects.</li>
-                                    <li>They're also better suited for prototyping, MVP (Minimum Viable Product) development, and projects requiring frequent feature iterations.</li>
-                                </ul>
+                                    <h2>The Importance of Full Stack Development</h2>
+                                    <p>
+                                        In today's fast-paced digital environment, full stack development has emerged as a crucial skill set that can significantly impact the success and efficiency of web and application development. A full stack developer is someone who is proficient in both frontend and backend technologies. They understand how every part of the web development process works and can troubleshoot or build a complete solution from scratch. This holistic perspective provides several advantages to both developers and businesses.
+                                    </p>
 
-                                <h3>Streamlined Communication</h3>
-                                <p>
-                                    Full stack developers contribute significantly to streamlining communication within development teams.
-                                </p>
-                                <ul>
-                                    <li>In larger teams, they act as a crucial link between frontend and backend developers, translating requirements, minimizing miscommunication, and maintaining a coherent architecture.</li>
-                                    <li>In smaller setups, a single full stack developer may handle the entire technology stack, eliminating the need for communication handoffs entirely.</li>
-                                    <li>Their deep understanding of both sides allows them to better estimate timelines, identify dependencies, and ensure cohesive user experiences from database to browser.</li>
-                                    <li>This makes project planning more efficient and reduces errors that arise from fragmented communication.</li>
-                                </ul>
+                                    <h3>Versatility Across the Stack</h3>
+                                    <p>
+                                        One of the most significant advantages of full stack development is the versatility it offers.
+                                    </p>
+                                    <ul>
+                                        <li>Full stack developers are capable of handling both client-side and server-side responsibilities.</li>
+                                        <li>They can switch from writing APIs in Node.js to creating beautiful interfaces with React or Vue.js without needing to pause the project flow.</li>
+                                        <li>This ability to multitask across layers allows them to respond to challenges more effectively and reduces the dependency on multiple specialists for small or medium-sized projects.</li>
+                                        <li>They're also better suited for prototyping, MVP (Minimum Viable Product) development, and projects requiring frequent feature iterations.</li>
+                                    </ul>
 
-                                <h3>Cost Efficiency for Businesses</h3>
-                                <p>
-                                    From a business perspective, cost efficiency is one of the most compelling reasons to embrace full stack development.
-                                </p>
-                                <ul>
-                                    <li>Hiring one developer who understands both frontend and backend can reduce the need to build a large, specialized team.</li>
-                                    <li>For startups and small businesses, this can significantly reduce payroll costs while still maintaining a high level of productivity.</li>
-                                    <li>Additionally, project managers deal with fewer personnel, which simplifies team management and speeds up decision-making.</li>
-                                    <li>Full stack developers also reduce onboarding costs, since they can jump into projects more quickly and don't require multiple resources to get started.</li>
-                                </ul>
+                                    <h3>Streamlined Communication</h3>
+                                    <p>
+                                        Full stack developers contribute significantly to streamlining communication within development teams.
+                                    </p>
+                                    <ul>
+                                        <li>In larger teams, they act as a crucial link between frontend and backend developers, translating requirements, minimizing miscommunication, and maintaining a coherent architecture.</li>
+                                        <li>In smaller setups, a single full stack developer may handle the entire technology stack, eliminating the need for communication handoffs entirely.</li>
+                                        <li>Their deep understanding of both sides allows them to better estimate timelines, identify dependencies, and ensure cohesive user experiences from database to browser.</li>
+                                        <li>This makes project planning more efficient and reduces errors that arise from fragmented communication.</li>
+                                    </ul>
 
-                                <h3>Enhanced Problem-Solving Abilities</h3>
-                                <p>
-                                    Another important strength of full stack developers lies in their problem-solving capabilities.
-                                </p>
-                                <ul>
-                                    <li>Their understanding of the entire software development lifecycle allows them to diagnose and resolve issues faster.</li>
-                                    <li>For instance, when a bug occurs, they can assess whether it originates in the frontend, backend, or even in the communication between the two.</li>
-                                    <li>They can perform quick troubleshooting, propose effective solutions, and implement fixes across the stack without needing to wait for another team's input.</li>
-                                    <li>This level of insight ensures better performance tuning, security audits, and debugging accuracy.</li>
-                                </ul>
+                                    <h3>Cost Efficiency for Businesses</h3>
+                                    <p>
+                                        From a business perspective, cost efficiency is one of the most compelling reasons to embrace full stack development.
+                                    </p>
+                                    <ul>
+                                        <li>Hiring one developer who understands both frontend and backend can reduce the need to build a large, specialized team.</li>
+                                        <li>For startups and small businesses, this can significantly reduce payroll costs while still maintaining a high level of productivity.</li>
+                                        <li>Additionally, project managers deal with fewer personnel, which simplifies team management and speeds up decision-making.</li>
+                                        <li>Full stack developers also reduce onboarding costs, since they can jump into projects more quickly and don't require multiple resources to get started.</li>
+                                    </ul>
 
-                                <h3>Improved Project Turnaround Time</h3>
-                                <p>
-                                    Full stack development also plays a vital role in reducing project turnaround time.
-                                </p>
-                                <ul>
-                                    <li>Since full stack developers are not confined to a single domain, they can manage feature development end-to-end.</li>
-                                    <li>This leads to faster iterations, which is critical in agile environments where sprint cycles are short and delivery speed matters.</li>
-                                    <li>It also helps maintain project momentum, since developers are less likely to be blocked waiting on others to complete their tasks.</li>
-                                </ul>
+                                    <h3>Enhanced Problem-Solving Abilities</h3>
+                                    <p>
+                                        Another important strength of full stack developers lies in their problem-solving capabilities.
+                                    </p>
+                                    <ul>
+                                        <li>Their understanding of the entire software development lifecycle allows them to diagnose and resolve issues faster.</li>
+                                        <li>For instance, when a bug occurs, they can assess whether it originates in the frontend, backend, or even in the communication between the two.</li>
+                                        <li>They can perform quick troubleshooting, propose effective solutions, and implement fixes across the stack without needing to wait for another team's input.</li>
+                                        <li>This level of insight ensures better performance tuning, security audits, and debugging accuracy.</li>
+                                    </ul>
 
-                                <h3>Greater Ownership and Accountability</h3>
-                                <p>
-                                    When a developer can manage an application from conception to deployment, it fosters greater ownership and accountability.
-                                </p>
-                                <ul>
-                                    <li>Full stack developers tend to view projects more holistically. They care about both the user interface and the database structure, which leads to higher quality code and a more seamless user experience.</li>
-                                    <li>This sense of responsibility encourages them to write more maintainable, scalable, and efficient code.</li>
-                                </ul>
+                                    <h3>Improved Project Turnaround Time</h3>
+                                    <p>
+                                        Full stack development also plays a vital role in reducing project turnaround time.
+                                    </p>
+                                    <ul>
+                                        <li>Since full stack developers are not confined to a single domain, they can manage feature development end-to-end.</li>
+                                        <li>This leads to faster iterations, which is critical in agile environments where sprint cycles are short and delivery speed matters.</li>
+                                        <li>It also helps maintain project momentum, since developers are less likely to be blocked waiting on others to complete their tasks.</li>
+                                    </ul>
 
-                                <h3>Flexibility in Career Growth</h3>
-                                <p>
-                                    From a career perspective, becoming a full stack developer opens up a wide range of opportunities.
-                                </p>
-                                <ul>
-                                    <li>Their well-rounded skills are attractive to employers looking for adaptable team members.</li>
-                                    <li>They can work in startups, mid-sized companies, or large corporations and are often considered for technical leadership roles faster due to their broad perspective.</li>
-                                    <li>Many also transition into CTO or product management positions because of their comprehensive understanding of both technology and business.</li>
-                                </ul>
+                                    <h3>Greater Ownership and Accountability</h3>
+                                    <p>
+                                        When a developer can manage an application from conception to deployment, it fosters greater ownership and accountability.
+                                    </p>
+                                    <ul>
+                                        <li>Full stack developers tend to view projects more holistically. They care about both the user interface and the database structure, which leads to higher quality code and a more seamless user experience.</li>
+                                        <li>This sense of responsibility encourages them to write more maintainable, scalable, and efficient code.</li>
+                                    </ul>
 
-                                <h3>Modern Tech Stack Compatibility</h3>
-                                <p>
-                                    Today's development stacks are increasingly interconnected, and many frameworks support full stack workflows out of the box.
-                                </p>
-                                <ul>
-                                    <li>Technologies like JavaScript (used in both React and Node.js) allow for seamless transitions across the frontend and backend.</li>
-                                    <li>Full stack developers can leverage DevOps tools like Docker, CI/CD pipelines, and cloud platforms to manage deployment and scalability, making them even more valuable.</li>
-                                </ul>
+                                    <h3>Flexibility in Career Growth</h3>
+                                    <p>
+                                        From a career perspective, becoming a full stack developer opens up a wide range of opportunities.
+                                    </p>
+                                    <ul>
+                                        <li>Their well-rounded skills are attractive to employers looking for adaptable team members.</li>
+                                        <li>They can work in startups, mid-sized companies, or large corporations and are often considered for technical leadership roles faster due to their broad perspective.</li>
+                                        <li>Many also transition into CTO or product management positions because of their comprehensive understanding of both technology and business.</li>
+                                    </ul>
 
-                                <h3>Easier Prototyping and Innovation</h3>
-                                <p>
-                                    For startups and new product development, full stack developers are especially important for rapid prototyping.
-                                </p>
-                                <ul>
-                                    <li>They can quickly bring an idea to life without waiting on other team members.</li>
-                                    <li>Their ability to innovate across both design and functionality enables them to test user responses and iterate swiftly.</li>
-                                    <li>This accelerates product validation and market entry.</li>
-                                </ul>
+                                    <h3>Modern Tech Stack Compatibility</h3>
+                                    <p>
+                                        Today's development stacks are increasingly interconnected, and many frameworks support full stack workflows out of the box.
+                                    </p>
+                                    <ul>
+                                        <li>Technologies like JavaScript (used in both React and Node.js) allow for seamless transitions across the frontend and backend.</li>
+                                        <li>Full stack developers can leverage DevOps tools like Docker, CI/CD pipelines, and cloud platforms to manage deployment and scalability, making them even more valuable.</li>
+                                    </ul>
 
-                                <h3>Adaptability in a Changing Tech Landscape</h3>
-                                <p>
-                                    The tech industry evolves rapidly, and developers must be adaptable.
-                                </p>
-                                <ul>
-                                    <li>Full stack developers are already accustomed to juggling multiple technologies and learning on the go.</li>
-                                    <li>This makes them more resilient to change, whether it's adopting new frameworks, shifting project scopes, or embracing emerging paradigms like serverless architecture or microservices.</li>
-                                </ul>
+                                    <h3>Easier Prototyping and Innovation</h3>
+                                    <p>
+                                        For startups and new product development, full stack developers are especially important for rapid prototyping.
+                                    </p>
+                                    <ul>
+                                        <li>They can quickly bring an idea to life without waiting on other team members.</li>
+                                        <li>Their ability to innovate across both design and functionality enables them to test user responses and iterate swiftly.</li>
+                                        <li>This accelerates product validation and market entry.</li>
+                                    </ul>
 
-                                <p>
-                                    <em>Do you prefer to specialize in one area of web development, or do you want the versatility of mastering full stack development?</em>
-                                </p>
+                                    <h3>Adaptability in a Changing Tech Landscape</h3>
+                                    <p>
+                                        The tech industry evolves rapidly, and developers must be adaptable.
+                                    </p>
+                                    <ul>
+                                        <li>Full stack developers are already accustomed to juggling multiple technologies and learning on the go.</li>
+                                        <li>This makes them more resilient to change, whether it's adopting new frameworks, shifting project scopes, or embracing emerging paradigms like serverless architecture or microservices.</li>
+                                    </ul>
 
-                                <h2>Understanding Frontend Backend Development</h2>
-                                <p>
-                                    To truly grasp full stack development, it helps to understand what frontend backend development entails separately.
-                                </p>
+                                    <p>
+                                        <em>Do you prefer to specialize in one area of web development, or do you want the versatility of mastering full stack development?</em>
+                                    </p>
 
-                                <h3>Frontend Development</h3>
-                                <p>
-                                    Frontend development focuses on the client-side of web applications—everything users see and interact with in their browsers. It encompasses the visual design, user interface, and interactive elements that create engaging user experiences.
-                                </p>
-                                <p>
-                                    <strong>Core Technologies:</strong>
-                                </p>
-                                <ul>
-                                    <li><strong>HTML (HyperText Markup Language):</strong> Provides the structural foundation, organizing content into headings, paragraphs, lists, and other semantic elements.</li>
-                                    <li><strong>CSS (Cascading Style Sheets):</strong> Handles visual presentation, including colors, typography, layouts, animations, and responsive design principles.</li>
-                                    <li><strong>JavaScript:</strong> Powers dynamic functionality, user interactions, data manipulation, and communication with backend services through APIs.</li>
-                                </ul>
-                                <p>
-                                    Popular frontend frameworks and libraries include React, Angular, and Vue.js. These tools make it easier to build complex user interfaces and manage state efficiently.
-                                </p>
+                                    <h2>Understanding Frontend Backend Development</h2>
+                                    <p>
+                                        To truly grasp full stack development, it helps to understand what frontend backend development entails separately.
+                                    </p>
 
-                                <h3>Backend Development</h3>
-                                <p>
-                                    Backend development powers the website's functionality behind the scenes. It involves:
-                                </p>
-                                <ul>
-                                    <li>Server-side programming languages such as Node.js, Python, Ruby, PHP, Java</li>
-                                    <li>Database management with MySQL, PostgreSQL, MongoDB, or others</li>
-                                    <li>Building and consuming APIs for communication between frontend and backend</li>
-                                    <li>Handling user authentication, data processing, and business logic</li>
-                                </ul>
-                                <p>
-                                    Backend developers ensure the data flow is secure, efficient, and scalable.
-                                </p>
+                                    <h3>Frontend Development</h3>
+                                    <p>
+                                        Frontend development focuses on the client-side of web applications—everything users see and interact with in their browsers. It encompasses the visual design, user interface, and interactive elements that create engaging user experiences.
+                                    </p>
+                                    <p>
+                                        <strong>Core Technologies:</strong>
+                                    </p>
+                                    <ul>
+                                        <li><strong>HTML (HyperText Markup Language):</strong> Provides the structural foundation, organizing content into headings, paragraphs, lists, and other semantic elements.</li>
+                                        <li><strong>CSS (Cascading Style Sheets):</strong> Handles visual presentation, including colors, typography, layouts, animations, and responsive design principles.</li>
+                                        <li><strong>JavaScript:</strong> Powers dynamic functionality, user interactions, data manipulation, and communication with backend services through APIs.</li>
+                                    </ul>
+                                    <p>
+                                        Popular frontend frameworks and libraries include React, Angular, and Vue.js. These tools make it easier to build complex user interfaces and manage state efficiently.
+                                    </p>
 
-                                <h3>Full Stack vs Frontend: What's the Difference?</h3>
-                                <p>
-                                    The key difference between full stack vs frontend development lies in the scope of work and responsibilities. A frontend developer specializes in creating the visual and interactive elements of a website—the parts that users directly see and interact with. This includes crafting layouts, designing buttons, managing colors, and ensuring the website looks great on all devices. Their toolkit primarily involves HTML, CSS, JavaScript, and frontend frameworks like React or Angular.
-                                </p>
-                                <p>
-                                    On the other hand, a full stack developer has a broader role that spans both frontend backend development. They not only design and build the user interface but also manage server-side logic, databases, and APIs that power the application's functionality behind the scenes. This means they work on everything from how the webpage looks and behaves to how data is stored, retrieved, and processed.
-                                </p>
-                                <p>
-                                    While frontend developers focus on user experience and client-side code, full stack developers handle the complete web application lifecycle, bridging the gap between frontend and backend teams or even managing all layers solo in smaller projects. This versatility makes full stack development an attractive career path, though it requires a wider range of skills and ongoing learning.
-                                </p>
-                                <p>
-                                    <em>Have you worked as a frontend developer thinking about expanding your skillset to full stack? What challenges do you foresee?</em>
-                                </p>
-                               
+                                    <h3>Backend Development</h3>
+                                    <p>
+                                        Backend development powers the website's functionality behind the scenes. It involves:
+                                    </p>
+                                    <ul>
+                                        <li>Server-side programming languages such as Node.js, Python, Ruby, PHP, Java</li>
+                                        <li>Database management with MySQL, PostgreSQL, MongoDB, or others</li>
+                                        <li>Building and consuming APIs for communication between frontend and backend</li>
+                                        <li>Handling user authentication, data processing, and business logic</li>
+                                    </ul>
+                                    <p>
+                                        Backend developers ensure the data flow is secure, efficient, and scalable.
+                                    </p>
+
+                                    <h3>Full Stack vs Frontend: What's the Difference?</h3>
+                                    <p>
+                                        The key difference between full stack vs frontend development lies in the scope of work and responsibilities. A frontend developer specializes in creating the visual and interactive elements of a website—the parts that users directly see and interact with. This includes crafting layouts, designing buttons, managing colors, and ensuring the website looks great on all devices. Their toolkit primarily involves HTML, CSS, JavaScript, and frontend frameworks like React or Angular.
+                                    </p>
+                                    <p>
+                                        On the other hand, a full stack developer has a broader role that spans both frontend backend development. They not only design and build the user interface but also manage server-side logic, databases, and APIs that power the application's functionality behind the scenes. This means they work on everything from how the webpage looks and behaves to how data is stored, retrieved, and processed.
+                                    </p>
+                                    <p>
+                                        While frontend developers focus on user experience and client-side code, full stack developers handle the complete web application lifecycle, bridging the gap between frontend and backend teams or even managing all layers solo in smaller projects. This versatility makes full stack development an attractive career path, though it requires a wider range of skills and ongoing learning.
+                                    </p>
+                                    <p>
+                                        <em>Have you worked as a frontend developer thinking about expanding your skillset to full stack? What challenges do you foresee?</em>
+                                    </p>
+
                                 </div>
                             </div>
                         </div>
@@ -600,11 +608,11 @@
 
                             <h4 class="widget-title">WhatsApp Marketing</h4>
                             <ul>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flows</a></li>
                             </ul>
                         </div>
                     </div>
@@ -614,24 +622,26 @@
                         <div class="f-item link">
                             <h4 class="widget-title">Video Services</h4>
                             <ul>
-                                <li><a href="../video/video-services.php">Explainer Videos</a></li>
-                                <li><a href="../video/video-services.php">Demo Videos</a></li>
-                                <li><a href="../video/video-services.php">Social Media Videos</a></li>
-                                <li><a href="../video/video-services.php">Video Editing</a></li>
-                                <li><a href="../video/video-services.php">How-to Videos</a></li>
+                                <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
+                                <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
+                                <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
+                                <li><a href="../services/Video-Editing.php">Video Editing</a></li>
+                                <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
+                            </ul>
                             </ul>
                         </div>
                     </div>
+
 
                     <!-- Data Services -->
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">Data Services</h4>
                             <ul>
-                                <li><a href="../coming-soon.php">Documents & PDF Data Entry Services</a></li>
-                                <li><a href="../coming-soon.php">Offline Data Entry Services</a></li>
-                                <li><a href="../coming-soon.php">Online Data Entry Services</a></li>
-                                <li><a href="../coming-soon.php">Product Data Entry Services</a></li>
+                                <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry Services</a></li>
+                                <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
+                                <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
+                                <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
                             </ul>
                         </div>
                     </div>
@@ -640,10 +650,10 @@
                         <div class="f-item link">
                             <h4 class="widget-title">Data Annotation Services</h4>
                             <ul>
-                                <li><a href="../coming-soon.php">Data Labeling Services</a></li>
-                                <li><a href="../coming-soon.php">Image Annotation Services</a></li>
-                                <li><a href="../coming-soon.php">Text Annotation Services</a></li>
-                                <li><a href="../coming-soon.php">Video Annotation Services</a></li>
+                                <li><a href="../data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
+                                <li><a href="../data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
+                                <li><a href="../data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
+                                <li><a href="../data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
                             </ul>
                         </div>
                     </div>
@@ -675,7 +685,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <p>Copyright &copy; 2025 <a href="https://www.itdgrowthlabs.com/">ITD GrowthLabs</a> All Rights Reserved</p>
+                        <p>Copyright &copy; 2025 ITD GrowthLabs All Rights Reserved</p>
                     </div>
                 </div>
             </div>

@@ -51,250 +51,258 @@
     <!-- Header 
 ============================================= -->
     <header>
-    <!-- Start Navigation -->
-    <nav class="navbar mobile-sidenav navbar-default validnavs dark on menu-center no-full">
+        <!-- Start Navigation -->
+        <nav class="navbar mobile-sidenav navbar-default validnavs dark on menu-center no-full">
 
-        <!-- Start Top Search -->
-        <div class="top-search">
-            <div class="container">
-                <form action="#">
-                    <div class="input-group">
-                        <span class="input-group-addon"><i class="fa fa-search"></i></span>
-                        <input type="text" class="form-control" placeholder="Search">
-                        <span class="input-group-addon close-search"><i class="fa fa-times"></i></span>
-                    </div>
-                </form>
-            </div>
-        </div>
-        <!-- End Top Search -->
-
-        <div class="container d-flex justify-content-between align-items-center">
-            <!-- Start Header Navigation -->
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
-                    <i class="fa fa-bars"></i>
-                </button>
-                <a class="navbar-brand" href="../index.php">
-                    <img src="../assets/img/logo.jpg" class="logo" alt="Logo">
-                </a>
-            </div>
-            <!-- End Header Navigation -->
-
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="navbar-menu">
-                <img src="../assets/img/logo.jpg" alt="Logo">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
-                    <i class="fa fa-times"></i>
-                </button>
-                <ul class="nav navbar-nav navbar-center" data-in="fadeInDown" data-out="fadeOutUp">
-
-                    <li class="dropdown megamenu-fw">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tech Services</a>
-                        <ul class="dropdown-menu megamenu-content" role="menu">
-                            <li>
-                                <div class="row">
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Core Tech Services</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../services/website-development-company.php">Website Design
-                                                        & Development</a></li>
-                                                <li><a href="../coming-soon.php">Template-Based Website Development</a>
-                                                </li>
-                                                <li><a href="../coming-soon.php">WordPress Website Development</a></li>
-                                                <li><a href="../coming-soon.php">Custom Website Development</a></li>
-                                                <li><a href="../coming-soon.php">E-commerce Website Development</a></li>
-
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">End-to-End Services</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../services/website-development-company.php">Website Design
-                                                        & Development</a></li>
-                                                <li><a href="../services/content-marketing-services.php">Content
-                                                        Marketing Services</a></li>
-                                                <li><a href="../services/seo-auditing-services.php">SEO Audit and
-                                                        Optimization</a></li>
-                                                <li><a href="../services/social-media-marketing.php">Social Media
-                                                        Marketing</a></li>
-                                                <li><a href="../services/google-search-ads-services.php">Google Search
-                                                        Ads</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">More Tech Solutions</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-
-                                                <li><a href="../coming-soon.php">App Development</a></li>
-                                                <li><a href="../coming-soon.php">IT Outsourcing Services</a></li>
-                                                <li><a href="../coming-soon.php">IT Team Outsourcing</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </li>
-
-
-                    <li class="dropdown megamenu-fw">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Content Services</a>
-                        <ul class="dropdown-menu megamenu-content" role="menu">
-                            <li>
-                                <div class="row">
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">SEO &amp; Content Writing</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../services/website-content-writing.php">Website Content
-                                                        Writing</a></li>
-                                                <li><a href="../services/seo-article-writing.php">SEO Article
-                                                        Writing</a></li>
-                                                <li><a href="../services/blog-writing-services.php">Blog Writing</a>
-                                                </li>
-                                                <li><a href="../services/case-study-writing-services.php">Case Study
-                                                        Writing</a></li>
-                                                <li><a href="../services/product-description-writing-services.php">Product
-                                                        Description</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Specialized Content Services</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../coming-soon.php">Content Writing & Strategy</a></li>
-                                                <li><a href="../coming-soon.php">Technical Writing Services</a></li>
-                                                <li><a href="../coming-soon.php">Whitepapers & Case Studies</a></li>
-                                                <li><a href="../coming-soon.php">Content Team Outsourcing</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Industries We Serve</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../services/logistics-content-marketing.php">Logistics</a>
-                                                </li>
-                                                <li><a href="../services/coming-soon.php">Manufacturing</a></li>
-                                                <li><a href="../services/coming-soon.php">Technology</a></li>
-                                                <li><a href="../services/ecommerce-content-services.php">E-commerce</a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </li>
-
-                    <li class="dropdown megamenu-fw">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">eLearning Services</a>
-                        <ul class="dropdown-menu megamenu-content" role="menu">
-                            <li>
-                                <div class="row">
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Custom Solutions</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../coming-soon.php">Custom eLearning Development</a></li>
-                                                <li><a href="../coming-soon.php">PowerPoint to eLearning Conversion</a>
-                                                </li>
-                                                <li><a href="../coming-soon.php">Mobile Learning / Microlearning</a>
-                                                </li>
-                                                <li><a href="../coming-soon.php">Gamified Learning Modules</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Use Cases</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="#">Employee Onboarding</a></li>
-                                                <li><a href="#">Talent Development</a></li>
-                                                <li><a href="#">Compliance Training</a></li>
-                                                <li><a href="#">Sales Enablement</a></li>
-                                                <li><a href="#">Customer Education</a></li>
-                                                <li><a href="#">Partner Enablement</a></li>
-                                                <li><a href="#">Frontline Workforce Training</a></li>
-                                                <li><a href="#">Member Training</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Industries Served</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="#">Software & Tech</a></li>
-                                                <li><a href="#">Financial Services</a></li>
-                                                <li><a href="#">Manufacturing</a></li>
-                                                <li><a href="#">Healthcare</a></li>
-                                                <li><a href="#">Government</a></li>
-                                                <li><a href="#">Restaurants & Hospitality</a></li>
-                                                <li><a href="#">Education</a></li>
-                                                <li><a href="#">Retail</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </li>
-
-                    <!--li class="dropdown">
-                        <a href="./services/whatsapp-marketing-and-automation.php" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
-                        </ul>
-                    </li-->
-
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Video Services</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="../video/video-services.php">Explainer Videos</a></li>
-                            <li><a href="../video/video-services.php">Demo Videos</a></li>
-                            <li><a href="../video/video-services.php">Video Ads</a></li>
-                            <li><a href="../video/video-services.php">Social Media Videos</a></li>
-                            <li><a href="../video/video-services.php">Repurpose Videos</a></li>
-                            <li><a href="../video/video-services.php">Video Editing</a></li>
-                            <li><a href="../video/video-services.php">How-to Videos</a></li>
-                            <li><a href="../video/video-services.php">Onboarding Videos</a></li>
-                        </ul>
-                    </li>
-
-                    <li><a href="contact-us.php">Contact</a></li>
-                </ul>
-            </div><!-- /.navbar-collapse -->
-
-            <div class="attr-right">
-                <!-- Start Atribute Navigation -->
-                <div class="attr-nav">
-                    <ul>
-                        <li class="button">
-                            <a href="https://calendly.com/itdgrowthlabs-info/30min">Book a Call</a>
-                        </li>
-                    </ul>
+            <!-- Start Top Search -->
+            <div class="top-search">
+                <div class="container">
+                    <form action="#">
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="fa fa-search"></i></span>
+                            <input type="text" class="form-control" placeholder="Search">
+                            <span class="input-group-addon close-search"><i class="fa fa-times"></i></span>
+                        </div>
+                    </form>
                 </div>
-                <!-- End Atribute Navigation -->
-
-                <!-- Overlay screen for menu -->
-                <div class="overlay-screen"></div>
-                <!-- End Overlay screen for menu -->
             </div>
+            <!-- End Top Search -->
 
-        </div>
-    </nav>
-    <!-- End Navigation -->
-</header>
+            <div class="d-flex justify-content-between align-items-center">
+                <!-- Start Header Navigation -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                        <i class="fa fa-bars"></i>
+                    </button>
+                    <a class="navbar-brand" href="../index.php">
+                        <img src="../assets/img/logo.jpg" class="logo" alt="Logo">
+                    </a>
+                </div>
+                <!-- End Header Navigation -->
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="navbar-menu">
+                    <img src="../assets/img/logo.jpg" alt="Logo">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                        <i class="fa fa-times"></i>
+                    </button>
+                    <ul class="nav navbar-nav navbar-center" data-in="fadeInDown" data-out="fadeOutUp">
+
+                        <li class="dropdown megamenu-fw">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tech Services</a>
+                            <ul class="dropdown-menu megamenu-content" role="menu">
+                                <li>
+                                    <div class="row">
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Core Tech Services</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
+                                                    <li><a href="../services/Template-Based-Website-Development.php">Template-Based Website Development</a>
+                                                    </li>
+                                                    <li><a href="../services/WordPress-Website-Development.php">WordPress Website Development</a></li>
+                                                    <li><a href="../services/Custom-Website-Development.php">Custom Website Development</a></li>
+                                                    <li><a href="../services/E-commerce-Website-Development.php">E-commerce Website Development</a></li>
+
+                                                </ul>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">End-to-End Services</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
+                                                    <li><a href="../services/content-marketing-services.php">Content Marketing Services</a></li>
+                                                    <li><a href="../services/seo-auditing-services.php">SEO Audit and Optimization</a></li>
+                                                    <li><a href="../services/social-media-marketing.php">Social Media Marketing</a></li>
+                                                    <li><a href="../services/google-search-ads-services.php">Google Search Ads</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">More Tech Solutions</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+
+                                                    <li><a href="../services/App-Development.php">App Development</a></li>
+                                                    <li><a href="../services/IT-Outsourcing-Services.php">IT Outsourcing Services</a></li>
+                                                    <li><a href="../services/IT-Team-Outsourcing.php">IT Team Outsourcing</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flow</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data Services</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
+                                <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
+                                <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
+                                <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
+                                <li><a href="../data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
+                                <li><a href="../data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
+                                <li><a href="../data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
+                                <li><a href="../data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
+                                <li><a href="../data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown megamenu-fw">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Content Services</a>
+                            <ul class="dropdown-menu megamenu-content" role="menu">
+                                <li>
+                                    <div class="row">
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">SEO &amp; Content Writing</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/website-content-writing.php">Website Content Writing</a></li>
+                                                    <li><a href="../services/seo-article-writing.php">SEO Article Writing</a></li>
+                                                    <li><a href="../services/blog-writing-services.php">Blog Writing</a></li>
+                                                    <li><a href="../services/case-study-writing-services.php">Case Study Writing</a></li>
+                                                    <li><a href="../services/product-description-writing-services.php">Product Description</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Specialized Content Services</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/content_writing_strategy.php">Content Writing & Strategy</a></li>
+                                                    <li><a href="../services/technical-writing-services.php">Technical Writing Services</a></li>
+                                                    <li><a href="../services/White-Papers-Case-Studies.php">Whitepapers & Case Studies</a></li>
+                                                    <li><a href="../services/Content-Team-Outsourcing.php">Content Team Outsourcing</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Industries We Serve</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/logistics-content-marketing.php">Logistics</a></li>
+                                                    <li><a href="../services/Industries-We-Serve-Manufacturing.php">Manufacturing</a></li>
+                                                    <li><a href="../services/Industries-We-Serve-Technology.php">Technology</a></li>
+                                                    <li><a href="../services/ecommerce-content-services.php">E-commerce</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown megamenu-fw">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">eLearning Services</a>
+                            <ul class="dropdown-menu megamenu-content" role="menu">
+                                <li>
+                                    <div class="row">
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Custom Solutions</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/Custom-eLearning-Development.php">Custom eLearning Development</a></li>
+                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php">PowerPoint to eLearning Conversion</a></li>
+                                                    <li><a href="../services/Mobile-Learn-Microlearning.php">Mobile Learning / Microlearning</a></li>
+                                                    <li><a href="../services/Gamified-Learning-Modules.php">Gamified Learning Modules</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Use Cases</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/Employee-Onboarding.php">Employee Onboarding</a></li>
+                                                    <li><a href="../services/Talent-Development.php">Talent Development</a></li>
+                                                    <li><a href="../services/Compliance-Training.php">Compliance Training</a></li>
+                                                    <li><a href="../services/Sales-Enablement.php">Sales Enablement</a></li>
+                                                    <li><a href="../services/Customer-Education.php">Customer Education</a></li>
+                                                    <li><a href="../services/Partner-Enablement.php">Partner Enablement</a></li>
+                                                    <li><a href="../services/Frontline-Workforce-Training.php">Frontline Workforce Training</a></li>
+                                                    <li><a href="../services/Member-Training.php">Member Training</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Industries Served</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../coming-soon.php">Software & Tech</a></li>
+                                                    <li><a href="../coming-soon.php">Financial Services</a></li>
+                                                    <li><a href="../coming-soon.php">Manufacturing</a></li>
+                                                    <li><a href="../coming-soon.php">Healthcare</a></li>
+                                                    <li><a href="../coming-soon.php">Government</a></li>
+                                                    <li><a href="../coming-soon.php">Restaurants & Hospitality</a></li>
+                                                    <li><a href="../coming-soon.php">Education</a></li>
+                                                    <li><a href="../coming-soon.php">Retail</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <!-- <li class="dropdown">
+                           <a href="./services/whatsapp-marketing-and-automation.php" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
+                           <ul class="dropdown-menu">
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
+                           </ul>
+                       </li> -->
+
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Video Services</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
+                                <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
+                                <li><a href="../services/Video-Ads.php">Video Ads</a></li>
+                                <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
+                                <li><a href="../services/Repurpose-Videos.php">Repurpose Videos</a></li>
+                                <li><a href="../services/Video-Editing.php">Video Editing</a></li>
+                                <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
+                                <li><a href="../services/Onboarding-Videos.php">Onboarding Videos</a></li>
+                            </ul>
+                        </li>
+
+                        <li><a href="../contact-us.php">Contact</a></li>
+                    </ul>
+                </div><!-- /.navbar-collapse -->
+
+                <div class="attr-right">
+                    <!-- Start Atribute Navigation -->
+                    <div class="attr-nav">
+                        <ul>
+                            <li class="button">
+                                <a href="https://calendly.com/itdgrowthlabs-info/30min">Book a Call</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- End Atribute Navigation -->
+
+                    <!-- Overlay screen for menu -->
+                    <div class="overlay-screen"></div>
+                    <!-- End Overlay screen for menu -->
+                </div>
+
+            </div>
+        </nav>
+        <!-- End Navigation -->
+    </header>
     <!-- End Header -->
     <!-- Start Banner Area 
     ============================================= -->
@@ -416,15 +424,15 @@
                                     <h2>How to Implement AI Chatbots for WhatsApp Marketing</h2>
                                     <ol>
                                         <li><strong>Choose the Right AI Chatbot Platform</strong><br>
-                                        Select a chatbot provider that aligns with your business needs. <a href="https://www.itdgrowthlabs.com/">ITDGrowthLabs</a> offers tailored solutions to enhance WhatsApp marketing efforts.</li>
+                                            Select a chatbot provider that aligns with your business needs. <a href="https://www.itdgrowthlabs.com/">ITDGrowthLabs</a> offers tailored solutions to enhance WhatsApp marketing efforts.</li>
                                         <li><strong>Define Your Chatbot's Purpose</strong><br>
-                                        Identify whether your chatbot will handle customer queries, sales, or engagement to streamline operations.</li>
+                                            Identify whether your chatbot will handle customer queries, sales, or engagement to streamline operations.</li>
                                         <li><strong>Design an Interactive Chat Flow</strong><br>
-                                        Ensure that the chatbot conversation feels natural and engaging, mimicking human interaction.</li>
+                                            Ensure that the chatbot conversation feels natural and engaging, mimicking human interaction.</li>
                                         <li><strong>Integrate AI for Personalized Responses</strong><br>
-                                        Use conversational AI to analyze past interactions and provide tailored recommendations.</li>
+                                            Use conversational AI to analyze past interactions and provide tailored recommendations.</li>
                                         <li><strong>Monitor and Optimize Performance</strong><br>
-                                        Regularly analyze chatbot data to improve responses and enhance user experience.</li>
+                                            Regularly analyze chatbot data to improve responses and enhance user experience.</li>
                                     </ol>
 
                                     <p>What key features do you think an AI chatbot must have for your business?</p>
@@ -517,45 +525,45 @@
 
                                     <h2>Future of AI Chatbots in WhatsApp Marketing</h2>
                                     <p>As AI technology continues to evolve, chatbots in WhatsApp marketing are set to become more sophisticated, revolutionizing how businesses engage with customers. With enhanced capabilities, AI-driven chatbots will provide instant, personalized, and efficient customer interactions, leading to higher engagement and conversion rates.</p>
-                                    
+
                                     <h3>1. Hyper-Personalization</h3>
                                     <ul>
                                         <li>AI chatbots will analyze customer behavior, preferences, and past interactions to deliver highly customized responses.</li>
                                         <li>Advanced natural language processing (NLP) will enable chatbots to understand context and sentiment, making conversations more human-like.</li>
                                         <li>Personalized product recommendations, offers, and reminders will enhance customer experience and brand loyalty.</li>
                                     </ul>
-                                    
+
                                     <h3>2. 24/7 Real-Time Customer Support</h3>
                                     <ul>
                                         <li>Businesses will leverage AI chatbots for instant query resolution, reducing response times and improving customer satisfaction.</li>
                                         <li>Multi-language support will expand reach, allowing brands to cater to global audiences seamlessly.</li>
                                         <li>AI-powered automation will handle frequently asked questions (FAQs), order tracking, and troubleshooting, reducing the burden on human agents.</li>
                                     </ul>
-                                    
+
                                     <h3>3. Voice and Image Recognition Integration</h3>
                                     <ul>
                                         <li>Future chatbots will incorporate voice-based interactions, allowing users to communicate using speech instead of text.</li>
                                         <li>Image recognition will enable chatbots to assist with visual queries, such as identifying products or verifying documents.</li>
                                     </ul>
-                                    
+
                                     <h3>4. AI-Driven Sales and Lead Generation</h3>
                                     <ul>
                                         <li>Chatbots will proactively engage potential customers, qualify leads, and guide them through the sales funnel.</li>
                                         <li>AI will analyze user data to suggest relevant products or services, boosting conversion rates.</li>
                                         <li>Automated follow-ups and reminders for abandoned carts will increase customer retention.</li>
                                     </ul>
-                                    
+
                                     <h3>5. Seamless Integration with Business Tools</h3>
                                     <ul>
                                         <li>AI chatbots will integrate with CRM systems, payment gateways, and inventory management tools, streamlining business operations.</li>
                                         <li>Businesses will automate appointment scheduling, order placements, and payment processing through WhatsApp.</li>
                                     </ul>
-                                    
+
                                     <p>With these advancements, AI-powered chatbots will redefine WhatsApp marketing, making customer interactions more intelligent, efficient, and engaging.</p>
 
                                     <h2>How ITDGrowthLabs Can Help You Implement AI Chatbots for WhatsApp Marketing</h2>
                                     <p>If you're looking to integrate AI-powered chatbots into your WhatsApp marketing strategy, <a href="https://www.itdgrowthlabs.com/">ITD GrowthLabs</a> offers cutting-edge solutions. Their AI-driven automation tools help businesses enhance customer engagement, streamline operations, and increase lead generation.</p>
-                                    
+
                                     <h3>Why Choose <a href="https://www.itdgrowthlabs.com/">ITD GrowthLabs</a>?</h3>
                                     <ul>
                                         <li>Custom AI chatbot solutions for WhatsApp Business</li>
@@ -563,12 +571,12 @@
                                         <li>Personalized marketing and sales automation</li>
                                         <li>Data-driven insights for better decision-making</li>
                                     </ul>
-                                    
+
                                     <p>Ready to elevate your WhatsApp marketing with AI chatbots? <a href="https://www.itdgrowthlabs.com/">ITD GrowthLabs</a> has the perfect solution for you. Let AI take your customer engagement and sales to the next level!</p>
 
                                     <h2>Conclusion</h2>
                                     <p>AI chatbots are revolutionizing WhatsApp marketing by automating customer interactions, increasing engagement, and improving lead conversions. Businesses that leverage AI marketing gain a competitive advantage by providing instant and personalized customer support. With tools like <a href="https://www.itdgrowthlabs.com/">ITD GrowthLabs</a> companies can seamlessly integrate AI chatbots into their WhatsApp Business platform and drive significant growth. Now is the time to embrace automation and conversational AI to scale your business and enhance customer experiences.</p>
-                                    
+
                                     <p>Are you ready to transform your WhatsApp marketing strategy with AI chatbots?</p>
                                 </div>
                             </div>
@@ -681,11 +689,11 @@
 
                             <h4 class="widget-title">WhatsApp Marketing</h4>
                             <ul>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flows</a></li>
                             </ul>
                         </div>
                     </div>
@@ -695,24 +703,26 @@
                         <div class="f-item link">
                             <h4 class="widget-title">Video Services</h4>
                             <ul>
-                                <li><a href="../video/video-services.php">Explainer Videos</a></li>
-                                <li><a href="../video/video-services.php">Demo Videos</a></li>
-                                <li><a href="../video/video-services.php">Social Media Videos</a></li>
-                                <li><a href="../video/video-services.php">Video Editing</a></li>
-                                <li><a href="../video/video-services.php">How-to Videos</a></li>
+                                <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
+                                <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
+                                <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
+                                <li><a href="../services/Video-Editing.php">Video Editing</a></li>
+                                <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
+                            </ul>
                             </ul>
                         </div>
                     </div>
+
 
                     <!-- Data Services -->
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">Data Services</h4>
                             <ul>
-                                <li><a href="../coming-soon.php">Documents & PDF Data Entry Services</a></li>
-                                <li><a href="../coming-soon.php">Offline Data Entry Services</a></li>
-                                <li><a href="../coming-soon.php">Online Data Entry Services</a></li>
-                                <li><a href="../coming-soon.php">Product Data Entry Services</a></li>
+                                <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry Services</a></li>
+                                <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
+                                <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
+                                <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
                             </ul>
                         </div>
                     </div>
@@ -721,10 +731,10 @@
                         <div class="f-item link">
                             <h4 class="widget-title">Data Annotation Services</h4>
                             <ul>
-                                <li><a href="../coming-soon.php">Data Labeling Services</a></li>
-                                <li><a href="../coming-soon.php">Image Annotation Services</a></li>
-                                <li><a href="../coming-soon.php">Text Annotation Services</a></li>
-                                <li><a href="../coming-soon.php">Video Annotation Services</a></li>
+                                <li><a href="../data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
+                                <li><a href="../data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
+                                <li><a href="../data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
+                                <li><a href="../data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
                             </ul>
                         </div>
                     </div>
@@ -756,7 +766,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <p>Copyright &copy; 2025 <a href="https://www.itdgrowthlabs.com/">ITD GrowthLabs</a> All Rights Reserved</p>
+                        <p>Copyright &copy; 2025 ITD GrowthLabs All Rights Reserved</p>
                     </div>
                 </div>
             </div>

@@ -32,14 +32,17 @@
     <link href="../assets/css/style.css" rel="stylesheet">
     <link href="style.css" rel="stylesheet">
     <!-- ========== End Stylesheet ========== -->
-      <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZR348BRLFX"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-ZR348BRLFX');
-</script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZR348BRLFX"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'G-ZR348BRLFX');
+    </script>
 
     <!--[if lte IE 9]>
         <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
@@ -51,251 +54,259 @@
 
     <!-- Header 
 ============================================= -->
-   <header>
-    <!-- Start Navigation -->
-    <nav class="navbar mobile-sidenav navbar-default validnavs dark on menu-center no-full">
+    <header>
+        <!-- Start Navigation -->
+        <nav class="navbar mobile-sidenav navbar-default validnavs dark on menu-center no-full">
 
-        <!-- Start Top Search -->
-        <div class="top-search">
-            <div class="container">
-                <form action="#">
-                    <div class="input-group">
-                        <span class="input-group-addon"><i class="fa fa-search"></i></span>
-                        <input type="text" class="form-control" placeholder="Search">
-                        <span class="input-group-addon close-search"><i class="fa fa-times"></i></span>
-                    </div>
-                </form>
-            </div>
-        </div>
-        <!-- End Top Search -->
-
-        <div class="container d-flex justify-content-between align-items-center">
-            <!-- Start Header Navigation -->
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
-                    <i class="fa fa-bars"></i>
-                </button>
-                <a class="navbar-brand" href="../index.php">
-                    <img src="../assets/img/logo.jpg" class="logo" alt="Logo">
-                </a>
-            </div>
-            <!-- End Header Navigation -->
-
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="navbar-menu">
-                <img src="../assets/img/logo.jpg" alt="Logo">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
-                    <i class="fa fa-times"></i>
-                </button>
-                <ul class="nav navbar-nav navbar-center" data-in="fadeInDown" data-out="fadeOutUp">
-
-                    <li class="dropdown megamenu-fw">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tech Services</a>
-                        <ul class="dropdown-menu megamenu-content" role="menu">
-                            <li>
-                                <div class="row">
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Core Tech Services</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../services/website-development-company.php">Website Design
-                                                        & Development</a></li>
-                                                <li><a href="../coming-soon.php">Template-Based Website Development</a>
-                                                </li>
-                                                <li><a href="../coming-soon.php">WordPress Website Development</a></li>
-                                                <li><a href="../coming-soon.php">Custom Website Development</a></li>
-                                                <li><a href="../coming-soon.php">E-commerce Website Development</a></li>
-
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">End-to-End Services</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../services/website-development-company.php">Website Design
-                                                        & Development</a></li>
-                                                <li><a href="../services/content-marketing-services.php">Content
-                                                        Marketing Services</a></li>
-                                                <li><a href="../services/seo-auditing-services.php">SEO Audit and
-                                                        Optimization</a></li>
-                                                <li><a href="../services/social-media-marketing.php">Social Media
-                                                        Marketing</a></li>
-                                                <li><a href="../services/google-search-ads-services.php">Google Search
-                                                        Ads</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">More Tech Solutions</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-
-                                                <li><a href="../coming-soon.php">App Development</a></li>
-                                                <li><a href="../coming-soon.php">IT Outsourcing Services</a></li>
-                                                <li><a href="../coming-soon.php">IT Team Outsourcing</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </li>
-
-
-                    <li class="dropdown megamenu-fw">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Content Services</a>
-                        <ul class="dropdown-menu megamenu-content" role="menu">
-                            <li>
-                                <div class="row">
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">SEO &amp; Content Writing</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../services/website-content-writing.php">Website Content
-                                                        Writing</a></li>
-                                                <li><a href="../services/seo-article-writing.php">SEO Article
-                                                        Writing</a></li>
-                                                <li><a href="../services/blog-writing-services.php">Blog Writing</a>
-                                                </li>
-                                                <li><a href="../services/case-study-writing-services.php">Case Study
-                                                        Writing</a></li>
-                                                <li><a href="../services/product-description-writing-services.php">Product
-                                                        Description</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Specialized Content Services</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../coming-soon.php">Content Writing & Strategy</a></li>
-                                                <li><a href="../coming-soon.php">Technical Writing Services</a></li>
-                                                <li><a href="../coming-soon.php">Whitepapers & Case Studies</a></li>
-                                                <li><a href="../coming-soon.php">Content Team Outsourcing</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Industries We Serve</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../services/logistics-content-marketing.php">Logistics</a>
-                                                </li>
-                                                <li><a href="../services/coming-soon.php">Manufacturing</a></li>
-                                                <li><a href="../services/coming-soon.php">Technology</a></li>
-                                                <li><a href="../services/ecommerce-content-services.php">E-commerce</a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </li>
-
-                    <li class="dropdown megamenu-fw">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">eLearning Services</a>
-                        <ul class="dropdown-menu megamenu-content" role="menu">
-                            <li>
-                                <div class="row">
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Custom Solutions</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../coming-soon.php">Custom eLearning Development</a></li>
-                                                <li><a href="../coming-soon.php">PowerPoint to eLearning Conversion</a>
-                                                </li>
-                                                <li><a href="../coming-soon.php">Mobile Learning / Microlearning</a>
-                                                </li>
-                                                <li><a href="../coming-soon.php">Gamified Learning Modules</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Use Cases</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="#">Employee Onboarding</a></li>
-                                                <li><a href="#">Talent Development</a></li>
-                                                <li><a href="#">Compliance Training</a></li>
-                                                <li><a href="#">Sales Enablement</a></li>
-                                                <li><a href="#">Customer Education</a></li>
-                                                <li><a href="#">Partner Enablement</a></li>
-                                                <li><a href="#">Frontline Workforce Training</a></li>
-                                                <li><a href="#">Member Training</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Industries Served</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="#">Software & Tech</a></li>
-                                                <li><a href="#">Financial Services</a></li>
-                                                <li><a href="#">Manufacturing</a></li>
-                                                <li><a href="#">Healthcare</a></li>
-                                                <li><a href="#">Government</a></li>
-                                                <li><a href="#">Restaurants & Hospitality</a></li>
-                                                <li><a href="#">Education</a></li>
-                                                <li><a href="#">Retail</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </li>
-
-                    <!--li class="dropdown">
-                        <a href="./services/whatsapp-marketing-and-automation.php" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
-                        </ul>
-                    </li-->
-
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Video Services</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="../video/video-services.php">Explainer Videos</a></li>
-                            <li><a href="../video/video-services.php">Demo Videos</a></li>
-                            <li><a href="../video/video-services.php">Video Ads</a></li>
-                            <li><a href="../video/video-services.php">Social Media Videos</a></li>
-                            <li><a href="../video/video-services.php">Repurpose Videos</a></li>
-                            <li><a href="../video/video-services.php">Video Editing</a></li>
-                            <li><a href="../video/video-services.php">How-to Videos</a></li>
-                            <li><a href="../video/video-services.php">Onboarding Videos</a></li>
-                        </ul>
-                    </li>
-
-                    <li><a href="contact-us.php">Contact</a></li>
-                </ul>
-            </div><!-- /.navbar-collapse -->
-
-            <div class="attr-right">
-                <!-- Start Atribute Navigation -->
-                <div class="attr-nav">
-                    <ul>
-                        <li class="button">
-                            <a href="https://calendly.com/itdgrowthlabs-info/30min">Book a Call</a>
-                        </li>
-                    </ul>
+            <!-- Start Top Search -->
+            <div class="top-search">
+                <div class="container">
+                    <form action="#">
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="fa fa-search"></i></span>
+                            <input type="text" class="form-control" placeholder="Search">
+                            <span class="input-group-addon close-search"><i class="fa fa-times"></i></span>
+                        </div>
+                    </form>
                 </div>
-                <!-- End Atribute Navigation -->
-
-                <!-- Overlay screen for menu -->
-                <div class="overlay-screen"></div>
-                <!-- End Overlay screen for menu -->
             </div>
+            <!-- End Top Search -->
 
-        </div>
-    </nav>
-    <!-- End Navigation -->
-</header>
+            <div class="d-flex justify-content-between align-items-center">
+                <!-- Start Header Navigation -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                        <i class="fa fa-bars"></i>
+                    </button>
+                    <a class="navbar-brand" href="../index.php">
+                        <img src="../assets/img/logo.jpg" class="logo" alt="Logo">
+                    </a>
+                </div>
+                <!-- End Header Navigation -->
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="navbar-menu">
+                    <img src="../assets/img/logo.jpg" alt="Logo">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                        <i class="fa fa-times"></i>
+                    </button>
+                    <ul class="nav navbar-nav navbar-center" data-in="fadeInDown" data-out="fadeOutUp">
+
+                        <li class="dropdown megamenu-fw">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tech Services</a>
+                            <ul class="dropdown-menu megamenu-content" role="menu">
+                                <li>
+                                    <div class="row">
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Core Tech Services</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
+                                                    <li><a href="../services/Template-Based-Website-Development.php">Template-Based Website Development</a>
+                                                    </li>
+                                                    <li><a href="../services/WordPress-Website-Development.php">WordPress Website Development</a></li>
+                                                    <li><a href="../services/Custom-Website-Development.php">Custom Website Development</a></li>
+                                                    <li><a href="../services/E-commerce-Website-Development.php">E-commerce Website Development</a></li>
+
+                                                </ul>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">End-to-End Services</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
+                                                    <li><a href="../services/content-marketing-services.php">Content Marketing Services</a></li>
+                                                    <li><a href="../services/seo-auditing-services.php">SEO Audit and Optimization</a></li>
+                                                    <li><a href="../services/social-media-marketing.php">Social Media Marketing</a></li>
+                                                    <li><a href="../services/google-search-ads-services.php">Google Search Ads</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">More Tech Solutions</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+
+                                                    <li><a href="../services/App-Development.php">App Development</a></li>
+                                                    <li><a href="../services/IT-Outsourcing-Services.php">IT Outsourcing Services</a></li>
+                                                    <li><a href="../services/IT-Team-Outsourcing.php">IT Team Outsourcing</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flow</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data Services</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
+                                <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
+                                <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
+                                <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
+                                <li><a href="../data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
+                                <li><a href="../data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
+                                <li><a href="../data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
+                                <li><a href="../data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
+                                <li><a href="../data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown megamenu-fw">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Content Services</a>
+                            <ul class="dropdown-menu megamenu-content" role="menu">
+                                <li>
+                                    <div class="row">
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">SEO &amp; Content Writing</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/website-content-writing.php">Website Content Writing</a></li>
+                                                    <li><a href="../services/seo-article-writing.php">SEO Article Writing</a></li>
+                                                    <li><a href="../services/blog-writing-services.php">Blog Writing</a></li>
+                                                    <li><a href="../services/case-study-writing-services.php">Case Study Writing</a></li>
+                                                    <li><a href="../services/product-description-writing-services.php">Product Description</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Specialized Content Services</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/content_writing_strategy.php">Content Writing & Strategy</a></li>
+                                                    <li><a href="../services/technical-writing-services.php">Technical Writing Services</a></li>
+                                                    <li><a href="../services/White-Papers-Case-Studies.php">Whitepapers & Case Studies</a></li>
+                                                    <li><a href="../services/Content-Team-Outsourcing.php">Content Team Outsourcing</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Industries We Serve</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/logistics-content-marketing.php">Logistics</a></li>
+                                                    <li><a href="../services/Industries-We-Serve-Manufacturing.php">Manufacturing</a></li>
+                                                    <li><a href="../services/Industries-We-Serve-Technology.php">Technology</a></li>
+                                                    <li><a href="../services/ecommerce-content-services.php">E-commerce</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown megamenu-fw">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">eLearning Services</a>
+                            <ul class="dropdown-menu megamenu-content" role="menu">
+                                <li>
+                                    <div class="row">
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Custom Solutions</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/Custom-eLearning-Development.php">Custom eLearning Development</a></li>
+                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php">PowerPoint to eLearning Conversion</a></li>
+                                                    <li><a href="../services/Mobile-Learn-Microlearning.php">Mobile Learning / Microlearning</a></li>
+                                                    <li><a href="../services/Gamified-Learning-Modules.php">Gamified Learning Modules</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Use Cases</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/Employee-Onboarding.php">Employee Onboarding</a></li>
+                                                    <li><a href="../services/Talent-Development.php">Talent Development</a></li>
+                                                    <li><a href="../services/Compliance-Training.php">Compliance Training</a></li>
+                                                    <li><a href="../services/Sales-Enablement.php">Sales Enablement</a></li>
+                                                    <li><a href="../services/Customer-Education.php">Customer Education</a></li>
+                                                    <li><a href="../services/Partner-Enablement.php">Partner Enablement</a></li>
+                                                    <li><a href="../services/Frontline-Workforce-Training.php">Frontline Workforce Training</a></li>
+                                                    <li><a href="../services/Member-Training.php">Member Training</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Industries Served</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../coming-soon.php">Software & Tech</a></li>
+                                                    <li><a href="../coming-soon.php">Financial Services</a></li>
+                                                    <li><a href="../coming-soon.php">Manufacturing</a></li>
+                                                    <li><a href="../coming-soon.php">Healthcare</a></li>
+                                                    <li><a href="../coming-soon.php">Government</a></li>
+                                                    <li><a href="../coming-soon.php">Restaurants & Hospitality</a></li>
+                                                    <li><a href="../coming-soon.php">Education</a></li>
+                                                    <li><a href="../coming-soon.php">Retail</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <!-- <li class="dropdown">
+                           <a href="./services/whatsapp-marketing-and-automation.php" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
+                           <ul class="dropdown-menu">
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
+                           </ul>
+                       </li> -->
+
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Video Services</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
+                                <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
+                                <li><a href="../services/Video-Ads.php">Video Ads</a></li>
+                                <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
+                                <li><a href="../services/Repurpose-Videos.php">Repurpose Videos</a></li>
+                                <li><a href="../services/Video-Editing.php">Video Editing</a></li>
+                                <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
+                                <li><a href="../services/Onboarding-Videos.php">Onboarding Videos</a></li>
+                            </ul>
+                        </li>
+
+                        <li><a href="../contact-us.php">Contact</a></li>
+                    </ul>
+                </div><!-- /.navbar-collapse -->
+
+                <div class="attr-right">
+                    <!-- Start Atribute Navigation -->
+                    <div class="attr-nav">
+                        <ul>
+                            <li class="button">
+                                <a href="https://calendly.com/itdgrowthlabs-info/30min">Book a Call</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- End Atribute Navigation -->
+
+                    <!-- Overlay screen for menu -->
+                    <div class="overlay-screen"></div>
+                    <!-- End Overlay screen for menu -->
+                </div>
+
+            </div>
+        </nav>
+        <!-- End Navigation -->
+    </header>
     <!-- End Header -->
     <!-- Start Blog ============================================= -->
     <div class="blog-area single full-blog right-sidebar full-blog default-padding">
@@ -314,139 +325,139 @@
                                         </ul>
                                     </div>
 
-                                <h1>Visual Design Principles for eLearning Courses in 2025</h1>
-                                <p>Creating an engaging eLearning experience goes beyond delivering content—it's about designing it visually to captivate learners. A strong eLearning visual design enhances comprehension, maintains attention, and ensures knowledge retention. Whether you're building compliance training or onboarding modules, applying effective learning design principles and optimizing UI/UX for training can transform how learners interact with your content.</p>
+                                    <h1>Visual Design Principles for eLearning Courses in 2025</h1>
+                                    <p>Creating an engaging eLearning experience goes beyond delivering content—it's about designing it visually to captivate learners. A strong eLearning visual design enhances comprehension, maintains attention, and ensures knowledge retention. Whether you're building compliance training or onboarding modules, applying effective learning design principles and optimizing UI/UX for training can transform how learners interact with your content.</p>
 
-                                <h2>Why Visual Design Matters in eLearning</h2>
-                                <p>Effective eLearning visual design is more than aesthetics—it directly influences how learners process and retain information. Poor design can overwhelm learners, while well-structured visuals make learning intuitive and engaging.</p>
+                                    <h2>Why Visual Design Matters in eLearning</h2>
+                                    <p>Effective eLearning visual design is more than aesthetics—it directly influences how learners process and retain information. Poor design can overwhelm learners, while well-structured visuals make learning intuitive and engaging.</p>
 
-                                <h3>Benefits of Strong Visual Design:</h3>
-                                <ul>
-                                    <li>Enhances user engagement and motivation</li>
-                                    <li>Reduces cognitive overload</li>
-                                    <li>Reinforces key learning points</li>
-                                    <li>Supports different learning styles (visual, kinesthetic, etc.)</li>
-                                    <li>Improves course navigation and learner flow</li>
-                                </ul>
+                                    <h3>Benefits of Strong Visual Design:</h3>
+                                    <ul>
+                                        <li>Enhances user engagement and motivation</li>
+                                        <li>Reduces cognitive overload</li>
+                                        <li>Reinforces key learning points</li>
+                                        <li>Supports different learning styles (visual, kinesthetic, etc.)</li>
+                                        <li>Improves course navigation and learner flow</li>
+                                    </ul>
 
-                                <h2>Key Visual Design Principles for eLearning</h2>
-                                
-                                <h3>1. Consistency and Visual Hierarchy</h3>
-                                <p>A consistent design helps learners feel oriented and confident while navigating through an eLearning module. When visual elements follow a predictable structure, learners can better absorb content without distraction or confusion.</p>
+                                    <h2>Key Visual Design Principles for eLearning</h2>
 
-                                <h4>Best practices for visual consistency:</h4>
-                                <ul>
-                                    <li>Use a uniform color palette and typography throughout the course</li>
-                                    <li>Establish a clear content structure using font size, weight, and color</li>
-                                    <li>Apply consistent layouts across slides, screens, and modules</li>
-                                    <li>Guide attention with hierarchy using size, color, and placement</li>
-                                </ul>
+                                    <h3>1. Consistency and Visual Hierarchy</h3>
+                                    <p>A consistent design helps learners feel oriented and confident while navigating through an eLearning module. When visual elements follow a predictable structure, learners can better absorb content without distraction or confusion.</p>
 
-                                <h3>2. White Space and Simplicity</h3>
-                                <p>Clutter is the enemy of clarity. White space (also known as negative space) gives learners visual breathing room, making it easier to process and retain information.</p>
+                                    <h4>Best practices for visual consistency:</h4>
+                                    <ul>
+                                        <li>Use a uniform color palette and typography throughout the course</li>
+                                        <li>Establish a clear content structure using font size, weight, and color</li>
+                                        <li>Apply consistent layouts across slides, screens, and modules</li>
+                                        <li>Guide attention with hierarchy using size, color, and placement</li>
+                                    </ul>
 
-                                <h4>Principles of white space usage:</h4>
-                                <ul>
-                                    <li>Avoid visual clutter</li>
-                                    <li>Use padding and margins to separate text blocks and UI elements</li>
-                                    <li>Maintain clean backgrounds</li>
-                                    <li>Embrace simplicity with one primary objective per screen</li>
-                                </ul>
+                                    <h3>2. White Space and Simplicity</h3>
+                                    <p>Clutter is the enemy of clarity. White space (also known as negative space) gives learners visual breathing room, making it easier to process and retain information.</p>
 
-                                <h3>3. Typography and Readability</h3>
-                                <p>Typography is more than aesthetics—it directly affects how easily content can be consumed. The wrong font or poor text formatting can reduce comprehension and increase cognitive load.</p>
+                                    <h4>Principles of white space usage:</h4>
+                                    <ul>
+                                        <li>Avoid visual clutter</li>
+                                        <li>Use padding and margins to separate text blocks and UI elements</li>
+                                        <li>Maintain clean backgrounds</li>
+                                        <li>Embrace simplicity with one primary objective per screen</li>
+                                    </ul>
 
-                                <h4>Key typography guidelines:</h4>
-                                <ul>
-                                    <li>Choose legible fonts that work well across devices</li>
-                                    <li>Limit the number of fonts to 2-3 families</li>
-                                    <li>Use bold and italics purposefully</li>
-                                    <li>Maintain text alignment and optimal line length</li>
-                                </ul>
+                                    <h3>3. Typography and Readability</h3>
+                                    <p>Typography is more than aesthetics—it directly affects how easily content can be consumed. The wrong font or poor text formatting can reduce comprehension and increase cognitive load.</p>
 
-                                <h3>4. Color Theory in eLearning</h3>
-                                <p>Color can communicate mood, structure, and importance. But when misused, it can overwhelm or confuse learners. Applying color theory wisely enhances visual appeal and cognitive processing.</p>
+                                    <h4>Key typography guidelines:</h4>
+                                    <ul>
+                                        <li>Choose legible fonts that work well across devices</li>
+                                        <li>Limit the number of fonts to 2-3 families</li>
+                                        <li>Use bold and italics purposefully</li>
+                                        <li>Maintain text alignment and optimal line length</li>
+                                    </ul>
 
-                                <h4>Best practices for using color:</h4>
-                                <ul>
-                                    <li>Use color for emphasis, not decoration</li>
-                                    <li>Ensure sufficient contrast between text and background</li>
-                                    <li>Apply color meaningfully (e.g., red for caution, green for progress)</li>
-                                    <li>Establish a visual color hierarchy</li>
-                                    <li>Avoid overuse of bright or saturated tones</li>
-                                </ul>
+                                    <h3>4. Color Theory in eLearning</h3>
+                                    <p>Color can communicate mood, structure, and importance. But when misused, it can overwhelm or confuse learners. Applying color theory wisely enhances visual appeal and cognitive processing.</p>
 
-                                <h3>5. Navigation and UI/UX for Training</h3>
-                                <p>A seamless UI/UX experience keeps learners engaged and reduces frustration. Navigation should be intuitive and predictable, allowing users to focus on learning rather than figuring out how to interact with the course.</p>
+                                    <h4>Best practices for using color:</h4>
+                                    <ul>
+                                        <li>Use color for emphasis, not decoration</li>
+                                        <li>Ensure sufficient contrast between text and background</li>
+                                        <li>Apply color meaningfully (e.g., red for caution, green for progress)</li>
+                                        <li>Establish a visual color hierarchy</li>
+                                        <li>Avoid overuse of bright or saturated tones</li>
+                                    </ul>
 
-                                <h4>Design tips for navigation and user experience:</h4>
-                                <ul>
-                                    <li>Use intuitive menus and clearly labeled sections</li>
-                                    <li>Incorporate progress indicators</li>
-                                    <li>Design clear calls-to-action</li>
-                                    <li>Include feedback mechanisms</li>
-                                    <li>Enable easy revisiting of previous content</li>
-                                </ul>
+                                    <h3>5. Navigation and UI/UX for Training</h3>
+                                    <p>A seamless UI/UX experience keeps learners engaged and reduces frustration. Navigation should be intuitive and predictable, allowing users to focus on learning rather than figuring out how to interact with the course.</p>
 
-                                <h3>6. Multimedia Use and Visual Balance</h3>
-                                <p>Multimedia—such as images, videos, and infographics—can enhance learning when aligned with content. But visual balance is crucial; too much media can lead to cognitive overload.</p>
+                                    <h4>Design tips for navigation and user experience:</h4>
+                                    <ul>
+                                        <li>Use intuitive menus and clearly labeled sections</li>
+                                        <li>Incorporate progress indicators</li>
+                                        <li>Design clear calls-to-action</li>
+                                        <li>Include feedback mechanisms</li>
+                                        <li>Enable easy revisiting of previous content</li>
+                                    </ul>
 
-                                <h4>Effective use of multimedia:</h4>
-                                <ul>
-                                    <li>Align visuals with instructional purpose</li>
-                                    <li>Integrate charts, icons, and infographics to simplify complex data</li>
-                                    <li>Use animations purposefully</li>
-                                    <li>Place visuals next to related text</li>
-                                    <li>Balance text and visuals appropriately</li>
-                                </ul>
+                                    <h3>6. Multimedia Use and Visual Balance</h3>
+                                    <p>Multimedia—such as images, videos, and infographics—can enhance learning when aligned with content. But visual balance is crucial; too much media can lead to cognitive overload.</p>
 
-                                <h2>Common Visual Design Mistakes to Avoid</h2>
-                                <ul>
-                                    <li>Overusing animations and transitions</li>
-                                    <li>Inconsistent button placement or labels</li>
-                                    <li>Ignoring accessibility and color contrast issues</li>
-                                    <li>Using too many fonts or clashing color schemes</li>
-                                    <li>Designing for desktop only (ignoring mobile learners)</li>
-                                </ul>
+                                    <h4>Effective use of multimedia:</h4>
+                                    <ul>
+                                        <li>Align visuals with instructional purpose</li>
+                                        <li>Integrate charts, icons, and infographics to simplify complex data</li>
+                                        <li>Use animations purposefully</li>
+                                        <li>Place visuals next to related text</li>
+                                        <li>Balance text and visuals appropriately</li>
+                                    </ul>
 
-                                <h2>Graphic Design for eLearning: Best Practices</h2>
-                                <ul>
-                                    <li>Use icons and illustrations instead of stock photos where possible</li>
-                                    <li>Design infographics to simplify complex topics</li>
-                                    <li>Apply storytelling through visuals</li>
-                                    <li>Maintain brand consistency with logos, colors, and templates</li>
-                                </ul>
-                                <h2>Visual Design Principles for Microlearning</h2>
-                                <div class="infographic-container">
-                                    <div class="infographic-content">
-                                        <div class="section">
-                                            <h3>Microlearning & Visual Design</h3>
-                                            <ul>
-                                                <li>Short content = less time to impress</li>
-                                                <li>Visual cues enhance retention</li>
-                                                <li>Intuitive UI/UX is crucial</li>
-                                            </ul>
-                                        </div>
-                                        <div class="section">
-                                            <h3>Accessibility Essentials</h3>
-                                            <ul>
-                                                <li>ALT text for images</li>
-                                                <li>Video captions</li>
-                                                <li>Color-blind friendly combinations</li>
-                                                <li>Screen reader compatibility</li>
-                                            </ul>
-                                        </div>
-                                        <div class="section">
-                                            <h3>Mobile-First Design</h3>
-                                            <ul>
-                                                <li>Touch-friendly interfaces</li>
-                                                <li>Efficient scrolling</li>
-                                                <li>Small screen optimization</li>
-                                                <li>Responsive layouts</li>
-                                            </ul>
+                                    <h2>Common Visual Design Mistakes to Avoid</h2>
+                                    <ul>
+                                        <li>Overusing animations and transitions</li>
+                                        <li>Inconsistent button placement or labels</li>
+                                        <li>Ignoring accessibility and color contrast issues</li>
+                                        <li>Using too many fonts or clashing color schemes</li>
+                                        <li>Designing for desktop only (ignoring mobile learners)</li>
+                                    </ul>
+
+                                    <h2>Graphic Design for eLearning: Best Practices</h2>
+                                    <ul>
+                                        <li>Use icons and illustrations instead of stock photos where possible</li>
+                                        <li>Design infographics to simplify complex topics</li>
+                                        <li>Apply storytelling through visuals</li>
+                                        <li>Maintain brand consistency with logos, colors, and templates</li>
+                                    </ul>
+                                    <h2>Visual Design Principles for Microlearning</h2>
+                                    <div class="infographic-container">
+                                        <div class="infographic-content">
+                                            <div class="section">
+                                                <h3>Microlearning & Visual Design</h3>
+                                                <ul>
+                                                    <li>Short content = less time to impress</li>
+                                                    <li>Visual cues enhance retention</li>
+                                                    <li>Intuitive UI/UX is crucial</li>
+                                                </ul>
+                                            </div>
+                                            <div class="section">
+                                                <h3>Accessibility Essentials</h3>
+                                                <ul>
+                                                    <li>ALT text for images</li>
+                                                    <li>Video captions</li>
+                                                    <li>Color-blind friendly combinations</li>
+                                                    <li>Screen reader compatibility</li>
+                                                </ul>
+                                            </div>
+                                            <div class="section">
+                                                <h3>Mobile-First Design</h3>
+                                                <ul>
+                                                    <li>Touch-friendly interfaces</li>
+                                                    <li>Efficient scrolling</li>
+                                                    <li>Small screen optimization</li>
+                                                    <li>Responsive layouts</li>
+                                                </ul>
+                                            </div>
                                         </div>
                                     </div>
-                                </div>
                                 </div>
                             </div>
                         </div>
@@ -520,125 +531,127 @@
     <!-- Start Footer 
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
-    <div class="container">
-        <div class="f-items default-padding-bottom pt-70 pt-xs-0">
-            <div class="row">
-                <!-- Content Services -->
-                <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                    <div class="f-item link">
-                        <h4 class="widget-title">Content Services</h4>
-                        <ul>
-                            <li><a href="../services/website-content-writing.php">Website Content Writing</a></li>
-                            <li><a href="../services/seo-article-writing.php">SEO Article Writing</a></li>
-                            <li><a href="../services/blog-writing-services.php">Blog Writing</a></li>
-                            <li><a href="../services/case-study-writing-services.php">Case Study Writing</a></li>
-                            <li><a href="../services/product-description-writing-services.php">Product Description</a></li>
-                        </ul>
-                    </div>
-                </div>
-                
-                <!-- End-to-End Services -->
-                <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                    <div class="f-item link">
-                        <h4 class="widget-title">End-to-End Services</h4>
-                        <ul>
-                            <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
-                            <li><a href="../services/content-marketing-services.php">Content Marketing Services</a></li>
-                            <li><a href="../services/seo-auditing-services.php">SEO Audit and Optimization</a></li>
-                            <li><a href="../services/social-media-marketing.php">Social Media Marketing</a></li>
-                            <li><a href="../services/google-search-ads-services.php">Google Search Ads</a></li>
-                        </ul>
-                    </div>
-                </div>
-                
-                <!-- Industries We Serve & WhatsApp Marketing -->
-                <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                    <div class="f-item link">
-                   
-                        <h4 class="widget-title">WhatsApp Marketing</h4>
-                        <ul>
-                            <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
-                            <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
-                            <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
-                            <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
-                            <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
-                        </ul>
-                    </div>
-                </div>
-                
-                <!-- Video Services -->
-                <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                    <div class="f-item link">
-                        <h4 class="widget-title">Video Services</h4>
-                        <ul>
-                            <li><a href="../video/video-services.php">Explainer Videos</a></li>
-                            <li><a href="../video/video-services.php">Demo Videos</a></li>
-                            <li><a href="../video/video-services.php">Social Media Videos</a></li>
-                            <li><a href="../video/video-services.php">Video Editing</a></li>
-                            <li><a href="../video/video-services.php">How-to Videos</a></li>
-                        </ul>
-                    </div>
-                </div>
-                
-                <!-- Data Services -->
-                <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                    <div class="f-item link">
-                        <h4 class="widget-title">Data Services</h4>
-                        <ul>
-                            <li><a href="../coming-soon.php">Documents & PDF Data Entry Services</a></li>
-                            <li><a href="../coming-soon.php">Offline Data Entry Services</a></li>
-                            <li><a href="../coming-soon.php">Online Data Entry Services</a></li>
-                            <li><a href="../coming-soon.php">Product Data Entry Services</a></li>
-                        </ul>
-                    </div>
-                </div>
-				<!-- Data Services -->
-                <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                    <div class="f-item link">
-                        <h4 class="widget-title">Data Annotation Services</h4>
-                        <ul>
-                            <li><a href="../coming-soon.php">Data Labeling Services</a></li>
-                            <li><a href="../coming-soon.php">Image Annotation Services</a></li>
-                            <li><a href="../coming-soon.php">Text Annotation Services</a></li>
-							<li><a href="../coming-soon.php">Video Annotation Services</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <!-- Data Services -->
-                <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                    <div class="f-item link">
-                        <h4 class="widget-title">Resources</h4>
-                        <ul>
-                            <li><a href="../resources/all-blogs.php">Blogs</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <!-- Contact Information -->
-                <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                    <div class="f-item contact">
-                        <h4 class="widget-title">Contact Us</h4>
-                        <ul>
-                            <li>Gundecha Onclave, Mumbai, 400072</li>
-                            <li><a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    
-    <!-- Footer Bottom -->
-    <div class="footer-bottom bg-dark text-light text-center">
         <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <p>Copyright &copy; 2025 ITD GrowthLabs All Rights Reserved</p>
+            <div class="f-items default-padding-bottom pt-70 pt-xs-0">
+                <div class="row">
+                    <!-- Content Services -->
+                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                        <div class="f-item link">
+                            <h4 class="widget-title">Content Services</h4>
+                            <ul>
+                                <li><a href="../services/website-content-writing.php">Website Content Writing</a></li>
+                                <li><a href="../services/seo-article-writing.php">SEO Article Writing</a></li>
+                                <li><a href="../services/blog-writing-services.php">Blog Writing</a></li>
+                                <li><a href="../services/case-study-writing-services.php">Case Study Writing</a></li>
+                                <li><a href="../services/product-description-writing-services.php">Product Description</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- End-to-End Services -->
+                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                        <div class="f-item link">
+                            <h4 class="widget-title">End-to-End Services</h4>
+                            <ul>
+                                <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
+                                <li><a href="../services/content-marketing-services.php">Content Marketing Services</a></li>
+                                <li><a href="../services/seo-auditing-services.php">SEO Audit and Optimization</a></li>
+                                <li><a href="../services/social-media-marketing.php">Social Media Marketing</a></li>
+                                <li><a href="../services/google-search-ads-services.php">Google Search Ads</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- Industries We Serve & WhatsApp Marketing -->
+                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                        <div class="f-item link">
+
+                            <h4 class="widget-title">WhatsApp Marketing</h4>
+                            <ul>
+                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
+                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
+                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
+                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
+                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- Video Services -->
+                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                        <div class="f-item link">
+                            <h4 class="widget-title">Video Services</h4>
+                            <ul>
+                                <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
+                                <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
+                                <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
+                                <li><a href="../services/Video-Editing.php">Video Editing</a></li>
+                                <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
+                            </ul>
+                            </ul>
+                        </div>
+                    </div>
+
+
+                    <!-- Data Services -->
+                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                        <div class="f-item link">
+                            <h4 class="widget-title">Data Services</h4>
+                            <ul>
+                                <li><a href="../coming-soon.php">Documents & PDF Data Entry Services</a></li>
+                                <li><a href="../coming-soon.php">Offline Data Entry Services</a></li>
+                                <li><a href="../coming-soon.php">Online Data Entry Services</a></li>
+                                <li><a href="../coming-soon.php">Product Data Entry Services</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- Data Services -->
+                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                        <div class="f-item link">
+                            <h4 class="widget-title">Data Annotation Services</h4>
+                            <ul>
+                                <li><a href="../coming-soon.php">Data Labeling Services</a></li>
+                                <li><a href="../coming-soon.php">Image Annotation Services</a></li>
+                                <li><a href="../coming-soon.php">Text Annotation Services</a></li>
+                                <li><a href="../coming-soon.php">Video Annotation Services</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- Data Services -->
+                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                        <div class="f-item link">
+                            <h4 class="widget-title">Resources</h4>
+                            <ul>
+                                <li><a href="../resources/all-blogs.php">Blogs</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- Contact Information -->
+                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                        <div class="f-item contact">
+                            <h4 class="widget-title">Contact Us</h4>
+                            <ul>
+                                <li>Gundecha Onclave, Mumbai, 400072</li>
+                                <li><a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a></li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-    <!-- End Footer Bottom -->
-</footer>
+
+        <!-- Footer Bottom -->
+        <div class="footer-bottom bg-dark text-light text-center">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <p>Copyright &copy; 2025 ITD GrowthLabs All Rights Reserved</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Footer Bottom -->
+    </footer>
     <!-- End Footer -->
 
     <!-- jQuery Frameworks

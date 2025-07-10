@@ -55,250 +55,258 @@
     <!-- Header 
 ============================================= -->
     <header>
-    <!-- Start Navigation -->
-    <nav class="navbar mobile-sidenav navbar-default validnavs dark on menu-center no-full">
+        <!-- Start Navigation -->
+        <nav class="navbar mobile-sidenav navbar-default validnavs dark on menu-center no-full">
 
-        <!-- Start Top Search -->
-        <div class="top-search">
-            <div class="container">
-                <form action="#">
-                    <div class="input-group">
-                        <span class="input-group-addon"><i class="fa fa-search"></i></span>
-                        <input type="text" class="form-control" placeholder="Search">
-                        <span class="input-group-addon close-search"><i class="fa fa-times"></i></span>
-                    </div>
-                </form>
-            </div>
-        </div>
-        <!-- End Top Search -->
-
-        <div class="container d-flex justify-content-between align-items-center">
-            <!-- Start Header Navigation -->
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
-                    <i class="fa fa-bars"></i>
-                </button>
-                <a class="navbar-brand" href="../index.php">
-                    <img src="../assets/img/logo.jpg" class="logo" alt="Logo">
-                </a>
-            </div>
-            <!-- End Header Navigation -->
-
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="navbar-menu">
-                <img src="../assets/img/logo.jpg" alt="Logo">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
-                    <i class="fa fa-times"></i>
-                </button>
-                <ul class="nav navbar-nav navbar-center" data-in="fadeInDown" data-out="fadeOutUp">
-
-                    <li class="dropdown megamenu-fw">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tech Services</a>
-                        <ul class="dropdown-menu megamenu-content" role="menu">
-                            <li>
-                                <div class="row">
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Core Tech Services</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../services/website-development-company.php">Website Design
-                                                        & Development</a></li>
-                                                <li><a href="../coming-soon.php">Template-Based Website Development</a>
-                                                </li>
-                                                <li><a href="../coming-soon.php">WordPress Website Development</a></li>
-                                                <li><a href="../coming-soon.php">Custom Website Development</a></li>
-                                                <li><a href="../coming-soon.php">E-commerce Website Development</a></li>
-
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">End-to-End Services</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../services/website-development-company.php">Website Design
-                                                        & Development</a></li>
-                                                <li><a href="../services/content-marketing-services.php">Content
-                                                        Marketing Services</a></li>
-                                                <li><a href="../services/seo-auditing-services.php">SEO Audit and
-                                                        Optimization</a></li>
-                                                <li><a href="../services/social-media-marketing.php">Social Media
-                                                        Marketing</a></li>
-                                                <li><a href="../services/google-search-ads-services.php">Google Search
-                                                        Ads</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">More Tech Solutions</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-
-                                                <li><a href="../coming-soon.php">App Development</a></li>
-                                                <li><a href="../coming-soon.php">IT Outsourcing Services</a></li>
-                                                <li><a href="../coming-soon.php">IT Team Outsourcing</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </li>
-
-
-                    <li class="dropdown megamenu-fw">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Content Services</a>
-                        <ul class="dropdown-menu megamenu-content" role="menu">
-                            <li>
-                                <div class="row">
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">SEO &amp; Content Writing</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../services/website-content-writing.php">Website Content
-                                                        Writing</a></li>
-                                                <li><a href="../services/seo-article-writing.php">SEO Article
-                                                        Writing</a></li>
-                                                <li><a href="../services/blog-writing-services.php">Blog Writing</a>
-                                                </li>
-                                                <li><a href="../services/case-study-writing-services.php">Case Study
-                                                        Writing</a></li>
-                                                <li><a href="../services/product-description-writing-services.php">Product
-                                                        Description</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Specialized Content Services</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../coming-soon.php">Content Writing & Strategy</a></li>
-                                                <li><a href="../coming-soon.php">Technical Writing Services</a></li>
-                                                <li><a href="../coming-soon.php">Whitepapers & Case Studies</a></li>
-                                                <li><a href="../coming-soon.php">Content Team Outsourcing</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Industries We Serve</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../services/logistics-content-marketing.php">Logistics</a>
-                                                </li>
-                                                <li><a href="../services/coming-soon.php">Manufacturing</a></li>
-                                                <li><a href="../services/coming-soon.php">Technology</a></li>
-                                                <li><a href="../services/ecommerce-content-services.php">E-commerce</a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </li>
-
-                    <li class="dropdown megamenu-fw">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">eLearning Services</a>
-                        <ul class="dropdown-menu megamenu-content" role="menu">
-                            <li>
-                                <div class="row">
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Custom Solutions</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../coming-soon.php">Custom eLearning Development</a></li>
-                                                <li><a href="../coming-soon.php">PowerPoint to eLearning Conversion</a>
-                                                </li>
-                                                <li><a href="../coming-soon.php">Mobile Learning / Microlearning</a>
-                                                </li>
-                                                <li><a href="../coming-soon.php">Gamified Learning Modules</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Use Cases</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="#">Employee Onboarding</a></li>
-                                                <li><a href="#">Talent Development</a></li>
-                                                <li><a href="#">Compliance Training</a></li>
-                                                <li><a href="#">Sales Enablement</a></li>
-                                                <li><a href="#">Customer Education</a></li>
-                                                <li><a href="#">Partner Enablement</a></li>
-                                                <li><a href="#">Frontline Workforce Training</a></li>
-                                                <li><a href="#">Member Training</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Industries Served</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="#">Software & Tech</a></li>
-                                                <li><a href="#">Financial Services</a></li>
-                                                <li><a href="#">Manufacturing</a></li>
-                                                <li><a href="#">Healthcare</a></li>
-                                                <li><a href="#">Government</a></li>
-                                                <li><a href="#">Restaurants & Hospitality</a></li>
-                                                <li><a href="#">Education</a></li>
-                                                <li><a href="#">Retail</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </li>
-
-                    <!--li class="dropdown">
-                        <a href="./services/whatsapp-marketing-and-automation.php" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
-                        </ul>
-                    </li-->
-
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Video Services</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="../video/video-services.php">Explainer Videos</a></li>
-                            <li><a href="../video/video-services.php">Demo Videos</a></li>
-                            <li><a href="../video/video-services.php">Video Ads</a></li>
-                            <li><a href="../video/video-services.php">Social Media Videos</a></li>
-                            <li><a href="../video/video-services.php">Repurpose Videos</a></li>
-                            <li><a href="../video/video-services.php">Video Editing</a></li>
-                            <li><a href="../video/video-services.php">How-to Videos</a></li>
-                            <li><a href="../video/video-services.php">Onboarding Videos</a></li>
-                        </ul>
-                    </li>
-
-                    <li><a href="contact-us.php">Contact</a></li>
-                </ul>
-            </div><!-- /.navbar-collapse -->
-
-            <div class="attr-right">
-                <!-- Start Atribute Navigation -->
-                <div class="attr-nav">
-                    <ul>
-                        <li class="button">
-                            <a href="https://calendly.com/itdgrowthlabs-info/30min">Book a Call</a>
-                        </li>
-                    </ul>
+            <!-- Start Top Search -->
+            <div class="top-search">
+                <div class="container">
+                    <form action="#">
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="fa fa-search"></i></span>
+                            <input type="text" class="form-control" placeholder="Search">
+                            <span class="input-group-addon close-search"><i class="fa fa-times"></i></span>
+                        </div>
+                    </form>
                 </div>
-                <!-- End Atribute Navigation -->
-
-                <!-- Overlay screen for menu -->
-                <div class="overlay-screen"></div>
-                <!-- End Overlay screen for menu -->
             </div>
+            <!-- End Top Search -->
 
-        </div>
-    </nav>
-    <!-- End Navigation -->
-</header>
+            <div class="d-flex justify-content-between align-items-center">
+                <!-- Start Header Navigation -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                        <i class="fa fa-bars"></i>
+                    </button>
+                    <a class="navbar-brand" href="../index.php">
+                        <img src="../assets/img/logo.jpg" class="logo" alt="Logo">
+                    </a>
+                </div>
+                <!-- End Header Navigation -->
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="navbar-menu">
+                    <img src="../assets/img/logo.jpg" alt="Logo">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                        <i class="fa fa-times"></i>
+                    </button>
+                    <ul class="nav navbar-nav navbar-center" data-in="fadeInDown" data-out="fadeOutUp">
+
+                        <li class="dropdown megamenu-fw">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tech Services</a>
+                            <ul class="dropdown-menu megamenu-content" role="menu">
+                                <li>
+                                    <div class="row">
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Core Tech Services</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
+                                                    <li><a href="../services/Template-Based-Website-Development.php">Template-Based Website Development</a>
+                                                    </li>
+                                                    <li><a href="../services/WordPress-Website-Development.php">WordPress Website Development</a></li>
+                                                    <li><a href="../services/Custom-Website-Development.php">Custom Website Development</a></li>
+                                                    <li><a href="../services/E-commerce-Website-Development.php">E-commerce Website Development</a></li>
+
+                                                </ul>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">End-to-End Services</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
+                                                    <li><a href="../services/content-marketing-services.php">Content Marketing Services</a></li>
+                                                    <li><a href="../services/seo-auditing-services.php">SEO Audit and Optimization</a></li>
+                                                    <li><a href="../services/social-media-marketing.php">Social Media Marketing</a></li>
+                                                    <li><a href="../services/google-search-ads-services.php">Google Search Ads</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">More Tech Solutions</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+
+                                                    <li><a href="../services/App-Development.php">App Development</a></li>
+                                                    <li><a href="../services/IT-Outsourcing-Services.php">IT Outsourcing Services</a></li>
+                                                    <li><a href="../services/IT-Team-Outsourcing.php">IT Team Outsourcing</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flow</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data Services</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
+                                <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
+                                <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
+                                <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
+                                <li><a href="../data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
+                                <li><a href="../data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
+                                <li><a href="../data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
+                                <li><a href="../data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
+                                <li><a href="../data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown megamenu-fw">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Content Services</a>
+                            <ul class="dropdown-menu megamenu-content" role="menu">
+                                <li>
+                                    <div class="row">
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">SEO &amp; Content Writing</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/website-content-writing.php">Website Content Writing</a></li>
+                                                    <li><a href="../services/seo-article-writing.php">SEO Article Writing</a></li>
+                                                    <li><a href="../services/blog-writing-services.php">Blog Writing</a></li>
+                                                    <li><a href="../services/case-study-writing-services.php">Case Study Writing</a></li>
+                                                    <li><a href="../services/product-description-writing-services.php">Product Description</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Specialized Content Services</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/content_writing_strategy.php">Content Writing & Strategy</a></li>
+                                                    <li><a href="../services/technical-writing-services.php">Technical Writing Services</a></li>
+                                                    <li><a href="../services/White-Papers-Case-Studies.php">Whitepapers & Case Studies</a></li>
+                                                    <li><a href="../services/Content-Team-Outsourcing.php">Content Team Outsourcing</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Industries We Serve</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/logistics-content-marketing.php">Logistics</a></li>
+                                                    <li><a href="../services/Industries-We-Serve-Manufacturing.php">Manufacturing</a></li>
+                                                    <li><a href="../services/Industries-We-Serve-Technology.php">Technology</a></li>
+                                                    <li><a href="../services/ecommerce-content-services.php">E-commerce</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown megamenu-fw">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">eLearning Services</a>
+                            <ul class="dropdown-menu megamenu-content" role="menu">
+                                <li>
+                                    <div class="row">
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Custom Solutions</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/Custom-eLearning-Development.php">Custom eLearning Development</a></li>
+                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php">PowerPoint to eLearning Conversion</a></li>
+                                                    <li><a href="../services/Mobile-Learn-Microlearning.php">Mobile Learning / Microlearning</a></li>
+                                                    <li><a href="../services/Gamified-Learning-Modules.php">Gamified Learning Modules</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Use Cases</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/Employee-Onboarding.php">Employee Onboarding</a></li>
+                                                    <li><a href="../services/Talent-Development.php">Talent Development</a></li>
+                                                    <li><a href="../services/Compliance-Training.php">Compliance Training</a></li>
+                                                    <li><a href="../services/Sales-Enablement.php">Sales Enablement</a></li>
+                                                    <li><a href="../services/Customer-Education.php">Customer Education</a></li>
+                                                    <li><a href="../services/Partner-Enablement.php">Partner Enablement</a></li>
+                                                    <li><a href="../services/Frontline-Workforce-Training.php">Frontline Workforce Training</a></li>
+                                                    <li><a href="../services/Member-Training.php">Member Training</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Industries Served</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../coming-soon.php">Software & Tech</a></li>
+                                                    <li><a href="../coming-soon.php">Financial Services</a></li>
+                                                    <li><a href="../coming-soon.php">Manufacturing</a></li>
+                                                    <li><a href="../coming-soon.php">Healthcare</a></li>
+                                                    <li><a href="../coming-soon.php">Government</a></li>
+                                                    <li><a href="../coming-soon.php">Restaurants & Hospitality</a></li>
+                                                    <li><a href="../coming-soon.php">Education</a></li>
+                                                    <li><a href="../coming-soon.php">Retail</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <!-- <li class="dropdown">
+                           <a href="./services/whatsapp-marketing-and-automation.php" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
+                           <ul class="dropdown-menu">
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
+                           </ul>
+                       </li> -->
+
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Video Services</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
+                                <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
+                                <li><a href="../services/Video-Ads.php">Video Ads</a></li>
+                                <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
+                                <li><a href="../services/Repurpose-Videos.php">Repurpose Videos</a></li>
+                                <li><a href="../services/Video-Editing.php">Video Editing</a></li>
+                                <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
+                                <li><a href="../services/Onboarding-Videos.php">Onboarding Videos</a></li>
+                            </ul>
+                        </li>
+
+                        <li><a href="../contact-us.php">Contact</a></li>
+                    </ul>
+                </div><!-- /.navbar-collapse -->
+
+                <div class="attr-right">
+                    <!-- Start Atribute Navigation -->
+                    <div class="attr-nav">
+                        <ul>
+                            <li class="button">
+                                <a href="https://calendly.com/itdgrowthlabs-info/30min">Book a Call</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- End Atribute Navigation -->
+
+                    <!-- Overlay screen for menu -->
+                    <div class="overlay-screen"></div>
+                    <!-- End Overlay screen for menu -->
+                </div>
+
+            </div>
+        </nav>
+        <!-- End Navigation -->
+    </header>
     <!-- End Header -->
     <!-- Start Blog ============================================= -->
     <div class="blog-area single full-blog right-sidebar full-blog default-padding">
@@ -316,195 +324,195 @@
                                         </ul>
                                     </div>
 
-                                <h2>Introduction</h2>
-                                <p>In today's fast-paced digital learning environment, designing high-quality training materials is both an art and a science. Organizations, instructional designers, and L&D teams must follow eLearning best practices to ensure training content is not only engaging but also results-driven. Whether you're launching a corporate training program or building an online course, aligning with proven content development tips and training content guidelines can significantly enhance learner engagement and knowledge retention. More than just uploading slides or videos, effective learning hinges on a well-structured and user-centric eLearning strategy. From understanding learner personas to applying microlearning techniques, every step plays a vital role. This blog breaks down the critical components of strategic eLearning design and how to apply them effectively. Partnering with organizations like ITD GrowthLabs can further elevate your digital training outcomes by blending creativity with cutting-edge instructional design.</p>
-                                <p>Let's explore how to create impactful, lasting learning experiences with these expert-backed approaches.</p>
+                                    <h2>Introduction</h2>
+                                    <p>In today's fast-paced digital learning environment, designing high-quality training materials is both an art and a science. Organizations, instructional designers, and L&D teams must follow eLearning best practices to ensure training content is not only engaging but also results-driven. Whether you're launching a corporate training program or building an online course, aligning with proven content development tips and training content guidelines can significantly enhance learner engagement and knowledge retention. More than just uploading slides or videos, effective learning hinges on a well-structured and user-centric eLearning strategy. From understanding learner personas to applying microlearning techniques, every step plays a vital role. This blog breaks down the critical components of strategic eLearning design and how to apply them effectively. Partnering with organizations like ITD GrowthLabs can further elevate your digital training outcomes by blending creativity with cutting-edge instructional design.</p>
+                                    <p>Let's explore how to create impactful, lasting learning experiences with these expert-backed approaches.</p>
 
-                                <h2>Understanding the Foundation of eLearning</h2>
-                                <p>Creating effective eLearning starts with building a strong foundation that guides the entire design and development process. Without a clear roadmap, the content can easily become fragmented, confusing, or fail to engage learners. A well-structured approach ensures that the learning experience is purposeful, relevant, and measurable. Here are key guidelines to establish a solid foundation for your eLearning content:</p>
+                                    <h2>Understanding the Foundation of eLearning</h2>
+                                    <p>Creating effective eLearning starts with building a strong foundation that guides the entire design and development process. Without a clear roadmap, the content can easily become fragmented, confusing, or fail to engage learners. A well-structured approach ensures that the learning experience is purposeful, relevant, and measurable. Here are key guidelines to establish a solid foundation for your eLearning content:</p>
 
-                                <h3>Define Clear Learning Objectives</h3>
-                                <p>Setting clear learning objectives is the first and most critical step in designing any eLearning module. These objectives act as a compass, directing both the instructional design and learner focus. Effective objectives specify what learners will know or be able to do after completing the training. They should be:</p>
-                                <ul>
-                                    <li><strong>Specific:</strong> Clearly describe the desired skills or knowledge.</li>
-                                    <li><strong>Measurable:</strong> Enable assessment of learner achievement.</li>
-                                    <li><strong>Achievable:</strong> Realistic and within the learner's reach.</li>
-                                    <li><strong>Relevant:</strong> Connected to the overall training goals and business needs.</li>
-                                    <li><strong>Time-bound:</strong> Indicate when the objective should be met.</li>
-                                </ul>
-                                <p>Having well-articulated learning objectives not only helps instructional designers but also gives learners clarity about what to expect and what is expected from them.</p>
+                                    <h3>Define Clear Learning Objectives</h3>
+                                    <p>Setting clear learning objectives is the first and most critical step in designing any eLearning module. These objectives act as a compass, directing both the instructional design and learner focus. Effective objectives specify what learners will know or be able to do after completing the training. They should be:</p>
+                                    <ul>
+                                        <li><strong>Specific:</strong> Clearly describe the desired skills or knowledge.</li>
+                                        <li><strong>Measurable:</strong> Enable assessment of learner achievement.</li>
+                                        <li><strong>Achievable:</strong> Realistic and within the learner's reach.</li>
+                                        <li><strong>Relevant:</strong> Connected to the overall training goals and business needs.</li>
+                                        <li><strong>Time-bound:</strong> Indicate when the objective should be met.</li>
+                                    </ul>
+                                    <p>Having well-articulated learning objectives not only helps instructional designers but also gives learners clarity about what to expect and what is expected from them.</p>
 
-                                <h3>Know Your Target Audience</h3>
-                                <p>Understanding the target audience is essential for tailoring content that resonates with learners. Consider demographic factors such as age, education level, job role, and prior knowledge. Additionally, analyze learners' motivations, challenges, and learning preferences. This insight informs the tone, complexity, examples, and types of interactions included in the module. For example:</p>
-                                <ul>
-                                    <li>Are learners beginners or experts in the topic?</li>
-                                    <li>Do they prefer visual or textual content?</li>
-                                    <li>What technological tools are accessible to them?</li>
-                                </ul>
-                                <p>When eLearning content is designed with the audience in mind, it becomes more engaging and relevant, increasing the likelihood of knowledge retention.</p>
+                                    <h3>Know Your Target Audience</h3>
+                                    <p>Understanding the target audience is essential for tailoring content that resonates with learners. Consider demographic factors such as age, education level, job role, and prior knowledge. Additionally, analyze learners' motivations, challenges, and learning preferences. This insight informs the tone, complexity, examples, and types of interactions included in the module. For example:</p>
+                                    <ul>
+                                        <li>Are learners beginners or experts in the topic?</li>
+                                        <li>Do they prefer visual or textual content?</li>
+                                        <li>What technological tools are accessible to them?</li>
+                                    </ul>
+                                    <p>When eLearning content is designed with the audience in mind, it becomes more engaging and relevant, increasing the likelihood of knowledge retention.</p>
 
-                                <h3>Align Training Goals with Business Outcomes</h3>
-                                <p>Every eLearning module should connect to broader business outcomes. This alignment ensures that training investments drive tangible improvements, whether in productivity, compliance, customer satisfaction, or employee development. Work closely with stakeholders to identify key performance indicators and how the training supports these goals. This alignment also helps prioritize content and allocate resources efficiently.</p>
+                                    <h3>Align Training Goals with Business Outcomes</h3>
+                                    <p>Every eLearning module should connect to broader business outcomes. This alignment ensures that training investments drive tangible improvements, whether in productivity, compliance, customer satisfaction, or employee development. Work closely with stakeholders to identify key performance indicators and how the training supports these goals. This alignment also helps prioritize content and allocate resources efficiently.</p>
 
-                                <h3>Structure Content into Logical, Digestible Modules</h3>
-                                <p>Breaking down content into logical, digestible modules aids learner comprehension and prevents cognitive overload. Each module should focus on a specific topic or skill and follow a coherent sequence. Use chunking strategies such as:</p>
-                                <ul>
-                                    <li>Dividing complex topics into smaller segments.</li>
-                                    <li>Using headings and subheadings for clarity.</li>
-                                    <li>Incorporating multimedia elements like videos, infographics, and quizzes.</li>
-                                    <li>Providing summaries or key takeaways at the end of each module.</li>
-                                </ul>
-                                <p>A well-organized structure facilitates smoother navigation and enables learners to progress at their own pace.</p>
+                                    <h3>Structure Content into Logical, Digestible Modules</h3>
+                                    <p>Breaking down content into logical, digestible modules aids learner comprehension and prevents cognitive overload. Each module should focus on a specific topic or skill and follow a coherent sequence. Use chunking strategies such as:</p>
+                                    <ul>
+                                        <li>Dividing complex topics into smaller segments.</li>
+                                        <li>Using headings and subheadings for clarity.</li>
+                                        <li>Incorporating multimedia elements like videos, infographics, and quizzes.</li>
+                                        <li>Providing summaries or key takeaways at the end of each module.</li>
+                                    </ul>
+                                    <p>A well-organized structure facilitates smoother navigation and enables learners to progress at their own pace.</p>
 
-                                <h3>Incorporate Assessments to Measure Progress</h3>
-                                <p>Incorporating assessments throughout the eLearning module is vital for measuring learner progress and reinforcing knowledge. These can include quizzes, scenario-based questions, simulations, or practical tasks. Frequent assessments serve multiple purposes:</p>
-                                <ul>
-                                    <li>Provide immediate feedback to learners.</li>
-                                    <li>Highlight areas that need further study.</li>
-                                    <li>Help instructors gauge the effectiveness of the training.</li>
-                                    <li>Encourage active engagement with the content.</li>
-                                </ul>
-                                <p>Assessment results can also inform future improvements in course design.</p>
+                                    <h3>Incorporate Assessments to Measure Progress</h3>
+                                    <p>Incorporating assessments throughout the eLearning module is vital for measuring learner progress and reinforcing knowledge. These can include quizzes, scenario-based questions, simulations, or practical tasks. Frequent assessments serve multiple purposes:</p>
+                                    <ul>
+                                        <li>Provide immediate feedback to learners.</li>
+                                        <li>Highlight areas that need further study.</li>
+                                        <li>Help instructors gauge the effectiveness of the training.</li>
+                                        <li>Encourage active engagement with the content.</li>
+                                    </ul>
+                                    <p>Assessment results can also inform future improvements in course design.</p>
 
-                                <h3>Have You Outlined the Core Objectives of Your Next eLearning Module?</h3>
-                                <p>Reflecting on these foundational elements before you start creating content can save time and enhance the overall learning experience. Ensuring that your eLearning design incorporates clear objectives, audience understanding, business alignment, structured content, and assessments sets the stage for meaningful and impactful training. Following these best practices helps learners embark on their learning journey with clear purpose and direction.</p>
+                                    <h3>Have You Outlined the Core Objectives of Your Next eLearning Module?</h3>
+                                    <p>Reflecting on these foundational elements before you start creating content can save time and enhance the overall learning experience. Ensuring that your eLearning design incorporates clear objectives, audience understanding, business alignment, structured content, and assessments sets the stage for meaningful and impactful training. Following these best practices helps learners embark on their learning journey with clear purpose and direction.</p>
 
-                                <h2>Developing Learner-Centric Content</h2>
-                                <p>Content must serve the learner's needs above all. This is where audience analysis becomes crucial. Apply these content development tips to shape impactful training:</p>
-                                <ul>
-                                    <li>Use plain, conversational language</li>
-                                    <li>Integrate relatable case studies</li>
-                                    <li>Address real-world scenarios learners face</li>
-                                    <li>Provide frequent feedback loops</li>
-                                    <li>Allow learner control and flexibility</li>
-                                </ul>
-                                <p>ITD GrowthLabs helps organizations identify learner preferences, cognitive load thresholds, and attention spans to build focused, digestible eLearning content.</p>
+                                    <h2>Developing Learner-Centric Content</h2>
+                                    <p>Content must serve the learner's needs above all. This is where audience analysis becomes crucial. Apply these content development tips to shape impactful training:</p>
+                                    <ul>
+                                        <li>Use plain, conversational language</li>
+                                        <li>Integrate relatable case studies</li>
+                                        <li>Address real-world scenarios learners face</li>
+                                        <li>Provide frequent feedback loops</li>
+                                        <li>Allow learner control and flexibility</li>
+                                    </ul>
+                                    <p>ITD GrowthLabs helps organizations identify learner preferences, cognitive load thresholds, and attention spans to build focused, digestible eLearning content.</p>
 
-                                <h2>Visual & Instructional Design Principles</h2>
-                                <p>Design plays a pivotal role in delivering effective training. A messy interface can overwhelm, while polished layouts support smooth learning.</p>
-                                <p>eLearning best practices in design include:</p>
-                                <ul>
-                                    <li>Clean, consistent UI elements</li>
-                                    <li>Ample white space</li>
-                                    <li>High-contrast text</li>
-                                    <li>Infographics and animations to simplify complex ideas</li>
-                                </ul>
-                                <p>Are your training visuals aligned with your brand and easy to understand?</p>
+                                    <h2>Visual & Instructional Design Principles</h2>
+                                    <p>Design plays a pivotal role in delivering effective training. A messy interface can overwhelm, while polished layouts support smooth learning.</p>
+                                    <p>eLearning best practices in design include:</p>
+                                    <ul>
+                                        <li>Clean, consistent UI elements</li>
+                                        <li>Ample white space</li>
+                                        <li>High-contrast text</li>
+                                        <li>Infographics and animations to simplify complex ideas</li>
+                                    </ul>
+                                    <p>Are your training visuals aligned with your brand and easy to understand?</p>
 
-                                <h2>The Role of Interactivity in Engagement</h2>
-                                <p>Keeping learners engaged in an eLearning environment is one of the biggest challenges instructional designers face. Passive content delivery often leads to diminished attention and poor knowledge retention. To combat this, interactivity plays a crucial role by actively involving learners in the learning process, making content more dynamic and memorable. Incorporating interactive elements not only stimulates curiosity but also encourages deeper cognitive processing, which significantly improves retention and application of knowledge. Below are essential tips and strategies for leveraging interactivity in your eLearning content development.</p>
+                                    <h2>The Role of Interactivity in Engagement</h2>
+                                    <p>Keeping learners engaged in an eLearning environment is one of the biggest challenges instructional designers face. Passive content delivery often leads to diminished attention and poor knowledge retention. To combat this, interactivity plays a crucial role by actively involving learners in the learning process, making content more dynamic and memorable. Incorporating interactive elements not only stimulates curiosity but also encourages deeper cognitive processing, which significantly improves retention and application of knowledge. Below are essential tips and strategies for leveraging interactivity in your eLearning content development.</p>
 
-                                <h3>Use Scenario-Based Branching Simulations</h3>
-                                <p>One of the most powerful forms of interactive learning is scenario-based branching simulations. These simulations place learners in realistic situations where their decisions affect the outcome of the story. This method promotes critical thinking and problem-solving skills by:</p>
-                                <ul>
-                                    <li>Presenting real-world challenges related to the training topic.</li>
-                                    <li>Allowing learners to explore multiple pathways and consequences.</li>
-                                    <li>Providing immediate feedback based on learner choices.</li>
-                                </ul>
-                                <p>Branching scenarios foster a safe environment for experimentation, enabling learners to understand complex concepts through practice rather than passive reading.</p>
+                                    <h3>Use Scenario-Based Branching Simulations</h3>
+                                    <p>One of the most powerful forms of interactive learning is scenario-based branching simulations. These simulations place learners in realistic situations where their decisions affect the outcome of the story. This method promotes critical thinking and problem-solving skills by:</p>
+                                    <ul>
+                                        <li>Presenting real-world challenges related to the training topic.</li>
+                                        <li>Allowing learners to explore multiple pathways and consequences.</li>
+                                        <li>Providing immediate feedback based on learner choices.</li>
+                                    </ul>
+                                    <p>Branching scenarios foster a safe environment for experimentation, enabling learners to understand complex concepts through practice rather than passive reading.</p>
 
-                                <h3>Incorporate Drag-and-Drop Activities</h3>
-                                <p>Drag-and-drop activities are simple yet effective interactive exercises that require learners to match, categorize, sequence, or classify information by physically dragging elements on the screen. These activities enhance learner engagement by:</p>
-                                <ul>
-                                    <li>Encouraging active manipulation of content.</li>
-                                    <li>Making abstract concepts tangible through visual interaction.</li>
-                                    <li>Supporting kinesthetic learning preferences.</li>
-                                </ul>
-                                <p>For example, a drag-and-drop exercise might have learners organize steps in a process or match terms with their definitions, reinforcing comprehension in a fun and memorable way.</p>
+                                    <h3>Incorporate Drag-and-Drop Activities</h3>
+                                    <p>Drag-and-drop activities are simple yet effective interactive exercises that require learners to match, categorize, sequence, or classify information by physically dragging elements on the screen. These activities enhance learner engagement by:</p>
+                                    <ul>
+                                        <li>Encouraging active manipulation of content.</li>
+                                        <li>Making abstract concepts tangible through visual interaction.</li>
+                                        <li>Supporting kinesthetic learning preferences.</li>
+                                    </ul>
+                                    <p>For example, a drag-and-drop exercise might have learners organize steps in a process or match terms with their definitions, reinforcing comprehension in a fun and memorable way.</p>
 
-                                <h3>Apply Gamification</h3>
-                                <p>Applying gamification techniques within eLearning modules introduces game elements like badges, points, and progress bars to motivate learners and sustain engagement. Gamification taps into intrinsic and extrinsic motivators by:</p>
-                                <ul>
-                                    <li>Rewarding achievements and milestones, which boosts learner confidence.</li>
-                                    <li>Encouraging competition or collaboration through leaderboards or team challenges.</li>
-                                    <li>Visualizing progress to give learners a sense of accomplishment.</li>
-                                </ul>
-                                <p>Gamified content transforms learning from a chore into a rewarding experience, driving higher participation and persistence.</p>
+                                    <h3>Apply Gamification</h3>
+                                    <p>Applying gamification techniques within eLearning modules introduces game elements like badges, points, and progress bars to motivate learners and sustain engagement. Gamification taps into intrinsic and extrinsic motivators by:</p>
+                                    <ul>
+                                        <li>Rewarding achievements and milestones, which boosts learner confidence.</li>
+                                        <li>Encouraging competition or collaboration through leaderboards or team challenges.</li>
+                                        <li>Visualizing progress to give learners a sense of accomplishment.</li>
+                                    </ul>
+                                    <p>Gamified content transforms learning from a chore into a rewarding experience, driving higher participation and persistence.</p>
 
-                                <h3>Trigger Reflective Quizzes or Decision-Making Challenges</h3>
-                                <p>Reflective quizzes and decision-making challenges are powerful tools for promoting active learning and critical thinking. These interactive elements:</p>
-                                <ul>
-                                    <li>Present real-world scenarios that require application of learned concepts</li>
-                                    <li>Encourage self-reflection and metacognitive awareness</li>
-                                    <li>Challenge learners to justify their decisions and predict outcomes</li>
-                                    <li>Help bridge the gap between theory and practical application</li>
-                                </ul>
+                                    <h3>Trigger Reflective Quizzes or Decision-Making Challenges</h3>
+                                    <p>Reflective quizzes and decision-making challenges are powerful tools for promoting active learning and critical thinking. These interactive elements:</p>
+                                    <ul>
+                                        <li>Present real-world scenarios that require application of learned concepts</li>
+                                        <li>Encourage self-reflection and metacognitive awareness</li>
+                                        <li>Challenge learners to justify their decisions and predict outcomes</li>
+                                        <li>Help bridge the gap between theory and practical application</li>
+                                    </ul>
 
-                                <h3>Balance Interactivity with Learning Objectives</h3>
-                                <p>While interactivity enhances engagement, it must serve the learning goals rather than distract from them. Effective implementation requires:</p>
-                                <ul>
-                                    <li>Alignment with specific learning objectives</li>
-                                    <li>Intuitive, user-friendly design</li>
-                                    <li>Strategic placement of interactive elements</li>
-                                    <li>Clear connection to key concepts</li>
-                                </ul>
+                                    <h3>Balance Interactivity with Learning Objectives</h3>
+                                    <p>While interactivity enhances engagement, it must serve the learning goals rather than distract from them. Effective implementation requires:</p>
+                                    <ul>
+                                        <li>Alignment with specific learning objectives</li>
+                                        <li>Intuitive, user-friendly design</li>
+                                        <li>Strategic placement of interactive elements</li>
+                                        <li>Clear connection to key concepts</li>
+                                    </ul>
 
-                                <h3>Microlearning and Modularization</h3>
-                                <p>Modern learners benefit from concise, focused content delivery. Effective microlearning strategies include:</p>
-                                <ul>
-                                    <li>Single-topic focus per module (5-10 minutes)</li>
-                                    <li>Visual-first content presentation</li>
-                                    <li>Immediate application opportunities</li>
-                                    <li>Progressive skill building</li>
-                                </ul>
+                                    <h3>Microlearning and Modularization</h3>
+                                    <p>Modern learners benefit from concise, focused content delivery. Effective microlearning strategies include:</p>
+                                    <ul>
+                                        <li>Single-topic focus per module (5-10 minutes)</li>
+                                        <li>Visual-first content presentation</li>
+                                        <li>Immediate application opportunities</li>
+                                        <li>Progressive skill building</li>
+                                    </ul>
 
-                                <h3>Mobile Learning Optimization</h3>
-                                <p>With increasing mobile usage, responsive design is essential. Key considerations include:</p>
-                                <ul>
-                                    <li>Adaptive layouts for various screen sizes</li>
-                                    <li>Touch-friendly navigation elements</li>
-                                    <li>Minimal text input requirements</li>
-                                    <li>Offline content accessibility</li>
-                                </ul>
+                                    <h3>Mobile Learning Optimization</h3>
+                                    <p>With increasing mobile usage, responsive design is essential. Key considerations include:</p>
+                                    <ul>
+                                        <li>Adaptive layouts for various screen sizes</li>
+                                        <li>Touch-friendly navigation elements</li>
+                                        <li>Minimal text input requirements</li>
+                                        <li>Offline content accessibility</li>
+                                    </ul>
 
-                                <h3>Use of Multimedia for Learning Diversity</h3>
-                                <p>Diverse media types accommodate different learning preferences:</p>
-                                <ul>
-                                    <li>Narrated presentations</li>
-                                    <li>Animated video content</li>
-                                    <li>Audio explanations and podcasts</li>
-                                    <li>Interactive documents and guides</li>
-                                </ul>
+                                    <h3>Use of Multimedia for Learning Diversity</h3>
+                                    <p>Diverse media types accommodate different learning preferences:</p>
+                                    <ul>
+                                        <li>Narrated presentations</li>
+                                        <li>Animated video content</li>
+                                        <li>Audio explanations and podcasts</li>
+                                        <li>Interactive documents and guides</li>
+                                    </ul>
 
-                                <h3>Performance Support & Real-Time Resources</h3>
-                                <p>Ongoing support enhances long-term retention:</p>
-                                <ul>
-                                    <li>Quick reference materials</li>
-                                    <li>Searchable knowledge bases</li>
-                                    <li>Contextual help and tips</li>
-                                    <li>On-demand learning resources</li>
-                                </ul>
+                                    <h3>Performance Support & Real-Time Resources</h3>
+                                    <p>Ongoing support enhances long-term retention:</p>
+                                    <ul>
+                                        <li>Quick reference materials</li>
+                                        <li>Searchable knowledge bases</li>
+                                        <li>Contextual help and tips</li>
+                                        <li>On-demand learning resources</li>
+                                    </ul>
 
-                                <h3>Feedback, Assessments, and Iteration</h3>
-                                <p>Comprehensive evaluation strategies include:</p>
-                                <ul>
-                                    <li>Pre- and post-training assessments</li>
-                                    <li>Regular knowledge checks</li>
-                                    <li>Practical skill evaluations</li>
-                                    <li>Continuous feedback collection</li>
-                                </ul>
+                                    <h3>Feedback, Assessments, and Iteration</h3>
+                                    <p>Comprehensive evaluation strategies include:</p>
+                                    <ul>
+                                        <li>Pre- and post-training assessments</li>
+                                        <li>Regular knowledge checks</li>
+                                        <li>Practical skill evaluations</li>
+                                        <li>Continuous feedback collection</li>
+                                    </ul>
 
-                                <h3>Consistency Through Templates and Standards</h3>
-                                <p>Maintain uniformity across all training materials:</p>
-                                <ul>
-                                    <li>Standardized design templates</li>
-                                    <li>Consistent terminology and tone</li>
-                                    <li>Brand-aligned visual elements</li>
-                                    <li>Uniform assessment formats</li>
-                                </ul>
+                                    <h3>Consistency Through Templates and Standards</h3>
+                                    <p>Maintain uniformity across all training materials:</p>
+                                    <ul>
+                                        <li>Standardized design templates</li>
+                                        <li>Consistent terminology and tone</li>
+                                        <li>Brand-aligned visual elements</li>
+                                        <li>Uniform assessment formats</li>
+                                    </ul>
 
-                                <h3>Localization and Accessibility</h3>
-                                <p>Inclusive design principles ensure broad accessibility:</p>
-                                <ul>
-                                    <li>Multi-language support</li>
-                                    <li>Cultural sensitivity in content</li>
-                                    <li>ADA compliance features</li>
-                                    <li>Universal design principles</li>
-                                </ul>
+                                    <h3>Localization and Accessibility</h3>
+                                    <p>Inclusive design principles ensure broad accessibility:</p>
+                                    <ul>
+                                        <li>Multi-language support</li>
+                                        <li>Cultural sensitivity in content</li>
+                                        <li>ADA compliance features</li>
+                                        <li>Universal design principles</li>
+                                    </ul>
 
-                                <h3>Conclusion</h3>
-                                <p>Incorporating eLearning best practices, following structured training content guidelines, and leveraging smart content development tips are essential steps in building effective and engaging learning modules. A strong eLearning strategy keeps learners motivated and helps organizations achieve measurable outcomes.</p>
-                                <p>Partnering with expert firms like ITD GrowthLabs streamlines the entire process, from ideation to implementation. If you're serious about impactful learning, let ITD GrowthLabs be your guide to smarter digital training.</p>
+                                    <h3>Conclusion</h3>
+                                    <p>Incorporating eLearning best practices, following structured training content guidelines, and leveraging smart content development tips are essential steps in building effective and engaging learning modules. A strong eLearning strategy keeps learners motivated and helps organizations achieve measurable outcomes.</p>
+                                    <p>Partnering with expert firms like ITD GrowthLabs streamlines the entire process, from ideation to implementation. If you're serious about impactful learning, let ITD GrowthLabs be your guide to smarter digital training.</p>
                                 </div>
                             </div>
                         </div>
@@ -629,14 +637,16 @@
                         <div class="f-item link">
                             <h4 class="widget-title">Video Services</h4>
                             <ul>
-                                <li><a href="../video/video-services.php">Explainer Videos</a></li>
-                                <li><a href="../video/video-services.php">Demo Videos</a></li>
-                                <li><a href="../video/video-services.php">Social Media Videos</a></li>
-                                <li><a href="../video/video-services.php">Video Editing</a></li>
-                                <li><a href="../video/video-services.php">How-to Videos</a></li>
+                                <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
+                                <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
+                                <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
+                                <li><a href="../services/Video-Editing.php">Video Editing</a></li>
+                                <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
+                            </ul>
                             </ul>
                         </div>
                     </div>
+
 
                     <!-- Data Services -->
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">

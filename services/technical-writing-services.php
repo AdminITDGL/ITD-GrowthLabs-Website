@@ -6,9 +6,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Enhance your technology company's online presence with expert digital content marketing services. Drive engagement, improve SEO, and establish your brand as an industry leader with tailored content strategies for the tech sector.">
+    <meta name="description" content="Get expert technical writing services for manuals, SOPs, guides, and API docs & more. Simplify complex content with clear, user-friendly documentation.">
     <meta name="keywords" content="Content Marketing for Technology, SEO Blog Writing for Technology, Digital Marketing for Tech Companies, Technical Writing for Technology, Tech Article Writing, SEO Content for Tech, Blog Writing Services for Technology, Technical Content Writing for Technology Companies.">
-    <title>Technical Writing Services India | Tech Content Writers</title>
+    <title>Professional Technical Writing Services | Content Writing Services</title>
 
 
 
@@ -54,250 +54,258 @@
     <!-- Header 
 ============================================= -->
     <header>
-    <!-- Start Navigation -->
-    <nav class="navbar mobile-sidenav navbar-default validnavs dark on menu-center no-full">
+        <!-- Start Navigation -->
+        <nav class="navbar mobile-sidenav navbar-default validnavs dark on menu-center no-full">
 
-        <!-- Start Top Search -->
-        <div class="top-search">
-            <div class="container">
-                <form action="#">
-                    <div class="input-group">
-                        <span class="input-group-addon"><i class="fa fa-search"></i></span>
-                        <input type="text" class="form-control" placeholder="Search">
-                        <span class="input-group-addon close-search"><i class="fa fa-times"></i></span>
-                    </div>
-                </form>
-            </div>
-        </div>
-        <!-- End Top Search -->
-
-        <div class="container d-flex justify-content-between align-items-center">
-            <!-- Start Header Navigation -->
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
-                    <i class="fa fa-bars"></i>
-                </button>
-                <a class="navbar-brand" href="../index.php">
-                    <img src="../assets/img/logo.jpg" class="logo" alt="Logo">
-                </a>
-            </div>
-            <!-- End Header Navigation -->
-
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="navbar-menu">
-                <img src="../assets/img/logo.jpg" alt="Logo">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
-                    <i class="fa fa-times"></i>
-                </button>
-                <ul class="nav navbar-nav navbar-center" data-in="fadeInDown" data-out="fadeOutUp">
-
-                    <li class="dropdown megamenu-fw">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tech Services</a>
-                        <ul class="dropdown-menu megamenu-content" role="menu">
-                            <li>
-                                <div class="row">
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Core Tech Services</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../services/website-development-company.php">Website Design
-                                                        & Development</a></li>
-                                                <li><a href="../coming-soon.php">Template-Based Website Development</a>
-                                                </li>
-                                                <li><a href="../coming-soon.php">WordPress Website Development</a></li>
-                                                <li><a href="../coming-soon.php">Custom Website Development</a></li>
-                                                <li><a href="../coming-soon.php">E-commerce Website Development</a></li>
-
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">End-to-End Services</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../services/website-development-company.php">Website Design
-                                                        & Development</a></li>
-                                                <li><a href="../services/content-marketing-services.php">Content
-                                                        Marketing Services</a></li>
-                                                <li><a href="../services/seo-auditing-services.php">SEO Audit and
-                                                        Optimization</a></li>
-                                                <li><a href="../services/social-media-marketing.php">Social Media
-                                                        Marketing</a></li>
-                                                <li><a href="../services/google-search-ads-services.php">Google Search
-                                                        Ads</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">More Tech Solutions</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-
-                                                <li><a href="../coming-soon.php">App Development</a></li>
-                                                <li><a href="../coming-soon.php">IT Outsourcing Services</a></li>
-                                                <li><a href="../coming-soon.php">IT Team Outsourcing</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </li>
-
-
-                    <li class="dropdown megamenu-fw">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Content Services</a>
-                        <ul class="dropdown-menu megamenu-content" role="menu">
-                            <li>
-                                <div class="row">
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">SEO &amp; Content Writing</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../services/website-content-writing.php">Website Content
-                                                        Writing</a></li>
-                                                <li><a href="../services/seo-article-writing.php">SEO Article
-                                                        Writing</a></li>
-                                                <li><a href="../services/blog-writing-services.php">Blog Writing</a>
-                                                </li>
-                                                <li><a href="../services/case-study-writing-services.php">Case Study
-                                                        Writing</a></li>
-                                                <li><a href="../services/product-description-writing-services.php">Product
-                                                        Description</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Specialized Content Services</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../coming-soon.php">Content Writing & Strategy</a></li>
-                                                <li><a href="../coming-soon.php">Technical Writing Services</a></li>
-                                                <li><a href="../coming-soon.php">Whitepapers & Case Studies</a></li>
-                                                <li><a href="../coming-soon.php">Content Team Outsourcing</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Industries We Serve</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../services/logistics-content-marketing.php">Logistics</a>
-                                                </li>
-                                                <li><a href="../services/coming-soon.php">Manufacturing</a></li>
-                                                <li><a href="../services/coming-soon.php">Technology</a></li>
-                                                <li><a href="../services/ecommerce-content-services.php">E-commerce</a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </li>
-
-                    <li class="dropdown megamenu-fw">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">eLearning Services</a>
-                        <ul class="dropdown-menu megamenu-content" role="menu">
-                            <li>
-                                <div class="row">
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Custom Solutions</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../coming-soon.php">Custom eLearning Development</a></li>
-                                                <li><a href="../coming-soon.php">PowerPoint to eLearning Conversion</a>
-                                                </li>
-                                                <li><a href="../coming-soon.php">Mobile Learning / Microlearning</a>
-                                                </li>
-                                                <li><a href="../coming-soon.php">Gamified Learning Modules</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Use Cases</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="#">Employee Onboarding</a></li>
-                                                <li><a href="#">Talent Development</a></li>
-                                                <li><a href="#">Compliance Training</a></li>
-                                                <li><a href="#">Sales Enablement</a></li>
-                                                <li><a href="#">Customer Education</a></li>
-                                                <li><a href="#">Partner Enablement</a></li>
-                                                <li><a href="#">Frontline Workforce Training</a></li>
-                                                <li><a href="#">Member Training</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Industries Served</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="#">Software & Tech</a></li>
-                                                <li><a href="#">Financial Services</a></li>
-                                                <li><a href="#">Manufacturing</a></li>
-                                                <li><a href="#">Healthcare</a></li>
-                                                <li><a href="#">Government</a></li>
-                                                <li><a href="#">Restaurants & Hospitality</a></li>
-                                                <li><a href="#">Education</a></li>
-                                                <li><a href="#">Retail</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </li>
-
-                    <!--li class="dropdown">
-                        <a href="./services/whatsapp-marketing-and-automation.php" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
-                        </ul>
-                    </li-->
-
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Video Services</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="../video/video-services.php">Explainer Videos</a></li>
-                            <li><a href="../video/video-services.php">Demo Videos</a></li>
-                            <li><a href="../video/video-services.php">Video Ads</a></li>
-                            <li><a href="../video/video-services.php">Social Media Videos</a></li>
-                            <li><a href="../video/video-services.php">Repurpose Videos</a></li>
-                            <li><a href="../video/video-services.php">Video Editing</a></li>
-                            <li><a href="../video/video-services.php">How-to Videos</a></li>
-                            <li><a href="../video/video-services.php">Onboarding Videos</a></li>
-                        </ul>
-                    </li>
-
-                    <li><a href="contact-us.php">Contact</a></li>
-                </ul>
-            </div><!-- /.navbar-collapse -->
-
-            <div class="attr-right">
-                <!-- Start Atribute Navigation -->
-                <div class="attr-nav">
-                    <ul>
-                        <li class="button">
-                            <a href="https://calendly.com/itdgrowthlabs-info/30min">Book a Call</a>
-                        </li>
-                    </ul>
+            <!-- Start Top Search -->
+            <div class="top-search">
+                <div class="container">
+                    <form action="#">
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="fa fa-search"></i></span>
+                            <input type="text" class="form-control" placeholder="Search">
+                            <span class="input-group-addon close-search"><i class="fa fa-times"></i></span>
+                        </div>
+                    </form>
                 </div>
-                <!-- End Atribute Navigation -->
-
-                <!-- Overlay screen for menu -->
-                <div class="overlay-screen"></div>
-                <!-- End Overlay screen for menu -->
             </div>
+            <!-- End Top Search -->
 
-        </div>
-    </nav>
-    <!-- End Navigation -->
-</header>
+            <div class="d-flex justify-content-between align-items-center">
+                <!-- Start Header Navigation -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                        <i class="fa fa-bars"></i>
+                    </button>
+                    <a class="navbar-brand" href="../index.php">
+                        <img src="../assets/img/logo.jpg" class="logo" alt="Logo">
+                    </a>
+                </div>
+                <!-- End Header Navigation -->
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="navbar-menu">
+                    <img src="../assets/img/logo.jpg" alt="Logo">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                        <i class="fa fa-times"></i>
+                    </button>
+                    <ul class="nav navbar-nav navbar-center" data-in="fadeInDown" data-out="fadeOutUp">
+
+                        <li class="dropdown megamenu-fw">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tech Services</a>
+                            <ul class="dropdown-menu megamenu-content" role="menu">
+                                <li>
+                                    <div class="row">
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Core Tech Services</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
+                                                    <li><a href="../services/Template-Based-Website-Development.php">Template-Based Website Development</a>
+                                                    </li>
+                                                    <li><a href="../services/WordPress-Website-Development.php">WordPress Website Development</a></li>
+                                                    <li><a href="../services/Custom-Website-Development.php">Custom Website Development</a></li>
+                                                    <li><a href="../services/E-commerce-Website-Development.php">E-commerce Website Development</a></li>
+
+                                                </ul>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">End-to-End Services</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
+                                                    <li><a href="../services/content-marketing-services.php">Content Marketing Services</a></li>
+                                                    <li><a href="../services/seo-auditing-services.php">SEO Audit and Optimization</a></li>
+                                                    <li><a href="../services/social-media-marketing.php">Social Media Marketing</a></li>
+                                                    <li><a href="../services/google-search-ads-services.php">Google Search Ads</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">More Tech Solutions</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+
+                                                    <li><a href="../services/App-Development.php">App Development</a></li>
+                                                    <li><a href="../services/IT-Outsourcing-Services.php">IT Outsourcing Services</a></li>
+                                                    <li><a href="../services/IT-Team-Outsourcing.php">IT Team Outsourcing</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flow</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data Services</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
+                                <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
+                                <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
+                                <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
+                                <li><a href="../data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
+                                <li><a href="../data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
+                                <li><a href="../data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
+                                <li><a href="../data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
+                                <li><a href="../data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown megamenu-fw">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Content Services</a>
+                            <ul class="dropdown-menu megamenu-content" role="menu">
+                                <li>
+                                    <div class="row">
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">SEO &amp; Content Writing</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/website-content-writing.php">Website Content Writing</a></li>
+                                                    <li><a href="../services/seo-article-writing.php">SEO Article Writing</a></li>
+                                                    <li><a href="../services/blog-writing-services.php">Blog Writing</a></li>
+                                                    <li><a href="../services/case-study-writing-services.php">Case Study Writing</a></li>
+                                                    <li><a href="../services/product-description-writing-services.php">Product Description</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Specialized Content Services</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/content_writing_strategy.php">Content Writing & Strategy</a></li>
+                                                    <li><a href="../services/technical-writing-services.php">Technical Writing Services</a></li>
+                                                    <li><a href="../services/White-Papers-Case-Studies.php">Whitepapers & Case Studies</a></li>
+                                                    <li><a href="../services/Content-Team-Outsourcing.php">Content Team Outsourcing</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Industries We Serve</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/logistics-content-marketing.php">Logistics</a></li>
+                                                    <li><a href="../services/Industries-We-Serve-Manufacturing.php">Manufacturing</a></li>
+                                                    <li><a href="../services/Industries-We-Serve-Technology.php">Technology</a></li>
+                                                    <li><a href="../services/ecommerce-content-services.php">E-commerce</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown megamenu-fw">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">eLearning Services</a>
+                            <ul class="dropdown-menu megamenu-content" role="menu">
+                                <li>
+                                    <div class="row">
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Custom Solutions</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/Custom-eLearning-Development.php">Custom eLearning Development</a></li>
+                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php">PowerPoint to eLearning Conversion</a></li>
+                                                    <li><a href="../services/Mobile-Learn-Microlearning.php">Mobile Learning / Microlearning</a></li>
+                                                    <li><a href="../services/Gamified-Learning-Modules.php">Gamified Learning Modules</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Use Cases</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/Employee-Onboarding.php">Employee Onboarding</a></li>
+                                                    <li><a href="../services/Talent-Development.php">Talent Development</a></li>
+                                                    <li><a href="../services/Compliance-Training.php">Compliance Training</a></li>
+                                                    <li><a href="../services/Sales-Enablement.php">Sales Enablement</a></li>
+                                                    <li><a href="../services/Customer-Education.php">Customer Education</a></li>
+                                                    <li><a href="../services/Partner-Enablement.php">Partner Enablement</a></li>
+                                                    <li><a href="../services/Frontline-Workforce-Training.php">Frontline Workforce Training</a></li>
+                                                    <li><a href="../services/Member-Training.php">Member Training</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Industries Served</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../coming-soon.php">Software & Tech</a></li>
+                                                    <li><a href="../coming-soon.php">Financial Services</a></li>
+                                                    <li><a href="../coming-soon.php">Manufacturing</a></li>
+                                                    <li><a href="../coming-soon.php">Healthcare</a></li>
+                                                    <li><a href="../coming-soon.php">Government</a></li>
+                                                    <li><a href="../coming-soon.php">Restaurants & Hospitality</a></li>
+                                                    <li><a href="../coming-soon.php">Education</a></li>
+                                                    <li><a href="../coming-soon.php">Retail</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <!-- <li class="dropdown">
+                           <a href="./services/whatsapp-marketing-and-automation.php" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
+                           <ul class="dropdown-menu">
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
+                           </ul>
+                       </li> -->
+
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Video Services</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
+                                <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
+                                <li><a href="../services/Video-Ads.php">Video Ads</a></li>
+                                <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
+                                <li><a href="../services/Repurpose-Videos.php">Repurpose Videos</a></li>
+                                <li><a href="../services/Video-Editing.php">Video Editing</a></li>
+                                <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
+                                <li><a href="../services/Onboarding-Videos.php">Onboarding Videos</a></li>
+                            </ul>
+                        </li>
+
+                        <li><a href="../contact-us.php">Contact</a></li>
+                    </ul>
+                </div><!-- /.navbar-collapse -->
+
+                <div class="attr-right">
+                    <!-- Start Atribute Navigation -->
+                    <div class="attr-nav">
+                        <ul>
+                            <li class="button">
+                                <a href="https://calendly.com/itdgrowthlabs-info/30min">Book a Call</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- End Atribute Navigation -->
+
+                    <!-- Overlay screen for menu -->
+                    <div class="overlay-screen"></div>
+                    <!-- End Overlay screen for menu -->
+                </div>
+
+            </div>
+        </nav>
+        <!-- End Navigation -->
+    </header>
     <!-- End Header -->
     <!-- Start Banner Area 
     ============================================= -->
@@ -312,18 +320,19 @@
                         <div class="col-xl-6 col-lg-6 pr-50 pr-md-15 pr-xs-15 mt--80 mt-md-0 mt-xs-0">
                             <div class="information">
                                 <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
-                                    Technical Content Writing Services <br> for <strong>Technology Companies</strong>
+                                    Expert<br> <strong> Technical Writing Services</strong>
                                 </h2>
                                 <p class="wow fadeInUp" data-wow-delay="900ms" data-wow-duration="400ms">
-                                    Elevate your technology brand with expertly crafted <strong>technical content writing</strong> that engages your audience, boosts SEO, and drives measurable growth. Tailored content strategies for the tech sector to enhance your online presence.
+
+                                    Simplify complexity with expert<strong> technical writing services</strong>. From user guides to API docs, we craft content that informs, guides, and supports your audience.
                                 </p>
                                 <ul class="list-double mt-40">
-                                    <li>SEO-optimized articles, white papers, and blog posts for better search rankings</li>
-                                    <li>Expert writing for technical topics, case studies, and product documentation</li>
-                                    <li>Engaging content strategies to position your tech brand as an industry leader</li>
+                                    <li>Improve user understanding with clear content</li>
+                                    <li>Speed up onboarding with better documentation</li>
+                                    <li>Reduce errors with precise technical writing</li>
                                 </ul>
                                 <div class="button" style="margin-top: 20px;">
-                                    <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min">Let's Talk</a>
+                                    <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min">Let’s Talk </a>
                                 </div>
                             </div>
                         </div>
@@ -362,7 +371,7 @@
                             </div>
                             <!-- End Single Item -->
                             <!-- Single Item -->
-                            
+
                             <!-- End Single Item -->
                             <!-- Single Item -->
                             <div class="swiper-slide">
@@ -389,27 +398,27 @@
             <div class="row">
                 <div class="col-xl-6 col-lg-5">
                     <h4 class="sub-title">What We Offer</h4>
-                    <h2 class="title mb-30">Comprehensive <br> Content Writing Services for Technology</h2>
+                    <h2 class="title mb-30">Clear,<br>Accurate Technical Content</h2>
                     <p>
-                        Our expert <strong>technical content writing services</strong> for technology companies are designed to enhance your online visibility and authority. We specialize in creating high-quality, SEO-optimized technical content that aligns with your business goals and speaks directly to your tech audience. From blog posts to white papers and case studies, we deliver tailored content that drives business growth.
+                        Our <strong>technical writing services</strong> help you simplify complex processes with user-centric documentation. From API docs to compliance manuals, we create clear, accurate, and accessible content that boosts user experience and ensures operational clarity.
                     </p>
                     <ul class="list-double mt-40">
                         <li>
-                            <h5>SEO-Driven Technical Articles</h5>
+                            <h5>User Manuals & Guides</h5>
                             <p>
-                                We craft well-researched and optimized technical articles that improve your search rankings, attract organic traffic, and engage potential customers in the technology sector.
+                                Deliver step-by-step, easy-to-follow instructions for software, hardware, or services that reduce support queries and enhance product adoption.
                             </p>
                         </li>
                         <li>
-                            <h5>Case Study Writing Services</h5>
+                            <h5>API & Developer Documentation</h5>
                             <p>
-                                Showcase your technology solutions and success stories through detailed case studies that build credibility and trust with your audience.
+                                We create well-structured API references and integration guides that help developers implement your tech with ease and minimize onboarding friction.
                             </p>
                         </li>
                         <li>
-                            <h5>White paper & Blog Writing</h5>
+                            <h5>Compliance & SOP Documentation</h5>
                             <p>
-                                Our whitepapers and blogs offer in-depth insights into your tech products, innovations, and solutions, positioning your brand as an industry thought leader.
+                                Ensure your business stays compliant with clearly written SOPs, training content, and regulatory documents tailored to industry standards.
                             </p>
                         </li>
                     </ul>
@@ -423,17 +432,17 @@
                                     <strong>92%</strong>
                                 </div>
                             </div>
-                            <h4>Improved SEO Performance</h4>
+                            <h4>Improved User Clarity</h4>
                         </div>
 
                         <div class="seo-progess-items">
                             <div class="process-item">
-                                <h5>Technical SEO Impact</h5>
-                                <p>Boost your search rankings and improve organic visibility with expertly crafted content tailored for the technology sector.</p>
+                                <h5>Simplifying Complexity</h5>
+                                <p>Transforming technical data into user-friendly content that enhances understanding and boosts customer satisfaction across all platforms.</p>
                             </div>
                             <div class="process-item">
-                                <h5>Business Growth</h5>
-                                <p>Drive higher engagement with targeted content that strengthens your tech brand's presence, boosting visibility and generating high-quality leads.</p>
+                                <h5>Reducing Support Load</h5>
+                                <p>Accurate and intuitive documentation reduces repetitive queries, empowering users to solveissues independently and cutting down on support costs.</p>
                             </div>
                         </div>
 
@@ -444,11 +453,11 @@
     </div>
     <!-- End Service Range -->
     <!-- Calendly inline widget begin -->
-
+    <!-- 
     <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
 
     <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-
+ -->
 
     <!-- Calendly inline widget end -->
 
@@ -525,8 +534,8 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">Why You Need Expert Technical Content Writing for Technology</h5>
-                        <h2 class="title">Comprehensive Solutions to Elevate Your Brand and Drive Business Growth</h2>
+                        <h5 class="sub-title">Why You Need Professional Technical Writing Services</h5>
+                        <h2 class="title">The Real Impact of Technical Writing Services</h2>
                     </div>
                 </div>
             </div>
@@ -538,9 +547,9 @@
                 <div class="col-lg-4 col-md-6 mb-30">
                     <div class="feature-style-one">
                         <div class="info">
-                            <h4>SEO-Optimized Articles and Blogs</h4>
+                            <h4> Clarity from Complexity</h4>
                             <p>
-                                Our <strong>SEO article writing services</strong> ensure your tech company ranks higher on search engines. We craft content that attracts <strong>organic traffic</strong>, increasing your visibility in a competitive industry.
+                                Simplify <strong>complex information into clear</strong>, structured content that helps users understand your product or process without confusion or technical background knowledge.
                             </p>
                         </div>
                     </div>
@@ -551,9 +560,9 @@
                 <div class="col-lg-4 col-md-6 mb-30">
                     <div class="feature-style-one">
                         <div class="info">
-                            <h4>Case Studies & Thought Leadership</h4>
+                            <h4>Better User Experience</h4>
                             <p>
-                                Build credibility with <strong>case studies</strong> and <strong>thought leadership articles</strong> that showcase your expertise, industry insights, and the impact of your products or services.
+                                Enhance user experience with professionally written manuals, guides, and help content that reduces frustration and improves product adoption rates.
                             </p>
                         </div>
                     </div>
@@ -564,9 +573,9 @@
                 <div class="col-lg-4 col-md-6 mb-30">
                     <div class="feature-style-one">
                         <div class="info">
-                            <h4>Technical White papers</h4>
+                            <h4>Time & Cost Efficiency</h4>
                             <p>
-                                Our <strong>white paper writing services</strong> deliver in-depth, technical documents that demonstrate your knowledge and leadership in the tech industry, positioning you as a thought leader.
+                                Save valuable time and reduce support costs by equipping your users with accurate documentation that answers questions and solves problems proactively.
                             </p>
                         </div>
                     </div>
@@ -577,7 +586,7 @@
                 <div class="col-lg-4 col-md-6 mb-30">
                     <div class="feature-style-one">
                         <div class="info">
-                            <h4>Blog Writing & Content Updates</h4>
+                            <h4>Consistent Brand Voice</h4>
                             <p>
                                 Stay relevant with ongoing <strong>blog writing services</strong> and regular content updates. We keep your audience engaged with fresh, SEO-optimized, and informative content about your tech solutions.
                             </p>
@@ -590,9 +599,9 @@
                 <div class="col-lg-4 col-md-6 mb-30">
                     <div class="feature-style-one">
                         <div class="info">
-                            <h4>Technical Article Writing</h4>
+                            <h4>Regulatory Compliance</h4>
                             <p>
-                                We specialize in writing highly technical articles that explain complex concepts clearly. Our content helps your audience understand your products, solutions, and services better.
+                                Ensure compliance with industry standards and regulations through precise and properly formatted documentation for audits, training, and operations.
                             </p>
                         </div>
                     </div>
@@ -603,9 +612,9 @@
                 <div class="col-lg-4 col-md-6 mb-30">
                     <div class="feature-style-one">
                         <div class="info">
-                            <h4>Comprehensive Content Marketing</h4>
+                            <h4>Scalable Documentation</h4>
                             <p>
-                                We offer full-spectrum <strong>content marketing services</strong> for tech companies. From SEO optimization to targeted campaigns, our strategies drive traffic, engagement, and business growth.
+                                Support scalability with standardized content that can be easily updated, translated, and repurposed as your products evolve and expand into new markets.
                             </p>
                         </div>
                     </div>
@@ -622,32 +631,7 @@
     <div class="knowledge-hub-area overflow-hidden default-padding">
         <div class="container">
             <div class="row">
-                <div class="col-xl-5">
-                    <div class="knowledge-hub-style-one">
-                        <h4 class="sub-title"></h4>
-                        <h2 class="title">Empowering Technology Companies with Precision-Driven Content Marketing</h2>
-                        <ul class="list-regular mt-30">
-                            <li>Tailored Content Strategies for Technology Businesses</li>
-                            <li>SEO-Optimized Whitepapers and Case Studies</li>
-                            <li>Industry-Leading Thought Leadership to Establish Authority</li>
-                        </ul>
-                        <div class="circle-progress">
-                            <div class="progressbar">
-                                <div class="circle" data-percent="92">
-                                    <strong></strong>
-                                </div>
-                                <h4>Projects Delivered</h4>
-                            </div>
-                            <div class="progressbar">
-                                <div class="circle" data-percent="89">
-                                    <strong></strong>
-                                </div>
-                                <h4>Satisfied Clients</h4>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-6 offset-xl-1">
+                <div class="col-12">
                     <div class="faq-style-one">
                         <div class="accordion" id="faqAccordion">
                             <!-- FAQ Item 1 -->
@@ -745,11 +729,141 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingOne">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                        What is technical writing?
+                                    </button>
+                                </h2>
+                                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p>Technical writing is the process of creating clear and concise documentation for complex processes, systems, or products.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ Item 2 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingTwo">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                        Who needs technical writing services?
+                                    </button>
+                                </h2>
+                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p>Businesses in tech, healthcare, logistics, and manufacturing benefit from technical documentation to educate users and meet compliance needs.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ Item 3 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingThree">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                        What types of documents do you create?
+                                    </button>
+                                </h2>
+                                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p>We create user manuals, SOPs, API docs, case studies, training guides, and more.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ Item 4 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingFour">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                        How does technical writing help my business?
+                                    </button>
+                                </h2>
+                                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p>It improves customer understanding, product usability, reduces support queries, and strengthens brand credibility with accurate, professional content.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ Item 5 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingFive">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                        Do you offer industry-specific writing?
+                                    </button>
+                                </h2>
+                                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p>Yes, our writers specialize in industries like technology, e-commerce, logistics, and manufacturing to ensure relevance and accuracy.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ Item 6 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingSix">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                        Can you update existing documentation?
+                                    </button>
+                                </h2>
+                                <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p>Absolutely. We review and revise existing documents to align with the latest updates, features, and brand tone.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ Item 7 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingSeven">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                                        Is your documentation SEO-friendly?
+                                    </button>
+                                </h2>
+                                <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p>Yes. Where relevant—especially for help content—we integrate SEO practices to improve discoverability.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ Item 8 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingEight">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                                        How do you ensure accuracy in technical content?
+                                    </button>
+                                </h2>
+                                <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p>We conduct in-depth research about the subject matter and follow strict quality checks to ensure factual and technical accuracy.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ Item 9 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingNine">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+                                        Do you provide visual aids in the documents?
+                                    </button>
+                                </h2>
+                                <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p>Yes, we can include charts, diagrams, screenshots, and illustrations as needed to support comprehension, as per your business needs.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ Item 10 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingTen">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+                                        What is your turnaround time?
+                                    </button>
+                                </h2>
+                                <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p>Turnaround depends on the scope and type of document, but we always strive for timely delivery with quality intact.</p>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
     </div>
     <!-- End Knowledge Hub -->
 
@@ -772,15 +886,15 @@
                 </div>
                 <div class="col-lg-5 offset-lg-1 about-style-three">
                     <div class="about-three-info">
-                        <h4 class="sub-title">Why You Need Content Marketing Services for Technology Companies</h4>
-                        <h2 class="title">Driving Engagement, Authority, and Growth with Targeted Content Solutions for the Technology Sector</h2>
+                        <h4 class="sub-title">Why You Need Technical Writing Service</h4>
+                        <h2 class="title">Enhancing Clarity and Boosting Efficiency with Technical Documentation</h2>
                         <ul class="list-grid-four">
-                            <li><strong>SEO-Optimized Blogs to Boost Visibility in Technology</strong></li>
-                            <li><strong>Tailored Whitepapers and Case Studies to Showcase Expertise</strong></li>
-                            <li><strong>Compelling Tech Articles and Blog Posts for Thought Leadership</strong></li>
-                            <li><strong>Strategic Content Marketing to Support Lead Generation</strong></li>
-                            <li><strong>Measurable ROI through Effective Digital Marketing Campaigns</strong></li>
-                            <li><strong>Long-Term SEO Strategies for Consistent Online Growth</strong></li>
+                            <li><strong>Simplify complex processes for end-user understanding.</strong></li>
+                            <li><strong>Reduce customer support needs with self-help documentation.</strong></li>
+                            <li><strong>Improve onboarding with clear instructional content.</strong></li>
+                            <li><strong>Ensure compliance with accurate SOP documentation.</strong></li>
+                            <li><strong>Build trust with professional, branded materials.</strong></li>
+                            <li><strong>Support scalability with structured, editable docs.</strong></li>
                         </ul>
                     </div>
                 </div>
@@ -788,14 +902,7 @@
         </div>
     </div>
     <!-- End Why You Need Content Writing Services -->
-    <!-- Calendly inline widget begin -->
 
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
-
-    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-
-
-    <!-- Calendly inline widget end -->
     <!-- Start Process
     ============================================= -->
     <div class="process-style-one-area text-center default-padding">
@@ -805,7 +912,7 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">Our Approach</h5>
-                        <h2 class="title">Strategic Process for Content Marketing Services</h2>
+                        <h2 class="title">Strategic Process For Technical Writing Success</h2>
                     </div>
                 </div>
             </div>
@@ -878,7 +985,14 @@
         </div>
     </div>
     <!-- End Process -->
+    <!-- Calendly inline widget begin -->
 
+    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+
+    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+
+
+    <!-- Calendly inline widget end -->
 
     <!-- Start Contact Us 
     ============================================= -->
@@ -985,125 +1099,127 @@
     <!-- Start Footer 
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
-    <div class="container">
-        <div class="f-items default-padding-bottom pt-70 pt-xs-0">
-            <div class="row">
-                <!-- Content Services -->
-                <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                    <div class="f-item link">
-                        <h4 class="widget-title">Content Services</h4>
-                        <ul>
-                            <li><a href="../services/website-content-writing.php">Website Content Writing</a></li>
-                            <li><a href="../services/seo-article-writing.php">SEO Article Writing</a></li>
-                            <li><a href="../services/blog-writing-services.php">Blog Writing</a></li>
-                            <li><a href="../services/case-study-writing-services.php">Case Study Writing</a></li>
-                            <li><a href="../services/product-description-writing-services.php">Product Description</a></li>
-                        </ul>
-                    </div>
-                </div>
-                
-                <!-- End-to-End Services -->
-                <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                    <div class="f-item link">
-                        <h4 class="widget-title">End-to-End Services</h4>
-                        <ul>
-                            <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
-                            <li><a href="../services/content-marketing-services.php">Content Marketing Services</a></li>
-                            <li><a href="../services/seo-auditing-services.php">SEO Audit and Optimization</a></li>
-                            <li><a href="../services/social-media-marketing.php">Social Media Marketing</a></li>
-                            <li><a href="../services/google-search-ads-services.php">Google Search Ads</a></li>
-                        </ul>
-                    </div>
-                </div>
-                
-                <!-- Industries We Serve & WhatsApp Marketing -->
-                <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                    <div class="f-item link">
-                   
-                        <h4 class="widget-title">WhatsApp Marketing</h4>
-                        <ul>
-                            <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
-                            <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
-                            <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
-                            <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
-                            <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
-                        </ul>
-                    </div>
-                </div>
-                
-                <!-- Video Services -->
-                <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                    <div class="f-item link">
-                        <h4 class="widget-title">Video Services</h4>
-                        <ul>
-                            <li><a href="../video/video-services.php">Explainer Videos</a></li>
-                            <li><a href="../video/video-services.php">Demo Videos</a></li>
-                            <li><a href="../video/video-services.php">Social Media Videos</a></li>
-                            <li><a href="../video/video-services.php">Video Editing</a></li>
-                            <li><a href="../video/video-services.php">How-to Videos</a></li>
-                        </ul>
-                    </div>
-                </div>
-                
-                <!-- Data Services -->
-                <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                    <div class="f-item link">
-                        <h4 class="widget-title">Data Services</h4>
-                        <ul>
-                            <li><a href="../coming-soon.php">Documents & PDF Data Entry Services</a></li>
-                            <li><a href="../coming-soon.php">Offline Data Entry Services</a></li>
-                            <li><a href="../coming-soon.php">Online Data Entry Services</a></li>
-                            <li><a href="../coming-soon.php">Product Data Entry Services</a></li>
-                        </ul>
-                    </div>
-                </div>
-				<!-- Data Services -->
-                <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                    <div class="f-item link">
-                        <h4 class="widget-title">Data Annotation Services</h4>
-                        <ul>
-                            <li><a href="../coming-soon.php">Data Labeling Services</a></li>
-                            <li><a href="../coming-soon.php">Image Annotation Services</a></li>
-                            <li><a href="../coming-soon.php">Text Annotation Services</a></li>
-							<li><a href="../coming-soon.php">Video Annotation Services</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <!-- Data Services -->
-                <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                    <div class="f-item link">
-                        <h4 class="widget-title">Resources</h4>
-                        <ul>
-                            <li><a href="../resources/all-blogs.php">Blogs</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <!-- Contact Information -->
-                <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                    <div class="f-item contact">
-                        <h4 class="widget-title">Contact Us</h4>
-                        <ul>
-                            <li>Gundecha Onclave, Mumbai, 400072</li>
-                            <li><a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    
-    <!-- Footer Bottom -->
-    <div class="footer-bottom bg-dark text-light text-center">
         <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <p>Copyright &copy; 2025 ITD GrowthLabs All Rights Reserved</p>
+            <div class="f-items default-padding-bottom pt-70 pt-xs-0">
+                <div class="row">
+                    <!-- Content Services -->
+                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                        <div class="f-item link">
+                            <h4 class="widget-title">Content Services</h4>
+                            <ul>
+                                <li><a href="../services/website-content-writing.php">Website Content Writing</a></li>
+                                <li><a href="../services/seo-article-writing.php">SEO Article Writing</a></li>
+                                <li><a href="../services/blog-writing-services.php">Blog Writing</a></li>
+                                <li><a href="../services/case-study-writing-services.php">Case Study Writing</a></li>
+                                <li><a href="../services/product-description-writing-services.php">Product Description</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- End-to-End Services -->
+                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                        <div class="f-item link">
+                            <h4 class="widget-title">End-to-End Services</h4>
+                            <ul>
+                                <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
+                                <li><a href="../services/content-marketing-services.php">Content Marketing Services</a></li>
+                                <li><a href="../services/seo-auditing-services.php">SEO Audit and Optimization</a></li>
+                                <li><a href="../services/social-media-marketing.php">Social Media Marketing</a></li>
+                                <li><a href="../services/google-search-ads-services.php">Google Search Ads</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- Industries We Serve & WhatsApp Marketing -->
+                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                        <div class="f-item link">
+
+                            <h4 class="widget-title">WhatsApp Marketing</h4>
+                            <ul>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flows</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- Video Services -->
+                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                        <div class="f-item link">
+                            <h4 class="widget-title">Video Services</h4>
+                            <ul>
+                                <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
+                                <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
+                                <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
+                                <li><a href="../services/Video-Editing.php">Video Editing</a></li>
+                                <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
+                            </ul>
+                            </ul>
+                        </div>
+                    </div>
+
+
+                    <!-- Data Services -->
+                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                        <div class="f-item link">
+                            <h4 class="widget-title">Data Services</h4>
+                            <ul>
+                                <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry Services</a></li>
+                                <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
+                                <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
+                                <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- Data Services -->
+                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                        <div class="f-item link">
+                            <h4 class="widget-title">Data Annotation Services</h4>
+                            <ul>
+                                <li><a href="../data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
+                                <li><a href="../data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
+                                <li><a href="../data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
+                                <li><a href="../data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- Data Services -->
+                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                        <div class="f-item link">
+                            <h4 class="widget-title">Resources</h4>
+                            <ul>
+                                <li><a href="../resources/all-blogs.php">Blogs</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- Contact Information -->
+                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                        <div class="f-item contact">
+                            <h4 class="widget-title">Contact Us</h4>
+                            <ul>
+                                <li>Gundecha Onclave, Mumbai, 400072</li>
+                                <li><a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a></li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-    <!-- End Footer Bottom -->
-</footer>
+
+        <!-- Footer Bottom -->
+        <div class="footer-bottom bg-dark text-light text-center">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <p>Copyright &copy; 2025 ITD GrowthLabs All Rights Reserved</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Footer Bottom -->
+    </footer>
 
     <!-- jQuery Frameworks
     ============================================= -->

@@ -40,11 +40,11 @@
 
                         <h4 class="widget-title">WhatsApp Marketing</h4>
                         <ul>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
+                            <li><a href="whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
+                            <li><a href="whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
+                            <li><a href="whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
+                            <li><a href="whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
+                            <li><a href="whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flows</a></li>
                         </ul>
                     </div>
                 </div>
@@ -53,12 +53,12 @@
                 <div class="col-lg-3 col-md-3 mt-50 footer-item">
                     <div class="f-item link">
                         <h4 class="widget-title">Video Services</h4>
-                        <ul>
-                            <li><a href="./video/video-services.php">Explainer Videos</a></li>
-                            <li><a href="./video/video-services.php">Demo Videos</a></li>
-                            <li><a href="./video/video-services.php">Social Media Videos</a></li>
-                            <li><a href="./video/video-services.php">Video Editing</a></li>
-                            <li><a href="./video/video-services.php">How-to Videos</a></li>
+                        <ul class="dropdown-menu">
+                            <li><a href="services/Explainer-Videos.php">Explainer Videos</a></li>
+                            <li><a href="services/Demo-Videos.php">Demo Videos</a></li>
+                            <li><a href="services/Social-Media-Videos.php">Social Media Videos</a></li>
+                            <li><a href="services/Video-Editing.php">Video Editing</a></li>
+                            <li><a href="services/How-To-Videos.php">How-to Videos</a></li>
                         </ul>
                     </div>
                 </div>
@@ -68,10 +68,10 @@
                     <div class="f-item link">
                         <h4 class="widget-title">Data Services</h4>
                         <ul>
-                            <li><a href="coming-soon.php">Documents & PDF Data Entry Services</a></li>
-                            <li><a href="coming-soon.php">Offline Data Entry Services</a></li>
-                            <li><a href="coming-soon.php">Online Data Entry Services</a></li>
-                            <li><a href="coming-soon.php">Product Data Entry Services</a></li>
+                            <li><a href="data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry Services</a></li>
+                            <li><a href="data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
+                            <li><a href="data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
+                            <li><a href="data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
                         </ul>
                     </div>
                 </div>
@@ -80,10 +80,10 @@
                     <div class="f-item link">
                         <h4 class="widget-title">Data Annotation Services</h4>
                         <ul>
-                            <li><a href="coming-soon.php">Data Labeling Services</a></li>
-                            <li><a href="coming-soon.php">Image Annotation Services</a></li>
-                            <li><a href="coming-soon.php">Text Annotation Services</a></li>
-                            <li><a href="coming-soon.php">Video Annotation Services</a></li>
+                            <li><a href="data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
+                            <li><a href="data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
+                            <li><a href="data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
+                            <li><a href="data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
                         </ul>
                     </div>
                 </div>

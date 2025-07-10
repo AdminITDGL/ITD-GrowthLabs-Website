@@ -68,7 +68,7 @@
             </div>
             <!-- End Top Search -->
 
-            <div class="container d-flex justify-content-between align-items-center">
+            <div class="d-flex justify-content-between align-items-center">
                 <!-- Start Header Navigation -->
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
@@ -97,31 +97,26 @@
                                             <h6 class="title">Core Tech Services</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/website-development-company.php">Website Design
-                                                            & Development</a></li>
-                                                    <li><a href="../coming-soon.php">Template-Based Website Development</a>
+                                                    <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
+                                                    <li><a href="../services/Template-Based-Website-Development.php">Template-Based Website Development</a>
                                                     </li>
-                                                    <li><a href="../coming-soon.php">WordPress Website Development</a></li>
-                                                    <li><a href="../coming-soon.php">Custom Website Development</a></li>
-                                                    <li><a href="../coming-soon.php">E-commerce Website Development</a></li>
+                                                    <li><a href="../services/WordPress-Website-Development.php">WordPress Website Development</a></li>
+                                                    <li><a href="../services/Custom-Website-Development.php">Custom Website Development</a></li>
+                                                    <li><a href="../services/E-commerce-Website-Development.php">E-commerce Website Development</a></li>
 
                                                 </ul>
                                             </div>
                                         </div>
+
                                         <div class="col-menu col-lg-4">
                                             <h6 class="title">End-to-End Services</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/website-development-company.php">Website Design
-                                                            & Development</a></li>
-                                                    <li><a href="../services/content-marketing-services.php">Content
-                                                            Marketing Services</a></li>
-                                                    <li><a href="../services/seo-auditing-services.php">SEO Audit and
-                                                            Optimization</a></li>
-                                                    <li><a href="../services/social-media-marketing.php">Social Media
-                                                            Marketing</a></li>
-                                                    <li><a href="../services/google-search-ads-services.php">Google Search
-                                                            Ads</a></li>
+                                                    <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
+                                                    <li><a href="../services/content-marketing-services.php">Content Marketing Services</a></li>
+                                                    <li><a href="../services/seo-auditing-services.php">SEO Audit and Optimization</a></li>
+                                                    <li><a href="../services/social-media-marketing.php">Social Media Marketing</a></li>
+                                                    <li><a href="../services/google-search-ads-services.php">Google Search Ads</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -130,9 +125,9 @@
                                             <div class="content">
                                                 <ul class="menu-col">
 
-                                                    <li><a href="../coming-soon.php">App Development</a></li>
-                                                    <li><a href="../coming-soon.php">IT Outsourcing Services</a></li>
-                                                    <li><a href="../coming-soon.php">IT Team Outsourcing</a></li>
+                                                    <li><a href="../services/App-Development.php">App Development</a></li>
+                                                    <li><a href="../services/IT-Outsourcing-Services.php">IT Outsourcing Services</a></li>
+                                                    <li><a href="../services/IT-Team-Outsourcing.php">IT Team Outsourcing</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -140,8 +135,30 @@
                                 </li>
                             </ul>
                         </li>
-
-
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flow</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data Services</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
+                                <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
+                                <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
+                                <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
+                                <li><a href="../data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
+                                <li><a href="../data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
+                                <li><a href="../data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
+                                <li><a href="../data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
+                                <li><a href="../data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
+                            </ul>
+                        </li>
                         <li class="dropdown megamenu-fw">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Content Services</a>
                             <ul class="dropdown-menu megamenu-content" role="menu">
@@ -151,16 +168,11 @@
                                             <h6 class="title">SEO &amp; Content Writing</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/website-content-writing.php">Website Content
-                                                            Writing</a></li>
-                                                    <li><a href="../services/seo-article-writing.php">SEO Article
-                                                            Writing</a></li>
-                                                    <li><a href="../services/blog-writing-services.php">Blog Writing</a>
-                                                    </li>
-                                                    <li><a href="../services/case-study-writing-services.php">Case Study
-                                                            Writing</a></li>
-                                                    <li><a href="../services/product-description-writing-services.php">Product
-                                                            Description</a></li>
+                                                    <li><a href="../services/website-content-writing.php">Website Content Writing</a></li>
+                                                    <li><a href="../services/seo-article-writing.php">SEO Article Writing</a></li>
+                                                    <li><a href="../services/blog-writing-services.php">Blog Writing</a></li>
+                                                    <li><a href="../services/case-study-writing-services.php">Case Study Writing</a></li>
+                                                    <li><a href="../services/product-description-writing-services.php">Product Description</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -168,10 +180,10 @@
                                             <h6 class="title">Specialized Content Services</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../coming-soon.php">Content Writing & Strategy</a></li>
-                                                    <li><a href="../coming-soon.php">Technical Writing Services</a></li>
-                                                    <li><a href="../coming-soon.php">Whitepapers & Case Studies</a></li>
-                                                    <li><a href="../coming-soon.php">Content Team Outsourcing</a></li>
+                                                    <li><a href="../services/content_writing_strategy.php">Content Writing & Strategy</a></li>
+                                                    <li><a href="../services/technical-writing-services.php">Technical Writing Services</a></li>
+                                                    <li><a href="../services/White-Papers-Case-Studies.php">Whitepapers & Case Studies</a></li>
+                                                    <li><a href="../services/Content-Team-Outsourcing.php">Content Team Outsourcing</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -179,12 +191,10 @@
                                             <h6 class="title">Industries We Serve</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/logistics-content-marketing.php">Logistics</a>
-                                                    </li>
-                                                    <li><a href="../services/coming-soon.php">Manufacturing</a></li>
-                                                    <li><a href="../services/coming-soon.php">Technology</a></li>
-                                                    <li><a href="../services/ecommerce-content-services.php">E-commerce</a>
-                                                    </li>
+                                                    <li><a href="../services/logistics-content-marketing.php">Logistics</a></li>
+                                                    <li><a href="../services/Industries-We-Serve-Manufacturing.php">Manufacturing</a></li>
+                                                    <li><a href="../services/Industries-We-Serve-Technology.php">Technology</a></li>
+                                                    <li><a href="../services/ecommerce-content-services.php">E-commerce</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -202,12 +212,10 @@
                                             <h6 class="title">Custom Solutions</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../coming-soon.php">Custom eLearning Development</a></li>
-                                                    <li><a href="../coming-soon.php">PowerPoint to eLearning Conversion</a>
-                                                    </li>
-                                                    <li><a href="../coming-soon.php">Mobile Learning / Microlearning</a>
-                                                    </li>
-                                                    <li><a href="../coming-soon.php">Gamified Learning Modules</a></li>
+                                                    <li><a href="../services/Custom-eLearning-Development.php">Custom eLearning Development</a></li>
+                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php">PowerPoint to eLearning Conversion</a></li>
+                                                    <li><a href="../services/Mobile-Learn-Microlearning.php">Mobile Learning / Microlearning</a></li>
+                                                    <li><a href="../services/Gamified-Learning-Modules.php">Gamified Learning Modules</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -215,14 +223,14 @@
                                             <h6 class="title">Use Cases</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="#">Employee Onboarding</a></li>
-                                                    <li><a href="#">Talent Development</a></li>
-                                                    <li><a href="#">Compliance Training</a></li>
-                                                    <li><a href="#">Sales Enablement</a></li>
-                                                    <li><a href="#">Customer Education</a></li>
-                                                    <li><a href="#">Partner Enablement</a></li>
-                                                    <li><a href="#">Frontline Workforce Training</a></li>
-                                                    <li><a href="#">Member Training</a></li>
+                                                    <li><a href="../services/Employee-Onboarding.php">Employee Onboarding</a></li>
+                                                    <li><a href="../services/Talent-Development.php">Talent Development</a></li>
+                                                    <li><a href="../services/Compliance-Training.php">Compliance Training</a></li>
+                                                    <li><a href="../services/Sales-Enablement.php">Sales Enablement</a></li>
+                                                    <li><a href="../services/Customer-Education.php">Customer Education</a></li>
+                                                    <li><a href="../services/Partner-Enablement.php">Partner Enablement</a></li>
+                                                    <li><a href="../services/Frontline-Workforce-Training.php">Frontline Workforce Training</a></li>
+                                                    <li><a href="../services/Member-Training.php">Member Training</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -230,14 +238,14 @@
                                             <h6 class="title">Industries Served</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="#">Software & Tech</a></li>
-                                                    <li><a href="#">Financial Services</a></li>
-                                                    <li><a href="#">Manufacturing</a></li>
-                                                    <li><a href="#">Healthcare</a></li>
-                                                    <li><a href="#">Government</a></li>
-                                                    <li><a href="#">Restaurants & Hospitality</a></li>
-                                                    <li><a href="#">Education</a></li>
-                                                    <li><a href="#">Retail</a></li>
+                                                    <li><a href="../coming-soon.php">Software & Tech</a></li>
+                                                    <li><a href="../coming-soon.php">Financial Services</a></li>
+                                                    <li><a href="../coming-soon.php">Manufacturing</a></li>
+                                                    <li><a href="../coming-soon.php">Healthcare</a></li>
+                                                    <li><a href="../coming-soon.php">Government</a></li>
+                                                    <li><a href="../coming-soon.php">Restaurants & Hospitality</a></li>
+                                                    <li><a href="../coming-soon.php">Education</a></li>
+                                                    <li><a href="../coming-soon.php">Retail</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -246,32 +254,32 @@
                             </ul>
                         </li>
 
-                        <!--li class="dropdown">
-                        <a href="./services/whatsapp-marketing-and-automation.php" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
-                        </ul>
-                    </li-->
+                        <!-- <li class="dropdown">
+                           <a href="./services/whatsapp-marketing-and-automation.php" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
+                           <ul class="dropdown-menu">
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
+                           </ul>
+                       </li> -->
 
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Video Services</a>
                             <ul class="dropdown-menu">
-                                <li><a href="../video/video-services.php">Explainer Videos</a></li>
-                                <li><a href="../video/video-services.php">Demo Videos</a></li>
-                                <li><a href="../video/video-services.php">Video Ads</a></li>
-                                <li><a href="../video/video-services.php">Social Media Videos</a></li>
-                                <li><a href="../video/video-services.php">Repurpose Videos</a></li>
-                                <li><a href="../video/video-services.php">Video Editing</a></li>
-                                <li><a href="../video/video-services.php">How-to Videos</a></li>
-                                <li><a href="../video/video-services.php">Onboarding Videos</a></li>
+                                <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
+                                <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
+                                <li><a href="../services/Video-Ads.php">Video Ads</a></li>
+                                <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
+                                <li><a href="../services/Repurpose-Videos.php">Repurpose Videos</a></li>
+                                <li><a href="../services/Video-Editing.php">Video Editing</a></li>
+                                <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
+                                <li><a href="../services/Onboarding-Videos.php">Onboarding Videos</a></li>
                             </ul>
                         </li>
 
-                        <li><a href="contact-us.php">Contact</a></li>
+                        <li><a href="../contact-us.php">Contact</a></li>
                     </ul>
                 </div><!-- /.navbar-collapse -->
 
@@ -314,305 +322,305 @@
                                         </ul>
                                     </div>
                                     <h1>Mastering Content Flow: Structure Your Website for Maximum UX Impact</h1>
-                               
-                                <p><strong>Introduction</strong></p>
-                                <p>
-                                    Creating an engaging and seamless digital experience begins with a well-planned website content structure. Whether you're building a blog, an e-commerce site, or a corporate portal, how your content is arranged significantly impacts your user experience (UX). Great content layout and intuitive website navigation not only keep users engaged but also guide them effortlessly toward their goals. From skimmable headlines to clearly marked CTAs, every detail contributes to usability and satisfaction.
-                                </p>
-                                <p>
-                                    A good website content structure isn't just about looks—it's about strategy. Effective UX writing complements the design, ensuring clarity, readability, and action. In this blog, we’ll explore the best practices to organize your website content for optimal UX. You'll also learn how <strong>ITD GrowthLabs</strong> offers professional solutions to help you build content that speaks clearly and converts effectively. So, if you're ready to make your website more intuitive, engaging, and conversion-friendly, you're in the right place.
-                                </p>
 
-                                <h2>Why Website Content Structure Matters</h2>
-                                <p>
-                                    A strong website content structure is more than just a layout decision—it’s the blueprint for how users experience your brand online. When content is organized intuitively, it enhances user engagement, improves findability, and supports your overall digital goals. Whether you’re running an eCommerce site, a blog, or a corporate website, a solid content structure is essential for both user experience and search engine optimization (SEO).
-                                </p>
-                                <ul>
-                                    <li>
-                                        <strong>Enhances User Engagement</strong>
-                                        <ul>
-                                            <li>Users visiting your website are typically looking for specific information, a product, or a service. A clear website content structure ensures they can find what they’re seeking without unnecessary friction. When content is broken down into logical categories and pathways:</li>
-                                            <ul>
-                                                <li>Users are more likely to explore multiple pages</li>
-                                                <li>Time-on-site increases</li>
-                                                <li>The likelihood of return visits improves</li>
-                                            </ul>
-                                            <li>Poorly organized websites often frustrate users, leading to early exits and missed opportunities for engagement.</li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <strong>Reduces Bounce Rates</strong>
-                                        <ul>
-                                            <li>Bounce rate is a metric that measures the percentage of users who leave your site after viewing only one page. High bounce rates often indicate that users are not finding the content useful or accessible. With a well-structured website, users are naturally led to explore more sections:</li>
-                                            <ul>
-                                                <li>Related pages are internally linked</li>
-                                                <li>Navigation menus are intuitive</li>
-                                                <li>Calls-to-action (CTAs) are placed logically</li>
-                                            </ul>
-                                            <li>By guiding users seamlessly from one piece of content to another, you reduce bounces and increase the chances of conversion.</li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <strong>Improves SEO</strong>
-                                        <ul>
-                                            <li>Search engines like Google prioritize websites that are easy to crawl and index. A logical content hierarchy, with well-structured headings and properly nested pages, helps search engines understand your site’s purpose and the relationship between different pieces of content. A sound website content structure:</li>
-                                            <ul>
-                                                <li>Utilizes SEO-friendly URLs</li>
-                                                <li>Includes relevant internal links</li>
-                                                <li>Implements proper heading tags (H1, H2, H3, etc.)</li>
-                                                <li>Groups related topics into categories</li>
-                                            </ul>
-                                            <li>All these elements contribute to higher visibility on search engine results pages (SERPs).</li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <strong>Increases Conversions</strong>
-                                        <ul>
-                                            <li>A strategic content layout guides visitors toward your business goals—whether it’s making a purchase, signing up for a newsletter, or contacting your team. Effective structure ensures:</li>
-                                            <ul>
-                                                <li>CTAs are placed at the right points in the user journey</li>
-                                                <li>Forms and key actions are easy to find</li>
-                                                <li>Supporting content (e.g., testimonials, case studies) reinforces trust</li>
-                                            </ul>
-                                            <li>When users don’t have to think about where to click next, they’re more likely to take action.</li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <strong>Guides Users Intuitively</strong>
-                                        <ul>
-                                            <li>Have you ever landed on a website and left within seconds because you couldn’t find what you were looking for? That’s usually a sign of poor website navigation or disorganized content layout. A well-structured website eliminates guesswork:</li>
-                                            <ul>
-                                                <li>Breadcrumb trails show users where they are</li>
-                                                <li>Menu items reflect content categories accurately</li>
-                                                <li>Mobile responsiveness supports all screen sizes</li>
-                                            </ul>
-                                            <li>When users feel in control of their experience, they are more likely to stay, explore, and convert.</li>
-                                        </ul>
-                                    </li>
-                                </ul>
+                                    <p><strong>Introduction</strong></p>
+                                    <p>
+                                        Creating an engaging and seamless digital experience begins with a well-planned website content structure. Whether you're building a blog, an e-commerce site, or a corporate portal, how your content is arranged significantly impacts your user experience (UX). Great content layout and intuitive website navigation not only keep users engaged but also guide them effortlessly toward their goals. From skimmable headlines to clearly marked CTAs, every detail contributes to usability and satisfaction.
+                                    </p>
+                                    <p>
+                                        A good website content structure isn't just about looks—it's about strategy. Effective UX writing complements the design, ensuring clarity, readability, and action. In this blog, we’ll explore the best practices to organize your website content for optimal UX. You'll also learn how <strong>ITD GrowthLabs</strong> offers professional solutions to help you build content that speaks clearly and converts effectively. So, if you're ready to make your website more intuitive, engaging, and conversion-friendly, you're in the right place.
+                                    </p>
 
-                                <h2>Principles of Effective UX Writing</h2>
-                                <p>
-                                    UX writing is not just about crafting clever phrases—it’s a crucial component of a website’s user experience. It acts as the invisible guide, helping users interact seamlessly with your product or service. From call-to-action buttons to error messages, every word matters. Effective UX writing ensures users don’t get lost, frustrated, or confused. It supports usability, strengthens brand identity, and boosts overall engagement.
-                                </p>
-                                <ul>
-                                    <li>
-                                        <strong>Keep Language Clear and Concise</strong>
-                                        <ul>
-                                            <li>Clarity is the foundation of good UX writing. Users typically scan content, looking for immediate value or direction. Overly complex language slows them down and causes friction.</li>
+                                    <h2>Why Website Content Structure Matters</h2>
+                                    <p>
+                                        A strong website content structure is more than just a layout decision—it’s the blueprint for how users experience your brand online. When content is organized intuitively, it enhances user engagement, improves findability, and supports your overall digital goals. Whether you’re running an eCommerce site, a blog, or a corporate website, a solid content structure is essential for both user experience and search engine optimization (SEO).
+                                    </p>
+                                    <ul>
+                                        <li>
+                                            <strong>Enhances User Engagement</strong>
                                             <ul>
-                                                <li>Use simple, direct language</li>
-                                                <li>Eliminate unnecessary words</li>
-                                                <li>Avoid jargon unless your audience expects it</li>
-                                                <li>Focus on intent: What does the user need to do next?</li>
+                                                <li>Users visiting your website are typically looking for specific information, a product, or a service. A clear website content structure ensures they can find what they’re seeking without unnecessary friction. When content is broken down into logical categories and pathways:</li>
+                                                <ul>
+                                                    <li>Users are more likely to explore multiple pages</li>
+                                                    <li>Time-on-site increases</li>
+                                                    <li>The likelihood of return visits improves</li>
+                                                </ul>
+                                                <li>Poorly organized websites often frustrate users, leading to early exits and missed opportunities for engagement.</li>
                                             </ul>
-                                            <li>For example, instead of saying “Submit your request for approval,” say “Send request.”</li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <strong>Write for Scanners</strong>
-                                        <ul>
-                                            <li>Most users scan content rather than read every word. Your UX copy must be formatted for quick navigation.</li>
+                                        </li>
+                                        <li>
+                                            <strong>Reduces Bounce Rates</strong>
                                             <ul>
-                                                <li>Use headings and subheadings to break up text</li>
-                                                <li>Add bullet points for clarity</li>
-                                                <li>Highlight key actions or messages</li>
-                                                <li>Prioritize important information first (top-loading)</li>
+                                                <li>Bounce rate is a metric that measures the percentage of users who leave your site after viewing only one page. High bounce rates often indicate that users are not finding the content useful or accessible. With a well-structured website, users are naturally led to explore more sections:</li>
+                                                <ul>
+                                                    <li>Related pages are internally linked</li>
+                                                    <li>Navigation menus are intuitive</li>
+                                                    <li>Calls-to-action (CTAs) are placed logically</li>
+                                                </ul>
+                                                <li>By guiding users seamlessly from one piece of content to another, you reduce bounces and increase the chances of conversion.</li>
                                             </ul>
-                                            <li>When users can quickly find what they need, they’re more likely to follow through on intended actions.</li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <strong>Be Conversational, Yet Professional</strong>
-                                        <ul>
-                                            <li>UX writing should feel human, relatable, and in line with your brand voice. The goal is to build trust through clarity and tone.</li>
+                                        </li>
+                                        <li>
+                                            <strong>Improves SEO</strong>
                                             <ul>
-                                                <li>Use contractions (“you’re,” “it’s”) when appropriate</li>
-                                                <li>Avoid robotic, overly formal language</li>
-                                                <li>Reflect your brand personality, whether it’s friendly, quirky, or authoritative</li>
+                                                <li>Search engines like Google prioritize websites that are easy to crawl and index. A logical content hierarchy, with well-structured headings and properly nested pages, helps search engines understand your site’s purpose and the relationship between different pieces of content. A sound website content structure:</li>
+                                                <ul>
+                                                    <li>Utilizes SEO-friendly URLs</li>
+                                                    <li>Includes relevant internal links</li>
+                                                    <li>Implements proper heading tags (H1, H2, H3, etc.)</li>
+                                                    <li>Groups related topics into categories</li>
+                                                </ul>
+                                                <li>All these elements contribute to higher visibility on search engine results pages (SERPs).</li>
                                             </ul>
-                                            <li>Striking the right balance between professional and conversational helps users feel comfortable and confident.</li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <strong>Use Active Voice and Guide Actions</strong>
-                                        <ul>
-                                            <li>Active voice is more engaging and direct. It makes instructions clearer and helps users understand what they’re supposed to do.</li>
+                                        </li>
+                                        <li>
+                                            <strong>Increases Conversions</strong>
                                             <ul>
-                                                <li>Replace passive statements with actionable phrases</li>
-                                                <li>Instead of “Your account has been created,” use “You’ve created your account!”</li>
-                                                <li>Instead of “This form must be completed,” say “Complete the form to continue”</li>
+                                                <li>A strategic content layout guides visitors toward your business goals—whether it’s making a purchase, signing up for a newsletter, or contacting your team. Effective structure ensures:</li>
+                                                <ul>
+                                                    <li>CTAs are placed at the right points in the user journey</li>
+                                                    <li>Forms and key actions are easy to find</li>
+                                                    <li>Supporting content (e.g., testimonials, case studies) reinforces trust</li>
+                                                </ul>
+                                                <li>When users don’t have to think about where to click next, they’re more likely to take action.</li>
                                             </ul>
-                                            <li>Actionable UX copy improves interaction and reduces hesitation.</li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <strong>Create Consistent Microcopy</strong>
-                                        <ul>
-                                            <li>Consistency in microcopy—the small bits of text like buttons, form labels, menu items, and tooltips—is essential. Inconsistent language can confuse users and damage brand credibility.</li>
+                                        </li>
+                                        <li>
+                                            <strong>Guides Users Intuitively</strong>
                                             <ul>
-                                                <li>Use the same terms for actions across the site (“Buy now” vs. “Purchase”)</li>
-                                                <li>Standardize tone and phrasing in buttons, forms, and alerts</li>
-                                                <li>Align tooltips and help text with the user’s stage in the journey</li>
+                                                <li>Have you ever landed on a website and left within seconds because you couldn’t find what you were looking for? That’s usually a sign of poor website navigation or disorganized content layout. A well-structured website eliminates guesswork:</li>
+                                                <ul>
+                                                    <li>Breadcrumb trails show users where they are</li>
+                                                    <li>Menu items reflect content categories accurately</li>
+                                                    <li>Mobile responsiveness supports all screen sizes</li>
+                                                </ul>
+                                                <li>When users feel in control of their experience, they are more likely to stay, explore, and convert.</li>
                                             </ul>
-                                            <li>These small words have a big impact on trust and navigation flow.</li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <strong>Test and Optimize Continuously</strong>
-                                        <ul>
-                                            <li>UX writing is not static—it should evolve with user behavior and business goals. Use tools and testing methods to refine your language.</li>
-                                            <ul>
-                                                <li>Use tools like Hemingway or Grammarly to simplify and polish tone</li>
-                                                <li>Conduct A/B tests on CTAs, headlines, and onboarding copy</li>
-                                                <li>Gather user feedback on clarity and usability</li>
-                                            </ul>
-                                            <li>Do your call-to-actions encourage clicks or cause confusion? Your UX writing should make the next step obvious and compelling.</li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <strong>Maintain Tone Consistency Across Pages</strong>
-                                        <ul>
-                                            <li>Your tone of voice should be unified throughout the entire user journey. Whether your brand voice is casual or formal, consistency builds familiarity and strengthens user trust.</li>
-                                            <ul>
-                                                <li>Match the tone in headers, body text, and micro-interactions</li>
-                                                <li>Avoid sudden shifts in voice between sections or pages</li>
-                                                <li>Review messaging regularly for coherence</li>
-                                            </ul>
-                                            <li>Consistent UX writing fosters a smooth, trustworthy experience that keeps users engaged and moving forward.</li>
-                                        </ul>
-                                    </li>
-                                </ul>
+                                        </li>
+                                    </ul>
 
-                                <h2>Organizing Your Content Layout for User Flow</h2>
-                                <p>
-                                    Your content layout must align with how users naturally interact with content online. Heatmaps show that users tend to scan in an F-pattern or Z-pattern—organize accordingly.
-                                </p>
-                                <p>
-                                    <strong>Pro tips for content layout:</strong>
-                                </p>
-                                <ul>
-                                    <li>Place key messages at the top (above the fold)</li>
-                                    <li>Group related information using visual hierarchy</li>
-                                    <li>Break content into sections using whitespace</li>
-                                    <li>Use headings and subheadings for structure</li>
-                                </ul>
-                                <p>
-                                    A well-structured content layout makes reading easier and encourages deeper engagement.<br>
-                                    <em>Is your current layout helping or hindering your visitors from reaching their goals?</em>
-                                </p>
-                                <p>
-                                    Beyond this, your content layout must be responsive. Mobile users often face clunky or misaligned layouts, which can increase bounce rates. Designing mobile-first or using flexible grids ensures your content is digestible on every screen size.
-                                </p>
-                                <p>
-                                    Also, leverage visual cues like icons, images, and infographics to reinforce message clarity.
-                                </p>
+                                    <h2>Principles of Effective UX Writing</h2>
+                                    <p>
+                                        UX writing is not just about crafting clever phrases—it’s a crucial component of a website’s user experience. It acts as the invisible guide, helping users interact seamlessly with your product or service. From call-to-action buttons to error messages, every word matters. Effective UX writing ensures users don’t get lost, frustrated, or confused. It supports usability, strengthens brand identity, and boosts overall engagement.
+                                    </p>
+                                    <ul>
+                                        <li>
+                                            <strong>Keep Language Clear and Concise</strong>
+                                            <ul>
+                                                <li>Clarity is the foundation of good UX writing. Users typically scan content, looking for immediate value or direction. Overly complex language slows them down and causes friction.</li>
+                                                <ul>
+                                                    <li>Use simple, direct language</li>
+                                                    <li>Eliminate unnecessary words</li>
+                                                    <li>Avoid jargon unless your audience expects it</li>
+                                                    <li>Focus on intent: What does the user need to do next?</li>
+                                                </ul>
+                                                <li>For example, instead of saying “Submit your request for approval,” say “Send request.”</li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <strong>Write for Scanners</strong>
+                                            <ul>
+                                                <li>Most users scan content rather than read every word. Your UX copy must be formatted for quick navigation.</li>
+                                                <ul>
+                                                    <li>Use headings and subheadings to break up text</li>
+                                                    <li>Add bullet points for clarity</li>
+                                                    <li>Highlight key actions or messages</li>
+                                                    <li>Prioritize important information first (top-loading)</li>
+                                                </ul>
+                                                <li>When users can quickly find what they need, they’re more likely to follow through on intended actions.</li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <strong>Be Conversational, Yet Professional</strong>
+                                            <ul>
+                                                <li>UX writing should feel human, relatable, and in line with your brand voice. The goal is to build trust through clarity and tone.</li>
+                                                <ul>
+                                                    <li>Use contractions (“you’re,” “it’s”) when appropriate</li>
+                                                    <li>Avoid robotic, overly formal language</li>
+                                                    <li>Reflect your brand personality, whether it’s friendly, quirky, or authoritative</li>
+                                                </ul>
+                                                <li>Striking the right balance between professional and conversational helps users feel comfortable and confident.</li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <strong>Use Active Voice and Guide Actions</strong>
+                                            <ul>
+                                                <li>Active voice is more engaging and direct. It makes instructions clearer and helps users understand what they’re supposed to do.</li>
+                                                <ul>
+                                                    <li>Replace passive statements with actionable phrases</li>
+                                                    <li>Instead of “Your account has been created,” use “You’ve created your account!”</li>
+                                                    <li>Instead of “This form must be completed,” say “Complete the form to continue”</li>
+                                                </ul>
+                                                <li>Actionable UX copy improves interaction and reduces hesitation.</li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <strong>Create Consistent Microcopy</strong>
+                                            <ul>
+                                                <li>Consistency in microcopy—the small bits of text like buttons, form labels, menu items, and tooltips—is essential. Inconsistent language can confuse users and damage brand credibility.</li>
+                                                <ul>
+                                                    <li>Use the same terms for actions across the site (“Buy now” vs. “Purchase”)</li>
+                                                    <li>Standardize tone and phrasing in buttons, forms, and alerts</li>
+                                                    <li>Align tooltips and help text with the user’s stage in the journey</li>
+                                                </ul>
+                                                <li>These small words have a big impact on trust and navigation flow.</li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <strong>Test and Optimize Continuously</strong>
+                                            <ul>
+                                                <li>UX writing is not static—it should evolve with user behavior and business goals. Use tools and testing methods to refine your language.</li>
+                                                <ul>
+                                                    <li>Use tools like Hemingway or Grammarly to simplify and polish tone</li>
+                                                    <li>Conduct A/B tests on CTAs, headlines, and onboarding copy</li>
+                                                    <li>Gather user feedback on clarity and usability</li>
+                                                </ul>
+                                                <li>Do your call-to-actions encourage clicks or cause confusion? Your UX writing should make the next step obvious and compelling.</li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <strong>Maintain Tone Consistency Across Pages</strong>
+                                            <ul>
+                                                <li>Your tone of voice should be unified throughout the entire user journey. Whether your brand voice is casual or formal, consistency builds familiarity and strengthens user trust.</li>
+                                                <ul>
+                                                    <li>Match the tone in headers, body text, and micro-interactions</li>
+                                                    <li>Avoid sudden shifts in voice between sections or pages</li>
+                                                    <li>Review messaging regularly for coherence</li>
+                                                </ul>
+                                                <li>Consistent UX writing fosters a smooth, trustworthy experience that keeps users engaged and moving forward.</li>
+                                            </ul>
+                                        </li>
+                                    </ul>
 
-                                <h2>Streamlining Website Navigation for Simplicity</h2>
-                                <p>
-                                    Website navigation is one of the most critical elements influencing user experience. No matter how visually stunning your website may be, if users can’t find what they’re looking for quickly and effortlessly, they’ll leave. A confusing or cluttered navigation system can increase bounce rates and reduce conversions. To keep users engaged, navigation must be simple, predictable, and intuitively structured across all devices.
-                                </p>
-                                <ul>
-                                    <li>
-                                        <strong>Limit Main Navigation to 5–7 Items</strong>
-                                        <ul>
-                                            <li>The human brain can comfortably process a limited number of choices. Overwhelming users with too many navigation options leads to decision fatigue.</li>
-                                            <ul>
-                                                <li>Keep the main navigation menu focused on 5 to 7 core items</li>
-                                                <li>Group related content under clear submenus</li>
-                                                <li>Prioritize the most visited or conversion-focused pages</li>
-                                                <li>Avoid nesting menus too deeply—ideally, users should reach any page within three clicks</li>
-                                            </ul>
-                                            <li>Simplicity supports clarity and reduces friction in the user journey.</li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <strong>Use Consistent Labels and Menus</strong>
-                                        <ul>
-                                            <li>Consistency is crucial for building user trust and reducing confusion. Whether it’s your homepage, landing pages, or product categories, naming conventions and menu behaviors must remain uniform.</li>
-                                            <ul>
-                                                <li>Use clear, action-oriented labels (e.g., “Get a Quote,” not “Start”)</li>
-                                                <li>Keep menu placement and style consistent across all pages</li>
-                                                <li>Avoid technical jargon—speak your user’s language</li>
-                                                <li>Match labels in navigation to corresponding page titles</li>
-                                            </ul>
-                                            <li>When users always know what to expect, they’re more likely to stay and explore further.</li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <strong>Implement Breadcrumb Trails</strong>
-                                        <ul>
-                                            <li>Breadcrumb trails offer users a secondary navigation system that helps them understand where they are within the site’s hierarchy.</li>
-                                            <ul>
-                                                <li>Provide a clear path back to previous categories or homepage</li>
-                                                <li>Improve user orientation on complex or content-heavy sites</li>
-                                                <li>Enhance SEO by reinforcing internal linking structure</li>
-                                            </ul>
-                                            <li>Breadcrumbs are especially helpful for eCommerce stores and blog archives, where users might land deep within the site from search results.</li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <strong>Ensure Mobile Responsiveness</strong>
-                                        <ul>
-                                            <li>As mobile traffic continues to rise, mobile-friendly navigation is no longer optional. Your navigation system must adapt smoothly across all screen sizes and devices.</li>
-                                            <ul>
-                                                <li>Use collapsible hamburger menus for compact navigation</li>
-                                                <li>Ensure clickable areas are large enough for touch</li>
-                                                <li>Keep dropdowns and pop-ups functional and accessible on mobile</li>
-                                                <li>Test frequently across devices to catch usability issues</li>
-                                            </ul>
-                                            <li>Have you tested your navigation on different screen sizes? A poor mobile experience is a major reason users abandon sites.</li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <strong>Extend Navigation Beyond Menus</strong>
-                                        <ul>
-                                            <li>Website navigation goes beyond the header menu. Users interact with a variety of elements throughout their journey, and all should be designed to guide them intuitively.</li>
-                                            <ul>
-                                                <li>Use footers to repeat key links and offer additional navigation paths</li>
-                                                <li>Add in-content links to related topics or actions</li>
-                                                <li>Customize 404 error pages with useful navigation options and search bars</li>
-                                                <li>Use sidebars or sticky menus to anchor long-form pages</li>
-                                            </ul>
-                                            <li>Each of these elements contributes to a holistic navigation experience that keeps users oriented and engaged.</li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <strong>Analyze and Optimize Navigation Behavior</strong>
-                                        <ul>
-                                            <li>Creating intuitive website navigation also means understanding how users behave on your site. Use data to continuously improve.</li>
-                                            <ul>
-                                                <li>Use tools like Google Analytics to track click paths and drop-off points</li>
-                                                <li>Leverage Hotjar or heatmap tools to visualize navigation patterns</li>
-                                                <li>Conduct user testing to uncover usability pain points</li>
-                                                <li>Monitor search queries on-site to identify content gaps</li>
-                                            </ul>
-                                            <li>Regular optimization of your navigation structure ensures it evolves with user expectations and business goals.</li>
-                                        </ul>
-                                    </li>
-                                </ul>
+                                    <h2>Organizing Your Content Layout for User Flow</h2>
+                                    <p>
+                                        Your content layout must align with how users naturally interact with content online. Heatmaps show that users tend to scan in an F-pattern or Z-pattern—organize accordingly.
+                                    </p>
+                                    <p>
+                                        <strong>Pro tips for content layout:</strong>
+                                    </p>
+                                    <ul>
+                                        <li>Place key messages at the top (above the fold)</li>
+                                        <li>Group related information using visual hierarchy</li>
+                                        <li>Break content into sections using whitespace</li>
+                                        <li>Use headings and subheadings for structure</li>
+                                    </ul>
+                                    <p>
+                                        A well-structured content layout makes reading easier and encourages deeper engagement.<br>
+                                        <em>Is your current layout helping or hindering your visitors from reaching their goals?</em>
+                                    </p>
+                                    <p>
+                                        Beyond this, your content layout must be responsive. Mobile users often face clunky or misaligned layouts, which can increase bounce rates. Designing mobile-first or using flexible grids ensures your content is digestible on every screen size.
+                                    </p>
+                                    <p>
+                                        Also, leverage visual cues like icons, images, and infographics to reinforce message clarity.
+                                    </p>
 
-                                <h2>The Role of Content Hierarchy in UX</h2>
-                                <p>
-                                    A logical website content structure depends on a well-planned hierarchy. Headlines, subheads, and body content should follow a flow that mirrors your users’ decision-making process.
-                                </p>
-                                <p>
-                                    <strong>Tips for creating a content hierarchy:</strong>
-                                </p>
-                                <ul>
-                                    <li>Prioritize content by user needs</li>
-                                    <li>Use H1 for main headings, H2s and H3s for supporting topics</li>
-                                    <li>Highlight CTAs clearly within each section</li>
-                                    <li>Keep paragraphs short and readable</li>
-                                </ul>
-                                <p>
-                                    A strategic hierarchy not only improves content layout, but it also enhances SEO and accessibility.<br>
-                                    Avoid overwhelming users with blocks of text. Break down information into skimmable chunks. Make smart use of bullet points and numbered lists where appropriate.
-                                </p>
-                                <p>
-                                    When designing hierarchy, align it with your brand objectives. Are you leading users toward making a purchase? Signing up for a service? Each step in your website content structure should make the next action obvious.
-                                </p>
-                               
+                                    <h2>Streamlining Website Navigation for Simplicity</h2>
+                                    <p>
+                                        Website navigation is one of the most critical elements influencing user experience. No matter how visually stunning your website may be, if users can’t find what they’re looking for quickly and effortlessly, they’ll leave. A confusing or cluttered navigation system can increase bounce rates and reduce conversions. To keep users engaged, navigation must be simple, predictable, and intuitively structured across all devices.
+                                    </p>
+                                    <ul>
+                                        <li>
+                                            <strong>Limit Main Navigation to 5–7 Items</strong>
+                                            <ul>
+                                                <li>The human brain can comfortably process a limited number of choices. Overwhelming users with too many navigation options leads to decision fatigue.</li>
+                                                <ul>
+                                                    <li>Keep the main navigation menu focused on 5 to 7 core items</li>
+                                                    <li>Group related content under clear submenus</li>
+                                                    <li>Prioritize the most visited or conversion-focused pages</li>
+                                                    <li>Avoid nesting menus too deeply—ideally, users should reach any page within three clicks</li>
+                                                </ul>
+                                                <li>Simplicity supports clarity and reduces friction in the user journey.</li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <strong>Use Consistent Labels and Menus</strong>
+                                            <ul>
+                                                <li>Consistency is crucial for building user trust and reducing confusion. Whether it’s your homepage, landing pages, or product categories, naming conventions and menu behaviors must remain uniform.</li>
+                                                <ul>
+                                                    <li>Use clear, action-oriented labels (e.g., “Get a Quote,” not “Start”)</li>
+                                                    <li>Keep menu placement and style consistent across all pages</li>
+                                                    <li>Avoid technical jargon—speak your user’s language</li>
+                                                    <li>Match labels in navigation to corresponding page titles</li>
+                                                </ul>
+                                                <li>When users always know what to expect, they’re more likely to stay and explore further.</li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <strong>Implement Breadcrumb Trails</strong>
+                                            <ul>
+                                                <li>Breadcrumb trails offer users a secondary navigation system that helps them understand where they are within the site’s hierarchy.</li>
+                                                <ul>
+                                                    <li>Provide a clear path back to previous categories or homepage</li>
+                                                    <li>Improve user orientation on complex or content-heavy sites</li>
+                                                    <li>Enhance SEO by reinforcing internal linking structure</li>
+                                                </ul>
+                                                <li>Breadcrumbs are especially helpful for eCommerce stores and blog archives, where users might land deep within the site from search results.</li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <strong>Ensure Mobile Responsiveness</strong>
+                                            <ul>
+                                                <li>As mobile traffic continues to rise, mobile-friendly navigation is no longer optional. Your navigation system must adapt smoothly across all screen sizes and devices.</li>
+                                                <ul>
+                                                    <li>Use collapsible hamburger menus for compact navigation</li>
+                                                    <li>Ensure clickable areas are large enough for touch</li>
+                                                    <li>Keep dropdowns and pop-ups functional and accessible on mobile</li>
+                                                    <li>Test frequently across devices to catch usability issues</li>
+                                                </ul>
+                                                <li>Have you tested your navigation on different screen sizes? A poor mobile experience is a major reason users abandon sites.</li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <strong>Extend Navigation Beyond Menus</strong>
+                                            <ul>
+                                                <li>Website navigation goes beyond the header menu. Users interact with a variety of elements throughout their journey, and all should be designed to guide them intuitively.</li>
+                                                <ul>
+                                                    <li>Use footers to repeat key links and offer additional navigation paths</li>
+                                                    <li>Add in-content links to related topics or actions</li>
+                                                    <li>Customize 404 error pages with useful navigation options and search bars</li>
+                                                    <li>Use sidebars or sticky menus to anchor long-form pages</li>
+                                                </ul>
+                                                <li>Each of these elements contributes to a holistic navigation experience that keeps users oriented and engaged.</li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <strong>Analyze and Optimize Navigation Behavior</strong>
+                                            <ul>
+                                                <li>Creating intuitive website navigation also means understanding how users behave on your site. Use data to continuously improve.</li>
+                                                <ul>
+                                                    <li>Use tools like Google Analytics to track click paths and drop-off points</li>
+                                                    <li>Leverage Hotjar or heatmap tools to visualize navigation patterns</li>
+                                                    <li>Conduct user testing to uncover usability pain points</li>
+                                                    <li>Monitor search queries on-site to identify content gaps</li>
+                                                </ul>
+                                                <li>Regular optimization of your navigation structure ensures it evolves with user expectations and business goals.</li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+
+                                    <h2>The Role of Content Hierarchy in UX</h2>
+                                    <p>
+                                        A logical website content structure depends on a well-planned hierarchy. Headlines, subheads, and body content should follow a flow that mirrors your users’ decision-making process.
+                                    </p>
+                                    <p>
+                                        <strong>Tips for creating a content hierarchy:</strong>
+                                    </p>
+                                    <ul>
+                                        <li>Prioritize content by user needs</li>
+                                        <li>Use H1 for main headings, H2s and H3s for supporting topics</li>
+                                        <li>Highlight CTAs clearly within each section</li>
+                                        <li>Keep paragraphs short and readable</li>
+                                    </ul>
+                                    <p>
+                                        A strategic hierarchy not only improves content layout, but it also enhances SEO and accessibility.<br>
+                                        Avoid overwhelming users with blocks of text. Break down information into skimmable chunks. Make smart use of bullet points and numbered lists where appropriate.
+                                    </p>
+                                    <p>
+                                        When designing hierarchy, align it with your brand objectives. Are you leading users toward making a purchase? Signing up for a service? Each step in your website content structure should make the next action obvious.
+                                    </p>
+
                                 </div>
                             </div>
                         </div>
@@ -723,11 +731,11 @@
 
                             <h4 class="widget-title">WhatsApp Marketing</h4>
                             <ul>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flows</a></li>
                             </ul>
                         </div>
                     </div>
@@ -737,24 +745,26 @@
                         <div class="f-item link">
                             <h4 class="widget-title">Video Services</h4>
                             <ul>
-                                <li><a href="../video/video-services.php">Explainer Videos</a></li>
-                                <li><a href="../video/video-services.php">Demo Videos</a></li>
-                                <li><a href="../video/video-services.php">Social Media Videos</a></li>
-                                <li><a href="../video/video-services.php">Video Editing</a></li>
-                                <li><a href="../video/video-services.php">How-to Videos</a></li>
+                                <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
+                                <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
+                                <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
+                                <li><a href="../services/Video-Editing.php">Video Editing</a></li>
+                                <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
+                            </ul>
                             </ul>
                         </div>
                     </div>
+
 
                     <!-- Data Services -->
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">Data Services</h4>
                             <ul>
-                                <li><a href="../coming-soon.php">Documents & PDF Data Entry Services</a></li>
-                                <li><a href="../coming-soon.php">Offline Data Entry Services</a></li>
-                                <li><a href="../coming-soon.php">Online Data Entry Services</a></li>
-                                <li><a href="../coming-soon.php">Product Data Entry Services</a></li>
+                                <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry Services</a></li>
+                                <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
+                                <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
+                                <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
                             </ul>
                         </div>
                     </div>
@@ -763,10 +773,10 @@
                         <div class="f-item link">
                             <h4 class="widget-title">Data Annotation Services</h4>
                             <ul>
-                                <li><a href="../coming-soon.php">Data Labeling Services</a></li>
-                                <li><a href="../coming-soon.php">Image Annotation Services</a></li>
-                                <li><a href="../coming-soon.php">Text Annotation Services</a></li>
-                                <li><a href="../coming-soon.php">Video Annotation Services</a></li>
+                                <li><a href="../data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
+                                <li><a href="../data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
+                                <li><a href="../data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
+                                <li><a href="../data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
                             </ul>
                         </div>
                     </div>
@@ -798,7 +808,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <p>Copyright &copy; 2025 <a href="https://www.itdgrowthlabs.com/">ITD GrowthLabs</a> All Rights Reserved</p>
+                        <p>Copyright &copy; 2025 ITD GrowthLabs All Rights Reserved</p>
                     </div>
                 </div>
             </div>

@@ -68,7 +68,7 @@
             </div>
             <!-- End Top Search -->
 
-            <div class="container d-flex justify-content-between align-items-center">
+            <div class="d-flex justify-content-between align-items-center">
                 <!-- Start Header Navigation -->
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
@@ -97,31 +97,26 @@
                                             <h6 class="title">Core Tech Services</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/website-development-company.php">Website Design
-                                                            & Development</a></li>
-                                                    <li><a href="../coming-soon.php">Template-Based Website Development</a>
+                                                    <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
+                                                    <li><a href="../services/Template-Based-Website-Development.php">Template-Based Website Development</a>
                                                     </li>
-                                                    <li><a href="../coming-soon.php">WordPress Website Development</a></li>
-                                                    <li><a href="../coming-soon.php">Custom Website Development</a></li>
-                                                    <li><a href="../coming-soon.php">E-commerce Website Development</a></li>
+                                                    <li><a href="../services/WordPress-Website-Development.php">WordPress Website Development</a></li>
+                                                    <li><a href="../services/Custom-Website-Development.php">Custom Website Development</a></li>
+                                                    <li><a href="../services/E-commerce-Website-Development.php">E-commerce Website Development</a></li>
 
                                                 </ul>
                                             </div>
                                         </div>
+
                                         <div class="col-menu col-lg-4">
                                             <h6 class="title">End-to-End Services</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/website-development-company.php">Website Design
-                                                            & Development</a></li>
-                                                    <li><a href="../services/content-marketing-services.php">Content
-                                                            Marketing Services</a></li>
-                                                    <li><a href="../services/seo-auditing-services.php">SEO Audit and
-                                                            Optimization</a></li>
-                                                    <li><a href="../services/social-media-marketing.php">Social Media
-                                                            Marketing</a></li>
-                                                    <li><a href="../services/google-search-ads-services.php">Google Search
-                                                            Ads</a></li>
+                                                    <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
+                                                    <li><a href="../services/content-marketing-services.php">Content Marketing Services</a></li>
+                                                    <li><a href="../services/seo-auditing-services.php">SEO Audit and Optimization</a></li>
+                                                    <li><a href="../services/social-media-marketing.php">Social Media Marketing</a></li>
+                                                    <li><a href="../services/google-search-ads-services.php">Google Search Ads</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -130,9 +125,9 @@
                                             <div class="content">
                                                 <ul class="menu-col">
 
-                                                    <li><a href="../coming-soon.php">App Development</a></li>
-                                                    <li><a href="../coming-soon.php">IT Outsourcing Services</a></li>
-                                                    <li><a href="../coming-soon.php">IT Team Outsourcing</a></li>
+                                                    <li><a href="../services/App-Development.php">App Development</a></li>
+                                                    <li><a href="../services/IT-Outsourcing-Services.php">IT Outsourcing Services</a></li>
+                                                    <li><a href="../services/IT-Team-Outsourcing.php">IT Team Outsourcing</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -140,8 +135,30 @@
                                 </li>
                             </ul>
                         </li>
-
-
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flow</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data Services</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
+                                <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
+                                <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
+                                <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
+                                <li><a href="../data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
+                                <li><a href="../data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
+                                <li><a href="../data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
+                                <li><a href="../data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
+                                <li><a href="../data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
+                            </ul>
+                        </li>
                         <li class="dropdown megamenu-fw">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Content Services</a>
                             <ul class="dropdown-menu megamenu-content" role="menu">
@@ -151,16 +168,11 @@
                                             <h6 class="title">SEO &amp; Content Writing</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/website-content-writing.php">Website Content
-                                                            Writing</a></li>
-                                                    <li><a href="../services/seo-article-writing.php">SEO Article
-                                                            Writing</a></li>
-                                                    <li><a href="../services/blog-writing-services.php">Blog Writing</a>
-                                                    </li>
-                                                    <li><a href="../services/case-study-writing-services.php">Case Study
-                                                            Writing</a></li>
-                                                    <li><a href="../services/product-description-writing-services.php">Product
-                                                            Description</a></li>
+                                                    <li><a href="../services/website-content-writing.php">Website Content Writing</a></li>
+                                                    <li><a href="../services/seo-article-writing.php">SEO Article Writing</a></li>
+                                                    <li><a href="../services/blog-writing-services.php">Blog Writing</a></li>
+                                                    <li><a href="../services/case-study-writing-services.php">Case Study Writing</a></li>
+                                                    <li><a href="../services/product-description-writing-services.php">Product Description</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -168,10 +180,10 @@
                                             <h6 class="title">Specialized Content Services</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../coming-soon.php">Content Writing & Strategy</a></li>
-                                                    <li><a href="../coming-soon.php">Technical Writing Services</a></li>
-                                                    <li><a href="../coming-soon.php">Whitepapers & Case Studies</a></li>
-                                                    <li><a href="../coming-soon.php">Content Team Outsourcing</a></li>
+                                                    <li><a href="../services/content_writing_strategy.php">Content Writing & Strategy</a></li>
+                                                    <li><a href="../services/technical-writing-services.php">Technical Writing Services</a></li>
+                                                    <li><a href="../services/White-Papers-Case-Studies.php">Whitepapers & Case Studies</a></li>
+                                                    <li><a href="../services/Content-Team-Outsourcing.php">Content Team Outsourcing</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -179,12 +191,10 @@
                                             <h6 class="title">Industries We Serve</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/logistics-content-marketing.php">Logistics</a>
-                                                    </li>
-                                                    <li><a href="../services/coming-soon.php">Manufacturing</a></li>
-                                                    <li><a href="../services/coming-soon.php">Technology</a></li>
-                                                    <li><a href="../services/ecommerce-content-services.php">E-commerce</a>
-                                                    </li>
+                                                    <li><a href="../services/logistics-content-marketing.php">Logistics</a></li>
+                                                    <li><a href="../services/Industries-We-Serve-Manufacturing.php">Manufacturing</a></li>
+                                                    <li><a href="../services/Industries-We-Serve-Technology.php">Technology</a></li>
+                                                    <li><a href="../services/ecommerce-content-services.php">E-commerce</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -202,12 +212,10 @@
                                             <h6 class="title">Custom Solutions</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../coming-soon.php">Custom eLearning Development</a></li>
-                                                    <li><a href="../coming-soon.php">PowerPoint to eLearning Conversion</a>
-                                                    </li>
-                                                    <li><a href="../coming-soon.php">Mobile Learning / Microlearning</a>
-                                                    </li>
-                                                    <li><a href="../coming-soon.php">Gamified Learning Modules</a></li>
+                                                    <li><a href="../services/Custom-eLearning-Development.php">Custom eLearning Development</a></li>
+                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php">PowerPoint to eLearning Conversion</a></li>
+                                                    <li><a href="../services/Mobile-Learn-Microlearning.php">Mobile Learning / Microlearning</a></li>
+                                                    <li><a href="../services/Gamified-Learning-Modules.php">Gamified Learning Modules</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -215,14 +223,14 @@
                                             <h6 class="title">Use Cases</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="#">Employee Onboarding</a></li>
-                                                    <li><a href="#">Talent Development</a></li>
-                                                    <li><a href="#">Compliance Training</a></li>
-                                                    <li><a href="#">Sales Enablement</a></li>
-                                                    <li><a href="#">Customer Education</a></li>
-                                                    <li><a href="#">Partner Enablement</a></li>
-                                                    <li><a href="#">Frontline Workforce Training</a></li>
-                                                    <li><a href="#">Member Training</a></li>
+                                                    <li><a href="../services/Employee-Onboarding.php">Employee Onboarding</a></li>
+                                                    <li><a href="../services/Talent-Development.php">Talent Development</a></li>
+                                                    <li><a href="../services/Compliance-Training.php">Compliance Training</a></li>
+                                                    <li><a href="../services/Sales-Enablement.php">Sales Enablement</a></li>
+                                                    <li><a href="../services/Customer-Education.php">Customer Education</a></li>
+                                                    <li><a href="../services/Partner-Enablement.php">Partner Enablement</a></li>
+                                                    <li><a href="../services/Frontline-Workforce-Training.php">Frontline Workforce Training</a></li>
+                                                    <li><a href="../services/Member-Training.php">Member Training</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -230,14 +238,14 @@
                                             <h6 class="title">Industries Served</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="#">Software & Tech</a></li>
-                                                    <li><a href="#">Financial Services</a></li>
-                                                    <li><a href="#">Manufacturing</a></li>
-                                                    <li><a href="#">Healthcare</a></li>
-                                                    <li><a href="#">Government</a></li>
-                                                    <li><a href="#">Restaurants & Hospitality</a></li>
-                                                    <li><a href="#">Education</a></li>
-                                                    <li><a href="#">Retail</a></li>
+                                                    <li><a href="../coming-soon.php">Software & Tech</a></li>
+                                                    <li><a href="../coming-soon.php">Financial Services</a></li>
+                                                    <li><a href="../coming-soon.php">Manufacturing</a></li>
+                                                    <li><a href="../coming-soon.php">Healthcare</a></li>
+                                                    <li><a href="../coming-soon.php">Government</a></li>
+                                                    <li><a href="../coming-soon.php">Restaurants & Hospitality</a></li>
+                                                    <li><a href="../coming-soon.php">Education</a></li>
+                                                    <li><a href="../coming-soon.php">Retail</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -246,32 +254,32 @@
                             </ul>
                         </li>
 
-                        <!--li class="dropdown">
-                        <a href="./services/whatsapp-marketing-and-automation.php" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
-                        </ul>
-                    </li-->
+                        <!-- <li class="dropdown">
+                           <a href="./services/whatsapp-marketing-and-automation.php" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
+                           <ul class="dropdown-menu">
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
+                           </ul>
+                       </li> -->
 
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Video Services</a>
                             <ul class="dropdown-menu">
-                                <li><a href="../video/video-services.php">Explainer Videos</a></li>
-                                <li><a href="../video/video-services.php">Demo Videos</a></li>
-                                <li><a href="../video/video-services.php">Video Ads</a></li>
-                                <li><a href="../video/video-services.php">Social Media Videos</a></li>
-                                <li><a href="../video/video-services.php">Repurpose Videos</a></li>
-                                <li><a href="../video/video-services.php">Video Editing</a></li>
-                                <li><a href="../video/video-services.php">How-to Videos</a></li>
-                                <li><a href="../video/video-services.php">Onboarding Videos</a></li>
+                                <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
+                                <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
+                                <li><a href="../services/Video-Ads.php">Video Ads</a></li>
+                                <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
+                                <li><a href="../services/Repurpose-Videos.php">Repurpose Videos</a></li>
+                                <li><a href="../services/Video-Editing.php">Video Editing</a></li>
+                                <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
+                                <li><a href="../services/Onboarding-Videos.php">Onboarding Videos</a></li>
                             </ul>
                         </li>
 
-                        <li><a href="contact-us.php">Contact</a></li>
+                        <li><a href="../contact-us.php">Contact</a></li>
                     </ul>
                 </div><!-- /.navbar-collapse -->
 
@@ -315,260 +323,260 @@
                                     </div>
                                     <h1>How to Structure SEO Content for Maximum Impact
                                     </h1>
-                                    
-                                <p>In the digital age, creating content that ranks high on search engines is crucial for online success. However, it's not just about what you write but how you structure it. A well-structured SEO content piece enhances readability, improves user experience, and signals search engines about the relevance of your content.</p>
 
-                                <p>At ITD Growthlabs, we specialize in crafting content that not only engages readers but also performs exceptionally well in search rankings. Our approach focuses on strategic content layout, effective use of headings, and a clear writing hierarchy to ensure maximum impact.</p>
+                                    <p>In the digital age, creating content that ranks high on search engines is crucial for online success. However, it's not just about what you write but how you structure it. A well-structured SEO content piece enhances readability, improves user experience, and signals search engines about the relevance of your content.</p>
 
-                                <p>In this comprehensive guide, we'll delve into the essential elements of structuring SEO content effectively. From understanding the importance of headings to optimizing your content layout, we'll provide actionable insights to elevate your content strategy.</p>
+                                    <p>At ITD Growthlabs, we specialize in crafting content that not only engages readers but also performs exceptionally well in search rankings. Our approach focuses on strategic content layout, effective use of headings, and a clear writing hierarchy to ensure maximum impact.</p>
 
-                                <h2>Understanding SEO Content Structure</h2>
-                                <p>SEO content structure refers to the strategic organization and formatting of your website or blog content to make it easily navigable for both human readers and search engine crawlers. A strong structure improves the user experience (UX), increases dwell time, lowers bounce rates, and enhances your content's ability to rank higher on search engine results pages (SERPs).</p>
+                                    <p>In this comprehensive guide, we'll delve into the essential elements of structuring SEO content effectively. From understanding the importance of headings to optimizing your content layout, we'll provide actionable insights to elevate your content strategy.</p>
 
-                                <h3>Why SEO Content Structure Matters</h3>
-                                <p>Search engines like Google prioritize content that is well-organized, easy to read, and contextually rich. When your content follows a clear structure:</p>
-                                <ul>
-                                    <li>Users can skim through it efficiently, which keeps them engaged.</li>
-                                    <li>Search engine bots can crawl and index your pages more effectively.</li>
-                                    <li>It improves your chances of being featured in snippets or answering user queries in the "People also ask" section.</li>
-                                </ul>
+                                    <h2>Understanding SEO Content Structure</h2>
+                                    <p>SEO content structure refers to the strategic organization and formatting of your website or blog content to make it easily navigable for both human readers and search engine crawlers. A strong structure improves the user experience (UX), increases dwell time, lowers bounce rates, and enhances your content's ability to rank higher on search engine results pages (SERPs).</p>
 
-                                <h2>Key Components of SEO Content Structure</h2>
+                                    <h3>Why SEO Content Structure Matters</h3>
+                                    <p>Search engines like Google prioritize content that is well-organized, easy to read, and contextually rich. When your content follows a clear structure:</p>
+                                    <ul>
+                                        <li>Users can skim through it efficiently, which keeps them engaged.</li>
+                                        <li>Search engine bots can crawl and index your pages more effectively.</li>
+                                        <li>It improves your chances of being featured in snippets or answering user queries in the "People also ask" section.</li>
+                                    </ul>
 
-                                <h3>1. Title Tag (H1)</h3>
-                                <p>The H1 is the main heading of your page and usually serves as the title visible at the top of a blog post or article. It should:</p>
-                                <ul>
-                                    <li>Clearly define the main topic.</li>
-                                    <li>Include your primary keyword.</li>
-                                    <li>Be unique, concise, and compelling.</li>
-                                </ul>
-                                <p><strong>Example:</strong><br>
-                                If your content is about optimizing images for SEO, a good H1 could be:<br>
-                                "How to Optimize Images for SEO: A Complete Guide"</p>
+                                    <h2>Key Components of SEO Content Structure</h2>
 
-                                <h3>2. Subheadings (H2, H3, H4…)</h3>
-                                <p>Subheadings help divide your content into logical sections, making it more digestible. Use them to:</p>
-                                <ul>
-                                    <li>Organize thoughts into hierarchical chunks.</li>
-                                    <li>Include secondary and related keywords.</li>
-                                    <li>Make it easier for both readers and search engines to understand the structure.</li>
-                                </ul>
-                                <p><strong>Best Practice:</strong><br>
-                                Use H2 for main sections,<br>
-                                H3 for subsections under H2,<br>
-                                and so on.</p>
-                                <p><strong>Example:</strong><br>
-                                H2: Benefits of Image Optimization<br>
-                                → H3: Faster Page Load Times<br>
-                                → H3: Improved Accessibility</p>
+                                    <h3>1. Title Tag (H1)</h3>
+                                    <p>The H1 is the main heading of your page and usually serves as the title visible at the top of a blog post or article. It should:</p>
+                                    <ul>
+                                        <li>Clearly define the main topic.</li>
+                                        <li>Include your primary keyword.</li>
+                                        <li>Be unique, concise, and compelling.</li>
+                                    </ul>
+                                    <p><strong>Example:</strong><br>
+                                        If your content is about optimizing images for SEO, a good H1 could be:<br>
+                                        "How to Optimize Images for SEO: A Complete Guide"</p>
 
-                                <h3>3. Paragraphs</h3>
-                                <p>Keep paragraphs short and focused—ideally 2–4 sentences. Long blocks of text can be overwhelming and reduce readability, especially on mobile devices.</p>
-                                <p><strong>Tips:</strong></p>
-                                <ul>
-                                    <li>Each paragraph should convey one idea.</li>
-                                    <li>Use transition words to improve flow.</li>
-                                    <li>Break up long thoughts with visuals or subheadings.</li>
-                                </ul>
+                                    <h3>2. Subheadings (H2, H3, H4…)</h3>
+                                    <p>Subheadings help divide your content into logical sections, making it more digestible. Use them to:</p>
+                                    <ul>
+                                        <li>Organize thoughts into hierarchical chunks.</li>
+                                        <li>Include secondary and related keywords.</li>
+                                        <li>Make it easier for both readers and search engines to understand the structure.</li>
+                                    </ul>
+                                    <p><strong>Best Practice:</strong><br>
+                                        Use H2 for main sections,<br>
+                                        H3 for subsections under H2,<br>
+                                        and so on.</p>
+                                    <p><strong>Example:</strong><br>
+                                        H2: Benefits of Image Optimization<br>
+                                        → H3: Faster Page Load Times<br>
+                                        → H3: Improved Accessibility</p>
 
-                                <h3>4. Bullet Points and Lists</h3>
-                                <p>Bullet points and numbered lists are excellent tools for:</p>
-                                <ul>
-                                    <li>Highlighting key takeaways.</li>
-                                    <li>Making content scannable.</li>
-                                    <li>Enhancing visual appeal.</li>
-                                </ul>
-                                <p>Use them to present:</p>
-                                <ul>
-                                    <li>Step-by-step instructions</li>
-                                    <li>Benefits or features</li>
-                                    <li>Do's and Don'ts</li>
-                                </ul>
-                                <p><strong>Example:</strong></p>
-                                <p>Checklist for On-Page SEO:</p>
-                                <ul>
-                                    <li>Use target keywords naturally</li>
-                                    <li>Add descriptive meta titles and descriptions</li>
-                                    <li>Include alt text for images</li>
-                                    <li>Link to internal and external sources</li>
-                                </ul>
+                                    <h3>3. Paragraphs</h3>
+                                    <p>Keep paragraphs short and focused—ideally 2–4 sentences. Long blocks of text can be overwhelming and reduce readability, especially on mobile devices.</p>
+                                    <p><strong>Tips:</strong></p>
+                                    <ul>
+                                        <li>Each paragraph should convey one idea.</li>
+                                        <li>Use transition words to improve flow.</li>
+                                        <li>Break up long thoughts with visuals or subheadings.</li>
+                                    </ul>
 
-                                <h3>5. Internal and External Links</h3>
-                                <p><strong>Internal Links:</strong> Direct readers to other relevant pages on your website. This boosts:</p>
-                                <ul>
-                                    <li>Time on site</li>
-                                    <li>Page views</li>
-                                    <li>SEO authority through topic clustering</li>
-                                </ul>
-                                <p><strong>External Links:</strong> Link to credible, authoritative sources to back up your claims. This builds trust and signals reliability to search engines.</p>
-                                <p><strong>Example:</strong><br>
-                                Internal: Check out our complete guide to content strategy for more insights.<br>
-                                External: According to XYZ, link building is a critical factor in SEO success.</p>
+                                    <h3>4. Bullet Points and Lists</h3>
+                                    <p>Bullet points and numbered lists are excellent tools for:</p>
+                                    <ul>
+                                        <li>Highlighting key takeaways.</li>
+                                        <li>Making content scannable.</li>
+                                        <li>Enhancing visual appeal.</li>
+                                    </ul>
+                                    <p>Use them to present:</p>
+                                    <ul>
+                                        <li>Step-by-step instructions</li>
+                                        <li>Benefits or features</li>
+                                        <li>Do's and Don'ts</li>
+                                    </ul>
+                                    <p><strong>Example:</strong></p>
+                                    <p>Checklist for On-Page SEO:</p>
+                                    <ul>
+                                        <li>Use target keywords naturally</li>
+                                        <li>Add descriptive meta titles and descriptions</li>
+                                        <li>Include alt text for images</li>
+                                        <li>Link to internal and external sources</li>
+                                    </ul>
 
-                                <h2>Additional Best Practices for SEO-Friendly Structure</h2>
-                                <ul>
-                                    <li>Use a Table of Contents for long-form articles. This improves navigation and helps Google generate sitelinks.</li>
-                                    <li>Incorporate schema markup (like Article or FAQ schema) to enhance visibility in rich results.</li>
-                                    <li>Optimize for mobile readability. Ensure that the layout remains intact on smaller screens.</li>
-                                    <li>Use images, charts, and infographics to break text monotony and add visual value.</li>
-                                </ul>
+                                    <h3>5. Internal and External Links</h3>
+                                    <p><strong>Internal Links:</strong> Direct readers to other relevant pages on your website. This boosts:</p>
+                                    <ul>
+                                        <li>Time on site</li>
+                                        <li>Page views</li>
+                                        <li>SEO authority through topic clustering</li>
+                                    </ul>
+                                    <p><strong>External Links:</strong> Link to credible, authoritative sources to back up your claims. This builds trust and signals reliability to search engines.</p>
+                                    <p><strong>Example:</strong><br>
+                                        Internal: Check out our complete guide to content strategy for more insights.<br>
+                                        External: According to XYZ, link building is a critical factor in SEO success.</p>
 
-                                <p>A well-structured SEO content piece isn't just about aesthetics—it's a blend of UX design, content hierarchy, and search engine logic. By using the right headings, concise paragraphs, scannable lists, and smart linking, you not only make your content more appealing to readers but also enhance its visibility and discoverability online.</p>
+                                    <h2>Additional Best Practices for SEO-Friendly Structure</h2>
+                                    <ul>
+                                        <li>Use a Table of Contents for long-form articles. This improves navigation and helps Google generate sitelinks.</li>
+                                        <li>Incorporate schema markup (like Article or FAQ schema) to enhance visibility in rich results.</li>
+                                        <li>Optimize for mobile readability. Ensure that the layout remains intact on smaller screens.</li>
+                                        <li>Use images, charts, and infographics to break text monotony and add visual value.</li>
+                                    </ul>
 
-                                <p>When you master content structure, you're not just writing for today's readers—you're optimizing for tomorrow's algorithms.</p>
+                                    <p>A well-structured SEO content piece isn't just about aesthetics—it's a blend of UX design, content hierarchy, and search engine logic. By using the right headings, concise paragraphs, scannable lists, and smart linking, you not only make your content more appealing to readers but also enhance its visibility and discoverability online.</p>
 
-                                <h2>The Importance of Headings in SEO</h2>
-                                <p>Headings play a pivotal role in structuring your content and signaling its relevance to both users and search engines. They act as visual and contextual cues that break your content into manageable sections, making it easier to read, scan, and understand. For search engines, headings provide a roadmap to the hierarchy and organization of your content, helping them determine the main topics and subtopics on the page.</p>
+                                    <p>When you master content structure, you're not just writing for today's readers—you're optimizing for tomorrow's algorithms.</p>
 
-                                <h3>Best Practices for Using Headings</h3>
-                                <p><strong>Use H1 for the Main Title:</strong><br>
-                                The H1 tag should be reserved for the primary title of the page. It must be unique, concise, and include the main keyword. This helps search engines understand the core focus of your content.</p>
+                                    <h2>The Importance of Headings in SEO</h2>
+                                    <p>Headings play a pivotal role in structuring your content and signaling its relevance to both users and search engines. They act as visual and contextual cues that break your content into manageable sections, making it easier to read, scan, and understand. For search engines, headings provide a roadmap to the hierarchy and organization of your content, helping them determine the main topics and subtopics on the page.</p>
 
-                                <p><strong>Incorporate H2 and H3 Tags:</strong><br>
-                                Use H2 tags to define primary subheadings and H3 (and beyond) for further breakdowns under those sections. This layered structure improves content flow and readability for users while reinforcing topical relevance for search engines.</p>
+                                    <h3>Best Practices for Using Headings</h3>
+                                    <p><strong>Use H1 for the Main Title:</strong><br>
+                                        The H1 tag should be reserved for the primary title of the page. It must be unique, concise, and include the main keyword. This helps search engines understand the core focus of your content.</p>
 
-                                <p><strong>Include Keywords Naturally:</strong><br>
-                                Whenever appropriate, integrate relevant keywords into your headings. Avoid keyword stuffing—focus on clarity and relevance to maintain a natural tone that appeals to readers and algorithms alike.</p>
+                                    <p><strong>Incorporate H2 and H3 Tags:</strong><br>
+                                        Use H2 tags to define primary subheadings and H3 (and beyond) for further breakdowns under those sections. This layered structure improves content flow and readability for users while reinforcing topical relevance for search engines.</p>
 
-                                <p><strong>Maintain Logical Hierarchy:</strong><br>
-                                Keep a consistent heading order. For instance, don't jump from an H2 directly to an H4 without an intervening H3. This logical structure enhances comprehension and helps search engines interpret the relationship between sections.</p>
+                                    <p><strong>Include Keywords Naturally:</strong><br>
+                                        Whenever appropriate, integrate relevant keywords into your headings. Avoid keyword stuffing—focus on clarity and relevance to maintain a natural tone that appeals to readers and algorithms alike.</p>
 
-                                <h3>Why It Matters</h3>
-                                <p>Proper use of headings not only improves user experience by allowing readers to quickly locate information, but also enhances SEO performance. Well-structured headings:</p>
-                                <ul>
-                                    <li>Improve accessibility</li>
-                                    <li>Enable better indexing by search engine crawlers</li>
-                                    <li>Increase chances of being featured in rich snippets or voice search results</li>
-                                </ul>
-                                <p>By treating your headings as both navigational tools and SEO assets, you ensure that your content is optimized for visibility and readability.</p>
+                                    <p><strong>Maintain Logical Hierarchy:</strong><br>
+                                        Keep a consistent heading order. For instance, don't jump from an H2 directly to an H4 without an intervening H3. This logical structure enhances comprehension and helps search engines interpret the relationship between sections.</p>
 
-                                <h2>Crafting a Clear Writing Hierarchy</h2>
-                                <p>A clear writing hierarchy is essential for producing well-structured, engaging, and easy-to-navigate content. It helps readers move seamlessly from broad overviews to more specific information, ensuring they never feel lost or overwhelmed. At the same time, a logical structure signals to search engines how different parts of your content relate to one another, aiding in indexing and boosting SEO performance.</p>
+                                    <h3>Why It Matters</h3>
+                                    <p>Proper use of headings not only improves user experience by allowing readers to quickly locate information, but also enhances SEO performance. Well-structured headings:</p>
+                                    <ul>
+                                        <li>Improve accessibility</li>
+                                        <li>Enable better indexing by search engine crawlers</li>
+                                        <li>Increase chances of being featured in rich snippets or voice search results</li>
+                                    </ul>
+                                    <p>By treating your headings as both navigational tools and SEO assets, you ensure that your content is optimized for visibility and readability.</p>
 
-                                <h3>Steps to Establish a Strong Writing Hierarchy</h3>
-                                <p><strong>1. Start with an Introduction</strong><br>
-                                Begin your content with a compelling introduction that sets the stage for what's to come. A strong introduction should:</p>
-                                <ul>
-                                    <li>Provide a brief overview of the topic</li>
-                                    <li>Establish the purpose or goal of the piece</li>
-                                    <li>Highlight the value the reader will gain</li>
-                                    <li>Optionally, introduce key questions or pain points</li>
-                                </ul>
+                                    <h2>Crafting a Clear Writing Hierarchy</h2>
+                                    <p>A clear writing hierarchy is essential for producing well-structured, engaging, and easy-to-navigate content. It helps readers move seamlessly from broad overviews to more specific information, ensuring they never feel lost or overwhelmed. At the same time, a logical structure signals to search engines how different parts of your content relate to one another, aiding in indexing and boosting SEO performance.</p>
 
-                                <p><strong>2. Present Main Points Using H2 Headings</strong><br>
-                                Use H2 headings to introduce major sections or themes. These are the core pillars of your content, each addressing a distinct aspect of your topic. Think of them as chapter titles that organize your narrative.</p>
-                                <p><strong>Tips:</strong></p>
-                                <ul>
-                                    <li>Align each H2 with a key topic or user intent</li>
-                                    <li>Use relevant keywords naturally within headings</li>
-                                    <li>Ensure consistency in tone and structure</li>
-                                </ul>
-                                <p><strong>Example H2s for an article on email marketing:</strong></p>
-                                <ul>
-                                    <li>Benefits of Email Marketing</li>
-                                    <li>Building Your Subscriber List</li>
-                                    <li>Crafting Effective Campaigns</li>
-                                </ul>
+                                    <h3>Steps to Establish a Strong Writing Hierarchy</h3>
+                                    <p><strong>1. Start with an Introduction</strong><br>
+                                        Begin your content with a compelling introduction that sets the stage for what's to come. A strong introduction should:</p>
+                                    <ul>
+                                        <li>Provide a brief overview of the topic</li>
+                                        <li>Establish the purpose or goal of the piece</li>
+                                        <li>Highlight the value the reader will gain</li>
+                                        <li>Optionally, introduce key questions or pain points</li>
+                                    </ul>
 
-                                <p><strong>3. Delve into Subtopics with H3 and H4 Headings</strong><br>
-                                Beneath each H2, use H3 and H4 headings to break content into more specific details, processes, or examples. This layered approach allows you to:</p>
-                                <ul>
-                                    <li>Explain concepts in depth without overwhelming readers</li>
-                                    <li>Address FAQs, case studies, or statistics within context</li>
-                                    <li>Maintain an intuitive reading experience</li>
-                                </ul>
-                                <p><strong>Example:</strong><br>
-                                H2: Building Your Subscriber List<br>
-                                → H3: Creating Lead Magnets<br>
-                                → → H4: Free Downloads and Checklists<br>
-                                → → H4: Exclusive Webinars</p>
+                                    <p><strong>2. Present Main Points Using H2 Headings</strong><br>
+                                        Use H2 headings to introduce major sections or themes. These are the core pillars of your content, each addressing a distinct aspect of your topic. Think of them as chapter titles that organize your narrative.</p>
+                                    <p><strong>Tips:</strong></p>
+                                    <ul>
+                                        <li>Align each H2 with a key topic or user intent</li>
+                                        <li>Use relevant keywords naturally within headings</li>
+                                        <li>Ensure consistency in tone and structure</li>
+                                    </ul>
+                                    <p><strong>Example H2s for an article on email marketing:</strong></p>
+                                    <ul>
+                                        <li>Benefits of Email Marketing</li>
+                                        <li>Building Your Subscriber List</li>
+                                        <li>Crafting Effective Campaigns</li>
+                                    </ul>
 
-                                <p><strong>4. Conclude Effectively</strong><br>
-                                Wrap up your content with a thoughtful conclusion that:</p>
-                                <ul>
-                                    <li>Summarizes the key points covered</li>
-                                    <li>Reinforces the value delivered</li>
-                                    <li>Offers a call-to-action (CTA) such as reading another article, signing up, or downloading a resource</li>
-                                </ul>
+                                    <p><strong>3. Delve into Subtopics with H3 and H4 Headings</strong><br>
+                                        Beneath each H2, use H3 and H4 headings to break content into more specific details, processes, or examples. This layered approach allows you to:</p>
+                                    <ul>
+                                        <li>Explain concepts in depth without overwhelming readers</li>
+                                        <li>Address FAQs, case studies, or statistics within context</li>
+                                        <li>Maintain an intuitive reading experience</li>
+                                    </ul>
+                                    <p><strong>Example:</strong><br>
+                                        H2: Building Your Subscriber List<br>
+                                        → H3: Creating Lead Magnets<br>
+                                        → → H4: Free Downloads and Checklists<br>
+                                        → → H4: Exclusive Webinars</p>
 
-                                <h3>Why Writing Hierarchy Matters</h3>
-                                <ul>
-                                    <li><strong>Enhances Readability:</strong> Clear sections help users scan and absorb content quickly, especially on mobile devices.</li>
-                                    <li><strong>Improves SEO:</strong> Search engines use content structure to determine context, which helps in ranking and snippet generation.</li>
-                                    <li><strong>Boosts Engagement:</strong> A logical flow keeps readers interested and guides them toward your intended outcome or CTA.</li>
-                                </ul>
-                                <p>Crafting a clear writing hierarchy is a fundamental part of effective content strategy. When you thoughtfully organize your content from introduction to conclusion—using headings, subheadings, and structured formatting—you make it easier for your audience to navigate, understand, and take action.</p>
-                                <p>In short, structure isn't just about looks—it's about delivering value in the most user-friendly and SEO-friendly way possible.</p>
+                                    <p><strong>4. Conclude Effectively</strong><br>
+                                        Wrap up your content with a thoughtful conclusion that:</p>
+                                    <ul>
+                                        <li>Summarizes the key points covered</li>
+                                        <li>Reinforces the value delivered</li>
+                                        <li>Offers a call-to-action (CTA) such as reading another article, signing up, or downloading a resource</li>
+                                    </ul>
 
-                                <h2>Optimizing Content Layout for Engagement</h2>
-                                <p>An effective content layout is crucial for capturing and maintaining user attention. When information is presented in a clear, accessible, and visually appealing manner, it encourages readers to stay longer, explore more, and engage meaningfully with your content. This not only improves the user experience (UX) but also contributes to better SEO performance, as search engines consider engagement metrics like bounce rate and time on site.</p>
+                                    <h3>Why Writing Hierarchy Matters</h3>
+                                    <ul>
+                                        <li><strong>Enhances Readability:</strong> Clear sections help users scan and absorb content quickly, especially on mobile devices.</li>
+                                        <li><strong>Improves SEO:</strong> Search engines use content structure to determine context, which helps in ranking and snippet generation.</li>
+                                        <li><strong>Boosts Engagement:</strong> A logical flow keeps readers interested and guides them toward your intended outcome or CTA.</li>
+                                    </ul>
+                                    <p>Crafting a clear writing hierarchy is a fundamental part of effective content strategy. When you thoughtfully organize your content from introduction to conclusion—using headings, subheadings, and structured formatting—you make it easier for your audience to navigate, understand, and take action.</p>
+                                    <p>In short, structure isn't just about looks—it's about delivering value in the most user-friendly and SEO-friendly way possible.</p>
 
-                                <h3>Tips for an Engaging Layout</h3>
-                                <p><strong>Use Short Paragraphs:</strong><br>
-                                Break text into manageable chunks of 2–4 sentences. Short paragraphs are easier to read, especially on mobile devices, and help maintain the reader's focus.</p>
+                                    <h2>Optimizing Content Layout for Engagement</h2>
+                                    <p>An effective content layout is crucial for capturing and maintaining user attention. When information is presented in a clear, accessible, and visually appealing manner, it encourages readers to stay longer, explore more, and engage meaningfully with your content. This not only improves the user experience (UX) but also contributes to better SEO performance, as search engines consider engagement metrics like bounce rate and time on site.</p>
 
-                                <p><strong>Incorporate Bullet Points:</strong><br>
-                                Lists make key information stand out and allow readers to quickly scan for the details they need. Use them for features, steps, benefits, or summaries.</p>
+                                    <h3>Tips for an Engaging Layout</h3>
+                                    <p><strong>Use Short Paragraphs:</strong><br>
+                                        Break text into manageable chunks of 2–4 sentences. Short paragraphs are easier to read, especially on mobile devices, and help maintain the reader's focus.</p>
 
-                                <p><strong>Include Visuals:</strong><br>
-                                Support your written content with relevant images, infographics, charts, or videos. Visual elements enhance understanding and provide a break from text-heavy sections.</p>
+                                    <p><strong>Incorporate Bullet Points:</strong><br>
+                                        Lists make key information stand out and allow readers to quickly scan for the details they need. Use them for features, steps, benefits, or summaries.</p>
 
-                                <p><strong>Utilize White Space:</strong><br>
-                                Don't overcrowd your page. Ample white space around text, headings, and images makes the content easier to digest and reduces cognitive load.</p>
-                                <p>A well-structured and visually balanced layout not only helps retain reader attention but also signals to search engines that your content is high-quality and user-friendly. By prioritizing layout along with content, you create an engaging experience that benefits both users and your site's SEO.</p>
+                                    <p><strong>Include Visuals:</strong><br>
+                                        Support your written content with relevant images, infographics, charts, or videos. Visual elements enhance understanding and provide a break from text-heavy sections.</p>
 
-                                <h2>Integrating Keywords Strategically</h2>
-                                <p>Strategic keyword integration is essential for aligning your content with user search behavior. By thoughtfully placing relevant keywords, you improve your content's search engine visibility while ensuring it remains readable and user-friendly. The goal is to signal relevance to search engines without disrupting the natural flow of your writing.</p>
+                                    <p><strong>Utilize White Space:</strong><br>
+                                        Don't overcrowd your page. Ample white space around text, headings, and images makes the content easier to digest and reduces cognitive load.</p>
+                                    <p>A well-structured and visually balanced layout not only helps retain reader attention but also signals to search engines that your content is high-quality and user-friendly. By prioritizing layout along with content, you create an engaging experience that benefits both users and your site's SEO.</p>
 
-                                <h3>Keyword Placement Tips</h3>
-                                <p><strong>Title and Headings:</strong><br>
-                                Incorporate your primary keywords into the page title and major headings (H1, H2). This helps search engines quickly understand the topic of your content.</p>
+                                    <h2>Integrating Keywords Strategically</h2>
+                                    <p>Strategic keyword integration is essential for aligning your content with user search behavior. By thoughtfully placing relevant keywords, you improve your content's search engine visibility while ensuring it remains readable and user-friendly. The goal is to signal relevance to search engines without disrupting the natural flow of your writing.</p>
 
-                                <p><strong>First 100 Words:</strong><br>
-                                Introduce your main keyword or phrase early in the content—ideally within the first paragraph. This emphasizes the topic and aligns with how search engines crawl content.</p>
+                                    <h3>Keyword Placement Tips</h3>
+                                    <p><strong>Title and Headings:</strong><br>
+                                        Incorporate your primary keywords into the page title and major headings (H1, H2). This helps search engines quickly understand the topic of your content.</p>
 
-                                <p><strong>Throughout the Content:</strong><br>
-                                Spread keywords naturally and evenly across the text. Focus on semantic variations and related terms to avoid repetition and improve contextual relevance.</p>
+                                    <p><strong>First 100 Words:</strong><br>
+                                        Introduce your main keyword or phrase early in the content—ideally within the first paragraph. This emphasizes the topic and aligns with how search engines crawl content.</p>
 
-                                <p><strong>Meta Descriptions and Alt Text:</strong><br>
-                                Include keywords in your meta description to enhance click-through rates from search results, and in image alt text to improve accessibility and visibility in image searches.</p>
-                                <p>Always prioritize user intent and aim for a natural, conversational tone. Keyword stuffing not only disrupts readability but can also lead to search engine penalties. Balanced, strategic placement ensures your content remains both engaging and optimized.</p>
-                               
-                                
+                                    <p><strong>Throughout the Content:</strong><br>
+                                        Spread keywords naturally and evenly across the text. Focus on semantic variations and related terms to avoid repetition and improve contextual relevance.</p>
+
+                                    <p><strong>Meta Descriptions and Alt Text:</strong><br>
+                                        Include keywords in your meta description to enhance click-through rates from search results, and in image alt text to improve accessibility and visibility in image searches.</p>
+                                    <p>Always prioritize user intent and aim for a natural, conversational tone. Keyword stuffing not only disrupts readability but can also lead to search engine penalties. Balanced, strategic placement ensures your content remains both engaging and optimized.</p>
+
+
                                 </div>
                             </div>
                         </div>
                     </div>
                     <!-- Start Sidebar -->
                     <div class="sidebar col-xl-4 col-lg-5 col-md-12 mt-md-50 mt-xs-50">
-                            <div class="sidebar-item recent-post">
-                                <h4 class="title">Recent Post</h4>
+                        <div class="sidebar-item recent-post">
+                            <h4 class="title">Recent Post</h4>
+                            <ul>
+                                <li>
+                                    <div class="thumb">
+                                        <a href="top-10-website-content-writing-agencies-in-India.php">
+                                            <img src="../assets/img/homepage5.png" alt="Website Content Writing">
+                                        </a>
+                                    </div>
+                                    <div class="info">
+                                        <a href="blog-single-with-sidebar.php">Top 10 Website Content Writing Agencies in India</a>
+                                    </div>
+                                </li>
+                                <!-- Add more recent posts here -->
+                            </ul>
+                        </div>
+
+                        <div class="sidebar-item social-sidebar">
+                            <h4 class="title">Follow Us</h4>
+                            <div class="sidebar-info">
                                 <ul>
-                                    <li>
-                                        <div class="thumb">
-                                            <a href="top-10-website-content-writing-agencies-in-India.php">
-                                                <img src="../assets/img/homepage5.png" alt="Website Content Writing">
-                                            </a>
-                                        </div>
-                                        <div class="info">
-                                            <a href="blog-single-with-sidebar.php">Top 10 Website Content Writing Agencies in India</a>
-                                        </div>
-                                    </li>
-                                    <!-- Add more recent posts here -->
+                                    <li class="facebook"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li class="twitter"><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li class="pinterest"><a href="#"><i class="fab fa-pinterest"></i></a></li>
+                                    <li class="linkedin"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
                                 </ul>
                             </div>
-
-                            <div class="sidebar-item social-sidebar">
-                                <h4 class="title">Follow Us</h4>
-                                <div class="sidebar-info">
-                                    <ul>
-                                        <li class="facebook"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li class="twitter"><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                        <li class="pinterest"><a href="#"><i class="fab fa-pinterest"></i></a></li>
-                                        <li class="linkedin"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
+                        </div>
                         </aside>
                     </div>
                     <!-- End Sidebar -->
@@ -644,11 +652,11 @@
 
                             <h4 class="widget-title">WhatsApp Marketing</h4>
                             <ul>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
-                                <li><a href="../services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flows</a></li>
                             </ul>
                         </div>
                     </div>
@@ -658,24 +666,26 @@
                         <div class="f-item link">
                             <h4 class="widget-title">Video Services</h4>
                             <ul>
-                                <li><a href="../video/video-services.php">Explainer Videos</a></li>
-                                <li><a href="../video/video-services.php">Demo Videos</a></li>
-                                <li><a href="../video/video-services.php">Social Media Videos</a></li>
-                                <li><a href="../video/video-services.php">Video Editing</a></li>
-                                <li><a href="../video/video-services.php">How-to Videos</a></li>
+                                <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
+                                <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
+                                <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
+                                <li><a href="../services/Video-Editing.php">Video Editing</a></li>
+                                <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
+                            </ul>
                             </ul>
                         </div>
                     </div>
+
 
                     <!-- Data Services -->
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">Data Services</h4>
                             <ul>
-                                <li><a href="../coming-soon.php">Documents & PDF Data Entry Services</a></li>
-                                <li><a href="../coming-soon.php">Offline Data Entry Services</a></li>
-                                <li><a href="../coming-soon.php">Online Data Entry Services</a></li>
-                                <li><a href="../coming-soon.php">Product Data Entry Services</a></li>
+                                <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry Services</a></li>
+                                <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
+                                <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
+                                <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
                             </ul>
                         </div>
                     </div>
@@ -684,10 +694,10 @@
                         <div class="f-item link">
                             <h4 class="widget-title">Data Annotation Services</h4>
                             <ul>
-                                <li><a href="../coming-soon.php">Data Labeling Services</a></li>
-                                <li><a href="../coming-soon.php">Image Annotation Services</a></li>
-                                <li><a href="../coming-soon.php">Text Annotation Services</a></li>
-                                <li><a href="../coming-soon.php">Video Annotation Services</a></li>
+                                <li><a href="../data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
+                                <li><a href="../data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
+                                <li><a href="../data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
+                                <li><a href="../data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
                             </ul>
                         </div>
                     </div>
@@ -719,7 +729,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <p>Copyright &copy; 2025 <a href="https://www.itdgrowthlabs.com/">ITD GrowthLabs</a> All Rights Reserved</p>
+                        <p>Copyright &copy; 2025 ITD GrowthLabs All Rights Reserved</p>
                     </div>
                 </div>
             </div>

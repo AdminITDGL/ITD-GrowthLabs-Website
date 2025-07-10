@@ -51,250 +51,258 @@
     <!-- Header 
 ============================================= -->
     <header>
-    <!-- Start Navigation -->
-    <nav class="navbar mobile-sidenav navbar-default validnavs dark on menu-center no-full">
+        <!-- Start Navigation -->
+        <nav class="navbar mobile-sidenav navbar-default validnavs dark on menu-center no-full">
 
-        <!-- Start Top Search -->
-        <div class="top-search">
-            <div class="container">
-                <form action="#">
-                    <div class="input-group">
-                        <span class="input-group-addon"><i class="fa fa-search"></i></span>
-                        <input type="text" class="form-control" placeholder="Search">
-                        <span class="input-group-addon close-search"><i class="fa fa-times"></i></span>
-                    </div>
-                </form>
-            </div>
-        </div>
-        <!-- End Top Search -->
-
-        <div class="container d-flex justify-content-between align-items-center">
-            <!-- Start Header Navigation -->
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
-                    <i class="fa fa-bars"></i>
-                </button>
-                <a class="navbar-brand" href="../index.php">
-                    <img src="../assets/img/logo.jpg" class="logo" alt="Logo">
-                </a>
-            </div>
-            <!-- End Header Navigation -->
-
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="navbar-menu">
-                <img src="../assets/img/logo.jpg" alt="Logo">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
-                    <i class="fa fa-times"></i>
-                </button>
-                <ul class="nav navbar-nav navbar-center" data-in="fadeInDown" data-out="fadeOutUp">
-
-                    <li class="dropdown megamenu-fw">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tech Services</a>
-                        <ul class="dropdown-menu megamenu-content" role="menu">
-                            <li>
-                                <div class="row">
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Core Tech Services</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../services/website-development-company.php">Website Design
-                                                        & Development</a></li>
-                                                <li><a href="../coming-soon.php">Template-Based Website Development</a>
-                                                </li>
-                                                <li><a href="../coming-soon.php">WordPress Website Development</a></li>
-                                                <li><a href="../coming-soon.php">Custom Website Development</a></li>
-                                                <li><a href="../coming-soon.php">E-commerce Website Development</a></li>
-
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">End-to-End Services</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../services/website-development-company.php">Website Design
-                                                        & Development</a></li>
-                                                <li><a href="../services/content-marketing-services.php">Content
-                                                        Marketing Services</a></li>
-                                                <li><a href="../services/seo-auditing-services.php">SEO Audit and
-                                                        Optimization</a></li>
-                                                <li><a href="../services/social-media-marketing.php">Social Media
-                                                        Marketing</a></li>
-                                                <li><a href="../services/google-search-ads-services.php">Google Search
-                                                        Ads</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">More Tech Solutions</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-
-                                                <li><a href="../coming-soon.php">App Development</a></li>
-                                                <li><a href="../coming-soon.php">IT Outsourcing Services</a></li>
-                                                <li><a href="../coming-soon.php">IT Team Outsourcing</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </li>
-
-
-                    <li class="dropdown megamenu-fw">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Content Services</a>
-                        <ul class="dropdown-menu megamenu-content" role="menu">
-                            <li>
-                                <div class="row">
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">SEO &amp; Content Writing</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../services/website-content-writing.php">Website Content
-                                                        Writing</a></li>
-                                                <li><a href="../services/seo-article-writing.php">SEO Article
-                                                        Writing</a></li>
-                                                <li><a href="../services/blog-writing-services.php">Blog Writing</a>
-                                                </li>
-                                                <li><a href="../services/case-study-writing-services.php">Case Study
-                                                        Writing</a></li>
-                                                <li><a href="../services/product-description-writing-services.php">Product
-                                                        Description</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Specialized Content Services</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../coming-soon.php">Content Writing & Strategy</a></li>
-                                                <li><a href="../coming-soon.php">Technical Writing Services</a></li>
-                                                <li><a href="../coming-soon.php">Whitepapers & Case Studies</a></li>
-                                                <li><a href="../coming-soon.php">Content Team Outsourcing</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Industries We Serve</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../services/logistics-content-marketing.php">Logistics</a>
-                                                </li>
-                                                <li><a href="../services/coming-soon.php">Manufacturing</a></li>
-                                                <li><a href="../services/coming-soon.php">Technology</a></li>
-                                                <li><a href="../services/ecommerce-content-services.php">E-commerce</a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </li>
-
-                    <li class="dropdown megamenu-fw">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">eLearning Services</a>
-                        <ul class="dropdown-menu megamenu-content" role="menu">
-                            <li>
-                                <div class="row">
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Custom Solutions</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="../coming-soon.php">Custom eLearning Development</a></li>
-                                                <li><a href="../coming-soon.php">PowerPoint to eLearning Conversion</a>
-                                                </li>
-                                                <li><a href="../coming-soon.php">Mobile Learning / Microlearning</a>
-                                                </li>
-                                                <li><a href="../coming-soon.php">Gamified Learning Modules</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Use Cases</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="#">Employee Onboarding</a></li>
-                                                <li><a href="#">Talent Development</a></li>
-                                                <li><a href="#">Compliance Training</a></li>
-                                                <li><a href="#">Sales Enablement</a></li>
-                                                <li><a href="#">Customer Education</a></li>
-                                                <li><a href="#">Partner Enablement</a></li>
-                                                <li><a href="#">Frontline Workforce Training</a></li>
-                                                <li><a href="#">Member Training</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-menu col-lg-4">
-                                        <h6 class="title">Industries Served</h6>
-                                        <div class="content">
-                                            <ul class="menu-col">
-                                                <li><a href="#">Software & Tech</a></li>
-                                                <li><a href="#">Financial Services</a></li>
-                                                <li><a href="#">Manufacturing</a></li>
-                                                <li><a href="#">Healthcare</a></li>
-                                                <li><a href="#">Government</a></li>
-                                                <li><a href="#">Restaurants & Hospitality</a></li>
-                                                <li><a href="#">Education</a></li>
-                                                <li><a href="#">Retail</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </li>
-
-                    <!--li class="dropdown">
-                        <a href="./services/whatsapp-marketing-and-automation.php" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
-                            <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
-                        </ul>
-                    </li-->
-
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Video Services</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="../video/video-services.php">Explainer Videos</a></li>
-                            <li><a href="../video/video-services.php">Demo Videos</a></li>
-                            <li><a href="../video/video-services.php">Video Ads</a></li>
-                            <li><a href="../video/video-services.php">Social Media Videos</a></li>
-                            <li><a href="../video/video-services.php">Repurpose Videos</a></li>
-                            <li><a href="../video/video-services.php">Video Editing</a></li>
-                            <li><a href="../video/video-services.php">How-to Videos</a></li>
-                            <li><a href="../video/video-services.php">Onboarding Videos</a></li>
-                        </ul>
-                    </li>
-
-                    <li><a href="contact-us.php">Contact</a></li>
-                </ul>
-            </div><!-- /.navbar-collapse -->
-
-            <div class="attr-right">
-                <!-- Start Atribute Navigation -->
-                <div class="attr-nav">
-                    <ul>
-                        <li class="button">
-                            <a href="https://calendly.com/itdgrowthlabs-info/30min">Book a Call</a>
-                        </li>
-                    </ul>
+            <!-- Start Top Search -->
+            <div class="top-search">
+                <div class="container">
+                    <form action="#">
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="fa fa-search"></i></span>
+                            <input type="text" class="form-control" placeholder="Search">
+                            <span class="input-group-addon close-search"><i class="fa fa-times"></i></span>
+                        </div>
+                    </form>
                 </div>
-                <!-- End Atribute Navigation -->
-
-                <!-- Overlay screen for menu -->
-                <div class="overlay-screen"></div>
-                <!-- End Overlay screen for menu -->
             </div>
+            <!-- End Top Search -->
 
-        </div>
-    </nav>
-    <!-- End Navigation -->
-</header>
+            <div class="d-flex justify-content-between align-items-center">
+                <!-- Start Header Navigation -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                        <i class="fa fa-bars"></i>
+                    </button>
+                    <a class="navbar-brand" href="../index.php">
+                        <img src="../assets/img/logo.jpg" class="logo" alt="Logo">
+                    </a>
+                </div>
+                <!-- End Header Navigation -->
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="navbar-menu">
+                    <img src="../assets/img/logo.jpg" alt="Logo">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                        <i class="fa fa-times"></i>
+                    </button>
+                    <ul class="nav navbar-nav navbar-center" data-in="fadeInDown" data-out="fadeOutUp">
+
+                        <li class="dropdown megamenu-fw">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tech Services</a>
+                            <ul class="dropdown-menu megamenu-content" role="menu">
+                                <li>
+                                    <div class="row">
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Core Tech Services</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
+                                                    <li><a href="../services/Template-Based-Website-Development.php">Template-Based Website Development</a>
+                                                    </li>
+                                                    <li><a href="../services/WordPress-Website-Development.php">WordPress Website Development</a></li>
+                                                    <li><a href="../services/Custom-Website-Development.php">Custom Website Development</a></li>
+                                                    <li><a href="../services/E-commerce-Website-Development.php">E-commerce Website Development</a></li>
+
+                                                </ul>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">End-to-End Services</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
+                                                    <li><a href="../services/content-marketing-services.php">Content Marketing Services</a></li>
+                                                    <li><a href="../services/seo-auditing-services.php">SEO Audit and Optimization</a></li>
+                                                    <li><a href="../services/social-media-marketing.php">Social Media Marketing</a></li>
+                                                    <li><a href="../services/google-search-ads-services.php">Google Search Ads</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">More Tech Solutions</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+
+                                                    <li><a href="../services/App-Development.php">App Development</a></li>
+                                                    <li><a href="../services/IT-Outsourcing-Services.php">IT Outsourcing Services</a></li>
+                                                    <li><a href="../services/IT-Team-Outsourcing.php">IT Team Outsourcing</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flow</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data Services</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
+                                <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
+                                <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
+                                <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
+                                <li><a href="../data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
+                                <li><a href="../data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
+                                <li><a href="../data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
+                                <li><a href="../data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
+                                <li><a href="../data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown megamenu-fw">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Content Services</a>
+                            <ul class="dropdown-menu megamenu-content" role="menu">
+                                <li>
+                                    <div class="row">
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">SEO &amp; Content Writing</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/website-content-writing.php">Website Content Writing</a></li>
+                                                    <li><a href="../services/seo-article-writing.php">SEO Article Writing</a></li>
+                                                    <li><a href="../services/blog-writing-services.php">Blog Writing</a></li>
+                                                    <li><a href="../services/case-study-writing-services.php">Case Study Writing</a></li>
+                                                    <li><a href="../services/product-description-writing-services.php">Product Description</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Specialized Content Services</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/content_writing_strategy.php">Content Writing & Strategy</a></li>
+                                                    <li><a href="../services/technical-writing-services.php">Technical Writing Services</a></li>
+                                                    <li><a href="../services/White-Papers-Case-Studies.php">Whitepapers & Case Studies</a></li>
+                                                    <li><a href="../services/Content-Team-Outsourcing.php">Content Team Outsourcing</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Industries We Serve</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/logistics-content-marketing.php">Logistics</a></li>
+                                                    <li><a href="../services/Industries-We-Serve-Manufacturing.php">Manufacturing</a></li>
+                                                    <li><a href="../services/Industries-We-Serve-Technology.php">Technology</a></li>
+                                                    <li><a href="../services/ecommerce-content-services.php">E-commerce</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown megamenu-fw">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">eLearning Services</a>
+                            <ul class="dropdown-menu megamenu-content" role="menu">
+                                <li>
+                                    <div class="row">
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Custom Solutions</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/Custom-eLearning-Development.php">Custom eLearning Development</a></li>
+                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php">PowerPoint to eLearning Conversion</a></li>
+                                                    <li><a href="../services/Mobile-Learn-Microlearning.php">Mobile Learning / Microlearning</a></li>
+                                                    <li><a href="../services/Gamified-Learning-Modules.php">Gamified Learning Modules</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Use Cases</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../services/Employee-Onboarding.php">Employee Onboarding</a></li>
+                                                    <li><a href="../services/Talent-Development.php">Talent Development</a></li>
+                                                    <li><a href="../services/Compliance-Training.php">Compliance Training</a></li>
+                                                    <li><a href="../services/Sales-Enablement.php">Sales Enablement</a></li>
+                                                    <li><a href="../services/Customer-Education.php">Customer Education</a></li>
+                                                    <li><a href="../services/Partner-Enablement.php">Partner Enablement</a></li>
+                                                    <li><a href="../services/Frontline-Workforce-Training.php">Frontline Workforce Training</a></li>
+                                                    <li><a href="../services/Member-Training.php">Member Training</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-menu col-lg-4">
+                                            <h6 class="title">Industries Served</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="../coming-soon.php">Software & Tech</a></li>
+                                                    <li><a href="../coming-soon.php">Financial Services</a></li>
+                                                    <li><a href="../coming-soon.php">Manufacturing</a></li>
+                                                    <li><a href="../coming-soon.php">Healthcare</a></li>
+                                                    <li><a href="../coming-soon.php">Government</a></li>
+                                                    <li><a href="../coming-soon.php">Restaurants & Hospitality</a></li>
+                                                    <li><a href="../coming-soon.php">Education</a></li>
+                                                    <li><a href="../coming-soon.php">Retail</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <!-- <li class="dropdown">
+                           <a href="./services/whatsapp-marketing-and-automation.php" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
+                           <ul class="dropdown-menu">
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
+                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
+                           </ul>
+                       </li> -->
+
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Video Services</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
+                                <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
+                                <li><a href="../services/Video-Ads.php">Video Ads</a></li>
+                                <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
+                                <li><a href="../services/Repurpose-Videos.php">Repurpose Videos</a></li>
+                                <li><a href="../services/Video-Editing.php">Video Editing</a></li>
+                                <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
+                                <li><a href="../services/Onboarding-Videos.php">Onboarding Videos</a></li>
+                            </ul>
+                        </li>
+
+                        <li><a href="../contact-us.php">Contact</a></li>
+                    </ul>
+                </div><!-- /.navbar-collapse -->
+
+                <div class="attr-right">
+                    <!-- Start Atribute Navigation -->
+                    <div class="attr-nav">
+                        <ul>
+                            <li class="button">
+                                <a href="https://calendly.com/itdgrowthlabs-info/30min">Book a Call</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- End Atribute Navigation -->
+
+                    <!-- Overlay screen for menu -->
+                    <div class="overlay-screen"></div>
+                    <!-- End Overlay screen for menu -->
+                </div>
+
+            </div>
+        </nav>
+        <!-- End Navigation -->
+    </header>
     <!-- End Header -->
     <!-- Start Banner Area 
     ============================================= -->
@@ -324,7 +332,7 @@
                                     </p>
 
                                     <p>
-                                    This guide will walk you through SEO best practices to integrate keywords seamlessly into your content. We’ll explore strategies to optimize keyword placement, maintain readability, and enhance search rankings. By following these techniques, you can ensure that your content remains engaging, valuable, and search-engine-friendly.
+                                        This guide will walk you through SEO best practices to integrate keywords seamlessly into your content. We’ll explore strategies to optimize keyword placement, maintain readability, and enhance search rankings. By following these techniques, you can ensure that your content remains engaging, valuable, and search-engine-friendly.
                                     </p>
 
                                     <p>Let’s dive into the best ways to achieve effective keyword optimization without crossing the line into keyword stuffing.</p>
@@ -337,7 +345,7 @@
 
                                     <h3>Enhances SEO-Friendly Content Readability
                                     </h3>
-                                    
+
                                     <p>
                                         - <strong>
                                         </strong>Natural keyword placement makes content flow seamlessly, making it easy to read and understand.
@@ -355,7 +363,7 @@
 
                                     <h3>Improves User Experience and Engagement
                                     </h3>
-                                    
+
                                     <p>
                                         - <strong>
                                         </strong>Well-optimized content enhances user experience by providing relevant information quickly.
@@ -373,7 +381,7 @@
 
                                     <h3>Helps Search Engines Categorize Content Correctly
                                     </h3>
-                                    
+
                                     <p>
                                         - <strong>
                                         </strong>Search engines analyze keywords to determine the relevance of a webpage to user queries.
@@ -391,7 +399,7 @@
 
                                     <h3>Reduces the Risk of Being Penalized for Keyword Stuffing
                                     </h3>
-                                    
+
                                     <p>
                                         - <strong>
                                         </strong>Overloading content with keywords can lead to search engine penalties, reducing visibility.
@@ -409,7 +417,7 @@
 
                                     <h3>Strengthens On-Page SEO Strategies
                                     </h3>
-                                    
+
                                     <p>
                                         - <strong>
                                         </strong>Placing keywords in title tags, meta descriptions, and headers increases search relevance.
@@ -438,7 +446,7 @@
                                     </h3>
                                     <p>One of the most efficient ways to find the right keywords is by using keyword research tools. These tools provide valuable insights into search volume, keyword difficulty, competition, and user intent. Some of the most commonly used tools include:
                                     </p>
-                                    
+
                                     <p>
                                         - <strong>Google Keyword Planner :
                                         </strong> Helps identify high-ranking and low-competition keywords based on search trends.
@@ -446,24 +454,24 @@
                                         - <strong>Ahrefs :
                                         </strong>Offers keyword difficulty scores, search volume analysis, and competitor keyword tracking.
                                         <br>
-                                        - <strong>SEMrush  :
+                                        - <strong>SEMrush :
                                         </strong>Provides keyword suggestions, ranking trends, and insights into organic and paid search data.
                                         <br>
-                                        - <strong>Ubersuggest  :
+                                        - <strong>Ubersuggest :
                                         </strong>Generates keyword ideas, evaluates search difficulty, and offers content recommendations.
                                         <br>
-                                        - <strong>Moz Keyword Explorer  :
+                                        - <strong>Moz Keyword Explorer :
                                         </strong>Helps in discovering keyword opportunities and analyzing keyword relevance.
                                         <br>
                                     </p>
-                                   
+
                                     <p>By leveraging these tools, businesses can select primary keywords and long-tail keywords that align with their content strategy, ensuring better search rankings.
                                     </p>
 
 
                                     <h3>Analyze Search Intent
                                     </h3>
-                                    
+
                                     <p>Understanding the search intent behind keywords is critical in determining how to use them effectively. Different types of search intent influence the kind of content required to meet user expectations:
                                     </p>
 
@@ -477,7 +485,7 @@
                                         - <strong>Transactional Intent :
                                         </strong> Users ready to make a purchase or take action (e.g., "buy SEO course online").
                                         <br>
-                                        - <strong>Commercial Investigation  :
+                                        - <strong>Commercial Investigation :
                                         </strong> Users comparing products or services before making a decision (e.g., "best SEO tools for bloggers").
                                         <br>
                                     </p>
@@ -487,7 +495,7 @@
 
                                     <h3>Check Competitor Content
                                     </h3>
-                                    
+
                                     <p>Analyzing competitor content provides valuable insights into keyword strategies that are already working in the industry. Studying competitor pages helps in identifying:
                                     </p>
 
@@ -501,7 +509,7 @@
                                         - <strong>High-performing Keywords :
                                         </strong> Which keywords drive traffic to competitor websites and how they integrate them naturally.
                                         <br>
-                                        - <strong>Backlink Opportunities  :
+                                        - <strong>Backlink Opportunities :
                                         </strong> Keywords that competitors use to attract quality backlinks and improve domain authority.
                                         <br>
                                     </p>
@@ -517,7 +525,7 @@
 
                                     <h3>1. Place Keywords Strategically
                                     </h3>
-                                    
+
                                     <p>To achieve SEO-friendly content, keywords should be placed naturally in specific areas that help search engines and users understand the topic. Proper keyword positioning enhances visibility and relevance.
                                     </p>
 
@@ -525,7 +533,7 @@
                                         - <strong>Title and Headings :
                                         </strong>Including keywords in the title and subheadings helps search engines determine the main subject of the content.
                                         <br>
-                                        - <strong>Meta Descriptions  :
+                                        - <strong>Meta Descriptions :
                                         </strong>Optimized meta descriptions improve click-through rates (CTR) and increase search visibility.
                                         <br>
                                         - <strong>Introduction and Conclusion :
@@ -538,7 +546,7 @@
 
                                     <h3>2. Maintain Keyword Density
                                     </h3>
-                                    
+
                                     <p>Keyword density refers to the percentage of times a keyword appears relative to the total word count. Maintaining an optimal keyword density prevents content from being flagged for keyword stuffing while ensuring better rankings.
                                     </p>
 
@@ -546,7 +554,7 @@
                                         - <strong>Ideal Range :
                                         </strong>Keeping keyword density between 1-2% allows for natural keyword distribution.
                                         <br>
-                                        - <strong>Avoid Repetition  :
+                                        - <strong>Avoid Repetition :
                                         </strong>Overusing the same keyword can make content feel unnatural; instead, use variations and semantic keywords.
                                         <br>
                                         - <strong>Use in Context :
@@ -556,7 +564,7 @@
 
                                     <h3>3. Use Synonyms and LSI Keywords
                                     </h3>
-                                    
+
                                     <p>Search engines have evolved to understand the context and intent behind search queries. Using synonyms and Latent Semantic Indexing (LSI) keywords improves content diversity while maintaining relevance.
                                     </p>
 
@@ -574,7 +582,7 @@
 
                                     <h3>4. Optimize Anchor Text and Internal Links
                                     </h3>
-                                    
+
                                     <p>Internal linking plays a crucial role in structuring SEO-friendly content and improving website authority. Using keywords in anchor text strengthens SEO while providing users with relevant content.
                                     </p>
 
@@ -592,14 +600,14 @@
 
                                     <h3>5. Write for Readers, Not Just Search Engines
                                     </h3>
-                                    
+
                                     <p>While keyword optimization is crucial for SEO, high-quality content should always prioritize user engagement.
                                     </p>
 
                                     <p>
                                         - <strong>Focus on Value :
                                         </strong>Create informative, well-structured, and engaging content.
-                                        <br> 
+                                        <br>
                                         - <strong>Avoid Keyword Stuffing :
                                         </strong>Forced keyword insertion reduces readability and can lead to penalties.
                                         <br>
@@ -618,23 +626,23 @@
                                     <p>Even with the best SEO best practices, errors in keyword optimization can negatively impact search engine rankings and user experience. Misusing primary keywords or neglecting essential SEO elements can result in penalties, lower engagement, and decreased traffic. Avoiding common mistakes ensures SEO-friendly content that ranks well while remaining reader-focused.</p>
 
                                     <h3>Common Keyword Optimization Mistakes
-                                    </h3>               
+                                    </h3>
 
 
                                     <h3>1. Overloading Keywords in Headings
                                     </h3>
-                                    
+
                                     <p>Headings play a crucial role in structuring content and improving search engine optimization. However, excessive keyword usage in headings can make content unnatural and difficult to read.
                                     </p>
 
                                     <p>
                                         - <strong>Reduces Readability :
                                         </strong>Repetitive keywords disrupt the flow, making the content less engaging.
-                                        <br> 
+                                        <br>
                                         - <strong>Affects User Experience :
                                         </strong>Readers may find the text forced or spammy, leading to higher bounce rates.
                                         <br>
-                                        - <strong>Search Engine Penalties  :
+                                        - <strong>Search Engine Penalties :
                                         </strong>Google may recognize overuse as keyword stuffing, affecting rankings.
                                         <br>
                                     </p>
@@ -644,18 +652,18 @@
 
                                     <h3>2. Using the Same Keyword Excessively
                                     </h3>
-                                    
+
                                     <p>Repeating the same keyword phrase multiple times within a short span can harm SEO rather than help.
                                     </p>
 
                                     <p>
                                         - <strong>Triggers Keyword Stuffing :
                                         </strong>Google’s algorithm detects unnatural repetition, leading to ranking drops.
-                                        <br> 
+                                        <br>
                                         - <strong>Hurts Content Quality :
                                         </strong> Readers may find content redundant and unhelpful.
                                         <br>
-                                        - <strong>Reduces Keyword Diversity  :
+                                        - <strong>Reduces Keyword Diversity :
                                         </strong>Ignoring LSI keywords and synonyms limits search visibility.
                                         <br>
                                     </p>
@@ -665,14 +673,14 @@
 
                                     <h3>3. Ignoring User Experience
                                     </h3>
-                                    
+
                                     <p>While keyword optimization is vital, user engagement should always be the priority. Content that prioritizes search engines over human readability often fails to retain visitors.
                                     </p>
 
                                     <p>
                                         - <strong>Increases Bounce Rate :
                                         </strong>Poorly written content with excessive keywords drives users away.
-                                        <br> 
+                                        <br>
                                         - <strong>Reduces Credibility :
                                         </strong> Content that lacks clarity and coherence affects brand trust.
                                         <br>
@@ -687,14 +695,14 @@
 
                                     <h3>4. Forgetting About Mobile Optimization
                                     </h3>
-                                    
+
                                     <p>With a significant portion of searches coming from mobile devices, failing to optimize content for mobile can harm rankings.
                                     </p>
 
                                     <p>
                                         - <strong>Affects Search Rankings :
                                         </strong>Google prioritizes mobile-first indexing.
-                                        <br> 
+                                        <br>
                                         - <strong>Poor User Experience :
                                         </strong>Hard-to-read text, slow loading speeds, and improper formatting drive users away.
                                         <br>
@@ -708,7 +716,7 @@
 
                                     <h3>Measuring Keyword Optimization Success
                                     </h3>
-                                    
+
                                     <p>Tracking the effectiveness of keyword optimization helps in refining SEO strategies and improving search rankings. Using SEO tools like Google Analytics, Ahrefs, and SEMrush allows businesses to monitor critical performance indicators.
                                     </p>
 
@@ -718,7 +726,7 @@
                                     <p>
                                         - <strong>Organic Traffic Growth :
                                         </strong>Measures the number of visitors coming from search engines, indicating keyword effectiveness.
-                                        <br> 
+                                        <br>
                                         - <strong>Click-Through Rates (CTR) :
                                         </strong>Higher CTR means well-optimized meta descriptions and titles.
                                         <br>
@@ -736,7 +744,7 @@
                                     </h2>
 
                                     <p>
-                                    Mastering keyword optimization is essential for creating SEO-friendly content that ranks well without triggering penalties for keyword stuffing. By focusing on natural keyword integration, using relevant synonyms, and optimizing content structure, you can improve search rankings while maintaining readability.
+                                        Mastering keyword optimization is essential for creating SEO-friendly content that ranks well without triggering penalties for keyword stuffing. By focusing on natural keyword integration, using relevant synonyms, and optimizing content structure, you can improve search rankings while maintaining readability.
                                     </p>
 
                                     <p>At ITD Growthlabs, we specialize in helping businesses achieve better online visibility through proven SEO best practices. Whether you’re a blogger or a business owner, our strategies ensure that your content remains engaging and optimized.
@@ -870,14 +878,16 @@
                         <div class="f-item link">
                             <h4 class="widget-title">Video Services</h4>
                             <ul>
-                                <li><a href="../video/video-services.php">Explainer Videos</a></li>
-                                <li><a href="../video/video-services.php">Demo Videos</a></li>
-                                <li><a href="../video/video-services.php">Social Media Videos</a></li>
-                                <li><a href="../video/video-services.php">Video Editing</a></li>
-                                <li><a href="../video/video-services.php">How-to Videos</a></li>
+                                <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
+                                <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
+                                <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
+                                <li><a href="../services/Video-Editing.php">Video Editing</a></li>
+                                <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
+                            </ul>
                             </ul>
                         </div>
                     </div>
+
 
                     <!-- Data Services -->
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">

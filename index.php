@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content=" Leading B2B digital marketing and tech company offering website development, SEO, content writing, social media, video, and WhatsApp automation.">
+    <meta name="description" content="Leading B2B digital marketing and tech company offering website development, SEO, content writing, social media, video, and WhatsApp automation.">
     <meta name="keywords" content="Digital Marketing Company, Digital Marketing Services, Content Writing Services, SEO Content Writing Services, Best Content Writing, Online Marketing Agency, Digital Strategy Services, Content Marketing Agency, Digital Advertising Services, Expert Content Writing Services.">
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="./assets/img/favicon.png" type="image/x-icon">
@@ -107,6 +107,9 @@
                         <div class="swiper-wrapper">
                             <!-- Single Item -->
                             <div class="swiper-slide">
+                                <img src="assets/img/brand/we3scs.png" alt="Image Not Found">
+                            </div>
+                            <div class="swiper-slide">
                                 <img src="assets/img/brand/caper.png" alt="Image Not Found">
                             </div>
                             <!-- End Single Item -->
@@ -118,9 +121,6 @@
                             </div>
                             <!-- End Single Item -->
                             <!-- Single Item -->
-                            <div class="swiper-slide">
-                                <img src="assets/img/brand/we3scs.png" alt="Image Not Found">
-                            </div>
                             <!-- End Single Item -->
 
                             <!-- Single Item -->
@@ -157,7 +157,7 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">Our Services</h5>
-                        <h2 class="title"> End-to-End Digital, Tech & Marketing Solutions</h2>
+                        <h2 class="title">Our Core Digital, Tech & Learning Services</h2>
                     </div>
                 </div>
             </div>
@@ -165,30 +165,27 @@
 
         <div class="container">
             <div class="row">
-                <!-- Website Development & Optimization -->
+                <!-- Website Design & Development -->
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
                         <i class="flaticon-startup-6"></i>
-                        <h4><a href="./services/website-development-company.php">Website Development & Optimization</a></h4>
+                        <h4><a href="./services/website-development-company.php">Website Design & Development</a></h4>
                         <p>
-                            Get a high-performance website that enhances user experience, speeds up conversions,
-                            and strengthens your brand's online presence.
+                            Get a fast,mobile-responsive website with clean UI/UX,lead forms,SEO setup,and 5–10 conversion-optimized pages.
                         </p>
                         <a href="./services/website-development-company.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
-
                     </div>
                 </div>
 
-                <!-- Website Content Writing -->
+                <!-- SEO Website Content Writing -->
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
                         <i class="flaticon-planning"></i>
                         <h4><a href="./services/website-content-writing.php">SEO Website Content Writing</a></h4>
                         <p>
-                            Receive compelling, SEO-rich content carefully tailored to improve visibility, engage visitors, and convert them into loyal, paying customers.
+                            Receive 100% original, keyword-rich web pages,blogs,or articles crafted to boost rankings and drive organic traffic.
                         </p>
                         <a href="./services/website-content-writing.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
-
                     </div>
                 </div>
 
@@ -196,26 +193,23 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
                         <i class="flaticon-marketing-agent"></i>
-                        <h4><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Marketing & Automation</a></h4>
+                        <h4><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Marketing</a></h4>
                         <p>
-                            Automate customer interactions with targeted WhatsApp campaigns, ensuring higher
-                            engagement, improved conversions, and faster response times.
+                            Get custom chatbot flows,bulk campaign setup,CRM integration,and automation via WhatsApp Business API for lead gen and support.
                         </p>
                         <a href="./services/whatsapp-marketing-and-automation.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
-
                     </div>
                 </div>
 
                 <!-- Content Marketing & Strategy -->
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
+                    <div class="services-style-three" style="background-image:url(assets/img/shape/banner-3.jpg);">
                         <i class="flaticon-planning"></i>
-                        <h4><a href="coming-soon.php">Content Marketing & Strategy</a></h4>
+                        <h4><a href="./services/content-marketing-services.php">Content Marketing & Strategy</a></h4>
                         <p>
-                            Get a tailored content strategy expertly designed to attract, nurture, and convert your audience, driving long-term brand awareness, growth, and trust.
+                            Receive a full content calendar,blog posts,SEO plan,and social media strategy tailored to your brand’s audience and goals.
                         </p>
-                        <a href="coming-soon.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
-
+                        <a href="./services/content-marketing-services.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
                     </div>
                 </div>
 
@@ -225,27 +219,60 @@
                         <i class="flaticon-secure-1"></i>
                         <h4><a href="./video/video-services.php">Video Production & Marketing</a></h4>
                         <p>
-                            Elevate your brand with high-quality videos that captivate audiences, increase awareness,
-                            and drive more customer engagement.
+                            Get high-quality 30–90 second videos with scripts,voiceovers,editing,and delivery for explainers,product demos,and reels.
                         </p>
                         <a href="./video/video-services.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
-
                     </div>
                 </div>
 
-                <!-- Data Solutions & Analytics -->
+                <!-- Custom eLearning Development -->
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
+                        <i class="flaticon-elearning"></i>
+                        <h4><a href="./services/Custom-eLearning-Development.php">Custom eLearning Development</a></h4>
+                        <p>
+                            Receive SCORM/xAPI-compliant modules with voice-over,assessments,and LMS-ready content tailored to your training goals.
+                        </p>
+                        <a href="./services/Custom-eLearning-Development.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
+                    </div>
+                </div>
+
+                <!-- Microlearning & Gamification -->
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
+                        <i class="flaticon-play-button"></i>
+                        <h4><a href="./services/Gamified-Learning-Modules.php">Microlearning & Gamification</a></h4>
+                        <p>
+                            We deliver bite-sized,mobile-friendly learning units with quizzes,animations,and game mechanics for maximum engagement.
+                        </p>
+                        <a href="./services/Gamified-Learning-Modules.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
+                    </div>
+                </div>
+
+                <!-- AI/ML Data Services -->
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
                         <i class="flaticon-data-analysis-1"></i>
-                        <h4><a href="coming-soon.php">Data Services for AI & ML</a></h4>
+                        <h4><a href="./data_services/Video-Annotation-Services.php">AI/ML Data Services</a></h4>
                         <p>
-                            Get precise data annotation and labeling services to improve AI & ML model accuracy,
-                            ensuring better decision-making and automation.
+                            Get accurate data entry,annotation,classification,and validation for training and refining AI/ML models efficiently.
                         </p>
-                        <a href="coming-soon.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
-
+                        <a href="./data_services/Video-Annotation-Services.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
                     </div>
                 </div>
+
+                <!-- SEO Audit & Google Ads -->
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
+                        <i class="flaticon-ads"></i>
+                        <h4><a href="./services/seo-auditing-services.php">SEO Audit & Google Ads</a></h4>
+                        <p>
+                            Get a complete audit,keyword plan,on-page SEO fixes,and Google Ads setup with tracking for measurable performance.
+                        </p>
+                        <a href="./services/seo-auditing-services.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
+                    </div>
+                </div>
+
             </div>
         </div>
     </div>
@@ -274,9 +301,9 @@
                         <p>
                             Fully tailored websites to meet unique goals.
                         </p>
-                        <h4><a href="#">Custom Website Development</a></h4>
+                        <h4><a href="./services/Custom-Website-Development.php">Custom Website Development</a></h4>
                         <span>Development</span>
-                        <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <a href="./services/Custom-Website-Development.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                         <div class="shape">
                             <img src="assets/img/shape/15.webp" alt="Image Not Found">
                         </div>
@@ -292,9 +319,9 @@
                         <p>
                             Custom UI/UX and functionality for your brand.
                         </p>
-                        <h4><a href="#">Website Design & Development</a></h4>
+                        <h4><a href="./services/website-development-company.php">Website Design & Development</a></h4>
                         <span>Development</span>
-                        <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <a href="./services/website-development-company.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                         <div class="shape">
                             <img src="assets/img/shape/15.webp" alt="Image Not Found">
                         </div>
@@ -310,9 +337,9 @@
                         <p>
                             Fast, cost-efficient website deployment options.
                         </p>
-                        <h4><a href="#">Template-Based Web Development</a></h4>
+                        <h4><a href="./services/Template-Based-Website-Development.php">Template-Based Web Development</a></h4>
                         <span>Development</span>
-                        <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <a href="./services/Template-Based-Website-Development.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                         <div class="shape">
                             <img src="assets/img/shape/15.webp" alt="Image Not Found">
                         </div>
@@ -328,9 +355,9 @@
                         <p>
                             SEO-friendly, flexible CMS websites on WordPress.
                         </p>
-                        <h4><a href="#">WordPress Website </a></h4>
+                        <h4><a href="./services/WordPress-Website-Development.php">WordPress Website Development</a></h4>
                         <span>Development</span>
-                        <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <a href="./services/WordPress-Website-Development.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                         <div class="shape">
                             <img src="assets/img/shape/15.webp" alt="Image Not Found">
                         </div>
@@ -346,9 +373,9 @@
                         <p>
                             Scalable online stores with secure integrations.
                         </p>
-                        <h4><a href="#">E-commerce Website Development</a></h4>
+                        <h4><a href="./services/E-commerce-Website-Development.php">E-commerce Website Development</a></h4>
                         <span>Development</span>
-                        <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <a href="./services/E-commerce-Website-Development.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                         <div class="shape">
                             <img src="assets/img/shape/15.webp" alt="Image Not Found">
                         </div>
@@ -364,9 +391,9 @@
                         <p>
                             Boost site visibility and ranking performance.
                         </p>
-                        <h4><a href="#">SEO Audit & Optimization</a></h4>
+                        <h4><a href="./services/seo-auditing-services.php">SEO Audit & Optimization</a></h4>
                         <span>Optimization</span>
-                        <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <a href="./services/seo-auditing-services.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                         <div class="shape">
                             <img src="assets/img/shape/15.webp" alt="Image Not Found">
                         </div>
@@ -383,9 +410,9 @@
                         <p>
                             Engage audiences and grow your social presence.
                         </p>
-                        <h4><a href="#">Social Media Marketing</a></h4>
+                        <h4><a href="./services/social-media-marketing.php">Social Media Marketing</a></h4>
                         <span>Marketing</span>
-                        <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <a href="./services/social-media-marketing.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                         <div class="shape">
                             <img src="assets/img/shape/15.webp" alt="Image Not Found">
                         </div>
@@ -402,9 +429,9 @@
                         <p>
                             Smart, scalable IT support for business needs.
                         </p>
-                        <h4><a href="#">IT Outsourcing</a></h4>
+                        <h4><a href="./services/IT-Outsourcing-Services.php">IT Outsourcing</a></h4>
                         <span>Services</span>
-                        <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <a href="./services/IT-Outsourcing-Services.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                         <div class="shape">
                             <img src="assets/img/shape/15.webp" alt="Image Not Found">
                         </div>
@@ -421,9 +448,9 @@
                         <p>
                             Get expert developers without long-term hiring.
                         </p>
-                        <h4><a href="#">IT Team Outsourcing</a></h4>
+                        <h4><a href="./services/IT-Team-Outsourcing.php">IT Team Outsourcing</a></h4>
                         <span>Services</span>
-                        <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <a href="./services/IT-Team-Outsourcing.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                         <div class="shape">
                             <img src="assets/img/shape/15.webp" alt="Image Not Found">
                         </div>
@@ -482,9 +509,9 @@
                         <p>
                             Crafting brand-driven, SEO-friendly web content.
                         </p>
-                        <h4><a href="#">Website Content</a></h4>
+                        <h4><a href="./services/website-content-writing.php">Website Content Writing</a></h4>
                         <span>Writing</span>
-                        <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <a href="./services/website-content-writing.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                         <div class="shape">
                             <img src="assets/img/shape/15.webp" alt="Image Not Found">
                         </div>
@@ -500,9 +527,9 @@
                         <p>
                             Boost rankings with keyword-optimized articles.
                         </p>
-                        <h4><a href="#">SEO Article Writing</a></h4>
+                        <h4><a href="./services/seo-article-writing.php">SEO Article Writing</a></h4>
                         <span>Writing</span>
-                        <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <a href="./services/seo-article-writing.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                         <div class="shape">
                             <img src="assets/img/shape/15.webp" alt="Image Not Found">
                         </div>
@@ -516,11 +543,11 @@
                             <img src="assets/img/icon/6.png" alt="Image Not Found">
                         </div>
                         <p>
-                            Inform, engage, and retain your audience with blogs
+                            Inform, engage, and retain your audience with blogs.
                         </p>
-                        <h4><a href="#">Blog Writing</a></h4>
+                        <h4><a href="./services/blog-writing-services.php">Blog Writing</a></h4>
                         <span>Writing</span>
-                        <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <a href="./services/blog-writing-services.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                         <div class="shape">
                             <img src="assets/img/shape/15.webp" alt="Image Not Found">
                         </div>
@@ -536,9 +563,9 @@
                         <p>
                             Showcase success stories to build & retain trust.
                         </p>
-                        <h4><a href="#">Case Study Writing</a></h4>
+                        <h4><a href="./services/case-study-writing-services.php">Case Study Writing</a></h4>
                         <span>Writing</span>
-                        <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <a href="./services/case-study-writing-services.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                         <div class="shape">
                             <img src="assets/img/shape/15.webp" alt="Image Not Found">
                         </div>
@@ -554,9 +581,9 @@
                         <p>
                             Drive conversions with persuasive product copy.
                         </p>
-                        <h4><a href="#">Product Descriptions</a></h4>
+                        <h4><a href="./services/product-description-writing-services.php">Product Descriptions</a></h4>
                         <span>Development</span>
-                        <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <a href="./services/product-description-writing-services.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                         <div class="shape">
                             <img src="assets/img/shape/15.webp" alt="Image Not Found">
                         </div>
@@ -572,9 +599,9 @@
                         <p>
                             Plan content that aligns with your goals and ranks.
                         </p>
-                        <h4><a href="#">Content Strategy</a></h4>
+                        <h4><a href="./services/content_writing_strategy.php">Content Strategy</a></h4>
                         <span>Optimization</span>
-                        <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <a href="./services/content_writing_strategy.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                         <div class="shape">
                             <img src="assets/img/shape/15.webp" alt="Image Not Found">
                         </div>
@@ -591,9 +618,9 @@
                         <p>
                             Explain complex topics in simple terms with clarity.
                         </p>
-                        <h4><a href="#">Technical Writing</a></h4>
+                        <h4><a href="./services/technical-writing-services.php">Technical Writing</a></h4>
                         <span>Writing</span>
-                        <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <a href="./services/technical-writing-services.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                         <div class="shape">
                             <img src="assets/img/shape/15.webp" alt="Image Not Found">
                         </div>
@@ -610,9 +637,9 @@
                         <p>
                             Build authority with in-depth, trusted content.
                         </p>
-                        <h4><a href="#">Whitepapers & Case Studies</a></h4>
+                        <h4><a href="./services/White-Papers-&-Case-Studies.php">Whitepapers & Case Studies</a></h4>
                         <span>Services</span>
-                        <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <a href="./services/White-Papers-&-Case-Studies.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                         <div class="shape">
                             <img src="assets/img/shape/15.webp" alt="Image Not Found">
                         </div>
@@ -629,9 +656,9 @@
                         <p>
                             Scale efficiently with reliable writing experts.
                         </p>
-                        <h4><a href="#">Content Team Outsourcing</a></h4>
+                        <h4><a href="./services/Content-Team-Outsourcing.php">Content Team Outsourcing</a></h4>
                         <span>Services</span>
-                        <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <a href="./services/Content-Team-Outsourcing.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                         <div class="shape">
                             <img src="assets/img/shape/15.webp" alt="Image Not Found">
                         </div>
@@ -666,7 +693,7 @@
     </div>
     <!-- End Project Deal -->
 
-     <!-- Start Services 
+    <!-- Start Services 
     ============================================= -->
     <div class="services-style-two-area bg-gray default-padding bottom-less">
         <div class="container">
@@ -687,11 +714,11 @@
                             <img src="assets/img/icon/4.png" alt="Image Not Found">
                         </div>
                         <p>
-                           Build immersive, tailored training for teams.
+                            Build immersive, tailored training for teams.
                         </p>
-                        <h4><a href="#">Custom eLearning</a></h4>
+                        <h4><a href="./services/Custom-eLearning-Development.php">Custom eLearning</a></h4>
                         <span>Writing</span>
-                        <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <a href="./services/Custom-eLearning-Development.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                         <div class="shape">
                             <img src="assets/img/shape/15.webp" alt="Image Not Found">
                         </div>
@@ -705,11 +732,11 @@
                             <img src="assets/img/icon/5.png" alt="Image Not Found">
                         </div>
                         <p>
-                          Convert static slides into dynamic eLearning modules.
+                            Convert static slides into dynamic eLearning modules.
                         </p>
-                        <h4><a href="#">PPT to eLearning</a></h4>
+                        <h4><a href="./services/Powerpoint-to-eLearning-Conversion.php">PPT to eLearning</a></h4>
                         <span>Writing</span>
-                        <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <a href="./services/Powerpoint-to-eLearning-Conversion.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                         <div class="shape">
                             <img src="assets/img/shape/15.webp" alt="Image Not Found">
                         </div>
@@ -723,11 +750,11 @@
                             <img src="assets/img/icon/6.png" alt="Image Not Found">
                         </div>
                         <p>
-                           Train on-the-go with short, mobile-optimized lessons.
+                            Train on-the-go with short, mobile-optimized lessons.
                         </p>
-                        <h4><a href="#">Mobile/Microlearning</a></h4>
+                        <h4><a href="./services/Mobile-Learn-Microlearning.php">Mobile/Microlearning</a></h4>
                         <span>Writing</span>
-                        <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <a href="./services/Mobile-Learn-Microlearning.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                         <div class="shape">
                             <img src="assets/img/shape/15.webp" alt="Image Not Found">
                         </div>
@@ -741,11 +768,11 @@
                             <img src="assets/img/icon/7.png" alt="Image Not Found">
                         </div>
                         <p>
-                         Make learning fun with interactive games & puzzles.
+                            Make learning fun with interactive games & puzzles.
                         </p>
-                        <h4><a href="#">Gamified Learning</a></h4>
+                        <h4><a href="./services/Gamified-Learning-Modules.php">Gamified Learning</a></h4>
                         <span>Writing</span>
-                        <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <a href="./services/Gamified-Learning-Modules.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                         <div class="shape">
                             <img src="assets/img/shape/15.webp" alt="Image Not Found">
                         </div>
@@ -759,11 +786,11 @@
                             <img src="assets/img/icon/8.png" alt="Image Not Found">
                         </div>
                         <p>
-                            Boost new hires’ productivity  with guided training.
+                            Boost new hires’ productivity with guided training.
                         </p>
-                        <h4><a href="#">Employee Onboarding</a></h4>
+                        <h4><a href="./services/Employee-Onboarding.php">Employee Onboarding</a></h4>
                         <span>Development</span>
-                        <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <a href="./services/Employee-Onboarding.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                         <div class="shape">
                             <img src="assets/img/shape/15.webp" alt="Image Not Found">
                         </div>
@@ -777,11 +804,11 @@
                             <img src="assets/img/icon/9.png" alt="Image Not Found">
                         </div>
                         <p>
-                          Ensure policy alignment with trackable eLearning.
+                            Ensure policy alignment with trackable eLearning.
                         </p>
-                        <h4><a href="#">Compliance Training</a></h4>
+                        <h4><a href="./services/Compliance-Training.php">Compliance Training</a></h4>
                         <span>Training</span>
-                        <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <a href="./services/Compliance-Training.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                         <div class="shape">
                             <img src="assets/img/shape/15.webp" alt="Image Not Found">
                         </div>
@@ -796,11 +823,11 @@
                             <img src="assets/img/icon/4.png" alt="Image Not Found">
                         </div>
                         <p>
-                          Equip your sales teams with knowledge that sells better.
+                            Equip your sales teams with knowledge that sells better.
                         </p>
-                        <h4><a href="#">Sales Enablement</a></h4>
+                        <h4><a href="./services/Sales-Enablement.php">Sales Enablement</a></h4>
                         <span>Writing</span>
-                        <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <a href="./services/Sales-Enablement.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                         <div class="shape">
                             <img src="assets/img/shape/15.webp" alt="Image Not Found">
                         </div>
@@ -815,11 +842,11 @@
                             <img src="assets/img/icon/6.png" alt="Image Not Found">
                         </div>
                         <p>
-                          Help users understand better  through clear guidance.
+                            Help users understand better through clear guidance.
                         </p>
-                        <h4><a href="#">Customer Education</a></h4>
+                        <h4><a href="./services/Customer-Education.php">Customer Education</a></h4>
                         <span>Services</span>
-                        <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <a href="./services/Customer-Education.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                         <div class="shape">
                             <img src="assets/img/shape/15.webp" alt="Image Not Found">
                         </div>
@@ -834,11 +861,11 @@
                             <img src="assets/img/icon/5.png" alt="Image Not Found">
                         </div>
                         <p>
-                          Train your partners thoroughly to drive more value.
+                            Train your partners thoroughly to drive more value.
                         </p>
-                        <h4><a href="#">Partner Enablement</a></h4>
+                        <h4><a href="./services/Partner-Enablement.php">Partner Enablement</a></h4>
                         <span>Services</span>
-                        <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <a href="./services/Partner-Enablement.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                         <div class="shape">
                             <img src="assets/img/shape/15.webp" alt="Image Not Found">
                         </div>
@@ -1044,13 +1071,13 @@
                                     aria-labelledby="headingNine" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
-                                          Blog writing services help improve your SEO rankings by targeting long-tail keywords and answering audience questions. Regular blogs also drive traffic, build trust, and support lead generation through internal linking and call-to-actions.
+                                            Blog writing services help improve your SEO rankings by targeting long-tail keywords and answering audience questions. Regular blogs also drive traffic, build trust, and support lead generation through internal linking and call-to-actions.
                                         </p>
                                     </div>
                                 </div>
                             </div>
 
-                             <div class="accordion-item">
+                            <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTen">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
@@ -1061,7 +1088,7 @@
                                     aria-labelledby="headingTen" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
-                                          Website content writing focuses on clear, persuasive copy for static pages like Home, About, and Services. SEO article writing targets specific keywords and topics to rank in search results and attract ongoing organic traffic.
+                                            Website content writing focuses on clear, persuasive copy for static pages like Home, About, and Services. SEO article writing targets specific keywords and topics to rank in search results and attract ongoing organic traffic.
                                         </p>
                                     </div>
                                 </div>
@@ -1078,13 +1105,13 @@
                                     aria-labelledby="headingEle" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
-                                          Yes, we offer technical writing services for IT, software, SaaS, and manufacturing industries. We simplify complex topics into clear, structured documents like user manuals, help guides, FAQs, and SOPs.
+                                            Yes, we offer technical writing services for IT, software, SaaS, and manufacturing industries. We simplify complex topics into clear, structured documents like user manuals, help guides, FAQs, and SOPs.
                                         </p>
                                     </div>
                                 </div>
                             </div>
 
-                             <div class="accordion-item">
+                            <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwel">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseTwel" aria-expanded="false" aria-controls="collapseTwel">
@@ -1095,13 +1122,13 @@
                                     aria-labelledby="headingTwel" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
-                                          Absolutely. Our content team outsourcing service allows you to scale your content efforts with dedicated writers for blogs, product descriptions, whitepapers, and SEO pages—fully managed and quality-checked.
+                                            Absolutely. Our content team outsourcing service allows you to scale your content efforts with dedicated writers for blogs, product descriptions, whitepapers, and SEO pages—fully managed and quality-checked.
                                         </p>
                                     </div>
                                 </div>
                             </div>
 
-                             <div class="accordion-item">
+                            <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThirt">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseThirt" aria-expanded="false" aria-controls="collapseThirt">
@@ -1112,7 +1139,7 @@
                                     aria-labelledby="headingThirt" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
-                                         We offer flexible IT outsourcing solutions with dedicated teams that align with your tech goals. From development to maintenance, we ensure cost-effective scalability.
+                                            We offer flexible IT outsourcing solutions with dedicated teams that align with your tech goals. From development to maintenance, we ensure cost-effective scalability.
                                         </p>
                                     </div>
                                 </div>
@@ -1122,14 +1149,14 @@
                                 <h2 class="accordion-header" id="headingFout">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseFout" aria-expanded="false" aria-controls="collapseFout">
-                                      What industries do you cater to with your eLearning solutions?
+                                        What industries do you cater to with your eLearning solutions?
                                     </button>
                                 </h2>
                                 <div id="collapseFout" class="accordion-collapse collapse"
                                     aria-labelledby="headingFout" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
-                                        Our eLearning services support industries like software, technology, financial services, manufacturing, healthcare, government, restaurants & hospitality, education and retail—delivering custom training modules for employee onboarding, compliance, and upskilling.
+                                            Our eLearning services support industries like software, technology, financial services, manufacturing, healthcare, government, restaurants & hospitality, education and retail—delivering custom training modules for employee onboarding, compliance, and upskilling.
                                         </p>
                                     </div>
                                 </div>
@@ -1139,18 +1166,130 @@
                                 <h2 class="accordion-header" id="Fift">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseFift" aria-expanded="false" aria-controls="collapseFift">
-                                      Can we request changes to better align with our brand voice?
+                                        Can we request changes to better align with our brand voice?
                                     </button>
                                 </h2>
                                 <div id="collapseFift" class="accordion-collapse collapse"
                                     aria-labelledby="Fift" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
-                                        Absolutely. We collaborate closely with you to ensure every piece of content, design, or code reflects your brand's tone, style, and overall identity.
+                                            Absolutely. We collaborate closely with you to ensure every piece of content, design, or code reflects your brand's tone, style, and overall identity.
                                         </p>
                                     </div>
                                 </div>
                             </div>
+                            <!-- FAQ Item -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingSEO1">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSEO1" aria-expanded="false" aria-controls="collapseSEO1">
+                                        What is SEO content writing and why is it important for websites?
+                                    </button>
+                                </h2>
+                                <div id="collapseSEO1" class="accordion-collapse collapse" aria-labelledby="headingSEO1" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p>SEO content writing involves crafting keyword-optimized content to improve your site’s visibility on search engines. It helps attract organic traffic, engage users, and drive conversions.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- FAQ Item -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingSEO2">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSEO2" aria-expanded="false" aria-controls="collapseSEO2">
+                                        How do blog writing services help with lead generation and SEO?
+                                    </button>
+                                </h2>
+                                <div id="collapseSEO2" class="accordion-collapse collapse" aria-labelledby="headingSEO2" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p>Blog writing targets long-tail keywords and audience questions, improving SEO rankings. Consistent blogging drives traffic, builds trust, and boosts lead generation through CTAs and internal links.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- FAQ Item -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingSEO3">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSEO3" aria-expanded="false" aria-controls="collapseSEO3">
+                                        What’s the difference between website content writing and SEO article writing?
+                                    </button>
+                                </h2>
+                                <div id="collapseSEO3" class="accordion-collapse collapse" aria-labelledby="headingSEO3" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p>Website content focuses on persuasive copy for static pages like Home and Services, while SEO articles target specific keywords to rank in search results and attract ongoing traffic.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- FAQ Item -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingSEO4">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSEO4" aria-expanded="false" aria-controls="collapseSEO4">
+                                        Do you provide technical writing services for software or industrial companies?
+                                    </button>
+                                </h2>
+                                <div id="collapseSEO4" class="accordion-collapse collapse" aria-labelledby="headingSEO4" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p>Yes, we offer technical writing for IT, SaaS, and manufacturing sectors—covering user manuals, SOPs, help guides, and more, in clear and structured formats.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- FAQ Item -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingSEO5">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSEO5" aria-expanded="false" aria-controls="collapseSEO5">
+                                        Can I outsource content writing to your team for long-term projects?
+                                    </button>
+                                </h2>
+                                <div id="collapseSEO5" class="accordion-collapse collapse" aria-labelledby="headingSEO5" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p>Absolutely. We offer long-term content support with dedicated writers for blogs, SEO pages, product descriptions, and more—fully managed and quality checked.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- FAQ Item -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingIT1">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseIT1" aria-expanded="false" aria-controls="collapseIT1">
+                                        How do your IT outsourcing services work?
+                                    </button>
+                                </h2>
+                                <div id="collapseIT1" class="accordion-collapse collapse" aria-labelledby="headingIT1" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p>We offer scalable IT outsourcing solutions with dedicated teams aligned to your goals—handling everything from custom development to support and maintenance.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- FAQ Item -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingELearning1">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseELearning1" aria-expanded="false" aria-controls="collapseELearning1">
+                                        What industries do you cater to with your eLearning solutions?
+                                    </button>
+                                </h2>
+                                <div id="collapseELearning1" class="accordion-collapse collapse" aria-labelledby="headingELearning1" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p>We serve software, tech, manufacturing, finance, healthcare, government, hospitality, education, and retail—offering onboarding, compliance, and skills training solutions.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- FAQ Item -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingCustom1">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseCustom1" aria-expanded="false" aria-controls="collapseCustom1">
+                                        Can we request changes to better align with our brand voice?
+                                    </button>
+                                </h2>
+                                <div id="collapseCustom1" class="accordion-collapse collapse" aria-labelledby="headingCustom1" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p>Absolutely. We collaborate with you closely to ensure every deliverable—whether content, design, or code—reflects your brand’s tone, style, and identity.</p>
+                                    </div>
+                                </div>
+                            </div>
+
                         </div>
                     </div>
                 </div>
