@@ -39,12 +39,12 @@
             <div class="error-box">
                 <div class="row">
                     <div class="col-lg-8 offset-lg-2">
-                        <h1>Coming Soon</h1>
-                        <h2>Sorry Page Was Not Found!</h2>
+                        <h1>Thank You!</h1>
+                        <h2>Your Submission Has Been Received</h2>
                         <p>
-                            We’re diligently working on will soon go live! Stay tuned for a seamless browsing experience, packed with thoughtfully designed layouts and valuable content tailored to meet your needs. We’re excited to unveil it shortly—get ready to explore!
+                            We truly appreciate your time and interest. Our team has received your message and will get back to you shortly. In the meantime, feel free to explore more of our services or reach out to us directly if you have any urgent queries.
                         </p>
-                        <a class="btn mt-20 btn-md btn-theme" href="#">Back to home</a>
+                        <a class="btn mt-20 btn-md btn-theme" href="index.php">Back to Home</a>
                     </div>
                 </div>
             </div>

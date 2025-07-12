@@ -65,7 +65,7 @@
             </div>
             <!-- End Top Search -->
 
-            <div class="d-flex justify-content-between align-items-center">
+            <div class="container d-flex justify-content-between align-items-center">
                 <!-- Start Header Navigation -->
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
@@ -94,12 +94,12 @@
                                             <h6 class="title">Core Tech Services</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
-                                                    <li><a href="../services/Template-Based-Website-Development.php">Template-Based Website Development</a>
+                                                    <li><a href="../services/website-development-company.php" target="_blank">Website Design & Development</a></li>
+                                                    <li><a href="../services/Template-Based-Website-Development.php" target="_blank">Template-Based Website Development</a>
                                                     </li>
-                                                    <li><a href="../services/WordPress-Website-Development.php">WordPress Website Development</a></li>
-                                                    <li><a href="../services/Custom-Website-Development.php">Custom Website Development</a></li>
-                                                    <li><a href="../services/E-commerce-Website-Development.php">E-commerce Website Development</a></li>
+                                                    <li><a href="../services/WordPress-Website-Development.php" target="_blank">WordPress Website Development</a></li>
+                                                    <li><a href="../services/Custom-Website-Development.php" target="_blank">Custom Website Development</a></li>
+                                                    <li><a href="../services/E-commerce-Website-Development.php" target="_blank">E-commerce Website Development</a></li>
 
                                                 </ul>
                                             </div>
@@ -109,11 +109,11 @@
                                             <h6 class="title">End-to-End Services</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
-                                                    <li><a href="../services/content-marketing-services.php">Content Marketing Services</a></li>
-                                                    <li><a href="../services/seo-auditing-services.php">SEO Audit and Optimization</a></li>
-                                                    <li><a href="../services/social-media-marketing.php">Social Media Marketing</a></li>
-                                                    <li><a href="../services/google-search-ads-services.php">Google Search Ads</a></li>
+                                                    <li><a href="../services/website-development-company.php" target="_blank">Website Design & Development</a></li>
+                                                    <li><a href="../services/content-marketing-services.php" target="_blank">Content Marketing Services</a></li>
+                                                    <li><a href="../services/seo-auditing-services.php" target="_blank">SEO Audit and Optimization</a></li>
+                                                    <li><a href="../services/social-media-marketing.php" target="_blank">Social Media Marketing</a></li>
+                                                    <li><a href="../services/google-search-ads-services.php" target="_blank">Google Search Ads</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -122,9 +122,9 @@
                                             <div class="content">
                                                 <ul class="menu-col">
 
-                                                    <li><a href="../services/App-Development.php">App Development</a></li>
-                                                    <li><a href="../services/IT-Outsourcing-Services.php">IT Outsourcing Services</a></li>
-                                                    <li><a href="../services/IT-Team-Outsourcing.php">IT Team Outsourcing</a></li>
+                                                    <li><a href="../services/App-Development.php" target="_blank">App Development</a></li>
+                                                    <li><a href="../services/IT-Outsourcing-Services.php" target="_blank">IT Outsourcing Services</a></li>
+                                                    <li><a href="../services/IT-Team-Outsourcing.php" target="_blank">IT Team Outsourcing</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -132,30 +132,7 @@
                                 </li>
                             </ul>
                         </li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
-                            <ul class="dropdown-menu">
-                                <li><a href="../whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
-                                <li><a href="../whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
-                                <li><a href="../whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
-                                <li><a href="../whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
-                                <li><a href="../whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flow</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data Services</a>
-                            <ul class="dropdown-menu">
-                                <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
-                                <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
-                                <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
-                                <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
-                                <li><a href="../data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
-                                <li><a href="../data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
-                                <li><a href="../data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
-                                <li><a href="../data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
-                                <li><a href="../data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
-                            </ul>
-                        </li>
+
                         <li class="dropdown megamenu-fw">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Content Services</a>
                             <ul class="dropdown-menu megamenu-content" role="menu">
@@ -165,11 +142,11 @@
                                             <h6 class="title">SEO &amp; Content Writing</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/website-content-writing.php">Website Content Writing</a></li>
-                                                    <li><a href="../services/seo-article-writing.php">SEO Article Writing</a></li>
-                                                    <li><a href="../services/blog-writing-services.php">Blog Writing</a></li>
-                                                    <li><a href="../services/case-study-writing-services.php">Case Study Writing</a></li>
-                                                    <li><a href="../services/product-description-writing-services.php">Product Description</a></li>
+                                                    <li><a href="../services/website-content-writing.php" target="_blank">Website Content Writing</a></li>
+                                                    <li><a href="../services/seo-article-writing.php" target="_blank">SEO Article Writing</a></li>
+                                                    <li><a href="../services/blog-writing-services.php" target="_blank">Blog Writing</a></li>
+                                                    <li><a href="../services/case-study-writing-services.php" target="_blank">Case Study Writing</a></li>
+                                                    <li><a href="../services/product-description-writing-services.php" target="_blank">Product Description</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -177,10 +154,10 @@
                                             <h6 class="title">Specialized Content Services</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/content_writing_strategy.php">Content Writing & Strategy</a></li>
-                                                    <li><a href="../services/technical-writing-services.php">Technical Writing Services</a></li>
-                                                    <li><a href="../services/White-Papers-Case-Studies.php">Whitepapers & Case Studies</a></li>
-                                                    <li><a href="../services/Content-Team-Outsourcing.php">Content Team Outsourcing</a></li>
+                                                    <li><a href="../services/content_writing_strategy.php" target="_blank">Content Writing & Strategy</a></li>
+                                                    <li><a href="../services/technical-writing-services.php" target="_blank">Technical Writing Services</a></li>
+                                                    <li><a href="../services/White-Papers-Case-Studies.php" target="_blank">Whitepapers & Case Studies</a></li>
+                                                    <li><a href="../services/Content-Team-Outsourcing.php" target="_blank">Content Team Outsourcing</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -188,10 +165,10 @@
                                             <h6 class="title">Industries We Serve</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/logistics-content-marketing.php">Logistics</a></li>
-                                                    <li><a href="../services/Industries-We-Serve-Manufacturing.php">Manufacturing</a></li>
-                                                    <li><a href="../services/Industries-We-Serve-Technology.php">Technology</a></li>
-                                                    <li><a href="../services/ecommerce-content-services.php">E-commerce</a></li>
+                                                    <li><a href="../services/logistics-content-marketing.php" target="_blank">Logistics</a></li>
+                                                    <li><a href="../services/Industries-We-Serve-Manufacturing.php" target="_blank">Manufacturing</a></li>
+                                                    <li><a href="../services/Industries-We-Serve-Technology.php" target="_blank">Technology</a></li>
+                                                    <li><a href="../services/ecommerce-content-services.php" target="_blank">E-commerce</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -209,10 +186,10 @@
                                             <h6 class="title">Custom Solutions</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/Custom-eLearning-Development.php">Custom eLearning Development</a></li>
-                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php">PowerPoint to eLearning Conversion</a></li>
-                                                    <li><a href="../services/Mobile-Learn-Microlearning.php">Mobile Learning / Microlearning</a></li>
-                                                    <li><a href="../services/Gamified-Learning-Modules.php">Gamified Learning Modules</a></li>
+                                                    <li><a href="../services/Custom-eLearning-Development.php" target="_blank">Custom eLearning Development</a></li>
+                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php" target="_blank">PowerPoint to eLearning Conversion</a></li>
+                                                    <li><a href="../services/Mobile-Learn-Microlearning.php" target="_blank">Mobile Learning / Microlearning</a></li>
+                                                    <li><a href="../services/Gamified-Learning-Modules.php" target="_blank">Gamified Learning Modules</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -220,14 +197,14 @@
                                             <h6 class="title">Use Cases</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/Employee-Onboarding.php">Employee Onboarding</a></li>
-                                                    <li><a href="../services/Talent-Development.php">Talent Development</a></li>
-                                                    <li><a href="../services/Compliance-Training.php">Compliance Training</a></li>
-                                                    <li><a href="../services/Sales-Enablement.php">Sales Enablement</a></li>
-                                                    <li><a href="../services/Customer-Education.php">Customer Education</a></li>
-                                                    <li><a href="../services/Partner-Enablement.php">Partner Enablement</a></li>
-                                                    <li><a href="../services/Frontline-Workforce-Training.php">Frontline Workforce Training</a></li>
-                                                    <li><a href="../services/Member-Training.php">Member Training</a></li>
+                                                    <li><a href="../services/Employee-Onboarding.php" target="_blank">Employee Onboarding</a></li>
+                                                    <li><a href="../services/Talent-Development.php" target="_blank">Talent Development</a></li>
+                                                    <li><a href="../services/Compliance-Training.php" target="_blank">Compliance Training</a></li>
+                                                    <li><a href="../services/Sales-Enablement.php" target="_blank">Sales Enablement</a></li>
+                                                    <li><a href="../services/Customer-Education.php" target="_blank">Customer Education</a></li>
+                                                    <li><a href="../services/Partner-Enablement.php" target="_blank">Partner Enablement</a></li>
+                                                    <li><a href="../services/Frontline-Workforce-Training.php" target="_blank">Frontline Workforce Training</a></li>
+                                                    <li><a href="../services/Member-Training.php" target="_blank">Member Training</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -235,14 +212,14 @@
                                             <h6 class="title">Industries Served</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../coming-soon.php">Software & Tech</a></li>
-                                                    <li><a href="../coming-soon.php">Financial Services</a></li>
-                                                    <li><a href="../coming-soon.php">Manufacturing</a></li>
-                                                    <li><a href="../coming-soon.php">Healthcare</a></li>
-                                                    <li><a href="../coming-soon.php">Government</a></li>
-                                                    <li><a href="../coming-soon.php">Restaurants & Hospitality</a></li>
-                                                    <li><a href="../coming-soon.php">Education</a></li>
-                                                    <li><a href="../coming-soon.php">Retail</a></li>
+                                                    <li><a href="">Software & Tech</a></li>
+                                                    <li><a href="">Financial Services</a></li>
+                                                    <li><a href="">Manufacturing</a></li>
+                                                    <li><a href="">Healthcare</a></li>
+                                                    <li><a href="">Government</a></li>
+                                                    <li><a href="">Restaurants & Hospitality</a></li>
+                                                    <li><a href="">Education</a></li>
+                                                    <li><a href="">Retail</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -262,19 +239,6 @@
                            </ul>
                        </li> -->
 
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Video Services</a>
-                            <ul class="dropdown-menu">
-                                <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
-                                <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
-                                <li><a href="../services/Video-Ads.php">Video Ads</a></li>
-                                <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
-                                <li><a href="../services/Repurpose-Videos.php">Repurpose Videos</a></li>
-                                <li><a href="../services/Video-Editing.php">Video Editing</a></li>
-                                <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
-                                <li><a href="../services/Onboarding-Videos.php">Onboarding Videos</a></li>
-                            </ul>
-                        </li>
 
                         <li><a href="../contact-us.php">Contact</a></li>
                     </ul>
@@ -364,11 +328,13 @@
                         <div class="swiper-wrapper">
                             <!-- Single Item -->
                             <div class="swiper-slide">
+                                <img src="../assets/img/brand/we3scs.png" alt="Image Not Found">
+                            </div>
+                            <div class="swiper-slide">
                                 <img src="../assets/img/brand/caper.png" alt="Image Not Found">
                             </div>
                             <!-- End Single Item -->
                             <!-- Single Item -->
-
                             <!-- End Single Item -->
                             <!-- Single Item -->
                             <div class="swiper-slide">
@@ -376,12 +342,25 @@
                             </div>
                             <!-- End Single Item -->
                             <!-- Single Item -->
+                            <!-- End Single Item -->
+
+                            <!-- Single Item -->
                             <div class="swiper-slide">
-                                <img src="../assets/img/brand/we3scs.png" alt="Image Not Found">
+                                <img src="../assets/img/brand/hilift.png" alt="Image Not Found">
                             </div>
                             <!-- End Single Item -->
 
+                            <!-- Single Item -->
+                            <div class="swiper-slide">
+                                <img src="../assets/img/brand/daakiyawala.png" alt="Image Not Found">
+                            </div>
                             <!-- End Single Item -->
+
+                            <!-- Single Item -->
+                            <div class="swiper-slide">
+                                <img src="../assets/img/brand/cariesco.png" alt="Image Not Found">
+                            </div>
+
                         </div>
                     </div>
                 </div>
@@ -446,15 +425,19 @@
                     </div>
                 </div>
             </div>
+
+            <div class="button" style="margin-top: 20px;">
+                <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min">Let’s Talk</a>
+            </div>
         </div>
     </div>
     <!-- End Service Range -->
     <!-- Calendly inline widget begin -->
 
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <!-- <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
 
     <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-
+ -->
 
     <!-- Calendly inline widget end -->
 
@@ -617,580 +600,595 @@
                     </div>
                 </div>
                 <!-- End Single Item -->
+
+                <div class="button" style="margin-top: 20px;text-align:center">
+                    <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min">Let’s Talk</a>
+                </div>
             </div>
         </div>
-    </div>
-    <!-- End Feature -->
+        <!-- End Feature -->
 
-    <!-- Start Knowledge Hub 
+        <!-- Start Knowledge Hub 
     ============================================= -->
-    <div class="knowledge-hub-area overflow-hidden default-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="faq-style-one">
-                        <div class="accordion" id="faqAccordion">
-                            <!-- FAQ Item 1 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingOne">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        What is blog post writing, and why is it important for my business?
-                                    </button>
-                                </h2>
-                                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            <strong>Blog post writing</strong> involves creating valuable, informative content tailored to your audience’s needs. It’s essential for building authority, improving SEO rankings, driving organic traffic, and accelerating <strong>content marketing</strong> efforts. Our <strong>Blog Writing Services</strong> help you engage and educate your audience while boosting your SERP rankings.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ Item 2 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingTwo">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        How can SEO blog writing boost my website’s visibility?
-                                    </button>
-                                </h2>
-                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            <strong>SEO blog writing</strong> involves using targeted keywords, headings, and proper structure to improve search engine rankings. By incorporating these techniques, our <strong>SEO Blog Writing Company</strong> boosts your website’s visibility, bringing more organic traffic and enhancing your SERP position.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ Item 3 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingThree">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        What are domain articles, and how can they benefit my brand?
-                                    </button>
-                                </h2>
-                                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            Domain articles are specialized content that demonstrate your expertise in a specific field. They help build trust with your audience, improve your website’s SEO, and drive organic traffic. Our <strong>Blog Writing Services</strong> create domain articles that position your brand as a thought leader.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ Item 4 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingFour">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour"> How can expert blog writing improve customer engagement?</button>
-                                </h2>
-                                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            Expert <strong>blog writing</strong> delivers valuable, engaging content that resonates with your target audience. This drives deeper connections, encouraging readers to spend more time on your site, share your content, and take action, which ultimately boosts your conversion rates and brand recognition.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ Item 5 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingFive">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        What makes SEO-friendly blog posts stand out?
-                                    </button>
-                                </h2>
-                                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            SEO-friendly blog posts are optimized with relevant keywords, compelling meta descriptions, and proper heading tags. They are structured to be easily read by both users and search engines, improving your ranking and driving organic traffic to your site, all while expediting <strong>content marketing</strong> efforts.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ Item 6 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingSix">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                                        What is thought leadership in blog writing?
-                                    </button>
-                                </h2>
-                                <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            Thought leadership in <strong>blog writing</strong> means creating insightful, forward-thinking content that showcases your expertise. It builds trust with your audience and positions your brand as an industry leader. Our <strong>SEO Blog Writing Company</strong> provides high-quality content that highlights your knowledge.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ Item 7 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingSeven">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-                                        Can SEO blog posts help with lead generation?
-                                    </button>
-                                </h2>
-                                <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            Yes, SEO blog posts drive traffic to your site through strategic keyword use. These blog posts also include calls to action (CTAs) that encourage visitors to engage with your business, sign up for newsletters, or request more information—ultimately aiding in lead generation.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ Item 8 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingEight">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
-                                        How often should I publish blog posts to maintain SEO rankings?
-                                    </button>
-                                </h2>
-                                <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            Consistency is crucial for maintaining SEO rankings. We recommend publishing <strong>blog posts</strong> regularly (at least once a month) to keep your content fresh and relevant. Regularly updated content signals to search engines that your site is active, authoritative, and valuable to your audience.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ Item 9 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingNine">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
-                                        How do blog post writers ensure content aligns with my brand voice?
-                                    </button>
-                                </h2>
-                                <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            Our writers work closely with you to understand your brand’s voice, values, and goals. We ensure that all <strong>blog posts</strong> reflect your brand personality, tone, and messaging, offering a cohesive experience for your audience and boosting brand recognition.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ Item 10 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingTen">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
-                                        What makes a blog post suitable for SEO?
-                                    </button>
-                                </h2>
-                                <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            A <strong>blog post</strong> suitable for SEO includes keyword-rich content, proper formatting, internal and external links, and high-quality, valuable information that addresses user intent. These elements help increase engagement, improve rankings, and drive organic traffic.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Knowledge Hub -->
-
-
-    <!-- Start Content Marketing Services
-    ============================================= -->
-    <div class="about-style-three-area default-padding overflow-hidden">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 about-style-three">
-                    <div class="about-three-thumb">
-                        <img src="../assets/img/homepage5.png" alt="Image Not Found">
-
-                        <div class="experience">
-                            <h2><strong>10+</strong> Years of Creating Impactful Content Marketing</h2>
-                        </div>
-                        <div class="animated-shape">
-                            <img src="../assets/img/shape/38.png" alt="Shape">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-5 offset-lg-1 about-style-three">
-                    <div class="about-three-info">
-                        <h4 class="sub-title">Why Choose Our Content Marketing Services</h4>
-                        <h2 class="title">Elevate Your Brand with Professional Content Marketing</h2>
-                        <ul class="list-grid-four">
-                            <li><strong>Comprehensive Content Marketing Strategies for Long-Term Success</strong></li>
-                            <li><strong>SEO-Optimized Blog Posts and Articles to Drive Traffic</strong></li>
-                            <li><strong>Expert Content Writing Services Tailored to Your Business Needs</strong></li>
-                            <li><strong>Engaging Web Content and Case Studies to Build Trust</strong></li>
-                            <li><strong>Targeted Content Marketing to Enhance Brand Visibility</strong></li>
-                            <li><strong>Ongoing Performance Analysis to Measure Results</strong></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Content Marketing Services -->
-
-    <!-- Calendly inline widget begin -->
-
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
-
-    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-
-
-    <!-- Calendly inline widget end -->
-    <!-- Start Content Marketing Process
-    ============================================= -->
-    <div class="process-style-one-area text-center default-padding">
-
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center">
-                        <h5 class="sub-title">Our Proven Content Marketing Process</h5>
-                        <h2 class="title">A Step-by-Step Approach to Successful Content Marketing</h2>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="container">
-            <div class="row">
-                <!-- Single Item -->
-                <div class="col-xl-3 col-lg-6 process-style-one">
-                    <div class="item">
-                        <div class="icon">
-                            <i class="flaticon-target"></i>
-                        </div>
-                        <div class="point">
-                            <span>01</span>
-                        </div>
-                        <h4>Goal Setting & Strategy</h4>
-
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-xl-3 col-lg-6 process-style-one">
-                    <div class="item">
-                        <div class="icon">
-                            <i class="flaticon-research"></i>
-                        </div>
-                        <div class="content">
-                            <div class="point">
-                                <span>02</span>
-                            </div>
-                            <h4>Research & Content Planning</h4>
-
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-xl-3 col-lg-6 process-style-one">
-                    <div class="item">
-                        <div class="icon">
-                            <i class="flaticon-pen"></i>
-                        </div>
-                        <div class="point">
-                            <span>03</span>
-                        </div>
-                        <h4>Content Creation</h4>
-
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-xl-3 col-lg-6 process-style-one">
-                    <div class="item">
-                        <div class="icon">
-                            <i class="flaticon-analysis"></i>
-                        </div>
-                        <div class="point">
-                            <span>04</span>
-                        </div>
-                        <h4>Review & Optimization</h4>
-
-                    </div>
-                </div>
-                <!-- End Single Item -->
-            </div>
-        </div>
-    </div>
-    <!-- End Content Marketing Process -->
-
-    <!-- Start Contact Us 
-    ============================================= -->
-    <div class="contact-area overflow-hidden default-padding" style="background-image: url(assets/img/shape/map.png);">
-        <div class="shape-right-bottom">
-            <img src="../assets/img/shape/18.png" alt="Shape">
-        </div>
-        <div class="container">
-            <div class="row align-center">
-                <div class="col-tact-stye-one col-lg-5">
-                    <div class="contact-style-one-info">
-                        <div class="mb-40">
-                            <h2>Contact Information</h2>
-
-                        </div>
-                        <ul class="contact-address">
-                            <li class="wow fadeInUp">
-                                <div class="content">
-                                    <h4 class="title">Location</h4>
-                                    <p>
-                                        Gundecha Onclave, Ansa Industrial Estate, Chandivali, Powai, Mumbai, Maharashtra 400072
-                                    </p>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp" data-wow-delay="300ms">
-                                <div class="info">
-                                    <h4 class="title">Official Email</h4>
-                                    <a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp" data-wow-delay="500ms">
-                                <div class="info">
-                                    <h4 class="title">Company Website</h4>
-                                    <a href="https://www.itdgrowthlabs.com" target="_blank">www.itdgrowthlabs.com</a>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp" data-wow-delay="700ms">
-                                <div class="info">
-                                    <h4 class="title">Company Name</h4>
-                                    <p>ITD GrowthLabs</p>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-tact-stye-one col-lg-6 offset-lg-1">
-                    <div class="contact-form-style-one">
-                        <h4 class="sub-title">Have Questions?</h4>
-                        <h2 class="title">Send us a Message</h2>
-                        <form action="contactMail.php" method="POST" class="contact-form2">
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <div class="form-group">
-                                        <input class="form-control" id="name" name="name" placeholder="Name" type="text">
-                                        <span class="alert-error"></span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-6">
-                                    <div class="form-group">
-                                        <input class="form-control" id="email" name="email" placeholder="Email*" type="email">
-                                        <span class="alert-error"></span>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6">
-                                    <div class="form-group">
-                                        <input class="form-control" id="phone" name="phone" placeholder="Phone" type="text">
-                                        <span class="alert-error"></span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <div class="form-group comments">
-                                        <textarea class="form-control" id="subject" name="subject" placeholder="Tell Us About Project *" type="text"></textarea>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-12 col-md-12">
-                                <div class="form-group">
-                                    <div class="g-recaptcha" data-sitekey="6Lez7pMqAAAAAEW9ugHXssmeVZdvo2jSYXMH98FB"></div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <button type="submit" name="submit" id="submit">
-                                        <i class="fa fa-paper-plane"></i> Get in Touch
-                                    </button>
-                                </div>
-                            </div>
-                            <!-- Alert Message -->
-                            <div class="col-lg-12 alert-notification">
-                                <div id="message" class="alert-msg"></div>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Contact -->
-
-    <!-- Start Footer 
-    ============================================= -->
-    <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
-        <div class="container">
-            <div class="f-items default-padding-bottom pt-70 pt-xs-0">
-                <div class="row">
-                    <!-- Content Services -->
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Content Services</h4>
-                            <ul>
-                                <li><a href="../services/website-content-writing.php">Website Content Writing</a></li>
-                                <li><a href="../services/seo-article-writing.php">SEO Article Writing</a></li>
-                                <li><a href="../services/blog-writing-services.php">Blog Writing</a></li>
-                                <li><a href="../services/case-study-writing-services.php">Case Study Writing</a></li>
-                                <li><a href="../services/product-description-writing-services.php">Product Description</a></li>
-                            </ul>
-                        </div>
-                    </div>
-
-                    <!-- End-to-End Services -->
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">End-to-End Services</h4>
-                            <ul>
-                                <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
-                                <li><a href="../services/content-marketing-services.php">Content Marketing Services</a></li>
-                                <li><a href="../services/seo-auditing-services.php">SEO Audit and Optimization</a></li>
-                                <li><a href="../services/social-media-marketing.php">Social Media Marketing</a></li>
-                                <li><a href="../services/google-search-ads-services.php">Google Search Ads</a></li>
-                            </ul>
-                        </div>
-                    </div>
-
-                    <!-- Industries We Serve & WhatsApp Marketing -->
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-
-                            <h4 class="widget-title">WhatsApp Marketing</h4>
-                            <ul>
-                                <li><a href="../whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
-                                <li><a href="../whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
-                                <li><a href="../whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
-                                <li><a href="../whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
-                                <li><a href="../whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flows</a></li>
-                            </ul>
-                        </div>
-                    </div>
-
-                    <!-- Video Services -->
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Video Services</h4>
-                            <ul>
-                                <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
-                                <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
-                                <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
-                                <li><a href="../services/Video-Editing.php">Video Editing</a></li>
-                                <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
-                            </ul>
-                            </ul>
-                        </div>
-                    </div>
-
-
-                    <!-- Data Services -->
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Data Services</h4>
-                            <ul>
-                                <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry Services</a></li>
-                                <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
-                                <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
-                                <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!-- Data Services -->
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Data Annotation Services</h4>
-                            <ul>
-                                <li><a href="../data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
-                                <li><a href="../data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
-                                <li><a href="../data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
-                                <li><a href="../data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!-- Data Services -->
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Resources</h4>
-                            <ul>
-                                <li><a href="../resources/all-blogs.php">Blogs</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!-- Contact Information -->
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item contact">
-                            <h4 class="widget-title">Contact Us</h4>
-                            <ul>
-                                <li>Gundecha Onclave, Mumbai, 400072</li>
-                                <li><a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <!-- Footer Bottom -->
-        <div class="footer-bottom bg-dark text-light text-center">
+        <div class="knowledge-hub-area overflow-hidden default-padding">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-12">
-                        <p>Copyright &copy; 2025 ITD GrowthLabs All Rights Reserved</p>
+                    <div class="col-12">
+                        <div class="faq-style-one">
+                            <div class="accordion" id="faqAccordion">
+                                <!-- FAQ Item 1 -->
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="headingOne">
+                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                            What is blog post writing, and why is it important for my business?
+                                        </button>
+                                    </h2>
+                                    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
+                                        <div class="accordion-body">
+                                            <p>
+                                                <strong>Blog post writing</strong> involves creating valuable, informative content tailored to your audience’s needs. It’s essential for building authority, improving SEO rankings, driving organic traffic, and accelerating <strong>content marketing</strong> efforts. Our <strong>Blog Writing Services</strong> help you engage and educate your audience while boosting your SERP rankings.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- FAQ Item 2 -->
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="headingTwo">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                            How can SEO blog writing boost my website’s visibility?
+                                        </button>
+                                    </h2>
+                                    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
+                                        <div class="accordion-body">
+                                            <p>
+                                                <strong>SEO blog writing</strong> involves using targeted keywords, headings, and proper structure to improve search engine rankings. By incorporating these techniques, our <strong>SEO Blog Writing Company</strong> boosts your website’s visibility, bringing more organic traffic and enhancing your SERP position.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- FAQ Item 3 -->
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="headingThree">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                            What are domain articles, and how can they benefit my brand?
+                                        </button>
+                                    </h2>
+                                    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
+                                        <div class="accordion-body">
+                                            <p>
+                                                Domain articles are specialized content that demonstrate your expertise in a specific field. They help build trust with your audience, improve your website’s SEO, and drive organic traffic. Our <strong>Blog Writing Services</strong> create domain articles that position your brand as a thought leader.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- FAQ Item 4 -->
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="headingFour">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour"> How can expert blog writing improve customer engagement?</button>
+                                    </h2>
+                                    <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
+                                        <div class="accordion-body">
+                                            <p>
+                                                Expert <strong>blog writing</strong> delivers valuable, engaging content that resonates with your target audience. This drives deeper connections, encouraging readers to spend more time on your site, share your content, and take action, which ultimately boosts your conversion rates and brand recognition.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- FAQ Item 5 -->
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="headingFive">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                            What makes SEO-friendly blog posts stand out?
+                                        </button>
+                                    </h2>
+                                    <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
+                                        <div class="accordion-body">
+                                            <p>
+                                                SEO-friendly blog posts are optimized with relevant keywords, compelling meta descriptions, and proper heading tags. They are structured to be easily read by both users and search engines, improving your ranking and driving organic traffic to your site, all while expediting <strong>content marketing</strong> efforts.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- FAQ Item 6 -->
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="headingSix">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                            What is thought leadership in blog writing?
+                                        </button>
+                                    </h2>
+                                    <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#faqAccordion">
+                                        <div class="accordion-body">
+                                            <p>
+                                                Thought leadership in <strong>blog writing</strong> means creating insightful, forward-thinking content that showcases your expertise. It builds trust with your audience and positions your brand as an industry leader. Our <strong>SEO Blog Writing Company</strong> provides high-quality content that highlights your knowledge.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- FAQ Item 7 -->
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="headingSeven">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                                            Can SEO blog posts help with lead generation?
+                                        </button>
+                                    </h2>
+                                    <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#faqAccordion">
+                                        <div class="accordion-body">
+                                            <p>
+                                                Yes, SEO blog posts drive traffic to your site through strategic keyword use. These blog posts also include calls to action (CTAs) that encourage visitors to engage with your business, sign up for newsletters, or request more information—ultimately aiding in lead generation.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- FAQ Item 8 -->
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="headingEight">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                                            How often should I publish blog posts to maintain SEO rankings?
+                                        </button>
+                                    </h2>
+                                    <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#faqAccordion">
+                                        <div class="accordion-body">
+                                            <p>
+                                                Consistency is crucial for maintaining SEO rankings. We recommend publishing <strong>blog posts</strong> regularly (at least once a month) to keep your content fresh and relevant. Regularly updated content signals to search engines that your site is active, authoritative, and valuable to your audience.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- FAQ Item 9 -->
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="headingNine">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+                                            How do blog post writers ensure content aligns with my brand voice?
+                                        </button>
+                                    </h2>
+                                    <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine" data-bs-parent="#faqAccordion">
+                                        <div class="accordion-body">
+                                            <p>
+                                                Our writers work closely with you to understand your brand’s voice, values, and goals. We ensure that all <strong>blog posts</strong> reflect your brand personality, tone, and messaging, offering a cohesive experience for your audience and boosting brand recognition.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- FAQ Item 10 -->
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="headingTen">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+                                            What makes a blog post suitable for SEO?
+                                        </button>
+                                    </h2>
+                                    <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen" data-bs-parent="#faqAccordion">
+                                        <div class="accordion-body">
+                                            <p>
+                                                A <strong>blog post</strong> suitable for SEO includes keyword-rich content, proper formatting, internal and external links, and high-quality, valuable information that addresses user intent. These elements help increase engagement, improve rankings, and drive organic traffic.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- End Footer Bottom -->
-    </footer>
+        <!-- End Knowledge Hub -->
 
-    <!-- jQuery Frameworks
+
+        <!-- Start Content Marketing Services
     ============================================= -->
-    <script src="../assets/js/jquery-3.6.0.min.js"></script>
-    <script src="../assets/js/bootstrap.bundle.min.js"></script>
-    <script src="../assets/js/jquery.appear.js"></script>
-    <script src="../assets/js/jquery.easing.min.js"></script>
-    <script src="../assets/js/jquery.magnific-popup.min.js"></script>
-    <script src="../assets/js/modernizr.custom.13711.js"></script>
-    <script src="../assets/js/swiper-bundle.min.js"></script>
-    <script src="../assets/js/wow.min.js"></script>
-    <script src="../assets/js/progress-bar.min.js"></script>
-    <script src="../assets/js/circle-progress.js"></script>
-    <script src="../assets/js/isotope.pkgd.min.js"></script>
-    <script src="../assets/js/imagesloaded.pkgd.min.js"></script>
-    <script src="../assets/js/jquery.nice-select.min.js"></script>
-    <script src="../assets/js/count-to.js"></script>
-    <script src="../assets/js/jquery.scrolla.min.js"></script>
-    <script src="../assets/js/YTPlayer.min.js"></script>
-    <script src="../assets/js/TweenMax.min.js"></script>
-    <script src="../assets/js/validnavs.js"></script>
-    <script src="../assets/js/main.js"></script>
-    <script type="text/javascript" src='https://www.google.com/recaptcha/api.js' async defer></script>
-    <!-- Calendly badge widget begin -->
+        <div class="about-style-three-area default-padding overflow-hidden">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 about-style-three">
+                        <div class="about-three-thumb">
+                            <img src="../assets/img/homepage5.png" alt="Image Not Found">
 
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+                            <div class="experience">
+                                <h2><strong>10+</strong> Years of Creating Impactful Content Marketing</h2>
+                            </div>
+                            <div class="animated-shape">
+                                <img src="../assets/img/shape/38.png" alt="Shape">
+                            </div>
+                        </div>
+                        <br>
+                        <div class="button" style="margin-top: 20px;text-align:center">
+                            <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min">Let’s Talk</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-5 offset-lg-1 about-style-three">
+                        <div class="about-three-info">
+                            <h4 class="sub-title">Why Choose Our Content Marketing Services</h4>
+                            <h2 class="title">Elevate Your Brand with Professional Content Marketing</h2>
+                            <ul class="list-grid-four">
+                                <li><strong>Comprehensive Content Marketing Strategies for Long-Term Success</strong></li>
+                                <li><strong>SEO-Optimized Blog Posts and Articles to Drive Traffic</strong></li>
+                                <li><strong>Expert Content Writing Services Tailored to Your Business Needs</strong></li>
+                                <li><strong>Engaging Web Content and Case Studies to Build Trust</strong></li>
+                                <li><strong>Targeted Content Marketing to Enhance Brand Visibility</strong></li>
+                                <li><strong>Ongoing Performance Analysis to Measure Results</strong></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+        </div>
+        <!-- End Content Marketing Services -->
 
-    <script type="text/javascript">
-        window.onload = function() {
-            Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
-                text: 'Schedule time with me',
-                color: '#0069ff',
-                textColor: '#ffffff'
-            });
-        }
-    </script>
+        <!-- Calendly inline widget begin -->
 
-    <!-- Calendly badge widget end -->
+        <!-- <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+
+    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script> -->
+
+
+        <!-- Calendly inline widget end -->
+        <!-- Start Content Marketing Process
+    ============================================= -->
+        <div class="process-style-one-area text-center default-padding">
+
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 offset-lg-2">
+                        <div class="site-heading text-center">
+                            <h5 class="sub-title">Our Proven Content Marketing Process</h5>
+                            <h2 class="title">A Step-by-Step Approach to Successful Content Marketing</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="row">
+                    <!-- Single Item -->
+                    <div class="col-xl-3 col-lg-6 process-style-one">
+                        <div class="item">
+                            <div class="icon">
+                                <i class="flaticon-target"></i>
+                            </div>
+                            <div class="point">
+                                <span>01</span>
+                            </div>
+                            <h4>Goal Setting & Strategy</h4>
+
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+
+                    <!-- Single Item -->
+                    <div class="col-xl-3 col-lg-6 process-style-one">
+                        <div class="item">
+                            <div class="icon">
+                                <i class="flaticon-research"></i>
+                            </div>
+                            <div class="content">
+                                <div class="point">
+                                    <span>02</span>
+                                </div>
+                                <h4>Research & Content Planning</h4>
+
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+
+                    <!-- Single Item -->
+                    <div class="col-xl-3 col-lg-6 process-style-one">
+                        <div class="item">
+                            <div class="icon">
+                                <i class="flaticon-pen"></i>
+                            </div>
+                            <div class="point">
+                                <span>03</span>
+                            </div>
+                            <h4>Content Creation</h4>
+
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+
+                    <!-- Single Item -->
+                    <div class="col-xl-3 col-lg-6 process-style-one">
+                        <div class="item">
+                            <div class="icon">
+                                <i class="flaticon-analysis"></i>
+                            </div>
+                            <div class="point">
+                                <span>04</span>
+                            </div>
+                            <h4>Review & Optimization</h4>
+
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+                </div>
+            </div>
+        </div>
+        <!-- End Content Marketing Process -->
+        <!-- Calendly inline widget begin -->
+
+        <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+
+        <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+
+
+        <!-- Calendly inline widget end -->
+        <!-- Start Contact Us 
+    ============================================= -->
+        <div class="contact-area overflow-hidden default-padding" style="background-image: url(assets/img/shape/map.png);">
+            <div class="shape-right-bottom">
+                <img src="../assets/img/shape/18.png" alt="Shape">
+            </div>
+            <div class="container">
+                <div class="row align-center">
+                    <div class="col-tact-stye-one col-lg-5">
+                        <div class="contact-style-one-info">
+                            <div class="mb-40">
+                                <h2>Contact Information</h2>
+
+                            </div>
+                            <ul class="contact-address">
+                                <li class="wow fadeInUp">
+                                    <div class="content">
+                                        <h4 class="title">Location</h4>
+                                        <p>
+                                            Gundecha Onclave, Ansa Industrial Estate, Chandivali, Powai, Mumbai, Maharashtra 400072
+                                        </p>
+                                    </div>
+                                </li>
+                                <li class="wow fadeInUp" data-wow-delay="300ms">
+                                    <div class="info">
+                                        <h4 class="title">Official Email</h4>
+                                        <a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a>
+                                    </div>
+                                </li>
+                                <li class="wow fadeInUp" data-wow-delay="500ms">
+                                    <div class="info">
+                                        <h4 class="title">Company Website</h4>
+                                        <a href="https://www.itdgrowthlabs.com" target="_blank">www.itdgrowthlabs.com</a>
+                                    </div>
+                                </li>
+                                <li class="wow fadeInUp" data-wow-delay="700ms">
+                                    <div class="info">
+                                        <h4 class="title">Company Name</h4>
+                                        <p>ITD GrowthLabs</p>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-tact-stye-one col-lg-6 offset-lg-1">
+                        <div class="contact-form-style-one">
+                            <h4 class="sub-title">Have Questions?</h4>
+                            <h2 class="title">Send us a Message</h2>
+                            <form action="contactMail.php" method="POST" class="contact-form2">
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <div class="form-group">
+                                            <input class="form-control" id="name" name="name" placeholder="Name" type="text">
+                                            <span class="alert-error"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-lg-6">
+                                        <div class="form-group">
+                                            <input class="form-control" id="email" name="email" placeholder="Email*" type="email">
+                                            <span class="alert-error"></span>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <div class="form-group">
+                                            <input class="form-control" id="phone" name="phone" placeholder="Phone" type="text">
+                                            <span class="alert-error"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <div class="form-group comments">
+                                            <textarea class="form-control" id="subject" name="subject" placeholder="Tell Us About Project *" type="text"></textarea>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-12 col-md-12">
+                                    <div class="form-group">
+                                        <div class="g-recaptcha" data-sitekey="6Lez7pMqAAAAAEW9ugHXssmeVZdvo2jSYXMH98FB"></div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <button type="submit" name="submit" id="submit">
+                                            <i class="fa fa-paper-plane"></i> Get in Touch
+                                        </button>
+                                    </div>
+                                </div>
+                                <!-- Alert Message -->
+                                <div class="col-lg-12 alert-notification">
+                                    <div id="message" class="alert-msg"></div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Contact -->
+
+        <!-- Start Footer 
+    ============================================= -->
+        <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
+            <div class="container">
+                <div class="f-items default-padding-bottom pt-70 pt-xs-0">
+                    <div class="row">
+                        <!-- Content Services -->
+                        <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                            <div class="f-item link">
+                                <h4 class="widget-title">Content Services</h4>
+                                <ul>
+                                    <li><a href="../services/website-content-writing.php">Website Content Writing</a></li>
+                                    <li><a href="../services/seo-article-writing.php">SEO Article Writing</a></li>
+                                    <li><a href="../services/blog-writing-services.php">Blog Writing</a></li>
+                                    <li><a href="../services/case-study-writing-services.php">Case Study Writing</a></li>
+                                    <li><a href="../services/product-description-writing-services.php">Product Description</a></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- End-to-End Services -->
+                        <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                            <div class="f-item link">
+                                <h4 class="widget-title">End-to-End Services</h4>
+                                <ul>
+                                    <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
+                                    <li><a href="../services/content-marketing-services.php">Content Marketing Services</a></li>
+                                    <li><a href="../services/seo-auditing-services.php">SEO Audit and Optimization</a></li>
+                                    <li><a href="../services/social-media-marketing.php">Social Media Marketing</a></li>
+                                    <li><a href="../services/google-search-ads-services.php">Google Search Ads</a></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- Industries We Serve & WhatsApp Marketing -->
+                        <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                            <div class="f-item link">
+
+                                <h4 class="widget-title">WhatsApp Marketing</h4>
+                                <ul>
+                                    <li><a href="../whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
+                                    <li><a href="../whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
+                                    <li><a href="../whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
+                                    <li><a href="../whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
+                                    <li><a href="../whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flows</a></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- Video Services -->
+                        <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                            <div class="f-item link">
+                                <h4 class="widget-title">Video Services</h4>
+                                <ul>
+                                    <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
+                                    <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
+                                    <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
+                                    <li><a href="../services/Video-Editing.php">Video Editing</a></li>
+                                    <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
+                                </ul>
+                                </ul>
+                            </div>
+                        </div>
+
+
+                        <!-- Data Services -->
+                        <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                            <div class="f-item link">
+                                <h4 class="widget-title">Data Services</h4>
+                                <ul>
+                                    <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry Services</a></li>
+                                    <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
+                                    <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
+                                    <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!-- Data Services -->
+                        <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                            <div class="f-item link">
+                                <h4 class="widget-title">Data Annotation Services</h4>
+                                <ul>
+                                    <li><a href="../data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
+                                    <li><a href="../data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
+                                    <li><a href="../data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
+                                    <li><a href="../data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!-- Data Services -->
+                        <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                            <div class="f-item link">
+                                <h4 class="widget-title">Resources</h4>
+                                <ul>
+                                    <li><a href="../resources/all-blogs.php">Blogs</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!-- Contact Information -->
+                        <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                            <div class="f-item contact">
+                                <h4 class="widget-title">Contact Us</h4>
+                                <ul>
+                                    <li>Gundecha Onclave, Mumbai, 400072</li>
+                                    <li><a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Footer Bottom -->
+            <div class="footer-bottom bg-dark text-light text-center">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <p>Copyright &copy; 2025 ITD GrowthLabs All Rights Reserved</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Footer Bottom -->
+        </footer>
+
+        <!-- jQuery Frameworks
+    ============================================= -->
+        <script src="../assets/js/jquery-3.6.0.min.js"></script>
+        <script src="../assets/js/bootstrap.bundle.min.js"></script>
+        <script src="../assets/js/jquery.appear.js"></script>
+        <script src="../assets/js/jquery.easing.min.js"></script>
+        <script src="../assets/js/jquery.magnific-popup.min.js"></script>
+        <script src="../assets/js/modernizr.custom.13711.js"></script>
+        <script src="../assets/js/swiper-bundle.min.js"></script>
+        <script src="../assets/js/wow.min.js"></script>
+        <script src="../assets/js/progress-bar.min.js"></script>
+        <script src="../assets/js/circle-progress.js"></script>
+        <script src="../assets/js/isotope.pkgd.min.js"></script>
+        <script src="../assets/js/imagesloaded.pkgd.min.js"></script>
+        <script src="../assets/js/jquery.nice-select.min.js"></script>
+        <script src="../assets/js/count-to.js"></script>
+        <script src="../assets/js/jquery.scrolla.min.js"></script>
+        <script src="../assets/js/YTPlayer.min.js"></script>
+        <script src="../assets/js/TweenMax.min.js"></script>
+        <script src="../assets/js/validnavs.js"></script>
+        <script src="../assets/js/main.js"></script>
+        <script type="text/javascript" src='https://www.google.com/recaptcha/api.js' async defer></script>
+        <!-- Calendly badge widget begin -->
+
+        <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+
+        <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+
+        <script type="text/javascript">
+            window.onload = function() {
+                Calendly.initBadgeWidget({
+                    url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                    text: 'Schedule time with me',
+                    color: '#0069ff',
+                    textColor: '#ffffff'
+                });
+            }
+        </script>
+
+        <!-- Calendly badge widget end -->
 </body>
 
 </html>

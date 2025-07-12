@@ -85,11 +85,11 @@ if (isset($_POST)) {
     } else {
         if ($mail->send() == true) {
             echo "<script>alert('Message has been sent!');</script>";
-            echo "<script>window.location.href='contact-us.php'</script>";
+            echo "<script>window.location.href='thankyou.php'</script>";
             exit;
         } else {
             echo "<script>alert('Message could not be sent. Mailer Error: {$mail->ErrorInfo}');</script>";
-            echo "<script>window.location.href='index.php'</script>";
+            echo "<script>window.location.href='thankyou.php'</script>";
             exit;
         }
     }

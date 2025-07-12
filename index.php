@@ -18,6 +18,7 @@
 
 </head>
 
+
 <body>
 
     <!-- Preloader Start -->
@@ -139,9 +140,7 @@
                             <div class="swiper-slide">
                                 <img src="assets/img/brand/cariesco.png" alt="Image Not Found">
                             </div>
-                            <!-- End Single Item -->
 
-                            <!-- End Single Item -->
                         </div>
                     </div>
                 </div>
@@ -171,7 +170,7 @@
                         <i class="flaticon-startup-6"></i>
                         <h4><a href="./services/website-development-company.php">Website Design & Development</a></h4>
                         <p>
-                            Get a fast,mobile-responsive website with clean UI/UX,lead forms,SEO setup,and 5–10 conversion-optimized pages.
+                            Get a fast, mobile-responsive website with clean UI/UX, lead forms, SEO setup, and 5–10 conversion-optimized pages.
                         </p>
                         <a href="./services/website-development-company.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
                     </div>
@@ -183,7 +182,7 @@
                         <i class="flaticon-planning"></i>
                         <h4><a href="./services/website-content-writing.php">SEO Website Content Writing</a></h4>
                         <p>
-                            Receive 100% original, keyword-rich web pages,blogs,or articles crafted to boost rankings and drive organic traffic.
+                            Receive 100% original, keyword-rich web pages, blogs, or articles crafted to boost rankings and drive organic traffic.
                         </p>
                         <a href="./services/website-content-writing.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
                     </div>
@@ -195,7 +194,7 @@
                         <i class="flaticon-marketing-agent"></i>
                         <h4><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Marketing</a></h4>
                         <p>
-                            Get custom chatbot flows,bulk campaign setup,CRM integration,and automation via WhatsApp Business API for lead gen and support.
+                            Get custom chatbot flows, bulk campaign setup, CRM integration, and automation via WhatsApp Business API for lead gen and support.
                         </p>
                         <a href="./services/whatsapp-marketing-and-automation.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
                     </div>
@@ -207,7 +206,7 @@
                         <i class="flaticon-planning"></i>
                         <h4><a href="./services/content-marketing-services.php">Content Marketing & Strategy</a></h4>
                         <p>
-                            Receive a full content calendar,blog posts,SEO plan,and social media strategy tailored to your brand’s audience and goals.
+                            Receive a full content calendar, blog posts, SEO plan, and social media strategy tailored to your brand’s audience and goals.
                         </p>
                         <a href="./services/content-marketing-services.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
                     </div>
@@ -219,7 +218,7 @@
                         <i class="flaticon-secure-1"></i>
                         <h4><a href="./video/video-services.php">Video Production & Marketing</a></h4>
                         <p>
-                            Get high-quality 30–90 second videos with scripts,voiceovers,editing,and delivery for explainers,product demos,and reels.
+                            Get high-quality 30–90 second videos with scripts, voiceovers, editing, and delivery for explainers, product demos, and reels.
                         </p>
                         <a href="./video/video-services.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
                     </div>
@@ -231,7 +230,7 @@
                         <i class="flaticon-elearning"></i>
                         <h4><a href="./services/Custom-eLearning-Development.php">Custom eLearning Development</a></h4>
                         <p>
-                            Receive SCORM/xAPI-compliant modules with voice-over,assessments,and LMS-ready content tailored to your training goals.
+                            Receive SCORM/xAPI-compliant modules with voice-over, assessments, and LMS-ready content tailored to your training goals.
                         </p>
                         <a href="./services/Custom-eLearning-Development.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
                     </div>
@@ -243,7 +242,7 @@
                         <i class="flaticon-play-button"></i>
                         <h4><a href="./services/Gamified-Learning-Modules.php">Microlearning & Gamification</a></h4>
                         <p>
-                            We deliver bite-sized,mobile-friendly learning units with quizzes,animations,and game mechanics for maximum engagement.
+                            We deliver bite-sized, mobile-friendly learning units with quizzes, animations, and game mechanics for maximum engagement.
                         </p>
                         <a href="./services/Gamified-Learning-Modules.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
                     </div>
@@ -255,7 +254,7 @@
                         <i class="flaticon-data-analysis-1"></i>
                         <h4><a href="./data_services/Video-Annotation-Services.php">AI/ML Data Services</a></h4>
                         <p>
-                            Get accurate data entry,annotation,classification,and validation for training and refining AI/ML models efficiently.
+                            Get accurate data entry, annotation, classification, and validation for training and refining AI/ML models efficiently.
                         </p>
                         <a href="./data_services/Video-Annotation-Services.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
                     </div>
@@ -267,7 +266,7 @@
                         <i class="flaticon-ads"></i>
                         <h4><a href="./services/seo-auditing-services.php">SEO Audit & Google Ads</a></h4>
                         <p>
-                            Get a complete audit,keyword plan,on-page SEO fixes,and Google Ads setup with tracking for measurable performance.
+                            Get a complete audit, keyword plan, on-page SEO fixes, and Google Ads setup with tracking for measurable performance.
                         </p>
                         <a href="./services/seo-auditing-services.php" class="btn-service">Learn More <i class="fas fa-arrow-right"></i></a>
                     </div>
@@ -285,7 +284,7 @@
             <div class="row">
                 <div class="col-xl-6 mb-30">
                     <div class="service-style-two-heading bg-theme bg-cover text-light" style="background-image: url(assets/img/shape/banner-3.webp);">
-                        <h5 class="sub-title">Our Services</h5>
+                        <h5 class="sub-title">Tech Services</h5>
                         <h2 class="title">Smart, Future-Ready Digital Tech Solutions</h2>
                         <div class="button-border-length mt-35">
                             <a href="contact-us.php" class="btn-arrow-length">Let’s Talk</a>
@@ -293,7 +292,7 @@
                     </div>
                 </div>
                 <!-- Start Single Item -->
-                <div class="col-xl-3 col-lg-6 col-md-6 mb-30">
+                <!-- <div class="col-xl-3 col-lg-6 col-md-6 mb-30">
                     <div class="service-style-two">
                         <div class="icon">
                             <img src="assets/img/icon/4.png" alt="Image Not Found">
@@ -308,7 +307,7 @@
                             <img src="assets/img/shape/15.webp" alt="Image Not Found">
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!-- End Single Item -->
                 <!-- Start Single Item -->
                 <div class="col-xl-3 col-lg-6 col-md-6 mb-30">
@@ -376,43 +375,6 @@
                         <h4><a href="./services/E-commerce-Website-Development.php">E-commerce Website Development</a></h4>
                         <span>Development</span>
                         <a href="./services/E-commerce-Website-Development.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
-                        <div class="shape">
-                            <img src="assets/img/shape/15.webp" alt="Image Not Found">
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-                <!-- Start Single Item -->
-                <div class="col-xl-3 col-lg-6 col-md-6 mb-30">
-                    <div class="service-style-two">
-                        <div class="icon">
-                            <img src="assets/img/icon/9.png" alt="Image Not Found">
-                        </div>
-                        <p>
-                            Boost site visibility and ranking performance.
-                        </p>
-                        <h4><a href="./services/seo-auditing-services.php">SEO Audit & Optimization</a></h4>
-                        <span>Optimization</span>
-                        <a href="./services/seo-auditing-services.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
-                        <div class="shape">
-                            <img src="assets/img/shape/15.webp" alt="Image Not Found">
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Start Single Item -->
-                <div class="col-xl-3 col-lg-6 col-md-6 mb-30">
-                    <div class="service-style-two">
-                        <div class="icon">
-                            <img src="assets/img/icon/4.png" alt="Image Not Found">
-                        </div>
-                        <p>
-                            Engage audiences and grow your social presence.
-                        </p>
-                        <h4><a href="./services/social-media-marketing.php">Social Media Marketing</a></h4>
-                        <span>Marketing</span>
-                        <a href="./services/social-media-marketing.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                         <div class="shape">
                             <img src="assets/img/shape/15.webp" alt="Image Not Found">
                         </div>
@@ -646,25 +608,44 @@
                     </div>
                 </div>
                 <!-- End Single Item -->
-
                 <!-- Start Single Item -->
                 <div class="col-xl-3 col-lg-6 col-md-6 mb-30">
                     <div class="service-style-two">
                         <div class="icon">
-                            <img src="assets/img/icon/5.png" alt="Image Not Found">
+                            <img src="assets/img/icon/9.png" alt="Image Not Found">
                         </div>
                         <p>
-                            Scale efficiently with reliable writing experts.
+                            Boost site visibility and ranking performance.
                         </p>
-                        <h4><a href="./services/Content-Team-Outsourcing.php">Content Team Outsourcing</a></h4>
-                        <span>Services</span>
-                        <a href="./services/Content-Team-Outsourcing.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <h4><a href="./services/seo-auditing-services.php">SEO Audit & Optimization</a></h4>
+                        <span>Optimization</span>
+                        <a href="./services/seo-auditing-services.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                         <div class="shape">
                             <img src="assets/img/shape/15.webp" alt="Image Not Found">
                         </div>
                     </div>
                 </div>
                 <!-- End Single Item -->
+
+                <!-- Start Single Item -->
+                <div class="col-xl-3 col-lg-6 col-md-6 mb-30">
+                    <div class="service-style-two">
+                        <div class="icon">
+                            <img src="assets/img/icon/4.png" alt="Image Not Found">
+                        </div>
+                        <p>
+                            Engage audiences and grow your social presence.
+                        </p>
+                        <h4><a href="./services/social-media-marketing.php">Social Media Marketing</a></h4>
+                        <span>Marketing</span>
+                        <a href="./services/social-media-marketing.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <div class="shape">
+                            <img src="assets/img/shape/15.webp" alt="Image Not Found">
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
             </div>
         </div>
     </div>
@@ -866,6 +847,24 @@
                         <h4><a href="./services/Partner-Enablement.php">Partner Enablement</a></h4>
                         <span>Services</span>
                         <a href="./services/Partner-Enablement.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <div class="shape">
+                            <img src="assets/img/shape/15.webp" alt="Image Not Found">
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+                <!-- Start Single Item -->
+                <div class="col-xl-3 col-lg-6 col-md-6 mb-30">
+                    <div class="service-style-two">
+                        <div class="icon">
+                            <img src="assets/img/icon/5.png" alt="Image Not Found">
+                        </div>
+                        <p>
+                            Scale efficiently with reliable writing experts.
+                        </p>
+                        <h4><a href="./services/Content-Team-Outsourcing.php">Content Team Outsourcing</a></h4>
+                        <span>Services</span>
+                        <a href="./services/Content-Team-Outsourcing.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                         <div class="shape">
                             <img src="assets/img/shape/15.webp" alt="Image Not Found">
                         </div>

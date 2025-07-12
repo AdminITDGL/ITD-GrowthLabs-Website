@@ -67,7 +67,7 @@
             </div>
             <!-- End Top Search -->
 
-            <div class="d-flex justify-content-between align-items-center">
+            <div class="container d-flex justify-content-between align-items-center">
                 <!-- Start Header Navigation -->
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
@@ -134,30 +134,7 @@
                                 </li>
                             </ul>
                         </li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
-                            <ul class="dropdown-menu">
-                                <li><a href="../whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
-                                <li><a href="../whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
-                                <li><a href="../whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
-                                <li><a href="../whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
-                                <li><a href="../whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flow</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data Services</a>
-                            <ul class="dropdown-menu">
-                                <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
-                                <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
-                                <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
-                                <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
-                                <li><a href="../data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
-                                <li><a href="../data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
-                                <li><a href="../data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
-                                <li><a href="../data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
-                                <li><a href="../data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
-                            </ul>
-                        </li>
+
                         <li class="dropdown megamenu-fw">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Content Services</a>
                             <ul class="dropdown-menu megamenu-content" role="menu">
@@ -264,19 +241,6 @@
                            </ul>
                        </li> -->
 
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Video Services</a>
-                            <ul class="dropdown-menu">
-                                <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
-                                <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
-                                <li><a href="../services/Video-Ads.php">Video Ads</a></li>
-                                <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
-                                <li><a href="../services/Repurpose-Videos.php">Repurpose Videos</a></li>
-                                <li><a href="../services/Video-Editing.php">Video Editing</a></li>
-                                <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
-                                <li><a href="../services/Onboarding-Videos.php">Onboarding Videos</a></li>
-                            </ul>
-                        </li>
 
                         <li><a href="../contact-us.php">Contact</a></li>
                     </ul>
@@ -363,11 +327,13 @@
                         <div class="swiper-wrapper">
                             <!-- Single Item -->
                             <div class="swiper-slide">
+                                <img src="../assets/img/brand/we3scs.png" alt="Image Not Found">
+                            </div>
+                            <div class="swiper-slide">
                                 <img src="../assets/img/brand/caper.png" alt="Image Not Found">
                             </div>
                             <!-- End Single Item -->
                             <!-- Single Item -->
-
                             <!-- End Single Item -->
                             <!-- Single Item -->
                             <div class="swiper-slide">
@@ -375,12 +341,25 @@
                             </div>
                             <!-- End Single Item -->
                             <!-- Single Item -->
+                            <!-- End Single Item -->
+
+                            <!-- Single Item -->
                             <div class="swiper-slide">
-                                <img src="../assets/img/brand/we3scs.png" alt="Image Not Found">
+                                <img src="../assets/img/brand/hilift.png" alt="Image Not Found">
                             </div>
                             <!-- End Single Item -->
 
+                            <!-- Single Item -->
+                            <div class="swiper-slide">
+                                <img src="../assets/img/brand/daakiyawala.png" alt="Image Not Found">
+                            </div>
                             <!-- End Single Item -->
+
+                            <!-- Single Item -->
+                            <div class="swiper-slide">
+                                <img src="../assets/img/brand/cariesco.png" alt="Image Not Found">
+                            </div>
+
                         </div>
                     </div>
                 </div>
@@ -444,6 +423,9 @@
 
                     </div>
                 </div>
+            </div>
+            <div class="button" style="margin-top: 20px;">
+                <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min">Let’s Talk</a>
             </div>
         </div>
     </div>
@@ -617,6 +599,9 @@
                 </div>
                 <!-- End Single Item -->
 
+            </div>
+            <div class="button" style="margin-top: 20px;text-align:center">
+                <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min">Let’s Talk</a>
             </div>
         </div>
     </div>
@@ -1054,11 +1039,11 @@
                         <div class="f-item link">
                             <h4 class="widget-title">Content Services</h4>
                             <ul>
-                                <li><a href="../services/website-content-writing.php">Website Content Writing</a></li>
-                                <li><a href="../services/seo-article-writing.php">SEO Article Writing</a></li>
-                                <li><a href="../services/blog-writing-services.php">Blog Writing</a></li>
-                                <li><a href="../services/case-study-writing-services.php">Case Study Writing</a></li>
-                                <li><a href="../services/product-description-writing-services.php">Product Description</a></li>
+                                <li><a href="../services/website-content-writing.php" target="_blank">Website Content Writing</a></li>
+                                <li><a href="../services/seo-article-writing.php" target="_blank">SEO Article Writing</a></li>
+                                <li><a href="../services/blog-writing-services.php" target="_blank">Blog Writing</a></li>
+                                <li><a href="../services/case-study-writing-services.php" target="_blank">Case Study Writing</a></li>
+                                <li><a href="../services/product-description-writing-services.php" target="_blank">Product Description</a></li>
                             </ul>
                         </div>
                     </div>
@@ -1068,11 +1053,11 @@
                         <div class="f-item link">
                             <h4 class="widget-title">End-to-End Services</h4>
                             <ul>
-                                <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
-                                <li><a href="../services/content-marketing-services.php">Content Marketing Services</a></li>
-                                <li><a href="../services/seo-auditing-services.php">SEO Audit and Optimization</a></li>
-                                <li><a href="../services/social-media-marketing.php">Social Media Marketing</a></li>
-                                <li><a href="../services/google-search-ads-services.php">Google Search Ads</a></li>
+                                <li><a href="../services/website-development-company.php" target="_blank">Website Design & Development</a></li>
+                                <li><a href="../services/content-marketing-services.php" target="_blank">Content Marketing Services</a></li>
+                                <li><a href="../services/seo-auditing-services.php" target="_blank">SEO Audit and Optimization</a></li>
+                                <li><a href="../services/social-media-marketing.php" target="_blank">Social Media Marketing</a></li>
+                                <li><a href="../services/google-search-ads-services.php" target="_blank">Google Search Ads</a></li>
                             </ul>
                         </div>
                     </div>
@@ -1083,40 +1068,24 @@
 
                             <h4 class="widget-title">WhatsApp Marketing</h4>
                             <ul>
-                                <li><a href="../whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
-                                <li><a href="../whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
-                                <li><a href="../whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
-                                <li><a href="../whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
-                                <li><a href="../whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flows</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Business-API.php" target="_blank">WhatsApp Business API</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Automation.php" target="_blank">WhatsApp Automation</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Chatbot.php" target="_blank">WhatsApp Chatbot</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Commerce.php" target="_blank">WhatsApp Commerce</a></li>
+                                <li><a href="../whatsapp_marketing/WhatsApp-Flow.php" target="_blank">WhatsApp Flows</a></li>
                             </ul>
                         </div>
                     </div>
-
-                    <!-- Video Services -->
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Video Services</h4>
-                            <ul>
-                                <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
-                                <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
-                                <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
-                                <li><a href="../services/Video-Editing.php">Video Editing</a></li>
-                                <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
-                            </ul>
-                            </ul>
-                        </div>
-                    </div>
-
-
                     <!-- Data Services -->
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">Data Services</h4>
                             <ul>
-                                <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry Services</a></li>
-                                <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
-                                <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
-                                <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
+                                <li><a href="data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
+                                <li><a href="data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
+                                <li><a href="data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
+                                <li><a href="data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
+                                <li><a href="data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
                             </ul>
                         </div>
                     </div>
@@ -1125,14 +1094,40 @@
                         <div class="f-item link">
                             <h4 class="widget-title">Data Annotation Services</h4>
                             <ul>
-                                <li><a href="../data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
-                                <li><a href="../data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
-                                <li><a href="../data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
-                                <li><a href="../data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
+                                <li><a href="../data_services/Data-Labeling-Services.php" target="_blank">Data Labeling Services</a></li>
+                                <li><a href="../data_services/Image-Annotation-Services.php" target="_blank">Image Annotation Services</a></li>
+                                <li><a href="../data_services/Text-Annotation-Services.php" target="_blank">Text Annotation Services</a></li>
+                                <li><a href="../data_services/Video-Annotation-Services.php" target="_blank">Video Annotation Services</a></li>
                             </ul>
                         </div>
                     </div>
                     <!-- Data Services -->
+                    <!-- Video Services -->
+                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                        <div class="f-item link">
+                            <h4 class="widget-title">Video Services</h4>
+                            <ul>
+                                <li><a href="../services/Explainer-Videos.php" target="_blank">Explainer Videos</a></li>
+                                <li><a href="../services/Demo-Videos.php" target="_blank">Demo Videos</a></li>
+                                <li><a href="../services/Social-Media-Videos.php" target="_blank">Social Media Videos</a></li>
+                                <li><a href="../services/Video-Editing.php" target="_blank">Video Editing</a></li>
+                            </ul>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                        <div class="f-item link">
+                            <h4 class="widget-title"></h4>
+                            <ul>
+                                <li><a href="services/Repurpose-Videos.php" target="_blank">Repurpose Videos</a></li>
+                                <li><a href="services/Video-Editing.php" target="_blank">Video Editing</a></li>
+                                <li><a href="services/How-To-Videos.php" target="_blank">How-to Videos</a></li>
+                                <li><a href="services/Onboarding-Videos.php" target="_blank">Onboarding Videos</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">Resources</h4>
