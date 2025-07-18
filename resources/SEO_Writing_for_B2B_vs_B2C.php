@@ -159,7 +159,7 @@
                                                 <ul class="menu-col">
                                                     <li><a href="../services/content_writing_strategy.php" target="_blank">Content Writing & Strategy</a></li>
                                                     <li><a href="../services/technical-writing-services.php" target="_blank">Technical Writing Services</a></li>
-                                                    <li><a href="../services/White-Papers-Case-Studies.php" target="_blank">Whitepapers & Case Studies</a></li>
+                                                    <li><a href="../services/White-Papers-Case-Studies.php" target="_blank">White Papers & Case Studies</a></li>
                                                     <li><a href="../services/Content-Team-Outsourcing.php" target="_blank">Content Team Outsourcing</a></li>
                                                 </ul>
                                             </div>
@@ -181,7 +181,8 @@
                         </li>
 
                         <li class="dropdown megamenu-fw">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">eLearning Services</a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="text-transform: none;">eLearning Services</a>
+
                             <ul class="dropdown-menu megamenu-content" role="menu">
                                 <li>
                                     <div class="row">
@@ -189,8 +190,9 @@
                                             <h6 class="title">Custom Solutions</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/Custom-eLearning-Development.php" target="_blank">Custom eLearning Development</a></li>
-                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php" target="_blank">PowerPoint to eLearning Conversion</a></li>
+                                                    <li><a href="../services/Custom-eLearning-Development.php" target="_blank" style="text-transform: none;">Custom eLearning Development</a></li>
+                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php" target="_blank" style="text-transform: none;">PowerPoint to eLearning Conversion</a></li>
+
                                                     <li><a href="../services/Mobile-Learn-Microlearning.php" target="_blank">Mobile Learning / Microlearning</a></li>
                                                     <li><a href="../services/Gamified-Learning-Modules.php" target="_blank">Gamified Learning Modules</a></li>
                                                 </ul>
@@ -212,7 +214,7 @@
                                             </div>
                                         </div>
                                         <div class="col-menu col-lg-4">
-                                            <h6 class="title">Industries Served</h6>
+                                            <h6 class="title">Industries We Serve</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
                                                     <li><a href="">Software & Tech</a></li>
@@ -359,7 +361,7 @@
                                     <p>B2B content tends to be detailed, technical, and heavily focused on delivering value through information. It's crafted to educate, persuade, and build trust with professionals who are making strategic, high-stakes decisions for their organizations.</p>
 
                                     <ul>
-                                        <li>Formats include whitepapers, eBooks, case studies, in-depth blog posts, industry analyses, and research reports.</li>
+                                        <li>Formats include White Papers, eBooks, case studies, in-depth blog posts, industry analyses, and research reports.</li>
                                         <li>Tone and structure are often formal, data-driven, and solution-oriented, addressing specific pain points or operational challenges.</li>
                                         <li>Purpose is to inform and assist decision-makers in evaluating products or services, often over a longer buying cycle.</li>
                                         <li>Content length tends to be longer, with detailed explanations, comparisons, and supporting data such as charts, testimonials, or ROI calculations.</li>
@@ -416,7 +418,7 @@
 
                                     <ul>
                                         <li>Common channels include LinkedIn, industry-specific forums, professional blogs, and email newsletters targeting niche segments.</li>
-                                        <li>Popular formats include webinars, whitepapers, eBooks, case studies, and long-form blog posts, all designed to educate and support complex decision-making processes.</li>
+                                        <li>Popular formats include webinars, White Papers, eBooks, case studies, and long-form blog posts, all designed to educate and support complex decision-making processes.</li>
                                         <li>SEO-optimized landing pages and lead magnets are also widely used to capture and nurture qualified leads.</li>
                                     </ul>
 
@@ -479,7 +481,7 @@
                                         <li>Lower search volumes for long-tail, niche keywords can make it harder to attract large volumes of traffic, even though that traffic is often high quality.</li>
                                         <li>Longer sales cycles mean SEO strategies must support sustained engagement across weeks or even months, requiring content that maps to every stage of the buyer's journey.</li>
                                         <li>Building domain authority in specialized industries takes time and consistency, especially when competing against established thought leaders.</li>
-                                        <li>Technical SEO and structured content become important to support detailed topics and help search engines properly index complex content like whitepapers or product specs.</li>
+                                        <li>Technical SEO and structured content become important to support detailed topics and help search engines properly index complex content like White Papers or product specs.</li>
                                     </ul>
 
                                     <p>Maintaining topical relevance, trust, and visibility in a niche market is critical for long-term SEO success in B2B.</p>

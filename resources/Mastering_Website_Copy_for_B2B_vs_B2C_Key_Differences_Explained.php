@@ -159,7 +159,7 @@
                                                 <ul class="menu-col">
                                                     <li><a href="../services/content_writing_strategy.php" target="_blank">Content Writing & Strategy</a></li>
                                                     <li><a href="../services/technical-writing-services.php" target="_blank">Technical Writing Services</a></li>
-                                                    <li><a href="../services/White-Papers-Case-Studies.php" target="_blank">Whitepapers & Case Studies</a></li>
+                                                    <li><a href="../services/White-Papers-Case-Studies.php" target="_blank">White Papers & Case Studies</a></li>
                                                     <li><a href="../services/Content-Team-Outsourcing.php" target="_blank">Content Team Outsourcing</a></li>
                                                 </ul>
                                             </div>
@@ -181,7 +181,8 @@
                         </li>
 
                         <li class="dropdown megamenu-fw">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">eLearning Services</a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="text-transform: none;">eLearning Services</a>
+
                             <ul class="dropdown-menu megamenu-content" role="menu">
                                 <li>
                                     <div class="row">
@@ -189,8 +190,9 @@
                                             <h6 class="title">Custom Solutions</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/Custom-eLearning-Development.php" target="_blank">Custom eLearning Development</a></li>
-                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php" target="_blank">PowerPoint to eLearning Conversion</a></li>
+                                                    <li><a href="../services/Custom-eLearning-Development.php" target="_blank" style="text-transform: none;">Custom eLearning Development</a></li>
+                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php" target="_blank" style="text-transform: none;">PowerPoint to eLearning Conversion</a></li>
+
                                                     <li><a href="../services/Mobile-Learn-Microlearning.php" target="_blank">Mobile Learning / Microlearning</a></li>
                                                     <li><a href="../services/Gamified-Learning-Modules.php" target="_blank">Gamified Learning Modules</a></li>
                                                 </ul>
@@ -212,7 +214,7 @@
                                             </div>
                                         </div>
                                         <div class="col-menu col-lg-4">
-                                            <h6 class="title">Industries Served</h6>
+                                            <h6 class="title">Industries We Serve</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
                                                     <li><a href="">Software & Tech</a></li>
@@ -336,7 +338,7 @@
                                         Content complexity and length differ significantly between B2B and B2C writing due to the distinct needs of their audiences.
                                     </p>
                                     <p>
-                                        <strong>B2B website writing</strong> often features long-form content that thoroughly explains products, services, or solutions. This includes whitepapers, detailed case studies, technical guides, and comprehensive product descriptions. Such content is designed to educate decision-makers, provide evidence of ROI, and support the often lengthy evaluation process.
+                                        <strong>B2B website writing</strong> often features long-form content that thoroughly explains products, services, or solutions. This includes White Papers, detailed case studies, technical guides, and comprehensive product descriptions. Such content is designed to educate decision-makers, provide evidence of ROI, and support the often lengthy evaluation process.
                                     </p>
                                     <p>
                                         In contrast, <strong>B2C copywriting</strong> favors short, punchy messages that can be consumed quickly. It prioritizes clarity and brevity to hold the consumer’s limited attention span. Content such as product descriptions, ads, social media posts, and promotional emails must be easily digestible and compelling enough to prompt fast decisions.
@@ -368,7 +370,7 @@
                                             <strong>Decision Influencers:</strong> In B2B, multiple stakeholders (finance, operations, legal) may influence the buying decision, so content must address the concerns of various roles. B2C content targets the individual or household buyer, simplifying the messaging to appeal to personal values and preferences.
                                         </li>
                                         <li>
-                                            <strong>Channels and Formats:</strong> B2B content often thrives in formats like webinars, whitepapers, and industry reports, distributed via email, LinkedIn, and company websites. B2C content is more varied, including social media, advertisements, blogs, and influencer marketing, aiming to reach consumers across multiple touchpoints.
+                                            <strong>Channels and Formats:</strong> B2B content often thrives in formats like webinars, White Papers, and industry reports, distributed via email, LinkedIn, and company websites. B2C content is more varied, including social media, advertisements, blogs, and influencer marketing, aiming to reach consumers across multiple touchpoints.
                                         </li>
                                         <li>
                                             <strong>Brand Positioning:</strong> B2B brands position themselves as industry experts and problem solvers, emphasizing trust and professionalism. B2C brands focus on lifestyle, experience, and emotional resonance, often highlighting brand personality and storytelling.
@@ -516,7 +518,7 @@
                                     <h3>Additional Elements to Strengthen Your Strategy</h3>
                                     <ul>
                                         <li><strong>SEO Optimization:</strong> Incorporate relevant B2B keywords naturally within your content to improve search engine visibility and attract qualified leads.</li>
-                                        <li><strong>Thought Leadership Content:</strong> Publish blogs, whitepapers, or articles that showcase your industry expertise and insights. This builds authority and keeps prospects engaged.</li>
+                                        <li><strong>Thought Leadership Content:</strong> Publish blogs, White Papers, or articles that showcase your industry expertise and insights. This builds authority and keeps prospects engaged.</li>
                                         <li><strong>Clear Navigation and Structure:</strong> Organize content logically with headings, bullet points, and concise paragraphs to facilitate easy scanning and comprehension.</li>
                                         <li><strong>User-Centric Approach:</strong> Tailor content to the specific roles and pain points of different stakeholders within the target organizations, such as IT managers, CFOs, or operations leads.</li>
                                         <li><strong>Multimedia Elements:</strong> Use videos, webinars, and infographics to support your messaging and appeal to varied learning preferences.</li>

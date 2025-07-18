@@ -159,7 +159,7 @@
                                                 <ul class="menu-col">
                                                     <li><a href="../services/content_writing_strategy.php" target="_blank">Content Writing & Strategy</a></li>
                                                     <li><a href="../services/technical-writing-services.php" target="_blank">Technical Writing Services</a></li>
-                                                    <li><a href="../services/White-Papers-Case-Studies.php" target="_blank">Whitepapers & Case Studies</a></li>
+                                                    <li><a href="../services/White-Papers-Case-Studies.php" target="_blank">White Papers & Case Studies</a></li>
                                                     <li><a href="../services/Content-Team-Outsourcing.php" target="_blank">Content Team Outsourcing</a></li>
                                                 </ul>
                                             </div>
@@ -181,7 +181,8 @@
                         </li>
 
                         <li class="dropdown megamenu-fw">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">eLearning Services</a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="text-transform: none;">eLearning Services</a>
+
                             <ul class="dropdown-menu megamenu-content" role="menu">
                                 <li>
                                     <div class="row">
@@ -189,8 +190,9 @@
                                             <h6 class="title">Custom Solutions</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/Custom-eLearning-Development.php" target="_blank">Custom eLearning Development</a></li>
-                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php" target="_blank">PowerPoint to eLearning Conversion</a></li>
+                                                    <li><a href="../services/Custom-eLearning-Development.php" target="_blank" style="text-transform: none;">Custom eLearning Development</a></li>
+                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php" target="_blank" style="text-transform: none;">PowerPoint to eLearning Conversion</a></li>
+
                                                     <li><a href="../services/Mobile-Learn-Microlearning.php" target="_blank">Mobile Learning / Microlearning</a></li>
                                                     <li><a href="../services/Gamified-Learning-Modules.php" target="_blank">Gamified Learning Modules</a></li>
                                                 </ul>
@@ -212,7 +214,7 @@
                                             </div>
                                         </div>
                                         <div class="col-menu col-lg-4">
-                                            <h6 class="title">Industries Served</h6>
+                                            <h6 class="title">Industries We Serve</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
                                                     <li><a href="">Software & Tech</a></li>
@@ -287,7 +289,7 @@
                                     </div>
 
                                     <h2>Introduction</h2>
-                                    <p>In today's fast-paced digital world, technical writing skills are no longer a niche requirement—they are essential for creating user guides, product manuals, whitepapers, and software documentation. If you've ever considered a career that blends communication with technology, this writing career guide will show you how to become a technical writer and succeed. Technical writing isn't just about grammar and formatting—it's about simplifying complexity, understanding user needs, and presenting information logically.</p>
+                                    <p>In today's fast-paced digital world, technical writing skills are no longer a niche requirement—they are essential for creating user guides, product manuals, White Papers, and software documentation. If you've ever considered a career that blends communication with technology, this writing career guide will show you how to become a technical writer and succeed. Technical writing isn't just about grammar and formatting—it's about simplifying complexity, understanding user needs, and presenting information logically.</p>
 
                                     <p>To thrive in a technical writing job, professionals need to master a unique set of competencies. These include researching complex topics, understanding technical jargon, and communicating ideas with clarity. In this blog, we will explore the top technical writing job skills you need to develop, along with how platforms like ITD GrowthLabs can support your career journey. Whether you're starting fresh or pivoting into this role, the right skills can elevate your success.</p>
 
@@ -343,7 +345,7 @@
                                     <h3>1. Research Proficiency</h3>
                                     <p>Understanding a topic thoroughly before writing is foundational. Technical writers must:</p>
                                     <ul>
-                                        <li>Analyze whitepapers, user stories, and product blueprints</li>
+                                        <li>Analyze White Papers, user stories, and product blueprints</li>
                                         <li>Conduct interviews with subject matter experts</li>
                                         <li>Validate technical accuracy</li>
                                     </ul>
@@ -440,7 +442,7 @@
 
                                     <h3>Build a Portfolio</h3>
                                     <p>A well-organized portfolio is essential to showcase your writing skills and subject knowledge.</p>
-                                    <p>Include a range of user guides, installation manuals, process documentation, API guides, tutorials, and whitepapers.</p>
+                                    <p>Include a range of user guides, installation manuals, process documentation, API guides, tutorials, and White Papers.</p>
                                     <p>You can create sample projects or rewrite existing documentation as practice. Focus on:</p>
                                     <ul>
                                         <li>Clarity and consistency</li>
@@ -486,7 +488,7 @@
                                     <ul>
                                         <li>User manuals for software applications</li>
                                         <li>API documentation for developers</li>
-                                        <li>Technical whitepapers for product launches</li>
+                                        <li>Technical White Papers for product launches</li>
                                     </ul>
                                     <p>Companies range from SaaS providers to cybersecurity firms, all needing clear documentation for end users and internal teams.</p>
 

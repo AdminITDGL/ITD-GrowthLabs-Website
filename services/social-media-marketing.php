@@ -154,7 +154,7 @@
                                                 <ul class="menu-col">
                                                     <li><a href="../services/content_writing_strategy.php" target="_blank">Content Writing & Strategy</a></li>
                                                     <li><a href="../services/technical-writing-services.php" target="_blank">Technical Writing Services</a></li>
-                                                    <li><a href="../services/White-Papers-Case-Studies.php" target="_blank">Whitepapers & Case Studies</a></li>
+                                                    <li><a href="../services/White-Papers-Case-Studies.php" target="_blank">White Papers & Case Studies</a></li>
                                                     <li><a href="../services/Content-Team-Outsourcing.php" target="_blank">Content Team Outsourcing</a></li>
                                                 </ul>
                                             </div>
@@ -176,7 +176,8 @@
                         </li>
 
                         <li class="dropdown megamenu-fw">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">eLearning Services</a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="text-transform: none;">eLearning Services</a>
+
                             <ul class="dropdown-menu megamenu-content" role="menu">
                                 <li>
                                     <div class="row">
@@ -184,8 +185,9 @@
                                             <h6 class="title">Custom Solutions</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/Custom-eLearning-Development.php" target="_blank">Custom eLearning Development</a></li>
-                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php" target="_blank">PowerPoint to eLearning Conversion</a></li>
+                                                    <li><a href="../services/Custom-eLearning-Development.php" target="_blank" style="text-transform: none;">Custom eLearning Development</a></li>
+                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php" target="_blank" style="text-transform: none;">PowerPoint to eLearning Conversion</a></li>
+
                                                     <li><a href="../services/Mobile-Learn-Microlearning.php" target="_blank">Mobile Learning / Microlearning</a></li>
                                                     <li><a href="../services/Gamified-Learning-Modules.php" target="_blank">Gamified Learning Modules</a></li>
                                                 </ul>
@@ -207,7 +209,7 @@
                                             </div>
                                         </div>
                                         <div class="col-menu col-lg-4">
-                                            <h6 class="title">Industries Served</h6>
+                                            <h6 class="title">Industries We Serve</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
                                                     <li><a href="">Software & Tech</a></li>
@@ -728,7 +730,32 @@
                                     </div>
                                 </div>
                             </div>
-
+                            <!-- FAQ Item 9 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingEight">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                                        How is the success of social media marketing measured? </button>
+                                </h2>
+                                <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p>
+                                            We track performance using metrics like engagement rate, reach, impressions, CTR, and conversions. Our analytics-driven reports help optimize your social media ROI. </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ Item 10 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingEight">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                                        How do you maintain brand consistency across platforms? </button>
+                                </h2>
+                                <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p>
+                                            We create unified brand messaging, tone, and visuals tailored for each platform—ensuring your brand feels consistent whether it’s on Instagram, Facebook, or LinkedIn. </p>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>

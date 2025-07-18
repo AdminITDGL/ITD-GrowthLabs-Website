@@ -159,7 +159,7 @@
                                                 <ul class="menu-col">
                                                     <li><a href="../services/content_writing_strategy.php" target="_blank">Content Writing & Strategy</a></li>
                                                     <li><a href="../services/technical-writing-services.php" target="_blank">Technical Writing Services</a></li>
-                                                    <li><a href="../services/White-Papers-Case-Studies.php" target="_blank">Whitepapers & Case Studies</a></li>
+                                                    <li><a href="../services/White-Papers-Case-Studies.php" target="_blank">White Papers & Case Studies</a></li>
                                                     <li><a href="../services/Content-Team-Outsourcing.php" target="_blank">Content Team Outsourcing</a></li>
                                                 </ul>
                                             </div>
@@ -181,7 +181,8 @@
                         </li>
 
                         <li class="dropdown megamenu-fw">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">eLearning Services</a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="text-transform: none;">eLearning Services</a>
+
                             <ul class="dropdown-menu megamenu-content" role="menu">
                                 <li>
                                     <div class="row">
@@ -189,8 +190,9 @@
                                             <h6 class="title">Custom Solutions</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/Custom-eLearning-Development.php" target="_blank">Custom eLearning Development</a></li>
-                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php" target="_blank">PowerPoint to eLearning Conversion</a></li>
+                                                    <li><a href="../services/Custom-eLearning-Development.php" target="_blank" style="text-transform: none;">Custom eLearning Development</a></li>
+                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php" target="_blank" style="text-transform: none;">PowerPoint to eLearning Conversion</a></li>
+
                                                     <li><a href="../services/Mobile-Learn-Microlearning.php" target="_blank">Mobile Learning / Microlearning</a></li>
                                                     <li><a href="../services/Gamified-Learning-Modules.php" target="_blank">Gamified Learning Modules</a></li>
                                                 </ul>
@@ -212,7 +214,7 @@
                                             </div>
                                         </div>
                                         <div class="col-menu col-lg-4">
-                                            <h6 class="title">Industries Served</h6>
+                                            <h6 class="title">Industries We Serve</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
                                                     <li><a href="">Software & Tech</a></li>
@@ -301,7 +303,7 @@
                                 <p>Are you passionate about writing and have a knack for finance? Keep reading to explore how you can turn your skills into a rewarding career.</p>
 
                                 <h2>What is Financial Content Writing?</h2>
-                                <p>Financial content writing involves creating well-researched, informative, and engaging content related to various financial topics. A finance content writer produces high-quality articles, blogs, whitepapers, reports, and guides to educate individuals and businesses on making informed financial decisions.</p>
+                                <p>Financial content writing involves creating well-researched, informative, and engaging content related to various financial topics. A finance content writer produces high-quality articles, blogs, White Papers, reports, and guides to educate individuals and businesses on making informed financial decisions.</p>
                                 <p>With the rise of digital media, financial blogging has gained immense popularity, allowing finance professionals, investors, and enthusiasts to share their insights while establishing an authoritative online presence. The field of finance writing jobs demands a combination of industry expertise, data-driven analysis, and compelling storytelling to simplify complex financial subjects.</p>
 
                                 <h3>Types of Financial Content</h3>
@@ -351,7 +353,7 @@
                                 <h3>5. Generates Leads and Business Growth</h3>
                                 <p>Effective financial content marketing helps businesses convert visitors into potential clients. By providing insightful, value-driven content, businesses can attract high-quality leads who are genuinely interested in financial products or services.</p>
                                 <ul>
-                                    <li>Free resources like financial e-books, reports, and whitepapers encourage user sign-ups.</li>
+                                    <li>Free resources like financial e-books, reports, and White Papers encourage user sign-ups.</li>
                                     <li>Well-crafted call-to-action (CTA) in finance blogs directs users toward consultations or financial tools.</li>
                                     <li>Case studies and real-life examples help build trust and client conversions.</li>
                                 </ul>

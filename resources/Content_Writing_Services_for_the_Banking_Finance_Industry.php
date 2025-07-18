@@ -159,7 +159,7 @@
                                                 <ul class="menu-col">
                                                     <li><a href="../services/content_writing_strategy.php" target="_blank">Content Writing & Strategy</a></li>
                                                     <li><a href="../services/technical-writing-services.php" target="_blank">Technical Writing Services</a></li>
-                                                    <li><a href="../services/White-Papers-Case-Studies.php" target="_blank">Whitepapers & Case Studies</a></li>
+                                                    <li><a href="../services/White-Papers-Case-Studies.php" target="_blank">White Papers & Case Studies</a></li>
                                                     <li><a href="../services/Content-Team-Outsourcing.php" target="_blank">Content Team Outsourcing</a></li>
                                                 </ul>
                                             </div>
@@ -181,7 +181,8 @@
                         </li>
 
                         <li class="dropdown megamenu-fw">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">eLearning Services</a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="text-transform: none;">eLearning Services</a>
+
                             <ul class="dropdown-menu megamenu-content" role="menu">
                                 <li>
                                     <div class="row">
@@ -189,8 +190,9 @@
                                             <h6 class="title">Custom Solutions</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/Custom-eLearning-Development.php" target="_blank">Custom eLearning Development</a></li>
-                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php" target="_blank">PowerPoint to eLearning Conversion</a></li>
+                                                    <li><a href="../services/Custom-eLearning-Development.php" target="_blank" style="text-transform: none;">Custom eLearning Development</a></li>
+                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php" target="_blank" style="text-transform: none;">PowerPoint to eLearning Conversion</a></li>
+
                                                     <li><a href="../services/Mobile-Learn-Microlearning.php" target="_blank">Mobile Learning / Microlearning</a></li>
                                                     <li><a href="../services/Gamified-Learning-Modules.php" target="_blank">Gamified Learning Modules</a></li>
                                                 </ul>
@@ -212,7 +214,7 @@
                                             </div>
                                         </div>
                                         <div class="col-menu col-lg-4">
-                                            <h6 class="title">Industries Served</h6>
+                                            <h6 class="title">Industries We Serve</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
                                                     <li><a href="">Software & Tech</a></li>
@@ -310,7 +312,7 @@
                                     <p>With digital competition intensifying, SEO content writing for financial websites is essential for improving search engine rankings and attracting organic traffic. A strong SEO strategy includes:</p>
                                     <ul>
                                         <li>Using high-ranking financial keywords to improve search visibility.</li>
-                                        <li>Creating informative blog posts, whitepapers, and FAQs to answer common financial queries.</li>
+                                        <li>Creating informative blog posts, White Papers, and FAQs to answer common financial queries.</li>
                                         <li>Developing evergreen financial content that remains relevant over time.</li>
                                         <li>Structuring content with proper headings, meta descriptions, and internal linking.</li>
                                         <li>Incorporating local SEO for financial institutions targeting specific regions.</li>
@@ -353,7 +355,7 @@
                                     <h3>6. Differentiates from Competitors</h3>
                                     <p>The finance industry is crowded with businesses offering similar services. A unique, value-driven content strategy helps brands stand out. Differentiation can be achieved through:</p>
                                     <ul>
-                                        <li>Offering expert insights via financial whitepapers, eBooks, and industry reports.</li>
+                                        <li>Offering expert insights via financial White Papers, eBooks, and industry reports.</li>
                                         <li>Creating interactive tools like loan calculators and investment planners.</li>
                                         <li>Showcasing customer testimonials and success stories.</li>
                                         <li>Maintaining a consistent brand voice that resonates with the target audience.</li>
@@ -432,15 +434,15 @@
                                         <li>Financial Guides: Step-by-step resources on investment planning, tax-saving, and wealth management.</li>
                                     </ul>
 
-                                    <h3>3. Whitepapers & Research Reports</h3>
-                                    <p>For financial institutions looking to establish authority, publishing in-depth research reports and whitepapers is essential.</p>
-                                    <p><strong>What Whitepapers Cover</strong></p>
+                                    <h3>3. White Papers & Research Reports</h3>
+                                    <p>For financial institutions looking to establish authority, publishing in-depth research reports and White Papers is essential.</p>
+                                    <p><strong>What White Papers Cover</strong></p>
                                     <ul>
                                         <li>Market trends and analysis of economic shifts.</li>
                                         <li>Investment insights to help clients make informed decisions.</li>
                                         <li>Banking regulations and policy updates.</li>
                                     </ul>
-                                    <p><strong>Why Whitepapers Are Important</strong></p>
+                                    <p><strong>Why White Papers Are Important</strong></p>
                                     <ul>
                                         <li>Strengthens the brand's thought leadership position.</li>
                                         <li>Provides valuable data-backed content for investors and professionals.</li>

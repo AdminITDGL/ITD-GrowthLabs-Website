@@ -159,7 +159,7 @@
                                                 <ul class="menu-col">
                                                     <li><a href="../services/content_writing_strategy.php" target="_blank">Content Writing & Strategy</a></li>
                                                     <li><a href="../services/technical-writing-services.php" target="_blank">Technical Writing Services</a></li>
-                                                    <li><a href="../services/White-Papers-Case-Studies.php" target="_blank">Whitepapers & Case Studies</a></li>
+                                                    <li><a href="../services/White-Papers-Case-Studies.php" target="_blank">White Papers & Case Studies</a></li>
                                                     <li><a href="../services/Content-Team-Outsourcing.php" target="_blank">Content Team Outsourcing</a></li>
                                                 </ul>
                                             </div>
@@ -181,7 +181,8 @@
                         </li>
 
                         <li class="dropdown megamenu-fw">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">eLearning Services</a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="text-transform: none;">eLearning Services</a>
+
                             <ul class="dropdown-menu megamenu-content" role="menu">
                                 <li>
                                     <div class="row">
@@ -189,8 +190,9 @@
                                             <h6 class="title">Custom Solutions</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/Custom-eLearning-Development.php" target="_blank">Custom eLearning Development</a></li>
-                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php" target="_blank">PowerPoint to eLearning Conversion</a></li>
+                                                    <li><a href="../services/Custom-eLearning-Development.php" target="_blank" style="text-transform: none;">Custom eLearning Development</a></li>
+                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php" target="_blank" style="text-transform: none;">PowerPoint to eLearning Conversion</a></li>
+
                                                     <li><a href="../services/Mobile-Learn-Microlearning.php" target="_blank">Mobile Learning / Microlearning</a></li>
                                                     <li><a href="../services/Gamified-Learning-Modules.php" target="_blank">Gamified Learning Modules</a></li>
                                                 </ul>
@@ -212,7 +214,7 @@
                                             </div>
                                         </div>
                                         <div class="col-menu col-lg-4">
-                                            <h6 class="title">Industries Served</h6>
+                                            <h6 class="title">Industries We Serve</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
                                                     <li><a href="">Software & Tech</a></li>
@@ -307,7 +309,7 @@
                                         <li><strong>Process Documentation:</strong> Organizations rely on clear process documentation to standardize workflows, ensure quality, and train new employees. Technical writers document procedures, policies, and best practices in an accessible format.</li>
                                         <li><strong>Training Content:</strong> Creating training manuals, eLearning modules, and instructional materials is another key area. Effective training content accelerates learning and skill development, enabling users and staff to become proficient more quickly.</li>
                                         <li><strong>Compliance and Regulatory Documentation:</strong> Many industries require strict adherence to legal and regulatory standards. Technical writers ensure that documentation meets these requirements, including safety protocols, certifications, and audit trails.</li>
-                                        <li><strong>Whitepapers and Technical Blogs:</strong> These content types help establish thought leadership and educate external audiences about complex technologies or methodologies. Technical writers craft clear, engaging narratives that make advanced topics accessible.</li>
+                                        <li><strong>White Papers and Technical Blogs:</strong> These content types help establish thought leadership and educate external audiences about complex technologies or methodologies. Technical writers craft clear, engaging narratives that make advanced topics accessible.</li>
                                     </ul>
 
                                     <h3>Why Technical Writers Are Essential</h3>
@@ -616,7 +618,7 @@
                                             <strong>Hybrid Documentation Models:</strong> Mid-sized companies often benefit from a hybrid approach by combining the strengths of both in-house and freelance technical writers. An internal team ensures continuity, deep product understanding, and day-to-day updates, while freelancers supplement capacity for specialized projects or peak workloads.
                                         </li>
                                         <li>
-                                            <strong>Adaptability and Cost Control:</strong> Balancing internal staff with freelance talent provides adaptability to meet fluctuating documentation demands without inflating permanent payroll expenses. Freelancers can be engaged for tasks like creating API documentation, whitepapers, or translating content into different languages as needed.
+                                            <strong>Adaptability and Cost Control:</strong> Balancing internal staff with freelance talent provides adaptability to meet fluctuating documentation demands without inflating permanent payroll expenses. Freelancers can be engaged for tasks like creating API documentation, White Papers, or translating content into different languages as needed.
                                         </li>
                                         <li>
                                             <strong>Maintaining Quality and Brand Consistency:</strong> Mid-sized firms must maintain high-quality documentation that aligns with brand voice and technical accuracy. The in-house team acts as a quality gatekeeper, editing and reviewing content from freelancers to ensure consistency and compliance with company standards.

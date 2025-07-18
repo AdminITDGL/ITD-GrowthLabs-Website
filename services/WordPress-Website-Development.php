@@ -162,7 +162,7 @@
                                                 <ul class="menu-col">
                                                     <li><a href="../services/content_writing_strategy.php" target="_blank">Content Writing & Strategy</a></li>
                                                     <li><a href="../services/technical-writing-services.php" target="_blank">Technical Writing Services</a></li>
-                                                    <li><a href="../services/White-Papers-Case-Studies.php" target="_blank">Whitepapers & Case Studies</a></li>
+                                                    <li><a href="../services/White-Papers-Case-Studies.php" target="_blank">White Papers & Case Studies</a></li>
                                                     <li><a href="../services/Content-Team-Outsourcing.php" target="_blank">Content Team Outsourcing</a></li>
                                                 </ul>
                                             </div>
@@ -184,7 +184,8 @@
                         </li>
 
                         <li class="dropdown megamenu-fw">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">eLearning Services</a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="text-transform: none;">eLearning Services</a>
+
                             <ul class="dropdown-menu megamenu-content" role="menu">
                                 <li>
                                     <div class="row">
@@ -192,8 +193,9 @@
                                             <h6 class="title">Custom Solutions</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/Custom-eLearning-Development.php" target="_blank">Custom eLearning Development</a></li>
-                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php" target="_blank">PowerPoint to eLearning Conversion</a></li>
+                                                    <li><a href="../services/Custom-eLearning-Development.php" target="_blank" style="text-transform: none;">Custom eLearning Development</a></li>
+                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php" target="_blank" style="text-transform: none;">PowerPoint to eLearning Conversion</a></li>
+
                                                     <li><a href="../services/Mobile-Learn-Microlearning.php" target="_blank">Mobile Learning / Microlearning</a></li>
                                                     <li><a href="../services/Gamified-Learning-Modules.php" target="_blank">Gamified Learning Modules</a></li>
                                                 </ul>
@@ -215,7 +217,7 @@
                                             </div>
                                         </div>
                                         <div class="col-menu col-lg-4">
-                                            <h6 class="title">Industries Served</h6>
+                                            <h6 class="title">Industries We Serve</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
                                                     <li><a href="">Software & Tech</a></li>
@@ -408,23 +410,23 @@
                         <div class="circle-progress">
                             <div class="seo-progressbar">
                                 <div class="circle" data-percent="95">
-                                    <strong>95%</strong>
+                                    <strong>92%</strong>
                                 </div>
                             </div>
-                            <h4>Platform Capabilities</h4>
+                            <h4>Faster Time-to-Market</h4>
                         </div>
 
                         <div class="seo-progess-items">
                             <div class="process-item">
-                                <h5>WooCommerce Setup</h5>
+                                <h5>Seamless Scalability</h5>
                                 <p>
-                                    Sell your products with secure, scalable tools.
+                                    Build future-ready websites with modular WordPress frameworks that scale with your business growth—no performance trade-offs.
                                 </p>
                             </div>
                             <div class="process-item">
-                                <h5>CRM/API Connect</h5>
+                                <h5>Business-Centric Customization</h5>
                                 <p>
-                                    Integrate with marketing tools and lead funnels.
+                                    Launch feature-rich websites that align with your brand, user goals, and SEO best practices—delivered with pixel-perfect design precision.
                                 </p>
                             </div>
                         </div>
@@ -626,123 +628,28 @@
                 <div class="col-12">
                     <div class="faq-style-one">
                         <div class="accordion" id="faqAccordion">
-                            <!-- FAQ Item 1 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingOne">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        How can SEO-optimized content help technology companies?
-                                    </button>
-                                </h2>
-                                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            SEO-optimized content enhances your technology company's online visibility by improving search engine rankings. Our <strong>SEO content writing services</strong> help you attract targeted organic traffic, driving more qualified leads to your business.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ Item 2 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingTwo">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        Why should technology companies invest in whitepapers and case studies?
-                                    </button>
-                                </h2>
-                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            Whitepapers and case studies establish your company as an industry leader by showcasing your technical expertise and real-world success stories. These content pieces help potential clients see your value and drive trust in your services.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ Item 3 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingThree">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        How can blog writing help technology companies grow their brand?
-                                    </button>
-                                </h2>
-                                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            Regular, high-quality blog posts improve your company's SEO performance, increase traffic, and establish your brand as a thought leader. Our <strong>blog writing services</strong> focus on producing valuable, industry-relevant content that educates and engages your target audience.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ Item 4 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingFour">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Why should technology companies focus on SEO and digital marketing strategies?
-                                    </button>
-                                </h2>
-                                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            SEO and digital marketing strategies are essential for gaining online visibility and driving qualified leads. Our team of experts focuses on creating <strong>SEO-friendly content</strong> and executing <strong>digital marketing campaigns</strong> that deliver measurable results and enhance your company's online presence.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ Item 5 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingFive">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        How do content marketing strategies support lead generation for tech companies?
-                                    </button>
-                                </h2>
-                                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            Well-crafted content tailored to the technology industry attracts leads by addressing pain points and providing solutions. Our <strong>content marketing services</strong> help create blog posts, case studies, and whitepapers that nurture leads and convert them into customers.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ Item 6 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingSix">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                                        How does SEO-driven content impact ROI for tech companies?
-                                    </button>
-                                </h2>
-                                <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            SEO-driven content ensures that your technology company's website ranks higher on search engines, making it easier for potential clients to find you. This results in more qualified traffic, which translates into a higher return on investment (ROI) for your content marketing efforts.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- WordPress Specific FAQs -->
+                          
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingEight">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
-                                        Is WordPress secure enough for my business site?
+                                       What makes WordPress ideal for business websites?
                                     </button>
                                 </h2>
                                 <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p>Yes. With reliable hosting, SSL certificates, security plugins, and regular updates, WordPress is a secure option for business websites.</p>
+                                        <p>It’s flexible, scalable, SEO-friendly, and backed by a huge plugin ecosystem.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingNine">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
-                                        Can you build without using a pre-made theme?
+                                        Can you build custom WordPress themes?
                                     </button>
                                 </h2>
                                 <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p>Absolutely. We offer custom theme development from scratch, giving you full control over layout, branding, and functionality.</p>
+                                        <p>Yes. We create pixel-perfect, fast-loading themes aligned with your brand.</p>
                                     </div>
                                 </div>
                             </div>
@@ -750,12 +657,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTen">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
-                                        Will I be able to edit the content myself?
+                                        Will my WordPress site be mobile responsive?
                                     </button>
                                 </h2>
                                 <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p>Yes. We ensure your site has an intuitive backend with visual editors like Elementor or Gutenberg so you can easily update text, images, and pages.</p>
+                                        <p>Absolutely. All our WordPress builds are optimized for mobile and tablets.</p>
                                     </div>
                                 </div>
                             </div>
@@ -763,12 +670,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingEleven">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
-                                        Do you handle hosting and domain setup too?
+                                         Do you offer SEO-optimized WordPress development?
                                     </button>
                                 </h2>
                                 <div id="collapseEleven" class="accordion-collapse collapse" aria-labelledby="headingEleven" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p>Yes, we assist with configuring hosting, domain names, and SSL certificates to ensure a smooth and secure site launch.</p>
+                                        <p>Yes. We follow technical SEO best practices for higher rankings from day one.</p>
                                     </div>
                                 </div>
                             </div>
@@ -776,12 +683,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwelve">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
-                                        What if I need multilingual support?
+                                        How secure is a WordPress website?
                                     </button>
                                 </h2>
                                 <div id="collapseTwelve" class="accordion-collapse collapse" aria-labelledby="headingTwelve" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p>We can integrate multilingual plugins like WPML or Polylang, or build native multilingual structures depending on your audience needs.</p>
+                                        <p>We implement security plugins, firewalls, SSL, and regular updates to protect your site.</p>
                                     </div>
                                 </div>
                             </div>
@@ -789,12 +696,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThirteen">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">
-                                        How long does development take?
+                                       Can I integrate payment gateways on WordPress?
                                     </button>
                                 </h2>
                                 <div id="collapseThirteen" class="accordion-collapse collapse" aria-labelledby="headingThirteen" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p>On average, development takes 2–6 weeks depending on site complexity, feature integrations, and content availability.</p>
+                                        <p>Yes. We support PayPal, Stripe, Razorpay, and other secure payment options.</p>
                                     </div>
                                 </div>
                             </div>
@@ -802,7 +709,7 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFourteen">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFourteen" aria-expanded="false" aria-controls="collapseFourteen">
-                                        Can you migrate my old site to WordPress?
+                                       Will I be able to manage the site on my own?
                                     </button>
                                 </h2>
                                 <div id="collapseFourteen" class="accordion-collapse collapse" aria-labelledby="headingFourteen" data-bs-parent="#faqAccordion">

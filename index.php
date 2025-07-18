@@ -155,8 +155,8 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">Our Services</h5>
-                        <h2 class="title">Our Core Digital, Tech & Learning Services</h2>
+                        <h5 class="sub-title">Solutions We Deliver</h5>
+                        <h2 class="title">Our Core Digital, Tech & eLearning Services</h2>
                     </div>
                 </div>
             </div>
@@ -227,7 +227,7 @@
                 <!-- Custom eLearning Development -->
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-three" style="background-image: url(assets/img/shape/banner-3.jpg);">
-                        <i class="flaticon-elearning"></i>
+                        <i class="flaticon-eLearning"></i>
                         <h4><a href="./services/Custom-eLearning-Development.php">Custom eLearning Development</a></h4>
                         <p>
                             Receive SCORM/xAPI-compliant modules with voice-over, assessments, and LMS-ready content tailored to your training goals.
@@ -599,9 +599,9 @@
                         <p>
                             Build authority with in-depth, trusted content.
                         </p>
-                        <h4><a href="./services/White-Papers-&-Case-Studies.php">Whitepapers & Case Studies</a></h4>
+                        <h4><a href="./services/White-Papers-Case-Studies.php">White Papers & Case Studies</a></h4>
                         <span>Services</span>
-                        <a href="./services/White-Papers-&-Case-Studies.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <a href="./services/White-Papers-Case-Studies.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                         <div class="shape">
                             <img src="assets/img/shape/15.webp" alt="Image Not Found">
                         </div>
@@ -860,9 +860,9 @@
                             <img src="assets/img/icon/5.png" alt="Image Not Found">
                         </div>
                         <p>
-                            Scale efficiently with reliable writing experts.
+                            Equip your on-ground teams with practical skills.
                         </p>
-                        <h4><a href="./services/Content-Team-Outsourcing.php">Content Team Outsourcing</a></h4>
+                        <h4><a href="./services/Content-Team-Outsourcing.php">Frontline Workforce Training</a></h4>
                         <span>Services</span>
                         <a href="./services/Content-Team-Outsourcing.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                         <div class="shape">
@@ -1121,7 +1121,7 @@
                                     aria-labelledby="headingTwel" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>
-                                            Absolutely. Our content team outsourcing service allows you to scale your content efforts with dedicated writers for blogs, product descriptions, whitepapers, and SEO pages—fully managed and quality-checked.
+                                            Absolutely. Our content team outsourcing service allows you to scale your content efforts with dedicated writers for blogs, product descriptions, White Papers, and SEO pages—fully managed and quality-checked.
                                         </p>
                                     </div>
                                 </div>
@@ -1263,12 +1263,12 @@
 
                             <!-- FAQ Item -->
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingELearning1">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseELearning1" aria-expanded="false" aria-controls="collapseELearning1">
+                                <h2 class="accordion-header" id="headingeLearning1">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseeLearning1" aria-expanded="false" aria-controls="collapseeLearning1">
                                         What industries do you cater to with your eLearning solutions?
                                     </button>
                                 </h2>
-                                <div id="collapseELearning1" class="accordion-collapse collapse" aria-labelledby="headingELearning1" data-bs-parent="#faqAccordion">
+                                <div id="collapseeLearning1" class="accordion-collapse collapse" aria-labelledby="headingeLearning1" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>We serve software, tech, manufacturing, finance, healthcare, government, hospitality, education, and retail—offering onboarding, compliance, and skills training solutions.</p>
                                     </div>

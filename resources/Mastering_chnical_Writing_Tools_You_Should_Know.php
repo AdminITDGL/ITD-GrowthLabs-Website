@@ -159,7 +159,7 @@
                                                 <ul class="menu-col">
                                                     <li><a href="../services/content_writing_strategy.php" target="_blank">Content Writing & Strategy</a></li>
                                                     <li><a href="../services/technical-writing-services.php" target="_blank">Technical Writing Services</a></li>
-                                                    <li><a href="../services/White-Papers-Case-Studies.php" target="_blank">Whitepapers & Case Studies</a></li>
+                                                    <li><a href="../services/White-Papers-Case-Studies.php" target="_blank">White Papers & Case Studies</a></li>
                                                     <li><a href="../services/Content-Team-Outsourcing.php" target="_blank">Content Team Outsourcing</a></li>
                                                 </ul>
                                             </div>
@@ -181,7 +181,8 @@
                         </li>
 
                         <li class="dropdown megamenu-fw">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">eLearning Services</a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="text-transform: none;">eLearning Services</a>
+
                             <ul class="dropdown-menu megamenu-content" role="menu">
                                 <li>
                                     <div class="row">
@@ -189,8 +190,9 @@
                                             <h6 class="title">Custom Solutions</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/Custom-eLearning-Development.php" target="_blank">Custom eLearning Development</a></li>
-                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php" target="_blank">PowerPoint to eLearning Conversion</a></li>
+                                                    <li><a href="../services/Custom-eLearning-Development.php" target="_blank" style="text-transform: none;">Custom eLearning Development</a></li>
+                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php" target="_blank" style="text-transform: none;">PowerPoint to eLearning Conversion</a></li>
+
                                                     <li><a href="../services/Mobile-Learn-Microlearning.php" target="_blank">Mobile Learning / Microlearning</a></li>
                                                     <li><a href="../services/Gamified-Learning-Modules.php" target="_blank">Gamified Learning Modules</a></li>
                                                 </ul>
@@ -212,7 +214,7 @@
                                             </div>
                                         </div>
                                         <div class="col-menu col-lg-4">
-                                            <h6 class="title">Industries Served</h6>
+                                            <h6 class="title">Industries We Serve</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
                                                     <li><a href="">Software & Tech</a></li>
@@ -287,7 +289,7 @@
                                     </div>
 
                                     <h2>Introduction</h2>
-                                    <p>In the dynamic world of digital communication, technical writing tools have become indispensable for writers, editors, and instructional designers alike. Whether you're creating user manuals, API documentation, software guides, or whitepapers, the right documentation tools can dramatically streamline your process and improve output quality. With the rise of sophisticated writing software and technical writing platforms, content creators can now collaborate efficiently, maintain consistency, and publish across multiple formats seamlessly.</p>
+                                    <p>In the dynamic world of digital communication, technical writing tools have become indispensable for writers, editors, and instructional designers alike. Whether you're creating user manuals, API documentation, software guides, or White Papers, the right documentation tools can dramatically streamline your process and improve output quality. With the rise of sophisticated writing software and technical writing platforms, content creators can now collaborate efficiently, maintain consistency, and publish across multiple formats seamlessly.</p>
                                     <p>Technical writing tools are not just limited to text editing—they now encompass everything from project management and collaboration to formatting and version control. For organizations and freelance professionals, choosing the right tools is vital for productivity and precision. That's where ITD GrowthLabs steps in. As a trusted partner in digital learning and documentation, ITD GrowthLabs provides guidance and services to help businesses and individuals leverage the best technical writing platforms to meet their goals.</p>
                                     <p>In this blog, we explore the most powerful and widely used technical writing tools, their features, benefits, and how they align with your specific documentation needs.</p>
 

@@ -159,7 +159,7 @@
                                                 <ul class="menu-col">
                                                     <li><a href="../services/content_writing_strategy.php" target="_blank">Content Writing & Strategy</a></li>
                                                     <li><a href="../services/technical-writing-services.php" target="_blank">Technical Writing Services</a></li>
-                                                    <li><a href="../services/White-Papers-Case-Studies.php" target="_blank">Whitepapers & Case Studies</a></li>
+                                                    <li><a href="../services/White-Papers-Case-Studies.php" target="_blank">White Papers & Case Studies</a></li>
                                                     <li><a href="../services/Content-Team-Outsourcing.php" target="_blank">Content Team Outsourcing</a></li>
                                                 </ul>
                                             </div>
@@ -181,7 +181,8 @@
                         </li>
 
                         <li class="dropdown megamenu-fw">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">eLearning Services</a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="text-transform: none;">eLearning Services</a>
+
                             <ul class="dropdown-menu megamenu-content" role="menu">
                                 <li>
                                     <div class="row">
@@ -189,8 +190,9 @@
                                             <h6 class="title">Custom Solutions</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/Custom-eLearning-Development.php" target="_blank">Custom eLearning Development</a></li>
-                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php" target="_blank">PowerPoint to eLearning Conversion</a></li>
+                                                    <li><a href="../services/Custom-eLearning-Development.php" target="_blank" style="text-transform: none;">Custom eLearning Development</a></li>
+                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php" target="_blank" style="text-transform: none;">PowerPoint to eLearning Conversion</a></li>
+
                                                     <li><a href="../services/Mobile-Learn-Microlearning.php" target="_blank">Mobile Learning / Microlearning</a></li>
                                                     <li><a href="../services/Gamified-Learning-Modules.php" target="_blank">Gamified Learning Modules</a></li>
                                                 </ul>
@@ -212,7 +214,7 @@
                                             </div>
                                         </div>
                                         <div class="col-menu col-lg-4">
-                                            <h6 class="title">Industries Served</h6>
+                                            <h6 class="title">Industries We Serve</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
                                                     <li><a href="">Software & Tech</a></li>
@@ -304,7 +306,7 @@
                                         The internet continues to be the first stop for customers seeking products, services, and information. In 2025, content is not just king—it’s the entire kingdom. As search engine algorithms evolve, content must meet stringent criteria: value, originality, relevance, and technical SEO structure. This makes hiring top content writing agencies essential for any serious digital strategy.
                                     </p>
                                     <p>
-                                        Today’s content must resonate with users and algorithms. Engaging website content keeps users on the page, encourages conversions, and reinforces brand authority. Whether it’s landing pages, product descriptions, blogs, or whitepapers—precision and persuasion go hand in hand.
+                                        Today’s content must resonate with users and algorithms. Engaging website content keeps users on the page, encourages conversions, and reinforces brand authority. Whether it’s landing pages, product descriptions, blogs, or White Papers—precision and persuasion go hand in hand.
                                     </p>
                                     <p>
                                         Outsourcing website content writing in India has become popular globally due to India's cost-effectiveness, English proficiency, and abundance of skilled writers. SEO content in India is particularly well-researched and strategically built, optimizing keyword usage without compromising readability.
@@ -480,7 +482,7 @@
                                                 <tr>
                                                     <td>Content Whale</td>
                                                     <td>Mumbai</td>
-                                                    <td>Blogs, SEO Articles, Whitepapers</td>
+                                                    <td>Blogs, SEO Articles, White Papers</td>
                                                     <td><a href="https://www.content-whale.com" target="_blank">www.content-whale.com</a></td>
                                                 </tr>
                                                 <tr>
@@ -563,7 +565,7 @@
                                     <ul>
                                         <li><strong>Website Content Writing:</strong> Crafting customized website content that aligns with brand voice and SEO goals.</li>
                                         <li><strong>SEO Articles:</strong> Producing keyword-optimized articles that help businesses rank for relevant search queries.</li>
-                                        <li><strong>Technical Writing:</strong> Delivering clear and precise technical documents, manuals, and whitepapers suited for niche industries.</li>
+                                        <li><strong>Technical Writing:</strong> Delivering clear and precise technical documents, manuals, and White Papers suited for niche industries.</li>
                                         <li><strong>Product Descriptions:</strong> Writing detailed and persuasive descriptions designed to enhance conversion rates.</li>
                                         <li><strong>Graphic Design Services:</strong> Complementing content with visually appealing graphics to create richer user experiences.</li>
                                     </ul>
@@ -582,7 +584,7 @@
                                         <li><strong>Website Content Writing:</strong> Providing customized, SEO-focused website content that reflects the brand’s tone and messaging.</li>
                                         <li><strong>SEO Blog Posts:</strong> Creating well-researched, keyword-optimized blog content aimed at increasing organic traffic.</li>
                                         <li><strong>Product Descriptions:</strong> Writing clear and engaging descriptions to boost product visibility and sales.</li>
-                                        <li><strong>Whitepapers:</strong> Producing authoritative, research-driven whitepapers for B2B marketing and lead generation.</li>
+                                        <li><strong>White Papers:</strong> Producing authoritative, research-driven White Papers for B2B marketing and lead generation.</li>
                                         <li><strong>Translation Services:</strong> Offering multilingual content solutions to help brands expand their reach in diverse markets.</li>
                                     </ul>
                                     <p>

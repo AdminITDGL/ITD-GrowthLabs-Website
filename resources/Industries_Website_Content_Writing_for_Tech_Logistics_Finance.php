@@ -159,7 +159,7 @@
                                                 <ul class="menu-col">
                                                     <li><a href="../services/content_writing_strategy.php" target="_blank">Content Writing & Strategy</a></li>
                                                     <li><a href="../services/technical-writing-services.php" target="_blank">Technical Writing Services</a></li>
-                                                    <li><a href="../services/White-Papers-Case-Studies.php" target="_blank">Whitepapers & Case Studies</a></li>
+                                                    <li><a href="../services/White-Papers-Case-Studies.php" target="_blank">White Papers & Case Studies</a></li>
                                                     <li><a href="../services/Content-Team-Outsourcing.php" target="_blank">Content Team Outsourcing</a></li>
                                                 </ul>
                                             </div>
@@ -181,7 +181,8 @@
                         </li>
 
                         <li class="dropdown megamenu-fw">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">eLearning Services</a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="text-transform: none;">eLearning Services</a>
+
                             <ul class="dropdown-menu megamenu-content" role="menu">
                                 <li>
                                     <div class="row">
@@ -189,8 +190,9 @@
                                             <h6 class="title">Custom Solutions</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/Custom-eLearning-Development.php" target="_blank">Custom eLearning Development</a></li>
-                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php" target="_blank">PowerPoint to eLearning Conversion</a></li>
+                                                    <li><a href="../services/Custom-eLearning-Development.php" target="_blank" style="text-transform: none;">Custom eLearning Development</a></li>
+                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php" target="_blank" style="text-transform: none;">PowerPoint to eLearning Conversion</a></li>
+
                                                     <li><a href="../services/Mobile-Learn-Microlearning.php" target="_blank">Mobile Learning / Microlearning</a></li>
                                                     <li><a href="../services/Gamified-Learning-Modules.php" target="_blank">Gamified Learning Modules</a></li>
                                                 </ul>
@@ -212,7 +214,7 @@
                                             </div>
                                         </div>
                                         <div class="col-menu col-lg-4">
-                                            <h6 class="title">Industries Served</h6>
+                                            <h6 class="title">Industries We Serve</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
                                                     <li><a href="">Software & Tech</a></li>
@@ -316,7 +318,7 @@
                                     <ol>
                                         <li><strong>Better SEO Performance</strong><br>
                                             Search engines now prioritize helpful, experience-based content. Google’s E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) algorithm updates reward websites that provide real value—especially in sectors like finance, healthcare, law, or insurance.<br>
-                                            Industry content writing ensures your content hits these marks by being accurate, timely, and deeply relevant. When your blog posts, landing pages, or whitepapers address specific industry queries and terminology, your chances of ranking higher increase substantially.
+                                            Industry content writing ensures your content hits these marks by being accurate, timely, and deeply relevant. When your blog posts, landing pages, or White Papers address specific industry queries and terminology, your chances of ranking higher increase substantially.
                                         </li>
                                         <li><strong>Higher Conversions and Sales</strong><br>
                                             Generic copy fails to build trust. Visitors land on your site, but don’t see themselves—or their problems—reflected in your messaging. Industry-specific content speaks to them directly. It mirrors their challenges and offers tailored solutions using language and scenarios they already relate to.<br>
@@ -326,7 +328,7 @@
                                             Content written by industry-savvy writers goes deeper than surface-level fluff. It educates, informs, and challenges readers. It includes relevant stats, thought leadership insights, use cases, and compliance cues. This results in longer time-on-page, lower bounce rates, and increased content sharing.
                                         </li>
                                         <li><strong>Enhanced Brand Authority</strong><br>
-                                            By consistently publishing high-quality, niche-specific content, your brand begins to stand out as a thought leader in your industry. Whether it’s through blog articles, whitepapers, newsletters, or case studies—industry content writing helps position your company as the go-to expert.
+                                            By consistently publishing high-quality, niche-specific content, your brand begins to stand out as a thought leader in your industry. Whether it’s through blog articles, White Papers, newsletters, or case studies—industry content writing helps position your company as the go-to expert.
                                         </li>
                                     </ol>
 
@@ -391,7 +393,7 @@
                                     <h4>What ITD GrowthLabs Offers for Tech Brands</h4>
                                     <ul>
                                         <li><strong>Product Pages:</strong> Transforming complex technical specifications into clear, benefit-focused narratives that resonate with target audiences.</li>
-                                        <li><strong>Whitepapers &amp; eBooks:</strong> Developing in-depth resources that establish thought leadership and support lead generation efforts.</li>
+                                        <li><strong>White Papers &amp; eBooks:</strong> Developing in-depth resources that establish thought leadership and support lead generation efforts.</li>
                                         <li><strong>Developer Documentation:</strong> Creating clear, consistent, and user-friendly documentation to assist developers in understanding and utilizing your products effectively.</li>
                                         <li><strong>Landing Pages:</strong> Designing pages optimized with industry-specific SEO content and compelling calls-to-action to drive conversions.</li>
                                         <li><strong>Case Studies:</strong> Crafting narratives that highlight measurable outcomes and success stories, building trust with prospective clients.</li>
@@ -412,7 +414,7 @@
                                     <ul>
                                         <li><strong>68% Increase in Organic Leads:</strong> Within five months, the company experienced a significant uptick in qualified leads through organic search channels.</li>
                                         <li><strong>Enhanced User Engagement:</strong> Improved content clarity led to longer site visits and lower bounce rates.</li>
-                                        <li><strong>Established Thought Leadership:</strong> The publication of insightful whitepapers and case studies positioned the company as a trusted authority in cybersecurity solutions.</li>
+                                        <li><strong>Established Thought Leadership:</strong> The publication of insightful White Papers and case studies positioned the company as a trusted authority in cybersecurity solutions.</li>
                                     </ul>
                                     <p>
                                         By partnering with ITD GrowthLabs, tech brands can effectively communicate their innovations, engage diverse audiences, and drive business growth through strategic content solutions.

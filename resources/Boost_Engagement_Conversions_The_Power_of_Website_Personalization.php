@@ -159,7 +159,7 @@
                                                 <ul class="menu-col">
                                                     <li><a href="../services/content_writing_strategy.php" target="_blank">Content Writing & Strategy</a></li>
                                                     <li><a href="../services/technical-writing-services.php" target="_blank">Technical Writing Services</a></li>
-                                                    <li><a href="../services/White-Papers-Case-Studies.php" target="_blank">Whitepapers & Case Studies</a></li>
+                                                    <li><a href="../services/White-Papers-Case-Studies.php" target="_blank">White Papers & Case Studies</a></li>
                                                     <li><a href="../services/Content-Team-Outsourcing.php" target="_blank">Content Team Outsourcing</a></li>
                                                 </ul>
                                             </div>
@@ -181,7 +181,8 @@
                         </li>
 
                         <li class="dropdown megamenu-fw">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">eLearning Services</a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="text-transform: none;">eLearning Services</a>
+
                             <ul class="dropdown-menu megamenu-content" role="menu">
                                 <li>
                                     <div class="row">
@@ -189,8 +190,9 @@
                                             <h6 class="title">Custom Solutions</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/Custom-eLearning-Development.php" target="_blank">Custom eLearning Development</a></li>
-                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php" target="_blank">PowerPoint to eLearning Conversion</a></li>
+                                                    <li><a href="../services/Custom-eLearning-Development.php" target="_blank" style="text-transform: none;">Custom eLearning Development</a></li>
+                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php" target="_blank" style="text-transform: none;">PowerPoint to eLearning Conversion</a></li>
+
                                                     <li><a href="../services/Mobile-Learn-Microlearning.php" target="_blank">Mobile Learning / Microlearning</a></li>
                                                     <li><a href="../services/Gamified-Learning-Modules.php" target="_blank">Gamified Learning Modules</a></li>
                                                 </ul>
@@ -212,7 +214,7 @@
                                             </div>
                                         </div>
                                         <div class="col-menu col-lg-4">
-                                            <h6 class="title">Industries Served</h6>
+                                            <h6 class="title">Industries We Serve</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
                                                     <li><a href="">Software & Tech</a></li>
@@ -356,7 +358,7 @@
                                         <li>Dynamic content ensures that each user sees a version of the website tailored to their preferences, behavior, and intent.</li>
                                         <li>Real-time content adaptation means users get personalized experiences based on their current session, leading to higher engagement.</li>
                                         <li>E-commerce platforms dynamically display product recommendations based on past purchases, search history, and frequently viewed categories.</li>
-                                        <li>Content marketing sites show suggested blogs, videos, or whitepapers tailored to individual interests, increasing session duration.</li>
+                                        <li>Content marketing sites show suggested blogs, videos, or White Papers tailored to individual interests, increasing session duration.</li>
                                         <li>Adaptive pricing strategies offer special discounts based on user behavior, location, or past transactions.</li>
                                         <li>Interactive landing pages adjust headlines, visuals, and CTAs (Call-to-Actions) dynamically to match the visitor's preferences.</li>
                                     </ul>
@@ -498,7 +500,7 @@
                                         <li>Behavior-based CTAs: Show different CTAs depending on whether the user is a first-time visitor, returning customer, or high-value lead.</li>
                                         <li>Dynamic landing page content: Adjusts headlines, images, and offers in real time based on user segmentation.</li>
                                         <li>A/B testing for personalized CTAs: Uses machine learning-driven A/B testing to determine which CTA variations perform best for different audiences.</li>
-                                        <li>Personalized lead magnets: Offers customized eBooks, whitepapers, or free trials based on the user's industry and interests.</li>
+                                        <li>Personalized lead magnets: Offers customized eBooks, White Papers, or free trials based on the user's industry and interests.</li>
                                     </ul>
                                     <p>Example: A software company targeting different industries may display custom landing pages for healthcare, finance, and retail professionals, increasing the likelihood of conversions.</p>
 

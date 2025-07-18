@@ -159,7 +159,7 @@
                                                 <ul class="menu-col">
                                                     <li><a href="../services/content_writing_strategy.php" target="_blank">Content Writing & Strategy</a></li>
                                                     <li><a href="../services/technical-writing-services.php" target="_blank">Technical Writing Services</a></li>
-                                                    <li><a href="../services/White-Papers-Case-Studies.php" target="_blank">Whitepapers & Case Studies</a></li>
+                                                    <li><a href="../services/White-Papers-Case-Studies.php" target="_blank">White Papers & Case Studies</a></li>
                                                     <li><a href="../services/Content-Team-Outsourcing.php" target="_blank">Content Team Outsourcing</a></li>
                                                 </ul>
                                             </div>
@@ -181,7 +181,8 @@
                         </li>
 
                         <li class="dropdown megamenu-fw">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">eLearning Services</a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="text-transform: none;">eLearning Services</a>
+
                             <ul class="dropdown-menu megamenu-content" role="menu">
                                 <li>
                                     <div class="row">
@@ -189,8 +190,9 @@
                                             <h6 class="title">Custom Solutions</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="../services/Custom-eLearning-Development.php" target="_blank">Custom eLearning Development</a></li>
-                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php" target="_blank">PowerPoint to eLearning Conversion</a></li>
+                                                    <li><a href="../services/Custom-eLearning-Development.php" target="_blank" style="text-transform: none;">Custom eLearning Development</a></li>
+                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php" target="_blank" style="text-transform: none;">PowerPoint to eLearning Conversion</a></li>
+
                                                     <li><a href="../services/Mobile-Learn-Microlearning.php" target="_blank">Mobile Learning / Microlearning</a></li>
                                                     <li><a href="../services/Gamified-Learning-Modules.php" target="_blank">Gamified Learning Modules</a></li>
                                                 </ul>
@@ -212,7 +214,7 @@
                                             </div>
                                         </div>
                                         <div class="col-menu col-lg-4">
-                                            <h6 class="title">Industries Served</h6>
+                                            <h6 class="title">Industries We Serve</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
                                                     <li><a href="">Software & Tech</a></li>
@@ -308,7 +310,7 @@
                                     <li>Social media posts</li>
                                     <li>Podcasts</li>
                                     <li>E-books</li>
-                                    <li>Whitepapers</li>
+                                    <li>White Papers</li>
                                 </ul>
                                 <p>Businesses that embrace content marketing see better engagement, increased conversions, and stronger customer loyalty. When executed correctly, it becomes an integral part of digital marketing and complements other strategies like SEO, social media marketing, and email marketing.</p>
 
@@ -331,7 +333,7 @@
                                 <h3>3. Establishing Authority and Trust in the Industry</h3>
                                 <ul>
                                     <li>Businesses that provide informative, educational content build credibility and position themselves as thought leaders.</li>
-                                    <li>Whitepapers, research reports, and case studies demonstrate expertise and add value to potential customers.</li>
+                                    <li>White Papers, research reports, and case studies demonstrate expertise and add value to potential customers.</li>
                                     <li>Consistently delivering high-quality content strengthens trust, making customers more likely to choose a business over competitors.</li>
                                     <li>Thought leadership through content marketing helps foster customer loyalty and long-term engagement.</li>
                                 </ul>
@@ -383,7 +385,7 @@
                                 <p>Before creating content, businesses must define specific objectives. These goals will shape content creation and distribution strategies. Some key objectives include:</p>
                                 <ul>
                                     <li>Increasing Website Traffic: Publishing high-quality content optimized for search engines can attract more visitors to the website.</li>
-                                    <li>Generating Leads: Content such as gated eBooks, whitepapers, and email newsletters help capture leads and build an audience.</li>
+                                    <li>Generating Leads: Content such as gated eBooks, White Papers, and email newsletters help capture leads and build an audience.</li>
                                     <li>Improving Brand Credibility: Consistently delivering valuable content positions the brand as an industry authority.</li>
                                     <li>Enhancing Customer Engagement: Interactive content such as quizzes, surveys, and webinars can encourage audience participation.</li>
                                 </ul>
