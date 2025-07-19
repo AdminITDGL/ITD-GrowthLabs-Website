@@ -20,10 +20,10 @@ function loadEnv($file)
 }
 
 // loadEnv('env');
-loadEnv(__DIR__ . '/.env');
+// loadEnv(__DIR__ . '/.env');
 
-$email_id = getenv('EMAIL_USER');
-$email_password = getenv('EMAIL_PASSWORD');
+// $email_id = getenv('EMAIL_USER');
+// $email_password = getenv('EMAIL_PASSWORD');
 
 if (isset($_POST)) {
     $name = trim($_POST['name']);
@@ -59,9 +59,9 @@ if (isset($_POST)) {
     $mail->Port = 587;
     $mail->SMTPAuth = true;
     $mail->SMTPSecure = "tls";
-    $mail->Username = $email_id;
-    $mail->Password = $email_password;
-    $mail->setFrom($email_id, $subject);
+    $mail->Username = 'info@itdgrowthlabs.com';
+    $mail->Password = 'zjmdpezeqzcvsooc';
+    $mail->setFrom('info@itdgrowthlabs.com', $subject);
     $mail->addAddress("$email");
     $mail->addAddress("info@itdgrowthlabs.com");
     $mail->addBCC("ashish@itdservices.in");
