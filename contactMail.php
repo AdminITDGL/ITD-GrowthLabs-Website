@@ -56,9 +56,9 @@ if (isset($_POST)) {
     // $mail->SMTPDebug = 2;
     $mail->isSMTP();
     $mail->Host = "smtp.gmail.com";
-    $mail->Port = 587;
+    $mail->Port = 443;
     $mail->SMTPAuth = true;
-    $mail->SMTPSecure = "tls";
+    $mail->SMTPSecure = "ssl";
     $mail->Username = 'info@itdgrowthlabs.com';
     $mail->Password = 'zjmdpezeqzcvsooc';
     $mail->setFrom('info@itdgrowthlabs.com', $subject);
