@@ -2,38 +2,22 @@
 
 require __DIR__ . '/PHPMailerAutoload.php';
 
-function loadEnv($file)
-{
-    if (!file_exists($file)) {
-        throw new Exception("File not found: " . $file);
-    }
-    $lines = file($file, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
-    foreach ($lines as $line) {
-
-        if (strpos(trim($line), '#') === 0) {
-
-            continue;
-        }
-        list($key, $value) = explode('=', $line, 2);
-        putenv(trim($key) . '=' . trim($value));
-    }
+function handleError($message) {
+    error_log($message);
+    echo "<script>alert('An error occurred: " . addslashes($message) . "');</script>";
+    echo "<script>window.location.href='thankyou.php'</script>";
+    exit;
 }
 
-// loadEnv('env');
-// loadEnv(__DIR__ . '/.env');
-
-// $email_id = getenv('EMAIL_USER');
-// $email_password = getenv('EMAIL_PASSWORD');
-
-if (isset($_POST)) {
+// --- Only process POST requests with required fields ---
+if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['name'], $_POST['email'], $_POST['phone'], $_POST['subject'], $_POST['g-recaptcha-response'])) {
     $name = trim($_POST['name']);
     $email = trim($_POST['email']);
     $mobile = trim($_POST['phone']);
     $msg_subject = trim($_POST['subject']);
-    // $message = trim($_POST['message']);
 
     $subject = "ITD GROWTHLABS ENQUIRY";
-    $body = "<table bgcolor='#fafafa' style=' width: 100%!important; height: 100%; background-color: #fafafa; padding: 20px; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, 'Lucida Grande', sans-serif;  font-size: 100%; line-height: 1.6;'>
+    $body = "<table bgcolor='#fafafa' style=' width: 100%!important; height: 100%; background-color: #fafafa; padding: 20px; font-family: \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif;  font-size: 100%; line-height: 1.6;'>
     <tr>
     <td></td>
     <td bgcolor='#FFFFFF' style='border: 1px solid #eeeeee; background-color: #ffffff; border-radius:5px; display:block!important; max-width:600px!important; margin:0 auto!important; clear:both!important;'><div style='padding:20px; max-width:600px; margin:0 auto; display:block;'>
@@ -52,45 +36,68 @@ if (isset($_POST)) {
     </tr>
     </table>";
 
-    $mail = new PHPMailer(true);
-    // $mail->SMTPDebug = 2;
-    $mail->isSMTP();
-    $mail->Host = "smtp.gmail.com";
-    $mail->Port = 443;
-    $mail->SMTPAuth = true;
-    $mail->SMTPSecure = "ssl";
-    $mail->Username = 'info@itdgrowthlabs.com';
-    $mail->Password = 'zjmdpezeqzcvsooc';
-    $mail->setFrom('info@itdgrowthlabs.com', $subject);
-    $mail->addAddress("$email");
-    $mail->addAddress("info@itdgrowthlabs.com");
-    $mail->addBCC("ashish@itdservices.in");
-    $mail->addBCC("loy@itdservices.in");
-    $mail->addBCC("suraj@itdservices.in");
-    $mail->isHTML(true);
-    $mail->Subject = $subject;
-    $mail->Body = $body;
-    $mail->AltBody = "";
-
+    // --- reCAPTCHA Verification ---
     $secretKey = "6Lez7pMqAAAAAAp8c0AZUQqbYAqv8mAVaHMSYieK";
     $response = $_POST['g-recaptcha-response'];
 
-    $url = 'https://www.google.com/recaptcha/api/siteverify?secret=' . $secretKey . '&response=' . $response;
-    $verify = file_get_contents($url);
+    // Use cURL for better error handling and to avoid file_get_contents issues
+    $recaptcha_url = 'https://www.google.com/recaptcha/api/siteverify';
+    $data = [
+        'secret' => $secretKey,
+        'response' => $response
+    ];
+
+    $ch = curl_init($recaptcha_url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_TIMEOUT, 10);
+    curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($data));
+    $verify = curl_exec($ch);
+
+    if ($verify === false) {
+        handleError('Captcha verification failed (cURL error).');
+    }
+
     $captcha_success = json_decode($verify);
-    if (!$captcha_success->success) {
-        echo "<script>alert('Captcha error found!');</script>";
-        echo "<script>window.location.href='index.php'</script>";
-        exit;
-    } else {
-        if ($mail->send() == true) {
+    curl_close($ch);
+
+    if (!$captcha_success || empty($captcha_success->success)) {
+        handleError('Captcha error found!');
+    }
+
+    // --- PHPMailer Setup ---
+    try {
+        $mail = new PHPMailer(true);
+        // $mail->SMTPDebug = 2; // Uncomment for debugging
+        $mail->isSMTP();
+        $mail->Host = "smtp.gmail.com";
+        $mail->Port = 465; // Use 465 for SSL, 587 for TLS
+        $mail->SMTPAuth = true;
+        $mail->SMTPSecure = "ssl";
+        $mail->Username = 'info@itdgrowthlabs.com';
+        $mail->Password = 'zjmdpezeqzcvsooc';
+        $mail->setFrom('info@itdgrowthlabs.com', $subject);
+        $mail->addAddress($email);
+        $mail->addAddress("info@itdgrowthlabs.com");
+        $mail->addBCC("ashish@itdservices.in");
+        $mail->addBCC("loy@itdservices.in");
+        $mail->addBCC("suraj@itdservices.in");
+        $mail->isHTML(true);
+        $mail->Subject = $subject;
+        $mail->Body = $body;
+        $mail->AltBody = strip_tags($body);
+
+        if ($mail->send()) {
             echo "<script>alert('Message has been sent!');</script>";
             echo "<script>window.location.href='thankyou.php'</script>";
             exit;
         } else {
-            echo "<script>alert('Message could not be sent. Mailer Error: {$mail->ErrorInfo}');</script>";
-            echo "<script>window.location.href='thankyou.php'</script>";
-            exit;
+            handleError('Message could not be sent. Mailer Error: ' . $mail->ErrorInfo);
         }
+    } catch (Exception $e) {
+        handleError('Mailer Exception: ' . $e->getMessage());
+        echo "<script>window.location.href='thankyou.php'</script>";
     }
+} else {
+    // Not a POST request or missing fields
+    handleError('Invalid request.');
 }
