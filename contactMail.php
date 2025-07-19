@@ -1,11 +1,15 @@
 <?php
 
+// Increase max execution time and memory limit to help avoid timeouts
+ini_set('max_execution_time', 60); // 60 seconds
+ini_set('memory_limit', '256M');
+
 require __DIR__ . '/PHPMailerAutoload.php';
 
 function handleError($message) {
     error_log($message);
-    echo "<script>alert('An error occurred: " . addslashes($message) . "');</script>";
-    echo "<script>window.location.href='thankyou.php'</script>";
+    // Use a simple thank you page redirect to avoid long-running scripts
+    header("Location: thankyou.php");
     exit;
 }
 
@@ -54,6 +58,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['name'], $_POST['email
     $verify = curl_exec($ch);
 
     if ($verify === false) {
+        curl_close($ch);
         handleError('Captcha verification failed (cURL error).');
     }
 
@@ -86,9 +91,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['name'], $_POST['email
         $mail->Body = $body;
         $mail->AltBody = strip_tags($body);
 
+        // Set a timeout for SMTP connection to avoid hanging
+        $mail->Timeout = 15; // seconds
+
         if ($mail->send()) {
-            echo "<script>alert('Message has been sent!');</script>";
-            echo "<script>window.location.href='thankyou.php'</script>";
+            // Use a simple redirect to avoid long-running scripts
+            header("Location: thankyou.php");
             exit;
         } else {
             handleError('Message could not be sent. Mailer Error: ' . $mail->ErrorInfo);
