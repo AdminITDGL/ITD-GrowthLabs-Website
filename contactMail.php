@@ -19,8 +19,8 @@ function loadEnv($file)
     }
 }
 
-// loadEnv('env');
-loadEnv(__DIR__ . '/.env');
+loadEnv('env');
+// loadEnv(__DIR__ . '/.env');
 
 $email_id = getenv('EMAIL_USER');
 $email_password = getenv('EMAIL_PASSWORD');
