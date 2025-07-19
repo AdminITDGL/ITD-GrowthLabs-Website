@@ -628,15 +628,13 @@
                             <div class="col-12">
                                 <div class="faq-style-one">
                                     <div class="accordion" id="faqAccordion">
-
-
                                         <div class="accordion-item">
-                                            <h2 class="accordion-header" id="headingTwentyTwo">
-                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwentyTwo" aria-expanded="false" aria-controls="collapseTwentyTwo">
+                                            <h2 class="accordion-header" id="heading1">
+                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
                                                     What is template-based website development?
                                                 </button>
                                             </h2>
-                                            <div id="collapseTwentyTwo" class="accordion-collapse collapse" aria-labelledby="headingTwentyTwo" data-bs-parent="#faqAccordion">
+                                            <div id="collapse1" class="accordion-collapse collapse" aria-labelledby="heading1" data-bs-parent="#faqAccordion">
                                                 <div class="accordion-body">
                                                     <p>It’s a fast and cost-effective web development method using pre-designed templates.</p>
                                                 </div>
@@ -644,12 +642,12 @@
                                         </div>
 
                                         <div class="accordion-item">
-                                            <h2 class="accordion-header" id="headingTwentyThree">
-                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwentyThree" aria-expanded="false" aria-controls="collapseTwentyThree">
+                                            <h2 class="accordion-header" id="heading2">
+                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
                                                     How quickly can my site go live?
                                                 </button>
                                             </h2>
-                                            <div id="collapseTwentyThree" class="accordion-collapse collapse" aria-labelledby="headingTwentyThree" data-bs-parent="#faqAccordion">
+                                            <div id="collapse2" class="accordion-collapse collapse" aria-labelledby="heading2" data-bs-parent="#faqAccordion">
                                                 <div class="accordion-body">
                                                     <p>Typically within 7–10 business days, depending on customization scope.</p>
                                                 </div>
@@ -657,12 +655,12 @@
                                         </div>
 
                                         <div class="accordion-item">
-                                            <h2 class="accordion-header" id="headingTwentyFour">
-                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwentyFour" aria-expanded="false" aria-controls="collapseTwentyFour">
+                                            <h2 class="accordion-header" id="heading3">
+                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
                                                     Can the templates be customized?
                                                 </button>
                                             </h2>
-                                            <div id="collapseTwentyFour" class="accordion-collapse collapse" aria-labelledby="headingTwentyFour" data-bs-parent="#faqAccordion">
+                                            <div id="collapse3" class="accordion-collapse collapse" aria-labelledby="heading3" data-bs-parent="#faqAccordion">
                                                 <div class="accordion-body">
                                                     <p>Yes! Colors, fonts, images, and layouts can all be tailored to your brand.</p>
                                                 </div>
@@ -670,12 +668,12 @@
                                         </div>
 
                                         <div class="accordion-item">
-                                            <h2 class="accordion-header" id="headingTwentyFive">
-                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwentyFive" aria-expanded="false" aria-controls="collapseTwentyFive">
+                                            <h2 class="accordion-header" id="heading4">
+                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
                                                     Will my website be mobile-friendly?
                                                 </button>
                                             </h2>
-                                            <div id="collapseTwentyFive" class="accordion-collapse collapse" aria-labelledby="headingTwentyFive" data-bs-parent="#faqAccordion">
+                                            <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4" data-bs-parent="#faqAccordion">
                                                 <div class="accordion-body">
                                                     <p>Absolutely. All our templates are fully responsive and mobile-optimized.</p>
                                                 </div>
@@ -683,12 +681,12 @@
                                         </div>
 
                                         <div class="accordion-item">
-                                            <h2 class="accordion-header" id="headingTwentySix">
-                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwentySix" aria-expanded="false" aria-controls="collapseTwentySix">
+                                            <h2 class="accordion-header" id="heading5">
+                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
                                                     Is SEO optimization included?
                                                 </button>
                                             </h2>
-                                            <div id="collapseTwentySix" class="accordion-collapse collapse" aria-labelledby="headingTwentySix" data-bs-parent="#faqAccordion">
+                                            <div id="collapse5" class="accordion-collapse collapse" aria-labelledby="heading5" data-bs-parent="#faqAccordion">
                                                 <div class="accordion-body">
                                                     <p>Yes, we implement basic SEO essentials like meta tags, image optimization, and clean coding.</p>
                                                 </div>
@@ -696,12 +694,12 @@
                                         </div>
 
                                         <div class="accordion-item">
-                                            <h2 class="accordion-header" id="headingTwentySeven">
-                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwentySeven" aria-expanded="false" aria-controls="collapseTwentySeven">
+                                            <h2 class="accordion-header" id="heading6">
+                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
                                                     Do you offer WordPress template sites?
                                                 </button>
                                             </h2>
-                                            <div id="collapseTwentySeven" class="accordion-collapse collapse" aria-labelledby="headingTwentySeven" data-bs-parent="#faqAccordion">
+                                            <div id="collapse6" class="accordion-collapse collapse" aria-labelledby="heading6" data-bs-parent="#faqAccordion">
                                                 <div class="accordion-body">
                                                     <p>Yes! We specialize in WordPress-based template designs for flexibility and ease of use.</p>
                                                 </div>
@@ -709,56 +707,57 @@
                                         </div>
 
                                         <div class="accordion-item">
-                                            <h2 class="accordion-header" id="headingTwentyEight">
-                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwentyEight" aria-expanded="false" aria-controls="collapseTwentyEight">
+                                            <h2 class="accordion-header" id="heading7">
+                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse7" aria-expanded="false" aria-controls="collapse7">
                                                     Can I integrate contact forms and CTAs?
                                                 </button>
                                             </h2>
-                                            <div id="collapseTwentyEight" class="accordion-collapse collapse" aria-labelledby="headingTwentyEight" data-bs-parent="#faqAccordion">
+                                            <div id="collapse7" class="accordion-collapse collapse" aria-labelledby="heading7" data-bs-parent="#faqAccordion">
                                                 <div class="accordion-body">
                                                     <p>Definitely. We’ll include key conversion elements like forms, CTA buttons, and social links.</p>
                                                 </div>
                                             </div>
                                         </div>
-                                        <!--- end-->
+
                                         <div class="accordion-item">
-                                            <h2 class="accordion-header" id="headingTwentyEight">
-                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwentyEight" aria-expanded="false" aria-controls="collapseTwentyEight">
+                                            <h2 class="accordion-header" id="heading8">
+                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
                                                     Will I get CMS access for updates?
                                                 </button>
                                             </h2>
-                                            <div id="collapseTwentyEight" class="accordion-collapse collapse" aria-labelledby="headingTwentyEight" data-bs-parent="#faqAccordion">
+                                            <div id="collapse8" class="accordion-collapse collapse" aria-labelledby="heading8" data-bs-parent="#faqAccordion">
                                                 <div class="accordion-body">
                                                     <p>Yes, you’ll have admin access to make content changes or upload blogs.</p>
                                                 </div>
                                             </div>
                                         </div>
-                                        <!--- end-->
+
                                         <div class="accordion-item">
-                                            <h2 class="accordion-header" id="headingTwentyEight">
-                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwentyEight" aria-expanded="false" aria-controls="collapseTwentyEight">
+                                            <h2 class="accordion-header" id="heading9">
+                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse9" aria-expanded="false" aria-controls="collapse9">
                                                     Is hosting and domain setup included?
                                                 </button>
                                             </h2>
-                                            <div id="collapseTwentyEight" class="accordion-collapse collapse" aria-labelledby="headingTwentyEight" data-bs-parent="#faqAccordion">
+                                            <div id="collapse9" class="accordion-collapse collapse" aria-labelledby="heading9" data-bs-parent="#faqAccordion">
                                                 <div class="accordion-body">
                                                     <p>We can assist with setup, but hosting and domains are billed separately.</p>
                                                 </div>
                                             </div>
                                         </div>
-                                        <!--- end-->
+
                                         <div class="accordion-item">
-                                            <h2 class="accordion-header" id="headingTwentyEight">
-                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwentyEight" aria-expanded="false" aria-controls="collapseTwentyEight">
+                                            <h2 class="accordion-header" id="heading10">
+                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
                                                     Can the site scale in the future?
                                                 </button>
                                             </h2>
-                                            <div id="collapseTwentyEight" class="accordion-collapse collapse" aria-labelledby="headingTwentyEight" data-bs-parent="#faqAccordion">
+                                            <div id="collapse10" class="accordion-collapse collapse" aria-labelledby="heading10" data-bs-parent="#faqAccordion">
                                                 <div class="accordion-body">
                                                     <p>Yes, we build with scalability in mind, making it easier to upgrade later.</p>
                                                 </div>
                                             </div>
                                         </div>
+
                                     </div>
                                 </div>
                             </div>
@@ -1054,11 +1053,11 @@
                         <div class="f-item link">
                             <h4 class="widget-title">Data Services</h4>
                             <ul>
-                                <li><a href="data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
-                                <li><a href="data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
-                                <li><a href="data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
-                                <li><a href="data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
-                                <li><a href="data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
+                                <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
+                                <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
+                                <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
+                                <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
+                                <li><a href="../data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
                             </ul>
                         </div>
                     </div>
@@ -1092,10 +1091,10 @@
                         <div class="f-item link">
                             <h4 class="widget-title"></h4>
                             <ul>
-                                <li><a href="services/Repurpose-Videos.php" target="_blank">Repurpose Videos</a></li>
-                                <li><a href="services/Video-Editing.php" target="_blank">Video Editing</a></li>
-                                <li><a href="services/How-To-Videos.php" target="_blank">How-to Videos</a></li>
-                                <li><a href="services/Onboarding-Videos.php" target="_blank">Onboarding Videos</a></li>
+                                <li><a href="../services/Repurpose-Videos.php" target="_blank">Repurpose Videos</a></li>
+                                <li><a href="../services/Video-Editing.php" target="_blank">Video Editing</a></li>
+                                <li><a href="../services/How-To-Videos.php" target="_blank">How-to Videos</a></li>
+                                <li><a href="../services/Onboarding-Videos.php" target="_blank">Onboarding Videos</a></li>
                             </ul>
                         </div>
                     </div>
@@ -1135,6 +1134,7 @@
         </div>
         <!-- End Footer Bottom -->
     </footer>
+
 
     <!-- jQuery Frameworks
     ============================================= -->

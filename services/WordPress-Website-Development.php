@@ -628,11 +628,11 @@
                 <div class="col-12">
                     <div class="faq-style-one">
                         <div class="accordion" id="faqAccordion">
-                          
+
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingEight">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
-                                       What makes WordPress ideal for business websites?
+                                        What makes WordPress ideal for business websites?
                                     </button>
                                 </h2>
                                 <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#faqAccordion">
@@ -670,7 +670,7 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingEleven">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
-                                         Do you offer SEO-optimized WordPress development?
+                                        Do you offer SEO-optimized WordPress development?
                                     </button>
                                 </h2>
                                 <div id="collapseEleven" class="accordion-collapse collapse" aria-labelledby="headingEleven" data-bs-parent="#faqAccordion">
@@ -696,7 +696,7 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThirteen">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">
-                                       Can I integrate payment gateways on WordPress?
+                                        Can I integrate payment gateways on WordPress?
                                     </button>
                                 </h2>
                                 <div id="collapseThirteen" class="accordion-collapse collapse" aria-labelledby="headingThirteen" data-bs-parent="#faqAccordion">
@@ -709,12 +709,48 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFourteen">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFourteen" aria-expanded="false" aria-controls="collapseFourteen">
-                                       Will I be able to manage the site on my own?
+                                        Will I be able to manage the site on my own?
                                     </button>
                                 </h2>
                                 <div id="collapseFourteen" class="accordion-collapse collapse" aria-labelledby="headingFourteen" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p>Yes, we provide full migration support including content transfer, redirect setup, design replication, and SEO preservation.</p>
+                                        <p>Yes. We provide an easy-to-use backend and basic CMS training if needed.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingFourteen">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFourteen" aria-expanded="false" aria-controls="collapseFourteen">
+                                        How long does a WordPress website take to develop?
+                                    </button>
+                                </h2>
+                                <div id="collapseFourteen" class="accordion-collapse collapse" aria-labelledby="headingFourteen" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p>Typically 2–5 weeks depending on the complexity and feature requirements.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingFourteen">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFourteen" aria-expanded="false" aria-controls="collapseFourteen">
+                                        Can you migrate my existing site to WordPress?
+                                    </button>
+                                </h2>
+                                <div id="collapseFourteen" class="accordion-collapse collapse" aria-labelledby="headingFourteen" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p>Yes. We offer full-site migration services with minimal downtime or data loss.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingFourteen">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFourteen" aria-expanded="false" aria-controls="collapseFourteen">
+                                        Do you provide ongoing WordPress support?
+                                    </button>
+                                </h2>
+                                <div id="collapseFourteen" class="accordion-collapse collapse" aria-labelledby="headingFourteen" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p>Yes. We offer maintenance packages covering backups, updates, and issue resolution.</p>
                                     </div>
                                 </div>
                             </div>
@@ -1013,11 +1049,11 @@
                         <div class="f-item link">
                             <h4 class="widget-title">Data Services</h4>
                             <ul>
-                                <li><a href="data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
-                                <li><a href="data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
-                                <li><a href="data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
-                                <li><a href="data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
-                                <li><a href="data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
+                                <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
+                                <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
+                                <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
+                                <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
+                                <li><a href="../data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
                             </ul>
                         </div>
                     </div>
@@ -1051,10 +1087,10 @@
                         <div class="f-item link">
                             <h4 class="widget-title"></h4>
                             <ul>
-                                <li><a href="services/Repurpose-Videos.php" target="_blank">Repurpose Videos</a></li>
-                                <li><a href="services/Video-Editing.php" target="_blank">Video Editing</a></li>
-                                <li><a href="services/How-To-Videos.php" target="_blank">How-to Videos</a></li>
-                                <li><a href="services/Onboarding-Videos.php" target="_blank">Onboarding Videos</a></li>
+                                <li><a href="../services/Repurpose-Videos.php" target="_blank">Repurpose Videos</a></li>
+                                <li><a href="../services/Video-Editing.php" target="_blank">Video Editing</a></li>
+                                <li><a href="../services/How-To-Videos.php" target="_blank">How-to Videos</a></li>
+                                <li><a href="../services/Onboarding-Videos.php" target="_blank">Onboarding Videos</a></li>
                             </ul>
                         </div>
                     </div>
@@ -1094,6 +1130,7 @@
         </div>
         <!-- End Footer Bottom -->
     </footer>
+
     <!-- jQuery Frameworks
     ============================================= -->
     <script src="../assets/js/jquery-3.6.0.min.js"></script>

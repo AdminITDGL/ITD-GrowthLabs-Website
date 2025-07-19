@@ -80,10 +80,10 @@
                     <div class="f-item link">
                         <h4 class="widget-title">Video Services</h4>
                         <ul>
-                            <li><a href="services/Explainer-Videos.php">Explainer Videos</a></li>
-                            <li><a href="services/Demo-Videos.php">Demo Videos</a></li>
-                            <li><a href="services/Video-Ads.php">Video Ads</a></li>
-                            <li><a href="services/Social-Media-Videos.php">Social Media Videos</a></li>
+                            <li><a href="./services/Explainer-Videos.php">Explainer Videos</a></li>
+                            <li><a href="./services/Demo-Videos.php">Demo Videos</a></li>
+                            <li><a href="./services/Video-Ads.php">Video Ads</a></li>
+                            <li><a href="./services/Social-Media-Videos.php">Social Media Videos</a></li>
 
 
                         </ul>
@@ -93,10 +93,10 @@
                     <div class="f-item link">
                         <h4 class="widget-title"></h4>
                         <ul>
-                            <li><a href="services/Repurpose-Videos.php">Repurpose Videos</a></li>
-                            <li><a href="services/Video-Editing.php">Video Editing</a></li>
-                            <li><a href="services/How-To-Videos.php">How-to Videos</a></li>
-                            <li><a href="services/Onboarding-Videos.php">Onboarding Videos</a></li>
+                            <li><a href="./services/Repurpose-Videos.php">Repurpose Videos</a></li>
+                            <li><a href="./services/Video-Editing.php">Video Editing</a></li>
+                            <li><a href="./services/How-To-Videos.php">How-to Videos</a></li>
+                            <li><a href="./services/Onboarding-Videos.php">Onboarding Videos</a></li>
                         </ul>
                     </div>
                 </div>

@@ -798,11 +798,11 @@
                         <div class="f-item link">
                             <h4 class="widget-title">Data Services</h4>
                             <ul>
-                                <li><a href="data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
-                                <li><a href="data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
-                                <li><a href="data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
-                                <li><a href="data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
-                                <li><a href="data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
+                                <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
+                                <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
+                                <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
+                                <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
+                                <li><a href="../data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
                             </ul>
                         </div>
                     </div>
@@ -836,10 +836,10 @@
                         <div class="f-item link">
                             <h4 class="widget-title"></h4>
                             <ul>
-                                <li><a href="services/Repurpose-Videos.php" target="_blank">Repurpose Videos</a></li>
-                                <li><a href="services/Video-Editing.php" target="_blank">Video Editing</a></li>
-                                <li><a href="services/How-To-Videos.php" target="_blank">How-to Videos</a></li>
-                                <li><a href="services/Onboarding-Videos.php" target="_blank">Onboarding Videos</a></li>
+                                <li><a href="../services/Repurpose-Videos.php" target="_blank">Repurpose Videos</a></li>
+                                <li><a href="../services/Video-Editing.php" target="_blank">Video Editing</a></li>
+                                <li><a href="../services/How-To-Videos.php" target="_blank">How-to Videos</a></li>
+                                <li><a href="../services/Onboarding-Videos.php" target="_blank">Onboarding Videos</a></li>
                             </ul>
                         </div>
                     </div>
@@ -879,6 +879,7 @@
         </div>
         <!-- End Footer Bottom -->
     </footer>
+
 
     <!-- jQuery Frameworks
     ============================================= -->

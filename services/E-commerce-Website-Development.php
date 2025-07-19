@@ -378,7 +378,7 @@
             <div class="row">
                 <div class="col-xl-6 col-lg-5">
                     <h4 class="sub-title">What We Offer</h4>
-                    <!-- <h2 class="title mb-30"><br>Made-to-Measure, Not Made-to-Fit</h2> -->
+                    <h2 class="title mb-30"><br>Designing Storefronts That Sell</h2>
                     <p>
                         We don’t use bloated templates. We design buyer journeys that reduce drop-offs, speed up checkouts, and keep your backend clean. From fast product filtering to secure payments and intuitive dashboards—every touchpoint is purpose-built.</p>
                     <ul class="list-double mt-40">
@@ -409,22 +409,22 @@
                                     <strong>95%</strong>
                                 </div>
                             </div>
-                            <h4>Payment & Fulfillment Control</h4>
+                            <h4>Boost in Online Sales Performance</h4>
                         </div>
 
                         <div class="seo-progess-items">
                             <div class="process-item">
-                                <h5>Smart Order Routing</h5>
+                                <h5>Seamless User Experience</h5>
                                 <p>
 
-                                    Connect logistics, warehouse, or drop-shippers
+                                    Designing fast, intuitive, and mobile-first e-commerce stores that simplify the buyer journey and increase conversion rates.
 
                                 </p>
                             </div>
                             <div class="process-item">
-                                <h5>Flexible Gateways</h5>
+                                <h5>Smart Storefront Integration</h5>
                                 <p>
-                                    Accept UPI, cards, wallets, BNPL & more
+                                    Integrating payment gateways, product catalogs, and smart filters to enhance shopping ease and streamline backend operations.
                                 </p>
                             </div>
                         </div>
@@ -614,195 +614,146 @@
                 <div class="col-12">
                     <div class="faq-style-one">
                         <div class="accordion" id="faqAccordion">
-                            <!-- FAQ Item 1 -->
+                            <!-- FAQ Item 7 -->
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingOne">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        How can SEO-optimized content help technology companies?
+                                <h2 class="accordion-header" id="headingSeven">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                                        What’s the difference between custom and template e-commerce websites?
                                     </button>
                                 </h2>
-                                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
+                                <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p>
-                                            SEO-optimized content enhances your technology company's online visibility by improving search engine rankings. Our <strong>SEO content writing services</strong> help you attract targeted organic traffic, driving more qualified leads to your business.
-                                        </p>
+                                        <p>Custom websites are built from scratch to suit your brand and business needs, while templates offer faster setups with limited flexibility.</p>
                                     </div>
                                 </div>
                             </div>
 
-                            <!-- FAQ Item 2 -->
+                            <!-- FAQ Item 8 -->
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingTwo">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        Why should technology companies invest in White Papers and case studies?
+                                <h2 class="accordion-header" id="headingEight">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                                        How long does it take to build an e-commerce website?
                                     </button>
                                 </h2>
-                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
+                                <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p>
-                                            White Papers and case studies establish your company as an industry leader by showcasing your technical expertise and real-world success stories. These content pieces help potential clients see your value and drive trust in your services.
-                                        </p>
+                                        <p>Timelines vary based on features, integrations, and design complexity—typically 4 to 10 weeks for full development.</p>
                                     </div>
                                 </div>
                             </div>
 
-                            <!-- FAQ Item 3 -->
+                            <!-- FAQ Item 9 -->
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingThree">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        How can blog writing help technology companies grow their brand?
+                                <h2 class="accordion-header" id="headingNine">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+                                        Can you integrate payment gateways like Razorpay or Stripe?
                                     </button>
                                 </h2>
-                                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
+                                <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p>
-                                            Regular, high-quality blog posts improve your company's SEO performance, increase traffic, and establish your brand as a thought leader. Our <strong>blog writing services</strong> focus on producing valuable, industry-relevant content that educates and engages your target audience.
-                                        </p>
+                                        <p>Yes, we integrate all major payment gateways including Razorpay, Stripe, PayPal, and regional solutions with secure checkout flows.</p>
                                     </div>
                                 </div>
                             </div>
 
-                            <!-- FAQ Item 4 -->
+                            <!-- FAQ Item 10 -->
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingFour">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Why should technology companies focus on SEO and digital marketing strategies?
+                                <h2 class="accordion-header" id="headingTen">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+                                        Will my e-commerce store be mobile-friendly?
                                     </button>
                                 </h2>
-                                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
+                                <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p>
-                                            SEO and digital marketing strategies are essential for gaining online visibility and driving qualified leads. Our team of experts focuses on creating <strong>SEO-friendly content</strong> and executing <strong>digital marketing campaigns</strong> that deliver measurable results and enhance your company's online presence.
-                                        </p>
+                                        <p>Absolutely. We follow a mobile-first approach to ensure seamless shopping experiences across all devices and screen sizes.</p>
                                     </div>
                                 </div>
                             </div>
 
-                            <!-- FAQ Item 5 -->
+                            <!-- FAQ Item 11 -->
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingFive">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        How do content marketing strategies support lead generation for tech companies?
+                                <h2 class="accordion-header" id="headingEleven">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
+                                        Do you offer support after the site goes live?
                                     </button>
                                 </h2>
-                                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
+                                <div id="collapseEleven" class="accordion-collapse collapse" aria-labelledby="headingEleven" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p>
-                                            Well-crafted content tailored to the technology industry attracts leads by addressing pain points and providing solutions. Our <strong>content marketing services</strong> help create blog posts, case studies, and White Papers that nurture leads and convert them into customers.
-                                        </p>
+                                        <p>Yes, we provide ongoing maintenance, security updates, bug fixes, and feature enhancements as part of our post-launch support.</p>
                                     </div>
                                 </div>
                             </div>
 
-                            <!-- FAQ Item 6 -->
+                            <!-- FAQ Item 12 -->
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingSix">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                                        How does SEO-driven content impact ROI for tech companies?
+                                <h2 class="accordion-header" id="headingTwelve">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
+                                        Can I manage inventory, orders, and users on my own?
                                     </button>
                                 </h2>
-                                <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#faqAccordion">
+                                <div id="collapseTwelve" class="accordion-collapse collapse" aria-labelledby="headingTwelve" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p>
-                                            SEO-driven content ensures that your technology company's website ranks higher on search engines, making it easier for potential clients to find you. This results in more qualified traffic, which translates into a higher return on investment (ROI) for your content marketing efforts.
-                                        </p>
+                                        <p>Yes. We build intuitive admin dashboards that let you easily manage inventory, track orders, add coupons, and monitor performance.</p>
                                     </div>
                                 </div>
                             </div>
 
-                            <!-- Shopify / WooCommerce / Custom eCommerce FAQs -->
-
+                            <!-- FAQ Item 13 -->
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingTwentyTwo">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwentyTwo" aria-expanded="false" aria-controls="collapseTwentyTwo">
-                                        Do you build on Shopify, WooCommerce, or custom code?
+                                <h2 class="accordion-header" id="headingThirteen">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">
+                                        Is SEO included in your e-commerce development services?
                                     </button>
                                 </h2>
-                                <div id="collapseTwentyTwo" class="accordion-collapse collapse" aria-labelledby="headingTwentyTwo" data-bs-parent="#faqAccordion">
+                                <div id="collapseThirteen" class="accordion-collapse collapse" aria-labelledby="headingThirteen" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p>Yes. We work across Shopify, WooCommerce, and custom-built platforms—recommending the best option based on your business goals, scalability, and feature roadmap.</p>
+                                        <p>We build SEO-ready websites with clean code, fast load times, mobile responsiveness, and structured data for better visibility.</p>
                                     </div>
                                 </div>
                             </div>
 
+                            <!-- FAQ Item 14 -->
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingTwentyThree">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwentyThree" aria-expanded="false" aria-controls="collapseTwentyThree">
-                                        Can I manage inventory and pricing myself?
+                                <h2 class="accordion-header" id="headingFourteen">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFourteen" aria-expanded="false" aria-controls="collapseFourteen">
+                                        Do you build multi-vendor e-commerce marketplaces?
                                     </button>
                                 </h2>
-                                <div id="collapseTwentyThree" class="accordion-collapse collapse" aria-labelledby="headingTwentyThree" data-bs-parent="#faqAccordion">
+                                <div id="collapseFourteen" class="accordion-collapse collapse" aria-labelledby="headingFourteen" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p>Absolutely. You'll have access to a user-friendly dashboard where you can update product listings, pricing, and stock levels with ease.</p>
+                                        <p>Yes, we offer marketplace development with vendor dashboards, commissions, inventory segregation, and dispute resolution flows.</p>
                                     </div>
                                 </div>
                             </div>
 
+                            <!-- FAQ Item 15 -->
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingTwentyFour">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwentyFour" aria-expanded="false" aria-controls="collapseTwentyFour">
-                                        Will my store be mobile optimized?
+                                <h2 class="accordion-header" id="headingFifteen">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFifteen" aria-expanded="false" aria-controls="collapseFifteen">
+                                        How secure will my online store be?
                                     </button>
                                 </h2>
-                                <div id="collapseTwentyFour" class="accordion-collapse collapse" aria-labelledby="headingTwentyFour" data-bs-parent="#faqAccordion">
+                                <div id="collapseFifteen" class="accordion-collapse collapse" aria-labelledby="headingFifteen" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p>Yes. Every store we develop follows a mobile-first approach to ensure fast, responsive performance on all devices.</p>
+                                        <p>We implement SSL, encrypted databases, secure APIs, and follow best practices to ensure your website and customer data are protected.</p>
                                     </div>
                                 </div>
                             </div>
 
+                            <!-- FAQ Item 16 -->
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingTwentyFive">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwentyFive" aria-expanded="false" aria-controls="collapseTwentyFive">
-                                        Can I accept multiple payment methods?
+                                <h2 class="accordion-header" id="headingSixteen">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSixteen" aria-expanded="false" aria-controls="collapseSixteen">
+                                        Can you migrate my existing store from Shopify or WooCommerce?
                                     </button>
                                 </h2>
-                                <div id="collapseTwentyFive" class="accordion-collapse collapse" aria-labelledby="headingTwentyFive" data-bs-parent="#faqAccordion">
+                                <div id="collapseSixteen" class="accordion-collapse collapse" aria-labelledby="headingSixteen" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p>Yes. We integrate various payment gateways, including UPI, credit/debit cards, wallets, COD, BNPL, and more to match your business requirements.</p>
+                                        <p>Yes. We handle end-to-end migration—including data, design, and SEO—without impacting your current customer experience.</p>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingTwentySix">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwentySix" aria-expanded="false" aria-controls="collapseTwentySix">
-                                        How fast can the site go live?
-                                    </button>
-                                </h2>
-                                <div id="collapseTwentySix" class="accordion-collapse collapse" aria-labelledby="headingTwentySix" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>Most eCommerce sites are live within 3–6 weeks, depending on catalog size, customization, and platform choice.</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingTwentySeven">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwentySeven" aria-expanded="false" aria-controls="collapseTwentySeven">
-                                        Can you connect shipping partners like Shiprocket or others?
-                                    </button>
-                                </h2>
-                                <div id="collapseTwentySeven" class="accordion-collapse collapse" aria-labelledby="headingTwentySeven" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>Yes. We integrate logistics platforms such as Shiprocket, Delhivery, and others for automated order fulfillment, tracking, and label generation.</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingTwentyEight">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwentyEight" aria-expanded="false" aria-controls="collapseTwentyEight">
-                                        Will it support marketing tools like email or WhatsApp?
-                                    </button>
-                                </h2>
-                                <div id="collapseTwentyEight" class="accordion-collapse collapse" aria-labelledby="headingTwentyEight" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>Definitely. We set up integrations for email marketing platforms, WhatsApp Business, CRMs, and automation tools for remarketing, lead nurturing, and segmentation.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--- end-->
                         </div>
                     </div>
                 </div>
@@ -1099,11 +1050,11 @@
                         <div class="f-item link">
                             <h4 class="widget-title">Data Services</h4>
                             <ul>
-                                <li><a href="data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
-                                <li><a href="data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
-                                <li><a href="data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
-                                <li><a href="data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
-                                <li><a href="data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
+                                <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
+                                <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
+                                <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
+                                <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
+                                <li><a href="../data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
                             </ul>
                         </div>
                     </div>
@@ -1137,10 +1088,10 @@
                         <div class="f-item link">
                             <h4 class="widget-title"></h4>
                             <ul>
-                                <li><a href="services/Repurpose-Videos.php" target="_blank">Repurpose Videos</a></li>
-                                <li><a href="services/Video-Editing.php" target="_blank">Video Editing</a></li>
-                                <li><a href="services/How-To-Videos.php" target="_blank">How-to Videos</a></li>
-                                <li><a href="services/Onboarding-Videos.php" target="_blank">Onboarding Videos</a></li>
+                                <li><a href="../services/Repurpose-Videos.php" target="_blank">Repurpose Videos</a></li>
+                                <li><a href="../services/Video-Editing.php" target="_blank">Video Editing</a></li>
+                                <li><a href="../services/How-To-Videos.php" target="_blank">How-to Videos</a></li>
+                                <li><a href="../services/Onboarding-Videos.php" target="_blank">Onboarding Videos</a></li>
                             </ul>
                         </div>
                     </div>
@@ -1180,6 +1131,7 @@
         </div>
         <!-- End Footer Bottom -->
     </footer>
+
 
     <!-- jQuery Frameworks
     ============================================= -->

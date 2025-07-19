@@ -610,230 +610,146 @@
                 <div class="col-12">
                     <div class="faq-style-one">
                         <div class="accordion" id="faqAccordion">
-                            <!-- FAQ Item 1 -->
+                            <!-- FAQ Item 7 -->
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingOne">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        How can SEO-optimized content help technology companies?
-                                    </button>
-                                </h2>
-                                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            SEO-optimized content enhances your technology company's online visibility by improving search engine rankings. Our <strong>SEO content writing services</strong> help you attract targeted organic traffic, driving more qualified leads to your business.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ Item 2 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingTwo">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        Why should technology companies invest in White Papers and case studies?
-                                    </button>
-                                </h2>
-                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            White Papers and case studies establish your company as an industry leader by showcasing your technical expertise and real-world success stories. These content pieces help potential clients see your value and drive trust in your services.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ Item 3 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingThree">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        How can blog writing help technology companies grow their brand?
-                                    </button>
-                                </h2>
-                                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            Regular, high-quality blog posts improve your company's SEO performance, increase traffic, and establish your brand as a thought leader. Our <strong>blog writing services</strong> focus on producing valuable, industry-relevant content that educates and engages your target audience.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ Item 4 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingFour">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Why should technology companies focus on SEO and digital marketing strategies?
-                                    </button>
-                                </h2>
-                                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            SEO and digital marketing strategies are essential for gaining online visibility and driving qualified leads. Our team of experts focuses on creating <strong>SEO-friendly content</strong> and executing <strong>digital marketing campaigns</strong> that deliver measurable results and enhance your company's online presence.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ Item 5 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingFive">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        How do content marketing strategies support lead generation for tech companies?
-                                    </button>
-                                </h2>
-                                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            Well-crafted content tailored to the technology industry attracts leads by addressing pain points and providing solutions. Our <strong>content marketing services</strong> help create blog posts, case studies, and White Papers that nurture leads and convert them into customers.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ Item 6 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingSix">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                                        How does SEO-driven content impact ROI for tech companies?
-                                    </button>
-                                </h2>
-                                <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            SEO-driven content ensures that your technology company's website ranks higher on search engines, making it easier for potential clients to find you. This results in more qualified traffic, which translates into a higher return on investment (ROI) for your content marketing efforts.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingTwentyTwo">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwentyTwo" aria-expanded="false" aria-controls="collapseTwentyTwo">
+                                <h2 class="accordion-header" id="headingSeven">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
                                         What types of apps do you develop?
                                     </button>
                                 </h2>
-                                <div id="collapseTwentyTwo" class="accordion-collapse collapse" aria-labelledby="headingTwentyTwo" data-bs-parent="#faqAccordion">
+                                <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>We specialize in Android, iOS, and cross-platform app development tailored to your business goals.</p>
                                     </div>
                                 </div>
                             </div>
 
+                            <!-- FAQ Item 8 -->
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingTwentyThree">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwentyThree" aria-expanded="false" aria-controls="collapseTwentyThree">
+                                <h2 class="accordion-header" id="headingEight">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
                                         How long does app development take?
                                     </button>
                                 </h2>
-                                <div id="collapseTwentyThree" class="accordion-collapse collapse" aria-labelledby="headingTwentyThree" data-bs-parent="#faqAccordion">
+                                <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>Timelines vary based on app complexity, but most custom apps are delivered within 8–16 weeks.</p>
                                     </div>
                                 </div>
                             </div>
 
+                            <!-- FAQ Item 9 -->
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingTwentyFour">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwentyFour" aria-expanded="false" aria-controls="collapseTwentyFour">
+                                <h2 class="accordion-header" id="headingNine">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
                                         Can you help with both design and development?
                                     </button>
                                 </h2>
-                                <div id="collapseTwentyFour" class="accordion-collapse collapse" aria-labelledby="headingTwentyFour" data-bs-parent="#faqAccordion">
+                                <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>Yes! We offer end-to-end services covering UI/UX design, development, testing, and deployment.</p>
                                     </div>
                                 </div>
                             </div>
 
+                            <!-- FAQ Item 10 -->
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingTwentyFive">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwentyFive" aria-expanded="false" aria-controls="collapseTwentyFive">
+                                <h2 class="accordion-header" id="headingTen">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
                                         Do you offer post-launch support and maintenance?
                                     </button>
                                 </h2>
-                                <div id="collapseTwentyFive" class="accordion-collapse collapse" aria-labelledby="headingTwentyFive" data-bs-parent="#faqAccordion">
+                                <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>Absolutely. We provide ongoing maintenance, updates, bug fixes, and performance monitoring.</p>
                                     </div>
                                 </div>
                             </div>
 
+                            <!-- FAQ Item 11 -->
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingTwentySix">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwentySix" aria-expanded="false" aria-controls="collapseTwentySix">
+                                <h2 class="accordion-header" id="headingEleven">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
                                         Will my app be scalable for future growth?
                                     </button>
                                 </h2>
-                                <div id="collapseTwentySix" class="accordion-collapse collapse" aria-labelledby="headingTwentySix" data-bs-parent="#faqAccordion">
+                                <div id="collapseEleven" class="accordion-collapse collapse" aria-labelledby="headingEleven" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>Yes, our apps are built with scalability in mind, ensuring smooth upgrades and feature additions as your business grows.</p>
                                     </div>
                                 </div>
                             </div>
 
+                            <!-- FAQ Item 12 -->
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingTwentySeven">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwentySeven" aria-expanded="false" aria-controls="collapseTwentySeven">
+                                <h2 class="accordion-header" id="headingTwelve">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
                                         Can you build both native and cross-platform apps?
                                     </button>
                                 </h2>
-                                <div id="collapseTwentySeven" class="accordion-collapse collapse" aria-labelledby="headingTwentySeven" data-bs-parent="#faqAccordion">
+                                <div id="collapseTwelve" class="accordion-collapse collapse" aria-labelledby="headingTwelve" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>Yes, we develop native apps for Android/iOS and cross-platform apps using frameworks like Flutter and React Native.</p>
                                     </div>
                                 </div>
                             </div>
 
+                            <!-- FAQ Item 13 -->
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingTwentyEight">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwentyEight" aria-expanded="false" aria-controls="collapseTwentyEight">
+                                <h2 class="accordion-header" id="headingThirteen">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">
                                         Can you integrate third-party APIs or services?
                                     </button>
                                 </h2>
-                                <div id="collapseTwentyEight" class="accordion-collapse collapse" aria-labelledby="headingTwentyEight" data-bs-parent="#faqAccordion">
+                                <div id="collapseThirteen" class="accordion-collapse collapse" aria-labelledby="headingThirteen" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>Yes, we can seamlessly integrate payment gateways, CRMs, analytics tools, and other APIs into your app.</p>
                                     </div>
                                 </div>
                             </div>
 
+                            <!-- FAQ Item 14 -->
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingTwentyNine">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwentyNine" aria-expanded="false" aria-controls="collapseTwentyNine">
+                                <h2 class="accordion-header" id="headingFourteen">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFourteen" aria-expanded="false" aria-controls="collapseFourteen">
                                         Do you assist with app store deployment?
                                     </button>
                                 </h2>
-                                <div id="collapseTwentyNine" class="accordion-collapse collapse" aria-labelledby="headingTwentyNine" data-bs-parent="#faqAccordion">
+                                <div id="collapseFourteen" class="accordion-collapse collapse" aria-labelledby="headingFourteen" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>Yes, we handle the full deployment process on Google Play Store and Apple App Store, following best practices.</p>
                                     </div>
                                 </div>
                             </div>
 
+                            <!-- FAQ Item 15 -->
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingThirty">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThirty" aria-expanded="false" aria-controls="collapseThirty">
+                                <h2 class="accordion-header" id="headingFifteen">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFifteen" aria-expanded="false" aria-controls="collapseFifteen">
                                         How do you ensure data security in apps?
                                     </button>
                                 </h2>
-                                <div id="collapseThirty" class="accordion-collapse collapse" aria-labelledby="headingThirty" data-bs-parent="#faqAccordion">
+                                <div id="collapseFifteen" class="accordion-collapse collapse" aria-labelledby="headingFifteen" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>We follow industry-standard data protection protocols, encryption, and secure coding practices to safeguard user data.</p>
                                     </div>
                                 </div>
                             </div>
 
+                            <!-- FAQ Item 16 -->
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingThirtyOne">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThirtyOne" aria-expanded="false" aria-controls="collapseThirtyOne">
+                                <h2 class="accordion-header" id="headingSixteen">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSixteen" aria-expanded="false" aria-controls="collapseSixteen">
                                         Can I request changes during development?
                                     </button>
                                 </h2>
-                                <div id="collapseThirtyOne" class="accordion-collapse collapse" aria-labelledby="headingThirtyOne" data-bs-parent="#faqAccordion">
+                                <div id="collapseSixteen" class="accordion-collapse collapse" aria-labelledby="headingSixteen" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p>Definitely! We follow an agile development process, allowing client feedback and iteration at every stage.</p>
                                     </div>
                                 </div>
                             </div>
+
 
                         </div>
                     </div>
