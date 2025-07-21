@@ -1,15 +1,13 @@
 <?php
-/* ------------------------------------------------------------------
-   Fast, safe contact form handler with background email send
-   ------------------------------------------------------------------ */
-
-// *** Start buffering immediately so we can safely send headers later
 ob_start();
 
-// Harden runtime (optional)
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+
 ini_set('max_execution_time', 60);
 ini_set('memory_limit', '256M');
-ini_set('display_errors', 0); // don't leak errors to user
+ini_set('display_errors', 0); 
 error_reporting(E_ALL);
 
 require __DIR__ . '/PHPMailerAutoload.php';
