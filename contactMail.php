@@ -1,14 +1,12 @@
 <?php
 
-// Increase max execution time and memory limit to help avoid timeouts
-ini_set('max_execution_time', 60); // 60 seconds
+ini_set('max_execution_time', 120); // 60 seconds
 ini_set('memory_limit', '256M');
 
 require __DIR__ . '/PHPMailerAutoload.php';
 
 function handleError($message) {
     error_log($message);
-    // Use a simple thank you page redirect to avoid long-running scripts
     header("Location: thankyou.php");
     exit;
 }
