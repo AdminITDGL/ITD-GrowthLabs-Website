@@ -100,11 +100,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['name'], $_POST['email
 
     $post_data['html_body'] = $body;
     $post_data['subject'] = $subject;
+    $post_data['email_config_id'] = 9;
     $post_data['add_email'] = 'info@itdgrowthlabs.com';
     $post_data['cc_email'] = 'info@itdgrowthlabs.com,ashish@itdservices.in,loy@itdservices.in,suraj@itdservices.in';
     $docket_request_json = json_encode($post_data);
 
-    $docket_url = 'https://test.itdservices.in/api/website_api/add_bombino_enquire_data?api_company_id=2';
+    $docket_url = 'https://test.itdservices.in/api/website_api/send_email_for_website?api_company_id=2';
     $ch1 = curl_init();
     curl_setopt($ch1, CURLOPT_URL,  $docket_url);
     curl_setopt($ch1, CURLOPT_CUSTOMREQUEST, "POST");
