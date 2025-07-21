@@ -1,7 +1,7 @@
 <?php
 
-ini_set('max_execution_time', 120); // 60 seconds
-ini_set('memory_limit', '256M');
+// ini_set('max_execution_time', 120); // 60 seconds
+// ini_set('memory_limit', '256M');
 
 require __DIR__ . '/PHPMailerAutoload.php';
 
@@ -70,7 +70,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['name'], $_POST['email
     // --- PHPMailer Setup ---
     try {
         $mail = new PHPMailer(true);
-        // $mail->SMTPDebug = 2; // Uncomment for debugging
         $mail->isSMTP();
         $mail->Host = "smtp.gmail.com";
         $mail->Port = 465; // Use 465 for SSL, 587 for TLS
@@ -89,11 +88,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['name'], $_POST['email
         $mail->Body = $body;
         $mail->AltBody = strip_tags($body);
 
-        // Set a timeout for SMTP connection to avoid hanging
-        $mail->Timeout = 15; // seconds
+        $mail->Timeout = 30; // seconds
 
         if ($mail->send()) {
-            // Use a simple redirect to avoid long-running scripts
             header("Location: thankyou.php");
             exit;
         } else {
@@ -104,6 +101,5 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['name'], $_POST['email
         echo "<script>window.location.href='thankyou.php'</script>";
     }
 } else {
-    // Not a POST request or missing fields
     handleError('Invalid request.');
 }
