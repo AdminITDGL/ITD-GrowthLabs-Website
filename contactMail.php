@@ -88,7 +88,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['name'], $_POST['email
         $mail->Body = $body;
         $mail->AltBody = strip_tags($body);
 
-        $mail->Timeout = 50; // seconds
+        // $mail->Timeout = 50; // seconds
 
         if ($mail->send()) {
             header("Location: thankyou.php");
