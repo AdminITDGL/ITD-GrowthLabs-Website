@@ -10,7 +10,7 @@
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="./assets/img/favicon.png" type="image/x-icon">
     <!-- ========== Page Title ========== -->
-    <title>ITD GrowthLabs - Digital Marketing Company | Web, SEO & Content</title>
+    <title>Top Digital Marketing & Website Development Company in India</title>
 
     <!-- ========== Favicon Icon ========== -->
     <?php include("./includes/header_script.php") ?>
