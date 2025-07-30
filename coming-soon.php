@@ -27,7 +27,27 @@
     ============================================= -->
     <?php include("./includes/header.php") ?>
     <!-- End Header -->
+    <style>
+        @media only screen and (max-width: 767px) {
+            .error-box h1 {
+                font-size: 40px !important;
+                line-height: 110px;
+                font-weight: 800;
+                margin-bottom: 40px;
+                text-shadow: 3px 3px #c0c0c0;
+            }
+        }
 
+        @media only screen and (max-width: 1067px) {
+            .error-box h1 {
+                font-size: 50px !important;
+                line-height: 110px;
+                font-weight: 800;
+                margin-bottom: 40px;
+                text-shadow: 3px 3px #c0c0c0;
+            }
+        }
+    </style>
     <!-- Start 404 
     ============================================= -->
     <div class="error-page-area default-padding text-center bg-cover" style="background-image: url(assets/img/shape/banner-3.jpg);">

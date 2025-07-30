@@ -15,6 +15,7 @@
     <!-- ========== Favicon Icon ========== -->
     <?php include("./includes/header_script.php") ?>
 
+
 </head>
 
 <body>
@@ -27,7 +28,27 @@
     ============================================= -->
     <?php include("./includes/header.php") ?>
     <!-- End Header -->
+    <style>
+        @media only screen and (max-width: 767px) {
+            .error-box h1 {
+                font-size: 50px !important;
+                line-height: 110px;
+                font-weight: 800;
+                margin-bottom: 40px;
+                text-shadow: 3px 3px #c0c0c0;
+            }
+        }
 
+        @media only screen and (max-width: 1067px) {
+            .error-box h1 {
+                font-size: 50px !important;
+                line-height: 110px;
+                font-weight: 800;
+                margin-bottom: 40px;
+                text-shadow: 3px 3px #c0c0c0;
+            }
+        }
+    </style>
     <!-- Start 404 
     ============================================= -->
     <div class="error-page-area default-padding text-center bg-cover" style="background-image: url(assets/img/shape/banner-3.jpg);">
@@ -39,7 +60,7 @@
             <div class="error-box">
                 <div class="row">
                     <div class="col-lg-8 offset-lg-2">
-                        <h1>Thank You!</h1>
+                        <h1>ThankYou!</h1>
                         <h2>Your Submission Has Been Received</h2>
                         <p>
                             We truly appreciate your time and interest. Our team has received your message and will get back to you shortly. In the meantime, feel free to explore more of our services or reach out to us directly if you have any urgent queries.
