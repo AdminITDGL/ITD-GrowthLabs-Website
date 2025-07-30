@@ -102,7 +102,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['name'], $_POST['email
     $post_data['subject'] = $subject;
     $post_data['email_config_id'] = 9;
     $post_data['add_email'] = 'info@itdgrowthlabs.com';
-    $post_data['cc_email'] = 'info@itdgrowthlabs.com,ashish@itdservices.in,loy@itdservices.in';
+    $post_data['cc_email'] = 'info@itdgrowthlabs.com,ashish@itdservices.in,loy@itdservices.in,kushalk@itdservices.in';
     $docket_request_json = json_encode($post_data);
 
     $docket_url = 'https://test.itdservices.in/api/website_api/send_email_for_website?api_company_id=2';
