@@ -15,7 +15,7 @@ if (
     isset($_POST['website']) // honeypot field
 ) {
     // Honeypot: if filled, treat as spam and silently redirect
-    if (!empty($_POST['website'])) {
+    if (empty($_POST['website'])) {
         // Optionally log as spam
         error_log('Honeypot triggered: possible spam submission.');
         header("Location: thankyou.php");
