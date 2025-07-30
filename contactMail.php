@@ -1,6 +1,5 @@
 <?php
 
-
 require __DIR__ . '/PHPMailerAutoload.php';
 
 function handleError($message) {
@@ -9,7 +8,20 @@ function handleError($message) {
     exit;
 }
 
-if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['name'], $_POST['email'], $_POST['phone'], $_POST['subject'], $_POST['g-recaptcha-response'])) {
+// Add honeypot field check: 'website' is the honeypot field (should be empty)
+if (
+    $_SERVER['REQUEST_METHOD'] === 'POST' &&
+    isset($_POST['name'], $_POST['email'], $_POST['phone'], $_POST['subject'], $_POST['g-recaptcha-response']) &&
+    isset($_POST['website']) // honeypot field
+) {
+    // Honeypot: if filled, treat as spam and silently redirect
+    if (!empty($_POST['website'])) {
+        // Optionally log as spam
+        error_log('Honeypot triggered: possible spam submission.');
+        header("Location: thankyou.php");
+        exit;
+    }
+
     $name = trim($_POST['name']);
     $email = trim($_POST['email']);
     $mobile = trim($_POST['phone']);
@@ -34,69 +46,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['name'], $_POST['email
     <td></td>
     </tr>
     </table>";
-
-    // // --- reCAPTCHA Verification ---
-    // $secretKey = "6Lez7pMqAAAAAAp8c0AZUQqbYAqv8mAVaHMSYieK";
-    // $response = $_POST['g-recaptcha-response'];
-
-    // // Use cURL for better error handling and to avoid file_get_contents issues
-    // $recaptcha_url = 'https://www.google.com/recaptcha/api/siteverify';
-    // $data = [
-    //     'secret' => $secretKey,
-    //     'response' => $response
-    // ];
-
-    // $ch = curl_init($recaptcha_url);
-    // curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-    // curl_setopt($ch, CURLOPT_TIMEOUT, 10);
-    // curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($data));
-    // $verify = curl_exec($ch);
-
-    // if ($verify === false) {
-    //     curl_close($ch);
-    //     handleError('Captcha verification failed (cURL error).');
-    // }
-
-    // $captcha_success = json_decode($verify);
-    // curl_close($ch);
-
-    // if (!$captcha_success || empty($captcha_success->success)) {
-    //     handleError('Captcha error found!');
-    // }
-
-    // // --- PHPMailer Setup ---
-    // try {
-    //     $mail = new PHPMailer(true);
-    //     $mail->isSMTP();
-    //     $mail->Host = "smtp.gmail.com";
-    //     $mail->Port = 465; // Use 465 for SSL, 587 for TLS
-    //     $mail->SMTPAuth = true;
-    //     $mail->SMTPSecure = "ssl";
-    //     $mail->Username = 'info@itdgrowthlabs.com';
-    //     $mail->Password = 'zjmdpezeqzcvsooc';
-    //     $mail->setFrom('info@itdgrowthlabs.com', $subject);
-    //     $mail->addAddress($email);
-    //     $mail->addAddress("info@itdgrowthlabs.com");
-    //     $mail->addBCC("ashish@itdservices.in");
-    //     $mail->addBCC("loy@itdservices.in");
-    //     $mail->addBCC("suraj@itdservices.in");
-    //     $mail->isHTML(true);
-    //     $mail->Subject = $subject;
-    //     $mail->Body = $body;
-    //     $mail->AltBody = strip_tags($body);
-
-    //     // $mail->Timeout = 50; // seconds
-
-    //     if ($mail->send()) {
-    //         header("Location: thankyou.php");
-    //         exit;
-    //     } else {
-    //         handleError('Message could not be sent. Mailer Error: ' . $mail->ErrorInfo);
-    //     }
-    // } catch (Exception $e) {
-    //     handleError('Mailer Exception: ' . $e->getMessage());
-    //     echo "<script>window.location.href='thankyou.php'</script>";
-    // }
 
     $post_data['html_body'] = $body;
     $post_data['subject'] = $subject;
@@ -137,7 +86,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['name'], $_POST['email
             echo "<script>window.location.href='thankyou.php'</script>";
             exit;
         } else {
-            echo "<script>alert('Message could not be sent. Mailer Error: {$mail->ErrorInfo}');</script>";
+            // $mail is not defined here, so avoid referencing $mail->ErrorInfo
+            echo "<script>alert('Message could not be sent. Mailer Error.');</script>";
             echo "<script>window.location.href='index.php'</script>";
             exit;
         }
