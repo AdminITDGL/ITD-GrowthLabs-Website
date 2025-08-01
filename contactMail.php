@@ -90,37 +90,74 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     </tr>
     </table>";
 
-    // Send email using PHPMailer directly (since API is not working)
-    $mail = new PHPMailer;
-    $mail->isSMTP();
-    // Please update these SMTP credentials as per your server
-    $mail->Host = 'smtp.gmail.com'; // Example: smtp.gmail.com
-    $mail->SMTPAuth = true;
-    $mail->Username = 'info@itdgrowthlabs.com'; // Replace with your SMTP username
-    $mail->Password = 'rair qton heac yuxy'; // Replace with your SMTP password
-    $mail->SMTPSecure = 'tls';
-    $mail->Port = 587;
+    // // Send email using PHPMailer directly (since API is not working)
+    // $mail = new PHPMailer;
+    // $mail->isSMTP();
+    // // Please update these SMTP credentials as per your server
+    // $mail->Host = 'smtp.gmail.com'; // Example: smtp.gmail.com
+    // $mail->SMTPAuth = true;
+    // $mail->Username = 'info@itdgrowthlabs.com'; // Replace with your SMTP username
+    // $mail->Password = 'rair qton heac yuxy'; // Replace with your SMTP password
+    // $mail->SMTPSecure = 'tls';
+    // $mail->Port = 587;
 
-    $mail->setFrom('your_email@gmail.com', 'Growthlabs Website'); // Replace with your sender email/name
-    $mail->addAddress('info@itdgrowthlabs.com');
-    // Add CCs
-    $cc_emails = array(
-        'info@itdgrowthlabs.com',
-        'ashish@itdservices.in',
-        'loy@itdservices.in',
-        'kushalk@itdservices.in'
-    );
-    foreach ($cc_emails as $cc) {
-        $mail->addCC($cc);
-    }
-    $mail->addReplyTo($email, $name);
+    // $mail->setFrom('your_email@gmail.com', 'Growthlabs Website'); // Replace with your sender email/name
+    // $mail->addAddress('info@itdgrowthlabs.com');
+    // // Add CCs
+    // $cc_emails = array(
+    //     'info@itdgrowthlabs.com',
+    //     'ashish@itdservices.in',
+    //     'loy@itdservices.in',
+    //     'kushalk@itdservices.in'
+    // );
+    // foreach ($cc_emails as $cc) {
+    //     $mail->addCC($cc);
+    // }
+    // $mail->addReplyTo($email, $name);
 
-    $mail->isHTML(true);
-    $mail->Subject = $subject;
-    $mail->Body    = $body;
+    // $mail->isHTML(true);
+    // $mail->Subject = $subject;
+    // $mail->Body    = $body;
 
-    // Try to send the email and check for errors
-    if ($mail->send()) {
+    // // Try to send the email and check for errors
+    // if ($mail->send()) {
+    //     echo "<script>alert('Message has been sent!');</script>";
+    //     echo "<script>window.location.href='thankyou.php'</script>";
+    //     exit;
+    // } else {
+    //     // Log the error for debugging
+    //     error_log('Mailer Error: ' . $mail->ErrorInfo);
+    //     echo "<script>alert('Message could not be sent. Mailer Error: " . addslashes($mail->ErrorInfo) . "');</script>";
+    //     echo "<script>window.location.href='index.php'</script>";
+    //     exit;
+    // }
+
+    $post_data = [
+        'html_body' => $body,
+        'subject' => $subject,
+        'add_email' => 'info@itdgrowthlabs.com',
+        'cc_email' => 'info@itdgrowthlabs.com,kushalk@itdservices.in'
+    ];
+
+    $docket_request_json = json_encode($post_data);
+
+    $docket_url = 'https://test.itdervices.in/api/website_api/send_mail_for_website?api_company_id=2';
+    $ch1 = curl_init();
+    curl_setopt($ch1, CURLOPT_URL, $docket_url);
+    curl_setopt($ch1, CURLOPT_CUSTOMREQUEST, "POST");
+    curl_setopt($ch1, CURLOPT_POSTFIELDS, $docket_request_json);
+    curl_setopt($ch1, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch1, CURLOPT_SSL_VERIFYPEER, false);
+    curl_setopt($ch1, CURLOPT_HTTPHEADER, array(
+        'Content-Type: application/json',
+        'Accept: application/json'
+    ));
+
+    $response_json = curl_exec($ch1);
+    curl_close($ch1);
+    $response_data = json_decode($response_json, true);
+
+    if (isset($response_data) && $response_data != "") {
         echo "<script>alert('Message has been sent!');</script>";
         echo "<script>window.location.href='thankyou.php'</script>";
         exit;
