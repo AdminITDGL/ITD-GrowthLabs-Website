@@ -11,7 +11,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 
     // Check required fields
-    if (empty($_POST['txtName']) || empty($_POST['txtEmail']) || empty($_POST['txtPhone']) || empty($_POST['ddlSubject']) || empty($_POST['txtQuery'])) {
+    if (empty($_POST['name']) || empty($_POST['email']) || empty($_POST['phone']) || empty($_POST['subject'])) {
         echo "<script>alert('Please fill all required fields.');</script>";
         echo "<script>window.location.href='index.php'</script>";
         exit;
