@@ -873,71 +873,74 @@
                         </div>
                         <!-- Contact Information -->
                         <!-- <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item contact">
-                            <h4 class="widget-title">Contact Us</h4>
-                            <ul>
-                                <li>Gundecha Onclave, Mumbai, 400072</li>
-                                <li><a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a></li>
-                            </ul>
-                        </div>
-                    </div> -->
+                       <div class="f-item contact">
+                        <h4 class="widget-title">Contact Us</h4>
+                        <p><i class="fas fa-phone"></i> <a href="tel:+91 8450978544" style="color:#dedede">Contact No:+91 8450978544</a></p>
+                        <p><i class="fa fa-envelope"></i> <a href="mailto:info@itdgrowthlabs.com" style="color:#dedede"> Email: info@itdgrowthlabs.com </a></p>
+                        <p><i class="fa fa-globe"> </i> <a href="https://itdgrowthlabs.com/" style="color:#dedede"> Website: www.itdgrowthlabs.com </a></p>
+                        <ul>
+                            <li>Gundecha Onclave, Mumbai, 400072</li>
+                            <!-- <li><a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a></li> -->
+                        </ul>
                     </div>
+                </div> -->
+            </div>
+    </div>
+    </div>
+
+    <!-- Footer Bottom -->
+    <div class="footer-bottom bg-dark text-light text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>Copyright &copy; 2025 ITD GrowthLabs All Rights Reserved</p>
                 </div>
             </div>
+        </div>
+    </div>
+    <!-- End Footer Bottom -->
+    </footer>
 
-            <!-- Footer Bottom -->
-            <div class="footer-bottom bg-dark text-light text-center">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <p>Copyright &copy; 2025 ITD GrowthLabs All Rights Reserved</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- End Footer Bottom -->
-        </footer>
-
-        <!-- jQuery Frameworks
+    <!-- jQuery Frameworks
     ============================================= -->
-        <script src="../assets/js/jquery-3.6.0.min.js"></script>
-        <script src="../assets/js/bootstrap.bundle.min.js"></script>
-        <script src="../assets/js/jquery.appear.js"></script>
-        <script src="../assets/js/jquery.easing.min.js"></script>
-        <script src="../assets/js/jquery.magnific-popup.min.js"></script>
-        <script src="../assets/js/modernizr.custom.13711.js"></script>
-        <script src="../assets/js/swiper-bundle.min.js"></script>
-        <script src="../assets/js/wow.min.js"></script>
-        <script src="../assets/js/progress-bar.min.js"></script>
-        <script src="../assets/js/circle-progress.js"></script>
-        <script src="../assets/js/isotope.pkgd.min.js"></script>
-        <script src="../assets/js/imagesloaded.pkgd.min.js"></script>
-        <script src="../assets/js/jquery.nice-select.min.js"></script>
-        <script src="../assets/js/count-to.js"></script>
-        <script src="../assets/js/jquery.scrolla.min.js"></script>
-        <script src="../assets/js/YTPlayer.min.js"></script>
-        <script src="../assets/js/TweenMax.min.js"></script>
-        <script src="../assets/js/validnavs.js"></script>
-        <script src="../assets/js/main.js"></script>
-        <script type="text/javascript" src='https://www.google.com/recaptcha/api.js' async defer></script>
-        <!-- Calendly badge widget begin -->
+    <script src="../assets/js/jquery-3.6.0.min.js"></script>
+    <script src="../assets/js/bootstrap.bundle.min.js"></script>
+    <script src="../assets/js/jquery.appear.js"></script>
+    <script src="../assets/js/jquery.easing.min.js"></script>
+    <script src="../assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="../assets/js/modernizr.custom.13711.js"></script>
+    <script src="../assets/js/swiper-bundle.min.js"></script>
+    <script src="../assets/js/wow.min.js"></script>
+    <script src="../assets/js/progress-bar.min.js"></script>
+    <script src="../assets/js/circle-progress.js"></script>
+    <script src="../assets/js/isotope.pkgd.min.js"></script>
+    <script src="../assets/js/imagesloaded.pkgd.min.js"></script>
+    <script src="../assets/js/jquery.nice-select.min.js"></script>
+    <script src="../assets/js/count-to.js"></script>
+    <script src="../assets/js/jquery.scrolla.min.js"></script>
+    <script src="../assets/js/YTPlayer.min.js"></script>
+    <script src="../assets/js/TweenMax.min.js"></script>
+    <script src="../assets/js/validnavs.js"></script>
+    <script src="../assets/js/main.js"></script>
+    <script type="text/javascript" src='https://www.google.com/recaptcha/api.js' async defer></script>
+    <!-- Calendly badge widget begin -->
 
-        <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 
-        <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
 
-        <script type="text/javascript">
-            window.onload = function() {
-                Calendly.initBadgeWidget({
-                    url: 'https://calendly.com/itdgrowthlabs-info/30min',
-                    text: 'Schedule time with me',
-                    color: '#0069ff',
-                    textColor: '#ffffff'
-                });
-            }
-        </script>
+    <script type="text/javascript">
+        window.onload = function() {
+            Calendly.initBadgeWidget({
+                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                text: 'Schedule time with me',
+                color: '#0069ff',
+                textColor: '#ffffff'
+            });
+        }
+    </script>
 
-        <!-- Calendly badge widget end -->
+    <!-- Calendly badge widget end -->
 </body>
 
 </html>

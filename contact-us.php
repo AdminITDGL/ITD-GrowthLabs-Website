@@ -117,10 +117,13 @@
                 <div class="col-tact-stye-one col-lg-5 offset-lg-1 mt--80 mt-md-50 mt-xs-50">
                     <div class="contact-style-one-info">
                         <div class="mb-40">
-                            <h2>Contact Information</h2>
+                            <h2>Ready to grow your business online?</h2>
                             <p>
-                                We are here to help your business grow with our digital marketing expertise <br> Whether you have a project in mind or need guidance, we're here to assist you!
+                                We help with SEO, website development, eLearning, WhatsApp automation, digital tech solutions, and social media marketing.
                             </p>
+                            <p><i class="fas fa-phone"></i> Contact No:+91 84509 78544</p>
+                            <p><i class="fa fa-envelope"></i> Email: info@itdgrowthlabs.com</p>
+                            <p><i class="fa fa-globe"> </i> Website: www.itdgrowthlabs.com</p>
                         </div>
                         <ul class="contact-address">
                             <li class="wow fadeInUp" data-wow-delay="300ms">
