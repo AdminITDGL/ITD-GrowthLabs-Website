@@ -748,7 +748,7 @@
                         <br>
                         <div class="f-item contact">
                             <h4 class="widget-title">Contact Us</h4>
-                            <p><i class="fas fa-phone"></i> <a href="tel:+91 8450978544" style="color:#dedede">Contact No:+91 8450978544</a></p>
+                            <p><i class="fa-solid fa-phone"></i> <a href="https://wa.me/918450978544" target="_blank" style="color:#dedede">Phone:+91 8450978544</a></p>
                             <p><i class="fa fa-envelope"></i> <a href="mailto:info@itdgrowthlabs.com" style="color:#dedede"> Email: info@itdgrowthlabs.com </a></p>
                             <p><i class="fa fa-globe"> </i> <a href="https://itdgrowthlabs.com/" style="color:#dedede"> Website: www.itdgrowthlabs.com </a></p>
                             <ul>

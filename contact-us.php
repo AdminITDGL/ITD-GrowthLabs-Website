@@ -121,9 +121,9 @@
                             <p>
                                 We help with SEO, website development, eLearning, WhatsApp automation, digital tech solutions, and social media marketing.
                             </p>
-                            <p><i class="fas fa-phone"></i> Contact No:+91 84509 78544</p>
-                            <p><i class="fa fa-envelope"></i> Email: info@itdgrowthlabs.com</p>
-                            <p><i class="fa fa-globe"> </i> Website: www.itdgrowthlabs.com</p>
+                            <p><i class="fa-solid fa-phone"></i> <a href="https://wa.me/918450978544" target="_blank" style="color:#6d6d6d">Phone:+91 8450978544</a></p>
+                            <p><i class="fa fa-envelope"></i> <a href="mailto:info@itdgrowthlabs.com" style="color:#6d6d6d"> Email: info@itdgrowthlabs.com </a></p>
+                            <p><i class="fa fa-globe"> </i> <a href="https://itdgrowthlabs.com/" style="color:#6d6d6d"> Website: www.itdgrowthlabs.com </a></p>
                         </div>
                         <ul class="contact-address">
                             <li class="wow fadeInUp" data-wow-delay="300ms">
