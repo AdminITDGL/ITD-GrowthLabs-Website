@@ -82,7 +82,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <h2 style='font-weight: 200; font-size: 16px; margin: 20px 0; color: #333333;'> Mobile No. : $mobile </h2>
     <h2 style='font-weight: 200; font-size: 16px; margin: 20px 0; color: #333333;'> Subject : $msg_subject </h2>
     <h2 style='font-weight: 200; font-size: 16px; margin: 20px 0; color: #333333;'> Message : $message </h2>
-    <p style='text-align: center; display: block; padding-top:20px; font-weight: bold; margin-top:30px; color: #bc2d1d; border-top:1px solid #dddddd;'>BOMBINO EXPRESS</p></td>
     </tr>
     </table>
     </div></td>
