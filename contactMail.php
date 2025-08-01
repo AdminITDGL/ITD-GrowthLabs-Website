@@ -1,7 +1,7 @@
 <?php
 
 require __DIR__ . '/PHPMailerAutoload.php';
-require __DIR__ . '/.env';
+// require __DIR__ . '/.env';
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
