@@ -27,6 +27,8 @@
     <link href="../assets/css/unit-test.css" rel="stylesheet">
     <link href="../assets/css/style.css" rel="stylesheet">
     <link href="style.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
     <!-- ========== End Stylesheet ========== -->
 
     <!--[if lte IE 9]>
@@ -1176,10 +1178,10 @@
                         <p><i class="fa fa-globe"> </i> <a href="https://itdgrowthlabs.com/" style="color:#dedede"> Website: www.itdgrowthlabs.com </a></p>
                         <ul>
                             <li>Gundecha Onclave, Mumbai, 400072</li>
-                            <!-- <li><a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a></li> -->
+                             <li><a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a></li> -->
                     </ul>
                 </div>
-            </div> -->
+            </div>
         </div>
         </div>
         </div>

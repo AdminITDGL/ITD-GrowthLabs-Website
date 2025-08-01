@@ -858,11 +858,11 @@
                         <p><i class="fa fa-globe"> </i> <a href="https://itdgrowthlabs.com/" style="color:#dedede"> Website: www.itdgrowthlabs.com </a></p>
                         <ul>
                             <li>Gundecha Onclave, Mumbai, 400072</li>
-                            <!-- <li><a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a></li> -->
+                            <li><a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a></li> 
                     </ul>
+                </div> -->
                 </div>
-            </div> -->
-        </div>
+            </div>
         </div>
         </div>
 

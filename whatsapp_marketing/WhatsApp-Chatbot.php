@@ -1162,7 +1162,7 @@
                         </div>
                     </div>
                     <!-- Contact Information -->
-                    <!-- <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                     <!-- <div class="col-lg-3 col-md-3 mt-50 footer-item">
                        <div class="f-item contact">
                         <h4 class="widget-title">Contact Us</h4>
                         <p><i class="fas fa-phone"></i> <a href="tel:+91 8450978544" style="color:#dedede">Contact No:+91 8450978544</a></p>
@@ -1170,10 +1170,10 @@
                         <p><i class="fa fa-globe"> </i> <a href="https://itdgrowthlabs.com/" style="color:#dedede"> Website: www.itdgrowthlabs.com </a></p>
                         <ul>
                             <li>Gundecha Onclave, Mumbai, 400072</li>
-                            <!-- <li><a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a></li> -->
+                            <li><a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a></li> 
                     </ul>
-                </div>
-            </div> -->
+                </div> -->
+            </div>
         </div>
         </div>
         </div>
