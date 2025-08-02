@@ -5,9 +5,15 @@ require __DIR__ . '/PHPMailerAutoload.php';
 function handleError($message)
 {
     error_log($message);
-    header("Location: thankyou.php");
+    // Show a user-friendly error page instead of redirecting to thank you
+    echo "<h2>Sorry, something went wrong. Please try again later.</h2>";
     exit;
 }
+
+// Increase error reporting for debugging 502 errors
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['name'], $_POST['email'], $_POST['phone'], $_POST['subject'], $_POST['g-recaptcha-response'])) {
     $name = trim($_POST['name']);
@@ -15,11 +21,38 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['name'], $_POST['email
     $mobile = trim($_POST['phone']);
     $msg_subject = trim($_POST['subject']);
 
-    // Verify reCAPTCHA first
+    // Validate email format
+    if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+        echo "<script>alert('Invalid email address.');</script>";
+        echo "<script>window.location.href='index.php'</script>";
+        exit;
+    }
+
+    // Verify reCAPTCHA with cURL to avoid file_get_contents issues (which can cause 502)
     $secretKey = "6Lez7pMqAAAAAAp8c0AZUQqbYAqv8mAVaHMSYieK";
     $response = $_POST['g-recaptcha-response'];
-    $url = 'https://www.google.com/recaptcha/api/siteverify?secret=' . $secretKey . '&response=' . $response;
-    $verify = file_get_contents($url);
+    $url = 'https://www.google.com/recaptcha/api/siteverify';
+
+    $data = [
+        'secret' => $secretKey,
+        'response' => $response
+    ];
+
+    $ch = curl_init($url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_TIMEOUT, 10);
+    curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($data));
+    $verify = curl_exec($ch);
+
+    if ($verify === false) {
+        error_log('cURL error: ' . curl_error($ch));
+        echo "<script>alert('Could not verify reCAPTCHA. Please try again later.');</script>";
+        echo "<script>window.location.href='index.php'</script>";
+        curl_close($ch);
+        exit;
+    }
+    curl_close($ch);
+
     $captcha_success = json_decode($verify);
 
     if (empty($captcha_success) || empty($captcha_success->success) || $captcha_success->success != 1) {
@@ -70,14 +103,22 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['name'], $_POST['email
     $mail->Subject = $subject;
     $mail->Body    = $body;
 
-    if(!$mail->send()) {
-        error_log('Mailer Error: ' . $mail->ErrorInfo);
-        echo "<script>alert('Message could not be sent. Mailer Error: " . addslashes($mail->ErrorInfo) . "');</script>";
+    // Try-catch for PHPMailer to catch exceptions that may cause 502
+    try {
+        if(!$mail->send()) {
+            error_log('Mailer Error: ' . $mail->ErrorInfo);
+            echo "<script>alert('Message could not be sent. Mailer Error: " . addslashes($mail->ErrorInfo) . "');</script>";
+            echo "<script>window.location.href='index.php'</script>";
+            exit;
+        } else {
+            echo "<script>alert('Message has been sent!');</script>";
+            echo "<script>window.location.href='thankyou.php'</script>";
+            exit;
+        }
+    } catch (Exception $e) {
+        error_log('PHPMailer Exception: ' . $e->getMessage());
+        echo "<script>alert('An error occurred while sending your message. Please try again later.');</script>";
         echo "<script>window.location.href='index.php'</script>";
-        exit;
-    } else {
-        echo "<script>alert('Message has been sent!');</script>";
-        echo "<script>window.location.href='thankyou.php'</script>";
         exit;
     }
 } else {
