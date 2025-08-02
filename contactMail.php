@@ -229,7 +229,7 @@ try {
     $mail->setFrom('info@itdgrowthlabs.com', $name);
     $mail->addReplyTo($email, $name);
     // $mail->addAddress('kushalk@itdservices.in');
-    $mail->addAddress('info@itdgrowthlabs.com');
+    $mail->addAddress('govind@itdservices.in');
     // $mail->addBCC('ashish@itdservices.in');
     // $mail->addBCC('loy@itdservices.in');
 
