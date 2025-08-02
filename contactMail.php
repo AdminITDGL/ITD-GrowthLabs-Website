@@ -15,6 +15,20 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['name'], $_POST['email
     $mobile = trim($_POST['phone']);
     $msg_subject = trim($_POST['subject']);
 
+    // Verify reCAPTCHA first
+    $secretKey = "6Lez7pMqAAAAAAp8c0AZUQqbYAqv8mAVaHMSYieK";
+    $response = $_POST['g-recaptcha-response'];
+    $url = 'https://www.google.com/recaptcha/api/siteverify?secret=' . $secretKey . '&response=' . $response;
+    $verify = file_get_contents($url);
+    $captcha_success = json_decode($verify);
+
+    if (empty($captcha_success) || empty($captcha_success->success) || $captcha_success->success != 1) {
+        echo "<script>alert('reCAPTCHA verification failed. Please try again.');</script>";
+        echo "<script>window.location.href='index.php'</script>";
+        exit;
+    }
+
+    // Compose email
     $subject = "ITD GROWTHLABS ENQUIRY";
     $body = "<table bgcolor='#fafafa' style=' width: 100%!important; height: 100%; background-color: #fafafa; padding: 20px; font-family: \"Helvetica Neue\", Helvetica, Arial, \"Lucida Grande\", sans-serif;  font-size: 100%; line-height: 1.6;'>
     <tr>
@@ -35,43 +49,35 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['name'], $_POST['email
     </tr>
     </table>";
 
-    $post_data['html_body'] = $body;
-    $post_data['subject'] = $subject;
-    $post_data['email_config_id'] = 10;
-    $post_data['add_email'] = 'info@itdgrowthlabs.com';
-    $post_data['cc_email'] = 'info@itdgrowthlabs.com,ashish@itdservices.in,loy@itdservices.in,kushal@itdservices.in';
-    $docket_request_json = json_encode($post_data);
+    // Use PHPMailer directly instead of external API
+    $mail = new PHPMailer;
+    $mail->isSMTP();
+    $mail->Host = 'smtp.gmail.com'; // Change as per your SMTP server
+    $mail->SMTPAuth = true;
+    $mail->Username = 'info@itdgrowthlabs.com'; // Change to your SMTP username
+    $mail->Password = 'qomeqbusknveiqls'; // Change to your SMTP password
+    $mail->SMTPSecure = 'tls';
+    $mail->Port = 587;
 
-    $docket_url = 'https://test.itdservices.in/api/website_api/send_email_for_website?api_company_id=10';
-    $ch1 = curl_init();
-    curl_setopt($ch1, CURLOPT_URL,  $docket_url);
-    curl_setopt($ch1, CURLOPT_CUSTOMREQUEST, "POST");
-    curl_setopt($ch1, CURLOPT_POSTFIELDS, $docket_request_json);
-    curl_setopt($ch1, CURLOPT_RETURNTRANSFER, 1);
-    curl_setopt($ch1, CURLOPT_SSL_VERIFYPEER, false);
-    curl_setopt($ch1, CURLOPT_HTTPHEADER, array(
-        'Content-Type: application/json',
-        'Accept: application/json'
-    ));
+    $mail->setFrom('kushalk@itdservices.in', 'ITD Growthlabs Website');
+    $mail->addAddress('info@itdgrowthlabs.com');
+    $mail->addCC('ashish@itdservices.in');
+    $mail->addCC('loy@itdservices.in');
+    $mail->addCC('kushal@itdservices.in');
+    $mail->addReplyTo($email, $name);
 
-    $response_json = curl_exec($ch1);
-    curl_close($ch1);
-    $response_data = json_decode($response_json, true);
+    $mail->isHTML(true);
+    $mail->Subject = $subject;
+    $mail->Body    = $body;
 
-    $secretKey = "6Lez7pMqAAAAAAp8c0AZUQqbYAqv8mAVaHMSYieK";
-    $response = $_POST['g-recaptcha-response'];
-
-    $url = 'https://www.google.com/recaptcha/api/siteverify?secret=' . $secretKey . '&response=' . $response;
-    $verify = file_get_contents($url);
-    $captcha_success = json_decode($verify);
-
-    if (isset($response_data['success']) && $response_data['success'] == 1) {
-        echo "<script>alert('Message has been sent!');</script>";
-        echo "<script>window.location.href='thankyou.php'</script>";
+    if(!$mail->send()) {
+        error_log('Mailer Error: ' . $mail->ErrorInfo);
+        echo "<script>alert('Message could not be sent. Mailer Error: " . addslashes($mail->ErrorInfo) . "');</script>";
+        echo "<script>window.location.href='index.php'</script>";
         exit;
     } else {
-        echo "<script>alert('Message could not be sent. Mailer Error:');</script>";
-        echo "<script>window.location.href='index.php'</script>";
+        echo "<script>alert('Message has been sent!');</script>";
+        echo "<script>window.location.href='thankyou.php'</script>";
         exit;
     }
 } else {
