@@ -86,6 +86,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['name'], $_POST['email
         $mail->SMTPAuth = true;
         $mail->Username = 'info@itdgrowthlabs.com';
         $mail->Password = 'qomeqbusknveiqls';
+        $mail->SMTPSecure = 'TLS';
         $mail->Port = 587;
         $mail->SMTPKeepAlive = false; // Don't keep connection open, send and close fast
         $mail->Timeout = 10; // seconds
