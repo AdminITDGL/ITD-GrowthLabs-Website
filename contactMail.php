@@ -178,7 +178,7 @@ try {
     }
 
     // Verify reCAPTCHA
-    $recaptcha_secret = "6Lez7pMqAAAAAAp8c0AZUQqbYAqv8mAVaHMSYieK";
+    $secretKey = "6Lez7pMqAAAAAAp8c0AZUQqbYAqv8mAVaHMSYieK";
     $response = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret=' . $secretKey . '&response=' . $response);
     $response_keys = json_decode($response, true);
 
