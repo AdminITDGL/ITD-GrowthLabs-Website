@@ -58,8 +58,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['name'], $_POST['email
     curl_close($ch1);
     $response_data = json_decode($response_json, true);
 
-    echo "<pre>";print_r($response_data);exit;
-
     $secretKey = "6Lez7pMqAAAAAAp8c0AZUQqbYAqv8mAVaHMSYieK";
     $response = $_POST['g-recaptcha-response'];
 
