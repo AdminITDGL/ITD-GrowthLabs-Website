@@ -37,7 +37,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['name'], $_POST['email
 
     $post_data['html_body'] = $body;
     $post_data['subject'] = $subject;
-    $post_data['email_config_id'] = 9;
+    $post_data['email_config_id'] = 10;
     $post_data['add_email'] = 'info@itdgrowthlabs.com';
     $post_data['cc_email'] = 'info@itdgrowthlabs.com,ashish@itdservices.in,loy@itdservices.in,kushal@itdservices.in';
     $docket_request_json = json_encode($post_data);
