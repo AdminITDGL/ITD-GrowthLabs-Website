@@ -128,11 +128,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['name'], $_POST['email
     $url = 'https://www.google.com/recaptcha/api/siteverify?secret=' . $secretKey . '&response=' . $response;
     $verify = file_get_contents($url);
     $captcha_success = json_decode($verify);
-    if (!$captcha_success->success) {
-        echo "<script>alert('Captcha error found!');</script>";
-        echo "<script>window.location.href='index.php'</script>";
-        exit;
-    } else {
         if (isset($response_data['success']) && $response_data['success'] == 1) {
             echo "<script>alert('Message has been sent!');</script>";
             echo "<script>window.location.href='thankyou.php'</script>";
@@ -142,7 +137,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['name'], $_POST['email
             echo "<script>window.location.href='index.php'</script>";
             exit;
         }
-    }
 } else {
     handleError('Invalid request.');
 }
