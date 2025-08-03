@@ -114,7 +114,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     if (isset($response_data) && $response_data != "") {
         echo "<script>alert('Message has been sent!');</script>";
-        echo "<script>window.location.href='thank-you.php'</script>";
+        echo "<script>window.location.href='thankyou.php'</script>";
         exit;
     } else {
         // Log the error for debugging
