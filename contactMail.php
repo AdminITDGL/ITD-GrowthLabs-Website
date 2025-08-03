@@ -89,8 +89,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $post_data_email = [
         'html_body' => $body,
         'subject' => $subject,
-        'add_email' => 'info@bombinoexp.com',
-        'cc_email' => 'palvesha@bombinoexp.com,ghanshyam@bombinoexp.com,taukeer@bombinoexp.com,suraj@itdservices.in',
+        'add_email' => 'info@itdgrowthlabs.com',
+        'cc_email' => 'suraj@itdservices.in',
         'email_config_id' => 9
     ];
 
