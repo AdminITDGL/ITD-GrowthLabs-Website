@@ -78,7 +78,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <p style='margin-bottom:10px;font-weight:normal;font-size:16px;color:#333333;'>Name : $name</p>
     <h2 style='font-weight:200;font-size:16px;margin:20px 0;color:#333333;'> Email ID : $email </h2>
     <h2 style='font-weight:200;font-size:16px;margin:20px 0;color:#333333;'> Mobile No. : $mobile </h2>
-    <h2 style='font-weight:200;font-size:16px;margin:20px 0;color:#333333;'> Message : $msg_subject </h2>
+    <h2 style='font-weight:200;font-size:16px;margin:20px 0;color:#333333;'> Message : $message </h2>
     </tr>
     </table>
     </div></td>
@@ -90,7 +90,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         'html_body' => $body,
         'subject' => $subject,
         'add_email' => 'info@itdgrowthlabs.com',
-        'cc_email' => 'suraj@itdservices.in',
+        'cc_email' => 'ashish@itdservices.in,loy@itdservices.in,suraj@itdservices.in',
         'email_config_id' => 9
     ];
 
