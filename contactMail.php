@@ -90,7 +90,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         'html_body' => $body,
         'subject' => $subject,
         'add_email' => 'info@itdgrowthlabs.com',
-        'cc_email' => 'ashish@itdservices.in,loy@itdservices.in,suraj@itdservices.in',
+        'cc_email' => 'ashish@itdservices.in,loy@itdservices.in,suraj@itdservices.in,kushalk@itdservices.in',
         'email_config_id' => 9
     ];
 
