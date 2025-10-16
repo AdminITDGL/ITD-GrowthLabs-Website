@@ -14,7 +14,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $subject = isset($_POST['subject']) ? htmlspecialchars($_POST['subject']) : '';
     $message = isset($_POST['message']) ? htmlspecialchars($_POST['message']) : '';
     echo json_encode([
-        "message"     => "Thank you for contacting us! Your message has been sent successfully.",
+        "message"     => "🎉 Thank You, $name!<br> Your message has been sent successfully.",
         "showMessage" => "success_msg"
     ]);
     if (function_exists('fastcgi_finish_request')) {
