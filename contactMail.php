@@ -1,126 +1,87 @@
 <?php
 
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
+
+require __DIR__ . '/PHPMailer/src/Exception.php';
+require __DIR__ . '/PHPMailer/src/PHPMailer.php';
+require __DIR__ . '/PHPMailer/src/SMTP.php';
+
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-
-    // Honeypot check (add hidden field named "website" in your HTML)
-    if (!empty($_POST['website'])) {
-        exit("Bot detected.");
-    }
-
-    // Check required fields
-    if (empty($_POST['name']) || empty($_POST['email']) || empty($_POST['phone']) || empty($_POST['subject'])) {
-        echo "<script>alert('Please fill all required fields.');</script>";
-        echo "<script>window.location.href='index.php'</script>";
-        exit;
-    }
-
-    // Google reCAPTCHA verification
-    $secretKey = "6Lez7pMqAAAAAAp8c0AZUQqbYAqv8mAVaHMSYieK";
-    $response = $_POST['g-recaptcha-response'];
-
-    if (empty($response)) {
-        echo "<script>alert('Captcha missing.');</script>";
-        echo "<script>window.location.href='index.php'</script>";
-        exit;
-    }
-
-    $verify = file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=$secretKey&response=$response");
-    $captcha_success = json_decode($verify);
-
-    if (!$captcha_success->success) {
-        echo "<script>alert('Captcha verification failed!');</script>";
-        echo "<script>window.location.href='index.php'</script>";
-        exit;
-    }
-
-    // Input sanitization
-    $txtName = htmlspecialchars(trim($_POST['name']));
-    $txtMobileNo = htmlspecialchars(trim($_POST['phone']));
-    $txtEmailID = filter_var(trim($_POST['email']), FILTER_VALIDATE_EMAIL);
-    $txtQuery = htmlspecialchars(trim($_POST['subject']));
-
-    if (!$txtEmailID) {
-        echo "<script>alert('Invalid email address.');</script>";
-        echo "<script>window.location.href='index.php'</script>";
-        exit;
-    }
-
-    $name = $txtName;
-    $email = $txtEmailID;
-    $mobile = $txtMobileNo;
-    $msg_subject = htmlspecialchars(trim($_POST['ddlSubject']));
-    $messages = $txtQuery;
-    $msg_list = explode(' ', strtolower($messages));
-
-    $bad_words = array('porrn', 'free', 'hd', 'brazzers', 'girl', 'hot', 'baby', 'boobs', 'boob', 'sussex', 'sexy', 'fucked', 'fucking', 'fuck', 'sites', 'site', 'xx', 'xxx', 'pornvideo', 'pornvideos', 'porn', 'porno', 'sex', 'sexcam', 'sexo', 'sexual', 'sexuality', 'sexually', 'sexy', 'video', 'videos', 'venice', 'sexvideo', 'sexvideos', 'dargs');
-    for ($i = 0; $i < count($msg_list); ++$i) {
-        $word = $msg_list[$i];
-        $chk_word = strtolower($msg_list[$i]);
-        foreach ($bad_words as $bad_word) {
-            if (strpos($chk_word, $bad_word) !== false) {
-                $msg_list[$i] = '***';
-                break;
-            }
-        }
-    }
-
-    $message = implode(' ', $msg_list);
-
-    $subject = "ITD GROWTHLABS ENQUIRY";
-    $body = "<table bgcolor='#fafafa' style='width:100%!important;height:100%;background-color:#fafafa;padding:20px;font-family:\"Helvetica Neue\",Helvetica,Arial,\"Lucida Grande\",sans-serif;font-size:100%;line-height:1.6;'>
-    <tr>
-    <td></td>
-    <td bgcolor='#FFFFFF' style='border:1px solid #eeeeee;background-color:#ffffff;border-radius:5px;display:block!important;max-width:600px!important;margin:0 auto!important;clear:both!important;'><div style='padding:20px;max-width:600px;margin:0 auto;display:block;'>
-    <table style='width:100%;'>
-    <tr>
-    <td><h1 style='text-align:center;display:block;padding-bottom:20px;margin-bottom:20px;border-bottom:1px solid #dddddd;'>$subject</h1>
-    <h2 style='font-weight:200;font-size:22px;margin:20px 0 30px 0;color:#333333;'>$name Wants to contact us.</h2>
-    <p style='margin-bottom:10px;font-weight:normal;font-size:16px;color:#333333;'>Name : $name</p>
-    <h2 style='font-weight:200;font-size:16px;margin:20px 0;color:#333333;'> Email ID : $email </h2>
-    <h2 style='font-weight:200;font-size:16px;margin:20px 0;color:#333333;'> Mobile No. : $mobile </h2>
-    <h2 style='font-weight:200;font-size:16px;margin:20px 0;color:#333333;'> Message : $message </h2>
-    </tr>
-    </table>
-    </div></td>
-    <td></td>
-    </tr>
-    </table>";
-
-    $post_data_email = [
-        'html_body' => $body,
-        'subject' => $subject,
-        'add_email' => 'info@itdgrowthlabs.com',
-        'cc_email' => 'ashish@itdservices.in,loy@itdservices.in,suraj@itdservices.in',
-        'email_config_id' => 9
-    ];
-
-    $docket_request_json = json_encode($post_data_email);
-
-    $docket_url = 'https://test.itdservices.in/api/website_api/send_email_for_websites?api_company_id=2';
-    $ch1 = curl_init();
-    curl_setopt($ch1, CURLOPT_URL, $docket_url);
-    curl_setopt($ch1, CURLOPT_CUSTOMREQUEST, "POST");
-    curl_setopt($ch1, CURLOPT_POSTFIELDS, $docket_request_json);
-    curl_setopt($ch1, CURLOPT_RETURNTRANSFER, 1);
-    curl_setopt($ch1, CURLOPT_SSL_VERIFYPEER, false);
-    curl_setopt($ch1, CURLOPT_HTTPHEADER, array(
-        'Content-Type: application/json',
-        'Accept: application/json'
-    ));
-
-    $response_json = curl_exec($ch1);
-    curl_close($ch1);
-    $response_data = json_decode($response_json, true);
-
-    if (isset($response_data) && $response_data != "") {
-        echo "<script>alert('Message has been sent!');</script>";
-        echo "<script>window.location.href='thankyou.php'</script>";
-        exit;
+    $name = isset($_POST['name']) ? htmlspecialchars($_POST['name']) : '';
+    $email = isset($_POST['email']) ? filter_var($_POST['email'], FILTER_SANITIZE_EMAIL) : '';
+    $mobile = isset($_POST['mobile']) ? htmlspecialchars($_POST['mobile']) : '';
+    $subject = isset($_POST['subject']) ? htmlspecialchars($_POST['subject']) : '';
+    $message = isset($_POST['message']) ? htmlspecialchars($_POST['message']) : '';
+    echo json_encode([
+        "message"     => "Thank you for contacting us! Your message has been sent successfully.",
+        "showMessage" => "success_msg"
+    ]);
+    if (function_exists('fastcgi_finish_request')) {
+        fastcgi_finish_request();
     } else {
-        // Log the error for debugging
-        error_log('Mailer Error: ' . $mail->ErrorInfo);
-        echo "<script>alert('Message could not be sent. Mailer Error: " . addslashes($mail->ErrorInfo) . "');</script>";
-        echo "<script>window.location.href='index.php'</script>";
-        exit;
+        ignore_user_abort(true);
+        ob_start();
+        header("Content-Encoding: none");
+        header("Connection: close");
+        ob_end_flush();
+        flush();
+    }
+    try {
+        $mail = new PHPMailer(true);
+        $mail->isSMTP();
+        $mail->Host = 'smtp.gmail.com';
+        $mail->SMTPAuth = true;
+        $mail->Username = 'info@itdgrowthlabs.com';
+        $mail->Password = 'abof avzx trej drvw';
+        $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
+        $mail->Port = 587;
+        $mail->CharSet = 'UTF-8';
+        $mail->setFrom('info@itdgrowthlabs.com', 'ITD Growth Labs');
+        $mail->addReplyTo($email, $name);
+        $mail->addAddress('info@itdgrowthlabs.com', 'ITD Growth Labs');
+        $mail->isHTML(true);
+        $mail->Subject = "New Enquiry Form Submission";
+        $mail->Body = "
+            <p>Hi Team,</p>
+            <p>We have received a new enquiry through the website form with the following details:</p>
+            <ul>
+                <li><strong>Name:</strong> $name</li>
+                <li><strong>Email:</strong> $email</li>
+                <li><strong>Mobile:</strong> $mobile</li>
+                <li><strong>Subject:</strong> $subject</li>
+                <li><strong>Message:</strong> $message</li>
+            </ul>
+            <p><strong>Next Steps:</strong><br>
+            Please call the client on the provided mobile number to understand their requirements and discuss further details.</p>
+            <p>Thanks,<br>Web Team</p>
+        ";
+        $secretKey = "6Lez7pMqAAAAAAp8c0AZUQqbYAqv8mAVaHMSYieK";
+        $response = $_POST['g-recaptcha-response'];
+        $url = 'https://www.google.com/recaptcha/api/siteverify?secret=' . $secretKey . '&response=' . $response;
+        $verify = file_get_contents($url);
+        $captcha_success = json_decode($verify);
+        if (!$captcha_success->success) {
+            echo "<script>alert('Captcha error found!');</script>";
+            echo "<script>window.location.href='contact.php'</script>";
+            exit;
+        }
+        if ($mail->send()) {
+            $mail->clearAddresses();
+            $mail->addAddress($email, $name);
+            $mail->Subject = 'Thank You for Contacting ITD Growthlabs';
+            $mail->Body = "
+                <p>Hello $name,</p>
+                <p>Thank you for contacting ITD Growthlabs for your technology and marketing solutions. One of our team members will get back to you soon.</p>
+                <p>In the meantime, feel free to explore our website to learn more about our services:<br>
+                👉 <a href='https://itdgrowthlabs.com/' target='_blank'>https://itdgrowthlabs.com/</a></p>
+                <p>Best regards,<br>Team ITD Growthlabs</p>
+            ";
+            echo $mail->send() ? "🎉 Thank You, $name!<br> Your message has been sent successfully." : "User Confirmation Error: " . $mail->ErrorInfo;
+        } else {
+            echo "Mailer Error: " . $mail->ErrorInfo;
+        }
+    } catch (Exception $e) {
+        echo "Mailer Error: " . $e->getMessage();
     }
 }

@@ -14,6 +14,22 @@
 
     <!-- ========== Favicon Icon ========== -->
     <?php include("./includes/header_script.php") ?>
+    <style>
+        #showMessage {
+            display: none;
+            margin-top: 15px;
+            font-weight: bold;
+            transition: opacity 0.5s;
+        }
+
+        #showMessage.success_msg {
+            color: green;
+        }
+
+        #showMessage.error_msg {
+            color: red;
+        }
+    </style>
 
 </head>
 
@@ -64,33 +80,31 @@
 
                 <div class="col-tact-stye-one col-lg-6">
                     <div class="contact-form-style-one">
-                        <form action="contactMail.php" method="POST" class="contact-form2">
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <div class="form-group">
-                                        <input class="form-control" id="name" name="name" placeholder="Name" type="text">
-                                        <span class="alert-error"></span>
-                                    </div>
-                                </div>
-                            </div>
+                        <form id="contactForm" enctype="multipart/form-data">
                             <div class="row">
                                 <div class="col-lg-6">
                                     <div class="form-group">
-                                        <input class="form-control" id="email" name="email" placeholder="Email*" type="email">
-                                        <span class="alert-error"></span>
+                                        <input type="text" name="name" class="form-control" placeholder="Name" required>
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="form-group">
-                                        <input class="form-control" id="phone" name="phone" placeholder="Phone" type="text">
-                                        <span class="alert-error"></span>
+                                        <input type="email" name="email" class="form-control" placeholder="Email*" required>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="form-group">
+                                        <input type="text" name="mobile" class="form-control" placeholder="Mobile No." required>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="form-group">
+                                        <input type="text" name="subject" class="form-control" placeholder="Subject" required>
+                                    </div>
+                                </div>
                                 <div class="col-lg-12">
                                     <div class="form-group comments">
-                                        <textarea class="form-control" id="subject" name="subject" placeholder="Tell Us About Project *" type="text"></textarea>
+                                        <textarea name="message" class="form-control" placeholder="Tell Us About Project *"></textarea>
                                     </div>
                                 </div>
                             </div>
@@ -101,16 +115,15 @@
                             </div>
                             <div class="row">
                                 <div class="col-lg-12">
-                                    <button type="submit" name="submit" id="submit">
+                                    <button type="submit">
                                         <i class="fa fa-paper-plane"></i> Get in Touch
                                     </button>
                                 </div>
                             </div>
-                            <!-- Alert Message -->
-                            <div class="col-lg-12 alert-notification">
-                                <div id="message" class="alert-msg"></div>
-                            </div>
                         </form>
+                        <div class="col-lg-12 alert-notification">
+                            <div id="showMessage" class="alert-msg"></div>
+                        </div>
                     </div>
                 </div>
 
@@ -130,7 +143,6 @@
                                 <div class="info">
                                     <h4 class="title">Location</h4>
                                     <p>
-
                                         Gundecha Onclave, Mumbai, Maharashtra 400072
                                     </p>
                                 </div>
@@ -143,8 +155,6 @@
                             </li>
                         </ul>
                     </div>
-                    </li>
-                    </ul>
                 </div>
             </div>
         </div>
@@ -153,11 +163,40 @@
     <!-- Calendly inline widget begin -->
 
     <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
-
     <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-
-
     <!-- Calendly inline widget end -->
-
     <?php include("./includes/footer.php") ?>
     <?php include("./includes/footer_script.php") ?>
+    <script>
+        $('#contactForm').on('submit', function(e) {
+            e.preventDefault();
+            const $showMessage = $('#showMessage').show().html('<i class="fas fa-spinner fa-spin"></i> Sending...');
+            const formData = new FormData(this);
+            const showMessage = (msg, showMessage) => {
+                $showMessage.removeClass().addClass(showMessage).html(msg).show();
+            };
+            $.ajax({
+                url: 'contactMail.php',
+                method: 'POST',
+                data: formData,
+                processData: false,
+                contentType: false,
+                success: function(data) {
+                    try {
+                        const res = JSON.parse(data);
+                        $('#contactForm')[0].reset();
+                        grecaptcha.reset();
+                        showMessage(res.message, res.showMessage);
+                    } catch (e) {
+                        const isSuccess = data.toLowerCase().includes('sent');
+                        $('#contactForm')[0].reset();
+                        grecaptcha.reset();
+                        showMessage(data, isSuccess ? 'success_msg' : 'error_msg');
+                    }
+                },
+                error: function() {
+                    showMessage('<i class="fas fa-exclamation-triangle"></i> Something went wrong!', 'error_msg');
+                }
+            });
+        });
+    </script>
