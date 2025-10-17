@@ -84,27 +84,27 @@
                             <div class="row">
                                 <div class="col-lg-6">
                                     <div class="form-group">
-                                        <input type="text" name="name" class="form-control" placeholder="Name" required>
+                                        <input type="text" name="name" class="form-control" placeholder="Name *" required>
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="form-group">
-                                        <input type="email" name="email" class="form-control" placeholder="Email*" required>
+                                        <input type="email" name="email" class="form-control" placeholder="Email *" required>
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="form-group">
-                                        <input type="text" name="mobile" class="form-control" placeholder="Mobile No." required>
+                                        <input type="text" name="mobile" class="form-control" placeholder="Mobile No. *" required>
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="form-group">
-                                        <input type="text" name="subject" class="form-control" placeholder="Subject" required>
+                                        <input type="text" name="subject" class="form-control" placeholder="Subject *" required>
                                     </div>
                                 </div>
                                 <div class="col-lg-12">
                                     <div class="form-group comments">
-                                        <textarea name="message" class="form-control" placeholder="Tell Us About Project *"></textarea>
+                                        <textarea name="message" class="form-control" placeholder="Tell Us About Project *" required></textarea>
                                     </div>
                                 </div>
                             </div>
