@@ -172,8 +172,8 @@
             e.preventDefault();
             const $showMessage = $('#showMessage').show().html('<i class="fas fa-spinner fa-spin"></i> Sending...');
             const formData = new FormData(this);
-            const showMessage = (msg, cls) => {
-                $showMessage.removeClass().addClass(cls).html(msg).show();
+            const showMessage = (msg, showMessage) => {
+                $showMessage.removeClass().addClass(showMessage).html(msg).show();
             };
             $.ajax({
                 url: 'contactMail.php',
@@ -182,20 +182,24 @@
                 processData: false,
                 contentType: false,
                 success: function(data) {
-                    let success = false;
-                    let message = data;
                     try {
                         const res = JSON.parse(data);
-                        message = res.message || data;
-                        success = res.success || false;
+                        $('#contactForm')[0].reset();
+                        if (typeof grecaptcha !== 'undefined') grecaptcha.reset();
+                        showMessage(res.message, res.showMessage);
+                        setTimeout(() => {
+                            window.location.href = 'thankyou.php';
+                        }, 2000);
                     } catch (e) {
-                        if (data.toLowerCase().includes('sent')) success = true;
-                    }
-                    $('#contactForm')[0].reset();
-                    if (typeof grecaptcha !== 'undefined') grecaptcha.reset();
-                    showMessage(message, success ? 'success_msg' : 'error_msg');
-                    if (success) {
-                        setTimeout(() => window.location.href = 'thankyou.php', 2000);
+                        const isSuccess = data.toLowerCase().includes('sent');
+                        $('#contactForm')[0].reset();
+                        if (typeof grecaptcha !== 'undefined') grecaptcha.reset();
+                        showMessage(data, isSuccess ? 'success_msg' : 'error_msg');
+                        if (isSuccess) {
+                            setTimeout(() => {
+                                window.location.href = 'thankyou.php';
+                            }, 2000);
+                        }
                     }
                 },
                 error: function() {
