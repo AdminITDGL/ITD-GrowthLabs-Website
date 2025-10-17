@@ -223,7 +223,7 @@
                         <p><i class="fa fa-envelope"></i> <a href="mailto:info@itdgrowthlabs.com" style="color:#dedede"> Email: info@itdgrowthlabs.com </a></p>
                         <p><i class="fa fa-globe"> </i> <a href="https://itdgrowthlabs.com/" style="color:#dedede"> Website: www.itdgrowthlabs.com </a></p>
                         <ul>
-                            <li>Gundecha Onclave, Mumbai, 400072</li>
+                            <li>505, Town Centre 1, opposite Times Square, Mittal Industrial Estate, Marol, Andheri, Mumbai, Maharashtra 400059</li>
                             <!-- <li><a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a></li> -->
                         </ul>
                     </div>
