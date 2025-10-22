@@ -1,90 +1,3 @@
-/* ----------------------------------
-
-Template Name: Dilabs - Creative Digital Agency Template
-Author: validtheme
-Description:
-Version: 1.0.2
-
-Main Font    : Manrope
-Main Color   : #2667FF
-
--------------------------------------
-
-[Typography]
-
-Body copy:    15px 'Manrope', sans-serif
-Header:     36px 'Manrope', sans-serif
-Input, textarea:  16px 'Manrope', sans-serif
-Sidebar heading:  22px 'Manrope', sans-serif
-
->>> TABLE OF CONTENTS:
-=======================
-        
-    01. Template default css
-        - Animations
-        - General
-        - Section Title
-        - Video Button
-        - Typography
-        - Tables
-        - Forms
-        - Buttons
-        - Pagination
-        - Colors
-        - Accordion
-        - Tabs
-    02. Preloader
-    03 Navbar
-        - Navbar Default
-        - Navbar Transparent
-        - Navbar Sticky
-    04. Banner
-        - Banner Creative
-        - Banner Digital Agency
-        - Banner Marketing Agency
-    05. Services
-        - Version One
-        - Version Two
-        - Version Three
-	06. About
-        - Version One
-        - Version Two
-    07. Work Process
-    08. Project
-        - Project Carousel
-        - Project Grid
-        - Project Single
-    09. Why Choose Us
-    10. Team
-        - Team Version One
-        - Team Version Two
-        - Team Single
-    11. Testimonials
-        - Version One
-        - Version Two
-    12. Why Choose Us
-    13. Faq
-    14. Progress
-    15. Video Banner
-    16. Brand / Partner
-    17. Feature
-    18. What We Offer
-    19. Pricing
-        - Version One
-        - Version Two
-    20. Blog
-        - Standard
-        - Grid
-        - Left Sidebar
-        - Right Sidebar
-        - Single
-    21. Error 404
-    22. Footer
-    23. PHP Contact Form
-    24. Others
-
-*/
-
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
 
 
@@ -108,8 +21,6 @@ Sidebar heading:  22px 'Manrope', sans-serif
 	--bg-gray-secondary: #f7f7f7;
 	--bg-gradient: linear-gradient(90deg, var(--color-primary) 20%, var(--color-secondary) 100%);
 }
-
-
 
 /* ============================================================== 
      # Reset Browsers
@@ -275,6 +186,14 @@ textarea:focus {
 	outline: none;
 	-webkit-box-shadow: inherit;
 	box-shadow: inherit;
+}
+
+select {
+	border: 1px solid #e7e7e7;
+	border-radius: inherit;
+	-webkit-box-shadow: inherit;
+	box-shadow: inherit;
+	min-height: 50px;
 }
 
 select:focus {
@@ -7447,7 +7366,8 @@ ul.list-regular li::after {
 }
 
 .contact-form-style-one input,
-.contact-form-style-one textarea {
+.contact-form-style-one textarea,
+.contact-form-style-one select {
 	border: none;
 	border-bottom: 1px solid #e7e7e7;
 	border-radius: inherit;
@@ -7456,7 +7376,8 @@ ul.list-regular li::after {
 }
 
 .contact-form-style-one input:focus,
-.contact-form-style-one textarea:focus {
+.contact-form-style-one textarea:focus,
+.contact-form-style-one select:focus {
 	box-shadow: inherit;
 }
 
@@ -7465,7 +7386,7 @@ ul.list-regular li::after {
 }
 
 .contact-form-style-one textarea {
-	min-height: 180px;
+	min-height: 100px;
 }
 
 .contact-form-style-one {
@@ -9558,4 +9479,8 @@ body {
 	.card .img-wrapper {
 		height: 17em;
 	}
+}
+
+header {
+    box-shadow: 0 8px 25px 0 rgba(0, 0, 0, 0.04);
 }

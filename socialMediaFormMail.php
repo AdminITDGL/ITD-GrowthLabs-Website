@@ -8,13 +8,14 @@ require __DIR__ . '/PHPMailer/src/PHPMailer.php';
 require __DIR__ . '/PHPMailer/src/SMTP.php';
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-    $name = isset($_POST['name']) ? htmlspecialchars($_POST['name']) : '';
+    $full_name = isset($_POST['full_name']) ? htmlspecialchars($_POST['full_name']) : '';
+    $company_name = isset($_POST['company_name']) ? htmlspecialchars($_POST['company_name']) : '';
     $email = isset($_POST['email']) ? filter_var($_POST['email'], FILTER_SANITIZE_EMAIL) : '';
-    $mobile = isset($_POST['mobile']) ? htmlspecialchars($_POST['mobile']) : '';
-    $subject = isset($_POST['subject']) ? htmlspecialchars($_POST['subject']) : '';
+    $phone = isset($_POST['phone']) ? htmlspecialchars($_POST['phone']) : '';
+    $preferred_platform = isset($_POST['preferred_platform']) ? htmlspecialchars($_POST['preferred_platform']) : '';
     $message = isset($_POST['message']) ? htmlspecialchars($_POST['message']) : '';
     echo json_encode([
-        "message"     => "🎉 Thank You, $name!<br> Your message has been sent successfully.",
+        "message"     => "🎉 Thank You, $full_name!<br> Your message has been sent successfully.",
         "showMessage" => "success_msg"
     ]);
     if (function_exists('fastcgi_finish_request')) {
@@ -38,19 +39,21 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $mail->Port = 587;
         $mail->CharSet = 'UTF-8';
         $mail->setFrom('info@itdgrowthlabs.com', 'ITD Growth Labs');
-        $mail->addReplyTo($email, $name);
+        $mail->addReplyTo($email, $full_name);
         $mail->addAddress('info@itdgrowthlabs.com', 'ITD Growth Labs');
+        $mail->addCC('ankita@itdgrowthlabs.com', 'Ankita');
         $mail->isHTML(true);
         $mail->Subject = "New Enquiry Form Submission";
         $mail->Body = "
             <p>Hi Team,</p>
             <p>We have received a new enquiry through the website form with the following details:</p>
             <ul>
-                <li><strong>Name:</strong> $name</li>
+                <li><strong>Full Name:</strong> $full_name</li>
+                <li><strong>Company Name:</strong> $company_name</li>
                 <li><strong>Email:</strong> $email</li>
-                <li><strong>Mobile:</strong> $mobile</li>
-                <li><strong>Subject:</strong> $subject</li>
-                <li><strong>Message:</strong> $message</li>
+                <li><strong>Phone:</strong> $phone</li>
+                <li><strong>Preferred Platform:</strong> $preferred_platform</li>
+                <li><strong>Message / Business Goal:</strong> $message</li>
             </ul>
             <p><strong>Next Steps:</strong><br>
             Please call the client on the provided mobile number to understand their requirements and discuss further details.</p>
@@ -68,16 +71,16 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
         if ($mail->send()) {
             $mail->clearAddresses();
-            $mail->addAddress($email, $name);
+            $mail->addAddress($email, $full_name);
             $mail->Subject = 'Thank You for Contacting ITD Growthlabs';
             $mail->Body = "
-                <p>Hello $name,</p>
+                <p>Hello $full_name,</p>
                 <p>Thank you for contacting ITD Growthlabs for your technology and marketing solutions. One of our team members will get back to you soon.</p>
                 <p>In the meantime, feel free to explore our website to learn more about our services:<br>
                 👉 <a href='https://itdgrowthlabs.com/' target='_blank'>https://itdgrowthlabs.com/</a></p>
                 <p>Best regards,<br>Team ITD Growthlabs</p>
             ";
-            echo $mail->send() ? "🎉 Thank You, $name!<br> Your message has been sent successfully." : "User Confirmation Error: " . $mail->ErrorInfo;
+            echo $mail->send() ? "🎉 Thank You, $full_name!<br> Your message has been sent successfully." : "User Confirmation Error: " . $mail->ErrorInfo;
         } else {
             echo "Mailer Error: " . $mail->ErrorInfo;
         }
