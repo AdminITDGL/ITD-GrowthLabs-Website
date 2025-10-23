@@ -274,7 +274,7 @@
                                     <li>Get scalable, future-ready solutions that evolve with your business</li>
                                 </ul> -->
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min">Book A Free Call</a>
+                                <a class="btn btn-theme btn-md animation" href="https://wa.me/918450978544?text=Hello%2C%20I%20want%20to%20book%20a%20free%20consultation%20call." target="_blank">Book A Free Call</a>
                             </div>
                             <div class="row text-center g-4 icon_circle_block">
                                 <div class="col-6 col-sm-6 col-md-4 d-flex flex-column align-items-center">
