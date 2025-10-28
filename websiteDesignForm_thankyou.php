@@ -11,15 +11,52 @@
     <link rel="shortcut icon" href="./assets/img/favicon.png" type="image/x-icon">
     <!-- ========== Page Title ========== -->
     <title>Top Digital Marketing & Website Development Company in India</title>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17674012925"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
 
-    <!-- ========== Favicon Icon ========== -->
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'AW-17674012925');
+    </script>
+    <script>
+        gtag('config', 'AW-17674012925/L6w9CJf84rIbEP2R0OtB', {
+            'phone_conversion_number': '84509 78544'
+        });
+    </script>
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-M4XDB2GZ');
+    </script>
+    <script>
+        gtag('event', 'conversion', {
+            'send_to': 'AW-17674012925/KnycCOOS47IbEP2R0OtB'
+        });
+    </script>
     <?php include("./includes/header_script.php") ?>
 
 
 </head>
 
 <body>
-
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4XDB2GZ"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
     <!-- Preloader Start -->
     <div class="se-pre-con"></div>
     <!-- Preloader Ends -->
@@ -69,17 +106,7 @@
                     </div>
                 </div>
             </div>
-            <!-- Calendly inline widget begin -->
-
-            <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
-
-            <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-
-
-            <!-- Calendly inline widget end -->
         </div>
     </div>
     <!-- End 404 -->
-
-    <?php include("./includes/footer.php") ?>
     <?php include("./includes/footer_script.php") ?>
