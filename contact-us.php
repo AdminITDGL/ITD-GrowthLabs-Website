@@ -222,7 +222,7 @@
                         showMessage(res.message, res.showMessage);
                         setTimeout(() => {
                             window.location.href = 'thankyou.php';
-                        }, 2000);
+                        }, 0);
                     } catch (e) {
                         const isSuccess = data.toLowerCase().includes('sent');
                         $('#contactForm')[0].reset();
@@ -231,7 +231,7 @@
                         if (isSuccess) {
                             setTimeout(() => {
                                 window.location.href = 'thankyou.php';
-                            }, 2000);
+                            }, 0);
                         }
                     }
                 },
