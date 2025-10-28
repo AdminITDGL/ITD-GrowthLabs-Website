@@ -957,7 +957,7 @@
                 $showMessage.removeClass().addClass(showMessage).html(msg).show();
             };
             $.ajax({
-                url: 'contactMail.php',
+                url: '../contactMail.php',
                 method: 'POST',
                 data: formData,
                 processData: false,
@@ -969,8 +969,8 @@
                         if (typeof grecaptcha !== 'undefined') grecaptcha.reset();
                         showMessage(res.message, res.showMessage);
                         setTimeout(() => {
-                            window.location.href = 'thankyou.php';
-                        }, 5000);
+                            window.location.href = '../thankyou.php';
+                        }, 0);
                     } catch (e) {
                         const isSuccess = data.toLowerCase().includes('sent');
                         $('#contactForm')[0].reset();
@@ -978,8 +978,8 @@
                         showMessage(data, isSuccess ? 'success_msg' : 'error_msg');
                         if (isSuccess) {
                             setTimeout(() => {
-                                window.location.href = 'thankyou.php';
-                            }, 5000);
+                                window.location.href = '../thankyou.php';
+                            }, 0);
                         }
                     }
                 },
@@ -1009,7 +1009,7 @@
                         showMessage(res.message, res.showMessage);
                         setTimeout(() => {
                             window.location.href = '../socialMediaForm_thankyou.php';
-                        }, 5000);
+                        }, 0);
                     } catch (e) {
                         const isSuccess = data.toLowerCase().includes('sent');
                         $('#socialMediaForm')[0].reset();
@@ -1018,7 +1018,7 @@
                         if (isSuccess) {
                             setTimeout(() => {
                                 window.location.href = '../socialMediaForm_thankyou.php';
-                            }, 5000);
+                            }, 0);
                         }
                     }
                 },
