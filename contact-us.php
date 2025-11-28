@@ -113,10 +113,11 @@
 
                 <div class="col-tact-stye-one col-lg-6">
                     <div class="contact-form-style-one">
-                        <form id="contactForm" enctype="multipart/form-data">
+                        <form id="contactMail">
                             <div class="row">
                                 <div class="col-lg-6">
                                     <div class="form-group">
+                                        <input type="hidden" name="username_hp">
                                         <input type="text" name="name" class="form-control" placeholder="Name *" required>
                                     </div>
                                 </div>
@@ -141,11 +142,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-12 col-md-12">
-                                <div class="form-group">
-                                    <div class="g-recaptcha" data-sitekey="6Lez7pMqAAAAAEW9ugHXssmeVZdvo2jSYXMH98FB"></div>
-                                </div>
-                            </div>
+                            <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response">
                             <div class="row">
                                 <div class="col-lg-12">
                                     <button type="submit">
@@ -154,9 +151,6 @@
                                 </div>
                             </div>
                         </form>
-                        <div class="col-lg-12 alert-notification">
-                            <div id="showMessage" class="alert-msg"></div>
-                        </div>
                     </div>
                 </div>
 
@@ -200,44 +194,47 @@
     <!-- Calendly inline widget end -->
     <?php include("./includes/footer.php") ?>
     <?php include("./includes/footer_script.php") ?>
+    <script src="https://www.google.com/recaptcha/api.js?render=6Lcm0hosAAAAAPFeuKRDfgGF4Ajr9bcCCbD7LR-3"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
     <script>
-        $('#contactForm').on('submit', function(e) {
-            e.preventDefault();
-            const $showMessage = $('#showMessage').show().html('<i class="fas fa-spinner fa-spin"></i> Sending...');
-            const formData = new FormData(this);
-            const showMessage = (msg, showMessage) => {
-                $showMessage.removeClass().addClass(showMessage).html(msg).show();
+        document.addEventListener("DOMContentLoaded", function() {
+            toastr.options = {
+                positionClass: "toast-top-right",
+                closeButton: true,
+                progressBar: true,
             };
-            $.ajax({
-                url: 'contactMail.php',
-                method: 'POST',
-                data: formData,
-                processData: false,
-                contentType: false,
-                success: function(data) {
-                    try {
-                        const res = JSON.parse(data);
-                        $('#contactForm')[0].reset();
-                        if (typeof grecaptcha !== 'undefined') grecaptcha.reset();
-                        showMessage(res.message, res.showMessage);
-                        setTimeout(() => {
-                            window.location.href = 'thankyou.php';
-                        }, 0);
-                    } catch (e) {
-                        const isSuccess = data.toLowerCase().includes('sent');
-                        $('#contactForm')[0].reset();
-                        if (typeof grecaptcha !== 'undefined') grecaptcha.reset();
-                        showMessage(data, isSuccess ? 'success_msg' : 'error_msg');
-                        if (isSuccess) {
-                            setTimeout(() => {
-                                window.location.href = 'thankyou.php';
-                            }, 0);
-                        }
-                    }
-                },
-                error: function() {
-                    showMessage('<i class="fas fa-exclamation-triangle"></i> Something went wrong!', 'error_msg');
-                }
+            const form = document.getElementById("contactMail");
+            form.addEventListener("submit", function(e) {
+                e.preventDefault();
+                grecaptcha.ready(function() {
+                    grecaptcha.execute('6Lcm0hosAAAAAPFeuKRDfgGF4Ajr9bcCCbD7LR-3', {
+                        action: 'contact_form'
+                    }).then(function(token) {
+                        document.getElementById('g-recaptcha-response').value = token;
+
+                        const formData = new FormData(form);
+                        fetch("contactMail.php", {
+                                method: "POST",
+                                body: formData,
+                            })
+                            .then((res) => res.json())
+                            .then((data) => {
+                                if (data.status === "success") {
+                                    toastr.success("Your enquiry has been sent successfully!");
+                                    form.reset();
+                                    setTimeout(() => {
+                                        window.location.href = "thankyou.php";
+                                    }, 1500);
+                                } else {
+                                    toastr.error(data.message || "Something went wrong!");
+                                }
+                            })
+                            .catch((err) => {
+                                toastr.error("Network error!");
+                            });
+                    });
+                });
             });
         });
     </script>
