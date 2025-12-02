@@ -5347,6 +5347,492 @@
                 </div>
                 <!-- End Single Item -->
 
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 June, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Top_Social_Media_Marketing_Companies_in_India.php">Top Social Media Marketing Companies in India: Who’s Leading in 2025 
+                                </a></h3> <a href="../resources/Top_Social_Media_Marketing_Companies_in_India.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 June, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Affordable_vs_Premium_Social_Media_Agency_in_Mumbai.php">Affordable vs Premium Social Media Agencies in Mumbai: Which Is Right for You 
+                                </a></h3> <a href="../resources/Affordable_vs_Premium_Social_Media_Agency_in_Mumbai.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 June, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Andheris_FastestGrowing_Social_Media_Marketing_Agencies_to_Watch.php">Andheri’s Fastest-Growing Social Media Marketing Agencies to Watch 
+                                </a></h3> <a href="../resources/Andheris_FastestGrowing_Social_Media_Marketing_Agencies_to_Watch.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 June, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/The_Secret_Behind_Mumbai’s_Most_Successful_Social_Media_Campaigns.php">The Secret Behind Mumbai’s Most Successful Social Media Campaigns 
+                                </a></h3> <a href="../resources/The_Secret_Behind_Mumbai’s_Most_Successful_Social_Media_Campaigns.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 June, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/How_Top_Indian_Agencies_Use_AI_and_Data_for_Smarter_Social_Media_Marketing.php">How Top Indian Agencies Use AI & Data for Smarter Social Media Marketing 
+                                </a></h3> <a href="../resources/How_Top_Indian_Agencies_Use_AI_and_Data_for_Smarter_Social_Media_Marketing.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 June, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Influencer_Marketing_Trends_How_Mumbai_Agencies_Are_Shaping_Indias_Social_Media_Scene.php">Influencer Marketing Trends: How Mumbai Agencies Are Shaping India’s Social Media Scene 
+                                </a></h3> <a href="../resources/Influencer_Marketing_Trends_How_Mumbai_Agencies_Are_Shaping_Indias_Social_Media_Scene.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 June, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Top_Emerging_Social_Media_Marketing_Agencies_Outside_Mumbai_A_Pan_India_Perspective.php">Top Emerging Social Media Marketing Agencies Outside Mumbai: A Pan-India Perspective 
+                                </a></h3> <a href="../resources/Top_Emerging_Social_Media_Marketing_Agencies_Outside_Mumbai_A_Pan_India_Perspective.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 June, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/The_Future_of_Social_Media_Marketing_in_India_What_Agencies_Predict_for.php">The Future of Social Media Marketing in India: What Agencies Predict for 2026 
+                                </a></h3> <a href="../resources/The_Future_of_Social_Media_Marketing_in_India_What_Agencies_Predict_for.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 June, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Top_Trends_in_Website_Designing_Services_for.php">Top Trends in Website Designing Services for 2025 
+                                </a></h3> <a href="../resources/Top_Trends_in_Website_Designing_Services_for.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 June, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Custom_Website_Development_Tailored_Solutions_for_Your_Business.php">Custom Website Development: Tailored Solutions for Your Business
+                                </a></h3> <a href="../resources/Custom_Website_Development_Tailored_Solutions_for_Your_Business.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 June, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Content_Management_Systems_Empowering_You_to_Manage_Your_Website.php">Content Management Systems: Empowering You to Manage Your Website
+                                </a></h3> <a href="../resources/Content_Management_Systems_Empowering_You_to_Manage_Your_Website.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 June, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/SEO_Friendly_Website_Development_Boosting_Your_Online_Visibility.php">SEO-Friendly Website Development: Boosting Your Online Visibility 
+                                </a></h3> <a href="../resources/SEO_Friendly_Website_Development_Boosting_Your_Online_Visibility.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 June, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/WordPress_Website_Development_Flexible_and_Scalable_Solutions.php">WordPress Website Development: Flexible and Scalable Solutions 
+                                </a></h3> <a href="../resources/WordPress_Website_Development_Flexible_and_Scalable_Solutions.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 June, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/E-commerce_Website_Development_Building_Online_Stores_That_Convert.php">E-commerce Website Development: Building Online Stores That Convert 
+                                </a></h3> <a href="../resources/E-commerce_Website_Development_Building_Online_Stores_That_Convert.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 June, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Template_Based_Website_Development_Quick_and_Cost_Effective_Solutions.php">Template-Based Website Development: Quick and Cost-Effective Solutions 
+                                </a></h3> <a href="../resources/Template_Based_Website_Development_Quick_and_Cost_Effective_Solutions.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 June, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/UI_UX_Design_in_Website_Development_Enhancing_User_Engagement.php">UI/UX Design in Website Development: Enhancing User Engagement
+                                </a></h3> <a href="../resources/UI_UX_Design_in_Website_Development_Enhancing_User_Engagement.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 June, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Website_Redesign_Services_Refreshing_Your_Online_Presence.php">Website Redesign Services: Refreshing Your Online Presence
+                                </a></h3> <a href="../resources/Website_Redesign_Services_Refreshing_Your_Online_Presence.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 June, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Website_Designing_Services_vs_Website_Development_Services.php">Website Designing Services vs Website Development Services — What’s the Difference & Why Both Matter
+                                </a></h3> <a href="../resources/Website_Designing_Services_vs_Website_Development_Services.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 June, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/What_Are_Website_Designing_Services_and_Why_They_Matter_for_Your_Business.php">What Are Website Designing Services & Why They Matter for Your Business
+                                </a></h3> <a href="../resources/What_Are_Website_Designing_Services_and_Why_They_Matter_for_Your_Business.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 June, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/How_Quality_Website_Designing_Services_Can_Improve_User_Experience_and_Conversion_Rates.php">How Quality Website Designing Services Can Improve User Experience and Conversion Rates
+                                </a></h3> <a href="../resources/How_Quality_Website_Designing_Services_Can_Improve_User_Experience_and_Conversion_Rates.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+                 
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 June, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/How_Quality_Website_Designing_Services_Can_Improve_User_Experience.php">How Quality Website Designing Services Can Improve User Experience and Conversion Rates
+                                </a></h3> <a href="../resources/How_Quality_Website_Designing_Services_Can_Improve_User_Experience.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+
+                
+
 
 
 
