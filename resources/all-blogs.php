@@ -5324,6 +5324,29 @@
                 </div>
                 <!-- End Single Item -->
 
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">Ancey</a>
+                                    </li>
+                                    <li>
+                                        27 June, 2025
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/How_to_Choose_the_Right_Social_Media_Marketing.php">How to Choose the Right Social Media Marketing Agency in Mumbai for Your Brand 
+                                </a></h3> <a href="../resources/How_to_Choose_the_Right_Social_Media_Marketing.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
 
 
 
