@@ -213,7 +213,7 @@
                         <h4 class="widget-title">Resources</h4>
                         <ul>
                             <li><a href="./resources/all-blogs.php">Blogs</a></li>
-
+                            <li><a href="privacy_policy.php">Privacy Policy</a></li>
                         </ul>
                     </div>
                     <br>
