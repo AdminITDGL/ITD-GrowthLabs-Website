@@ -5895,11 +5895,11 @@
                                 </ul>
                             </div>
                             <h3 class="post-title">
-                                <a href="../resources/How_to_Hire_the_Right_SEO_Content_Writing_Agency_&_SEO_Content_Writers_ITD_GrowthLabs.php">
+                                <a href="../resources/How_to_Hire_the_Right_SEO_Content_Writing_Agency_SEO_Content_Writers_ITD_GrowthLabs.php">
                                     How to Hire the Right SEO Content Writing Agency & SEO Content Writers
                                 </a>
                             </h3>
-                            <a href="../resources/How_to_Hire_the_Right_SEO_Content_Writing_Agency_&_SEO_Content_Writers_ITD_GrowthLabs.php" class="button-regular">
+                            <a href="../resources/How_to_Hire_the_Right_SEO_Content_Writing_Agency_SEO_Content_Writers_ITD_GrowthLabs.php" class="button-regular">
                                 Continue Reading <i class="fas fa-arrow-right"></i>
                             </a>
                         </div>
@@ -5922,11 +5922,11 @@
                                 </ul>
                             </div>
                             <h3 class="post-title">
-                                <a href="../resources/What_Is_SEO_Article_Writing_&_Why_It_Matters.php">
+                                <a href="../resources/What_Is_SEO_Article_Writing_Why_It_Matters.php">
                                     What Is SEO Article Writing & Why It Matters
                                 </a>
                             </h3>
-                            <a href="../resources/What_Is_SEO_Article_Writing_&_Why_It_Matters.php" class="button-regular">
+                            <a href="../resources/What_Is_SEO_Article_Writing_Why_It_Matters.php" class="button-regular">
                                 Continue Reading <i class="fas fa-arrow-right"></i>
                             </a>
                         </div>
@@ -6409,11 +6409,11 @@
                                 </ul>
                             </div>
                             <h3 class="post-title">
-                                <a href="../resources/Writing_Local_SEO_Articles_&_Location-Based_Content_ITD_GrowthLabs.php">
+                                <a href="../resources/Writing_Local_SEO_Articles_Location-Based_Content_ITD_GrowthLabs.php">
                                     Writing Local SEO Articles & Location-Based Content
                                 </a>
                             </h3>
-                            <a href="../resources/Writing_Local_SEO_Articles_&_Location-Based_Content_ITD_GrowthLabs.php" class="button-regular">
+                            <a href="../resources/Writing_Local_SEO_Articles_Location-Based_Content_ITD_GrowthLabs.php" class="button-regular">
                                 Continue Reading <i class="fas fa-arrow-right"></i>
                             </a>
                         </div>
