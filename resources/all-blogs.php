@@ -7280,6 +7280,397 @@
                 </div>
                 <!-- End Single Item -->
 
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>15 December, 2025</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/consistent_posting_key_to_social_media_algorithm_growth_itd_growthlabs.php">
+                                Consistent Posting: Key to Social Media Algorithm Growth | ITD GrowthLabs
+                                </a>
+                            </h3>
+                            <a href="../resources/consistent_posting_key_to_social_media_algorithm_growth_itd_growthlabs.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>15 December, 2025</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/top_social_media_trends_to_watch_in_2025.php">
+                                Top Social Media Trends to Watch in 2025
+                                </a>
+                            </h3>
+                            <a href="../resources/top_social_media_trends_to_watch_in_2025.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>15 December, 2025</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/social_media_management_for_b2b_brands_mastering_linkedin_marketing_and_strategic_content.php">
+                                Social Media Management for B2B Brands: Mastering LinkedIn Marketing and Strategic Content
+                                </a>
+                            </h3>
+                            <a href="../resources/social_media_management_for_b2b_brands_mastering_linkedin_marketing_and_strategic_content.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>15 December, 2025</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/how_to_create_viral_content_on_social_media_viral_content_ideas_to_increase_reach.php">
+                                How to Create Viral Content on Social Media: Viral Content Ideas to Increase Reach 
+                                </a>
+                            </h3>
+                            <a href="../resources/how_to_create_viral_content_on_social_media_viral_content_ideas_to_increase_reach.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>15 December, 2025</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/facebook_management_business_facebook_strategy_tips_itd_growthlabs.php">
+                                Facebook Management & Business Facebook Strategy Tips | ITD GrowthLabs 
+                                </a>
+                            </h3>
+                            <a href="../resources/facebook_management_business_facebook_strategy_tips_itd_growthlabs.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>15 December, 2025</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/how_to_handle_negative_comments_on_social_media_a_blueprint_for_social_media_reputation_management.php">
+                                How to Handle Negative Comments on Social Media: A Blueprint for Social Media Reputation Management 
+                                </a>
+                            </h3>
+                            <a href="../resources/how_to_handle_negative_comments_on_social_media_a_blueprint_for_social_media_reputation_management.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>15 December, 2025</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/best_time_to_post_on_social_media_for_growth_itd_growthlabs.php">
+                                Best Time to Post on Social Media for Growth | ITD GrowthLabs 
+                                </a>
+                            </h3>
+                            <a href="../resources/best_time_to_post_on_social_media_for_growth_itd_growthlabs.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>15 December, 2025</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/building_a_brand_voice_brand_tone_social_messaging_itd_growthlabs.php">
+                                Building a Brand Voice: Brand Tone Social & Messaging | ITD GrowthLabs 
+                                </a>
+                            </h3>
+                            <a href="../resources/building_a_brand_voice_brand_tone_social_messaging_itd_growthlabs.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>15 December, 2025</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/how_to_automate_social_media_without_losing_the_human_touch.php">
+                                Automate Social Content Without Losing Authenticity | ITD GrowthLabs
+                                </a>
+                            </h3>
+                            <a href="../resources/how_to_automate_social_media_without_losing_the_human_touch.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>15 December, 2025</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/top_social_kpis_to_measure_success_and_engagement_metrics_itd_growthlabs.php">
+                                Top Social KPIs to Measure Success & Engagement Metrics | ITD GrowthLabs
+                                </a>
+                            </h3>
+                            <a href="../resources/top_social_kpis_to_measure_success_and_engagement_metrics_itd_growthlabs.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>15 December, 2025</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/how_to_design_a_monthly_social_media_report_itd_growthlabs.php">
+                                How to Design a Monthly Social Media Report | ITD GrowthLabs
+                                </a>
+                            </h3>
+                            <a href="../resources/how_to_design_a_monthly_social_media_report_itd_growthlabs.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>15 December, 2025</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/how_to_choose_the_right_social_media_agency_mumbai_itd_growthlabs.php">
+                                How to Choose the Right Social Media Agency Mumbai | ITD GrowthLabs
+                                </a>
+                            </h3>
+                            <a href="../resources/how_to_choose_the_right_social_media_agency_mumbai_itd_growthlabs.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>15 December, 2025</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/local_seo_and_social_media_the_double_growth_strategy_for_small_brands_in_india.php">
+                                Local SEO and Social Media: The Double Growth Strategy for Small Brands in India
+                                </a>
+                            </h3>
+                            <a href="../resources/local_seo_and_social_media_the_double_growth_strategy_for_small_brands_in_india.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>15 December, 2025</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/why_digital_marketing_matters_for_startups_in_2025_itd_growthlabs.php">
+                                Why Digital Marketing Matters for Startups in 2025 | ITD GrowthLabs
+                                </a>
+                            </h3>
+                            <a href="../resources/why_digital_marketing_matters_for_startups_in_2025_itd_growthlabs.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>15 December, 2025</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/professional_smm_agency_for_small_business_social_help_itd_growthlabs.php">
+                                Professional SMM Agency for Small Business Social Help | ITD GrowthLabs
+                                </a>
+                            </h3>
+                            <a href="../resources/professional_smm_agency_for_small_business_social_help_itd_growthlabs.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>15 December, 2025</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/what_is_seo_content_writing_and_why_is_search_engine_content_key.php">
+                                What is SEO Content Writing and Why is Search Engine Content Key?
+                                </a>
+                            </h3>
+                            <a href="../resources/what_is_seo_content_writing_and_why_is_search_engine_content_key.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>15 December, 2025</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/how_to_write_seo_content_that_ranks_on_google_itd_growthlabs.php">
+                                How to Write SEO Content That Ranks on Google | ITD GrowthLabs
+                                </a>
+                            </h3>
+                            <a href="../resources/how_to_write_seo_content_that_ranks_on_google_itd_growthlabs.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
 
                 <!-- Single Item -->
                 <div class="col-lg-4 col-md-6 mb-50">
