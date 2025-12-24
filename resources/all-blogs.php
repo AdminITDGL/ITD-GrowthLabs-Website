@@ -7081,7 +7081,7 @@
                             </div>
                             <h3 class="post-title">
                                 <a href="../resources/weekly_planning_templates_for_marketing_team_calendar_success_itd_growthlabs.php">
-                                   Weekly Planning Templates for Marketing Team Calendar & Success | ITD GrowthLabs
+                                   Weekly Planning Templates for Marketing Team Calendar & Success
                                 </a>
                             </h3>
                             <a href="../resources/weekly_planning_templates_for_marketing_team_calendar_success_itd_growthlabs.php" class="button-regular">
@@ -7105,7 +7105,7 @@
                             </div>
                             <h3 class="post-title">
                                 <a href="../resources/2025_marketing_team_trends_strategy_shifts_to_watch_itd_growthlabs.php">
-                                2025 Marketing Team Trends & Strategy Shifts to Watch | ITD GrowthLabs
+                                2025 Marketing Team Trends & Strategy Shifts to Watch
                                 </a>
                             </h3>
                             <a href="../resources/2025_marketing_team_trends_strategy_shifts_to_watch_itd_growthlabs.php" class="button-regular">
@@ -7129,7 +7129,7 @@
                             </div>
                             <h3 class="post-title">
                                 <a href="../resources/what_is_social_media_management_smm_strategies_that_matter_itd_growthlabs.php">
-                                What is Social Media Management? SMM Strategies That Matter | ITD GrowthLabs
+                                What is Social Media Management? SMM Strategies That Matter
                                 </a>
                             </h3>
                             <a href="../resources/what_is_social_media_management_smm_strategies_that_matter_itd_growthlabs.php" class="button-regular">
@@ -7152,7 +7152,7 @@
                             </div>
                             <h3 class="post-title">
                                 <a href="../resources/best_smm_tools_2025_for_smarter_social_media_growth.php">
-                                Best SMM Tools 2025 for Smarter Social Media Growth | ITD GrowthLabs
+                                Best SMM Tools 2025 for Smarter Social Media Growth
                                 </a>
                             </h3>
                             <a href="../resources/best_smm_tools_2025_for_smarter_social_media_growth.php" class="button-regular">
@@ -7175,7 +7175,7 @@
                             </div>
                             <h3 class="post-title">
                                 <a href="../resources/how_to_build_a_winning_social_media_strategy_brand_presence.php">
-                                How to Build a Winning Social Media Strategy & Brand Presence | ITD GrowthLabs
+                                How to Build a Winning Social Media Strategy & Brand Presence
                                 </a>
                             </h3>
                             <a href="../resources/how_to_build_a_winning_social_media_strategy_brand_presence.php" class="button-regular">
@@ -7199,7 +7199,7 @@
                             </div>
                             <h3 class="post-title">
                                 <a href="../resources/instagram_marketing_tips_for_small_businesses_2025.php">
-                                Instagram Marketing Tips for Small Businesses in 2025 | ITD GrowthLabs
+                                Instagram Marketing Tips for Small Businesses in 2025
                                 </a>
                             </h3>
                             <a href="../resources/instagram_marketing_tips_for_small_businesses_2025.php" class="button-regular">
@@ -7223,7 +7223,7 @@
                             </div>
                             <h3 class="post-title">
                                 <a href="../resources/manage_social_media_accounts_with_cross_platform_scheduling.php">
-                                Manage Social Media Accounts with Cross-Platform Scheduling | ITD GrowthLabs
+                                Manage Social Media Accounts with Cross-Platform Scheduling
                                 </a>
                             </h3>
                             <a href="../resources/manage_social_media_accounts_with_cross_platform_scheduling.php" class="button-regular">
@@ -7246,7 +7246,7 @@
                             </div>
                             <h3 class="post-title">
                                 <a href="../resources/the_role_of_content_calendars_in_social_media_success.php">
-                                The Role of Content Calendars in Social Media Success | ITD GrowthLabs
+                                The Role of Content Calendars in Social Media Success
                                 </a>
                             </h3>
                             <a href="../resources/the_role_of_content_calendars_in_social_media_success.php" class="button-regular">
@@ -7269,7 +7269,7 @@
                             </div>
                             <h3 class="post-title">
                                 <a href="../resources/social_media_analytics_performance_tracking_for_campaigns.php">
-                                Social Media Analytics: Performance Tracking for Campaigns | ITD GrowthLabs
+                                Social Media Analytics: Performance Tracking for Campaigns
                                 </a>
                             </h3>
                             <a href="../resources/social_media_analytics_performance_tracking_for_campaigns.php" class="button-regular">
@@ -7292,7 +7292,7 @@
                             </div>
                             <h3 class="post-title">
                                 <a href="../resources/consistent_posting_key_to_social_media_algorithm_growth_itd_growthlabs.php">
-                                Consistent Posting: Key to Social Media Algorithm Growth | ITD GrowthLabs
+                                Consistent Posting: Key to Social Media Algorithm Growth
                                 </a>
                             </h3>
                             <a href="../resources/consistent_posting_key_to_social_media_algorithm_growth_itd_growthlabs.php" class="button-regular">
@@ -7384,7 +7384,7 @@
                             </div>
                             <h3 class="post-title">
                                 <a href="../resources/facebook_management_business_facebook_strategy_tips_itd_growthlabs.php">
-                                Facebook Management & Business Facebook Strategy Tips | ITD GrowthLabs 
+                                Facebook Management & Business Facebook Strategy Tips 
                                 </a>
                             </h3>
                             <a href="../resources/facebook_management_business_facebook_strategy_tips_itd_growthlabs.php" class="button-regular">
@@ -7430,7 +7430,7 @@
                             </div>
                             <h3 class="post-title">
                                 <a href="../resources/best_time_to_post_on_social_media_for_growth_itd_growthlabs.php">
-                                Best Time to Post on Social Media for Growth | ITD GrowthLabs 
+                                Best Time to Post on Social Media for Growth 
                                 </a>
                             </h3>
                             <a href="../resources/best_time_to_post_on_social_media_for_growth_itd_growthlabs.php" class="button-regular">
@@ -7453,7 +7453,7 @@
                             </div>
                             <h3 class="post-title">
                                 <a href="../resources/building_a_brand_voice_brand_tone_social_messaging_itd_growthlabs.php">
-                                Building a Brand Voice: Brand Tone Social & Messaging | ITD GrowthLabs 
+                                Building a Brand Voice: Brand Tone Social & Messaging 
                                 </a>
                             </h3>
                             <a href="../resources/building_a_brand_voice_brand_tone_social_messaging_itd_growthlabs.php" class="button-regular">
@@ -7476,7 +7476,7 @@
                             </div>
                             <h3 class="post-title">
                                 <a href="../resources/how_to_automate_social_media_without_losing_the_human_touch.php">
-                                Automate Social Content Without Losing Authenticity | ITD GrowthLabs
+                                Automate Social Content Without Losing Authenticity
                                 </a>
                             </h3>
                             <a href="../resources/how_to_automate_social_media_without_losing_the_human_touch.php" class="button-regular">
@@ -7499,7 +7499,7 @@
                             </div>
                             <h3 class="post-title">
                                 <a href="../resources/top_social_kpis_to_measure_success_and_engagement_metrics_itd_growthlabs.php">
-                                Top Social KPIs to Measure Success & Engagement Metrics | ITD GrowthLabs
+                                Top Social KPIs to Measure Success & Engagement Metrics
                                 </a>
                             </h3>
                             <a href="../resources/top_social_kpis_to_measure_success_and_engagement_metrics_itd_growthlabs.php" class="button-regular">
@@ -7522,7 +7522,7 @@
                             </div>
                             <h3 class="post-title">
                                 <a href="../resources/how_to_design_a_monthly_social_media_report_itd_growthlabs.php">
-                                How to Design a Monthly Social Media Report | ITD GrowthLabs
+                                How to Design a Monthly Social Media Report
                                 </a>
                             </h3>
                             <a href="../resources/how_to_design_a_monthly_social_media_report_itd_growthlabs.php" class="button-regular">
@@ -7545,7 +7545,7 @@
                             </div>
                             <h3 class="post-title">
                                 <a href="../resources/how_to_choose_the_right_social_media_agency_mumbai_itd_growthlabs.php">
-                                How to Choose the Right Social Media Agency Mumbai | ITD GrowthLabs
+                                How to Choose the Right Social Media Agency Mumbai
                                 </a>
                             </h3>
                             <a href="../resources/how_to_choose_the_right_social_media_agency_mumbai_itd_growthlabs.php" class="button-regular">
@@ -7591,7 +7591,7 @@
                             </div>
                             <h3 class="post-title">
                                 <a href="../resources/why_digital_marketing_matters_for_startups_in_2025_itd_growthlabs.php">
-                                Why Digital Marketing Matters for Startups in 2025 | ITD GrowthLabs
+                                Why Digital Marketing Matters for Startups in 2025
                                 </a>
                             </h3>
                             <a href="../resources/why_digital_marketing_matters_for_startups_in_2025_itd_growthlabs.php" class="button-regular">
@@ -7614,7 +7614,7 @@
                             </div>
                             <h3 class="post-title">
                                 <a href="../resources/professional_smm_agency_for_small_business_social_help_itd_growthlabs.php">
-                                Professional SMM Agency for Small Business Social Help | ITD GrowthLabs
+                                Professional SMM Agency for Small Business Social Help
                                 </a>
                             </h3>
                             <a href="../resources/professional_smm_agency_for_small_business_social_help_itd_growthlabs.php" class="button-regular">
@@ -7660,7 +7660,7 @@
                             </div>
                             <h3 class="post-title">
                                 <a href="../resources/how_to_write_seo_content_that_ranks_on_google_itd_growthlabs.php">
-                                How to Write SEO Content That Ranks on Google | ITD GrowthLabs
+                                How to Write SEO Content That Ranks on Google
                                 </a>
                             </h3>
                             <a href="../resources/how_to_write_seo_content_that_ranks_on_google_itd_growthlabs.php" class="button-regular">
