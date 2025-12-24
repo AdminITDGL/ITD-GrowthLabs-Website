@@ -7315,11 +7315,11 @@
                                 </ul>
                             </div>
                             <h3 class="post-title">
-                                <a href="../resources/resources\The_Importance_of_Visual_Design_in_Social_Media_Management.php">
+                                <a href="../resources/The_Importance_of_Visual_Design_in_Social_Media_Management.php">
                                 design for social media, branded visuals, image content tips, social media graphics
                                 </a>
                             </h3>
-                            <a href="../resources/resources\The_Importance_of_Visual_Design_in_Social_Media_Management.php" class="button-regular">
+                            <a href="../resources/The_Importance_of_Visual_Design_in_Social_Media_Management.php" class="button-regular">
                                 Continue Reading <i class="fas fa-arrow-right"></i>
                             </a>
                         </div>
@@ -7339,11 +7339,11 @@
                                 </ul>
                             </div>
                             <h3 class="post-title">
-                                <a href="../resources/resources\resources\How_to_Plan_a_Social_Media_Campaign_Launch.php">
+                                <a href="../resources/How_to_Plan_a_Social_Media_Campaign_Launch.php">
                                 launch campaign planning, SMM campaign structure, campaign success, event promotion
                                 </a>
                             </h3>
-                            <a href="../resources/resources\resources\How_to_Plan_a_Social_Media_Campaign_Launch.php" class="button-regular">
+                            <a href="../resources/How_to_Plan_a_Social_Media_Campaign_Launch.php" class="button-regular">
                                 Continue Reading <i class="fas fa-arrow-right"></i>
                             </a>
                         </div>
@@ -7362,11 +7362,11 @@
                                 </ul>
                             </div>
                             <h3 class="post-title">
-                                <a href="../resources/resources\resources\resources\Outsourcing_vs_In_House_Social_Media_Management.php">
+                                <a href="../resources/Outsourcing_vs_In_House_Social_Media_Management.php">
                                 outsourced social media, social agency vs internal, pros and cons SMM
                                 </a>
                             </h3>
-                            <a href="../resources/resources\resources\resources\Outsourcing_vs_In_House_Social_Media_Management.php" class="button-regular">
+                            <a href="../resources/Outsourcing_vs_In_House_Social_Media_Management.php" class="button-regular">
                                 Continue Reading <i class="fas fa-arrow-right"></i>
                             </a>
                         </div>
@@ -7385,11 +7385,11 @@
                                 </ul>
                             </div>
                             <h3 class="post-title">
-                                <a href="../resources/resources\resources\resources\resources\How_to_Use_User-Generated_Content_on_Social_Media.php">
+                                <a href="../resources/How_to_Use_User-Generated_Content_on_Social_Media.php">
                                 UGC marketing, real customer posts, community content, brand advocacy
                                 </a>
                             </h3>
-                            <a href="../resources/resources\resources\resources\resources\How_to_Use_User-Generated_Content_on_Social_Media.php" class="button-regular">
+                            <a href="../resources/How_to_Use_User-Generated_Content_on_Social_Media.php" class="button-regular">
                                 Continue Reading <i class="fas fa-arrow-right"></i>
                             </a>
                         </div>
@@ -7408,11 +7408,11 @@
                                 </ul>
                             </div>
                             <h3 class="post-title">
-                                <a href="../resources/resources\resources\resources\resources\resources\Social_Media_Management_for_E-commerce_Brands.php">
+                                <a href="../resources/Social_Media_Management_for_E-commerce_Brands.php">
                                 ecommerce social strategy, product promotions, shop via social, sales via Instagram/Facebook
                                 </a>
                             </h3>
-                            <a href="../resources/resources\resources\resources\resources\resources\Social_Media_Management_for_E-commerce_Brands.php" class="button-regular">
+                            <a href="../resources/Social_Media_Management_for_E-commerce_Brands.php" class="button-regular">
                                 Continue Reading <i class="fas fa-arrow-right"></i>
                             </a>
                         </div>
@@ -7431,11 +7431,11 @@
                                 </ul>
                             </div>
                             <h3 class="post-title">
-                                <a href="../resources/resources\resources\resources\resources\resources\Growing_Your_Social_Media_Presence_Organically.php">
+                                <a href="../resources/Growing_Your_Social_Media_Presence_Organically.php">
                                 organic growth tips, build real followers, no paid ads growth, SMM strategies
                                 </a>
                             </h3>
-                            <a href="../resources/resources\resources\resources\resources\resources\.resources\Growing_Your_Social_Media_Presence_Organically.php" class="button-regular">
+                            <a href="../resources/Growing_Your_Social_Media_Presence_Organically.php" class="button-regular">
                                 Continue Reading <i class="fas fa-arrow-right"></i>
                             </a>
                         </div>
@@ -7455,11 +7455,11 @@
                                 </ul>
                             </div>
                             <h3 class="post-title">
-                                <a href="../resources/resources\resources\resources\resources\resources\resources\Best_Digital_Marketing_Company_in_India_How_to_Choose_the_Right_Partner.php">
+                                <a href="../resources/Best_Digital_Marketing_Company_in_India_How_to_Choose_the_Right_Partner.php">
                                 best digital marketing company in India, top digital agencies, how to choose marketing company, Indian marketing firm
                                 </a>
                             </h3>
-                            <a href="../resources/resources\resources\resources\resources\resources\.resources\resources\Best_Digital_Marketing_Company_in_India_How_to_Choose_the_Right_Partner.php" class="button-regular">
+                            <a href="../resources/Best_Digital_Marketing_Company_in_India_How_to_Choose_the_Right_Partner.php" class="button-regular">
                                 Continue Reading <i class="fas fa-arrow-right"></i>
                             </a>
                         </div>
@@ -7479,10 +7479,10 @@
                                 </ul>
                             </div>
                             <h3 class="post-title">
-                                <a href="../resources/resources\resources\resources\resources\resources\resources\resources\Top_Digital_Marketing_Companies_in_Mumbai_for_2025.php">
+                                <a href="../resources/Top_Digital_Marketing_Companies_in_Mumbai_for_2025.php">
                                 digital marketing company in Mumbai, top agencies in Mumbai, Mumbai SEO & SMM, marketing agency list                                </a>
                             </h3>
-                            <a href="../resources/resources\resources\resources\resources\resources\.resources\resources\resources\Top_Digital_Marketing_Companies_in_Mumbai_for_2025.php" class="button-regular">
+                            <a href="../resources/Top_Digital_Marketing_Companies_in_Mumbai_for_2025.php" class="button-regular">
                                 Continue Reading <i class="fas fa-arrow-right"></i>
                             </a>
                         </div>
@@ -7502,11 +7502,11 @@
                                 </ul>
                             </div>
                             <h3 class="post-title">
-                                <a href="../resources/resources\resources\resources\resources\resources\resources\resources\.presources\Why_SMEs_in_India_Should_Invest_in_Digital_Marketing_in_2025.php">
+                                <a href="../resources/Why_SMEs_in_India_Should_Invest_in_Digital_Marketing_in_2025.php">
                                 digital marketing for SMEs, SME marketing strategy India, small business marketing, benefits of digital growth
                                 </a>
                             </h3>
-                            <a href="../resources/resources\resources\resources\resources\resources\.resources\resources\resources\resources\Why_SMEs_in_India_Should_Invest_in_Digital_Marketing_in_2025.php" class="button-regular">
+                            <a href="../resources/Why_SMEs_in_India_Should_Invest_in_Digital_Marketing_in_2025.php" class="button-regular">
                                 Continue Reading <i class="fas fa-arrow-right"></i>
                             </a>
                         </div>
@@ -7526,11 +7526,11 @@
                                 </ul>
                             </div>
                             <h3 class="post-title">
-                                <a href="../resources/resources\resources\resources\resources\resources\resources\resources\.presources\.resources\Facebook_Marketing_Services_for_Small_Businesses_in_India.php">
+                                <a href="../resources/Facebook_Marketing_Services_for_Small_Businesses_in_India.php">
                                 Facebook management India, Facebook ads for SMEs, social media for small business, grow business on Facebook
                                 </a>
                             </h3>
-                            <a href="../resources/resources\resources\resources\resources\resources\.resources\resources\resources\resources\Why_SMEs_in_India_Should_Invest_in_Digiresources\Facebook_Marketing_Services_for_Small_Businesses_in_India.php" class="button-regular">
+                            <a href="../resources/Why_SMEs_in_India_Should_Invest_in_Digiresources\Facebook_Marketing_Services_for_Small_Businesses_in_India.php" class="button-regular">
                                 Continue Reading <i class="fas fa-arrow-right"></i>
                             </a>
                         </div>
@@ -7551,10 +7551,10 @@
                                 </ul>
                             </div>
                             <h3 class="post-title">
-                                <a href="../resources/resources\resources\resources\resources\resources\resources\resources\.presources\.resources\resources\Instagram_Management_for_Local_Businesses_in_Mumbai.php">
+                                <a href="../resources/Instagram_Management_for_Local_Businesses_in_Mumbai.php">
                                 Instagram marketing Mumbai, Instagram services for business, IG page management, local business social strategy                                </a>
                             </h3>
-                            <a href="../resources/resources\resources\resources\resources\resources\.resources\resources\resources\resources\Why_SMEs_in_India_Should_Invest_in_Digiresources\resources\Instagram_Management_for_Local_Businesses_in_Mumbai.php" class="button-regular">
+                            <a href="../resources/Why_SMEs_in_India_Should_Invest_in_Digiresources\resources\Instagram_Management_for_Local_Businesses_in_Mumbai.php" class="button-regular">
                                 Continue Reading <i class="fas fa-arrow-right"></i>
                             </a>
                         </div>
@@ -7574,9 +7574,9 @@
                                 </ul>
                             </div>
                             <h3 class="post-title">
-                                <a href="../resources/resources\resources\resources\resources\resources\resources\resources\.presources\.resources\resources\resources\Best_Social_Media_Marketing_Company_for_Small_Businesses_in_India.php">
+                                <a href="../resources/Best_Social_Media_Marketing_Company_for_Small_Businesses_in_India.php">
                                 SMM company India, social media agency for SMEs, affordable marketing services, social content creation                            </h3>
-                            <a href="../resources/resources\resources\resources\resources\resources\.resources\resources\resources\resources\Why_SMEs_in_India_Should_Invest_in_Digiresources\resources\resources\Best_Social_Media_Marketing_Company_for_Small_Businesses_in_India.php" class="button-regular">
+                            <a href="../resources/Why_SMEs_in_India_Should_Invest_in_Digiresources\resources\resources\Best_Social_Media_Marketing_Company_for_Small_Businesses_in_India.php" class="button-regular">
                                 Continue Reading <i class="fas fa-arrow-right"></i>
                             </a>
                         </div>
