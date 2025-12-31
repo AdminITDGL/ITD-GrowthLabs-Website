@@ -7915,7 +7915,7 @@
                                 <a href="../resources/Facebook_Marketing_Services_for_Small_Businesses_in_India.php">
                                   Facebook Management India: Ads for SMEs Growth                                </a>
                             </h3>
-                            <a href="../resources/Why_SMEs_in_India_Should_Invest_in_Digiresources\Facebook_Marketing_Services_for_Small_Businesses_in_India.php" class="button-regular">
+                            <a href="../resources/Facebook_Marketing_Services_for_Small_Businesses_in_India.php" class="button-regular">
                                 Continue Reading <i class="fas fa-arrow-right"></i>
                             </a>
                         </div>
@@ -7938,7 +7938,7 @@
                             <h3 class="post-title">
                                 <a href="../resources/Instagram_Management_for_Local_Businesses_in_Mumbai.php">
                                   Instagram Marketing Mumbai for Local Businesses                            </h3>
-                            <a href="../resources/Why_SMEs_in_India_Should_Invest_in_Digiresources\resources\Instagram_Management_for_Local_Businesses_in_Mumbai.php" class="button-regular">
+                            <a href="../resources/Instagram_Management_for_Local_Businesses_in_Mumbai.php" class="button-regular">
                                 Continue Reading <i class="fas fa-arrow-right"></i>
                             </a>
                         </div>
@@ -7961,23 +7961,13 @@
                                 <a href="../resources/Best_Social_Media_Marketing_Company_for_Small_Businesses_in_India.php">
                                 Best SMM Company India: How to Hire a Social Media Agency for SMEs                           
                             </h3>
-                            <a href="../resources/Why_SMEs_in_India_Should_Invest_in_Digiresources\resources\resources\Best_Social_Media_Marketing_Company_for_Small_Businesses_in_India.php" class="button-regular">
+                            <a href="../resources/Best_Social_Media_Marketing_Company_for_Small_Businesses_in_India.php" class="button-regular">
                                 Continue Reading <i class="fas fa-arrow-right"></i>
                             </a>
                         </div>
                     </div>
                 </div>
                 <!-- End Single Item -->
-
-
-
-
-
-
-
-
-
-
 
 
 
