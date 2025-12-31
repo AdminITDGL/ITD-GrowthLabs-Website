@@ -7970,6 +7970,99 @@
                 <!-- End Single Item -->
 
 
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>15 December, 2025</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/How_to_Make_a_Website_Step_by_Step.php">
+                                How to Make a Website for Business
+                                </a>
+                            </h3>
+                            <a href="../resources/How_to_Make_a_Website_Step_by_Step.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>15 December, 2025</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/How_to_Make_a_Website_Without_Coding.php">
+                                How to Make a Website Without Coding
+                                </a>
+                            </h3>
+                            <a href="../resources/How_to_Make_a_Website_Without_Coding.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>15 December, 2025</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/How_to_Make_a_Website_for_Business.php">
+                                How to Make a Website for Business
+                                </a>
+                            </h3>
+                            <a href="../resources/How_to_Make_a_Website_for_Business.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>15 December, 2025</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/How_to_Make_a_Website_from_Scratch.php">
+                                How to Make a Website from Scratch
+                                </a>
+                            </h3>
+                            <a href="../resources/How_to_Make_a_Website_from_Scratch.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+
 
 
 
