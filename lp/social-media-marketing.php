@@ -910,19 +910,19 @@
                     }).then(function(token) {
                         document.getElementById('g-recaptcha-response-smm').value = token;
 
-                        const formData = new FormData(form);
-                        fetch("socialMediaFormMail.php", {
-                                method: "POST",
-                                body: formData,
-                            })
-                            .then((res) => res.json())
-                            .then((data) => {
-                                if (data.status === "success") {
-                                    toastr.success("Your enquiry has been sent successfully!");
-                                    form.reset();
-                                    setTimeout(() => {
-                                        window.location.href = "socialMediaForm_thankyou.php";
-                                    }, 1500);
+                         const formData = new FormData(form);
+                         fetch("../socialMediaFormMail.php", {
+                                 method: "POST",
+                                 body: formData,
+                             })
+                             .then((res) => res.json())
+                             .then((data) => {
+                                 if (data.status === "success") {
+                                     toastr.success("Your enquiry has been sent successfully!");
+                                     form.reset();
+                                     setTimeout(() => {
+                                         window.location.href = "../socialMediaForm_thankyou.php";
+                                     }, 1500);
                                 } else {
                                     toastr.error(data.message || "Something went wrong!");
                                 }
