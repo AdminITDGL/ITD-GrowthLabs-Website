@@ -27,6 +27,7 @@
     <link href="../assets/css/helper.css" rel="stylesheet">
     <link href="../assets/css/unit-test.css" rel="stylesheet">
     <link href="../assets/css/style.css" rel="stylesheet">
+    <script src="https://www.google.com/recaptcha/api.js?render=6Lcm0hosAAAAAPFeuKRDfgGF4Ajr9bcCCbD7LR-3"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17674012925"></script>
     <script>
@@ -902,7 +903,6 @@
             });
         }
     </script>
-    <script src="https://www.google.com/recaptcha/api.js?render=6Lcm0hosAAAAAPFeuKRDfgGF4Ajr9bcCCbD7LR-3"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
     <script>
