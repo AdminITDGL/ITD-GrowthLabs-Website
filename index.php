@@ -1454,5 +1454,7 @@
 
     <!-- Calendly badge widget end -->
 
+    <?php include("./includes/popup_modal.php") ?>
+
     <?php include("./includes/footer.php") ?>
     <?php include("./includes/footer_script.php") ?>

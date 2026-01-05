@@ -1329,6 +1329,8 @@
     </script>
 
     <!-- Calendly badge widget end -->
+
+    <?php include("../includes/popup_modal.php") ?>
 </body>
 
 </html>
