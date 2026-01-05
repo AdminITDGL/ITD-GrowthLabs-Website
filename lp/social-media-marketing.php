@@ -412,9 +412,6 @@
                                 </div>
                                 <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response-smm">
                             </form>
-                            <div class="col-lg-12 alert-notification">
-                                <div id="showMessage_smm" class="alert-msg"></div>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -631,90 +628,26 @@
             </div>
         </div>
     </div>
-    <div class="contact-area contact-page bg-gray overflow-hidden default-padding" style="background-image: url(../assets/img/shape/map.png);">
-        <div class="shape-right-bottom">
-            <img src="../assets/img/shape/18.png" alt="Shape">
-        </div>
-        <div class="container">
-            <div class="row align-center">
-                <div class="col-tact-stye-one col-lg-6">
-                    <div class="contact-form-style-one">
-                        <form id="contactForm" enctype="multipart/form-data">
-                            <input type="hidden" name="username_hp">
-                            <div class="row">
-                                <div class="col-lg-6">
-                                    <div class="form-group">
-                                        <input type="text" name="name" class="form-control" placeholder="Name *" required>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6">
-                                    <div class="form-group">
-                                        <input type="email" name="email" class="form-control" placeholder="Email *" required>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6">
-                                    <div class="form-group">
-                                        <input type="text" name="mobile" class="form-control" placeholder="Mobile No. *" required>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6">
-                                    <div class="form-group">
-                                        <input type="text" name="subject" class="form-control" placeholder="Subject *" required>
-                                    </div>
-                                </div>
-                                <div class="col-lg-12">
-                                    <div class="form-group comments">
-                                        <textarea name="message" class="form-control" placeholder="Tell Us About Project *" required></textarea>
-                                    </div>
-                                </div>
-                            </div>
-                            <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response-contact">
-                            <input type="hidden" name="username_hp">
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <button type="submit">
-                                        <i class="fa fa-paper-plane"></i> Get in Touch
-                                    </button>
-                                </div>
-                            </div>
-                        </form>
-                        <div class="col-lg-12 alert-notification">
-                            <div id="showMessage" class="alert-msg"></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-tact-stye-one col-lg-5 offset-lg-1 mt--80 mt-md-50 mt-xs-50">
-                    <div class="contact-style-one-info">
-                        <div class="mb-40">
-                            <h2>Ready to grow your business online?</h2>
-                            <p>
-                                We help with SEO, website development, eLearning, WhatsApp automation, digital tech solutions, and social media marketing.
-                            </p>
-                            <p><i class="fa-solid fa-phone"></i> <a href="https://wa.me/918450978544" target="_blank" style="color:#6d6d6d">Phone:+91 8450978544</a></p>
-                            <p><i class="fa fa-envelope"></i> <a href="mailto:info@itdgrowthlabs.com" style="color:#6d6d6d"> Email: info@itdgrowthlabs.com </a></p>
-                            <p><i class="fa fa-globe"> </i> <a href="https://itdgrowthlabs.com/" style="color:#6d6d6d"> Website: www.itdgrowthlabs.com </a></p>
-                        </div>
-                        <ul class="contact-address">
-                            <li class="wow fadeInUp" data-wow-delay="300ms">
-                                <div class="info">
-                                    <h4 class="title">Location</h4>
-                                    <p>
-                                        Gundecha Onclave, Mumbai, Maharashtra 400072
-                                    </p>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp" data-wow-delay="500ms">
-                                <div class="info">
-                                    <h4 class="title">Official Email</h4>
-                                    <a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs</a>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
+
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<script type="text/javascript">
+    window.onload = function() {
+        Calendly.initBadgeWidget({
+            url: 'https://calendly.com/itdgrowthlabs-info/30min',
+            text: 'Schedule time with me',
+            color: '#0069ff',
+            textColor: '#ffffff'
+        });
+    }
+</script>
+<!-- Calendly badge widget end -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
         <div class="container">
             <div class="f-items default-padding-bottom pt-70 pt-xs-0">
@@ -980,7 +913,7 @@
                     grecaptcha.execute('6Lcm0hosAAAAAPFeuKRDfgGF4Ajr9bcCCbD7LR-3', {
                         action: 'social_media_form'
                     }).then(function(token) {
-                        document.getElementById('g-recaptcha-response').value = token;
+                        document.getElementById('g-recaptcha-response-smm').value = token;
 
                         const formData = new FormData(form);
                         fetch("socialMediaFormMail.php", {
