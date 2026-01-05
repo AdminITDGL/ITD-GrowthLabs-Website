@@ -28,7 +28,7 @@
     <link href="../assets/css/helper.css" rel="stylesheet">
     <link href="../assets/css/unit-test.css" rel="stylesheet">
     <link href="../assets/css/style.css" rel="stylesheet">
-    <script type="text/javascript" src='https://www.google.com/recaptcha/api.js' async defer></script>
+    <script src="https://www.google.com/recaptcha/api.js?render=6Lcm0hosAAAAAPFeuKRDfgGF4Ajr9bcCCbD7LR-3"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17674012925"></script>
     <script>
@@ -380,6 +380,7 @@
                                 </h4>
                             </div>
                             <form id="websiteDesignForm">
+                                <input type="hidden" name="username_hp">
                                 <div class="row">
                                     <div class="col-lg-6">
                                         <div class="form-group">
@@ -417,15 +418,11 @@
                                             <textarea name="message" class="form-control" placeholder="Message / Requirements *" required></textarea>
                                         </div>
                                     </div>
-                                    <div class="col-lg-12 col-md-12">
-                                        <div class="form-group">
-                                            <div class="g-recaptcha" data-sitekey="6Lez7pMqAAAAAEW9ugHXssmeVZdvo2jSYXMH98FB"></div>
-                                        </div>
-                                    </div>
                                     <div class="col-lg-12">
                                         <button type="submit" class="btn btn-primary">Get Free Quote Now</button>
                                     </div>
                                 </div>
+                                <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response-wdd">
                             </form>
                             <div class="col-lg-12 alert-notification">
                                 <div id="showMessage_wdd" class="alert-msg"></div>
@@ -665,6 +662,7 @@
                 <div class="col-tact-stye-one col-lg-6">
                     <div class="contact-form-style-one">
                         <form id="contactForm" enctype="multipart/form-data">
+                            <input type="hidden" name="username_hp">
                             <div class="row">
                                 <div class="col-lg-6">
                                     <div class="form-group">
@@ -692,11 +690,8 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-12 col-md-12">
-                                <div class="form-group">
-                                    <div class="g-recaptcha" data-sitekey="6Lez7pMqAAAAAEW9ugHXssmeVZdvo2jSYXMH98FB"></div>
-                                </div>
-                            </div>
+                            <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response-contact">
+                            <input type="hidden" name="username_hp">
                             <div class="row">
                                 <div class="col-lg-12">
                                     <button type="submit">
@@ -991,83 +986,46 @@
             });
         }
     </script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>    
     <script>
-        $('#contactForm').on('submit', function(e) {
-            e.preventDefault();
-            const $showMessage = $('#showMessage').show().html('<i class="fas fa-spinner fa-spin"></i> Sending...');
-            const formData = new FormData(this);
-            const showMessage = (msg, showMessage) => {
-                $showMessage.removeClass().addClass(showMessage).html(msg).show();
+        document.addEventListener("DOMContentLoaded", function() {
+            toastr.options = {
+                positionClass: "toast-top-right",
+                closeButton: true,
+                progressBar: true,
             };
-            $.ajax({
-                url: '../contactMail.php',
-                method: 'POST',
-                data: formData,
-                processData: false,
-                contentType: false,
-                success: function(data) {
-                    try {
-                        const res = JSON.parse(data);
-                        $('#contactForm')[0].reset();
-                        if (typeof grecaptcha !== 'undefined') grecaptcha.reset();
-                        showMessage(res.message, res.showMessage);
-                        setTimeout(() => {
-                            window.location.href = '../thankyou.php';
-                        }, 0);
-                    } catch (e) {
-                        const isSuccess = data.toLowerCase().includes('sent');
-                        $('#contactForm')[0].reset();
-                        if (typeof grecaptcha !== 'undefined') grecaptcha.reset();
-                        showMessage(data, isSuccess ? 'success_msg' : 'error_msg');
-                        if (isSuccess) {
-                            setTimeout(() => {
-                                window.location.href = '../thankyou.php';
-                            }, 0);
-                        }
-                    }
-                },
-                error: function() {
-                    showMessage('<i class="fas fa-exclamation-triangle"></i> Something went wrong!', 'error_msg');
-                }
-            });
-        });
-        $('#websiteDesignForm').on('submit', function(e) {
-            e.preventDefault();
-            const $showMessage = $('#showMessage_wdd').show().html('<i class="fas fa-spinner fa-spin"></i> Sending...');
-            const formData = new FormData(this);
-            const showMessage = (msg, showMessage) => {
-                $showMessage.removeClass().addClass(showMessage).html(msg).show();
-            };
-            $.ajax({
-                url: '../websiteDesignFormMail.php',
-                method: 'POST',
-                data: formData,
-                processData: false,
-                contentType: false,
-                success: function(data) {
-                    try {
-                        const res = JSON.parse(data);
-                        $('#websiteDesignForm')[0].reset();
-                        if (typeof grecaptcha !== 'undefined') grecaptcha.reset();
-                        showMessage(res.message, res.showMessage);
-                        setTimeout(() => {
-                            window.location.href = '../websiteDesignForm_thankyou.php';
-                        }, 0);
-                    } catch (e) {
-                        const isSuccess = data.toLowerCase().includes('sent');
-                        $('#websiteDesignForm')[0].reset();
-                        if (typeof grecaptcha !== 'undefined') grecaptcha.reset();
-                        showMessage(data, isSuccess ? 'success_msg' : 'error_msg');
-                        if (isSuccess) {
-                            setTimeout(() => {
-                                window.location.href = '../websiteDesignForm_thankyou.php';
-                            }, 0);
-                        }
-                    }
-                },
-                error: function() {
-                    showMessage('<i class="fas fa-exclamation-triangle"></i> Something went wrong!', 'error_msg');
-                }
+            const form = document.getElementById("websiteDesignForm");
+            form.addEventListener("submit", function(e) {
+                e.preventDefault();
+                grecaptcha.ready(function() {
+                    grecaptcha.execute('6Lcm0hosAAAAAPFeuKRDfgGF4Ajr9bcCCbD7LR-3', {
+                        action: 'website_design_form'
+                    }).then(function(token) {
+                        document.getElementById('g-recaptcha-response').value = token;
+
+                        const formData = new FormData(form);
+                        fetch("websiteDesignFormMail.php", {
+                                method: "POST",
+                                body: formData,
+                            })
+                            .then((res) => res.json())
+                            .then((data) => {
+                                if (data.status === "success") {
+                                    toastr.success("Your enquiry has been sent successfully!");
+                                    form.reset();
+                                    setTimeout(() => {
+                                        window.location.href = "websiteDesignForm_thankyou.php";
+                                    }, 1500);
+                                } else {
+                                    toastr.error(data.message || "Something went wrong!");
+                                }
+                            })
+                            .catch((err) => {
+                                toastr.error("Network error!");
+                            });
+                    });
+                });
             });
         });
     </script>
