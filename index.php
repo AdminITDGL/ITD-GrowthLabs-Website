@@ -3,13 +3,24 @@
 
 <head>
     <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-M4XDB2GZ');</script>
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-M4XDB2GZ');
+    </script>
     <!-- End Google Tag Manager -->
-    
+
     <!-- ========== Meta Tags ========== -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -27,11 +38,14 @@
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17674012925"></script>
     <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+        window.dataLayer = window.dataLayer || [];
 
-    gtag('config', 'AW-17674012925');
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'AW-17674012925');
     </script>
 
 </head>
@@ -40,7 +54,7 @@
 <body>
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4XDB2GZ"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
     <!-- Preloader Start -->
@@ -68,13 +82,15 @@
                         <div class="row align-center">
                             <div class="col-xl-6 col-lg-7 col-md-10">
                                 <div class="content">
-                                    <h4>Digital, Tech & Marketing Solutions<h4>
-                                            <h2>We Build Websites That Work — With Content That Sells.</h2>
-
-                                            <div class="button">
-                                                <a class="btn btn-theme btn-md animation"
-                                                    href="https://calendly.com/itdgrowthlabs-info/30min">Let's Talk</a>
-                                            </div>
+                                    <h4>Websites, Apps & Content that Drive Results</h4>
+                                    <h2>End-to-End Tech & Digital Marketing for B2B Success</h2>
+                                    <p>
+                                        Get websites, apps, SEO, and content to boost your leads, sales, and visibility—all in one place.
+                                    </p>
+                                    <div class="button">
+                                        <a class="btn btn-theme btn-md animation"
+                                            href="https://calendly.com/itdgrowthlabs-info/30min">Let's Talk</a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
