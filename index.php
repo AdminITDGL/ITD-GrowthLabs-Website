@@ -162,9 +162,9 @@
                             <div class="swiper-slide">
                                 <img src="assets/img/brand/porter.png">
                             </div>
-                            <div class="swiper-slide">
+                            <!-- <div class="swiper-slide">
                                 <img src="assets/img/brand/worldline.png">
-                            </div>
+                            </div> -->
                             <div class="swiper-slide">
                                 <img src="assets/img/brand/transline.png">
                             </div>
