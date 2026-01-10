@@ -137,56 +137,167 @@
         </div>
     </div>
 
-    <div class="brand-style-one bg-gradient">
+    <div class="brand-style-one bg-gradient default-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="site-heading text-center">
+                        <h5 class="sub-title">Clients. Partners. Growth Stories.</h5>
+                        <h2 class="title text-white">We're Trusted By 300+ Businesses</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="container-fill">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="brand-carousel">
-                        <!-- Additional required wrapper -->
                         <div class="swiper-wrapper">
-                            <!-- Single Item -->
                             <div class="swiper-slide">
-                                <img src="assets/img/brand/we3scs.png" alt="Image Not Found">
+                                <img src="assets/img/brand/mfour.png">
                             </div>
                             <div class="swiper-slide">
-                                <img src="assets/img/brand/caper.png" alt="Image Not Found">
+                                <img src="assets/img/brand/technocrats.png">
                             </div>
-                            <!-- End Single Item -->
-                            <!-- Single Item -->
-                            <!-- End Single Item -->
-                            <!-- Single Item -->
                             <div class="swiper-slide">
-                                <img src="assets/img/brand/pannest.png" alt="Image Not Found">
+                                <img src="assets/img/brand/porter.png">
                             </div>
-                            <!-- End Single Item -->
-                            <!-- Single Item -->
-                            <!-- End Single Item -->
-
-                            <!-- Single Item -->
                             <div class="swiper-slide">
-                                <img src="assets/img/brand/hilift.png" alt="Image Not Found">
+                                <img src="assets/img/brand/worldline.png">
                             </div>
-                            <!-- End Single Item -->
-
-                            <!-- Single Item -->
                             <div class="swiper-slide">
-                                <img src="assets/img/brand/daakiyawala.png" alt="Image Not Found">
+                                <img src="assets/img/brand/transline.png">
                             </div>
-                            <!-- End Single Item -->
-
-                            <!-- Single Item -->
                             <div class="swiper-slide">
-                                <img src="assets/img/brand/cariesco.png" alt="Image Not Found">
+                                <img src="assets/img/brand/courierdost.png">
                             </div>
-
+                            <div class="swiper-slide">
+                                <img src="assets/img/brand/arks.png">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="assets/img/brand/we3scs.png">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="assets/img/brand/caper.png">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="assets/img/brand/pannest.png">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="assets/img/brand/hilift.png">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="assets/img/brand/daakiyawala.png">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="assets/img/brand/cariesco.png">
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- End Brand Area -->
-    <!-- Digital Marketing & Content Solutions -->
+    <div class="services-style-two-area bg-gray default-padding bottom-less industries-section what-we-do">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="site-heading text-center">
+                        <h5 class="sub-title">What We Offer</h5>
+                        <h2 class="title">What We Do</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="what-we-do-grid">
+                <div class="featured-col">
+                    <div class="featured-box w-100 text-center">
+                        <i class="flaticon-startup-6"></i>
+                        <p>Custom Website Development</p>
+                    </div>
+                </div>
+                <div class="featured-col">
+                    <div class="featured-box w-100 text-center">
+                        <i class="fas fa-comments"></i>
+                        <p>B2B Communication Strategy</p>
+                    </div>
+                </div>
+                <div class="featured-col">
+                    <div class="featured-box w-100 text-center">
+                        <i class="fas fa-file-alt"></i>
+                        <p>Content Creation</p>
+                    </div>
+                </div>
+                <div class="featured-col">
+                    <div class="featured-box w-100 text-center">
+                        <i class="fas fa-user-plus"></i>
+                        <p>Lead Generation</p>
+                    </div>
+                </div>
+                <div class="featured-col">
+                    <div class="featured-box w-100 text-center">
+                        <i class="fas fa-handshake"></i>
+                        <p>Lead Nurturing</p>
+                    </div>
+                </div>
+                <div class="featured-col">
+                    <div class="featured-box w-100 text-center">
+                        <i class="fas fa-chart-line"></i>
+                        <p>Sales Enablement</p>
+                    </div>
+                </div>
+                <div class="featured-col">
+                    <div class="featured-box w-100 text-center">
+                        <i class="fas fa-lightbulb"></i>
+                        <p>Thought Leadership</p>
+                    </div>
+                </div>
+                <div class="featured-col">
+                    <div class="featured-box w-100 text-center">
+                        <i class="fas fa-mobile-alt"></i>
+                        <p>Mobile App Development</p>
+                    </div>
+                </div>
+                <div class="featured-col">
+                    <div class="featured-box w-100 text-center">
+                        <i class="fas fa-bullseye"></i>
+                        <p>Brand Strategy</p>
+                    </div>
+                </div>
+                <div class="featured-col">
+                    <div class="featured-box w-100 text-center">
+                        <i class="fas fa-palette"></i>
+                        <p>Corporate Branding</p>
+                    </div>
+                </div>
+                <div class="featured-col">
+                    <div class="featured-box w-100 text-center">
+                        <i class="fab fa-linkedin"></i>
+                        <p>B2B Social Media</p>
+                    </div>
+                </div>
+                <div class="featured-col">
+                    <div class="featured-box w-100 text-center">
+                        <i class="fas fa-search"></i>
+                        <p>Search and Display Marketing</p>
+                    </div>
+                </div>
+                <div class="featured-col">
+                    <div class="featured-box w-100 text-center">
+                        <i class="fas fa-users"></i>
+                        <p>Strategic Partnerships</p>
+                    </div>
+                </div>
+                <div class="featured-col">
+                    <div class="featured-box w-100 text-center">
+                        <i class="fas fa-globe"></i>
+                        <p>Global Customer Acquisition</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
     <div class="services-style-three-area bg-dark bg-cover default-padding bottom-less"
         style="background-image: url(assets/img/shape/banner-6.jpg);">
         <div class="container">
@@ -199,7 +310,6 @@
                 </div>
             </div>
         </div>
-
         <div class="container">
             <div class="row">
                 <!-- Website Design & Development -->
@@ -314,6 +424,158 @@
         </div>
     </div>
 
+    <div class="services-style-two-area bg-gray default-padding bottom-less industries-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="site-heading text-center">
+                        <h5 class="sub-title">Our Expertise</h5>
+                        <h2 class="title">Industries Where We Excel</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-3 col-lg-6 col-md-6 mb-30">
+                    <div class="service-style-two industries-card">
+                        <div class="icon">
+                            <img src="assets/img/icon/5.png" alt="Image Not Found">
+                        </div>
+                        <p>
+                            Technology, SaaS, and software development solutions.
+                        </p>
+                        <h4>Technology &amp; SaaS</h4>
+                        <span>IT Services</span>
+                        <ul class="industry-list">
+                            <li><i class="fas fa-server"></i> Software Development</li>
+                            <li><i class="fas fa-mobile-alt"></i> App Development</li>
+                            <li><i class="fas fa-cloud"></i> Cloud Solutions</li>
+                            <li><i class="fas fa-shield-alt"></i> Cybersecurity</li>
+                            <li><i class="fas fa-code"></i> IT Services</li>
+                        </ul>
+                        <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <div class="shape">
+                            <img src="assets/img/shape/15.webp" alt="Image Not Found">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-6 col-md-6 mb-30">
+                    <div class="service-style-two industries-card">
+                        <div class="icon">
+                            <img src="assets/img/icon/5.png" alt="Image Not Found">
+                        </div>
+                        <p>
+                            Manufacturing, e-commerce, and logistics expertise.
+                        </p>
+                        <h4>Manufacturing &amp; Commerce</h4>
+                        <span>Industrial</span>
+                        <ul class="industry-list">
+                            <li><i class="fas fa-cogs"></i> Industrial Equipment</li>
+                            <li><i class="fas fa-box"></i> E-commerce &amp; Retail</li>
+                            <li><i class="fas fa-truck"></i> Logistics &amp; Supply Chain</li>
+                            <li><i class="fas fa-shopping-cart"></i> Online Marketplaces</li>
+                            <li><i class="fas fa-warehouse"></i> Distribution</li>
+                        </ul>
+                        <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <div class="shape">
+                            <img src="assets/img/shape/15.webp" alt="Image Not Found">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-6 col-md-6 mb-30">
+                    <div class="service-style-two industries-card">
+                        <div class="icon">
+                            <img src="assets/img/icon/5.png" alt="Image Not Found">
+                        </div>
+                        <p>
+                            Education, training, and professional services.
+                        </p>
+                        <h4>Education &amp; Services</h4>
+                        <span>Learning</span>
+                        <ul class="industry-list">
+                            <li><i class="fas fa-briefcase"></i> Professional Services</li>
+                            <li><i class="fas fa-user-tie"></i> Consulting Firms</li>
+                            <li><i class="fas fa-chart-line"></i> Marketing Agencies</li>
+                            <li><i class="fas fa-handshake"></i> B2B Services</li>
+                            <li><i class="fas fa-building"></i> Corporate Training</li>
+                        </ul>
+                        <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <div class="shape">
+                            <img src="assets/img/shape/15.webp" alt="Image Not Found">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-6 col-md-6 mb-30">
+                    <div class="service-style-two industries-card">
+                        <div class="icon">
+                            <img src="assets/img/icon/5.png" alt="Image Not Found">
+                        </div>
+                        <p>
+                            Healthcare, finance, and specialized sectors.
+                        </p>
+                        <h4>Healthcare &amp; Finance</h4>
+                        <span>Specialized</span>
+                        <ul class="industry-list">
+                            <li><i class="fas fa-heartbeat"></i> Healthcare Services</li>
+                            <li><i class="fas fa-university"></i> Financial Services</li>
+                            <li><i class="fas fa-credit-card"></i> Fintech &amp; Banking</li>
+                            <li><i class="fas fa-hands-helping"></i> Non-Profit Organizations</li>
+                            <li><i class="fas fa-globe"></i> International Businesses</li>
+                        </ul>
+                        <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                        <div class="shape">
+                            <img src="assets/img/shape/15.webp" alt="Image Not Found">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <style>
+        .industries-card {
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+        }
+
+        .industry-list {
+            list-style: none;
+            padding: 0;
+            margin: 15px 0;
+            text-align: left;
+            transition: 0.35s;
+            flex-grow: 1;
+        }
+
+        .industries-card .industry-list {
+            flex-grow: 1;
+        }
+
+        .industries-section .service-style-two:hover .industry-list {
+            transform: translateY(-25px);
+        }
+
+        .industry-list li {
+            padding: 8px 0;
+            font-size: 13px;
+            color: #6c757d !important;
+            display: flex;
+            align-items: center;
+            transition: 0.35s;
+            font-weight: 500;
+        }
+
+        .industry-list li i {
+            margin-right: 10px;
+            font-size: 14px;
+            color: var(--color-primary) !important;
+            width: 18px;
+            text-align: center;
+            transition: 0.35s;
+        }
+    </style>
 
     <!-- Start Services 
     ============================================= -->

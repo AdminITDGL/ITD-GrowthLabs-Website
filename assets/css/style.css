@@ -5676,6 +5676,142 @@ a.btn-service {
 	color: var(--color-primary);
 }
 
+/* ============================================================== 
+    # What We Do Featured Box Styles - CSS Grid
+=================================================================== */
+.what-we-do-grid {
+	display: grid;
+	grid-template-columns: repeat(7, 1fr);
+	gap: 0;
+	width: 100%;
+}
+
+.what-we-do .featured-col {
+	padding: 0;
+}
+
+.what-we-do .featured-col .featured-box {
+	padding: 15px 15px;
+	border-left: 1px solid var(--black);
+	border-bottom: 1px solid var(--black);
+	position: relative;
+	overflow: hidden;
+	height: 100%;
+	min-height: 120px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.what-we-do-grid .featured-col:nth-child(7n+1) .featured-box {
+	border-left: none;
+}
+
+.what-we-do-grid .featured-col:nth-child(n+8) .featured-box {
+	border-bottom: none;
+}
+
+.what-we-do .featured-box:hover img {
+	filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(171deg) brightness(103%) contrast(102%);
+}
+
+.what-we-do .featured-box:hover i {
+	color: var(--white);
+}
+
+.what-we-do .featured-box:hover p {
+	color: var(--white);
+}
+
+.what-we-do .featured-box::before {
+	content: '';
+	position: absolute;
+	background: var(--white);
+	right: 0;
+	left: 0;
+	bottom: 0;
+	top: 100%;
+	transition: all 0.3s;
+	z-index: 0;
+}
+
+.what-we-do .featured-box p {
+	position: relative;
+	z-index: 1;
+	margin: 0;
+	font-size: 14px;
+	line-height: 1.4;
+}
+
+.what-we-do .featured-box i {
+	position: relative;
+	z-index: 1;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 50px;
+	line-height: 1;
+	width: 60px;
+	height: 60px;
+	margin-bottom: 15px;
+}
+
+.what-we-do .featured-box i::before {
+	line-height: 1;
+}
+
+.what-we-do .featured-box:hover::before {
+	background: var(--color-primary);
+	top: 0;
+	border-radius: 0px;
+}
+
+@media (max-width: 991px) {
+	.what-we-do-grid {
+		grid-template-columns: repeat(2, 1fr);
+		gap: 15px;
+	}
+	
+	.what-we-do .featured-col .featured-box {
+		border: 1px solid var(--black) !important;
+		margin-bottom: 0;
+		min-height: 100px;
+		padding: 12px 10px;
+	}
+}
+
+@media (max-width: 767px) {
+	.what-we-do-grid {
+		grid-template-columns: repeat(2, 1fr);
+		gap: 15px;
+	}
+	
+	.what-we-do .featured-col .featured-box {
+		border: 1px solid var(--black) !important;
+		margin-bottom: 0;
+		min-height: 100px;
+		padding: 12px 10px;
+	}
+	
+	.what-we-do .featured-box i {
+		font-size: 40px;
+		width: 50px;
+		height: 50px;
+		margin-bottom: 10px;
+	}
+	
+	.what-we-do .featured-box p {
+		font-size: 12px;
+	}
+}
+
+@media (max-width: 575px) {
+	.what-we-do-grid {
+		grid-template-columns: 1fr;
+		gap: 15px;
+	}
+}
 
 /* ============================================================== 
     # Services Details

@@ -24,10 +24,10 @@
             backdrop: true,
             keyboard: true
         });
-        // Show modal after 5 seconds
+        // Show modal after 10 seconds
         setTimeout(function() {
             popupModal.show();
-        }, 5000);
+        }, 10000);
     });
 </script>
 
