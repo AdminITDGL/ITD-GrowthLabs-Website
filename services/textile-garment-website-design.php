@@ -3,11 +3,22 @@
 
 <head>
     <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-M4XDB2GZ');</script>
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-M4XDB2GZ');
+    </script>
     <!-- End Google Tag Manager -->
 
     <!-- ========== Meta Tags ========== -->
@@ -53,11 +64,14 @@
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17674012925"></script>
     <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+        window.dataLayer = window.dataLayer || [];
 
-    gtag('config', 'AW-17674012925');
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'AW-17674012925');
     </script>
 
 </head>
@@ -65,9 +79,9 @@
 <body>
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4XDB2GZ"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
-     
+
     <header>
         <!-- Start Navigation -->
         <nav class="navbar mobile-sidenav navbar-default validnavs dark on menu-center no-full">
@@ -125,7 +139,7 @@
                                                     <li><a href="../services/chemical-manufacturing-website-design.php" target="_blank">Chemical Manufacturing Website Design</a></li>
                                                     <li><a href="../services/pharma-medical-website-design.php" target="_blank">Pharma & Medical Website Design</a></li>
                                                     <li><a href="../services/textile-garment-website-design.php" target="_blank">Textile & Garment Website Design</a></li>
-                                                    
+
                                                 </ul>
                                             </div>
                                         </div>
@@ -291,55 +305,74 @@
         </nav>
         <!-- End Navigation -->
     </header>
-    
-    <!-- Start Banner Area 
-    ============================================= -->
-    <div class="banner-style-three-area overflow-hidden" style="background-image: url(../assets/img/shape/banner-5.jpg); padding-bottom: 50px;">
-
-        <!-- Single Item -->
-        <div class="banner-style-three pt-150 pt-md-120 pt-xs-60">
-            <div class="container">
-                <div class="content">
-
-                    <div class="row align-center">
-                        <div class="col-xl-6 col-lg-6 pr-50 pr-md-15 pr-xs-15 mt--80 mt-md-0 mt-xs-0">
+    <div class="banner-style-three-area overflow-hidden pt-100 pb-100" style="background-image: url(../assets/img/shape/banner-5.jpg);">
+        <div class="container">
+            <div class="content">
+                <div class="row align-center">
+                    <div class="banner-style-three col-lg-6">
+                        <div class="information">
+                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                                Creative Website Design for the <strong>Global Textile & Fashion Industry</strong>
+                            </h2>
+                            <p class="wow fadeInUp" data-wow-delay="900ms" data-wow-duration="400ms">
+                                Transforming your Garment manufacturing prowess into a digital masterpiece.
+                            </p>
+                            <div class="button" style="margin-top: 20px;">
+                                <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min">Let's Talk</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-tact-stye-one col-lg-5 offset-lg-1">
+                        <div class="contact-form-style-one">
                             <div class="information">
-                                <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
-                                    Creative Website Design for the <strong>Global Textile & Fashion Industry</strong>
-                                </h2>
-                                <p class="wow fadeInUp" data-wow-delay="900ms" data-wow-duration="400ms">
-                                    Transforming your Garment manufacturing prowess into a digital masterpiece.
-                                </p>
-                                <div class="button" style="margin-top: 20px;">
-                                    <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min">Let's Talk</a>
-                                </div>
+                                <h4 class="wow fadeInUp mb-30 text-center" data-wow-delay="500ms" data-wow-duration="400ms">
+                                    <b>Drop Us A Message</b>
+                                </h4>
                             </div>
-                        </div>
-
-                        <div class="col-xl-6 col-lg-6 pl-60 pl-md-15 pl-xs-15">
-                            <div class="thumb">
-                                <img class="wow fadeInDown" src="../assets/img/illustration/2.1.png" alt="Textile Website Design">
-                                <img src="../assets/img/illustration/3.png" alt="Garment Manufacturers Website">
-                                <div class="progress-card">
-                                    <div class="icon">
-                                        <i class="flaticon-startup-5"></i>
+                            <form id="contactMail">
+                                <div class="row">
+                                    <div class="col-lg-6">
+                                        <div class="form-group">
+                                            <input type="hidden" name="username_hp">
+                                            <input type="text" name="name" class="form-control" placeholder="Name *" required>
+                                        </div>
                                     </div>
-                                    <div class="info">
-                                        <p>Fashion Innovation</p>
-                                        <h4>+95%</h4>
+                                    <div class="col-lg-6">
+                                        <div class="form-group">
+                                            <input type="email" name="email" class="form-control" placeholder="Email *" required>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <div class="form-group">
+                                            <input type="text" name="mobile" class="form-control" placeholder="Mobile No. *" required>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <div class="form-group">
+                                            <input type="text" name="subject" class="form-control" placeholder="Subject *" required>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12">
+                                        <div class="form-group comments">
+                                            <textarea name="message" class="form-control" placeholder="Tell Us About Project *" required></textarea>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
+                                <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response">
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <button type="submit">
+                                            <i class="fa fa-paper-plane"></i> Get in Touch
+                                        </button>
+                                    </div>
+                                </div>
+                            </form>
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
-        <!-- End Single Item -->
     </div>
-    <!-- End Banner -->
-
     <div class="brand-style-one bg-gradient">
         <div class="container-fill">
             <div class="row">
@@ -388,7 +421,7 @@
             </div>
         </div>
     </div>
-    
+
     <!-- Start Service Range
     ============================================= -->
     <div class="service-range-area default-padding bg-white pb-0">
@@ -753,113 +786,11 @@
     <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
     <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
     <!-- Calendly inline widget end -->
-    
-    <!-- Start Contact Us 
-    ============================================= -->
-    <div class="contact-area overflow-hidden default-padding" style="background-image: url(assets/img/shape/map.png);">
-        <div class="shape-right-bottom">
-            <img src="../assets/img/shape/18.png" alt="Shape">
-        </div>
-        <div class="container">
-            <div class="row align-center">
-                <div class="col-tact-stye-one col-lg-5">
-                    <div class="contact-style-one-info">
-                        <div class="mb-40">
-                            <h2>Contact Information</h2>
-
-                        </div>
-                        <ul class="contact-address">
-                            <li class="wow fadeInUp">
-                                <div class="content">
-                                    <h4 class="title">Location</h4>
-                                    <p>
-                                        Gundecha Onclave, Ansa Industrial Estate, Chandivali, Powai, Mumbai, Maharashtra 400072
-                                    </p>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp" data-wow-delay="300ms">
-                                <div class="info">
-                                    <h4 class="title">Official Email</h4>
-                                    <a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp" data-wow-delay="500ms">
-                                <div class="info">
-                                    <h4 class="title">Company Website</h4>
-                                    <a href="https://www.itdgrowthlabs.com" target="_blank">www.itdgrowthlabs.com</a>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp" data-wow-delay="700ms">
-                                <div class="info">
-                                    <h4 class="title">Company Name</h4>
-                                    <p>ITD GrowthLabs</p>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-tact-stye-one col-lg-6 offset-lg-1">
-                    <div class="contact-form-style-one">
-                        <h4 class="sub-title">Have Questions?</h4>
-                        <h2 class="title">Send us a Message</h2>
-                        <form action="../contactMail.php" method="POST" class="contact-form2">
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <div class="form-group">
-                                        <input class="form-control" id="name" name="name" placeholder="Name" type="text">
-                                        <span class="alert-error"></span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-6">
-                                    <div class="form-group">
-                                        <input class="form-control" id="email" name="email" placeholder="Email*" type="email">
-                                        <span class="alert-error"></span>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6">
-                                    <div class="form-group">
-                                        <input class="form-control" id="phone" name="phone" placeholder="Phone" type="text">
-                                        <span class="alert-error"></span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <div class="form-group comments">
-                                        <textarea class="form-control" id="subject" name="subject" placeholder="Tell Us About Project *" type="text"></textarea>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-12 col-md-12">
-                                <div class="form-group">
-                                    <div class="g-recaptcha" data-sitekey="6Lez7pMqAAAAAEW9ugHXssmeVZdvo2jSYXMH98FB"></div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <button type="submit" name="submit" id="submit">
-                                        <i class="fa fa-paper-plane"></i> Get in Touch
-                                    </button>
-                                </div>
-                            </div>
-                            <!-- Alert Message -->
-                            <div class="col-lg-12 alert-notification">
-                                <div id="message" class="alert-msg"></div>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Contact -->
 
     <!-- Start Footer 
     ============================================= -->
     <?php include("../includes/footer.php") ?>
-    
+
     <!-- jQuery Frameworks
     ============================================= -->
     <script src="../assets/js/jquery-3.6.0.min.js"></script>
@@ -900,6 +831,50 @@
     </script>
 
     <!-- Calendly badge widget end -->
+    <script src="https://www.google.com/recaptcha/api.js?render=6Lcm0hosAAAAAPFeuKRDfgGF4Ajr9bcCCbD7LR-3"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            toastr.options = {
+                positionClass: "toast-top-right",
+                closeButton: true,
+                progressBar: true,
+            };
+            const form = document.getElementById("contactMail");
+            form.addEventListener("submit", function(e) {
+                e.preventDefault();
+                grecaptcha.ready(function() {
+                    grecaptcha.execute('6Lcm0hosAAAAAPFeuKRDfgGF4Ajr9bcCCbD7LR-3', {
+                        action: 'contact_form'
+                    }).then(function(token) {
+                        document.getElementById('g-recaptcha-response').value = token;
+
+                        const formData = new FormData(form);
+                        fetch("../contactMail.php", {
+                                method: "POST",
+                                body: formData,
+                            })
+                            .then((res) => res.json())
+                            .then((data) => {
+                                if (data.status === "success") {
+                                    toastr.success("Your enquiry has been sent successfully!");
+                                    form.reset();
+                                    setTimeout(() => {
+                                        window.location.href = "../thankyou.php";
+                                    }, 1500);
+                                } else {
+                                    toastr.error(data.message || "Something went wrong!");
+                                }
+                            })
+                            .catch((err) => {
+                                toastr.error("Network error!");
+                            });
+                    });
+                });
+            });
+        });
+    </script>
 
     <?php include("../includes/popup_modal.php") ?>
 </body>
