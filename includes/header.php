@@ -53,7 +53,11 @@
                                                    </li>
                                                    <li><a href="services/WordPress-Website-Development.php" target="_blank">WordPress Website Development</a></li>
                                                    <li><a href="services/Custom-Website-Development.php" target="_blank">Custom Website Development</a></li>
-                                                   <li><a href="services/E-commerce-Website-Development.php" target="_blank">E-commerce Website Development</a></li>
+                                                    <li><a href="services/E-commerce-Website-Development.php" target="_blank">E-commerce Website Development</a></li>
+                                                    <li><a href="services/logistics-courier-website-design.php" target="_blank">Logistics & Courier Website Design</a></li>
+                                                    <li><a href="services/chemical-manufacturing-website-design.php" target="_blank">Chemical Manufacturing Website Design</a></li>
+                                                    <li><a href="services/pharma-medical-website-design.php" target="_blank">Pharma & Medical Website Design</a></li>
+                                                    <li><a href="services/textile-garment-website-design.php" target="_blank">Textile & Garment Website Design</a></li>
 
                                                </ul>
                                            </div>
