@@ -945,7 +945,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
                     <div class="fun-fact text-center">
-                        <div class="counter">
+                        <div class="counter" style="color:var(--color-primary)">
                             <span class="timer" data-to="10" data-speed="2000">10</span><span>+</span>
                         </div>
                         <h4>Years of Experience</h4>
@@ -953,7 +953,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
                     <div class="fun-fact text-center">
-                        <div class="counter">
+                        <div class="counter" style="color:var(--color-primary)">
                             <span class="timer" data-to="100" data-speed="2000">100</span><span>+</span>
                         </div>
                         <h4>Tech Experts</h4>
@@ -961,7 +961,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
                     <div class="fun-fact text-center">
-                        <div class="counter">
+                        <div class="counter" style="color:var(--color-primary)">
                             <span class="timer" data-to="50" data-speed="2000">50</span><span>+</span>
                         </div>
                         <h4>Apps Delivered</h4>
@@ -969,7 +969,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
                     <div class="fun-fact text-center">
-                        <div class="counter">
+                        <div class="counter" style="color:var(--color-primary)">
                             <span class="timer" data-to="97" data-speed="2000">97</span><span>%</span>
                         </div>
                         <h4>Client Retention</h4>
