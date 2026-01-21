@@ -116,6 +116,33 @@
             text-transform: uppercase;
             color: #000;
         }
+
+        .form-with-profile {
+            background: #fff;
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+        }
+
+        .form-header-orange {
+            background: var(--color-primary);
+            position: relative;
+            text-align: center;
+        }
+
+        .profile-images-container {
+            position: relative;
+            margin-bottom: 10px;
+            padding-top: 5px;
+        }
+
+        .profile-main {
+            width: 60%;
+            height: auto;
+            display: block;
+            object-fit: cover;
+            margin: auto;
+        }
     </style>
 </head>
 
@@ -373,56 +400,63 @@
                         </div>
                     </div>
                     <div class="col-tact-stye-one col-lg-5 offset-lg-1">
-                        <div class="contact-form-style-one">
-                            <div class="information">
-                                <h4 class="wow fadeInUp mb-30 text-center" data-wow-delay="500ms" data-wow-duration="400ms">
-                                    <b>Get a Free Lead Generation Plan</b>
-                                </h4>
-                            </div>
-                            <form id="leadGenForm">
-                                <input type="hidden" name="username_hp">
-                                <div class="row">
-                                    <div class="col-lg-6">
-                                        <div class="form-group">
-                                            <input type="text" name="full_name" class="form-control" placeholder="Full Name *" required>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6">
-                                        <div class="form-group">
-                                            <input type="text" name="company_name" class="form-control" placeholder="Company Name *" required>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6">
-                                        <div class="form-group">
-                                            <input type="email" name="email" class="form-control" placeholder="Email Address *" required>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6">
-                                        <div class="form-group">
-                                            <input type="text" name="phone" class="form-control" placeholder="Phone Number *" required>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-12">
-                                        <div class="form-group">
-                                            <input type="text" name="target_industry" class="form-control" placeholder="Target Industry / Audience *" required>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-12">
-                                        <div class="form-group">
-                                            <input type="text" name="ad_budget" class="form-control" placeholder="Monthly Ad Budget *" required>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-12">
-                                        <div class="form-group">
-                                            <textarea name="message" class="form-control" placeholder="Message / Campaign Goal *" required></textarea>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-12">
-                                        <button type="submit" class="btn btn-primary">Get Free Lead Plan</button>
-                                    </div>
+                        <div class="contact-form-style-one form-with-profile wow fadeInUp p-0" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <div class="form-header-orange">
+                                <div class="profile-images-container">
+                                    <img src="../assets/img/form-profile-image.png" alt="Expert" class="profile-main" oncontextmenu="return false;" draggable="false" ondragstart="return false;">
                                 </div>
-                                <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response-lgs">
-                            </form>
+                            </div>
+                            <div class="form-content p-3">
+                                <div class="information">
+                                    <h4 class="wow fadeInUp mb-30 text-center" data-wow-delay="500ms" data-wow-duration="400ms">
+                                        <b>Get a Free Consultation</b>
+                                    </h4>
+                                </div>
+                                <form id="leadGenForm">
+                                    <input type="hidden" name="username_hp">
+                                    <div class="row">
+                                        <div class="col-lg-6">
+                                            <div class="form-group">
+                                                <input type="text" name="full_name" class="form-control" placeholder="Full Name *" required>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="form-group">
+                                                <input type="text" name="company_name" class="form-control" placeholder="Company Name *" required>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="form-group">
+                                                <input type="email" name="email" class="form-control" placeholder="Email Address *" required>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="form-group">
+                                                <input type="text" name="phone" class="form-control" placeholder="Phone Number *" required>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="form-group">
+                                                <input type="text" name="target_industry" class="form-control" placeholder="Target Industry / Audience *" required>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="form-group">
+                                                <input type="text" name="ad_budget" class="form-control" placeholder="Monthly Ad Budget *" required>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-12">
+                                            <div class="form-group">
+                                                <textarea name="message" class="form-control" rows="4" placeholder="Message / Campaign Goal *" required></textarea>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-12">
+                                            <button type="submit" class="btn btn-primary w-100">Submit Now <i class="fas fa-arrow-up" style="margin-left: 8px;rotate: 45deg;"></i></button>
+                                        </div>
+                                    </div>
+                                    <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response-lgs">
+                                </form>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -482,8 +516,6 @@
         </div>
         <div class="container">
             <div class="row" style="display: flex; flex-wrap: wrap;">
-
-                <!-- Feature 1: Performance-Driven Campaigns -->
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-bullseye fa-3x mb-3"></i>
@@ -494,8 +526,6 @@
                         <h4><a href="#">Performance-Driven Campaigns</a></h4>
                     </div>
                 </div>
-
-                <!-- Feature 2: Precise Audience Targeting -->
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-crosshairs fa-3x mb-3"></i>
@@ -506,8 +536,6 @@
                         <h4><a href="#">Precise Audience Targeting</a></h4>
                     </div>
                 </div>
-
-                <!-- Feature 3: Custom Landing Pages -->
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-file-alt fa-3x mb-3"></i>
@@ -518,8 +546,6 @@
                         <h4><a href="#">Custom Landing Pages</a></h4>
                     </div>
                 </div>
-
-                <!-- Feature 4: Lead Tracking & Reporting -->
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-chart-bar fa-3x mb-3"></i>
@@ -530,8 +556,6 @@
                         <h4><a href="#">Lead Tracking & Reporting</a></h4>
                     </div>
                 </div>
-
-                <!-- Feature 5: B2B & B2C Expertise -->
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-briefcase fa-3x mb-3"></i>
@@ -542,8 +566,6 @@
                         <h4><a href="#">B2B & B2C Expertise</a></h4>
                     </div>
                 </div>
-
-                <!-- Feature 6: Transparent Budget Utilization -->
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-receipt fa-3x mb-3"></i>
@@ -554,7 +576,6 @@
                         <h4><a href="#">Transparent Budget Utilization</a></h4>
                     </div>
                 </div>
-
             </div>
         </div>
     </div>

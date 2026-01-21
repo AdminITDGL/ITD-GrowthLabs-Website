@@ -130,6 +130,33 @@
             text-transform: uppercase;
             color: #000;
         }
+
+        .form-with-profile {
+            background: #fff;
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+        }
+
+        .form-header-orange {
+            background: var(--color-primary);
+            position: relative;
+            text-align: center;
+        }
+
+        .profile-images-container {
+            position: relative;
+            margin-bottom: 10px;
+            padding-top: 5px;
+        }
+
+        .profile-main {
+            width: 60%;
+            height: auto;
+            display: block;
+            object-fit: cover;
+            margin: auto;
+        }
     </style>
 </head>
 
@@ -380,58 +407,65 @@
                         </div>
                     </div>
                     <div class="col-tact-stye-one col-lg-5 offset-lg-1">
-                        <div class="contact-form-style-one">
-                            <div class="information">
-                                <h4 class="wow fadeInUp mb-30 text-center" data-wow-delay="500ms" data-wow-duration="400ms">
-                                    <b>Get a Free Video Production Quote</b>
-                                </h4>
-                            </div>
-                            <form id="videoProductionForm">
-                                <input type="hidden" name="username_hp">
-                                <div class="row">
-                                    <div class="col-lg-6">
-                                        <div class="form-group">
-                                            <input type="text" name="full_name" class="form-control" placeholder="Full Name *" required>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6">
-                                        <div class="form-group">
-                                            <input type="text" name="company_name" class="form-control" placeholder="Company Name *" required>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6">
-                                        <div class="form-group">
-                                            <input type="email" name="email" class="form-control" placeholder="Email Address *" required>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6">
-                                        <div class="form-group">
-                                            <input type="text" name="phone" class="form-control" placeholder="Phone Number *" required>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-12">
-                                        <div class="form-group">
-                                            <select name="video_type" class="form-control" required>
-                                                <option value="">Type of Video *</option>
-                                                <option value="Product">Product</option>
-                                                <option value="Ad">Ad</option>
-                                                <option value="Real Estate">Real Estate</option>
-                                                <option value="Factory">Factory</option>
-                                                <option value="Other">Other</option>
-                                            </select>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-12">
-                                        <div class="form-group">
-                                            <textarea name="message" class="form-control" placeholder="Message / Requirements *" required></textarea>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-12">
-                                        <button type="submit" class="btn btn-primary">Request Quote Now</button>
-                                    </div>
+                        <div class="contact-form-style-one form-with-profile wow fadeInUp p-0" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <div class="form-header-orange">
+                                <div class="profile-images-container">
+                                    <img src="../assets/img/form-profile-image.png" alt="Expert" class="profile-main" oncontextmenu="return false;" draggable="false" ondragstart="return false;">
                                 </div>
-                                <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response-vp">
-                            </form>
+                            </div>
+                            <div class="form-content p-3">
+                                <div class="information">
+                                    <h4 class="wow fadeInUp mb-30 text-center" data-wow-delay="500ms" data-wow-duration="400ms">
+                                        <b>Get a Free Video Production Quote</b>
+                                    </h4>
+                                </div>
+                                <form id="videoProductionForm">
+                                    <input type="hidden" name="username_hp">
+                                    <div class="row">
+                                        <div class="col-lg-6">
+                                            <div class="form-group">
+                                                <input type="text" name="full_name" class="form-control" placeholder="Full Name *" required>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="form-group">
+                                                <input type="text" name="company_name" class="form-control" placeholder="Company Name *" required>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="form-group">
+                                                <input type="email" name="email" class="form-control" placeholder="Email Address *" required>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="form-group">
+                                                <input type="text" name="phone" class="form-control" placeholder="Phone Number *" required>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-12">
+                                            <div class="form-group">
+                                                <select name="video_type" class="form-control" required>
+                                                    <option value="">Type of Video *</option>
+                                                    <option value="Product">Product</option>
+                                                    <option value="Ad">Ad</option>
+                                                    <option value="Real Estate">Real Estate</option>
+                                                    <option value="Factory">Factory</option>
+                                                    <option value="Other">Other</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-12">
+                                            <div class="form-group">
+                                                <textarea name="message" class="form-control" rows="4" placeholder="Message / Requirements *" required></textarea>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-12">
+                                            <button type="submit" class="btn btn-primary w-100">Submit Now <i class="fas fa-arrow-up" style="margin-left: 8px;rotate: 45deg;"></i></button>
+                                        </div>
+                                    </div>
+                                    <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response-vp">
+                                </form>
+                            </div>
                         </div>
                     </div>
                 </div>
