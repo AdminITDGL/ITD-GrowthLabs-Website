@@ -50,7 +50,7 @@
     </script>
     <script>
         gtag('event', 'conversion', {
-            'send_to': 'AW-17674012925/KnycCOOS47IbEP2R0OtB'
+            'send_to': 'AW-17674012925/yqcfCK_AgusbEP2R0OtB'
         });
     </script>
 

@@ -1502,15 +1502,6 @@
                         </div>
                         <div class="swiper-slide">
                             <div class="industry-card">
-                                <div class="industry-bg" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1607083206869-4c7672e72a8a?w=800&q=80'); background-size: cover; background-position: center;"></div>
-                                <div class="industry-overlay">
-                                    <i class="fas fa-truck"></i>
-                                    <span>Delivery</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="industry-card">
                                 <div class="industry-bg" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'); background-size: cover; background-position: center;"></div>
                                 <div class="industry-overlay">
                                     <i class="fas fa-shipping-fast"></i>
@@ -1587,7 +1578,7 @@
                         <h2 class="title text-white mb-30">Ready to Build Your App?</h2>
                         <p class="text-white">Work with a trusted mobile app development services in India team for long-term success.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" https://wa.me/918450978544?text=Hello%2C%20I%20need%20more%20information%20about%20your%20mobile%20and%20web%20app%20development%20services." target="_blank">Let's Talk</a>
+                            <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Let's Talk</a>
                         </div>
                     </div>
                 </div>
