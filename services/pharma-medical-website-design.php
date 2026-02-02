@@ -73,6 +73,51 @@
 
         gtag('config', 'AW-17674012925');
     </script>
+    <style>
+        .form-with-profile {
+            background: #fff;
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+        }
+
+        .form-header-orange {
+            background: var(--color-primary);
+            position: relative;
+            text-align: center;
+        }
+
+        .profile-images-container {
+            position: relative;
+            margin-bottom: 10px;
+            padding-top: 5px;
+        }
+
+        .profile-main {
+            width: 60%;
+            height: auto;
+            display: block;
+            object-fit: cover;
+            margin: auto;
+        }
+
+        .fun-fact {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .fun-fact .counter {
+            justify-content: center;
+            width: 100%;
+        }
+
+        .fun-fact h4 {
+            margin-top: 10px;
+            margin-bottom: 0;
+        }
+    </style>
 
 </head>
 
@@ -309,7 +354,7 @@
         <div class="container">
             <div class="content">
                 <div class="row align-center">
-                    <div class="banner-style-three col-lg-6">
+                    <div class="banner-style-three col-lg-7">
                         <div class="information">
                             <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 Compliance Ready <strong>Pharma Website Design</strong>
@@ -322,51 +367,54 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-tact-stye-one col-lg-5 offset-lg-1">
-                        <div class="contact-form-style-one">
-                            <div class="information">
-                                <h4 class="wow fadeInUp mb-30 text-center" data-wow-delay="500ms" data-wow-duration="400ms">
-                                    <b>Drop Us A Message</b>
-                                </h4>
+                    <div class="col-tact-stye-one col-lg-5">
+                        <div class="contact-form-style-one form-with-profile wow fadeInUp p-0" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <div class="form-header-orange">
+                                <div class="profile-images-container">
+                                    <img src="../assets/img/form-profile-image.png" alt="Expert" class="profile-main" oncontextmenu="return false;" draggable="false" ondragstart="return false;">
+                                </div>
                             </div>
-                            <form id="contactMail">
-                                <div class="row">
-                                    <div class="col-lg-6">
-                                        <div class="form-group">
-                                            <input type="hidden" name="username_hp">
-                                            <input type="text" name="name" class="form-control" placeholder="Name *" required>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6">
-                                        <div class="form-group">
-                                            <input type="email" name="email" class="form-control" placeholder="Email *" required>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6">
-                                        <div class="form-group">
-                                            <input type="text" name="mobile" class="form-control" placeholder="Mobile No. *" required>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6">
-                                        <div class="form-group">
-                                            <input type="text" name="subject" class="form-control" placeholder="Subject *" required>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-12">
-                                        <div class="form-group comments">
-                                            <textarea name="message" class="form-control" placeholder="Tell Us About Project *" required></textarea>
-                                        </div>
-                                    </div>
+                            <div class="form-content p-3">
+                                <div class="information">
+                                    <h4 class="wow fadeInUp mb-30 text-center" data-wow-delay="500ms" data-wow-duration="400ms">
+                                        <b>Drop Us A Message</b>
+                                    </h4>
                                 </div>
-                                <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response">
-                                <div class="row">
-                                    <div class="col-lg-12">
-                                        <button type="submit">
-                                            <i class="fa fa-paper-plane"></i> Get in Touch
-                                        </button>
+                                <form id="contactMail">
+                                    <div class="row">
+                                        <div class="col-lg-6">
+                                            <div class="form-group">
+                                                <input type="hidden" name="username_hp">
+                                                <input type="text" name="name" class="form-control" placeholder="Name *" required>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="form-group">
+                                                <input type="email" name="email" class="form-control" placeholder="Email *" required>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="form-group">
+                                                <input type="text" name="mobile" class="form-control" placeholder="Mobile No. *" required>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="form-group">
+                                                <input type="text" name="subject" class="form-control" placeholder="Subject *" required>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-12">
+                                            <div class="form-group comments">
+                                                <textarea name="message" class="form-control" placeholder="Tell Us About Project *" required></textarea>
+                                            </div>
+                                        </div>
+                                        <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response">
+                                        <div class="col-lg-12">
+                                            <button type="submit" class="btn btn-primary w-100">Submit Now <i class="fas fa-arrow-up" style="margin-left: 8px;rotate: 45deg;"></i></button>
+                                        </div>
                                     </div>
-                                </div>
-                            </form>
+                                </form>
+                            </div>
                         </div>
                     </div>
                 </div>
