@@ -360,8 +360,14 @@
                     <div class="banner-style-three col-lg-6">
                         <div class="information">
                             <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
-                                <strong>Grow Your Brand on Facebook, Instagram & LinkedIn</strong>
+                                <strong>Social Media Management for Businesses Just <span class="text-primary">₹9,999 / month*</span></strong>
                             </h2>
+                            <h4 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                                <strong>Instagram - Facebook - LinkedIn</strong>
+                            </h4>
+                            <!-- <h4 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                                <strong>Free Setup - Content Calendar - Performance Tracking</strong>
+                            </h4> -->
                             <p class="wow fadeInUp" data-wow-delay="900ms" data-wow-duration="400ms">
                                 From content creation to campaign management — we help businesses grow their audience and drive engagement through result-oriented social media strategies.
                             </p>
@@ -466,7 +472,7 @@
             </div>
         </div>
     </div>
-    <div class="brand-style-one bg-gradient default-padding">
+    <div class="brand-style-one bg-gradient pt-5 pb-5">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
@@ -944,19 +950,19 @@
                     }).then(function(token) {
                         document.getElementById('g-recaptcha-response-smm').value = token;
 
-                         const formData = new FormData(form);
-                         fetch("../socialMediaFormMail.php", {
-                                 method: "POST",
-                                 body: formData,
-                             })
-                             .then((res) => res.json())
-                             .then((data) => {
-                                 if (data.status === "success") {
-                                     toastr.success("Your enquiry has been sent successfully!");
-                                     form.reset();
-                                     setTimeout(() => {
-                                         window.location.href = "../socialMediaForm_thankyou.php";
-                                     }, 1500);
+                        const formData = new FormData(form);
+                        fetch("../socialMediaFormMail.php", {
+                                method: "POST",
+                                body: formData,
+                            })
+                            .then((res) => res.json())
+                            .then((data) => {
+                                if (data.status === "success") {
+                                    toastr.success("Your enquiry has been sent successfully!");
+                                    form.reset();
+                                    setTimeout(() => {
+                                        window.location.href = "../socialMediaForm_thankyou.php";
+                                    }, 1500);
                                 } else {
                                     toastr.error(data.message || "Something went wrong!");
                                 }

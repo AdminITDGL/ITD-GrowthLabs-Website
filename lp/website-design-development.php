@@ -346,8 +346,11 @@
                     <div class="banner-style-three col-lg-6">
                         <div class="information">
                             <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
-                                <strong>Build a Website That Grows Your Business</strong>
+                                <strong>Build Your Business Website @ <span class="text-primary">₹14,999*</span></strong>
                             </h2>
+                            <h4 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                                <i><strong>Free: SSL - Hosting - SEO Support</strong></i>
+                            </h4>
                             <p class="wow fadeInUp" data-wow-delay="900ms" data-wow-duration="400ms">
                                 Custom-built, SEO-friendly websites designed for performance, conversion, and brand impact — developed in WordPress, PHP, HTML, React, and Ruby.
                             </p>
@@ -464,7 +467,7 @@
             </div>
         </div>
     </div>
-    <div class="brand-style-one bg-gradient default-padding">
+    <div class="brand-style-one bg-gradient pt-5 pb-5">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">

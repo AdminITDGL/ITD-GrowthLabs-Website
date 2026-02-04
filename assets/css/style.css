@@ -7397,7 +7397,7 @@ ul.list-regular li::after {
 .brand-carousel .swiper-slide {
 	border-right: 1px solid rgba(255, 255, 255, 0.5);
 	text-align: center;
-	padding: 30px;
+	/* padding: 30px; */
 }
 
 .brand-style-one h2 {
@@ -7405,9 +7405,9 @@ ul.list-regular li::after {
 	font-weight: 800;
 }
 
-.brand-carousel .swiper-slide img {
+/* .brand-carousel .swiper-slide img {
 	height: 40px;
-}
+} */
 
 .brand-style-one-info {
 	position: relative;

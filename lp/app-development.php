@@ -888,7 +888,7 @@
 
     <!-- Start Clients/Partners
     ============================================= -->
-    <div class="brand-style-one bg-gradient default-padding">
+    <div class="brand-style-one bg-gradient pt-5 pb-5">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
