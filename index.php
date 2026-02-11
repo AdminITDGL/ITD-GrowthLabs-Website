@@ -30,7 +30,7 @@
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="./assets/img/favicon.png" type="image/x-icon">
     <!-- ========== Page Title ========== -->
-    <title>Top B2B Tech & Digital Marketing Company | Web, SEO & Content</title>
+    <title>Best B2B Tech & Digital Marketing Company | Web, SEO & Content</title>
 
     <!-- ========== Favicon Icon ========== -->
     <?php include("./includes/header_script.php") ?>
@@ -93,47 +93,61 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    </div>
-                    <div class="banner-four-shape">
-                        <img src="assets/img/shape/banner-shape.png" alt="Image Not Found">
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="swiper-slide banner-style-four">
-                    <div class="banner-thumb bg-cover shadow dark" style="background: url(assets/img/homepage1.png);">
-                    </div>
-                    <div class="container">
-                        <div class="row align-center">
-                            <div class="col-xl-6 col-lg-7 col-md-10">
-                                <div class="content">
-                                    <h4>Industry-Specific Digital Solutions</h4>
-                                    <h2>Empower Your Business for Lasting Growth</h2>
-                                    <p>
-                                        We create tailored digital strategies that align with your business goals,
-                                        delivering results that make a lasting impact in your industry.
-                                    </p>
-                                    <div class="button">
-                                        <a class="btn btn-theme btn-md animation"
-                                            href="https://calendly.com/itdgrowthlabs-info/30min">Let's Talk</a>
+                            <div class="col-tact-stye-one col-lg-5">
+                                <div class="contact-form-style-one form-with-profile p-0">
+                                    <div class="form-header-orange">
+                                        <div class="profile-images-container">
+                                            <img src="assets/img/form-profile-image.png" alt="Expert" class="profile-main" oncontextmenu="return false;" draggable="false" ondragstart="return false;">
+                                        </div>
                                     </div>
-
+                                    <div class="form-content p-3">
+                                        <div class="information">
+                                            <h4 class="mb-30 text-center">
+                                                <b>Drop Us A Message</b>
+                                            </h4>
+                                        </div>
+                                        <form id="contactMail">
+                                            <div class="row">
+                                                <div class="col-lg-6">
+                                                    <div class="form-group">
+                                                        <input type="hidden" name="username_hp">
+                                                        <input type="text" name="name" class="form-control" placeholder="Name *" required>
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-6">
+                                                    <div class="form-group">
+                                                        <input type="email" name="email" class="form-control" placeholder="Email *" required>
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-6">
+                                                    <div class="form-group">
+                                                        <input type="text" name="mobile" class="form-control" placeholder="Mobile No. *" required>
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-6">
+                                                    <div class="form-group">
+                                                        <input type="text" name="subject" class="form-control" placeholder="Subject *" required>
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-12">
+                                                    <div class="form-group comments">
+                                                        <textarea name="message" class="form-control" placeholder="Tell Us About Project *" required></textarea>
+                                                    </div>
+                                                </div>
+                                                <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response">
+                                                <div class="col-lg-12">
+                                                    <button type="submit" class="btn btn-primary w-100">Submit Now <i class="fas fa-arrow-up" style="margin-left: 8px;rotate: 45deg;"></i></button>
+                                                </div>
+                                            </div>
+                                        </form>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="banner-four-shape">
-                        <img src="assets/img/shape/banner-shape.png" alt="Image Not Found">
-                    </div>
                 </div>
                 <!-- End Single Item -->
             </div>
-
-            <!-- Navigation -->
-            <div class="swiper-button-prev"></div>
-            <div class="swiper-button-next"></div>
         </div>
     </div>
 
@@ -211,16 +225,16 @@
         </div>
         <div class="container">
             <div class="what-we-do-grid">
-                <div class="featured-col">
+            <div class="featured-col">
                     <div class="featured-box w-100 text-center">
-                        <i class="flaticon-startup-6"></i>
-                        <p>Custom Website Development</p>
+                        <i class="fas fa-mobile-alt"></i>
+                        <p>Mobile App Development</p>
                     </div>
                 </div>
                 <div class="featured-col">
                     <div class="featured-box w-100 text-center">
-                        <i class="fas fa-comments"></i>
-                        <p>B2B Communication Strategy</p>
+                        <i class="flaticon-startup-6"></i>
+                        <p>Custom Website Development</p>
                     </div>
                 </div>
                 <div class="featured-col">
@@ -237,8 +251,8 @@
                 </div>
                 <div class="featured-col">
                     <div class="featured-box w-100 text-center">
-                        <i class="fas fa-handshake"></i>
-                        <p>Lead Nurturing</p>
+                        <i class="fab fa-linkedin"></i>
+                        <p>B2B Social Media</p>
                     </div>
                 </div>
                 <div class="featured-col">
@@ -255,10 +269,12 @@
                 </div>
                 <div class="featured-col">
                     <div class="featured-box w-100 text-center">
-                        <i class="fas fa-mobile-alt"></i>
-                        <p>Mobile App Development</p>
+                        <i class="fas fa-comments"></i>
+                        <p>B2B Communication Strategy</p>
                     </div>
                 </div>
+                
+                
                 <div class="featured-col">
                     <div class="featured-box w-100 text-center">
                         <i class="fas fa-bullseye"></i>
@@ -271,10 +287,11 @@
                         <p>Corporate Branding</p>
                     </div>
                 </div>
+                
                 <div class="featured-col">
                     <div class="featured-box w-100 text-center">
-                        <i class="fab fa-linkedin"></i>
-                        <p>B2B Social Media</p>
+                        <i class="fas fa-handshake"></i>
+                        <p>Lead Nurturing</p>
                     </div>
                 </div>
                 <div class="featured-col">
@@ -574,6 +591,33 @@
             width: 18px;
             text-align: center;
             transition: 0.35s;
+        }
+
+        .form-with-profile {
+            background: #fff;
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+        }
+
+        .form-header-orange {
+            background: var(--color-primary);
+            position: relative;
+            text-align: center;
+        }
+
+        .profile-images-container {
+            position: relative;
+            margin-bottom: 10px;
+            padding-top: 5px;
+        }
+
+        .profile-main {
+            width: 60%;
+            height: auto;
+            display: block;
+            object-fit: cover;
+            margin: auto;
         }
     </style>
 
