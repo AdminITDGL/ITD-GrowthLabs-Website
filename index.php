@@ -411,7 +411,7 @@
                                         </ion-text-image>
                                         <ion-text-image role="img" class="image-wrapper image-wrapper--responsive"
                                             breakpoint="md,sm">
-                                            <picture data-crop="overviewHero">
+                                            <!-- <picture data-crop="overviewHero">
                                                 <source
                                                     srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/87/8f/881e52b743ffae36f959c9075f83/unnamed-21.png=n-w580-h373-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/87/8f/881e52b743ffae36f959c9075f83/unnamed-21.png=n-w1160-h746-fcrop64=1,00000000ffffffff-rw 2x"
                                                     media="(min-width: 1440px)" type="image/webp" width="580" height="373">
@@ -446,32 +446,7 @@
                                                     srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/87/8f/881e52b743ffae36f959c9075f83/unnamed-21.png=n-w580-h373-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/87/8f/881e52b743ffae36f959c9075f83/unnamed-21.png=n-w1160-h746-fcrop64=1,00000000ffffffff 2x"
                                                     width="580" height="373" loading="lazy"
                                                     src="https://www.gstatic.com/marketing-cms/assets/images/ads/87/8f/881e52b743ffae36f959c9075f83/unnamed-21.png=n-w580-h373-fcrop64=1,00000000ffffffff">
-                                            </picture>
-                                            <div class="text-image--text-wrapper">
-                                                <div class="text-image--text"
-                                                    style="top: 13px; left: 89px; font-size: 35px; font-family: Google Sans Display, Arial, Helvetica, sans-serif; letter-spacing: 0.7px; color: white; font-weight: 500;"
-                                                    aria-disabled="true" aria-hidden="true">
-                                                    Search
-                                                </div>
-                                                <div class="text-image--text"
-                                                    style="top: 131px; left: 95px; font-size: 24px; font-weight: 700; font-family: Arial, Helvetica, sans-serif; color: var(--glue-grey-600);"
-                                                    aria-disabled="true" aria-hidden="true">
-                                                    Ad
-                                                </div>
-                                                <div class="text-image--text"
-                                                    style="height: 3.5px; width: 3.5px; background-color: var(--glue-grey-600); border-radius: 50%; left: 140px; top: 148px;"
-                                                    aria-disabled="true" aria-hidden="true"></div>
-                                                <div class="text-image--text"
-                                                    style="top: 131px; left: 159px; font-size: 24px; color: var(--glue-grey-600); -webkit-font-smoothing: antialiased;"
-                                                    aria-disabled="true" aria-hidden="true">
-                                                    example-business.com
-                                                </div>
-                                                <div class="text-image--text"
-                                                    style="top: 167px; left: 95px; font-size: 32px; font-family: Google Sans Display, Arial, Helvetica, sans-serif; letter-spacing: 0.4px; color: var(--glue-yellow-800); font-weight: 500;"
-                                                    aria-disabled="true" aria-hidden="true">
-                                                    Modern Design &amp; Co
-                                                </div>
-                                            </div>
+                                            </picture> -->
                                         </ion-text-image>
                                     </div>
                                 </div>
