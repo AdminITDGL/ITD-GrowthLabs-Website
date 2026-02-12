@@ -44,6 +44,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $mail->CharSet = 'UTF-8';
         $mail->setFrom('info@itdgrowthlabs.com', 'ITD Growth Labs');
         $mail->addAddress('info@itdgrowthlabs.com', 'ITD Growth Labs');
+        $mail->addAddress('kushal@itdservices.in', 'ITD Growth Labs');
         $mail->addReplyTo($email, $name);
         $mail->isHTML(true);
         $mail->Subject = "New Enquiry Form Submission";
