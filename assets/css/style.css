@@ -5772,7 +5772,7 @@ a.btn-service {
 		grid-template-columns: repeat(2, 1fr);
 		gap: 15px;
 	}
-	
+
 	.what-we-do .featured-col .featured-box {
 		border: 1px solid var(--black) !important;
 		margin-bottom: 0;
@@ -5786,21 +5786,21 @@ a.btn-service {
 		grid-template-columns: repeat(2, 1fr);
 		gap: 15px;
 	}
-	
+
 	.what-we-do .featured-col .featured-box {
 		border: 1px solid var(--black) !important;
 		margin-bottom: 0;
 		min-height: 100px;
 		padding: 12px 10px;
 	}
-	
+
 	.what-we-do .featured-box i {
 		font-size: 40px;
 		width: 50px;
 		height: 50px;
 		margin-bottom: 10px;
 	}
-	
+
 	.what-we-do .featured-box p {
 		font-size: 12px;
 	}
@@ -9222,6 +9222,21 @@ footer .footer-bottom p {
 	.contact-form-style-one {
 		padding: 50px;
 	}
+
+	/* Remove visibility hidden from wow elements on mobile */
+	.contact-form-style-one.form-with-profile.wow {
+		visibility: visible !important;
+		animation-name: none !important;
+	}
+}
+
+
+/* Remove visibility hidden from wow elements on mobile */
+@media (max-width: 991px) {
+	.contact-form-style-one.form-with-profile.wow {
+		visibility: visible !important;
+		animation-name: none !important;
+	}
 }
 
 /* Desktop Mini */
@@ -9618,9 +9633,9 @@ body {
 }
 
 header {
-    box-shadow: 0 8px 25px 0 rgba(0, 0, 0, 0.04);
+	box-shadow: 0 8px 25px 0 rgba(0, 0, 0, 0.04);
 }
 
-.post-title{
+.post-title {
 	text-transform: capitalize !important;
 }
