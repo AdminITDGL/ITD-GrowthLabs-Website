@@ -837,46 +837,39 @@
                                         <b>Get a Free Consultation</b>
                                     </h4>
                                 </div>
-                                <form id="appDevelopmentForm">
+                                <form id="contactMail">
                                     <input type="hidden" name="username_hp">
                                     <div class="row">
                                         <div class="col-lg-6">
                                             <div class="form-group">
-                                                <input type="text" name="full_name" class="form-control" placeholder="Full Name *" required>
+                                                <input type="text" name="name" class="form-control" placeholder="Name *" required>
                                             </div>
                                         </div>
                                         <div class="col-lg-6">
                                             <div class="form-group">
-                                                <input type="email" name="email" class="form-control" placeholder="E-mail *" required>
+                                                <input type="email" name="email" class="form-control" placeholder="Email *" required>
                                             </div>
                                         </div>
                                         <div class="col-lg-6">
                                             <div class="form-group">
-                                                <input type="text" name="phone" class="form-control" placeholder="Phone Number *" required>
+                                                <input type="text" name="mobile" class="form-control" placeholder="Mobile No. *" required>
                                             </div>
                                         </div>
                                         <div class="col-lg-6">
                                             <div class="form-group">
-                                                <select name="budget" class="form-control" required>
-                                                    <option value="">Budget *</option>
-                                                    <option value="Under ₹50,000">Under ₹50,000</option>
-                                                    <option value="₹50,000 - ₹1,00,000">₹50,000 - ₹1,00,000</option>
-                                                    <option value="₹1,00,000 - ₹3,00,000">₹1,00,000 - ₹3,00,000</option>
-                                                    <option value="₹3,00,000 - ₹5,00,000">₹3,00,000 - ₹5,00,000</option>
-                                                    <option value="Above ₹5,00,000">Above ₹5,00,000</option>
-                                                </select>
+                                                <input type="text" name="subject" class="form-control" placeholder="Subject *" required>
                                             </div>
                                         </div>
                                         <div class="col-lg-12">
                                             <div class="form-group">
-                                                <textarea name="requirement" class="form-control" rows="4" placeholder="Requirement *" required></textarea>
+                                                <textarea name="message" class="form-control" rows="4" placeholder="Tell Us About Project *" required></textarea>
                                             </div>
                                         </div>
                                         <div class="col-lg-12">
                                             <button type="submit" class="btn btn-primary w-100">Submit Now <i class="fas fa-arrow-up" style="margin-left: 8px;rotate: 45deg;"></i></button>
                                         </div>
                                     </div>
-                                    <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response-app">
+                                    <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response">
                                 </form>
                             </div>
                         </div>
@@ -1784,17 +1777,17 @@
                 closeButton: true,
                 progressBar: true,
             };
-            const form = document.getElementById("appDevelopmentForm");
+            const form = document.getElementById("contactMail");
             form.addEventListener("submit", function(e) {
                 e.preventDefault();
                 grecaptcha.ready(function() {
                     grecaptcha.execute('6Lcm0hosAAAAAPFeuKRDfgGF4Ajr9bcCCbD7LR-3', {
-                        action: 'app_development_form'
+                        action: 'contact_form'
                     }).then(function(token) {
-                        document.getElementById('g-recaptcha-response-app').value = token;
+                        document.getElementById('g-recaptcha-response').value = token;
 
                         const formData = new FormData(form);
-                        fetch("../appDevelopmentFormMail.php", {
+                        fetch("../contactMail.php", {
                                 method: "POST",
                                 body: formData,
                             })
@@ -1804,7 +1797,7 @@
                                     toastr.success("Your enquiry has been sent successfully!");
                                     form.reset();
                                     setTimeout(() => {
-                                        window.location.href = "../appDevelopmentForm_thankyou.php";
+                                        window.location.href = "../thankyou.php";
                                     }, 1500);
                                 } else {
                                     toastr.error(data.message || "Something went wrong!");
