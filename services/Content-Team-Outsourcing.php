@@ -16,7 +16,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content=" Outsource your content needs for SEO writing, social media content creation, and content marketing strategy. Scalable, affordable & ready to deploy solutions for high-quality content.">
     <meta name="keywords" content="Content Marketing for Technology, SEO Blog Writing for Technology, Digital Marketing for Tech Companies, Technical Writing for Technology, Tech Article Writing, SEO Content for Tech, Blog Writing Services for Technology, Technical Content Writing for Technology Companies.">
-    <title>Content Team Outsourcing Services | Content Writing Services</title>
+    <title>Content Team Outsourcing Services for Businesses
+    </title>
 
 
 

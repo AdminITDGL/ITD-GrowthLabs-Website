@@ -15,7 +15,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Scale faster with expert IT teams on-demand. Get dedicated developers, QA experts, designers, project managers & more tailored to your project needs.">
-    <title>IT Team Outsourcing | ITD GrowthLabs</title>
+    <title>Dedicated IT Team Outsourcing Services</title>
 
 
 

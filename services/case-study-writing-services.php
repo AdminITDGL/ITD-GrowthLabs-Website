@@ -16,7 +16,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Case study writing for businesses. Expertly written case studies to establish and reinforce your brand as an industry leader.">
     <meta name="keywords" content="Case Study Writing Services, Business Case Studies, Professional Case Study Writers, Industry-Specific Case Studies, Marketing Case Studies, Brand Case Studies, GrowthLabs Case Study Writing.">
-    <title>Business Case Study Writing Services | Content Writing Servicess</title>
+    <title>B2B Case Study Writing Services
+    </title>
 
 
 

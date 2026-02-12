@@ -16,7 +16,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Launch your business online faster with affordable template-based website development. Quick turnaround, responsive designs, and SEO-friendly layouts.">
     <meta name="keywords" content="Content Marketing for Technology, SEO Blog Writing for Technology, Digital Marketing for Tech Companies, Technical Writing for Technology, Tech Article Writing, SEO Content for Tech, Blog Writing Services for Technology, Technical Content Writing for Technology Companies.">
-    <title>Template-Based Website Development Services | ITD GrowthLabs</title>
+    <title>Affordable Template Website Development for SMEs
+    </title>
 
 
 

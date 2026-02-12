@@ -16,7 +16,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Looking for expert Product Description Writing Services for eCommerce? GrowthLabs offers high-quality, SEO-optimized product descriptions to enhance your online store's performance and boost sales.">
     <meta name="keywords" content="Product Description Writing Services, eCommerce Product Descriptions, SEO Product Descriptions, Product Description Copywriting, eCommerce Writing Services, Product Description Writing for Online Stores, GrowthLabs Product Writing Services.">
-    <title>Best Product Description Writing Services for eCommerce</title>
+    <title>Product Description Writing for E-Commerce
+    </title>
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
 

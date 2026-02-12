@@ -29,7 +29,8 @@
     <meta name="keywords" content="Chemical, Manufacturers, Industries, Website, Design, Chemical Website Design, Chemical Manufacturers Website, Chemical Industries Website Development">
 
     <!-- ========== Page Title ========== -->
-    <title>Website Design for Chemical Manufacturing Companies | GrowthLabs</title>
+    <title>Chemical Manufacturing Website Design Company
+    </title>
 
 
     <!-- ========== Favicon Icon ========== -->

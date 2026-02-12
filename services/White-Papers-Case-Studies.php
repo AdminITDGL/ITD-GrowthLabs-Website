@@ -16,7 +16,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Boost credibility with expert White Papers & case study writing. Drive trust, leads & SEO ranking with proven strategies that drive growth, performance, and innovation.">
     <meta name="keywords" content="Content Marketing for Technology, SEO Blog Writing for Technology, Digital Marketing for Tech Companies, Technical Writing for Technology, Tech Article Writing, SEO Content for Tech, Blog Writing Services for Technology, Technical Content Writing for Technology Companies.">
-    <title>White Papers & Case Studies | Content Writing Services</title>
+    <title>White Paper Writing Services for B2B Companies
+    </title>
 
 
 

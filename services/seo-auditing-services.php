@@ -16,7 +16,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Looking for expert SEO Auditing Services to enhance your website's performance and boost search engine rankings? GrowthLabs offers comprehensive SEO audits to identify issues and provide actionable recommendations for optimization.">
     <meta name="keywords" content="SEO Auditing Services, SEO Audit, SEO Analysis, Website SEO Check, SEO Performance, Technical SEO Audit, SEO Optimization, SEO Website Review, SEO Strategy">
-    <title>Expert SEO Audit Services to Boost Your Rankings | SEO Auditing</title>
+    <title>Technical SEO Audit & Optimization Services
+    </title>
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">

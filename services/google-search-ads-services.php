@@ -16,7 +16,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Looking for expert Google Ads Services? GrowthLabs offers professional Google Ads management to increase your online visibility, drive targeted traffic, and boost conversions for your business.">
     <meta name="keywords" content="Google Ads Services, Google Ads Management, Pay-Per-Click Ads, PPC Management, Google Ads Campaigns, Online Advertising, GrowthLabs Google Ads, PPC Experts India">
-    <title>Best Google Ads Services Company | PPC Management Experts</title>
+    <title>Google Ads Management Company for Lead Generation
+    </title>
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
 

@@ -15,7 +15,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Get scalable, user-friendly mobile app development solutions. From Android to iOS apps, we build custom apps that drive engagement and business growth.">
-    <title>Custom App Development Services | Mobile App Solutions | ITD GrowthLabs</title>
+    <title>Mobile App Development Company | iOS & Android
+    </title>
 
 
 

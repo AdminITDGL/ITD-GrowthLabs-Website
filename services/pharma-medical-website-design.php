@@ -29,7 +29,8 @@
     <meta name="keywords" content="Medical, Pharma, Company, Website, Design, Healthcare, Pharma Website Design, Medical Company Website, Healthcare Website Development">
 
     <!-- ========== Page Title ========== -->
-    <title>Website Design for Pharma & Medical Companies | GrowthLabs</title>
+    <title>Pharma & Medical Website Development Company
+    </title>
 
 
     <!-- ========== Favicon Icon ========== -->

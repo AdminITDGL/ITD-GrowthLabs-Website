@@ -29,7 +29,8 @@
     <meta name="keywords" content="Website, Design, Textile, Garment, Manufacturers, Fashion, Industry, Textile Website Design, Garment Manufacturers Website, Fashion Industry Website">
 
     <!-- ========== Page Title ========== -->
-    <title>Website Design for Textile & Garment Manufacturers | GrowthLabs</title>
+    <title>Textile & Garment Website Design Company
+    </title>
 
 
     <!-- ========== Favicon Icon ========== -->
