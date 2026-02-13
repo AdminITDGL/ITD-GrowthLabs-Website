@@ -260,7 +260,7 @@
                                             breakpoint="xl,lg">
                                             <picture data-crop="overviewHero">
                                                 <img class="Image" alt="AI Automation Systems"
-                                                    src="./assets/img/banner/marketing.jpg"
+                                                    src="./assets/img/banner/Marketing.jpg"
                                                     width="380" height="473" loading="lazy">
                                             </picture>
                                         </ion-text-image>
@@ -268,7 +268,7 @@
                                             breakpoint="md,sm">
                                             <picture data-crop="overviewHero">
                                                 <img class="Image" alt="Data-Driven Marketing"
-                                                    src="./assets/img/banner/marketing.jpg"
+                                                    src="./assets/img/banner/Marketing.jpg"
                                                     width="380" height="463" loading="lazy">
                                             </picture>
                                         </ion-text-image>
