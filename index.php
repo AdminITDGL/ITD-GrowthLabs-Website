@@ -380,7 +380,6 @@
                 <div class="row">
                     <div class="col-lg-8 offset-lg-2">
                         <div class="site-heading text-center">
-                            <h5 class="sub-title">What We Offer</h5>
                             <h2 class="title">What We Do</h2>
                         </div>
                     </div>
