@@ -314,7 +314,7 @@
             </div>
         </main>
 
-        <div class="brand-style-one pt-5 pb-2 mt-3">
+        <div class="brand-style-one pt-5 pb-2 mt-3 mb-4">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 offset-lg-2">
