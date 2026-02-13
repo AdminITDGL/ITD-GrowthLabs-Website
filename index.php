@@ -158,6 +158,16 @@
             .grecaptcha-badge {
                 visibility: hidden;
             }
+
+            /* Banner images styling */
+            .ion-overview-hero .Image {
+                border: 5px solid #dadce0;
+                border-radius: 8px;
+                max-width: 60%;
+                height: auto;
+                display: block;
+                margin: 0 auto;
+            }
         </style>
     </head>
 
@@ -169,7 +179,7 @@
         </div>
         <main id="page-content" tabindex="-1">
             <div class="modules-lib__page">
-                <section class="ion-overview-hero glue-spacer-6-bottom"
+                <section class="ion-overview-hero glue-spacer-3-bottom glue-spacer-3-top"
                     data-tracking-module="overviewhero">
                     <div class="ion-overview-hero__animated-items ion-overview-hero__animated-items--center"
                         data-overview-hero-animation="standard">
@@ -206,81 +216,19 @@
                                     <div class="text-image-wrapper">
                                         <ion-text-image role="img" class="image-wrapper image-wrapper--responsive"
                                             breakpoint="xl,lg">
-                                            <!-- <picture data-crop="overviewHero">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/1f/03/a80539c845e9b0bdc7c11322b071/unnamed-1.png=n-w452-h548-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/1f/03/a80539c845e9b0bdc7c11322b071/unnamed-1.png=n-w904-h1096-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    media="(min-width: 1440px)" type="image/webp" width="452" height="548">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/1f/03/a80539c845e9b0bdc7c11322b071/unnamed-1.png=n-w452-h548-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/1f/03/a80539c845e9b0bdc7c11322b071/unnamed-1.png=n-w904-h1096-fcrop64=1,00000000ffffffff 2x"
-                                                    media="(min-width: 1440px)" width="452" height="548">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/1f/03/a80539c845e9b0bdc7c11322b071/unnamed-1.png=n-w452-h548-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/1f/03/a80539c845e9b0bdc7c11322b071/unnamed-1.png=n-w904-h1096-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    media="(min-width: 1024px)" type="image/webp" width="452" height="548">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/1f/03/a80539c845e9b0bdc7c11322b071/unnamed-1.png=n-w452-h548-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/1f/03/a80539c845e9b0bdc7c11322b071/unnamed-1.png=n-w904-h1096-fcrop64=1,00000000ffffffff 2x"
-                                                    media="(min-width: 1024px)" width="452" height="548">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/1f/03/a80539c845e9b0bdc7c11322b071/unnamed-1.png=n-w452-h548-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/1f/03/a80539c845e9b0bdc7c11322b071/unnamed-1.png=n-w904-h1096-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    media="(min-width: 600px)" type="image/webp" width="452" height="548">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/1f/03/a80539c845e9b0bdc7c11322b071/unnamed-1.png=n-w452-h548-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/1f/03/a80539c845e9b0bdc7c11322b071/unnamed-1.png=n-w904-h1096-fcrop64=1,00000000ffffffff 2x"
-                                                    media="(min-width: 600px)" width="452" height="548">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/1f/03/a80539c845e9b0bdc7c11322b071/unnamed-1.png=n-w452-h548-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/1f/03/a80539c845e9b0bdc7c11322b071/unnamed-1.png=n-w904-h1096-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    media="(max-width: 599px)" type="image/webp" width="452" height="548">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/1f/03/a80539c845e9b0bdc7c11322b071/unnamed-1.png=n-w452-h548-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/1f/03/a80539c845e9b0bdc7c11322b071/unnamed-1.png=n-w904-h1096-fcrop64=1,00000000ffffffff 2x"
-                                                    media="(max-width: 599px)" width="452" height="548">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/1f/03/a80539c845e9b0bdc7c11322b071/unnamed-1.png=n-w452-h548-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/1f/03/a80539c845e9b0bdc7c11322b071/unnamed-1.png=n-w904-h1096-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    type="image/webp" width="452" height="548">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/1f/03/a80539c845e9b0bdc7c11322b071/unnamed-1.png=n-w452-h548-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/1f/03/a80539c845e9b0bdc7c11322b071/unnamed-1.png=n-w904-h1096-fcrop64=1,00000000ffffffff 2x"
-                                                    width="452" height="548">
-                                                <img class="Image" alt=""
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/1f/03/a80539c845e9b0bdc7c11322b071/unnamed-1.png=n-w452-h548-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/1f/03/a80539c845e9b0bdc7c11322b071/unnamed-1.png=n-w904-h1096-fcrop64=1,00000000ffffffff 2x"
-                                                    width="452" height="548" fetchpriority="high"
-                                                    src="https://www.gstatic.com/marketing-cms/assets/images/ads/1f/03/a80539c845e9b0bdc7c11322b071/unnamed-1.png=n-w452-h548-fcrop64=1,00000000ffffffff">
-                                            </picture> -->
+                                            <picture data-crop="overviewHero">
+                                                <img class="Image" alt="Web Development"
+                                                    src="./assets/img/banner/Website.jpeg"
+                                                    width="352" height="448" fetchpriority="high">
+                                            </picture>
                                         </ion-text-image>
                                         <ion-text-image role="img" class="image-wrapper image-wrapper--responsive"
                                             breakpoint="md,sm">
-                                            <!-- <picture data-crop="overviewHero">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/53/de/ead5280840bd9e514fa1983dacec/unnamed-2.png=n-w453-h528-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/53/de/ead5280840bd9e514fa1983dacec/unnamed-2.png=n-w906-h1056-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    media="(min-width: 1440px)" type="image/webp" width="453" height="528">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/53/de/ead5280840bd9e514fa1983dacec/unnamed-2.png=n-w453-h528-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/53/de/ead5280840bd9e514fa1983dacec/unnamed-2.png=n-w906-h1056-fcrop64=1,00000000ffffffff 2x"
-                                                    media="(min-width: 1440px)" width="453" height="528">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/53/de/ead5280840bd9e514fa1983dacec/unnamed-2.png=n-w453-h528-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/53/de/ead5280840bd9e514fa1983dacec/unnamed-2.png=n-w906-h1056-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    media="(min-width: 1024px)" type="image/webp" width="453" height="528">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/53/de/ead5280840bd9e514fa1983dacec/unnamed-2.png=n-w453-h528-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/53/de/ead5280840bd9e514fa1983dacec/unnamed-2.png=n-w906-h1056-fcrop64=1,00000000ffffffff 2x"
-                                                    media="(min-width: 1024px)" width="453" height="528">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/53/de/ead5280840bd9e514fa1983dacec/unnamed-2.png=n-w453-h528-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/53/de/ead5280840bd9e514fa1983dacec/unnamed-2.png=n-w906-h1056-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    media="(min-width: 600px)" type="image/webp" width="453" height="528">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/53/de/ead5280840bd9e514fa1983dacec/unnamed-2.png=n-w453-h528-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/53/de/ead5280840bd9e514fa1983dacec/unnamed-2.png=n-w906-h1056-fcrop64=1,00000000ffffffff 2x"
-                                                    media="(min-width: 600px)" width="453" height="528">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/53/de/ead5280840bd9e514fa1983dacec/unnamed-2.png=n-w453-h528-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/53/de/ead5280840bd9e514fa1983dacec/unnamed-2.png=n-w906-h1056-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    media="(max-width: 599px)" type="image/webp" width="453" height="528">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/53/de/ead5280840bd9e514fa1983dacec/unnamed-2.png=n-w453-h528-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/53/de/ead5280840bd9e514fa1983dacec/unnamed-2.png=n-w906-h1056-fcrop64=1,00000000ffffffff 2x"
-                                                    media="(max-width: 599px)" width="453" height="528">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/53/de/ead5280840bd9e514fa1983dacec/unnamed-2.png=n-w453-h528-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/53/de/ead5280840bd9e514fa1983dacec/unnamed-2.png=n-w906-h1056-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    type="image/webp" width="453" height="528">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/53/de/ead5280840bd9e514fa1983dacec/unnamed-2.png=n-w453-h528-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/53/de/ead5280840bd9e514fa1983dacec/unnamed-2.png=n-w906-h1056-fcrop64=1,00000000ffffffff 2x"
-                                                    width="453" height="528">
-                                                <img class="Image" alt=""
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/53/de/ead5280840bd9e514fa1983dacec/unnamed-2.png=n-w453-h528-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/53/de/ead5280840bd9e514fa1983dacec/unnamed-2.png=n-w906-h1056-fcrop64=1,00000000ffffffff 2x"
-                                                    width="453" height="528" fetchpriority="high"
-                                                    src="https://www.gstatic.com/marketing-cms/assets/images/ads/53/de/ead5280840bd9e514fa1983dacec/unnamed-2.png=n-w453-h528-fcrop64=1,00000000ffffffff">
-                                            </picture> -->
+                                            <picture data-crop="overviewHero">
+                                                <img class="Image" alt="Mobile App Development"
+                                                    src="./assets/img/banner/Website.jpeg"
+                                                    width="353" height="428" fetchpriority="high">
+                                            </picture>
                                         </ion-text-image>
                                     </div>
                                 </div>
@@ -289,81 +237,19 @@
                                     <div class="text-image-wrapper">
                                         <ion-text-image role="img" class="image-wrapper image-wrapper--responsive"
                                             breakpoint="xl,lg">
-                                            <!-- <picture data-crop="overviewHero">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/ae/6a/4d1e708c41adb4f6f8914a43ad2e/unnamed-3.png=n-w580-h483-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/ae/6a/4d1e708c41adb4f6f8914a43ad2e/unnamed-3.png=n-w1161-h966-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    media="(min-width: 1440px)" type="image/webp" width="580" height="483">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/ae/6a/4d1e708c41adb4f6f8914a43ad2e/unnamed-3.png=n-w580-h483-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/ae/6a/4d1e708c41adb4f6f8914a43ad2e/unnamed-3.png=n-w1161-h966-fcrop64=1,00000000ffffffff 2x"
-                                                    media="(min-width: 1440px)" width="580" height="483">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/ae/6a/4d1e708c41adb4f6f8914a43ad2e/unnamed-3.png=n-w580-h483-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/ae/6a/4d1e708c41adb4f6f8914a43ad2e/unnamed-3.png=n-w1161-h966-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    media="(min-width: 1024px)" type="image/webp" width="580" height="483">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/ae/6a/4d1e708c41adb4f6f8914a43ad2e/unnamed-3.png=n-w580-h483-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/ae/6a/4d1e708c41adb4f6f8914a43ad2e/unnamed-3.png=n-w1161-h966-fcrop64=1,00000000ffffffff 2x"
-                                                    media="(min-width: 1024px)" width="580" height="483">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/ae/6a/4d1e708c41adb4f6f8914a43ad2e/unnamed-3.png=n-w540-h449-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/ae/6a/4d1e708c41adb4f6f8914a43ad2e/unnamed-3.png=n-w1080-h898-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    media="(min-width: 600px)" type="image/webp" width="540" height="449">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/ae/6a/4d1e708c41adb4f6f8914a43ad2e/unnamed-3.png=n-w540-h449-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/ae/6a/4d1e708c41adb4f6f8914a43ad2e/unnamed-3.png=n-w1080-h898-fcrop64=1,00000000ffffffff 2x"
-                                                    media="(min-width: 600px)" width="540" height="449">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/ae/6a/4d1e708c41adb4f6f8914a43ad2e/unnamed-3.png=n-w540-h449-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/ae/6a/4d1e708c41adb4f6f8914a43ad2e/unnamed-3.png=n-w1080-h898-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    media="(max-width: 599px)" type="image/webp" width="540" height="449">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/ae/6a/4d1e708c41adb4f6f8914a43ad2e/unnamed-3.png=n-w540-h449-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/ae/6a/4d1e708c41adb4f6f8914a43ad2e/unnamed-3.png=n-w1080-h898-fcrop64=1,00000000ffffffff 2x"
-                                                    media="(max-width: 599px)" width="540" height="449">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/ae/6a/4d1e708c41adb4f6f8914a43ad2e/unnamed-3.png=n-w580-h483-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/ae/6a/4d1e708c41adb4f6f8914a43ad2e/unnamed-3.png=n-w1161-h966-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    type="image/webp" width="580" height="483">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/ae/6a/4d1e708c41adb4f6f8914a43ad2e/unnamed-3.png=n-w580-h483-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/ae/6a/4d1e708c41adb4f6f8914a43ad2e/unnamed-3.png=n-w1161-h966-fcrop64=1,00000000ffffffff 2x"
-                                                    width="580" height="483">
-                                                <img class="Image" alt=""
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/ae/6a/4d1e708c41adb4f6f8914a43ad2e/unnamed-3.png=n-w580-h483-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/ae/6a/4d1e708c41adb4f6f8914a43ad2e/unnamed-3.png=n-w1161-h966-fcrop64=1,00000000ffffffff 2x"
-                                                    width="580" height="483" loading="lazy"
-                                                    src="https://www.gstatic.com/marketing-cms/assets/images/ads/ae/6a/4d1e708c41adb4f6f8914a43ad2e/unnamed-3.png=n-w580-h483-fcrop64=1,00000000ffffffff">
-                                            </picture> -->
+                                            <picture data-crop="overviewHero">
+                                                <img class="Image" alt="Data-Driven Marketing"
+                                                    src="./assets/img/banner/mobile.jpg"
+                                                    width="380" height="483" loading="lazy">
+                                            </picture>
                                         </ion-text-image>
                                         <ion-text-image role="img" class="image-wrapper image-wrapper--responsive"
                                             breakpoint="md,sm">
-                                            <!-- <picture data-crop="overviewHero">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/23/7a/9450be354b33825e0c1194830305/unnamed-4.png=n-w580-h463-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/23/7a/9450be354b33825e0c1194830305/unnamed-4.png=n-w1160-h926-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    media="(min-width: 1440px)" type="image/webp" width="580" height="463">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/23/7a/9450be354b33825e0c1194830305/unnamed-4.png=n-w580-h463-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/23/7a/9450be354b33825e0c1194830305/unnamed-4.png=n-w1160-h926-fcrop64=1,00000000ffffffff 2x"
-                                                    media="(min-width: 1440px)" width="580" height="463">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/23/7a/9450be354b33825e0c1194830305/unnamed-4.png=n-w580-h463-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/23/7a/9450be354b33825e0c1194830305/unnamed-4.png=n-w1160-h926-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    media="(min-width: 1024px)" type="image/webp" width="580" height="463">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/23/7a/9450be354b33825e0c1194830305/unnamed-4.png=n-w580-h463-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/23/7a/9450be354b33825e0c1194830305/unnamed-4.png=n-w1160-h926-fcrop64=1,00000000ffffffff 2x"
-                                                    media="(min-width: 1024px)" width="580" height="463">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/23/7a/9450be354b33825e0c1194830305/unnamed-4.png=n-w540-h431-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/23/7a/9450be354b33825e0c1194830305/unnamed-4.png=n-w1080-h862-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    media="(min-width: 600px)" type="image/webp" width="540" height="431">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/23/7a/9450be354b33825e0c1194830305/unnamed-4.png=n-w540-h431-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/23/7a/9450be354b33825e0c1194830305/unnamed-4.png=n-w1080-h862-fcrop64=1,00000000ffffffff 2x"
-                                                    media="(min-width: 600px)" width="540" height="431">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/23/7a/9450be354b33825e0c1194830305/unnamed-4.png=n-w540-h431-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/23/7a/9450be354b33825e0c1194830305/unnamed-4.png=n-w1080-h862-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    media="(max-width: 599px)" type="image/webp" width="540" height="431">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/23/7a/9450be354b33825e0c1194830305/unnamed-4.png=n-w540-h431-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/23/7a/9450be354b33825e0c1194830305/unnamed-4.png=n-w1080-h862-fcrop64=1,00000000ffffffff 2x"
-                                                    media="(max-width: 599px)" width="540" height="431">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/23/7a/9450be354b33825e0c1194830305/unnamed-4.png=n-w580-h463-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/23/7a/9450be354b33825e0c1194830305/unnamed-4.png=n-w1160-h926-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    type="image/webp" width="580" height="463">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/23/7a/9450be354b33825e0c1194830305/unnamed-4.png=n-w580-h463-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/23/7a/9450be354b33825e0c1194830305/unnamed-4.png=n-w1160-h926-fcrop64=1,00000000ffffffff 2x"
-                                                    width="580" height="463">
-                                                <img class="Image" alt=""
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/23/7a/9450be354b33825e0c1194830305/unnamed-4.png=n-w580-h463-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/23/7a/9450be354b33825e0c1194830305/unnamed-4.png=n-w1160-h926-fcrop64=1,00000000ffffffff 2x"
-                                                    width="580" height="463" loading="lazy"
-                                                    src="https://www.gstatic.com/marketing-cms/assets/images/ads/23/7a/9450be354b33825e0c1194830305/unnamed-4.png=n-w580-h463-fcrop64=1,00000000ffffffff">
-                                            </picture> -->
+                                            <picture data-crop="overviewHero">
+                                                <img class="Image" alt="Data-Driven Marketing"
+                                                    src="./assets/img/banner/mobile.jpg"
+                                                    width="380" height="463" loading="lazy">
+                                            </picture>
                                         </ion-text-image>
                                     </div>
                                 </div>
@@ -372,164 +258,40 @@
                                     <div class="text-image-wrapper">
                                         <ion-text-image role="img" class="image-wrapper image-wrapper--responsive"
                                             breakpoint="xl,lg">
-                                            <!-- <picture data-crop="overviewHero">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/1f/cc/fffa11dc41b0969089f683060df3/unnamed-21.png=n-w580-h373-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/1f/cc/fffa11dc41b0969089f683060df3/unnamed-21.png=n-w1160-h746-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    media="(min-width: 1440px)" type="image/webp" width="580" height="373">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/1f/cc/fffa11dc41b0969089f683060df3/unnamed-21.png=n-w580-h373-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/1f/cc/fffa11dc41b0969089f683060df3/unnamed-21.png=n-w1160-h746-fcrop64=1,00000000ffffffff 2x"
-                                                    media="(min-width: 1440px)" width="580" height="373">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/1f/cc/fffa11dc41b0969089f683060df3/unnamed-21.png=n-w580-h373-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/1f/cc/fffa11dc41b0969089f683060df3/unnamed-21.png=n-w1160-h746-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    media="(min-width: 1024px)" type="image/webp" width="580" height="373">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/1f/cc/fffa11dc41b0969089f683060df3/unnamed-21.png=n-w580-h373-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/1f/cc/fffa11dc41b0969089f683060df3/unnamed-21.png=n-w1160-h746-fcrop64=1,00000000ffffffff 2x"
-                                                    media="(min-width: 1024px)" width="580" height="373">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/1f/cc/fffa11dc41b0969089f683060df3/unnamed-21.png=n-w540-h347-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/1f/cc/fffa11dc41b0969089f683060df3/unnamed-21.png=n-w1080-h694-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    media="(min-width: 600px)" type="image/webp" width="540" height="347">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/1f/cc/fffa11dc41b0969089f683060df3/unnamed-21.png=n-w540-h347-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/1f/cc/fffa11dc41b0969089f683060df3/unnamed-21.png=n-w1080-h694-fcrop64=1,00000000ffffffff 2x"
-                                                    media="(min-width: 600px)" width="540" height="347">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/1f/cc/fffa11dc41b0969089f683060df3/unnamed-21.png=n-w540-h347-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/1f/cc/fffa11dc41b0969089f683060df3/unnamed-21.png=n-w1080-h694-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    media="(max-width: 599px)" type="image/webp" width="540" height="347">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/1f/cc/fffa11dc41b0969089f683060df3/unnamed-21.png=n-w540-h347-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/1f/cc/fffa11dc41b0969089f683060df3/unnamed-21.png=n-w1080-h694-fcrop64=1,00000000ffffffff 2x"
-                                                    media="(max-width: 599px)" width="540" height="347">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/1f/cc/fffa11dc41b0969089f683060df3/unnamed-21.png=n-w580-h373-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/1f/cc/fffa11dc41b0969089f683060df3/unnamed-21.png=n-w1160-h746-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    type="image/webp" width="580" height="373">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/1f/cc/fffa11dc41b0969089f683060df3/unnamed-21.png=n-w580-h373-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/1f/cc/fffa11dc41b0969089f683060df3/unnamed-21.png=n-w1160-h746-fcrop64=1,00000000ffffffff 2x"
-                                                    width="580" height="373">
-                                                <img class="Image" alt=""
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/1f/cc/fffa11dc41b0969089f683060df3/unnamed-21.png=n-w580-h373-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/1f/cc/fffa11dc41b0969089f683060df3/unnamed-21.png=n-w1160-h746-fcrop64=1,00000000ffffffff 2x"
-                                                    width="580" height="373" loading="lazy"
-                                                    src="https://www.gstatic.com/marketing-cms/assets/images/ads/1f/cc/fffa11dc41b0969089f683060df3/unnamed-21.png=n-w580-h373-fcrop64=1,00000000ffffffff">
-                                            </picture> -->
+                                            <picture data-crop="overviewHero">
+                                                <img class="Image" alt="AI Automation Systems"
+                                                    src="./assets/img/banner/marketing.jpg"
+                                                    width="380" height="473" loading="lazy">
+                                            </picture>
                                         </ion-text-image>
                                         <ion-text-image role="img" class="image-wrapper image-wrapper--responsive"
                                             breakpoint="md,sm">
-                                            <!-- <picture data-crop="overviewHero">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/87/8f/881e52b743ffae36f959c9075f83/unnamed-21.png=n-w580-h373-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/87/8f/881e52b743ffae36f959c9075f83/unnamed-21.png=n-w1160-h746-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    media="(min-width: 1440px)" type="image/webp" width="580" height="373">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/87/8f/881e52b743ffae36f959c9075f83/unnamed-21.png=n-w580-h373-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/87/8f/881e52b743ffae36f959c9075f83/unnamed-21.png=n-w1160-h746-fcrop64=1,00000000ffffffff 2x"
-                                                    media="(min-width: 1440px)" width="580" height="373">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/87/8f/881e52b743ffae36f959c9075f83/unnamed-21.png=n-w580-h373-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/87/8f/881e52b743ffae36f959c9075f83/unnamed-21.png=n-w1160-h746-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    media="(min-width: 1024px)" type="image/webp" width="580" height="373">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/87/8f/881e52b743ffae36f959c9075f83/unnamed-21.png=n-w580-h373-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/87/8f/881e52b743ffae36f959c9075f83/unnamed-21.png=n-w1160-h746-fcrop64=1,00000000ffffffff 2x"
-                                                    media="(min-width: 1024px)" width="580" height="373">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/87/8f/881e52b743ffae36f959c9075f83/unnamed-21.png=n-w540-h347-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/87/8f/881e52b743ffae36f959c9075f83/unnamed-21.png=n-w1080-h694-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    media="(min-width: 600px)" type="image/webp" width="540" height="347">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/87/8f/881e52b743ffae36f959c9075f83/unnamed-21.png=n-w540-h347-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/87/8f/881e52b743ffae36f959c9075f83/unnamed-21.png=n-w1080-h694-fcrop64=1,00000000ffffffff 2x"
-                                                    media="(min-width: 600px)" width="540" height="347">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/87/8f/881e52b743ffae36f959c9075f83/unnamed-21.png=n-w540-h347-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/87/8f/881e52b743ffae36f959c9075f83/unnamed-21.png=n-w1080-h694-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    media="(max-width: 599px)" type="image/webp" width="540" height="347">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/87/8f/881e52b743ffae36f959c9075f83/unnamed-21.png=n-w540-h347-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/87/8f/881e52b743ffae36f959c9075f83/unnamed-21.png=n-w1080-h694-fcrop64=1,00000000ffffffff 2x"
-                                                    media="(max-width: 599px)" width="540" height="347">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/87/8f/881e52b743ffae36f959c9075f83/unnamed-21.png=n-w580-h373-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/87/8f/881e52b743ffae36f959c9075f83/unnamed-21.png=n-w1160-h746-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    type="image/webp" width="580" height="373">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/87/8f/881e52b743ffae36f959c9075f83/unnamed-21.png=n-w580-h373-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/87/8f/881e52b743ffae36f959c9075f83/unnamed-21.png=n-w1160-h746-fcrop64=1,00000000ffffffff 2x"
-                                                    width="580" height="373">
-                                                <img class="Image" alt=""
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/87/8f/881e52b743ffae36f959c9075f83/unnamed-21.png=n-w580-h373-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/87/8f/881e52b743ffae36f959c9075f83/unnamed-21.png=n-w1160-h746-fcrop64=1,00000000ffffffff 2x"
-                                                    width="580" height="373" loading="lazy"
-                                                    src="https://www.gstatic.com/marketing-cms/assets/images/ads/87/8f/881e52b743ffae36f959c9075f83/unnamed-21.png=n-w580-h373-fcrop64=1,00000000ffffffff">
-                                            </picture> -->
+                                            <picture data-crop="overviewHero">
+                                                <img class="Image" alt="Data-Driven Marketing"
+                                                    src="./assets/img/banner/marketing.jpg"
+                                                    width="380" height="463" loading="lazy">
+                                            </picture>
                                         </ion-text-image>
                                     </div>
                                 </div>
                                 <div class="ion-overview-hero-item__media-item" data-image-background-color="GREEN"
                                     aria-hidden="true">
                                     <div class="text-image-wrapper">
-                                        <ion-text-image role="img" class="image-wrapper image-wrapper--responsive"
+                                    <ion-text-image role="img" class="image-wrapper image-wrapper--responsive"
                                             breakpoint="xl,lg">
-                                            <!-- <picture data-crop="overviewHero">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/22/ea/7bd75a4348759ede61656686c5c3/unnamed-7.png=n-w568-h536-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/22/ea/7bd75a4348759ede61656686c5c3/unnamed-7.png=n-w1136-h1072-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    media="(min-width: 1440px)" type="image/webp" width="568" height="536">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/22/ea/7bd75a4348759ede61656686c5c3/unnamed-7.png=n-w568-h536-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/22/ea/7bd75a4348759ede61656686c5c3/unnamed-7.png=n-w1136-h1072-fcrop64=1,00000000ffffffff 2x"
-                                                    media="(min-width: 1440px)" width="568" height="536">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/22/ea/7bd75a4348759ede61656686c5c3/unnamed-7.png=n-w568-h536-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/22/ea/7bd75a4348759ede61656686c5c3/unnamed-7.png=n-w1136-h1072-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    media="(min-width: 1024px)" type="image/webp" width="568" height="536">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/22/ea/7bd75a4348759ede61656686c5c3/unnamed-7.png=n-w568-h536-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/22/ea/7bd75a4348759ede61656686c5c3/unnamed-7.png=n-w1136-h1072-fcrop64=1,00000000ffffffff 2x"
-                                                    media="(min-width: 1024px)" width="568" height="536">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/22/ea/7bd75a4348759ede61656686c5c3/unnamed-7.png=n-w540-h510-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/22/ea/7bd75a4348759ede61656686c5c3/unnamed-7.png=n-w1080-h1020-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    media="(min-width: 600px)" type="image/webp" width="540" height="510">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/22/ea/7bd75a4348759ede61656686c5c3/unnamed-7.png=n-w540-h510-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/22/ea/7bd75a4348759ede61656686c5c3/unnamed-7.png=n-w1080-h1020-fcrop64=1,00000000ffffffff 2x"
-                                                    media="(min-width: 600px)" width="540" height="510">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/22/ea/7bd75a4348759ede61656686c5c3/unnamed-7.png=n-w540-h510-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/22/ea/7bd75a4348759ede61656686c5c3/unnamed-7.png=n-w1080-h1020-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    media="(max-width: 599px)" type="image/webp" width="540" height="510">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/22/ea/7bd75a4348759ede61656686c5c3/unnamed-7.png=n-w540-h510-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/22/ea/7bd75a4348759ede61656686c5c3/unnamed-7.png=n-w1080-h1020-fcrop64=1,00000000ffffffff 2x"
-                                                    media="(max-width: 599px)" width="540" height="510">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/22/ea/7bd75a4348759ede61656686c5c3/unnamed-7.png=n-w568-h536-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/22/ea/7bd75a4348759ede61656686c5c3/unnamed-7.png=n-w1136-h1072-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    type="image/webp" width="568" height="536">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/22/ea/7bd75a4348759ede61656686c5c3/unnamed-7.png=n-w568-h536-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/22/ea/7bd75a4348759ede61656686c5c3/unnamed-7.png=n-w1136-h1072-fcrop64=1,00000000ffffffff 2x"
-                                                    width="568" height="536">
-                                                <img class="Image" alt=""
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/22/ea/7bd75a4348759ede61656686c5c3/unnamed-7.png=n-w568-h536-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/22/ea/7bd75a4348759ede61656686c5c3/unnamed-7.png=n-w1136-h1072-fcrop64=1,00000000ffffffff 2x"
-                                                    width="568" height="536" loading="lazy"
-                                                    src="https://www.gstatic.com/marketing-cms/assets/images/ads/22/ea/7bd75a4348759ede61656686c5c3/unnamed-7.png=n-w568-h536-fcrop64=1,00000000ffffffff">
-                                            </picture> -->
+                                            <picture data-crop="overviewHero">
+                                                <img class="Image" alt="AI Automation Systems"
+                                                    src="./assets/img/banner/automation.jpeg"
+                                                    width="380" height="473" loading="lazy">
+                                            </picture>
                                         </ion-text-image>
                                         <ion-text-image role="img" class="image-wrapper image-wrapper--responsive"
                                             breakpoint="md,sm">
-                                            <!-- <picture data-crop="overviewHero">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/b3/fb/43bc40334aa59431a2278d6e9d86/unnamed-8.png=n-w580-h497-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/b3/fb/43bc40334aa59431a2278d6e9d86/unnamed-8.png=n-w1160-h994-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    media="(min-width: 1440px)" type="image/webp" width="580" height="497">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/b3/fb/43bc40334aa59431a2278d6e9d86/unnamed-8.png=n-w580-h497-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/b3/fb/43bc40334aa59431a2278d6e9d86/unnamed-8.png=n-w1160-h994-fcrop64=1,00000000ffffffff 2x"
-                                                    media="(min-width: 1440px)" width="580" height="497">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/b3/fb/43bc40334aa59431a2278d6e9d86/unnamed-8.png=n-w580-h497-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/b3/fb/43bc40334aa59431a2278d6e9d86/unnamed-8.png=n-w1160-h994-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    media="(min-width: 1024px)" type="image/webp" width="580" height="497">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/b3/fb/43bc40334aa59431a2278d6e9d86/unnamed-8.png=n-w580-h497-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/b3/fb/43bc40334aa59431a2278d6e9d86/unnamed-8.png=n-w1160-h994-fcrop64=1,00000000ffffffff 2x"
-                                                    media="(min-width: 1024px)" width="580" height="497">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/b3/fb/43bc40334aa59431a2278d6e9d86/unnamed-8.png=n-w540-h463-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/b3/fb/43bc40334aa59431a2278d6e9d86/unnamed-8.png=n-w1080-h926-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    media="(min-width: 600px)" type="image/webp" width="540" height="463">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/b3/fb/43bc40334aa59431a2278d6e9d86/unnamed-8.png=n-w540-h463-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/b3/fb/43bc40334aa59431a2278d6e9d86/unnamed-8.png=n-w1080-h926-fcrop64=1,00000000ffffffff 2x"
-                                                    media="(min-width: 600px)" width="540" height="463">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/b3/fb/43bc40334aa59431a2278d6e9d86/unnamed-8.png=n-w540-h463-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/b3/fb/43bc40334aa59431a2278d6e9d86/unnamed-8.png=n-w1080-h926-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    media="(max-width: 599px)" type="image/webp" width="540" height="463">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/b3/fb/43bc40334aa59431a2278d6e9d86/unnamed-8.png=n-w540-h463-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/b3/fb/43bc40334aa59431a2278d6e9d86/unnamed-8.png=n-w1080-h926-fcrop64=1,00000000ffffffff 2x"
-                                                    media="(max-width: 599px)" width="540" height="463">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/b3/fb/43bc40334aa59431a2278d6e9d86/unnamed-8.png=n-w580-h497-fcrop64=1,00000000ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/b3/fb/43bc40334aa59431a2278d6e9d86/unnamed-8.png=n-w1160-h994-fcrop64=1,00000000ffffffff-rw 2x"
-                                                    type="image/webp" width="580" height="497">
-                                                <source
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/b3/fb/43bc40334aa59431a2278d6e9d86/unnamed-8.png=n-w580-h497-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/b3/fb/43bc40334aa59431a2278d6e9d86/unnamed-8.png=n-w1160-h994-fcrop64=1,00000000ffffffff 2x"
-                                                    width="580" height="497">
-                                                <img class="Image" alt=""
-                                                    srcset="https://www.gstatic.com/marketing-cms/assets/images/ads/b3/fb/43bc40334aa59431a2278d6e9d86/unnamed-8.png=n-w580-h497-fcrop64=1,00000000ffffffff 1x,https://www.gstatic.com/marketing-cms/assets/images/ads/b3/fb/43bc40334aa59431a2278d6e9d86/unnamed-8.png=n-w1160-h994-fcrop64=1,00000000ffffffff 2x"
-                                                    width="580" height="497" loading="lazy"
-                                                    src="https://www.gstatic.com/marketing-cms/assets/images/ads/b3/fb/43bc40334aa59431a2278d6e9d86/unnamed-8.png=n-w580-h497-fcrop64=1,00000000ffffffff">
-                                            </picture> -->
+                                            <picture data-crop="overviewHero">
+                                                <img class="Image" alt="Data-Driven Marketing"
+                                                    src="./assets/img/banner/automation.jpeg"
+                                                    width="380" height="463" loading="lazy">
+                                            </picture>
                                         </ion-text-image>
                                     </div>
                                 </div>
@@ -552,13 +314,13 @@
             </div>
         </main>
 
-        <div class="brand-style-one bg-gradient pt-2 pb-2">
+        <div class="brand-style-one pt-5 pb-2 mt-3">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 offset-lg-2">
                         <div class="site-heading text-center">
                             <h5 class="sub-title">Clients. Partners. Growth Stories.</h5>
-                            <h2 class="title text-white">We're Trusted By 300+ Businesses</h2>
+                            <h2 class="title">We're Trusted By 300+ Businesses</h2>
                         </div>
                     </div>
                 </div>
@@ -569,43 +331,43 @@
                         <div class="brand-carousel">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
-                                    <img src="assets/img/brand/mfour.png">
+                                    <img src="assets/img/brand/1.png">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="assets/img/brand/technocrats.png">
+                                    <img src="assets/img/brand/2.png">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="assets/img/brand/porter.png">
+                                    <img src="assets/img/brand/3.png">
                                 </div>
                                 <!-- <div class="swiper-slide">
-                                <img src="assets/img/brand/worldline.png">
+                                <img src="assets/img/brand/12.png">
                             </div> -->
                                 <div class="swiper-slide">
-                                    <img src="assets/img/brand/transline.png">
+                                    <img src="assets/img/brand/4.png">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="assets/img/brand/courierdost.png">
+                                    <img src="assets/img/brand/5.png">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="assets/img/brand/arks.png">
+                                    <img src="assets/img/brand/6.png">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="assets/img/brand/we3scs.png">
+                                    <img src="assets/img/brand/7.png">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="assets/img/brand/caper.png">
+                                    <img src="assets/img/brand/8.png">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="assets/img/brand/pannest.png">
+                                    <img src="assets/img/brand/9.png">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="assets/img/brand/hilift.png">
+                                    <img src="assets/img/brand/10.png">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="assets/img/brand/daakiyawala.png">
+                                    <img src="assets/img/brand/11.png">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="assets/img/brand/cariesco.png">
+                                    <img src="assets/img/brand/13.png">
                                 </div>
                             </div>
                         </div>
@@ -2099,40 +1861,40 @@
                         <div class="contact-form-style-one">
                             <h4 class="sub-title">Have Questions?</h4>
                             <h2 class="title">Send us a Message</h2>
-                                <form id="contactMail">
-                                    <div class="row">
-                                        <div class="col-lg-6">
-                                            <div class="form-group">
-                                                <input type="hidden" name="username_hp">
-                                                <input type="text" name="name" class="form-control" placeholder="Name *" required>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-6">
-                                            <div class="form-group">
-                                                <input type="email" name="email" class="form-control" placeholder="Email *" required>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-6">
-                                            <div class="form-group">
-                                                <input type="text" name="mobile" class="form-control" placeholder="Mobile No. *" required>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-6">
-                                            <div class="form-group">
-                                                <input type="text" name="subject" class="form-control" placeholder="Subject *" required>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-12">
-                                            <div class="form-group comments">
-                                                <textarea name="message" class="form-control" placeholder="Tell Us About Project *" required></textarea>
-                                            </div>
-                                        </div>
-                                        <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response">
-                                        <div class="col-lg-12">
-                                            <button type="submit" class="btn btn-primary w-100">Submit Now <i class="fas fa-arrow-up" style="margin-left: 8px;rotate: 45deg;"></i></button>
+                            <form id="contactMail">
+                                <div class="row">
+                                    <div class="col-lg-6">
+                                        <div class="form-group">
+                                            <input type="hidden" name="username_hp">
+                                            <input type="text" name="name" class="form-control" placeholder="Name *" required>
                                         </div>
                                     </div>
-                                </form>
+                                    <div class="col-lg-6">
+                                        <div class="form-group">
+                                            <input type="email" name="email" class="form-control" placeholder="Email *" required>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <div class="form-group">
+                                            <input type="text" name="mobile" class="form-control" placeholder="Mobile No. *" required>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <div class="form-group">
+                                            <input type="text" name="subject" class="form-control" placeholder="Subject *" required>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12">
+                                        <div class="form-group comments">
+                                            <textarea name="message" class="form-control" placeholder="Tell Us About Project *" required></textarea>
+                                        </div>
+                                    </div>
+                                    <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response">
+                                    <div class="col-lg-12">
+                                        <button type="submit" class="btn btn-primary w-100">Submit Now <i class="fas fa-arrow-up" style="margin-left: 8px;rotate: 45deg;"></i></button>
+                                    </div>
+                                </div>
+                            </form>
                         </div>
                     </div>
                 </div>
@@ -2211,9 +1973,9 @@
         <script id="webpack-js"
             src="https://www.gstatic.com/marketing-cms/ads/resource/00000188-911b-d8f4-a3ae-bb7b1ef50000/styles/default/All.min.b36fe85a24e24c111750f73b77d74995.gz.js"
             nonce="stj2ncKtDBRY0MOICxsMXw">
-            </script>
+        </script>
 
-            <?php include("./includes/popup_modal.php") ?>
+        <?php include("./includes/popup_modal.php") ?>
 
-            <?php include("./includes/footer.php") ?>
-            <?php include("./includes/footer_script.php") ?>
+        <?php include("./includes/footer.php") ?>
+        <?php include("./includes/footer_script.php") ?>
