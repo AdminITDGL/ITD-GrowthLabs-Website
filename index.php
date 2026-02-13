@@ -375,7 +375,7 @@
                 </div>
             </div>
         </div>
-        <div class="services-style-two-area bg-gray default-padding bottom-less industries-section what-we-do">
+        <div class="services-style-two-area bg-gray pt-4 bottom-less industries-section what-we-do">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 offset-lg-2">
