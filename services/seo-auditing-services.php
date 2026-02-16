@@ -338,7 +338,7 @@
     </div>
     <!-- End Banner -->
 
-    <div class="brand-style-one bg-gradient">
+    <div class="brand-style-one bg-gradient pt-3 pb-3">
         <div class="container-fill">
             <div class="row">
                 <div class="col-lg-12">
