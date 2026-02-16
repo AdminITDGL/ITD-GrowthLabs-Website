@@ -375,62 +375,62 @@
                 </div>
             </div>
         </div>
-        <div class="services-style-two-area bg-gray pt-4 bottom-less industries-section what-we-do">
+        <div class="services-style-two-area pt-4 bottom-less industries-section what-we-do">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 offset-lg-2">
                         <div class="site-heading text-center">
-                            <h2 class="title" style="color:white;">What We Do</h2>
+                            <h2 class="title sub-title">What We Do</h2>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="container">
+            <div class="container pb-5">
                 <div class="what-we-do-grid">
                     <div class="featured-col">
-                        <div class="featured-box w-100 text-center">
+                        <div class="featured-box w-100 text-center p-3">
                             <i class="fas fa-mobile-alt"></i>
                             <p>Mobile App Development</p>
                         </div>
                     </div>
                     <div class="featured-col">
-                        <div class="featured-box w-100 text-center">
+                        <div class="featured-box w-100 text-center p-3">
                             <i class="flaticon-startup-6"></i>
                             <p>Custom Website Development</p>
                         </div>
                     </div>
                     <div class="featured-col">
-                        <div class="featured-box w-100 text-center">
+                        <div class="featured-box w-100 text-center p-3">
                             <i class="fas fa-file-alt"></i>
                             <p>Content Creation</p>
                         </div>
                     </div>
                     <div class="featured-col">
-                        <div class="featured-box w-100 text-center">
+                        <div class="featured-box w-100 text-center p-3">
                             <i class="fas fa-user-plus"></i>
                             <p>Lead Generation</p>
                         </div>
                     </div>
                     <div class="featured-col">
-                        <div class="featured-box w-100 text-center">
+                        <div class="featured-box w-100 text-center p-3">
                             <i class="fab fa-linkedin"></i>
                             <p>B2B Social Media</p>
                         </div>
                     </div>
                     <div class="featured-col">
-                        <div class="featured-box w-100 text-center">
+                        <div class="featured-box w-100 text-center p-3">
                             <i class="fas fa-chart-line"></i>
                             <p>Sales Enablement</p>
                         </div>
                     </div>
                     <div class="featured-col">
-                        <div class="featured-box w-100 text-center">
+                        <div class="featured-box w-100 text-center p-3">
                             <i class="fas fa-lightbulb"></i>
                             <p>Thought Leadership</p>
                         </div>
                     </div>
                     <div class="featured-col">
-                        <div class="featured-box w-100 text-center">
+                        <div class="featured-box w-100 text-center p-3">
                             <i class="fas fa-comments"></i>
                             <p>B2B Communication Strategy</p>
                         </div>
@@ -438,38 +438,38 @@
 
 
                     <div class="featured-col">
-                        <div class="featured-box w-100 text-center">
+                        <div class="featured-box w-100 text-center p-3">
                             <i class="fas fa-bullseye"></i>
                             <p>Brand Strategy</p>
                         </div>
                     </div>
                     <div class="featured-col">
-                        <div class="featured-box w-100 text-center">
+                        <div class="featured-box w-100 text-center p-3">
                             <i class="fas fa-palette"></i>
                             <p>Corporate Branding</p>
                         </div>
                     </div>
 
                     <div class="featured-col">
-                        <div class="featured-box w-100 text-center">
+                        <div class="featured-box w-100 text-center p-3">
                             <i class="fas fa-handshake"></i>
                             <p>Lead Nurturing</p>
                         </div>
                     </div>
                     <div class="featured-col">
-                        <div class="featured-box w-100 text-center">
+                        <div class="featured-box w-100 text-center p-3">
                             <i class="fas fa-search"></i>
                             <p>Search and Display Marketing</p>
                         </div>
                     </div>
                     <div class="featured-col">
-                        <div class="featured-box w-100 text-center">
+                        <div class="featured-box w-100 text-center p-3">
                             <i class="fas fa-users"></i>
                             <p>Strategic Partnerships</p>
                         </div>
                     </div>
                     <div class="featured-col">
-                        <div class="featured-box w-100 text-center">
+                        <div class="featured-box w-100 text-center p-3">
                             <i class="fas fa-globe"></i>
                             <p>Global Customer Acquisition</p>
                         </div>
