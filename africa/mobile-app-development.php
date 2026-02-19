@@ -918,7 +918,7 @@
                     </div>
                     <div class="col-tact-stye-one col-lg-5">
                         <div class="contact-form-style-one form-with-profile wow fadeInUp p-0" data-wow-delay="500ms" data-wow-duration="400ms">
-                            <div class="form-header-orange" style="background:url('../assets/img/uae.png') center/cover no-repeat;position:relative;">
+                            <div class="form-header-orange" style="background:url('../assets/img/africa.png') center/cover no-repeat;position:relative;">
                                 <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.1);border-radius:inherit;"></div>
                                 <div class="profile-images-container" style="position:relative;z-index:1;">
                                     <img src="../assets/img/form-profile-image.png" alt="Expert" class="profile-main" draggable="false">
@@ -970,10 +970,10 @@
         <div class="">
             <div class="row services-menu-tabs">
                 <div class="nav-tabs-wrap d-flex justify-content-center w-100" style="gap: 0;">
-                    <a href="../uae/website-design-development.php" class="service-tab-link flex-fill text-center py-3">Website Design & Development <i class="fas fa-arrow-right ms-1"></i></a>
-                    <a href="../uae/web-application-development.php" class="service-tab-link flex-fill text-center py-3">Web Application Development <i class="fas fa-arrow-right ms-1"></i></a>
-                    <a href="../uae/mobile-app-development.php" class="service-tab-link flex-fill text-center py-3">Mobile App Development <i class="fas fa-arrow-right ms-1"></i></a>
-                    <a href="../uae/digital-marketing-services.php" class="service-tab-link flex-fill text-center py-3">Digital Marketing Services <i class="fas fa-arrow-right ms-1"></i></a>
+                    <a href="../africa/website-design-development.php" class="service-tab-link flex-fill text-center py-3">Website Design & Development <i class="fas fa-arrow-right ms-1"></i></a>
+                    <a href="../africa/web-application-development.php" class="service-tab-link flex-fill text-center py-3">Web Application Development <i class="fas fa-arrow-right ms-1"></i></a>
+                    <a href="../africa/mobile-app-development.php" class="service-tab-link flex-fill text-center py-3">Mobile App Development <i class="fas fa-arrow-right ms-1"></i></a>
+                    <a href="../africa/digital-marketing-services.php" class="service-tab-link flex-fill text-center py-3">Digital Marketing Services <i class="fas fa-arrow-right ms-1"></i></a>
                 </div>
             </div>
         </div>

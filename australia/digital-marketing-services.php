@@ -13,7 +13,6 @@
             var f = d.getElementsByTagName(s)[0],
                 j = d.createElement(s),
                 dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
             j.src =
                 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
             f.parentNode.insertBefore(j, f);
@@ -24,8 +23,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="ITD GrowthLabs is a leading website design & development company in Africa delivering custom, SEO-friendly websites for businesses in South Africa, Nigeria & Kenya.">
-    <title>Top Website Design & Development Company in Africa | ITD GrowthLabs</title>
+    <meta name="description" content="ITD GrowthLabs is a leading digital marketing company in Australia offering SEO, PPC, social media & lead generation services across major cities.">
+    <title>Top Digital Marketing Services Company in Australia | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
@@ -102,6 +101,97 @@
             font-weight: 600;
             text-transform: uppercase;
             color: #000;
+        }
+
+        .intro-section {
+            background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+            border-radius: 15px;
+            padding: 60px 50px;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
+            margin-top: 30px;
+        }
+
+        .intro-section .site-heading h2 {
+            font-size: 32px;
+            font-weight: 700;
+            color: var(--color-heading);
+            margin-bottom: 30px;
+            line-height: 1.3;
+        }
+
+        .intro-section .mt-30 {
+            margin-top: 30px;
+        }
+
+        .intro-section p {
+            font-size: 17px;
+            line-height: 1.8;
+            color: var(--color-paragraph);
+            margin-bottom: 20px;
+        }
+
+        .intro-section p:last-of-type {
+            margin-bottom: 15px;
+        }
+
+        .intro-section strong {
+            color: var(--color-heading);
+            font-weight: 600;
+        }
+
+        .intro-section ul {
+            list-style: none;
+            padding-left: 0;
+            margin-top: 15px;
+        }
+
+        .intro-section ul li {
+            font-size: 16px;
+            line-height: 1.8;
+            color: var(--color-paragraph);
+            padding: 10px 0 10px 35px;
+            position: relative;
+            transition: all 0.3s ease;
+        }
+
+        .intro-section ul li:before {
+            content: "\f00c";
+            font-family: "Font Awesome 5 Pro";
+            font-weight: 600;
+            position: absolute;
+            left: 0;
+            top: 10px;
+            color: var(--color-primary);
+            font-size: 16px;
+        }
+
+        .intro-section ul li:hover {
+            color: var(--color-heading);
+            padding-left: 40px;
+        }
+
+        @media (max-width: 991px) {
+            .intro-section {
+                padding: 40px 30px;
+            }
+
+            .intro-section .site-heading h2 {
+                font-size: 26px;
+            }
+
+            .intro-section p {
+                font-size: 16px;
+            }
+        }
+
+        @media (max-width: 767px) {
+            .intro-section {
+                padding: 30px 20px;
+            }
+
+            .intro-section .site-heading h2 {
+                font-size: 22px;
+            }
         }
     </style>
     <style>
@@ -813,19 +903,19 @@
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
                             <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
-                                Top Website Design &amp; Development Company in Africa
+                                Top Digital Marketing Services Company in Australia
                             </h2>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
-                                We design and develop high-performance, SEO-friendly websites that help African businesses grow, generate leads, and compete globally.
+                                We help Australian businesses generate leads, increase online visibility, and grow revenue through data-driven digital marketing strategies.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Schedule a Meeting</a>
+                                <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Get a Free Marketing Consultation</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-tact-stye-one col-lg-5">
                         <div class="contact-form-style-one form-with-profile wow fadeInUp p-0" data-wow-delay="500ms" data-wow-duration="400ms">
-                            <div class="form-header-orange" style="background:url('../assets/img/africa.png') center/cover no-repeat;position:relative;">
+                            <div class="form-header-orange" style="background:url('../assets/img/australia.png') center/cover no-repeat;position:relative;">
                                 <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.1);border-radius:inherit;"></div>
                                 <div class="profile-images-container" style="position:relative;z-index:1;">
                                     <img src="../assets/img/form-profile-image.png" alt="Expert" class="profile-main" draggable="false">
@@ -834,7 +924,7 @@
                             <div class="form-content p-3">
                                 <div class="information">
                                     <h4 class="wow fadeInUp mb-30 text-center" data-wow-delay="500ms" data-wow-duration="400ms">
-                                        <b>Get a Free Website Consultation</b>
+                                        <b>Get a Free Marketing Consultation</b>
                                     </h4>
                                 </div>
                                 <form id="contactMail">
@@ -847,7 +937,7 @@
                                         </div>
                                         <div class="col-lg-12">
                                             <div class="form-group">
-                                                <input type="email" name="email" class="form-control" placeholder="Email *" required>
+                                                <input type="email" name="email" class="form-control" placeholder="Business Email *" required>
                                             </div>
                                         </div>
                                         <div class="col-lg-12">
@@ -857,11 +947,11 @@
                                         </div>
                                         <div class="col-lg-12">
                                             <div class="form-group">
-                                                <textarea name="message" class="form-control" rows="4" placeholder="Website Requirement *" required></textarea>
+                                                <textarea name="message" class="form-control" rows="4" placeholder="Marketing Requirement *" required></textarea>
                                             </div>
                                         </div>
                                         <div class="col-lg-12">
-                                            <button type="submit" class="btn btn-primary w-100">Get a Free Website Consultation <i class="fas fa-arrow-up" style="margin-left: 8px;rotate: 45deg;"></i></button>
+                                            <button type="submit" class="btn btn-primary w-100">Get a Free Marketing Consultation <i class="fas fa-arrow-up" style="margin-left: 8px;rotate: 45deg;"></i></button>
                                         </div>
                                     </div>
                                     <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response">
@@ -877,10 +967,10 @@
         <div class="">
             <div class="row services-menu-tabs">
                 <div class="nav-tabs-wrap d-flex justify-content-center w-100" style="gap: 0;">
-                    <a href="../africa/website-design-development.php" class="service-tab-link flex-fill text-center py-3">Website Design & Development <i class="fas fa-arrow-right ms-1"></i></a>
-                    <a href="../africa/web-application-development.php" class="service-tab-link flex-fill text-center py-3">Web Application Development <i class="fas fa-arrow-right ms-1"></i></a>
-                    <a href="../africa/mobile-app-development.php" class="service-tab-link flex-fill text-center py-3">Mobile App Development <i class="fas fa-arrow-right ms-1"></i></a>
-                    <a href="../africa/digital-marketing-services.php" class="service-tab-link flex-fill text-center py-3">Digital Marketing Services <i class="fas fa-arrow-right ms-1"></i></a>
+                    <a href="../australia/website-design-development.php" class="service-tab-link flex-fill text-center py-3">Website Design & Development <i class="fas fa-arrow-right ms-1"></i></a>
+                    <a href="../australia/web-application-development.php" class="service-tab-link flex-fill text-center py-3">Web Application Development <i class="fas fa-arrow-right ms-1"></i></a>
+                    <a href="../australia/mobile-app-development.php" class="service-tab-link flex-fill text-center py-3">Mobile App Development <i class="fas fa-arrow-right ms-1"></i></a>
+                    <a href="../australia/digital-marketing-services.php" class="service-tab-link flex-fill text-center py-3">Digital Marketing Services <i class="fas fa-arrow-right ms-1"></i></a>
                 </div>
             </div>
         </div>
@@ -993,7 +1083,7 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">Why Choose Us</h5>
-                        <h2 class="title">WHY CHOOSE ITD GROWTHLABS FOR WEBSITE DEVELOPMENT IN AFRICA</h2>
+                        <h2 class="title">WHY CHOOSE ITD GROWTHLABS AS YOUR DIGITAL MARKETING COMPANY IN AUSTRALIA</h2>
                     </div>
                 </div>
             </div>
@@ -1001,29 +1091,29 @@
                 <div class="col-xl-3 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper"><i class="fas fa-map-marker-alt"></i></div>
-                        <h4>Africa-Focused Website Solutions</h4>
-                        <p>We understand African digital users—mobile-first behavior, performance expectations, and local business needs.</p>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-6 col-md-6 mb-30">
-                    <div class="why-choose-card">
-                        <div class="icon-wrapper"><i class="fas fa-paint-brush"></i></div>
-                        <h4>Custom Website Design (No Templates)</h4>
-                        <p>Every website is designed from scratch to reflect your brand, industry, and target audience.</p>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-6 col-md-6 mb-30">
-                    <div class="why-choose-card">
-                        <div class="icon-wrapper"><i class="fas fa-search"></i></div>
-                        <h4>SEO-First Development</h4>
-                        <p>Our websites are built with clean structure, optimized content, and technical SEO best practices to rank on Google.</p>
+                        <h4>Australia-Focused Marketing Strategy</h4>
+                        <p>We understand Australian search behaviour, competition levels, and customer expectations.</p>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper"><i class="fas fa-chart-line"></i></div>
-                        <h4>Cost-Effective &amp; Scalable</h4>
-                        <p>We deliver enterprise-quality websites at pricing suitable for African startups and growing businesses.</p>
+                        <h4>Performance-Driven Campaigns</h4>
+                        <p>Every campaign is designed around traffic, leads, conversions, and ROI.</p>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-6 col-md-6 mb-30">
+                    <div class="why-choose-card">
+                        <div class="icon-wrapper"><i class="fas fa-chart-bar"></i></div>
+                        <h4>Transparent Reporting &amp; Communication</h4>
+                        <p>Clear KPIs, monthly reports, and actionable insights.</p>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-6 col-md-6 mb-30">
+                    <div class="why-choose-card">
+                        <div class="icon-wrapper"><i class="fas fa-dollar-sign"></i></div>
+                        <h4>Cost-Effective Digital Marketing</h4>
+                        <p>Enterprise-quality marketing services without inflated agency pricing.</p>
                     </div>
                 </div>
             </div>
@@ -1035,91 +1125,55 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">Our Services</h5>
-                        <h2 class="title">OUR WEBSITE DESIGN &amp; DEVELOPMENT SERVICES IN AFRICA</h2>
+                        <h2 class="title">OUR DIGITAL MARKETING SERVICES IN AUSTRALIA</h2>
                     </div>
                 </div>
             </div>
             <div class="row mt-40">
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
-                        <div class="icon-wrapper"><i class="fas fa-palette"></i></div>
-                        <h4>1. Custom Website Design in Africa</h4>
-                        <p>We create visually appealing, conversion-focused website designs that build credibility and trust.</p>
-                        <p class="mt-10" style="font-size: 14px;"><strong>Includes:</strong> UI/UX design, Brand-aligned layouts, Mobile-first design, Multi-device compatibility</p>
+                        <div class="icon-wrapper"><i class="fas fa-search"></i></div>
+                        <h4>1. Search Engine Optimization (SEO) Services</h4>
+                        <p>Rank higher on Google and attract consistent organic traffic from Australian searches.</p>
+                        <p class="mt-10" style="font-size: 14px;"><strong>Includes:</strong> Keyword research for Australia-specific searches, On-page &amp; technical SEO, Local SEO for Sydney, Melbourne, Brisbane &amp; Perth, SEO-optimised content creation</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
-                        <div class="icon-wrapper"><i class="fas fa-code"></i></div>
-                        <h4>2. Website Development Services in Africa</h4>
-                        <p>Robust and secure development using modern technologies.</p>
-                        <p class="mt-10" style="font-size: 14px;"><strong>Technologies We Use:</strong> WordPress, PHP / Laravel, HTML, CSS, JavaScript, Custom CMS solutions</p>
+                        <div class="icon-wrapper"><i class="fab fa-google"></i></div>
+                        <h4>2. Pay-Per-Click (PPC) &amp; Google Ads</h4>
+                        <p>Generate instant leads with highly targeted paid advertising campaigns.</p>
+                        <p class="mt-10" style="font-size: 14px;"><strong>Platforms:</strong> Google Search Ads, Display &amp; remarketing campaigns, Conversion-optimised landing pages</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
-                        <div class="icon-wrapper"><i class="fas fa-mobile-alt"></i></div>
-                        <h4>3. Responsive &amp; Mobile-Friendly Websites</h4>
-                        <p>Our websites perform seamlessly across mobile, tablet, and desktop—critical for African users.</p>
+                        <div class="icon-wrapper"><i class="fab fa-facebook"></i></div>
+                        <h4>3. Social Media Marketing &amp; Management</h4>
+                        <p>Build brand awareness and engagement across key platforms.</p>
+                        <p class="mt-10" style="font-size: 14px;"><strong>Platforms Covered:</strong> Facebook, Instagram, LinkedIn, WhatsApp marketing (for lead nurturing)</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
-                        <div class="icon-wrapper"><i class="fas fa-search-plus"></i></div>
-                        <h4>4. SEO-Friendly Website Development</h4>
-                        <p>We build websites that rank.</p>
-                        <p class="mt-10" style="font-size: 14px;"><strong>SEO Features Include:</strong> Clean URL structure, Fast page speed, On-page SEO setup, Metadata &amp; schema readiness</p>
+                        <div class="icon-wrapper"><i class="fas fa-pen"></i></div>
+                        <h4>4. Content Marketing Services</h4>
+                        <p>High-quality content that ranks, educates, and converts.</p>
+                        <p class="mt-10" style="font-size: 14px;"><strong>Includes:</strong> Website content writing, Blogs &amp; articles, Case studies &amp; landing page content</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
-                        <div class="icon-wrapper"><i class="fas fa-building"></i></div>
-                        <h4>5. Corporate &amp; Business Websites</h4>
-                        <p>Professional websites for companies across Africa in logistics, fintech, real estate, healthcare, and B2B services.</p>
+                        <div class="icon-wrapper"><i class="fas fa-bullseye"></i></div>
+                        <h4>5. Lead Generation Services</h4>
+                        <p>End-to-end lead generation systems for B2B and B2C businesses.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
-                        <div class="icon-wrapper"><i class="fas fa-redo"></i></div>
-                        <h4>6. Website Redesign &amp; Revamp</h4>
-                        <p>Upgrade outdated websites with modern UI, better UX, and improved performance.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="default-padding bg-gray">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center">
-                        <h5 class="sub-title">Our Markets</h5>
-                        <h2 class="title">WEBSITE DEVELOPMENT FOR MAJOR AFRICAN MARKETS</h2>
-                        <p class="mt-30">We provide website development services across Africa, including:</p>
-                        <div class="row mt-40">
-                            <div class="col-md-4 mb-30">
-                                <div class="market-card text-center">
-                                    <i class="fas fa-map-marker-alt fa-3x mb-20" style="color: var(--color-primary);"></i>
-                                    <h4>South Africa</h4>
-                                    <p>Johannesburg, Cape Town</p>
-                                </div>
-                            </div>
-                            <div class="col-md-4 mb-30">
-                                <div class="market-card text-center">
-                                    <i class="fas fa-map-marker-alt fa-3x mb-20" style="color: var(--color-primary);"></i>
-                                    <h4>Nigeria</h4>
-                                    <p>Lagos, Abuja</p>
-                                </div>
-                            </div>
-                            <div class="col-md-4 mb-30">
-                                <div class="market-card text-center">
-                                    <i class="fas fa-map-marker-alt fa-3x mb-20" style="color: var(--color-primary);"></i>
-                                    <h4>Kenya</h4>
-                                    <p>Nairobi</p>
-                                </div>
-                            </div>
-                        </div>
-                        <p class="mt-30">Our websites are designed to meet local market expectations while maintaining global quality standards.</p>
+                        <div class="icon-wrapper"><i class="fas fa-chart-line"></i></div>
+                        <h4>6. Conversion Rate Optimization (CRO)</h4>
+                        <p>Improve website performance and turn visitors into paying customers.</p>
                     </div>
                 </div>
             </div>
@@ -1131,7 +1185,7 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">Our Process</h5>
-                        <h2 class="title">OUR WEBSITE DEVELOPMENT PROCESS (AFRICA)</h2>
+                        <h2 class="title">OUR DIGITAL MARKETING PROCESS</h2>
                     </div>
                 </div>
             </div>
@@ -1140,40 +1194,40 @@
                     <div class="process-hexagon">
                         <div class="hexagon-content">
                             <div class="step-number">01</div><i class="fas fa-search"></i>
-                            <h5>Business &amp; Market Understanding</h5>
-                            <p>We understand your industry, country, and target customers.</p>
+                            <h5>Business &amp; Market Analysis</h5>
+                            <p>Understanding your goals, industry, and competition.</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
                     <div class="process-hexagon">
                         <div class="hexagon-content">
                             <div class="step-number">02</div><i class="fas fa-pencil-ruler"></i>
-                            <h5>Strategy &amp; Design</h5>
-                            <p>Wireframes and designs aligned with your business goals.</p>
+                            <h5>Strategy &amp; Planning</h5>
+                            <p>Custom digital marketing roadmap aligned with your objectives.</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
                     <div class="process-hexagon">
                         <div class="hexagon-content">
-                            <div class="step-number">03</div><i class="fas fa-code"></i>
-                            <h5>Development</h5>
-                            <p>Clean, secure, and scalable development.</p>
+                            <div class="step-number">03</div><i class="fas fa-rocket"></i>
+                            <h5>Campaign Execution</h5>
+                            <p>SEO, ads, content, and social media implementation.</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
                     <div class="process-hexagon">
                         <div class="hexagon-content">
-                            <div class="step-number">04</div><i class="fas fa-bug"></i>
-                            <h5>Testing &amp; Quality Assurance</h5>
-                            <p>Speed, responsiveness, and browser compatibility testing.</p>
+                            <div class="step-number">04</div><i class="fas fa-chart-line"></i>
+                            <h5>Tracking &amp; Optimization</h5>
+                            <p>Continuous monitoring and performance improvement.</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
                     <div class="process-hexagon">
                         <div class="hexagon-content">
-                            <div class="step-number">05</div><i class="fas fa-rocket"></i>
-                            <h5>Launch &amp; Support</h5>
-                            <p>Smooth deployment with ongoing maintenance options.</p>
+                            <div class="step-number">05</div><i class="fas fa-chart-bar"></i>
+                            <h5>Reporting &amp; Scaling</h5>
+                            <p>Monthly reporting and growth recommendations.</p>
                         </div>
                     </div>
                 </div>
@@ -1185,231 +1239,36 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">Smart Tech Choices</h5>
-                        <h2 class="title">Behind Every Successful Mobile App Development</h2>
-                        <p class="mt-30">We use proven and modern technologies to deliver strong, secure, and high-performing apps across platforms — built to scale for any business.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="tech-categories mb-50">
-                <ul class="nav nav-pills justify-content-center gap-3 flex-wrap" id="techTabs" role="tablist">
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-link active" id="frontend-tab" data-bs-toggle="pill" data-bs-target="#frontend" type="button" role="tab">Frontend (Native & Cross-Platform)</button>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="backend-tab" data-bs-toggle="pill" data-bs-target="#backend" type="button" role="tab">Backend & Frameworks</button>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="databases-tab" data-bs-toggle="pill" data-bs-target="#databases" type="button" role="tab">Databases</button>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="cloud-tab" data-bs-toggle="pill" data-bs-target="#cloud" type="button" role="tab">Cloud & DevOps</button>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="integrations-tab" data-bs-toggle="pill" data-bs-target="#integrations" type="button" role="tab">Integrations & APIs</button>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="analytics-tab" data-bs-toggle="pill" data-bs-target="#analytics" type="button" role="tab">Testing & Analytics</button>
-                    </li>
-                </ul>
-            </div>
-            <div class="tab-content" id="techTabsContent">
-                <div class="tab-pane fade show active" id="frontend" role="tabpanel">
-                    <div class="row justify-content-center">
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-swift fa-3x mb-3" style="color: #fa7343;"></i>
-                                <h5>Swift</h5>
+                        <h5 class="sub-title">Our Markets</h5>
+                        <h2 class="title">DIGITAL MARKETING SERVICES ACROSS AUSTRALIA</h2>
+                        <p class="mt-30">We provide professional digital marketing services across major Australian cities:</p>
+                        <div class="row mt-40">
+                            <div class="col-md-3 mb-30">
+                                <div class="market-card text-center">
+                                    <i class="fas fa-map-marker-alt fa-3x mb-20" style="color: var(--color-primary);"></i>
+                                    <h4>Sydney</h4>
+                                </div>
+                            </div>
+                            <div class="col-md-3 mb-30">
+                                <div class="market-card text-center">
+                                    <i class="fas fa-map-marker-alt fa-3x mb-20" style="color: var(--color-primary);"></i>
+                                    <h4>Melbourne</h4>
+                                </div>
+                            </div>
+                            <div class="col-md-3 mb-30">
+                                <div class="market-card text-center">
+                                    <i class="fas fa-map-marker-alt fa-3x mb-20" style="color: var(--color-primary);"></i>
+                                    <h4>Brisbane</h4>
+                                </div>
+                            </div>
+                            <div class="col-md-3 mb-30">
+                                <div class="market-card text-center">
+                                    <i class="fas fa-map-marker-alt fa-3x mb-20" style="color: var(--color-primary);"></i>
+                                    <h4>Perth</h4>
+                                </div>
                             </div>
                         </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-android fa-3x mb-3" style="color: #3ddc84;"></i>
-                                <h5>Kotlin</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-react fa-3x mb-3" style="color: #61dafb;"></i>
-                                <h5>React Native</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-google fa-3x mb-3" style="color: #02569b;"></i>
-                                <h5>Flutter</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-mobile-alt fa-3x mb-3" style="color: #3880ff;"></i>
-                                <h5>Ionic</h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="tab-pane fade" id="backend" role="tabpanel">
-                    <div class="row justify-content-center">
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-node-js fa-3x mb-3" style="color: #339933;"></i>
-                                <h5>Node.js</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-microsoft fa-3x mb-3" style="color: #512bd4;"></i>
-                                <h5>.NET</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-laravel fa-3x mb-3" style="color: #ff2d20;"></i>
-                                <h5>Laravel</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-python fa-3x mb-3" style="color: #3776ab;"></i>
-                                <h5>Django</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-java fa-3x mb-3" style="color: #ed8b00;"></i>
-                                <h5>Spring Boot</h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="tab-pane fade" id="databases" role="tabpanel">
-                    <div class="row justify-content-center">
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-database fa-3x mb-3" style="color: #00758f;"></i>
-                                <h5>MySQL</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-database fa-3x mb-3" style="color: #336791;"></i>
-                                <h5>PostgreSQL</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-leaf fa-3x mb-3" style="color: #47a248;"></i>
-                                <h5>MongoDB</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-google fa-3x mb-3" style="color: #ffca28;"></i>
-                                <h5>Firebase</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-database fa-3x mb-3" style="color: #003b57;"></i>
-                                <h5>SQLite</h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="tab-pane fade" id="cloud" role="tabpanel">
-                    <div class="row justify-content-center">
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-aws fa-3x mb-3" style="color: #ff9900;"></i>
-                                <h5>AWS</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-cloud fa-3x mb-3" style="color: #4285f4;"></i>
-                                <h5>Google Cloud</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-microsoft fa-3x mb-3" style="color: #00a4ef;"></i>
-                                <h5>Microsoft Azure</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-docker fa-3x mb-3" style="color: #2496ed;"></i>
-                                <h5>Docker</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-cube fa-3x mb-3" style="color: #326ce5;"></i>
-                                <h5>Kubernetes</h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="tab-pane fade" id="integrations" role="tabpanel">
-                    <div class="row justify-content-center">
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-code fa-3x mb-3" style="color: #ff6b6b;"></i>
-                                <h5>REST</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-project-diagram fa-3x mb-3" style="color: #e10098;"></i>
-                                <h5>GraphQL</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-credit-card fa-3x mb-3" style="color: #635bff;"></i>
-                                <h5>Payment Gateways</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-building fa-3x mb-3" style="color: #00a1f1;"></i>
-                                <h5>CRM & ERP Systems</h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="tab-pane fade" id="analytics" role="tabpanel">
-                    <div class="row justify-content-center">
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-vial fa-3x mb-3" style="color: #43b02a;"></i>
-                                <h5>Selenium</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-mobile-alt fa-3x mb-3" style="color: #5c6bc0;"></i>
-                                <h5>Appium</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-tachometer-alt fa-3x mb-3" style="color: #d22128;"></i>
-                                <h5>JMeter</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-google fa-3x mb-3" style="color: #f4b400;"></i>
-                                <h5>Google Analytics</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-exclamation-triangle fa-3x mb-3" style="color: #ff6f00;"></i>
-                                <h5>Firebase Crashlytics</h5>
-                            </div>
-                        </div>
+                        <p class="mt-30">Our remote-first delivery model ensures seamless collaboration with businesses across Australia.</p>
                     </div>
                 </div>
             </div>
@@ -1421,7 +1280,7 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">Industries We Serve</h5>
-                        <h2 class="title">INDUSTRIES WE SERVE IN AFRICA</h2>
+                        <h2 class="title">INDUSTRIES WE SERVE IN AUSTRALIA</h2>
                     </div>
                 </div>
             </div>
@@ -1430,28 +1289,19 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <div class="industry-card">
-                                <div class="industry-bg" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80'); background-size: cover; background-position: center;"></div>
-                                <div class="industry-overlay">
-                                    <i class="fas fa-credit-card"></i>
-                                    <span>Fintech &amp; Financial Services</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="industry-card">
                                 <div class="industry-bg" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'); background-size: cover; background-position: center;"></div>
                                 <div class="industry-overlay">
                                     <i class="fas fa-shipping-fast"></i>
-                                    <span>Logistics &amp; Transportation</span>
+                                    <span>Logistics &amp; Supply Chain</span>
                                 </div>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="industry-card">
-                                <div class="industry-bg" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80'); background-size: cover; background-position: center;"></div>
+                                <div class="industry-bg" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80'); background-size: cover; background-position: center;"></div>
                                 <div class="industry-overlay">
-                                    <i class="fas fa-shopping-cart"></i>
-                                    <span>E-commerce &amp; Retail</span>
+                                    <i class="fas fa-laptop-code"></i>
+                                    <span>Technology &amp; SaaS</span>
                                 </div>
                             </div>
                         </div>
@@ -1460,7 +1310,7 @@
                                 <div class="industry-bg" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'); background-size: cover; background-position: center;"></div>
                                 <div class="industry-overlay">
                                     <i class="fas fa-heartbeat"></i>
-                                    <span>Healthcare &amp; Clinics</span>
+                                    <span>Healthcare &amp; Medical</span>
                                 </div>
                             </div>
                         </div>
@@ -1469,7 +1319,7 @@
                                 <div class="industry-bg" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80'); background-size: cover; background-position: center;"></div>
                                 <div class="industry-overlay">
                                     <i class="fas fa-graduation-cap"></i>
-                                    <span>Education &amp; Training</span>
+                                    <span>Education &amp; eLearning</span>
                                 </div>
                             </div>
                         </div>
@@ -1477,8 +1327,8 @@
                             <div class="industry-card">
                                 <div class="industry-bg" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80'); background-size: cover; background-position: center;"></div>
                                 <div class="industry-overlay">
-                                    <i class="fas fa-building"></i>
-                                    <span>Real Estate &amp; Infrastructure</span>
+                                    <i class="fas fa-industry"></i>
+                                    <span>Manufacturing</span>
                                 </div>
                             </div>
                         </div>
@@ -1487,7 +1337,7 @@
                                 <div class="industry-bg" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&q=80'); background-size: cover; background-position: center;"></div>
                                 <div class="industry-overlay">
                                     <i class="fas fa-briefcase"></i>
-                                    <span>Corporate &amp; B2B Businesses</span>
+                                    <span>Professional Services</span>
                                 </div>
                             </div>
                         </div>
@@ -1506,29 +1356,23 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">Benefits</h5>
-                        <h2 class="title">BENEFITS OF OUR WEBSITE DEVELOPMENT SERVICES</h2>
+                        <h2 class="title">BENEFITS OF OUR DIGITAL MARKETING SERVICES</h2>
                     </div>
                 </div>
             </div>
             <div class="row mt-40">
-                <div class="col-lg-12">
+                <div class="col-lg-10 offset-lg-1">
                     <div class="row">
                         <div class="col-md-6 col-lg-4 mb-30">
                             <div class="why-choose-card">
-                                <div class="icon-wrapper"><i class="fas fa-globe"></i></div>
-                                <h4>Strong online presence</h4>
+                                <div class="icon-wrapper"><i class="fas fa-eye"></i></div>
+                                <h4>Increased online visibility</h4>
                             </div>
                         </div>
                         <div class="col-md-6 col-lg-4 mb-30">
                             <div class="why-choose-card">
-                                <div class="icon-wrapper"><i class="fas fa-search"></i></div>
-                                <h4>Better Google rankings</h4>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4 mb-30">
-                            <div class="why-choose-card">
-                                <div class="icon-wrapper"><i class="fas fa-bullhorn"></i></div>
-                                <h4>Higher lead generation</h4>
+                                <div class="icon-wrapper"><i class="fas fa-bullseye"></i></div>
+                                <h4>Qualified lead generation</h4>
                             </div>
                         </div>
                         <div class="col-md-6 col-lg-4 mb-30">
@@ -1539,8 +1383,14 @@
                         </div>
                         <div class="col-md-6 col-lg-4 mb-30">
                             <div class="why-choose-card">
+                                <div class="icon-wrapper"><i class="fas fa-dollar-sign"></i></div>
+                                <h4>Better ROI on marketing spend</h4>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4 mb-30">
+                            <div class="why-choose-card">
                                 <div class="icon-wrapper"><i class="fas fa-chart-line"></i></div>
-                                <h4>Scalable digital growth</h4>
+                                <h4>Sustainable long-term growth</h4>
                             </div>
                         </div>
                     </div>
@@ -1554,7 +1404,7 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">Why Trust Us</h5>
-                        <h2 class="title">WHY AFRICAN BUSINESSES TRUST ITD GROWTHLABS</h2>
+                        <h2 class="title">WHY ITD GROWTHLABS IS A LEADING DIGITAL MARKETING COMPANY IN AUSTRALIA</h2>
                     </div>
                 </div>
             </div>
@@ -1564,31 +1414,31 @@
                         <div class="col-md-6 col-lg-4 mb-30">
                             <div class="why-choose-card">
                                 <div class="icon-wrapper"><i class="fas fa-users"></i></div>
-                                <h4>Experienced website designers &amp; developers</h4>
+                                <h4>Experienced SEO &amp; performance marketing team</h4>
                             </div>
                         </div>
                         <div class="col-md-6 col-lg-4 mb-30">
                             <div class="why-choose-card">
-                                <div class="icon-wrapper"><i class="fas fa-dollar-sign"></i></div>
-                                <h4>Transparent timelines &amp; pricing</h4>
+                                <div class="icon-wrapper"><i class="fas fa-map-marker-alt"></i></div>
+                                <h4>Australia-focused strategies</h4>
                             </div>
                         </div>
                         <div class="col-md-6 col-lg-4 mb-30">
                             <div class="why-choose-card">
-                                <div class="icon-wrapper"><i class="fas fa-search"></i></div>
-                                <h4>Africa-focused SEO strategies</h4>
+                                <div class="icon-wrapper"><i class="fas fa-comments"></i></div>
+                                <h4>Transparent communication</h4>
                             </div>
                         </div>
                         <div class="col-md-6 col-lg-4 mb-30">
                             <div class="why-choose-card">
-                                <div class="icon-wrapper"><i class="fas fa-user-tie"></i></div>
-                                <h4>Dedicated project managers</h4>
+                                <div class="icon-wrapper"><i class="fas fa-handshake"></i></div>
+                                <h4>Flexible engagement models</h4>
                             </div>
                         </div>
                         <div class="col-md-6 col-lg-4 mb-30">
                             <div class="why-choose-card">
-                                <div class="icon-wrapper"><i class="fas fa-headset"></i></div>
-                                <h4>Long-term technical support</h4>
+                                <div class="icon-wrapper"><i class="fas fa-chart-line"></i></div>
+                                <h4>Long-term growth mindset</h4>
                             </div>
                         </div>
                     </div>
@@ -1601,11 +1451,11 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center text-light mt-0 mb-0">
-                        <h2 class="title text-white mb-30">Ready to Build a High-Performance Website in Africa?</h2>
-                        <p class="text-white">Partner with a top website design and development company in Africa that understands local markets and global standards.</p>
-                        <p class="text-white mb-30">👉 Get a Free Website Consultation</p>
+                        <h2 class="title text-white mb-30">Ready to Grow Your Business with Digital Marketing in Australia?</h2>
+                        <p class="text-white">Partner with a top digital marketing services company in Australia focused on results, not just traffic.</p>
+                        <p class="text-white mb-30">👉 Get a Free Digital Marketing Consultation</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Talk to an Africa Web Expert</a>
+                            <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Talk to an Australia Digital Marketing Expert</a>
                         </div>
                     </div>
                 </div>
@@ -1618,7 +1468,7 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">FAQ's</h5>
-                        <h2 class="title">FAQ – WEBSITE DESIGN &amp; DEVELOPMENT IN AFRICA</h2>
+                        <h2 class="title">SEO-HEAVY FAQ – DIGITAL MARKETING SERVICES IN AUSTRALIA</h2>
                     </div>
                 </div>
             </div>
@@ -1631,72 +1481,84 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        1. How much does website development cost in Africa?
+                                        1. How much do digital marketing services cost in Australia?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Costs depend on website size, features, and complexity. We offer flexible pricing for African startups, SMEs, and enterprises.
+                                        Digital marketing costs in Australia depend on services, competition, and campaign goals. We offer flexible packages for Australian businesses.
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        2. How long does it take to build a website?
+                                        2. Which is the best digital marketing company in Australia?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        A standard website takes 4–6 weeks, while complex websites may take 8–12 weeks.
+                                        The best digital marketing company in Australia focuses on measurable results, transparency, and long-term growth—core principles at ITD GrowthLabs.
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        3. Do you build mobile-friendly websites?
+                                        3. Do you offer SEO services in Australia?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. All our websites are fully responsive and optimized for mobile users.
+                                        Yes, we provide Australia-focused SEO services including local SEO for major cities.
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        4. Will my website be SEO-optimized?
+                                        4. How long does SEO take to show results in Australia?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We follow SEO best practices to help your website rank on Google in African markets.
+                                        SEO typically shows results within 3–6 months, depending on competition.
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        5. Do you provide website maintenance?
+                                        5. Do you manage Google Ads and PPC campaigns?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We offer ongoing website maintenance, updates, and support.
+                                        Yes, we manage Google Ads and paid campaigns for Australian businesses.
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingSix">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                                        6. Can you work with businesses across different African countries?
+                                        6. Can you handle complete digital marketing for my business?
                                     </button>
                                 </h2>
                                 <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Absolutely. We work remotely with clients across South Africa, Nigeria, Kenya, and beyond.
+                                        Yes, we offer end-to-end digital marketing management.
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingSeven">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                                        7. Which cities do you serve in Australia?
+                                    </button>
+                                </h2>
+                                <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        We serve Sydney, Melbourne, Brisbane, Perth, and businesses across Australia.
                                     </div>
                                 </div>
                             </div>
