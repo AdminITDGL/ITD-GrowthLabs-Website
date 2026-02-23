@@ -8062,6 +8062,99 @@
                 </div>
                 <!-- End Single Item -->
 
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>23 February, 2026</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/How_a_Custom_Mobile_App_Can_Accelerate_Your_Business_Growth.php">
+                                How a Custom Mobile App Can Accelerate Your Business Growth
+                                </a>
+                            </h3>
+                            <a href="../resources/How_a_Custom_Mobile_App_Can_Accelerate_Your_Business_Growth.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>23 February, 2026</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/Mobile_App_Development_for_Startups_What_to_Build_First_and_Why.php">
+                                Mobile App Development for Startups: What to Build First and Why
+                                </a>
+                            </h3>
+                            <a href="../resources/Mobile_App_Development_for_Startups_What_to_Build_First_and_Why.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>23 February, 2026</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/Native_vs_Hybrid_App_Development_Which_Is_Right_for_Your_Business.php">
+                                Native vs Hybrid App Development: Which Is Right for Your Business?
+                                </a>
+                            </h3>
+                            <a href="../resources/Native_vs_Hybrid_App_Development_Which_Is_Right_for_Your_Business.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>23 February, 2026</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/7_App_Features_Every_Business_App_Must_Have_in_2026.php">
+                                7 App Features Every Business App Must Have in 2026
+                                </a>
+                            </h3>
+                            <a href="../resources/7_App_Features_Every_Business_App_Must_Have_in_2026.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
 
 
 
