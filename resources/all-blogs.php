@@ -8362,6 +8362,167 @@
                 </div>
                 <!-- End Single Item -->
 
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>23 February, 2026</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/Why_Your_Business_Needs_a_Scalable_Website_in_2026.php">
+                                Why Your Business Needs a Scalable Website in 2026
+                                </a>
+                            </h3>
+                            <a href="../resources/Why_Your_Business_Needs_a_Scalable_Website_in_2026.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>23 February, 2026</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/How_Web_Development_Impacts_SEO_Speed_and_Lead_Generation.php">
+                                How Web Development Impacts SEO, Speed, and Lead Generation
+                                </a>
+                            </h3>
+                            <a href="../resources/How_Web_Development_Impacts_SEO_Speed_and_Lead_Generation.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>23 February, 2026</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/What_to_Look_for_in_a_Web_Development_Agency_A_Business_Owners_Checklist.php">
+                                What to Look for in a Web Development Agency: A Business Owner’s Checklist
+                                </a>
+                            </h3>
+                            <a href="../resources/What_to_Look_for_in_a_Web_Development_Agency_A_Business_Owners_Checklist.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>23 February, 2026</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/Why_Website_Speed_Matters_for_Online_Paid_Ad_Campaigns.php">
+                                Why Website Speed Matters for Online Paid Ad Campaigns
+                                </a>
+                            </h3>
+                            <a href="../resources/Why_Website_Speed_Matters_for_Online_Paid_Ad_Campaigns.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>23 February, 2026</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/Does_Your_Website_Need_a_Redesign_or_a_New_Look.php">
+                                Does Your Website Need a Redesign or a New Look
+                                </a>
+                            </h3>
+                            <a href="../resources/Does_Your_Website_Need_a_Redesign_or_a_New_Look.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>23 February, 2026</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/How_Secure_Web_Development_Builds_Trust_with_Customers.php">
+                                How Secure Web Development Builds Trust with Customers
+                                </a>
+                            </h3>
+                            <a href="../resources/How_Secure_Web_Development_Builds_Trust_with_Customers.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>23 February, 2026</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/From_Visitors_to_Leads_Website_Development_for_Business_Growth.php">
+                                From Visitors to Leads: Website Development for Business Growth
+                                </a>
+                            </h3>
+                            <a href="../resources/From_Visitors_to_Leads_Website_Development_for_Business_Growth.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
 
 
 
