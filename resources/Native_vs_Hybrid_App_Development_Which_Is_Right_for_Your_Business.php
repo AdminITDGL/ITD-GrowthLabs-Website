@@ -320,13 +320,13 @@
                                     <h2>Choosing the Right App Development Strategy</h2>
                                     <p>When selecting an app development approach, businesses should evaluate:</p>
                                     <ol>
-                                        <li><strong>Business Goals</strong><br>
+                                        <li><strong style="color:#222;">Business Goals</strong><br>
                                             If long-term scalability and premium performance are priorities, native development delivers stronger results. If early launch and validation matter more, hybrid app models reduce time and cost.
                                         </li>
-                                        <li><strong>Performance Expectations</strong><br>
+                                        <li><strong style="color:#222;">Performance Expectations</strong><br>
                                             Native app development offers superior performance for complex workflows. Hybrid development delivers reliable performance for moderate business use cases.
                                         </li>
-                                        <li><strong>Budget &amp; Timeline</strong><br>
+                                        <li><strong style="color:#222;">Budget &amp; Timeline</strong><br>
                                             Hybrid app development minimizes upfront business costs, while native development is a long-term investment in quality and performance.
                                         </li>
                                     </ol>
