@@ -8339,6 +8339,29 @@
                 </div>
                 <!-- End Single Item -->
 
+                 <!-- Single Item -->
+                 <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>23 February, 2026</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/10_Website_Mistakes_That_Damage_User_Experience_and_Sales.php">
+                                10 Website Mistakes That Damage User Experience & Sales
+                                </a>
+                            </h3>
+                            <a href="../resources/10_Website_Mistakes_That_Damage_User_Experience_and_Sales.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
 
 
 
