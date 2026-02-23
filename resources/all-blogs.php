@@ -8293,6 +8293,52 @@
                 </div>
                 <!-- End Single Item -->
 
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>23 February, 2026</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/Conversion_Focused_Website_Strategy_for_Digital_Growth.php">
+                                Conversion-Focused Website Strategy for Digital Growth
+                                </a>
+                            </h3>
+                            <a href="../resources/Conversion_Focused_Website_Strategy_for_Digital_Growth.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">ITD GrowthLabs</a></li>
+                                    <li>23 February, 2026</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title">
+                                <a href="../resources/Custom_Website_vs_Template_Website_Whats_Better_for_Business_Growth.php">
+                                Custom Website vs Template Website: What’s Better for Business Growth
+                                </a>
+                            </h3>
+                            <a href="../resources/Custom_Website_vs_Template_Website_Whats_Better_for_Business_Growth.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
 
 
 
