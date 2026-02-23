@@ -305,7 +305,7 @@
                         <div class="ion-overview-hero__cta-container">
                             <div class="ion-button__container ion-button__container--centered">
                                 <a class="ion-button glue-button glue-button--high-emphasis"
-                                    href="contact.php"
+                                    href="https://calendly.com/itdgrowthlabs-info/30min"
                                     rel="noopener noreferrer">Book A Meeting</a>
                             </div>
                         </div>
