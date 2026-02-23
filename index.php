@@ -375,7 +375,7 @@
                 </div>
             </div>
         </div>
-        <div class="services-style-two-area pt-4 bottom-less industries-section what-we-do">
+        <div class="services-style-two-area pt-4 bottom-less industries-section what-we-do" style="margin-top:80px">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 offset-lg-2">
@@ -477,7 +477,7 @@
                 </div>
             </div>
         </div>
-        <div class="services-style-three-area bg-dark bg-cover default-padding bottom-less"
+        <div class="services-style-three-area bg-dark bg-cover default-padding bottom-less" style="margin-top:80px"
             style="background-image: url(assets/img/shape/banner-6.jpg);">
             <div class="container">
                 <div class="row">
