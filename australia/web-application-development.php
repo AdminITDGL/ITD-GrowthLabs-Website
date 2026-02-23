@@ -998,35 +998,7 @@
                                         <b>Get a Free Web App Consultation</b>
                                     </h4>
                                 </div>
-                                <form id="contactMail">
-                                    <input type="hidden" name="username_hp">
-                                    <div class="row">
-                                        <div class="col-lg-12">
-                                            <div class="form-group">
-                                                <input type="text" name="name" class="form-control" placeholder="Name *" required>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-12">
-                                            <div class="form-group">
-                                                <input type="email" name="email" class="form-control" placeholder="Email *" required>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-12">
-                                            <div class="form-group">
-                                                <input type="text" name="mobile" class="form-control" placeholder="Phone / WhatsApp *" required>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-12">
-                                            <div class="form-group">
-                                                <textarea name="message" class="form-control" rows="4" placeholder="Project Requirement *" required></textarea>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-12">
-                                            <button type="submit" class="btn btn-primary w-100">Get a Free Web App Consultation <i class="fas fa-arrow-up" style="margin-left: 8px;rotate: 45deg;"></i></button>
-                                        </div>
-                                    </div>
-                                    <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response">
-                                </form>
+                                <?php include("../common-form.php") ?>
                             </div>
                         </div>
                     </div>
@@ -1924,47 +1896,7 @@
     </script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            toastr.options = {
-                positionClass: "toast-top-right",
-                closeButton: true,
-                progressBar: true,
-            };
-            const form = document.getElementById("contactMail");
-            form.addEventListener("submit", function(e) {
-                e.preventDefault();
-                grecaptcha.ready(function() {
-                    grecaptcha.execute('6Lcm0hosAAAAAPFeuKRDfgGF4Ajr9bcCCbD7LR-3', {
-                        action: 'contact_form'
-                    }).then(function(token) {
-                        document.getElementById('g-recaptcha-response').value = token;
-
-                        const formData = new FormData(form);
-                        fetch("../contactMail.php", {
-                                method: "POST",
-                                body: formData,
-                            })
-                            .then((res) => res.json())
-                            .then((data) => {
-                                if (data.status === "success") {
-                                    toastr.success("Your enquiry has been sent successfully!");
-                                    form.reset();
-                                    setTimeout(() => {
-                                        window.location.href = "../thankyou.php";
-                                    }, 1500);
-                                } else {
-                                    toastr.error(data.message || "Something went wrong!");
-                                }
-                            })
-                            .catch((err) => {
-                                toastr.error("Network error!");
-                            });
-                    });
-                });
-            });
-        });
-    </script>
+    <script src="../assets/js/custom.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function() {
             const industryCarousel = new Swiper('.industry-carousel', {

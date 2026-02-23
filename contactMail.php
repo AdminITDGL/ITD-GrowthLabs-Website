@@ -15,7 +15,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $name = isset($_POST['name']) ? htmlspecialchars($_POST['name']) : '';
     $email = isset($_POST['email']) ? filter_var($_POST['email'], FILTER_SANITIZE_EMAIL) : '';
     $mobile = isset($_POST['mobile']) ? htmlspecialchars($_POST['mobile']) : '';
-    $subject = isset($_POST['subject']) ? htmlspecialchars($_POST['subject']) : '';
+    $service = isset($_POST['service']) ? htmlspecialchars($_POST['service']) : '';
     $message = isset($_POST['message']) ? htmlspecialchars($_POST['message']) : '';
 
     $secretKey = "6Lcm0hosAAAAAO-sjX64qw9HYhBf-tpFkT_RUdqy";
@@ -48,7 +48,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $mail->addReplyTo($email, $name);
         $mail->isHTML(true);
         $mail->Subject = "New Enquiry Form Submission";
-        $mail->Body = "<p>Hi Team,</p><p>We have received a new enquiry through the website form with the following details:</p><ul><li><strong>Name:</strong> $name</li><li><strong>Email:</strong> $email</li><li><strong>Mobile:</strong> $mobile</li><li><strong>Subject:</strong> $subject</li><li><strong>Message:</strong> $message</li></ul><p><strong>Next Steps:</strong><br>Please call the client on the provided mobile number to understand their requirements and discuss further details.</p><p>Thanks,<br>Web Team</p>";
+        $mail->Body = "<p>Hi Team,</p><p>We have received a new enquiry through the website form with the following details:</p><ul><li><strong>Name:</strong> $name</li><li><strong>Email:</strong> $email</li><li><strong>Mobile:</strong> $mobile</li><li><strong>Service:</strong> $service</li><li><strong>Message:</strong> $message</li></ul><p><strong>Next Steps:</strong><br>Please call the client on the provided mobile number to understand their requirements and discuss further details.</p><p>Thanks,<br>Web Team</p>";
         if ($mail->send()) {
             $mail->clearAddresses();
             $mail->addAddress($email, $name);
