@@ -1,53 +1,198 @@
-   <!-- Header 
-============================================= -->
    <style>
+       /* Country flags bar */
        .country-flags-header {
-           background: #f8f9fa;
-           padding: 8px 0;
-           border-bottom: 1px solid #e0e0e0;
+           background: linear-gradient(180deg, #fafbfc 0%, #f3f4f6 100%);
+           padding: 10px 0;
+           border-bottom: 1px solid rgba(0, 0, 0, 0.06);
        }
+
        .country-flags-container {
            display: flex;
            justify-content: flex-start;
            align-items: center;
-           gap: 20px;
+           gap: 16px;
            flex-wrap: wrap;
        }
+
        .country-flag-item {
-           display: flex;
+           display: inline-flex;
            align-items: center;
            gap: 8px;
            text-decoration: none;
-           color: #333;
-           font-size: 14px;
+           color: #4b5563;
+           font-size: 13px;
            font-weight: 500;
-           transition: all 0.3s ease;
-           padding: 4px 8px;
-           border-radius: 4px;
+           transition: color 0.2s ease, background 0.2s ease, transform 0.15s ease;
+           padding: 6px 12px;
+           border-radius: 999px;
        }
+
        .country-flag-item:hover {
-           background: #e9ecef;
-           color: #0069ff;
+           background: #ffffff;
+           color: #1a73e8;
            text-decoration: none;
+           box-shadow: 0 1px 4px rgba(15, 23, 42, 0.14);
        }
+
        .country-flag-item img {
-           width: 24px;
-           height: 18px;
+           width: 22px;
+           height: 16px;
            object-fit: cover;
-           border-radius: 2px;
-           box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+           border-radius: 4px;
+           box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12);
        }
+
+       /* Navbar shell */
+       .navbar.validnavs {
+           background-color: #ffffff;
+           border-bottom: 1px solid rgba(15, 23, 42, 0.06);
+           box-shadow: 0 1px 2px rgba(15, 23, 42, 0.04);
+       }
+
+       .navbar.validnavs .navbar-brand {
+           padding: 8px 0;
+       }
+
+       .navbar.validnavs .navbar-brand .logo {
+           max-height: 40px;
+           width: auto;
+           height: auto;
+           object-fit: contain;
+       }
+
+       /* Top-level nav items */
+       .navbar.validnavs .nav.navbar-nav>li>a {
+           font-size: 15px;
+           font-weight: 500;
+           letter-spacing: 0.02em;
+           text-transform: none;
+           padding: 18px 16px;
+           color: #111827;
+           transition: color 0.2s ease, background 0.2s ease;
+       }
+
+       .navbar.validnavs .nav.navbar-nav>li>a:hover,
+       .navbar.validnavs .nav.navbar-nav>li>a:focus {
+           color: #1a73e8;
+           background-color: rgba(26, 115, 232, 0.06);
+       }
+
+       .navbar.validnavs .nav.navbar-nav>li.dropdown.open>a {
+           color: #1a73e8;
+           background-color: rgba(26, 115, 232, 0.06);
+       }
+
+       /* Mega menu dropdown container */
+       .navbar.validnavs .dropdown-menu.megamenu-content {
+           padding: 22px 20px 18px;
+           border-radius: 10px;
+           border: 1px solid rgba(15, 23, 42, 0.06);
+           box-shadow: 0 8px 24px rgba(15, 23, 42, 0.14);
+           min-width: 100%;
+       }
+
+       /* Make all five columns share full width, no empty space on right */
+       .navbar.validnavs .megamenu-content .row {
+           margin-left: 0;
+           margin-right: 0;
+           display: flex;
+       }
+
+       .navbar.validnavs .megamenu-content .col-menu {
+           padding: 0 18px;
+           flex: 1 1 0;
+           max-width: none;
+       }
+
+       .navbar.validnavs .megamenu-content .col-menu:first-child {
+           padding-left: 0;
+       }
+
+       /* Mega menu section titles – make them stand out */
+       .megamenu-content .title {
+           font-size: 14px;
+           font-weight: 700;
+           text-transform: uppercase;
+           letter-spacing: 0.12em;
+           color: #1a73e8;
+           /* blue headings */
+           margin-bottom: 10px;
+           position: relative;
+           display: inline-block;
+       }
+
+       .megamenu-content .title::after {
+           content: "";
+           position: absolute;
+           left: 0;
+           bottom: -6px;
+           width: 36px;
+           height: 2px;
+           background: #1a73e8;
+           border-radius: 999px;
+           transition: width 0.25s ease;
+       }
+
+       .megamenu-content .title:hover::after {
+           width: 100%;
+       }
+
+       /* Mega menu links */
+       .megamenu-content .menu-col {
+           list-style: none;
+           margin: 0;
+           padding: 0;
+       }
+
+       .megamenu-content .menu-col li a {
+           display: block;
+           padding: 6px 0;
+           font-size: 13px;
+           color: #6b7280;
+           /* softer grey */
+           border-bottom: 1px solid #f3f4f6;
+           transition: color 0.2s ease, padding-left 0.2s ease;
+       }
+
+       .megamenu-content .menu-col li:last-child a {
+           border-bottom: none;
+       }
+
+       .megamenu-content .menu-col li a:hover {
+           color: #1a73e8;
+           padding-left: 6px;
+       }
+
+       /* Regular dropdown (Industries) */
+       .navbar.validnavs .navbar-nav>li.dropdown:not(.megamenu-fw) .dropdown-menu {
+           min-width: 240px;
+           border-radius: 10px;
+           border: 1px solid rgba(15, 23, 42, 0.06);
+           box-shadow: 0 8px 30px rgba(15, 23, 42, 0.14);
+           padding: 8px 0;
+       }
+
+       .navbar.validnavs .navbar-nav>li.dropdown:not(.megamenu-fw) .dropdown-menu li a {
+           font-size: 13px;
+           padding: 9px 18px;
+           color: #6b7280;
+           /* same softer grey */
+           transition: color 0.2s ease, background 0.2s ease;
+       }
+
+       .navbar.validnavs .navbar-nav>li.dropdown:not(.megamenu-fw) .dropdown-menu li a:hover {
+           color: #1a73e8;
+           background-color: rgba(26, 115, 232, 0.06);
+       }
+
        @media (max-width: 768px) {
            .country-flags-container {
-               gap: 12px;
+               gap: 10px;
            }
+
            .country-flag-item {
                font-size: 12px;
-               gap: 6px;
-           }
-           .country-flag-item img {
-               width: 20px;
-               height: 15px;
+               padding: 5px 10px;
            }
        }
    </style>
@@ -101,210 +246,116 @@
 
                <!-- Collect the nav links, forms, and other content for toggling -->
                <div class="collapse navbar-collapse" id="navbar-menu">
-                   <img src="assets/img/logo.jpg" alt="Logo">
-                   <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
-                       <i class="fa fa-times"></i>
-                   </button>
-                   <ul class="nav navbar-nav navbar-center" data-in="fadeInDown" data-out="fadeOutUp">
+                   <ul class="nav navbar-nav navbar-center">
 
+                       <!-- SOLUTIONS MEGA MENU -->
                        <li class="dropdown megamenu-fw">
-                           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tech Services</a>
+                           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Solutions</a>
                            <ul class="dropdown-menu megamenu-content" role="menu">
                                <li>
                                    <div class="row">
-                                       <div class="col-menu col-lg-4">
-                                           <h6 class="title">Core Tech Services</h6>
-                                           <div class="content">
-                                               <ul class="menu-col">
-                                                   <li><a href="services/website-development-company.php" target="_blank">Website Design & Development</a></li>
-                                                   <li><a href="services/Template-Based-Website-Development.php" target="_blank">Template-Based Website Development</a>
-                                                   </li>
-                                                   <li><a href="services/WordPress-Website-Development.php" target="_blank">WordPress Website Development</a></li>
-                                                   <li><a href="services/Custom-Website-Development.php" target="_blank">Custom Website Development</a></li>
-                                                    <li><a href="services/E-commerce-Website-Development.php" target="_blank">E-commerce Website Development</a></li>
-                                                    <li><a href="services/logistics-courier-website-design.php" target="_blank">Logistics & Courier Website Design</a></li>
-                                                    <li><a href="services/chemical-manufacturing-website-design.php" target="_blank">Chemical Manufacturing Website Design</a></li>
-                                                    <li><a href="services/pharma-medical-website-design.php" target="_blank">Pharma & Medical Website Design</a></li>
-                                                    <li><a href="services/textile-garment-website-design.php" target="_blank">Textile & Garment Website Design</a></li>
 
-                                               </ul>
-                                           </div>
+                                       <!-- Column 1 -->
+                                       <div class="col-menu col-lg-2">
+                                           <h6 class="title">Website Development</h6>
+                                           <ul class="menu-col">
+                                               <li><a href="./lp/website-design-development.php">Business Website Development</a></li>
+                                               <li><a href="./lp/website-design-development.php">Corporate Website Development</a></li>
+                                               <li><a href="./lp/website-design-development.php">Custom Website Development</a></li>
+                                               <li><a href="./lp/website-design-development.php">WordPress Website Development</a></li>
+                                               <li><a href="./lp/website-design-development.php">E-Commerce Website Development</a></li>
+                                               <li><a href="./lp/website-design-development.php">Landing Page Design</a></li>
+                                               <li><a href="./lp/website-design-development.php">Website Maintenance</a></li>
+                                           </ul>
                                        </div>
 
-                                       <div class="col-menu col-lg-4">
-                                           <h6 class="title">End-to-End Services</h6>
-                                           <div class="content">
-                                               <ul class="menu-col">
-                                                   <li><a href="services/website-development-company.php" target="_blank">Website Design & Development</a></li>
-                                                   <li><a href="services/content-marketing-services.php" target="_blank">Content Marketing Services</a></li>
-                                                   <li><a href="services/seo-auditing-services.php" target="_blank">SEO Audit and Optimization</a></li>
-                                                   <li><a href="services/social-media-marketing.php" target="_blank">Social Media Marketing</a></li>
-                                                   <li><a href="services/google-search-ads-services.php" target="_blank">Google Search Ads</a></li>
-                                               </ul>
-                                           </div>
+                                       <!-- Column 2 -->
+                                       <div class="col-menu col-lg-2">
+                                           <h6 class="title">App Development</h6>
+                                           <ul class="menu-col">
+                                               <li><a href="./lp/app-development.php">Android App Development</a></li>
+                                               <li><a href="./lp/app-development.php">iOS App Development</a></li>
+                                               <li><a href="./lp/app-development.php">Hybrid App Development</a></li>
+                                               <li><a href="./lp/app-development.php">Flutter App Development</a></li>
+                                               <li><a href="./lp/app-development.php">Web Application Development</a></li>
+                                               <li><a href="./lp/app-development.php">SaaS Development</a></li>
+                                           </ul>
                                        </div>
-                                       <div class="col-menu col-lg-4">
-                                           <h6 class="title">More Tech Solutions</h6>
-                                           <div class="content">
-                                               <ul class="menu-col">
 
-                                                   <li><a href="services/App-Development.php" target="_blank">App Development</a></li>
-                                                   <li><a href="services/IT-Outsourcing-Services.php" target="_blank">IT Outsourcing Services</a></li>
-                                                   <li><a href="services/IT-Team-Outsourcing.php" target="_blank">IT Team Outsourcing</a></li>
-                                               </ul>
-                                           </div>
+                                       <!-- Column 3 -->
+                                       <div class="col-menu col-lg-2">
+                                           <h6 class="title">Digital Marketing</h6>
+                                           <ul class="menu-col">
+                                               <li><a href="./services/seo-auditing-services.php">Search Engine Optimization (SEO)</a></li>
+                                               <li><a href="./services/seo-articles-writing.php">Local SEO Services</a></li>
+                                               <li><a href="./services/google-search-ads-services.php">Google Ads (PPC)</a></li>
+                                               <li><a href="./services/technical-content-writing.php">Meta Ads Management</a></li>
+                                               <li><a href="./services/content-marketing-services.php">LinkedIn Ads</a></li>
+                                               <li><a href="./services/social-media-marketing.php">Social Media Marketing</a></li>
+                                           </ul>
                                        </div>
-                                   </div>
-                               </li>
-                           </ul>
-                       </li>
-                       <!-- <li class="dropdown">
-                           <a href="#" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
-                           <ul class="dropdown-menu">
-                               <li><a href="whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
-                               <li><a href="whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
-                               <li><a href="whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
-                               <li><a href="whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
-                               <li><a href="whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flow</a></li>
-                           </ul>
-                       </li> -->
-                       <!-- <li class="dropdown">
-                           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data Services</a>
-                           <ul class="dropdown-menu">
-                               <li><a href="data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
-                               <li><a href="data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
-                               <li><a href="data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
-                               <li><a href="data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
-                               <li><a href="data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
-                               <li><a href="data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
-                               <li><a href="data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
-                               <li><a href="data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
-                               <li><a href="data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
-                           </ul>
-                       </li> -->
-                       <li class="dropdown megamenu-fw">
-                           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Content Services</a>
-                           <ul class="dropdown-menu megamenu-content" role="menu">
-                               <li>
-                                   <div class="row">
-                                       <div class="col-menu col-lg-4">
-                                           <h6 class="title">SEO &amp; Content Writing</h6>
-                                           <div class="content">
-                                               <ul class="menu-col">
-                                                   <li><a href="services/website-content-writing.php" target="_blank">Website Content Writing</a></li>
-                                                   <li><a href="services/seo-article-writing.php" target="_blank">SEO Article Writing</a></li>
-                                                   <li><a href="services/blog-writing-services.php" target="_blank">Blog Writing</a></li>
-                                                   <li><a href="services/case-study-writing-services.php" target="_blank">Case Study Writing</a></li>
-                                                   <li><a href="services/product-description-writing-services.php" target="_blank">Product Description</a></li>
-                                               </ul>
-                                           </div>
+
+                                       <!-- Column 4 -->
+                                       <div class="col-menu col-lg-2">
+                                           <h6 class="title">Content & eLearning</h6>
+                                           <ul class="menu-col">
+                                               <li><a href="./services/website-content-writing.php">Website Content Writing</a></li>
+                                               <li><a href="./services/technical-content-writing.php">Technical Content Writing</a></li>
+                                               <li><a href="./services/seo-articles-writing.php">SEO Content Writing</a></li>
+                                               <li><a href="./services/custom-elearning-development.php">eLearning Content Development</a></li>
+                                               <li><a href="./services/onboarding-videos.php">Instructional Design</a></li>
+                                               <li><a href="./services/logistics-content-marketing.php">LMS Development</a></li>
+                                           </ul>
                                        </div>
-                                       <div class="col-menu col-lg-4">
-                                           <h6 class="title">Specialized Content Services</h6>
-                                           <div class="content">
-                                               <ul class="menu-col">
-                                                   <li><a href="services/content_writing_strategy.php" target="_blank">Content Writing & Strategy</a></li>
-                                                   <li><a href="services/technical-writing-services.php" target="_blank">Technical Writing Services</a></li>
-                                                   <li><a href="services/White-Papers-Case-Studies.php" target="_blank">White Papers & Case Studies</a></li>
-                                                   <li><a href="services/Content-Team-Outsourcing.php" target="_blank">Content Team Outsourcing</a></li>
-                                               </ul>
-                                           </div>
+
+                                       <!-- Column 5 -->
+                                       <div class="col-menu col-lg-2">
+                                           <h6 class="title">AI & Intelligent Automation</h6>
+                                           <ul class="menu-col">
+                                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
+                                               <li><a href="./services/case-study-website-development.php">AI Chatbot Development</a></li>
+                                               <li><a href="./services/IT-Outsourcing-Services.php">Business Process Automation</a></li>
+                                               <li><a href="./services/partner-enablement.php">AI Marketing Automation</a></li>
+                                               <li><a href="./services/content-team-outsourcing.php">CRM Automation</a></li>
+                                               <li><a href="./services/compliance-automation.php">Data Annotation Services</a></li>
+                                               <li><a href="./services/logistics-content-marketing.php">AI Data Labeling</a></li>
+                                           </ul>
                                        </div>
-                                       <div class="col-menu col-lg-4">
-                                           <h6 class="title">Industries We Serve</h6>
-                                           <div class="content">
-                                               <ul class="menu-col">
-                                                   <li><a href="services/logistics-content-marketing.php" target="_blank">Logistics</a></li>
-                                                   <li><a href="services/Industries-We-Serve-Manufacturing.php" target="_blank">Manufacturing</a></li>
-                                                   <li><a href="services/Industries-We-Serve-Technology.php" target="_blank">Technology</a></li>
-                                                   <li><a href="services/ecommerce-content-services.php" target="_blank">E-commerce</a></li>
-                                               </ul>
-                                           </div>
-                                       </div>
+
                                    </div>
                                </li>
                            </ul>
                        </li>
 
-                       <li class="dropdown megamenu-fw">
-                           <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="text-transform: none;">eLearning Services</a>
-                           <ul class="dropdown-menu megamenu-content" role="menu">
-                               <li>
-                                   <div class="row">
-                                       <div class="col-menu col-lg-4">
-                                           <h6 class="title">Custom Solutions</h6>
-                                           <div class="content">
-                                               <ul class="menu-col">
-                                                   <li><a href="services/Custom-eLearning-Development.php" target="_blank" style="text-transform: none;">Custom eLearning Development</a></li>
-                                                   <li><a href="services/Powerpoint-to-eLearning-Conversion.php" target="_blank" style="text-transform: none;">PowerPoint to eLearning Conversion</a></li>
-                                                   <li><a href="services/Mobile-Learn-Microlearning.php" target="_blank">Mobile Learning / Microlearning</a></li>
-                                                   <li><a href="services/Gamified-Learning-Modules.php" target="_blank">Gamified Learning Modules</a></li>
-                                               </ul>
-                                           </div>
-                                       </div>
-                                       <div class="col-menu col-lg-4">
-                                           <h6 class="title">Use Cases</h6>
-                                           <div class="content">
-                                               <ul class="menu-col">
-                                                   <li><a href="services/Employee-Onboarding.php" target="_blank">Employee Onboarding</a></li>
-                                                   <li><a href="services/Talent-Development.php" target="_blank">Talent Development</a></li>
-                                                   <li><a href="services/Compliance-Training.php" target="_blank">Compliance Training</a></li>
-                                                   <li><a href="services/Sales-Enablement.php" target="_blank">Sales Enablement</a></li>
-                                                   <li><a href="services/Customer-Education.php" target="_blank">Customer Education</a></li>
-                                                   <li><a href="services/Partner-Enablement.php" target="_blank">Partner Enablement</a></li>
-                                                   <li><a href="services/Frontline-Workforce-Training.php" target="_blank">Frontline Workforce Training</a></li>
-                                                   <li><a href="services/Member-Training.php" target="_blank">Member Training</a></li>
-                                               </ul>
-                                           </div>
-                                       </div>
-                                       <div class="col-menu col-lg-4">
-                                           <h6 class="title">Industries We Serve</h6>
-                                           <div class="content">
-                                               <ul class="menu-col">
-                                                   <li><a href="">Software & Tech</a></li>
-                                                   <li><a href="">Financial Services</a></li>
-                                                   <li><a href="">Manufacturing</a></li>
-                                                   <li><a href="">Healthcare</a></li>
-                                                   <li><a href="">Government</a></li>
-                                                   <li><a href="">Restaurants & Hospitality</a></li>
-                                                   <li><a href="">Education</a></li>
-                                                   <li><a href="">Retail</a></li>
-                                               </ul>
-                                           </div>
-                                       </div>
-                                   </div>
-                               </li>
+                       <!-- INDUSTRIES -->
+                       <li class="dropdown">
+                           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Industries</a>
+                           <ul class="dropdown-menu">
+                               <li><a href="./services/logistics-content-marketing.php">Logistics & Supply Chain</a></li>
+                               <li><a href="./services/Industries-We-Serve-Manufacturing.php">Manufacturing</a></li>
+                               <li><a href="#">Healthcare</a></li>
+                               <li><a href="#">Real Estate</a></li>
+                               <li><a href="#">Education & EdTech</a></li>
+                               <li><a href="#">E-Commerce & D2C</a></li>
+                               <li><a href="#">Finance & FinTech</a></li>
+                               <li><a href="#">IT & SaaS</a></li>
+                               <li><a href="#">Professional Services</a></li>
+                               <li><a href="#">Startups</a></li>
                            </ul>
                        </li>
 
-                       <!-- <li class="dropdown">
-                           <a href="./services/whatsapp-marketing-and-automation.php" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
-                           <ul class="dropdown-menu">
-                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
-                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
-                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
-                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
-                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
-                           </ul>
-                       </li> -->
+                       <!-- CASE STUDIES -->
+                       <li>
+                           <a href="./resources/all-blogs.php">Case Studies</a>
+                       </li>
 
-                       <!-- <li class="dropdown">
-                           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Video Services</a>
-                           <ul class="dropdown-menu">
-                               <li><a href="services/Explainer-Videos.php">Explainer Videos</a></li>
-                               <li><a href="services/Demo-Videos.php">Demo Videos</a></li>
-                               <li><a href="services/Video-Ads.php">Video Ads</a></li>
-                               <li><a href="services/Social-Media-Videos.php">Social Media Videos</a></li>
-                               <li><a href="services/Repurpose-Videos.php">Repurpose Videos</a></li>
-                               <li><a href="services/Video-Editing.php">Video Editing</a></li>
-                               <li><a href="services/How-To-Videos.php">How-to Videos</a></li>
-                               <li><a href="services/Onboarding-Videos.php">Onboarding Videos</a></li>
-                           </ul>
-                       </li> -->
+                       <!-- CONTACT -->
+                       <li>
+                           <a href="/contact-us.php">Contact Us</a>
+                       </li>
 
-                       <li><a href="./contact-us.php">Contact</a></li>
                    </ul>
-               </div><!-- /.navbar-collapse -->
+               </div>
 
                <div class="attr-right">
                    <!-- Start Atribute Navigation -->
@@ -326,4 +377,3 @@
        </nav>
        <!-- End Navigation -->
    </header>
-   <!-- End Header -->

@@ -478,7 +478,7 @@
             </div>
         </div>
         <div class="services-style-three-area bg-dark bg-cover default-padding bottom-less" style="margin-top:80px"
-            style="background-image: url(assets/img/shape/banner-6.jpg);">
+            style="background-image: url(assets/img/shape/banner-6.jpg);"> 
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 offset-lg-2">

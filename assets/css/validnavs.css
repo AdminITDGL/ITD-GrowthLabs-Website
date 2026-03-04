@@ -1373,9 +1373,9 @@ nav.navbar.validnavs.brand-center {
 	}
 
 	nav.navbar.validnavs ul li.dropdown ul.dropdown-menu li a {
-		color: var(--dark);
+		color: #646464;
 		display: block;
-		font-size: 15px;
+		font-size: 13px;
 		margin-bottom: 0;
 		padding: 7px 15px !important;
 		text-align: left;
@@ -1421,7 +1421,7 @@ nav.navbar.validnavs.brand-center {
 	}
 
 	.megamenu-content .title {
-		font-size: 20px;
+		font-size: 13px;
 	}
 
 	nav.navbar.validnavs ul.dropdown-menu.megamenu-content>li {
