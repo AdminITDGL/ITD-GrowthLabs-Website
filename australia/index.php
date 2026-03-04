@@ -794,24 +794,7 @@
             }
         }
     </style>
-    <div class="country-flags-header">
-        <div class="container">
-            <div class="country-flags-container">
-                <a href="../uae/index.php" class="country-flag-item">
-                    <img src="../assets/img/uae.png" alt="UAE Flag">
-                    <span>UAE</span>
-                </a>
-                <a href="../africa/index.php" class="country-flag-item">
-                    <img src="../assets/img/africa.png" alt="Africa Flag">
-                    <span>Africa</span>
-                </a>
-                <a href="../australia/index.php" class="country-flag-item">
-                    <img src="../assets/img/australia.png" alt="Australia Flag">
-                    <span>Australia</span>
-                </a>
-            </div>
-        </div>
-    </div>
+    
     <?php include("header.php") ?>
     <div class="banner-style-three-area overflow-hidden pt-100 pb-100" style="background-image: url(../assets/img/shape/banner-3.jpg);">
         <div class="container">
