@@ -196,6 +196,241 @@
            }
        }
    </style>
+   <style>
+       /* Your existing styles remain the same, adding mobile improvements below */
+
+       /* Enhanced Mobile Styles */
+       @media (max-width: 991px) {
+
+           /* Country flags - stack vertically for better mobile UX */
+           .country-flags-container {
+               justify-content: center;
+               gap: 8px;
+               padding: 8px 0;
+           }
+
+           .country-flag-item {
+               font-size: 12px;
+               padding: 8px 12px;
+               flex: 1;
+               min-width: 90px;
+               justify-content: center;
+           }
+
+           /* Navbar mobile improvements */
+           .navbar.validnavs {
+               padding: 0;
+           }
+
+           .navbar-toggle {
+               border: none;
+               padding: 8px 12px;
+           }
+
+           .navbar-toggle .icon-bar {
+               background-color: #111827;
+               height: 2px;
+               margin: 3px 0;
+               transition: 0.3s;
+           }
+
+           /* Navbar collapse full height overlay */
+           .navbar-collapse {
+               position: fixed;
+               top: 0;
+               left: 0;
+               width: 100%;
+               height: 100vh;
+               background: rgba(255, 255, 255, 0.98);
+               backdrop-filter: blur(10px);
+               z-index: 9999;
+               padding: 80px 20px 20px;
+               overflow-y: auto;
+               transform: translateX(100%);
+               transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+           }
+
+           .navbar-collapse.in {
+               transform: translateX(0);
+           }
+
+           /* Hide overlay screen if present */
+           .overlay-screen {
+               display: none !important;
+           }
+
+           /* Mobile nav items - full width, larger touch targets */
+           .nav.navbar-nav.navbar-center {
+               margin: 0;
+           }
+
+           .nav.navbar-nav.navbar-center>li {
+               width: 100%;
+               margin-bottom: 2px;
+           }
+
+           .nav.navbar-nav.navbar-center>li>a {
+               padding: 18px 20px;
+               font-size: 16px;
+               font-weight: 600;
+               border-radius: 12px;
+               margin: 4px 0;
+               background: rgba(26, 115, 232, 0.02);
+               border: 1px solid rgba(26, 115, 232, 0.1);
+               display: block;
+               color: #111827;
+           }
+
+           .nav.navbar-nav.navbar-center>li>a:hover,
+           .nav.navbar-nav.navbar-center>li>a:focus {
+               background: rgba(26, 115, 232, 0.1);
+               color: #1a73e8;
+               transform: translateX(8px);
+           }
+
+           /* Mobile dropdown toggle styling */
+           .dropdown-toggle::after {
+               position: absolute;
+               right: 20px;
+               top: 50%;
+               transform: translateY(-50%);
+               transition: transform 0.3s;
+               color: #6b7280;
+               font-size: 14px;
+           }
+
+           .dropdown.open .dropdown-toggle::after {
+               transform: translateY(-50%) rotate(180deg);
+           }
+
+           /* Mobile dropdown menu - stacked vertically */
+           .dropdown-menu {
+               position: static;
+               float: none;
+               width: 100%;
+               margin-top: 0;
+               background: transparent;
+               border: none;
+               box-shadow: none;
+               padding: 12px 0 0 40px;
+               max-height: none;
+           }
+
+           .dropdown-menu li a {
+               padding: 14px 20px;
+               font-size: 15px;
+               color: #4b5563;
+               border-radius: 10px;
+               margin: 4px 0;
+               background: rgba(248, 250, 252, 0.8);
+               border: 1px solid rgba(229, 231, 235, 0.5);
+           }
+
+           .dropdown-menu li a:hover {
+               background: rgba(26, 115, 232, 0.15);
+               color: #1a73e8;
+               border-color: rgba(26, 115, 232, 0.3);
+           }
+
+           /* Mega menu mobile - convert to simple expandable list */
+           .megamenu-content {
+               padding: 0 !important;
+               margin: 0;
+               background: transparent;
+               border: none;
+               box-shadow: none;
+           }
+
+           .megamenu-content .row {
+               display: block;
+               margin: 0;
+           }
+
+           .col-menu {
+               width: 100% !important;
+               padding: 0 !important;
+               margin-bottom: 20px;
+               border-bottom: 1px solid rgba(229, 231, 235, 0.5);
+               padding-bottom: 16px;
+           }
+
+           .title {
+               font-size: 15px !important;
+               margin-bottom: 12px !important;
+               position: static !important;
+           }
+
+           .title::after {
+               display: none !important;
+           }
+
+           .menu-col {
+               padding-left: 0;
+           }
+
+           .menu-col li a {
+               padding: 12px 16px;
+               font-size: 14px;
+               border: 1px solid rgba(229, 231, 235, 0.3);
+               background: rgba(255, 255, 255, 0.7);
+               margin: 3px 0;
+               border-radius: 8px;
+           }
+
+           /* Search improvements */
+           .top-search {
+               position: relative;
+               z-index: 10000;
+           }
+
+           .form-control {
+               font-size: 16px;
+               padding: 12px 20px;
+               border-radius: 25px;
+           }
+
+           /* CTA button mobile */
+           .attr-nav .button a {
+               padding: 12px 24px;
+               font-size: 15px;
+               font-weight: 600;
+               border-radius: 25px;
+               background: linear-gradient(135deg, #1a73e8, #0d5aa4);
+               color: white !important;
+               box-shadow: 0 4px 12px rgba(26, 115, 232, 0.3);
+           }
+
+           /* Backdrop close */
+           .navbar-collapse.in~.attr-right::before {
+               content: '';
+               position: fixed;
+               top: 0;
+               left: 0;
+               width: 100%;
+               height: 100%;
+               background: rgba(0, 0, 0, 0.3);
+               z-index: -1;
+           }
+       }
+
+       /* Improve existing mobile styles */
+       @media (max-width: 768px) {
+           .country-flags-container {
+               flex-direction: column;
+               gap: 6px;
+           }
+
+           .country-flag-item {
+               min-width: auto;
+               width: 140px;
+           }
+
+           .container {
+               padding-left: 15px;
+               padding-right: 15px;
+           }
+       }
+   </style>
    <div class="country-flags-header">
        <div class="container">
            <div class="country-flags-container">
