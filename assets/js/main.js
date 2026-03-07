@@ -10,6 +10,10 @@
 
 	$(document).ready(function() {
 
+		/* Ensure mobile navbar is hidden on load */
+		if ($(window).width() < 992) {
+			$('.navbar-collapse').removeClass('show in');
+		}
 
 		/* ==================================================
 		    # Wow Init

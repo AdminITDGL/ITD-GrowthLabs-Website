@@ -9885,7 +9885,9 @@ header {
 		left: auto !important;
 	}
 
-	header .navbar.validnavs .navbar-collapse.collapse {
+	/* Always hidden by default – show only when .show or .in is added by toggle */
+	header .navbar.validnavs .navbar-collapse.collapse,
+	header nav.navbar.validnavs.mobile-sidenav .navbar-collapse.collapse.collapse-mobile:not(.show):not(.in) {
 		display: none !important;
 	}
 
