@@ -1,4 +1,4 @@
-﻿   <div class="country-flags-header">
+   <div class="country-flags-header">
        <div class="container">
            <div class="country-flags-container">
                <a href="uae/index.php" class="country-flag-item">
@@ -37,7 +37,7 @@
            <div class="container d-flex justify-content-between align-items-center">
                <!-- Start Header Navigation -->
                <div class="navbar-header">
-                   <button type="button" style="left: -40%;" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                   <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu" aria-expanded="false" aria-controls="navbar-menu">
                        <i class="fa fa-bars"></i>
                    </button>
                    <a class="navbar-brand" href="../index.php">
