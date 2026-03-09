@@ -1,7 +1,7 @@
    <div class="country-flags-header">
        <div class="container">
            <div class="country-flags-container">
-               <a href="uae/index.php" class="country-flag-item">
+               <a href="../uae/index.php" class="country-flag-item">
                    <img src="../assets/img/uae.png" alt="UAE Flag">
                    <span>UAE</span>
                </a>
