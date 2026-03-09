@@ -245,9 +245,12 @@
                     // Dropdown Fade Toggle
                     $("a.dropdown-toggle", this).off('click');
                     $("a.dropdown-toggle", this).on('click', function(e) {
+                        e.preventDefault();
                         e.stopPropagation();
-                        $(this).closest("li.dropdown").find(".dropdown-menu").first().stop().fadeToggle().toggleClass(getIn);
-                        $(this).closest("li.dropdown").first().toggleClass("on");
+                        var $li = $(this).closest("li.dropdown");
+                        var $menu = $li.find(".dropdown-menu").first();
+                        $menu.stop().slideToggle(200).toggleClass(getIn);
+                        $li.toggleClass("on");
                         return false;
                     });
 
@@ -260,36 +263,42 @@
                         return false;
                     });
 
-                    // Megamenu style
+                    // Megamenu style - use .content or .menu-col (whichever exists in DOM)
                     $(".megamenu-fw", this).each(function() {
                         $(".col-menu", this).each(function() {
-                            $(".content", this).stop().fadeOut();
+                            var $content = $(".content, .menu-col", this).first();
+                            $content.hide().removeClass(getIn);
                             $(".title", this).off("click");
-                            $(".title", this).on("click", function() {
-                                $(this).closest(".col-menu").find(".content").stop().fadeToggle().addClass(getIn);
-                                $(this).closest(".col-menu").toggleClass("on");
+                            $(".title", this).on("click", function(e) {
+                                e.preventDefault();
+                                e.stopPropagation();
+                                var $col = $(this).closest(".col-menu");
+                                var $target = $col.find(".content, .menu-col").first();
+                                $target.stop().slideToggle(200);
+                                $col.toggleClass("on");
                                 return false;
                             });
 
-                            $(".content", this).on("click", function(e) {
+                            $content.on("click", function(e) {
                                 e.stopPropagation();
                             });
                         });
                     });
                 });
 
-                // Hidden dropdown
+                // Hidden dropdown - scope to nav element
+                var $navScope = $("nav.navbar.validnavs");
                 var cleanOpen = function() {
-                    $('li.dropdown', this).removeClass("on");
-                    $(".dropdown-menu", this).stop().fadeOut();
-                    $(".dropdown-menu", this).removeClass(getIn);
-                    $(".col-menu", this).removeClass("on");
-                    $(".col-menu .content", this).stop().fadeOut();
-                    $(".col-menu .content", this).removeClass(getIn);
+                    $('li.dropdown', $navScope).removeClass("on");
+                    $(".dropdown-menu", $navScope).stop().fadeOut();
+                    $(".dropdown-menu", $navScope).removeClass(getIn);
+                    $(".col-menu", $navScope).removeClass("on");
+                    $(".col-menu .content, .col-menu .menu-col", $navScope).stop().fadeOut();
+                    $(".col-menu .content, .col-menu .menu-col", $navScope).removeClass(getIn);
                 }
 
-                // Hidden om mouse leave
-                $("nav.navbar.validnavs").on("mouseleave", function() {
+                // Hidden on mouse leave
+                $navScope.off("mouseleave.cleanOpen").on("mouseleave.cleanOpen", function() {
                     cleanOpen();
                 });
 
@@ -316,7 +325,7 @@
                     $(this).off("click");
                     $(this).on("click", function() {
                         $(".fa", this).toggleClass("fa-bars");
-                        $(".fa", this).toggleClass("fa-bars");
+                        $(".fa", this).toggleClass("fa-times");
                         $('.navbar-collapse').toggleClass("show");
                         $('.overlay-screen').toggleClass("opened");
                         $('.navbar').toggleClass("navbar-responsive");

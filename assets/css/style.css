@@ -9863,6 +9863,7 @@ header {
 		background: #f8fafc !important;
 		color: #374151 !important;
 		font-size: 18px !important;
+		right: 40% !important;
 	}
 
 	header .navbar.validnavs .navbar-toggle:hover,
@@ -9871,6 +9872,7 @@ header {
 		color: #1a73e8 !important;
 		border-color: rgba(26, 115, 232, 0.25) !important;
 		outline: none !important;
+		right: 40% !important;
 	}
 
 	header .navbar.validnavs .navbar-collapse {
@@ -9929,9 +9931,29 @@ header {
 		color: #1a73e8 !important;
 	}
 
-	header .navbar.validnavs .nav.navbar-nav > li.dropdown.open > a {
+	header .navbar.validnavs .nav.navbar-nav > li.dropdown.open > a,
+	header .navbar.validnavs .nav.navbar-nav > li.dropdown.on > a {
 		background: #f0f7ff !important;
 		color: #1a73e8 !important;
+	}
+
+	/* Single arrow for dropdown – remove ::before (validnavs adds it), use ::after only */
+	header .navbar.validnavs .navbar-nav > li.dropdown > a.dropdown-toggle::before {
+		display: none !important;
+	}
+
+	header .navbar.validnavs .navbar-nav > li.dropdown > a.dropdown-toggle::after {
+		display: inline-block !important;
+		content: "\f107";
+		font-family: "Font Awesome 5 Free", "FontAwesome";
+		font-weight: 900;
+		margin-left: 8px;
+		border: none;
+		transition: transform 0.2s ease;
+	}
+
+	header .navbar.validnavs .navbar-nav > li.dropdown.on > a.dropdown-toggle::after {
+		transform: rotate(180deg);
 	}
 
 	/* Mega menu mobile – stacked */
@@ -9978,10 +10000,42 @@ header {
 		letter-spacing: 0.08em !important;
 		color: #1a73e8 !important;
 		margin-bottom: 8px !important;
+		cursor: pointer !important;
+		position: relative !important;
+		padding-right: 24px !important;
+		user-select: none !important;
+	}
+
+	header .navbar.validnavs .megamenu-content .title::before {
+		content: "\f105" !important;
+		font-family: "Font Awesome 5 Free", "FontAwesome" !important;
+		font-weight: 900 !important;
+		position: absolute !important;
+		right: 0 !important;
+		top: 50% !important;
+		transform: translateY(-50%) !important;
+		transition: transform 0.2s ease !important;
+	}
+
+	header .navbar.validnavs .megamenu-content .col-menu.on .title::before {
+		content: "\f107" !important;
 	}
 
 	header .navbar.validnavs .megamenu-content .title::after {
 		display: none !important;
+	}
+
+	/* Accordion: hide menu-col by default, show when .on (no !important so JS can animate) */
+	header .navbar.validnavs .megamenu-content .col-menu .menu-col,
+	header .navbar.validnavs .megamenu-content .col-menu .content {
+		display: none;
+		margin: 0 !important;
+		padding: 0 !important;
+	}
+
+	header .navbar.validnavs .megamenu-content .col-menu.on .menu-col,
+	header .navbar.validnavs .megamenu-content .col-menu.on .content {
+		display: block;
 	}
 
 	header .navbar.validnavs .megamenu-content .menu-col {
