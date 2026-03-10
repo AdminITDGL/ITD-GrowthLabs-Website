@@ -249,7 +249,7 @@
                         e.stopPropagation();
                         var $li = $(this).closest("li.dropdown");
                         var $menu = $li.find(".dropdown-menu").first();
-                        $menu.stop().slideToggle(200).toggleClass(getIn);
+                        $menu.stop().slideToggle(300).toggleClass(getIn);
                         $li.toggleClass("on");
                         return false;
                     });
@@ -274,7 +274,7 @@
                                 e.stopPropagation();
                                 var $col = $(this).closest(".col-menu");
                                 var $target = $col.find(".content, .menu-col").first();
-                                $target.stop().slideToggle(200);
+                                $target.stop().slideToggle(300);
                                 $col.toggleClass("on");
                                 return false;
                             });
