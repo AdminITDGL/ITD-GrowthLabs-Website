@@ -641,7 +641,7 @@
                                 Partner with expert website developers for startups and businesses. We deliver result driven business website development including responsive design SEO ready structure.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://wa.me/918450978544?text=Hello%2C%20I%20need%20more%20information%20about%20your%20mobile%20and%20web%20app%20development%20services." target="_blank">Let’s Build Your Website</a>
+                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Let’s Build Your Website</a>
                             </div>
                         </div>
                     </div>
@@ -778,7 +778,7 @@
                         <div class="counter" style="color:var(--color-primary)">
                             <span class="timer" data-to="100" data-speed="2000">100</span><span>+</span>
                         </div>
-                        <h4>Tech Experts</h4>
+                        <h4>Website Experts</h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
@@ -786,7 +786,7 @@
                         <div class="counter" style="color:var(--color-primary)">
                             <span class="timer" data-to="50" data-speed="2000">50</span><span>+</span>
                         </div>
-                        <h4>Apps Delivered</h4>
+                        <h4>Websites Delivered</h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
@@ -809,7 +809,7 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">WHY CHOOSE ITD GROWTHLABS LABS</h5>
+                        <h5 class="sub-title">WHY CHOOSE ITD GROWTHLABS</h5>
                         <h2 class="title">Trusted Business Website Development Company for India</h2>
                         <p class="mt-30">
                             We deliver reliable business website development services for startups, SMEs, and enterprises. Our team builds responsive website design with SEO ready structure and scalable development solutions that improve online visibility, support digital growth, and create powerful business websites.
@@ -890,7 +890,7 @@
                     <div class="process-hexagon">
                         <div class="hexagon-content">
                             <div class="step-number">01</div><i class="fas fa-search"></i>
-                            <h5>Strategize</h5>
+                            <h5>STRATEGIZE</h5>
                             <p>Market research & roadmap</p>
                         </div>
                     </div>
@@ -898,7 +898,7 @@
                     <div class="process-hexagon">
                         <div class="hexagon-content">
                             <div class="step-number">02</div><i class="fas fa-pencil-ruler"></i>
-                            <h5>Architect</h5>
+                            <h5>ARCHITECT</h5>
                             <p>Sitemap & wireframing</p>
                         </div>
                     </div>
@@ -906,7 +906,7 @@
                     <div class="process-hexagon">
                         <div class="hexagon-content">
                             <div class="step-number">03</div><i class="fas fa-code"></i>
-                            <h5>Build</h5>
+                            <h5>BUILD</h5>
                             <p>Custom web development</p>
                         </div>
                     </div>
@@ -914,7 +914,7 @@
                     <div class="process-hexagon">
                         <div class="hexagon-content">
                             <div class="step-number">04</div><i class="fas fa-bug"></i>
-                            <h5>Audit</h5>
+                            <h5>AUDIT</h5>
                             <p>Quality & performance</p>
                         </div>
                     </div>
@@ -922,7 +922,7 @@
                     <div class="process-hexagon">
                         <div class="hexagon-content">
                             <div class="step-number">05</div><i class="fas fa-rocket"></i>
-                            <h5>Go-Live</h5>
+                            <h5>GO-LIVE</h5>
                             <p>Site optimization</p>
                         </div>
                     </div>
@@ -930,7 +930,7 @@
                     <div class="process-hexagon">
                         <div class="hexagon-content">
                             <div class="step-number">06</div><i class="fas fa-headset"></i>
-                            <h5>Evolve</h5>
+                            <h5>EVOLVE</h5>
                             <p>Scaling & maintenance</p>
                         </div>
                     </div>
@@ -954,91 +954,91 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-building fa-3x mb-3"></i>
-                        <a href="../lp/website-design-development.php" class="btn-arrow">
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic Business Website Development for established enterprises, focusing on professional branding, high-end security, and seamless user experiences.</p>
-                        <h4><a href="../lp/website-design-development.php">Corporate Website Development</a></h4>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Corporate Website Development</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-shopping-cart fa-3x mb-3"></i>
-                        <a href="../lp/website-design-development.php" class="btn-arrow">
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Scalable Custom Website Design for online stores, integrating secure payment gateways, inventory management, and conversion-optimized checkout flows.</p>
-                        <h4><a href="../lp/website-design-development.php">Custom E-commerce Solutions</a></h4>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Custom E-commerce Solutions</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="../lp/website-design-development.php" class="btn-arrow">
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Expert Web Development Company services ensuring your site performs perfectly on all devices, from desktops to mobile phones, for better reach.</p>
-                        <h4><a href="../lp/website-design-development.php">Responsive Web Design</a></h4>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Responsive Web Design</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fab fa-wordpress fa-3x mb-3"></i>
-                        <a href="../lp/website-design-development.php" class="btn-arrow">
+                        <i class="fas fa-cogs fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Streamlined Business Website Development using WordPress or custom CMS platforms, allowing your team to manage content effortlessly without technical help.</p>
-                        <h4><a href="../lp/website-design-development.php">CMS Website Development</a></h4>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">CMS Website Development</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-paint-brush fa-3x mb-3"></i>
-                        <a href="../lp/website-design-development.php" class="btn-arrow">
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Premium Custom Website Design focused on user behavior, creating intuitive interfaces that drive engagement and improve lead generation for your brand.</p>
-                        <h4><a href="../lp/website-design-development.php">UI/UX Design Services</a></h4>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">UI/UX Design Services</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-code fa-3x mb-3"></i>
-                        <a href="../lp/website-design-development.php" class="btn-arrow">
+                        <i class="fas fa-laptop-code fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>A leading Web Development Company providing robust backend architecture and modern frontend frameworks for complex, data-driven business applications.</p>
-                        <h4><a href="../lp/website-design-development.php">Full-Stack Web Development</a></h4>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Full-Stack Web Development</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-bullseye fa-3x mb-3"></i>
-                        <a href="../lp/website-design-development.php" class="btn-arrow">
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>High-converting Business Website Development for specific marketing campaigns, designed to capture leads and maximize your digital advertising ROI.</p>
-                        <h4><a href="../lp/website-design-development.php">Landing Page Optimization</a></h4>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Landing Page Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-sync-alt fa-3x mb-3"></i>
-                        <a href="../lp/website-design-development.php" class="btn-arrow">
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Modern Custom Website Design updates for outdated sites, improving speed, SEO rankings, and visual appeal to match current industry standards.</p>
-                        <h4><a href="../lp/website-design-development.php">Website Redesign & Audit</a></h4>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Website Redesign & Audit</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-tools fa-3x mb-3"></i>
-                        <a href="../lp/website-design-development.php" class="btn-arrow">
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Ongoing Web Development Company support to ensure your site remains secure, updated, and bug-free, providing peace of mind for your daily operations.</p>
-                        <h4><a href="../lp/website-design-development.php">Web Maintenance & Support</a></h4>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Web Maintenance & Support</a></h4>
                     </div>
                 </div>
             </div>
@@ -1052,9 +1052,9 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">Smart Tech Choices</h5>
-                        <h2 class="title">Behind Every Successful Mobile App Development</h2>
-                        <p class="mt-30">We use proven and modern technologies to deliver strong, secure, and high-performing apps across platforms — built to scale for any business.</p>
+                        <h5 class="sub-title">SMART TECH CHOICES</h5>
+                        <h2 class="title">Behind Every Successful Business Website</h2>
+                        <p class="mt-30">We use proven and modern technologies to deliver strong, secure, and high-performing websites across browsers — built to scale for any business.</p>
                     </div>
                 </div>
             </div>
@@ -1282,6 +1282,113 @@
             </div>
         </div>
     </div>
+    <div class="default-padding bg-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="site-heading text-center">
+                        <h5 class="sub-title">INDUSTRIES WE SERVE</h5>
+                        <h2 class="title">We Build Apps for Every Industry</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="industry-carousel-wrapper">
+                <div class="swiper industry-carousel">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="industry-card">
+                                <div class="industry-bg" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'); background-size: cover; background-position: center;"></div>
+                                <div class="industry-overlay">
+                                    <i class="fas fa-heartbeat"></i>
+                                    <span>Healthcare</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="industry-card">
+                                <div class="industry-bg" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80'); background-size: cover; background-position: center;"></div>
+                                <div class="industry-overlay">
+                                    <i class="fas fa-shopping-cart"></i>
+                                    <span>E-commerce & D2C</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="industry-card">
+                                <div class="industry-bg" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80'); background-size: cover; background-position: center;"></div>
+                                <div class="industry-overlay">
+                                    <i class="fas fa-building"></i>
+                                    <span>Real Estate</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="industry-card">
+                                <div class="industry-bg" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'); background-size: cover; background-position: center;"></div>
+                                <div class="industry-overlay">
+                                    <i class="fas fa-shipping-fast"></i>
+                                    <span>Logistics & Transport</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="industry-card">
+                                <div class="industry-bg" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80'); background-size: cover; background-position: center;"></div>
+                                <div class="industry-overlay">
+                                    <i class="fas fa-graduation-cap"></i>
+                                    <span>Education & EdTech</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="industry-card">
+                                <div class="industry-bg" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&q=80'); background-size: cover; background-position: center;"></div>
+                                <div class="industry-overlay">
+                                    <i class="fas fa-rocket"></i>
+                                    <span>Startups & SaaS</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="industry-nav">
+                    <div class="industry-nav-prev"><i class="fas fa-chevron-left"></i></div>
+                    <div class="industry-nav-next"><i class="fas fa-chevron-right"></i></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const industryCarousel = new Swiper('.industry-carousel', {
+                slidesPerView: 1,
+                spaceBetween: 20,
+                loop: true,
+                autoplay: {
+                    delay: 3000,
+                    disableOnInteraction: false
+                },
+                navigation: {
+                    nextEl: '.industry-nav-next',
+                    prevEl: '.industry-nav-prev'
+                },
+                breakpoints: {
+                    576: {
+                        slidesPerView: 2,
+                        spaceBetween: 20
+                    },
+                    768: {
+                        slidesPerView: 3,
+                        spaceBetween: 25
+                    },
+                    992: {
+                        slidesPerView: 4,
+                        spaceBetween: 30
+                    }
+                }
+            });
+        });
+    </script>
 
     <!-- Start Call to Action
     ============================================= -->
@@ -1291,7 +1398,7 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center text-light mt-0">
                         <h2 class="title text-white mb-30">Ready to Build Your Website?</h2>
-                        <p class="text-white">Work with a trusted business website development company for long-term success.</p>
+                        <p class="text-white">Work with a trusted business website development company for strong online presence and digital growth.</p>
                         <div class="button mt-40">
                             <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Let's Talk</a>
                         </div>
@@ -1321,12 +1428,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        How long does it take to develop a mobile app?
+                                        How long does it take to develop a business website?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Typically, a mobile app takes 2-4 months depending on complexity, features, and platform (iOS, Android, or both).
+                                        Typically, a business website takes 4-8 weeks depending on complexity, pages, and features. Simple websites can be delivered in 2-3 weeks.
                                     </div>
                                 </div>
                             </div>
@@ -1335,12 +1442,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        What's the average cost of app development?
+                                        What's the average cost of business website development?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        App development costs vary based on features and complexity. Basic apps start around ₹50,000, while enterprise apps can range from ₹3,00,000 to ₹10,00,000+.
+                                        Website development costs vary based on complexity and features. Simple business websites start around ₹25,000, while custom enterprise sites can range from ₹1,00,000 to ₹5,00,000+.
                                     </div>
                                 </div>
                             </div>
@@ -1349,12 +1456,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Do you develop for both iOS and Android?
+                                        Do you offer responsive website design?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we develop native apps for both platforms and also offer cross-platform solutions using React Native and Flutter for cost-effective development.
+                                        Yes, all our business websites are built with responsive design, ensuring your site looks and performs perfectly on desktops, tablets, and mobile devices.
                                     </div>
                                 </div>
                             </div>
@@ -1363,12 +1470,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Will you help with app store submission?
+                                        Will my website be SEO-ready?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Absolutely. We handle the complete app store submission process for both Google Play Store and Apple App Store, including all required documentation and compliance.
+                                        Yes, all our business websites are built with SEO-ready structure including proper meta tags, clean URLs, fast loading, and mobile-friendly design to improve search visibility.
                                     </div>
                                 </div>
                             </div>
@@ -1377,12 +1484,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you provide post-launch support and maintenance?
+                                        Do you provide post-launch website support and maintenance?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we offer comprehensive post-launch support including bug fixes, updates, feature enhancements, and maintenance to keep your app running smoothly.
+                                        Yes, we offer comprehensive website maintenance and support including updates, performance monitoring, security patches, and content updates to keep your business website running smoothly.
                                     </div>
                                 </div>
                             </div>
