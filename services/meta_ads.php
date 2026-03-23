@@ -24,8 +24,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Craft compelling and persuasive website content with ITD GrowthLabs. Our expert content writing enhances SEO, engages visitors, and strengthens your brand presence for measurable business growth.">
-    <title>Website Content Writing Services for Businesses | ITD GrowthLabs</title>
+    <meta name="description" content="Boost your business with expert Meta Ads Management. ITD GrowthLabs delivers targeted ad campaigns, audience optimization, and measurable ROI to maximize brand visibility and conversions.">
+    <title>Meta Ads Management Services for Businesses | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
@@ -635,13 +635,13 @@
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
                             <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
-                                Website Content Writing <span style="color: var(--color-primary);">Services</span> for Businesses
+                                Meta Ads <span style="color: var(--color-primary);">Management Services</span> for Businesses
                             </h2>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
-                                Enhance your brand and engage visitors with professional website content writing. Our content writing services deliver SEO-optimized, persuasive, and high-quality website content to boost traffic, conversions, and business growth.
+                                Maximize your social media reach with professional Meta Ads Management. Our strategies deliver targeted engagement, optimized ad creatives, and data-driven campaigns to increase conversions and grow your business online.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Create Content</a>
+                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Run Campaign</a>
                             </div>
                         </div>
                     </div>
@@ -778,7 +778,7 @@
                         <div class="counter" style="color:var(--color-primary)">
                             <span class="timer" data-to="100" data-speed="2000">100</span><span>+</span>
                         </div>
-                        <h4>Content Experts</h4>
+                        <h4>Tech Experts</h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
@@ -786,7 +786,7 @@
                         <div class="counter" style="color:var(--color-primary)">
                             <span class="timer" data-to="50" data-speed="2000">50</span><span>+</span>
                         </div>
-                        <h4>Projects Delivered</h4>
+                        <h4>Apps Delivered</h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
@@ -810,9 +810,9 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">WHY CHOOSE ITD GROWTHLABS</h5>
-                        <h2 class="title">Premier Website Content Writing Agency in India</h2>
+                        <h2 class="title">Premier Meta Ads Management Agency in India</h2>
                         <p class="mt-30">
-                            ITD GrowthLabs is a trusted Website Content Writing company providing professional content writing solutions for businesses worldwide. Our team delivers high-quality website content that engages visitors, improves SEO rankings, and drives measurable business growth.
+                            ITD GrowthLabs is a trusted Meta Ads company providing professional Meta Ads Management solutions for businesses worldwide. Our team delivers high-performing Meta Ads campaigns that boost engagement, drive targeted traffic, and maximize ROI for measurable results.
                         </p>
                     </div>
                 </div>
@@ -821,19 +821,19 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-search"></i>
+                            <i class="fas fa-chart-line"></i>
                         </div>
-                        <h4>SEO-Focused Content Strategy</h4>
-                        <p>Craft website content with keyword research, topic planning, and SEO-optimized structure to maximize search visibility and engagement.</p>
+                        <h4>Meta Ads Strategy & Planning</h4>
+                        <p>Complete Meta Ads Management from campaign audit and audience research to ad setup, ensuring optimized campaigns and better ROI.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-user-edit"></i>
+                            <i class="fas fa-user-tie"></i>
                         </div>
-                        <h4>Dedicated Content Specialist</h4>
-                        <p>A dedicated content writer ensures clear communication, content consistency, and tailored messaging for your business website.</p>
+                        <h4>Dedicated Meta Ads Specialist</h4>
+                        <p>A dedicated expert for your Meta Ads ensures smooth communication, strategic guidance, and precise execution for measurable results.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -842,25 +842,25 @@
                             <i class="fas fa-handshake"></i>
                         </div>
                         <h4>Transparent Pricing</h4>
-                        <p>Website content writing services with upfront pricing, detailed project timelines, and clear cost breakdown for predictable results.</p>
+                        <p>Our Meta Ads services provide clear pricing and detailed project timelines before starting your campaigns.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-pen-fancy"></i>
+                            <i class="fas fa-rocket"></i>
                         </div>
-                        <h4>High-Quality & Engaging Content</h4>
-                        <p>Develop compelling, professional content for web pages, blogs, and landing pages to boost visitor engagement and conversions.</p>
+                        <h4>Agile Campaign Execution</h4>
+                        <p>We implement Meta Ads campaigns using agile workflows to deliver faster results and ongoing campaign improvements.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-chart-line"></i>
+                            <i class="fas fa-headset"></i>
                         </div>
-                        <h4>Performance Monitoring & Optimization</h4>
-                        <p>Continuous review of website content with analytics, SEO audits, and updates to improve readability, search rankings, and conversions.</p>
+                        <h4>Continuous Meta Ads Support</h4>
+                        <p>Ongoing Meta Ads support with ad testing, bid optimization, and performance monitoring to maximize clicks and conversions.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -868,8 +868,8 @@
                         <div class="icon-wrapper">
                             <i class="fas fa-expand-arrows-alt"></i>
                         </div>
-                        <h4>Scalable Content Solutions</h4>
-                        <p>Website content writing services designed for long-term growth, providing scalable strategies, multiple formats, and industry-specific content.</p>
+                        <h4>Scalable Meta Ads Solutions</h4>
+                        <p>Our Meta Ads focus on long-term growth with scalable strategies, analytics-driven insights, and data optimization for measurable ROI.</p>
                     </div>
                 </div>
             </div>
@@ -891,7 +891,7 @@
                         <div class="hexagon-content">
                             <div class="step-number">01</div><i class="fas fa-search"></i>
                             <h5>DISCOVER</h5>
-                            <p>Website content strategy & planning</p>
+                            <p>Meta Ads Management campaign planning</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
@@ -899,7 +899,7 @@
                         <div class="hexagon-content">
                             <div class="step-number">02</div><i class="fas fa-pencil-ruler"></i>
                             <h5>DESIGN</h5>
-                            <p>Content outline & structure design</p>
+                            <p>Creative Meta Ads Management ad design</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
@@ -907,7 +907,7 @@
                         <div class="hexagon-content">
                             <div class="step-number">03</div><i class="fas fa-cogs"></i>
                             <h5>DEVELOP</h5>
-                            <p>Expert content creation & drafting</p>
+                            <p>Expert Meta Ads Management setup</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
@@ -915,7 +915,7 @@
                         <div class="hexagon-content">
                             <div class="step-number">04</div><i class="fas fa-chart-bar"></i>
                             <h5>TEST</h5>
-                            <p>Content review & SEO optimization</p>
+                            <p>Meta Ads Management performance auditing</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
@@ -923,7 +923,7 @@
                         <div class="hexagon-content">
                             <div class="step-number">05</div><i class="fas fa-rocket"></i>
                             <h5>LAUNCH</h5>
-                            <p>Smooth content publishing & deployment</p>
+                            <p>Smooth Meta Ads Management campaign launch</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
@@ -931,7 +931,7 @@
                         <div class="hexagon-content">
                             <div class="step-number">06</div><i class="fas fa-headset"></i>
                             <h5>SUPPORT</h5>
-                            <p>Ongoing content updates & optimization</p>
+                            <p>Ongoing Meta Ads Management optimization support</p>
                         </div>
                     </div>
                 </div>
@@ -944,7 +944,7 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">OUR WEB DEVELOPMENT SERVICES</h5>
-                        <h2 class="title">Behind Every Successful Website Content Writing Project</h2>
+                        <h2 class="title">Trusted Meta Ads Management Services Company in India</h2>
                     </div>
                 </div>
             </div>
@@ -953,12 +953,12 @@
             <div class="row" style="display: flex; flex-wrap: wrap;">
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-sitemap fa-3x mb-3"></i>
+                        <i class="fas fa-chart-line fa-3x mb-3"></i>
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Strategic Website Content Writing for businesses, focusing on keyword research, content planning, and engagement strategies to improve brand visibility and online ROI.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Website Content Strategy</a></h4>
+                        <p>Strategic Meta Ads Management for businesses, focusing on audience targeting, ad copy optimization, and bidding strategies to improve campaign performance and ROI.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Meta Ads Strategy</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -967,8 +967,8 @@
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Scalable Website Content Writing services with structure planning, content scheduling, audience analysis, and secure platform setup for maximum efficiency.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Content Development Setup</a></h4>
+                        <p>Scalable Meta Ads Management services with account structure, conversion tracking, audience segmentation, and secure setup for maximum efficiency.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Technical Campaign Setup</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -977,8 +977,8 @@
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Professional Website Content Writing ensuring content displays correctly on desktops, tablets, and mobile devices for higher user engagement.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Multi-Device & SEO Optimization</a></h4>
+                        <p>Professional Meta Ads Management ensuring ads display correctly on mobile devices and across Meta platforms for higher reach.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Mobile & Social Ads</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -987,8 +987,8 @@
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Flexible Website Content Writing with optimized headings, meta descriptions, and A/B testing to boost readability, engagement, and search visibility.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Content & Copy Optimization</a></h4>
+                        <p>Flexible Meta Ads Management with targeted keywords, ad variations, and A/B testing to boost clicks, engagement, and conversions.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Keyword & Ad Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -997,18 +997,18 @@
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Conversion-focused Website Content Writing designed around user behavior to improve content relevance, engagement, and overall site performance.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Creative Enhancements</a></h4>
+                        <p>Conversion-focused Meta Ads Management designed around user behavior to improve ad relevance, engagement, and overall campaign performance.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Creative Ad Enhancements</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-sync-alt fa-3x mb-3"></i>
+                        <i class="fas fa-retweet fa-3x mb-3"></i>
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Advanced Website Content Writing strategies including regular updates, topic expansion, and internal linking to maintain search rankings and traffic.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Content Refresh & Updates</a></h4>
+                        <p>Advanced Meta Ads Management strategies including retargeting, dynamic ads, and custom audience targeting to increase return on ad spend.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Remarketing & Retargeting</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -1017,18 +1017,18 @@
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>High-performing Website Content Writing with monitoring, analytics, and reporting to enhance content impact and ROI.</p>
+                        <p>High-performing Meta Ads Management with regular monitoring, analytics, and reporting to enhance campaign results and ROI.</p>
                         <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Performance Tracking & Analytics</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-clipboard-check fa-3x mb-3"></i>
+                        <i class="fas fa-sync-alt fa-3x mb-3"></i>
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Modern Website Content Writing upgrades for existing sites to improve structure, readability, and overall content efficiency.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Audit & Redesign</a></h4>
+                        <p>Modern Meta Ads Management upgrades for existing campaigns to improve ad structure, targeting, and overall campaign efficiency.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Campaign Audit & Redesign</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -1037,8 +1037,8 @@
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Reliable Website Content Writing support with continuous updates, SEO improvements, reporting, and content strategy enhancements for sustained results.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Ongoing Support & Optimization</a></h4>
+                        <p>Reliable Meta Ads Management support with continuous updates, bid management, reporting, and optimization to maintain top campaign performance.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Ongoing Campaign Support</a></h4>
                     </div>
                 </div>
             </div>
@@ -1055,70 +1055,58 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">SMART TECH CHOICES</h5>
-                        <h2 class="title">Behind Every Successful Website Content Writing Project</h2>
-                        <p class="mt-30">We use proven tools and modern strategies to deliver secure and scalable Website Content Writing solutions — built to support high-performing websites and measurable results for businesses.</p>
+                        <h2 class="title">Behind Every Successful Meta Ads Campaign</h2>
+                        <p class="mt-30">We use proven tools and modern technologies to deliver secure and scalable Meta Ads Management solutions — built to support high-performing campaigns and measurable results for businesses.</p>
                     </div>
                 </div>
             </div>
             <div class="row justify-content-center">
                 <div class="col-6 col-md-4 col-lg-2">
                     <div class="tech-stack-item">
-                        <i class="fas fa-sitemap fa-3x mb-3" style="color: var(--color-primary);"></i>
-                        <h5>Website Content Strategy</h5>
+                        <i class="fab fa-facebook-f fa-3x mb-3" style="color: #1877f2;"></i>
+                        <h5>Meta Ads Manager</h5>
                     </div>
                 </div>
                 <div class="col-6 col-md-4 col-lg-2">
                     <div class="tech-stack-item">
-                        <i class="fas fa-search fa-3x mb-3" style="color: #ff6b35;"></i>
-                        <h5>Keyword Research</h5>
+                        <i class="fas fa-chart-line fa-3x mb-3" style="color: #f4b400;"></i>
+                        <h5>Meta Pixel</h5>
                     </div>
                 </div>
                 <div class="col-6 col-md-4 col-lg-2">
                     <div class="tech-stack-item">
-                        <i class="fas fa-search-dollar fa-3x mb-3" style="color: #ff6b35;"></i>
-                        <h5>SEMrush</h5>
+                        <i class="fab fa-instagram fa-3x mb-3" style="color: #e4405f;"></i>
+                        <h5>Instagram Ads</h5>
                     </div>
                 </div>
                 <div class="col-6 col-md-4 col-lg-2">
                     <div class="tech-stack-item">
-                        <i class="fas fa-chart-line fa-3x mb-3" style="color: #ff6b35;"></i>
-                        <h5>Ahrefs</h5>
+                        <i class="fas fa-briefcase fa-3x mb-3" style="color: #1877f2;"></i>
+                        <h5>Meta Business Suite</h5>
                     </div>
                 </div>
                 <div class="col-6 col-md-4 col-lg-2">
                     <div class="tech-stack-item">
-                        <i class="fab fa-google fa-3x mb-3" style="color: #ea4335;"></i>
+                        <i class="fas fa-chart-pie fa-3x mb-3" style="color: #4285f4;"></i>
                         <h5>Google Analytics</h5>
                     </div>
                 </div>
                 <div class="col-6 col-md-4 col-lg-2">
                     <div class="tech-stack-item">
-                        <i class="fab fa-google fa-3x mb-3" style="color: #34a853;"></i>
-                        <h5>Google Search Console</h5>
+                        <i class="fas fa-users fa-3x mb-3" style="color: #34a853;"></i>
+                        <h5>Audience Insights</h5>
                     </div>
                 </div>
                 <div class="col-6 col-md-4 col-lg-2">
                     <div class="tech-stack-item">
-                        <i class="fas fa-spell-check fa-3x mb-3" style="color: #1a73e8;"></i>
-                        <h5>Grammarly</h5>
-                    </div>
-                </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fas fa-file-alt fa-3x mb-3" style="color: #00a1f1;"></i>
-                        <h5>Content Management</h5>
+                        <i class="fas fa-bullseye fa-3x mb-3" style="color: #ea4335;"></i>
+                        <h5>Conversion API</h5>
                     </div>
                 </div>
                 <div class="col-6 col-md-4 col-lg-2">
                     <div class="tech-stack-item">
                         <i class="fas fa-sliders-h fa-3x mb-3" style="color: #f4b400;"></i>
                         <h5>A/B Testing</h5>
-                    </div>
-                </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fas fa-tachometer-alt fa-3x mb-3" style="color: #e37400;"></i>
-                        <h5>Readability Tools</h5>
                     </div>
                 </div>
             </div>
@@ -1132,8 +1120,8 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center text-light mt-0">
-                        <h2 class="title text-white mb-30">Ready to Elevate Your Website Content?</h2>
-                        <p class="text-white">Work with a trusted Website Content Writing agency for compelling, SEO-optimized content that engages visitors and drives growth.</p>
+                        <h2 class="title text-white mb-30">Ready to Launch Your Meta Ads Campaign?</h2>
+                        <p class="text-white">Work with a trusted Meta Ads Management agency for targeted engagement and measurable ROI.</p>
                         <div class="button mt-40">
                             <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Let's Talk</a>
                         </div>
@@ -1163,12 +1151,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        How long does it take to create website content?
+                                        How long does it take to see results from Meta Ads campaigns?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Project timelines depend on scope—single pages may take 1-2 weeks, while full website content can take 3-6 weeks. We provide detailed project timelines and milestones upfront so you know exactly when to expect delivery.
+                                        Most Meta Ads campaigns start showing measurable results within 2-4 weeks. Full optimization and ROI improvements typically take 2-3 months as we refine audience targeting, ad creatives, and bidding strategies based on performance data.
                                     </div>
                                 </div>
                             </div>
@@ -1177,12 +1165,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        Do you offer SEO-optimized website content?
+                                        What's the average cost of Meta Ads management?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. Our website content writing services include keyword research, optimized meta descriptions, proper heading structure, and content tailored to improve search visibility, engagement, and conversions.
+                                        Meta Ads management costs vary based on campaign size, industry, and scope. We offer transparent pricing with clear project timelines before starting. Ad spend is separate and tailored to your budget and goals.
                                     </div>
                                 </div>
                             </div>
@@ -1191,12 +1179,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        What types of website content do you create?
+                                        Do you optimize for maximum ROI and conversions?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We create compelling content for homepages, landing pages, product pages, service pages, About Us, FAQs, and blogs. Our content is designed to engage visitors, build trust, and drive conversions across your entire site.
+                                        Yes. We use audience targeting, optimized ad creatives, smart bidding strategies, conversion tracking, and A/B testing to maximize engagement, conversions, and ROI for your Meta Ads campaigns.
                                     </div>
                                 </div>
                             </div>
@@ -1205,12 +1193,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Do you work with businesses in my industry?
+                                        Do you offer remarketing and audience targeting?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We deliver industry-specific website content for B2B, B2C, tech, healthcare, e-commerce, and more. Our writers research your industry and audience to create content that resonates and converts.
+                                        Absolutely. We implement remarketing, dynamic ads, and custom audience targeting to re-engage website visitors and target high-intent users across Facebook and Instagram for better return on ad spend.
                                     </div>
                                 </div>
                             </div>
@@ -1219,12 +1207,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you provide ongoing content updates and optimization?
+                                        Do you provide ongoing Meta Ads support and optimization?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We offer continuous content support including updates, SEO improvements, content refreshes, and performance reporting to maintain search rankings and keep your website content relevant.
+                                        Yes, we offer continuous Meta Ads support with bid optimization, ad testing, performance monitoring, and regular reporting to maintain top campaign performance and maximize conversions.
                                     </div>
                                 </div>
                             </div>

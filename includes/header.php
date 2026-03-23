@@ -61,13 +61,13 @@
                                        <div class="col-menu col-lg-2">
                                            <h6 class="title">Website Development</h6>
                                            <ul class="menu-col">
-                                               <li><a href="./lp/website-design-development.php">Business Website Development</a></li>
-                                               <li><a href="./lp/website-design-development.php">Corporate Website Development</a></li>
-                                               <li><a href="./lp/website-design-development.php">Custom Website Development</a></li>
-                                               <li><a href="./lp/website-design-development.php">WordPress Website Development</a></li>
-                                               <li><a href="./lp/website-design-development.php">E-Commerce Website Development</a></li>
-                                               <li><a href="./lp/website-design-development.php">Landing Page Design</a></li>
-                                               <li><a href="./lp/website-design-development.php">Website Maintenance</a></li>
+                                               <li><a href="services/website-development-company.php">Business Website Development</a></li>
+                                               <li><a href="services/Custom-Website-Development.php">Corporate Website Development</a></li>
+                                               <li><a href="services/Custom-Website-Development.php">Custom Website Development</a></li>
+                                               <li><a href="services/WordPress-Website-Development.php">WordPress Website Development</a></li>
+                                               <li><a href="services/E-commerce-Website-Development.php">E-Commerce Website Development</a></li>
+                                               <li><a href="lp/landing_page.php">Landing Page Design</a></li>
+                                               <li><a href="lp/website_maintainence.php">Website Maintenance</a></li>
                                            </ul>
                                        </div>
 
@@ -75,12 +75,12 @@
                                        <div class="col-menu col-lg-2">
                                            <h6 class="title">App Development</h6>
                                            <ul class="menu-col">
-                                               <li><a href="./lp/app-development.php">Android App Development</a></li>
-                                               <li><a href="./lp/app-development.php">iOS App Development</a></li>
-                                               <li><a href="./lp/app-development.php">Hybrid App Development</a></li>
-                                               <li><a href="./lp/app-development.php">Flutter App Development</a></li>
-                                               <li><a href="./lp/app-development.php">Web Application Development</a></li>
-                                               <li><a href="./lp/app-development.php">SaaS Development</a></li>
+                                               <li><a href="services/App-Development.php">Android App Development</a></li>
+                                               <li><a href="services/ios_development.php">iOS App Development</a></li>
+                                               <li><a href="services/hybrid_developement.php">Hybrid App Development</a></li>
+                                               <li><a href="services/flutter_development.php">Flutter App Development</a></li>
+                                               <li><a href="services/web_app_development.php">Web Application Development</a></li>
+                                               <li><a href="services/saas_developement.php">SaaS Development</a></li>
                                            </ul>
                                        </div>
 
@@ -88,12 +88,12 @@
                                        <div class="col-menu col-lg-2">
                                            <h6 class="title">Digital Marketing</h6>
                                            <ul class="menu-col">
-                                               <li><a href="./services/seo-auditing-services.php">Search Engine Optimization (SEO)</a></li>
-                                               <li><a href="./services/seo-articles-writing.php">Local SEO Services</a></li>
-                                               <li><a href="./services/google-search-ads-services.php">Google Ads (PPC)</a></li>
-                                               <li><a href="./services/technical-content-writing.php">Meta Ads Management</a></li>
-                                               <li><a href="./services/content-marketing-services.php">LinkedIn Ads</a></li>
-                                               <li><a href="./services/social-media-marketing.php">Social Media Marketing</a></li>
+                                               <li><a href="services/seo-auditing-services.php">Search Engine Optimization (SEO)</a></li>
+                                               <li><a href="services/local_seo_services.php">Local SEO Services</a></li>
+                                               <li><a href="services/google-search-ads-services.php">Google Ads (PPC)</a></li>
+                                               <li><a href="services/meta_ads.php">Meta Ads Management</a></li>
+                                               <li><a href="services/linkedin.php">LinkedIn Ads</a></li>
+                                               <li><a href="services/social-media-marketing.php">Social Media Marketing</a></li>
                                            </ul>
                                        </div>
 
@@ -101,12 +101,12 @@
                                        <div class="col-menu col-lg-2">
                                            <h6 class="title">Content & eLearning</h6>
                                            <ul class="menu-col">
-                                               <li><a href="./services/website-content-writing.php">Website Content Writing</a></li>
-                                               <li><a href="./services/technical-content-writing.php">Technical Content Writing</a></li>
-                                               <li><a href="./services/seo-articles-writing.php">SEO Content Writing</a></li>
-                                               <li><a href="./services/custom-elearning-development.php">eLearning Content Development</a></li>
-                                               <li><a href="./services/onboarding-videos.php">Instructional Design</a></li>
-                                               <li><a href="./services/logistics-content-marketing.php">LMS Development</a></li>
+                                               <li><a href="services/website-content-writing.php">Website Content Writing</a></li>
+                                               <li><a href="services/technical-writing-services.php">Technical Content Writing</a></li>
+                                               <li><a href="services/seo_content_writing.php">SEO Content Writing</a></li>
+                                               <li><a href="services/Custom-eLearning-Development.php">eLearning Content Development</a></li>
+                                               <li><a href="services/instructional_design.php">Instructional Design</a></li>
+                                               <li><a href="services/lms_developpment.php">LMS Development</a></li>
                                            </ul>
                                        </div>
 
@@ -114,13 +114,13 @@
                                        <div class="col-menu col-lg-2">
                                            <h6 class="title">AI & Intelligent Automation</h6>
                                            <ul class="menu-col">
-                                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
-                                               <li><a href="./services/case-study-website-development.php">AI Chatbot Development</a></li>
-                                               <li><a href="./services/IT-Outsourcing-Services.php">Business Process Automation</a></li>
-                                               <li><a href="./services/partner-enablement.php">AI Marketing Automation</a></li>
-                                               <li><a href="./services/content-team-outsourcing.php">CRM Automation</a></li>
-                                               <li><a href="./services/compliance-automation.php">Data Annotation Services</a></li>
-                                               <li><a href="./services/logistics-content-marketing.php">AI Data Labeling</a></li>
+                                               <li><a href="services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
+                                               <li><a href="services/ai_chatbot.php">AI Chatbot Development</a></li>
+                                               <li><a href="services/IT-Outsourcing-Services.php">Business Process Automation</a></li>
+                                               <li><a href="services/Partner-Enablement.php">AI Marketing Automation</a></li>
+                                               <li><a href="services/crm_automation.php">CRM Automation</a></li>
+                                               <li><a href="services/data_notation.php">Data Annotation Services</a></li>
+                                               <li><a href="services/ai_label_development.php">AI Data Labeling</a></li>
                                            </ul>
                                        </div>
 
@@ -133,8 +133,8 @@
                        <li class="dropdown">
                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Industries</a>
                            <ul class="dropdown-menu">
-                               <li><a href="./services/logistics-content-marketing.php">Logistics & Supply Chain</a></li>
-                               <li><a href="./services/Industries-We-Serve-Manufacturing.php">Manufacturing</a></li>
+                               <li><a href="services/logistics-content-marketing.php">Logistics & Supply Chain</a></li>
+                               <li><a href="services/Industries-We-Serve-Manufacturing.php">Manufacturing</a></li>
                                <li><a href="#">Healthcare</a></li>
                                <li><a href="#">Real Estate</a></li>
                                <li><a href="#">Education & EdTech</a></li>
@@ -148,12 +148,12 @@
 
                        <!-- CASE STUDIES -->
                        <li>
-                           <a href="./resources/all-blogs.php">Case Studies</a>
+                           <a href="resources/all-blogs.php">Case Studies</a>
                        </li>
 
                        <!-- CONTACT -->
                        <li>
-                           <a href="/contact-us.php">Contact Us</a>
+                           <a href="contact-us.php">Contact Us</a>
                        </li>
 
                    </ul>

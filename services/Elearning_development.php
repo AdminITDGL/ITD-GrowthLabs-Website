@@ -24,8 +24,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Craft compelling and persuasive website content with ITD GrowthLabs. Our expert content writing enhances SEO, engages visitors, and strengthens your brand presence for measurable business growth.">
-    <title>Website Content Writing Services for Businesses | ITD GrowthLabs</title>
+    <meta name="description" content="Professional eLearning content development services designed to create engaging, structured, and learner-focused training content that improves knowledge delivery, user engagement, and online learning experiences.">
+    <title>eLearning Content Development Services | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
@@ -635,13 +635,13 @@
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
                             <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
-                                Website Content Writing <span style="color: var(--color-primary);">Services</span> for Businesses
+                                eLearning Content Development <span style="color: var(--color-primary);">Services</span> for Businesses
                             </h2>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
-                                Enhance your brand and engage visitors with professional website content writing. Our content writing services deliver SEO-optimized, persuasive, and high-quality website content to boost traffic, conversions, and business growth.
+                                Create engaging digital learning experiences with expert eLearning content development. Our eLearning content development services deliver interactive, structured, and learner-focused training content that improves knowledge retention and business training outcomes.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Create Content</a>
+                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Start Learning</a>
                             </div>
                         </div>
                     </div>
@@ -778,7 +778,7 @@
                         <div class="counter" style="color:var(--color-primary)">
                             <span class="timer" data-to="100" data-speed="2000">100</span><span>+</span>
                         </div>
-                        <h4>Content Experts</h4>
+                        <h4>Tech Experts</h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
@@ -786,7 +786,7 @@
                         <div class="counter" style="color:var(--color-primary)">
                             <span class="timer" data-to="50" data-speed="2000">50</span><span>+</span>
                         </div>
-                        <h4>Projects Delivered</h4>
+                        <h4>Courses Delivered</h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
@@ -810,9 +810,9 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">WHY CHOOSE ITD GROWTHLABS</h5>
-                        <h2 class="title">Premier Website Content Writing Agency in India</h2>
+                        <h2 class="title">Premier eLearning Content Development Agency in India</h2>
                         <p class="mt-30">
-                            ITD GrowthLabs is a trusted Website Content Writing company providing professional content writing solutions for businesses worldwide. Our team delivers high-quality website content that engages visitors, improves SEO rankings, and drives measurable business growth.
+                            ITD GrowthLabs is a leading eLearning Content Development company offering expert eLearning Content Development solutions for businesses globally. Our team creates engaging, interactive, and high-quality eLearning Content Development that improves learner engagement, knowledge retention, and drives measurable training outcomes.
                         </p>
                     </div>
                 </div>
@@ -821,46 +821,46 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-search"></i>
+                            <i class="fas fa-sitemap"></i>
                         </div>
-                        <h4>SEO-Focused Content Strategy</h4>
-                        <p>Craft website content with keyword research, topic planning, and SEO-optimized structure to maximize search visibility and engagement.</p>
+                        <h4>Structured Learning Strategy</h4>
+                        <p>Create eLearning Content Development tailored to your training goals with detailed curriculum planning, learning objectives, and structured modules that support effective knowledge delivery.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-user-edit"></i>
+                            <i class="fas fa-chalkboard-teacher"></i>
                         </div>
-                        <h4>Dedicated Content Specialist</h4>
-                        <p>A dedicated content writer ensures clear communication, content consistency, and tailored messaging for your business website.</p>
+                        <h4>Expert Instructional Designers</h4>
+                        <p>Our experienced specialists deliver professional eLearning Content Development with instructional design, subject research, and learner-focused structure for effective digital training.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-handshake"></i>
+                            <i class="fas fa-gamepad"></i>
                         </div>
-                        <h4>Transparent Pricing</h4>
-                        <p>Website content writing services with upfront pricing, detailed project timelines, and clear cost breakdown for predictable results.</p>
+                        <h4>Interactive & Engaging Learning</h4>
+                        <p>Develop eLearning Content Development with interactive modules, visual elements, and engaging formats to improve learning experiences and knowledge retention.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-pen-fancy"></i>
+                            <i class="fas fa-graduation-cap"></i>
                         </div>
-                        <h4>High-Quality & Engaging Content</h4>
-                        <p>Develop compelling, professional content for web pages, blogs, and landing pages to boost visitor engagement and conversions.</p>
+                        <h4>Courses & Training Modules</h4>
+                        <p>Produce high-quality eLearning Content Development including online courses, training modules, and digital lessons designed to improve employee learning and professional development.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-chart-line"></i>
+                            <i class="fas fa-book-open"></i>
                         </div>
-                        <h4>Performance Monitoring & Optimization</h4>
-                        <p>Continuous review of website content with analytics, SEO audits, and updates to improve readability, search rankings, and conversions.</p>
+                        <h4>Learning Portal & Course Content</h4>
+                        <p>Craft structured eLearning Content Development for learning platforms and training portals to improve engagement, usability, and knowledge delivery.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -868,8 +868,8 @@
                         <div class="icon-wrapper">
                             <i class="fas fa-expand-arrows-alt"></i>
                         </div>
-                        <h4>Scalable Content Solutions</h4>
-                        <p>Website content writing services designed for long-term growth, providing scalable strategies, multiple formats, and industry-specific content.</p>
+                        <h4>Scalable Learning Solutions</h4>
+                        <p>Deliver scalable eLearning Content Development services for long-term growth, including course expansion, training updates, and continuous digital learning strategies.</p>
                     </div>
                 </div>
             </div>
@@ -891,7 +891,7 @@
                         <div class="hexagon-content">
                             <div class="step-number">01</div><i class="fas fa-search"></i>
                             <h5>DISCOVER</h5>
-                            <p>Website content strategy & planning</p>
+                            <p>eLearning Content Development research & planning</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
@@ -899,7 +899,7 @@
                         <div class="hexagon-content">
                             <div class="step-number">02</div><i class="fas fa-pencil-ruler"></i>
                             <h5>DESIGN</h5>
-                            <p>Content outline & structure design</p>
+                            <p>Creative eLearning Content Development structure design</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
@@ -907,7 +907,7 @@
                         <div class="hexagon-content">
                             <div class="step-number">03</div><i class="fas fa-cogs"></i>
                             <h5>DEVELOP</h5>
-                            <p>Expert content creation & drafting</p>
+                            <p>Expert eLearning Content Development creation & development</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
@@ -915,7 +915,7 @@
                         <div class="hexagon-content">
                             <div class="step-number">04</div><i class="fas fa-chart-bar"></i>
                             <h5>TEST</h5>
-                            <p>Content review & SEO optimization</p>
+                            <p>eLearning Content Development review & quality check</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
@@ -923,7 +923,7 @@
                         <div class="hexagon-content">
                             <div class="step-number">05</div><i class="fas fa-rocket"></i>
                             <h5>LAUNCH</h5>
-                            <p>Smooth content publishing & deployment</p>
+                            <p>Smooth eLearning Content Development deployment & delivery</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
@@ -931,7 +931,7 @@
                         <div class="hexagon-content">
                             <div class="step-number">06</div><i class="fas fa-headset"></i>
                             <h5>SUPPORT</h5>
-                            <p>Ongoing content updates & optimization</p>
+                            <p>Ongoing eLearning Content Development updates & optimization</p>
                         </div>
                     </div>
                 </div>
@@ -944,7 +944,7 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">OUR WEB DEVELOPMENT SERVICES</h5>
-                        <h2 class="title">Behind Every Successful Website Content Writing Project</h2>
+                        <h2 class="title">Behind Every Successful eLearning Content Development Project</h2>
                     </div>
                 </div>
             </div>
@@ -957,8 +957,8 @@
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Strategic Website Content Writing for businesses, focusing on keyword research, content planning, and engagement strategies to improve brand visibility and online ROI.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Website Content Strategy</a></h4>
+                        <p>Strategic eLearning Content Development for businesses, focusing on learning objectives, curriculum planning, and structured course design to improve learner engagement, knowledge delivery, and training ROI.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">eLearning Content Strategy</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -967,7 +967,7 @@
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Scalable Website Content Writing services with structure planning, content scheduling, audience analysis, and secure platform setup for maximum efficiency.</p>
+                        <p>Scalable eLearning Content Development services with course structure planning, lesson scheduling, learner analysis, and platform-ready setup for efficient digital learning experiences.</p>
                         <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Content Development Setup</a></h4>
                     </div>
                 </div>
@@ -977,28 +977,28 @@
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Professional Website Content Writing ensuring content displays correctly on desktops, tablets, and mobile devices for higher user engagement.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Multi-Device & SEO Optimization</a></h4>
+                        <p>Professional eLearning Content Development ensuring learning modules perform smoothly on desktops, tablets, and mobile devices for consistent and accessible training delivery.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Multi-Device Learning Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-search-dollar fa-3x mb-3"></i>
+                        <i class="fas fa-sliders-h fa-3x mb-3"></i>
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Flexible Website Content Writing with optimized headings, meta descriptions, and A/B testing to boost readability, engagement, and search visibility.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Content & Copy Optimization</a></h4>
+                        <p>Flexible eLearning Content Development with optimized learning modules, structured lessons, and interactive testing to improve engagement, retention, and training performance.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Content & Module Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-paint-brush fa-3x mb-3"></i>
+                        <i class="fas fa-gamepad fa-3x mb-3"></i>
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Conversion-focused Website Content Writing designed around user behavior to improve content relevance, engagement, and overall site performance.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Creative Enhancements</a></h4>
+                        <p>Conversion-focused eLearning Content Development designed around learner behavior to improve training relevance, interaction, and overall learning experience.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Interactive Learning Enhancements</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -1007,8 +1007,8 @@
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Advanced Website Content Writing strategies including regular updates, topic expansion, and internal linking to maintain search rankings and traffic.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Content Refresh & Updates</a></h4>
+                        <p>Advanced eLearning Content Development strategies including regular course updates, new lesson additions, and module expansion to maintain training relevance and engagement.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Course Updates & Expansion</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -1017,7 +1017,7 @@
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>High-performing Website Content Writing with monitoring, analytics, and reporting to enhance content impact and ROI.</p>
+                        <p>High-performing eLearning Content Development with monitoring, analytics, and reporting to evaluate learner performance and improve course effectiveness.</p>
                         <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Performance Tracking & Analytics</a></h4>
                     </div>
                 </div>
@@ -1027,8 +1027,8 @@
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Modern Website Content Writing upgrades for existing sites to improve structure, readability, and overall content efficiency.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Audit & Redesign</a></h4>
+                        <p>Modern eLearning Content Development upgrades for existing training modules to improve structure, clarity, engagement, and overall learning efficiency.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Course Audit & Redesign</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -1037,7 +1037,7 @@
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Reliable Website Content Writing support with continuous updates, SEO improvements, reporting, and content strategy enhancements for sustained results.</p>
+                        <p>Reliable eLearning Content Development support with continuous updates, learning improvements, reporting, and strategy enhancements for long-term training success.</p>
                         <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Ongoing Support & Optimization</a></h4>
                     </div>
                 </div>
@@ -1055,70 +1055,58 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">SMART TECH CHOICES</h5>
-                        <h2 class="title">Behind Every Successful Website Content Writing Project</h2>
-                        <p class="mt-30">We use proven tools and modern strategies to deliver secure and scalable Website Content Writing solutions — built to support high-performing websites and measurable results for businesses.</p>
+                        <h2 class="title">Behind Every Successful eLearning Content Development Project</h2>
+                        <p class="mt-30">We use proven tools and modern strategies to deliver secure and scalable eLearning Content Development solutions — built to support high-performing learning platforms and measurable training results for businesses.</p>
                     </div>
                 </div>
             </div>
             <div class="row justify-content-center">
                 <div class="col-6 col-md-4 col-lg-2">
                     <div class="tech-stack-item">
-                        <i class="fas fa-sitemap fa-3x mb-3" style="color: var(--color-primary);"></i>
-                        <h5>Website Content Strategy</h5>
+                        <i class="fas fa-sitemap fa-3x mb-3" style="color: #0a66c2;"></i>
+                        <h5>eLearning Content Strategy</h5>
                     </div>
                 </div>
                 <div class="col-6 col-md-4 col-lg-2">
                     <div class="tech-stack-item">
-                        <i class="fas fa-search fa-3x mb-3" style="color: #ff6b35;"></i>
-                        <h5>Keyword Research</h5>
+                        <i class="fas fa-book fa-3x mb-3" style="color: #0a66c2;"></i>
+                        <h5>Articulate Storyline</h5>
                     </div>
                 </div>
                 <div class="col-6 col-md-4 col-lg-2">
                     <div class="tech-stack-item">
-                        <i class="fas fa-search-dollar fa-3x mb-3" style="color: #ff6b35;"></i>
-                        <h5>SEMrush</h5>
+                        <i class="fas fa-layer-group fa-3x mb-3" style="color: #ea4335;"></i>
+                        <h5>Articulate Rise</h5>
                     </div>
                 </div>
                 <div class="col-6 col-md-4 col-lg-2">
                     <div class="tech-stack-item">
-                        <i class="fas fa-chart-line fa-3x mb-3" style="color: #ff6b35;"></i>
-                        <h5>Ahrefs</h5>
+                        <i class="fas fa-video fa-3x mb-3" style="color: #f4b400;"></i>
+                        <h5>Adobe Captivate</h5>
                     </div>
                 </div>
                 <div class="col-6 col-md-4 col-lg-2">
                     <div class="tech-stack-item">
-                        <i class="fab fa-google fa-3x mb-3" style="color: #ea4335;"></i>
-                        <h5>Google Analytics</h5>
+                        <i class="fas fa-file-code fa-3x mb-3" style="color: #34a853;"></i>
+                        <h5>SCORM / xAPI</h5>
                     </div>
                 </div>
                 <div class="col-6 col-md-4 col-lg-2">
                     <div class="tech-stack-item">
-                        <i class="fab fa-google fa-3x mb-3" style="color: #34a853;"></i>
-                        <h5>Google Search Console</h5>
+                        <i class="fas fa-graduation-cap fa-3x mb-3" style="color: #0a66c2;"></i>
+                        <h5>LMS Platforms</h5>
                     </div>
                 </div>
                 <div class="col-6 col-md-4 col-lg-2">
                     <div class="tech-stack-item">
-                        <i class="fas fa-spell-check fa-3x mb-3" style="color: #1a73e8;"></i>
-                        <h5>Grammarly</h5>
+                        <i class="fas fa-chart-line fa-3x mb-3" style="color: #f4b400;"></i>
+                        <h5>Learning Analytics</h5>
                     </div>
                 </div>
                 <div class="col-6 col-md-4 col-lg-2">
                     <div class="tech-stack-item">
-                        <i class="fas fa-file-alt fa-3x mb-3" style="color: #00a1f1;"></i>
-                        <h5>Content Management</h5>
-                    </div>
-                </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fas fa-sliders-h fa-3x mb-3" style="color: #f4b400;"></i>
-                        <h5>A/B Testing</h5>
-                    </div>
-                </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fas fa-tachometer-alt fa-3x mb-3" style="color: #e37400;"></i>
-                        <h5>Readability Tools</h5>
+                        <i class="fas fa-mobile-alt fa-3x mb-3" style="color: #34a853;"></i>
+                        <h5>Multi-Device Delivery</h5>
                     </div>
                 </div>
             </div>
@@ -1132,8 +1120,8 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center text-light mt-0">
-                        <h2 class="title text-white mb-30">Ready to Elevate Your Website Content?</h2>
-                        <p class="text-white">Work with a trusted Website Content Writing agency for compelling, SEO-optimized content that engages visitors and drives growth.</p>
+                        <h2 class="title text-white mb-30">Ready to Transform Your Training with eLearning Content?</h2>
+                        <p class="text-white">Work with a trusted eLearning Content Development agency for engaging, structured, and learner-focused training that drives measurable outcomes.</p>
                         <div class="button mt-40">
                             <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Let's Talk</a>
                         </div>
@@ -1163,12 +1151,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        How long does it take to create website content?
+                                        How long does eLearning content development take?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Project timelines depend on scope—single pages may take 1-2 weeks, while full website content can take 3-6 weeks. We provide detailed project timelines and milestones upfront so you know exactly when to expect delivery.
+                                        eLearning content development timelines vary based on course complexity, module count, and interactivity level. Simple courses may take 2-4 weeks, while comprehensive training programs with multiple modules typically require 6-12 weeks. We provide detailed project timelines during the planning phase.
                                     </div>
                                 </div>
                             </div>
@@ -1177,12 +1165,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        Do you offer SEO-optimized website content?
+                                        What does eLearning content development cost?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. Our website content writing services include keyword research, optimized meta descriptions, proper heading structure, and content tailored to improve search visibility, engagement, and conversions.
+                                        eLearning content development costs depend on scope, complexity, interactivity level, and course length. We offer transparent pricing with upfront cost breakdown and detailed project timelines. Contact us for a custom quote based on your training goals.
                                     </div>
                                 </div>
                             </div>
@@ -1191,12 +1179,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        What types of website content do you create?
+                                        Do you create SCORM-compliant and LMS-ready content?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We create compelling content for homepages, landing pages, product pages, service pages, About Us, FAQs, and blogs. Our content is designed to engage visitors, build trust, and drive conversions across your entire site.
+                                        Yes. We develop SCORM-compliant and xAPI-ready eLearning content that integrates with major LMS platforms including Moodle, Blackboard, TalentLMS, Docebo, and more. Content is tested for compatibility before delivery.
                                     </div>
                                 </div>
                             </div>
@@ -1205,12 +1193,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Do you work with businesses in my industry?
+                                        Do you support multi-device and mobile learning?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We deliver industry-specific website content for B2B, B2C, tech, healthcare, e-commerce, and more. Our writers research your industry and audience to create content that resonates and converts.
+                                        Absolutely. Our eLearning content is designed to be responsive and accessible across desktops, tablets, and mobile devices. We optimize for consistent learning experiences and accessibility standards for maximum reach.
                                     </div>
                                 </div>
                             </div>
@@ -1219,12 +1207,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you provide ongoing content updates and optimization?
+                                        Do you provide ongoing eLearning content support and updates?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We offer continuous content support including updates, SEO improvements, content refreshes, and performance reporting to maintain search rankings and keep your website content relevant.
+                                        Yes, we offer ongoing eLearning support including course updates, new module development, content refresh, performance analytics, and strategy enhancements to maintain training relevance and effectiveness.
                                     </div>
                                 </div>
                             </div>

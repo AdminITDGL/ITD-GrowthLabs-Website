@@ -24,8 +24,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Craft compelling and persuasive website content with ITD GrowthLabs. Our expert content writing enhances SEO, engages visitors, and strengthens your brand presence for measurable business growth.">
-    <title>Website Content Writing Services for Businesses | ITD GrowthLabs</title>
+    <meta name="description" content="Streamline operations with CRM automation and customer relationship management automation. Automate sales, improve customer tracking, and enhance efficiency with scalable CRM automation solutions.">
+    <title>CRM Automation Services | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
@@ -635,13 +635,13 @@
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
                             <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
-                                Website Content Writing <span style="color: var(--color-primary);">Services</span> for Businesses
+                                CRM Automation <span style="color: var(--color-primary);">Services</span> for Smart Business Growth
                             </h2>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
-                                Enhance your brand and engage visitors with professional website content writing. Our content writing services deliver SEO-optimized, persuasive, and high-quality website content to boost traffic, conversions, and business growth.
+                                Improve efficiency with CRM automation and customer relationship management automation. ITD GrowthLabs delivers scalable CRM automation solutions for sales, tracking, and growth.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Create Content</a>
+                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Start Automating</a>
                             </div>
                         </div>
                     </div>
@@ -778,7 +778,7 @@
                         <div class="counter" style="color:var(--color-primary)">
                             <span class="timer" data-to="100" data-speed="2000">100</span><span>+</span>
                         </div>
-                        <h4>Content Experts</h4>
+                        <h4>CRM Experts</h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
@@ -786,7 +786,7 @@
                         <div class="counter" style="color:var(--color-primary)">
                             <span class="timer" data-to="50" data-speed="2000">50</span><span>+</span>
                         </div>
-                        <h4>Projects Delivered</h4>
+                        <h4>CRM Automation Projects</h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
@@ -810,9 +810,9 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">WHY CHOOSE ITD GROWTHLABS</h5>
-                        <h2 class="title">Premier Website Content Writing Agency in India</h2>
+                        <h2 class="title">Premier CRM Automation Company in India</h2>
                         <p class="mt-30">
-                            ITD GrowthLabs is a trusted Website Content Writing company providing professional content writing solutions for businesses worldwide. Our team delivers high-quality website content that engages visitors, improves SEO rankings, and drives measurable business growth.
+                            ITD GrowthLabs is a leading CRM automation company offering expert CRM automation and customer relationship management automation solutions for businesses globally. Our team builds scalable, user-friendly CRM automation systems that improve sales processes, customer tracking, and deliver measurable business outcomes.
                         </p>
                     </div>
                 </div>
@@ -821,37 +821,46 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-search"></i>
+                            <i class="fas fa-users-cog"></i>
                         </div>
-                        <h4>SEO-Focused Content Strategy</h4>
-                        <p>Craft website content with keyword research, topic planning, and SEO-optimized structure to maximize search visibility and engagement.</p>
+                        <h4>Intelligent Customer Management</h4>
+                        <p>Streamline CRM automation with smart customer data management, lead tracking, and workflow automation that improve efficiency and conversion through customer relationship management automation.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-user-edit"></i>
+                            <i class="fas fa-bolt"></i>
                         </div>
-                        <h4>Dedicated Content Specialist</h4>
-                        <p>A dedicated content writer ensures clear communication, content consistency, and tailored messaging for your business website.</p>
+                        <h4>Real-Time Sales Automation</h4>
+                        <p>Enable instant CRM automation with automated sales processes, ensuring faster responses and consistent engagement through customer relationship management automation solutions.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-handshake"></i>
+                            <i class="fas fa-route"></i>
                         </div>
-                        <h4>Transparent Pricing</h4>
-                        <p>Website content writing services with upfront pricing, detailed project timelines, and clear cost breakdown for predictable results.</p>
+                        <h4>Personalized Customer Journeys</h4>
+                        <p>Deliver CRM automation with tailored workflows, audience segmentation, and targeted communication to enhance customer experience and improve retention.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-pen-fancy"></i>
+                            <i class="fas fa-project-diagram"></i>
                         </div>
-                        <h4>High-Quality & Engaging Content</h4>
-                        <p>Develop compelling, professional content for web pages, blogs, and landing pages to boost visitor engagement and conversions.</p>
+                        <h4>Automated Lead & Pipeline Handling</h4>
+                        <p>Execute CRM automation with automated lead management, pipeline tracking, and follow-ups for effective customer relationship management automation.</p>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="why-choose-card">
+                        <div class="icon-wrapper">
+                            <i class="fas fa-plug"></i>
+                        </div>
+                        <h4>CRM & System Integration</h4>
+                        <p>Integrate CRM automation with business tools and platforms to centralize data, automate workflows, and improve operational efficiency.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -859,17 +868,8 @@
                         <div class="icon-wrapper">
                             <i class="fas fa-chart-line"></i>
                         </div>
-                        <h4>Performance Monitoring & Optimization</h4>
-                        <p>Continuous review of website content with analytics, SEO audits, and updates to improve readability, search rankings, and conversions.</p>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="why-choose-card">
-                        <div class="icon-wrapper">
-                            <i class="fas fa-expand-arrows-alt"></i>
-                        </div>
-                        <h4>Scalable Content Solutions</h4>
-                        <p>Website content writing services designed for long-term growth, providing scalable strategies, multiple formats, and industry-specific content.</p>
+                        <h4>Analytics & Performance Insights</h4>
+                        <p>Track CRM automation performance with detailed analytics, reports, and insights to optimize customer relationship management automation and drive better results.</p>
                     </div>
                 </div>
             </div>
@@ -891,7 +891,7 @@
                         <div class="hexagon-content">
                             <div class="step-number">01</div><i class="fas fa-search"></i>
                             <h5>DISCOVER</h5>
-                            <p>Website content strategy & planning</p>
+                            <p>CRM automation research & planning</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
@@ -899,7 +899,7 @@
                         <div class="hexagon-content">
                             <div class="step-number">02</div><i class="fas fa-pencil-ruler"></i>
                             <h5>DESIGN</h5>
-                            <p>Content outline & structure design</p>
+                            <p>Creative CRM automation workflow design</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
@@ -907,7 +907,7 @@
                         <div class="hexagon-content">
                             <div class="step-number">03</div><i class="fas fa-cogs"></i>
                             <h5>DEVELOP</h5>
-                            <p>Expert content creation & drafting</p>
+                            <p>Expert CRM automation & system setup</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
@@ -915,7 +915,7 @@
                         <div class="hexagon-content">
                             <div class="step-number">04</div><i class="fas fa-chart-bar"></i>
                             <h5>TEST</h5>
-                            <p>Content review & SEO optimization</p>
+                            <p>CRM automation review & quality check</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
@@ -923,7 +923,7 @@
                         <div class="hexagon-content">
                             <div class="step-number">05</div><i class="fas fa-rocket"></i>
                             <h5>LAUNCH</h5>
-                            <p>Smooth content publishing & deployment</p>
+                            <p>Smooth CRM automation deployment & delivery</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
@@ -931,7 +931,7 @@
                         <div class="hexagon-content">
                             <div class="step-number">06</div><i class="fas fa-headset"></i>
                             <h5>SUPPORT</h5>
-                            <p>Ongoing content updates & optimization</p>
+                            <p>Ongoing CRM automation updates & optimization</p>
                         </div>
                     </div>
                 </div>
@@ -944,7 +944,7 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">OUR WEB DEVELOPMENT SERVICES</h5>
-                        <h2 class="title">Behind Every Successful Website Content Writing Project</h2>
+                        <h2 class="title">Behind Every Successful CRM Automation Project</h2>
                     </div>
                 </div>
             </div>
@@ -953,12 +953,12 @@
             <div class="row" style="display: flex; flex-wrap: wrap;">
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-sitemap fa-3x mb-3"></i>
+                        <i class="fas fa-bullseye fa-3x mb-3"></i>
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Strategic Website Content Writing for businesses, focusing on keyword research, content planning, and engagement strategies to improve brand visibility and online ROI.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Website Content Strategy</a></h4>
+                        <p>Strategic CRM automation and customer relationship management automation for businesses, focusing on customer workflows, pipeline management, and structured processes to improve efficiency, engagement, and ROI.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">CRM Automation Strategy</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -967,8 +967,8 @@
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Scalable Website Content Writing services with structure planning, content scheduling, audience analysis, and secure platform setup for maximum efficiency.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Content Development Setup</a></h4>
+                        <p>Scalable CRM automation services with system setup, configuration, customer mapping, and platform-ready customer relationship management automation.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">CRM Setup & Configuration</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -977,28 +977,28 @@
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Professional Website Content Writing ensuring content displays correctly on desktops, tablets, and mobile devices for higher user engagement.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Multi-Device & SEO Optimization</a></h4>
+                        <p>Professional CRM automation ensuring customer relationship management automation performs across platforms for consistent and efficient operations.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Multi-Platform Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-search-dollar fa-3x mb-3"></i>
+                        <i class="fas fa-stream fa-3x mb-3"></i>
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Flexible Website Content Writing with optimized headings, meta descriptions, and A/B testing to boost readability, engagement, and search visibility.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Content & Copy Optimization</a></h4>
+                        <p>Flexible CRM automation with optimized workflows, structured pipelines, and automated processes to improve efficiency and accuracy.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Workflow & Process Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-paint-brush fa-3x mb-3"></i>
+                        <i class="fas fa-brain fa-3x mb-3"></i>
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Conversion-focused Website Content Writing designed around user behavior to improve content relevance, engagement, and overall site performance.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Creative Enhancements</a></h4>
+                        <p>Conversion-focused CRM automation designed with smart workflows, automation triggers, and structured systems to improve performance.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Intelligent CRM Enhancements</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -1007,8 +1007,8 @@
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Advanced Website Content Writing strategies including regular updates, topic expansion, and internal linking to maintain search rankings and traffic.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Content Refresh & Updates</a></h4>
+                        <p>Advanced CRM automation and customer relationship management automation strategies including updates, scaling, and feature upgrades.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Automation Updates & Scaling</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -1017,7 +1017,7 @@
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>High-performing Website Content Writing with monitoring, analytics, and reporting to enhance content impact and ROI.</p>
+                        <p>High-performing CRM automation with analytics, reporting tools, and tracking to evaluate system effectiveness.</p>
                         <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Performance Tracking & Analytics</a></h4>
                     </div>
                 </div>
@@ -1027,8 +1027,8 @@
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Modern Website Content Writing upgrades for existing sites to improve structure, readability, and overall content efficiency.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Audit & Redesign</a></h4>
+                        <p>Modern CRM automation improvements for existing systems to enhance structure, clarity, and performance.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">CRM Audit & Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -1037,7 +1037,7 @@
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Reliable Website Content Writing support with continuous updates, SEO improvements, reporting, and content strategy enhancements for sustained results.</p>
+                        <p>Reliable CRM automation support with continuous updates, performance improvements, and strategy enhancements.</p>
                         <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Ongoing Support & Optimization</a></h4>
                     </div>
                 </div>
@@ -1055,70 +1055,58 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">SMART TECH CHOICES</h5>
-                        <h2 class="title">Behind Every Successful Website Content Writing Project</h2>
-                        <p class="mt-30">We use proven tools and modern strategies to deliver secure and scalable Website Content Writing solutions — built to support high-performing websites and measurable results for businesses.</p>
+                        <h2 class="title">Behind Every Successful CRM Automation Project</h2>
+                        <p class="mt-30">We use proven tools and modern strategies to deliver secure and scalable CRM automation and customer relationship management automation solutions — built to support efficient systems, structured workflows, and measurable business outcomes for businesses.</p>
                     </div>
                 </div>
             </div>
             <div class="row justify-content-center">
                 <div class="col-6 col-md-4 col-lg-2">
                     <div class="tech-stack-item">
-                        <i class="fas fa-sitemap fa-3x mb-3" style="color: var(--color-primary);"></i>
-                        <h5>Website Content Strategy</h5>
+                        <i class="fas fa-cloud fa-3x mb-3" style="color: #00a1e0;"></i>
+                        <h5>Salesforce</h5>
                     </div>
                 </div>
                 <div class="col-6 col-md-4 col-lg-2">
                     <div class="tech-stack-item">
-                        <i class="fas fa-search fa-3x mb-3" style="color: #ff6b35;"></i>
-                        <h5>Keyword Research</h5>
+                        <i class="fab fa-hubspot fa-3x mb-3" style="color: #ff7a59;"></i>
+                        <h5>HubSpot</h5>
                     </div>
                 </div>
                 <div class="col-6 col-md-4 col-lg-2">
                     <div class="tech-stack-item">
-                        <i class="fas fa-search-dollar fa-3x mb-3" style="color: #ff6b35;"></i>
-                        <h5>SEMrush</h5>
+                        <i class="fas fa-database fa-3x mb-3" style="color: #0a66c2;"></i>
+                        <h5>Zoho CRM</h5>
                     </div>
                 </div>
                 <div class="col-6 col-md-4 col-lg-2">
                     <div class="tech-stack-item">
-                        <i class="fas fa-chart-line fa-3x mb-3" style="color: #ff6b35;"></i>
-                        <h5>Ahrefs</h5>
+                        <i class="fas fa-bolt fa-3x mb-3" style="color: #ff4a00;"></i>
+                        <h5>Zapier</h5>
                     </div>
                 </div>
                 <div class="col-6 col-md-4 col-lg-2">
                     <div class="tech-stack-item">
-                        <i class="fab fa-google fa-3x mb-3" style="color: #ea4335;"></i>
-                        <h5>Google Analytics</h5>
+                        <i class="fas fa-cogs fa-3x mb-3" style="color: #0078d4;"></i>
+                        <h5>Microsoft Dynamics</h5>
                     </div>
                 </div>
                 <div class="col-6 col-md-4 col-lg-2">
                     <div class="tech-stack-item">
-                        <i class="fab fa-google fa-3x mb-3" style="color: #34a853;"></i>
-                        <h5>Google Search Console</h5>
+                        <i class="fas fa-link fa-3x mb-3" style="color: #34a853;"></i>
+                        <h5>API Integration</h5>
                     </div>
                 </div>
                 <div class="col-6 col-md-4 col-lg-2">
                     <div class="tech-stack-item">
-                        <i class="fas fa-spell-check fa-3x mb-3" style="color: #1a73e8;"></i>
-                        <h5>Grammarly</h5>
+                        <i class="fas fa-chart-line fa-3x mb-3" style="color: #f4b400;"></i>
+                        <h5>Analytics Tools</h5>
                     </div>
                 </div>
                 <div class="col-6 col-md-4 col-lg-2">
                     <div class="tech-stack-item">
-                        <i class="fas fa-file-alt fa-3x mb-3" style="color: #00a1f1;"></i>
-                        <h5>Content Management</h5>
-                    </div>
-                </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fas fa-sliders-h fa-3x mb-3" style="color: #f4b400;"></i>
-                        <h5>A/B Testing</h5>
-                    </div>
-                </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fas fa-tachometer-alt fa-3x mb-3" style="color: #e37400;"></i>
-                        <h5>Readability Tools</h5>
+                        <i class="fas fa-tasks fa-3x mb-3" style="color: #ea4335;"></i>
+                        <h5>Workflow Automation</h5>
                     </div>
                 </div>
             </div>
@@ -1132,8 +1120,8 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center text-light mt-0">
-                        <h2 class="title text-white mb-30">Ready to Elevate Your Website Content?</h2>
-                        <p class="text-white">Work with a trusted Website Content Writing agency for compelling, SEO-optimized content that engages visitors and drives growth.</p>
+                        <h2 class="title text-white mb-30">Ready to Automate Your CRM?</h2>
+                        <p class="text-white">Work with a trusted CRM automation company for scalable solutions that streamline sales, improve customer tracking, and drive measurable growth.</p>
                         <div class="button mt-40">
                             <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Let's Talk</a>
                         </div>
@@ -1163,12 +1151,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        How long does it take to create website content?
+                                        What CRM platforms do you support?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Project timelines depend on scope—single pages may take 1-2 weeks, while full website content can take 3-6 weeks. We provide detailed project timelines and milestones upfront so you know exactly when to expect delivery.
+                                        We work with leading CRM platforms including Salesforce, HubSpot, Zoho CRM, Microsoft Dynamics, and others. Our team can set up, configure, and automate workflows across your preferred CRM or help you choose the best platform for your business needs.
                                     </div>
                                 </div>
                             </div>
@@ -1177,12 +1165,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        Do you offer SEO-optimized website content?
+                                        How does CRM automation improve sales efficiency?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. Our website content writing services include keyword research, optimized meta descriptions, proper heading structure, and content tailored to improve search visibility, engagement, and conversions.
+                                        CRM automation streamlines lead management, follow-ups, pipeline tracking, and customer communications. Automated workflows ensure faster responses, consistent engagement, and reduced manual tasks—helping your team focus on closing deals and building relationships.
                                     </div>
                                 </div>
                             </div>
@@ -1191,12 +1179,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        What types of website content do you create?
+                                        Can you integrate CRM with our existing business tools?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We create compelling content for homepages, landing pages, product pages, service pages, About Us, FAQs, and blogs. Our content is designed to engage visitors, build trust, and drive conversions across your entire site.
+                                        Yes. We integrate CRM automation with your email, marketing tools, support systems, and other business platforms. This centralizes data, automates workflows across systems, and improves operational efficiency across your organization.
                                     </div>
                                 </div>
                             </div>
@@ -1205,12 +1193,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Do you work with businesses in my industry?
+                                        Do you offer CRM audit and optimization for existing systems?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We deliver industry-specific website content for B2B, B2C, tech, healthcare, e-commerce, and more. Our writers research your industry and audience to create content that resonates and converts.
+                                        Absolutely. We provide CRM audit and optimization services for existing systems to enhance structure, clarity, and performance. We also offer ongoing support, updates, and strategy enhancements to keep your CRM automation running at peak efficiency.
                                     </div>
                                 </div>
                             </div>
@@ -1219,12 +1207,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you provide ongoing content updates and optimization?
+                                        How long does CRM automation setup take?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We offer continuous content support including updates, SEO improvements, content refreshes, and performance reporting to maintain search rankings and keep your website content relevant.
+                                        Project timelines vary based on scope, complexity, and integration requirements. We provide clear timelines upfront and follow a structured process—from discovery and design to development, testing, and deployment—to ensure your CRM automation delivers measurable results on schedule.
                                     </div>
                                 </div>
                             </div>
@@ -1274,6 +1262,7 @@
                             <h4 class="widget-title">More Tech Solutions</h4>
                             <ul>
                                 <li><a href="../services/App-Development.php" target="_blank">App Development</a></li>
+                                <li><a href="../services/crm_automation.php" target="_blank">CRM Automation</a></li>
                                 <li><a href="../services/IT-Outsourcing-Services.php" target="_blank">IT Outsourcing Services</a></li>
                                 <li><a href="../services/IT-Team-Outsourcing.php" target="_blank">IT Team Outsourcing</a></li>
                             </ul>

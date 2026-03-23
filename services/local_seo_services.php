@@ -24,8 +24,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Craft compelling and persuasive website content with ITD GrowthLabs. Our expert content writing enhances SEO, engages visitors, and strengthens your brand presence for measurable business growth.">
-    <title>Website Content Writing Services for Businesses | ITD GrowthLabs</title>
+    <meta name="description" content="Drive more customers with professional Local SEO services. Improve local search rankings, attract nearby audiences, and grow your business with targeted Local SEO strategies">
+    <title>Local SEO Services for Businesses | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
@@ -635,13 +635,13 @@
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
                             <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
-                                Website Content Writing <span style="color: var(--color-primary);">Services</span> for Businesses
+                                Local SEO <span style="color: var(--color-primary);">Services</span> for Businesses
                             </h2>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
-                                Enhance your brand and engage visitors with professional website content writing. Our content writing services deliver SEO-optimized, persuasive, and high-quality website content to boost traffic, conversions, and business growth.
+                                Boost your local presence with expert local SEO services. Our local SEO strategies improve search visibility, attract nearby customers, and drive higher conversions for growing businesses in your area.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Create Content</a>
+                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Get Found</a>
                             </div>
                         </div>
                     </div>
@@ -778,7 +778,7 @@
                         <div class="counter" style="color:var(--color-primary)">
                             <span class="timer" data-to="100" data-speed="2000">100</span><span>+</span>
                         </div>
-                        <h4>Content Experts</h4>
+                        <h4>SEO Experts</h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
@@ -786,7 +786,7 @@
                         <div class="counter" style="color:var(--color-primary)">
                             <span class="timer" data-to="50" data-speed="2000">50</span><span>+</span>
                         </div>
-                        <h4>Projects Delivered</h4>
+                        <h4>Local Campaigns Delivered</h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
@@ -810,9 +810,9 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">WHY CHOOSE ITD GROWTHLABS</h5>
-                        <h2 class="title">Premier Website Content Writing Agency in India</h2>
+                        <h2 class="title">Premier Local SEO Agency in India</h2>
                         <p class="mt-30">
-                            ITD GrowthLabs is a trusted Website Content Writing company providing professional content writing solutions for businesses worldwide. Our team delivers high-quality website content that engages visitors, improves SEO rankings, and drives measurable business growth.
+                            ITD GrowthLabs is a trusted Local SEO company providing professional Local SEO solutions for businesses worldwide. Our team delivers high-impact Local SEO that improves local search rankings, attracts nearby customers, and boosts online visibility for measurable results.
                         </p>
                     </div>
                 </div>
@@ -821,19 +821,19 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-search"></i>
+                            <i class="fas fa-laptop-code"></i>
                         </div>
-                        <h4>SEO-Focused Content Strategy</h4>
-                        <p>Craft website content with keyword research, topic planning, and SEO-optimized structure to maximize search visibility and engagement.</p>
+                        <h4>Local SEO Strategy & Planning</h4>
+                        <p>Complete Local SEO from website audit and local keyword research to implementation, ensuring higher local rankings and effective online visibility.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-user-edit"></i>
+                            <i class="fas fa-user-tie"></i>
                         </div>
-                        <h4>Dedicated Content Specialist</h4>
-                        <p>A dedicated content writer ensures clear communication, content consistency, and tailored messaging for your business website.</p>
+                        <h4>Dedicated Local SEO Specialist</h4>
+                        <p>A dedicated expert for your Local SEO ensures smooth communication, strategic guidance, and precise execution for measurable local results.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -842,34 +842,34 @@
                             <i class="fas fa-handshake"></i>
                         </div>
                         <h4>Transparent Pricing</h4>
-                        <p>Website content writing services with upfront pricing, detailed project timelines, and clear cost breakdown for predictable results.</p>
+                        <p>Our Local SEO services provide clear pricing and detailed project timelines before starting your local optimization campaigns.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-pen-fancy"></i>
+                            <i class="fas fa-clock"></i>
                         </div>
-                        <h4>High-Quality & Engaging Content</h4>
-                        <p>Develop compelling, professional content for web pages, blogs, and landing pages to boost visitor engagement and conversions.</p>
+                        <h4>Agile Local SEO Execution</h4>
+                        <p>We implement Local SEO projects using agile workflows to deliver faster local results and ongoing improvements.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-chart-line"></i>
+                            <i class="fas fa-headset"></i>
                         </div>
-                        <h4>Performance Monitoring & Optimization</h4>
-                        <p>Continuous review of website content with analytics, SEO audits, and updates to improve readability, search rankings, and conversions.</p>
+                        <h4>Continuous Local SEO Support</h4>
+                        <p>Ongoing Local SEO support with content optimization, local backlinks, and performance monitoring to maximize local search visibility.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-expand-arrows-alt"></i>
+                            <i class="fas fa-shield-alt"></i>
                         </div>
-                        <h4>Scalable Content Solutions</h4>
-                        <p>Website content writing services designed for long-term growth, providing scalable strategies, multiple formats, and industry-specific content.</p>
+                        <h4>Scalable Local SEO Solutions</h4>
+                        <p>Our Local SEO focuses on long-term local growth with scalable strategies, technical optimization, and analytics-driven insights for measurable traffic and conversions.</p>
                     </div>
                 </div>
             </div>
@@ -891,7 +891,7 @@
                         <div class="hexagon-content">
                             <div class="step-number">01</div><i class="fas fa-search"></i>
                             <h5>DISCOVER</h5>
-                            <p>Website content strategy & planning</p>
+                            <p>Local SEO strategy planning</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
@@ -899,23 +899,23 @@
                         <div class="hexagon-content">
                             <div class="step-number">02</div><i class="fas fa-pencil-ruler"></i>
                             <h5>DESIGN</h5>
-                            <p>Content outline & structure design</p>
+                            <p>Creative Local SEO campaign design</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
                     <div class="process-hexagon">
                         <div class="hexagon-content">
-                            <div class="step-number">03</div><i class="fas fa-cogs"></i>
+                            <div class="step-number">03</div><i class="fas fa-code"></i>
                             <h5>DEVELOP</h5>
-                            <p>Expert content creation & drafting</p>
+                            <p>Expert Local SEO implementation</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
                     <div class="process-hexagon">
                         <div class="hexagon-content">
-                            <div class="step-number">04</div><i class="fas fa-chart-bar"></i>
+                            <div class="step-number">04</div><i class="fas fa-bug"></i>
                             <h5>TEST</h5>
-                            <p>Content review & SEO optimization</p>
+                            <p>Local SEO performance auditing</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
@@ -923,7 +923,7 @@
                         <div class="hexagon-content">
                             <div class="step-number">05</div><i class="fas fa-rocket"></i>
                             <h5>LAUNCH</h5>
-                            <p>Smooth content publishing & deployment</p>
+                            <p>Smooth Local SEO campaign launch</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
@@ -931,7 +931,7 @@
                         <div class="hexagon-content">
                             <div class="step-number">06</div><i class="fas fa-headset"></i>
                             <h5>SUPPORT</h5>
-                            <p>Ongoing content updates & optimization</p>
+                            <p>Ongoing Local SEO optimization support</p>
                         </div>
                     </div>
                 </div>
@@ -943,8 +943,8 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">OUR WEB DEVELOPMENT SERVICES</h5>
-                        <h2 class="title">Behind Every Successful Website Content Writing Project</h2>
+                        <h5 class="sub-title">OUR LOCAL SEO SERVICES</h5>
+                        <h2 class="title">Trusted Local SEO Services Company in India</h2>
                     </div>
                 </div>
             </div>
@@ -953,12 +953,12 @@
             <div class="row" style="display: flex; flex-wrap: wrap;">
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-sitemap fa-3x mb-3"></i>
+                        <i class="fas fa-search fa-3x mb-3"></i>
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Strategic Website Content Writing for businesses, focusing on keyword research, content planning, and engagement strategies to improve brand visibility and online ROI.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Website Content Strategy</a></h4>
+                        <p>Strategic Local SEO for businesses, focusing on optimized content, meta tags, local keywords, and headings to improve search visibility in your target area.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Local On-Page SEO</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -967,8 +967,8 @@
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Scalable Website Content Writing services with structure planning, content scheduling, audience analysis, and secure platform setup for maximum efficiency.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Content Development Setup</a></h4>
+                        <p>Scalable Local SEO services with site audits, crawl optimization, structured data, and secure website setup for better local search performance.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Technical Local SEO</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -977,18 +977,18 @@
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Professional Website Content Writing ensuring content displays correctly on desktops, tablets, and mobile devices for higher user engagement.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Multi-Device & SEO Optimization</a></h4>
+                        <p>Professional Local SEO ensuring websites perform smoothly on mobile devices, fast loading speed, and mobile-friendly layouts for local searches.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Mobile & Local SEO</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-search-dollar fa-3x mb-3"></i>
+                        <i class="fas fa-key fa-3x mb-3"></i>
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Flexible Website Content Writing with optimized headings, meta descriptions, and A/B testing to boost readability, engagement, and search visibility.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Content & Copy Optimization</a></h4>
+                        <p>Flexible Local SEO integrating high-performing local keywords, internal linking, and content strategies to boost nearby organic traffic.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Keyword & Content Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -997,48 +997,48 @@
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Conversion-focused Website Content Writing designed around user behavior to improve content relevance, engagement, and overall site performance.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Creative Enhancements</a></h4>
+                        <p>Conversion-focused Local SEO designed around user behavior to improve engagement, reduce bounce rate, and increase local dwell time.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">UI/UX Local SEO Enhancements</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-sync-alt fa-3x mb-3"></i>
+                        <i class="fas fa-link fa-3x mb-3"></i>
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Advanced Website Content Writing strategies including regular updates, topic expansion, and internal linking to maintain search rankings and traffic.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Content Refresh & Updates</a></h4>
+                        <p>Advanced Local SEO with strategic backlinks, Google My Business optimization, and off-page strategies to improve local rankings.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Local Link Building & Authority</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-chart-bar fa-3x mb-3"></i>
+                        <i class="fas fa-chart-line fa-3x mb-3"></i>
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>High-performing Website Content Writing with monitoring, analytics, and reporting to enhance content impact and ROI.</p>
+                        <p>High-performing Local SEO services with analytics, site speed monitoring, and continuous tracking to improve local SERP positions.</p>
                         <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Performance Tracking & Analytics</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-clipboard-check fa-3x mb-3"></i>
+                        <i class="fas fa-search-dollar fa-3x mb-3"></i>
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Modern Website Content Writing upgrades for existing sites to improve structure, readability, and overall content efficiency.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Audit & Redesign</a></h4>
+                        <p>Modern Local SEO upgrades for outdated websites to enhance structure, content relevance, and technical performance for local search.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Local SEO Audit & Redesign</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-tools fa-3x mb-3"></i>
+                        <i class="fas fa-headset fa-3x mb-3"></i>
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Reliable Website Content Writing support with continuous updates, SEO improvements, reporting, and content strategy enhancements for sustained results.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Ongoing Support & Optimization</a></h4>
+                        <p>Reliable Local SEO support with updates, monitoring, reporting, and continuous optimization to maintain top local search results.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Ongoing Local SEO Support</a></h4>
                     </div>
                 </div>
             </div>
@@ -1055,70 +1055,156 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">SMART TECH CHOICES</h5>
-                        <h2 class="title">Behind Every Successful Website Content Writing Project</h2>
-                        <p class="mt-30">We use proven tools and modern strategies to deliver secure and scalable Website Content Writing solutions — built to support high-performing websites and measurable results for businesses.</p>
+                        <h2 class="title">Behind Every Successful SEO Strategy</h2>
+                        <p class="mt-30">We use proven tools and modern technologies to deliver secure and scalable SEO solutions — built to support reliable and high-performing websites for businesses.</p>
                     </div>
                 </div>
             </div>
-            <div class="row justify-content-center">
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fas fa-sitemap fa-3x mb-3" style="color: var(--color-primary);"></i>
-                        <h5>Website Content Strategy</h5>
+            <div class="tech-categories mb-50">
+                <ul class="nav nav-pills justify-content-center gap-3 flex-wrap" id="techTabs" role="tablist">
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link active" id="frontend-tab" data-bs-toggle="pill" data-bs-target="#frontend" type="button" role="tab">Google Tools</button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="backend-tab" data-bs-toggle="pill" data-bs-target="#backend" type="button" role="tab">SEO Platforms</button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="databases-tab" data-bs-toggle="pill" data-bs-target="#databases" type="button" role="tab">Analytics & Tracking</button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="cloud-tab" data-bs-toggle="pill" data-bs-target="#cloud" type="button" role="tab">Local SEO Tools</button>
+                    </li>
+                </ul>
+            </div>
+            <div class="tab-content" id="techTabsContent">
+                <div class="tab-pane fade show active" id="frontend" role="tabpanel">
+                    <div class="row justify-content-center">
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fab fa-google fa-3x mb-3" style="color: #4285f4;"></i>
+                                <h5>Google My Business</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fab fa-google fa-3x mb-3" style="color: #ea4335;"></i>
+                                <h5>Google Analytics</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fab fa-google fa-3x mb-3" style="color: #34a853;"></i>
+                                <h5>Google Search Console</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-map-marker-alt fa-3x mb-3" style="color: #4285f4;"></i>
+                                <h5>Google Maps</h5>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fas fa-search fa-3x mb-3" style="color: #ff6b35;"></i>
-                        <h5>Keyword Research</h5>
+                <div class="tab-pane fade" id="backend" role="tabpanel">
+                    <div class="row justify-content-center">
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-search fa-3x mb-3" style="color: #7ac043;"></i>
+                                <h5>Moz</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-chart-line fa-3x mb-3" style="color: #ff6b35;"></i>
+                                <h5>Ahrefs</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-search-dollar fa-3x mb-3" style="color: #ff6b35;"></i>
+                                <h5>SEMrush</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-bullseye fa-3x mb-3" style="color: #00a1f1;"></i>
+                                <h5>BrightLocal</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-tasks fa-3x mb-3" style="color: #512bd4;"></i>
+                                <h5>Screaming Frog</h5>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fas fa-search-dollar fa-3x mb-3" style="color: #ff6b35;"></i>
-                        <h5>SEMrush</h5>
+                <div class="tab-pane fade" id="databases" role="tabpanel">
+                    <div class="row justify-content-center">
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fab fa-google fa-3x mb-3" style="color: #f4b400;"></i>
+                                <h5>Google Analytics 4</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-tachometer-alt fa-3x mb-3" style="color: #e37400;"></i>
+                                <h5>Google Tag Manager</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-chart-bar fa-3x mb-3" style="color: #00a1f1;"></i>
+                                <h5>Google Data Studio</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-mouse-pointer fa-3x mb-3" style="color: #ff6b6b;"></i>
+                                <h5>Hotjar</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-search fa-3x mb-3" style="color: #4285f4;"></i>
+                                <h5>Search Console</h5>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fas fa-chart-line fa-3x mb-3" style="color: #ff6b35;"></i>
-                        <h5>Ahrefs</h5>
-                    </div>
-                </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fab fa-google fa-3x mb-3" style="color: #ea4335;"></i>
-                        <h5>Google Analytics</h5>
-                    </div>
-                </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fab fa-google fa-3x mb-3" style="color: #34a853;"></i>
-                        <h5>Google Search Console</h5>
-                    </div>
-                </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fas fa-spell-check fa-3x mb-3" style="color: #1a73e8;"></i>
-                        <h5>Grammarly</h5>
-                    </div>
-                </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fas fa-file-alt fa-3x mb-3" style="color: #00a1f1;"></i>
-                        <h5>Content Management</h5>
-                    </div>
-                </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fas fa-sliders-h fa-3x mb-3" style="color: #f4b400;"></i>
-                        <h5>A/B Testing</h5>
-                    </div>
-                </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fas fa-tachometer-alt fa-3x mb-3" style="color: #e37400;"></i>
-                        <h5>Readability Tools</h5>
+                <div class="tab-pane fade" id="cloud" role="tabpanel">
+                    <div class="row justify-content-center">
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-map-marked-alt fa-3x mb-3" style="color: #4285f4;"></i>
+                                <h5>Local Citations</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-star fa-3x mb-3" style="color: #f4b400;"></i>
+                                <h5>Review Management</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-sitemap fa-3x mb-3" style="color: #34a853;"></i>
+                                <h5>Schema Markup</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-bolt fa-3x mb-3" style="color: #ff6b35;"></i>
+                                <h5>PageSpeed Insights</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-mobile-alt fa-3x mb-3" style="color: #00a1f1;"></i>
+                                <h5>Mobile-Friendly Test</h5>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -1132,8 +1218,8 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center text-light mt-0">
-                        <h2 class="title text-white mb-30">Ready to Elevate Your Website Content?</h2>
-                        <p class="text-white">Work with a trusted Website Content Writing agency for compelling, SEO-optimized content that engages visitors and drives growth.</p>
+                        <h2 class="title text-white mb-30">Ready to Get Found Locally?</h2>
+                        <p class="text-white">Work with a trusted Local SEO agency to improve your local search rankings and attract more nearby customers.</p>
                         <div class="button mt-40">
                             <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Let's Talk</a>
                         </div>
@@ -1163,12 +1249,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        How long does it take to create website content?
+                                        How long does it take to see results from Local SEO?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Project timelines depend on scope—single pages may take 1-2 weeks, while full website content can take 3-6 weeks. We provide detailed project timelines and milestones upfront so you know exactly when to expect delivery.
+                                        Local SEO typically shows initial results within 3-6 months, depending on competition, industry, and the current state of your online presence. Consistent efforts yield better rankings over time.
                                     </div>
                                 </div>
                             </div>
@@ -1177,12 +1263,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        Do you offer SEO-optimized website content?
+                                        What's the average cost of Local SEO services?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. Our website content writing services include keyword research, optimized meta descriptions, proper heading structure, and content tailored to improve search visibility, engagement, and conversions.
+                                        Local SEO costs vary based on location, competition, and scope. Basic packages start around ₹15,000–25,000/month, while comprehensive local SEO campaigns can range from ₹50,000 to ₹1,50,000+ per month.
                                     </div>
                                 </div>
                             </div>
@@ -1191,12 +1277,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        What types of website content do you create?
+                                        Do you optimize Google My Business listings?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We create compelling content for homepages, landing pages, product pages, service pages, About Us, FAQs, and blogs. Our content is designed to engage visitors, build trust, and drive conversions across your entire site.
+                                        Yes, we specialize in Google My Business optimization, including profile setup, NAP consistency, photos, posts, reviews management, and local keyword targeting to improve your visibility in local search and Google Maps.
                                     </div>
                                 </div>
                             </div>
@@ -1205,12 +1291,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Do you work with businesses in my industry?
+                                        Will Local SEO work for businesses with multiple locations?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We deliver industry-specific website content for B2B, B2C, tech, healthcare, e-commerce, and more. Our writers research your industry and audience to create content that resonates and converts.
+                                        Absolutely. We offer scalable Local SEO solutions for multi-location businesses, including location-specific pages, local citations, and geo-targeted content to help each location rank in its area.
                                     </div>
                                 </div>
                             </div>
@@ -1219,12 +1305,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you provide ongoing content updates and optimization?
+                                        Do you provide ongoing Local SEO support and reporting?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We offer continuous content support including updates, SEO improvements, content refreshes, and performance reporting to maintain search rankings and keep your website content relevant.
+                                        Yes, we offer continuous Local SEO support with content optimization, local backlinks, performance monitoring, and regular reports on rankings, traffic, and conversions to maintain and improve your local visibility.
                                     </div>
                                 </div>
                             </div>

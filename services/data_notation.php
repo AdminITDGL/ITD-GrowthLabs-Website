@@ -24,8 +24,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Craft compelling and persuasive website content with ITD GrowthLabs. Our expert content writing enhances SEO, engages visitors, and strengthens your brand presence for measurable business growth.">
-    <title>Website Content Writing Services for Businesses | ITD GrowthLabs</title>
+    <meta name="description" content="Enhance AI models with data annotation services and data labeling solutions. Improve accuracy with high-quality data annotation for image, text, and video datasets.">
+    <title>Data Annotation Services | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
@@ -635,13 +635,13 @@
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
                             <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
-                                Website Content Writing <span style="color: var(--color-primary);">Services</span> for Businesses
+                                Data Annotation <span style="color: var(--color-primary);">Services</span> for Smart AI Model Growth
                             </h2>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
-                                Enhance your brand and engage visitors with professional website content writing. Our content writing services deliver SEO-optimized, persuasive, and high-quality website content to boost traffic, conversions, and business growth.
+                                Improve accuracy with data annotation services and data labeling solutions. ITD GrowthLabs delivers scalable data annotation services for image, text, and video datasets.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Create Content</a>
+                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Start Annotating</a>
                             </div>
                         </div>
                     </div>
@@ -778,7 +778,7 @@
                         <div class="counter" style="color:var(--color-primary)">
                             <span class="timer" data-to="100" data-speed="2000">100</span><span>+</span>
                         </div>
-                        <h4>Content Experts</h4>
+                        <h4>Annotation Experts</h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
@@ -786,7 +786,7 @@
                         <div class="counter" style="color:var(--color-primary)">
                             <span class="timer" data-to="50" data-speed="2000">50</span><span>+</span>
                         </div>
-                        <h4>Projects Delivered</h4>
+                        <h4>Annotation Projects Delivered</h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
@@ -810,9 +810,9 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">WHY CHOOSE ITD GROWTHLABS</h5>
-                        <h2 class="title">Premier Website Content Writing Agency in India</h2>
+                        <h2 class="title">Premier Data Annotation Company in India</h2>
                         <p class="mt-30">
-                            ITD GrowthLabs is a trusted Website Content Writing company providing professional content writing solutions for businesses worldwide. Our team delivers high-quality website content that engages visitors, improves SEO rankings, and drives measurable business growth.
+                            ITD GrowthLabs is a leading data annotation services company offering expert data annotation services and data labeling solutions for businesses globally. Our team delivers scalable, high-quality data annotation services that improve model accuracy, data consistency, and deliver measurable AI outcomes.
                         </p>
                     </div>
                 </div>
@@ -821,46 +821,28 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-search"></i>
+                            <i class="fas fa-tags"></i>
                         </div>
-                        <h4>SEO-Focused Content Strategy</h4>
-                        <p>Craft website content with keyword research, topic planning, and SEO-optimized structure to maximize search visibility and engagement.</p>
+                        <h4>High-Quality Data Labeling</h4>
+                        <p>Streamline data annotation services with precise data labeling, structured datasets, and quality checks that improve accuracy and performance through data labeling solutions.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-user-edit"></i>
+                            <i class="fas fa-layer-group"></i>
                         </div>
-                        <h4>Dedicated Content Specialist</h4>
-                        <p>A dedicated content writer ensures clear communication, content consistency, and tailored messaging for your business website.</p>
+                        <h4>Multi-Format Annotation Support</h4>
+                        <p>Enable data annotation services across image, text, audio, and video datasets, ensuring consistent and reliable data labeling solutions.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-handshake"></i>
+                            <i class="fas fa-project-diagram"></i>
                         </div>
-                        <h4>Transparent Pricing</h4>
-                        <p>Website content writing services with upfront pricing, detailed project timelines, and clear cost breakdown for predictable results.</p>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="why-choose-card">
-                        <div class="icon-wrapper">
-                            <i class="fas fa-pen-fancy"></i>
-                        </div>
-                        <h4>High-Quality & Engaging Content</h4>
-                        <p>Develop compelling, professional content for web pages, blogs, and landing pages to boost visitor engagement and conversions.</p>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="why-choose-card">
-                        <div class="icon-wrapper">
-                            <i class="fas fa-chart-line"></i>
-                        </div>
-                        <h4>Performance Monitoring & Optimization</h4>
-                        <p>Continuous review of website content with analytics, SEO audits, and updates to improve readability, search rankings, and conversions.</p>
+                        <h4>Customized Annotation Workflows</h4>
+                        <p>Deliver data annotation services with tailored workflows, dataset structuring, and labeling strategies to enhance model training and performance.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -868,8 +850,26 @@
                         <div class="icon-wrapper">
                             <i class="fas fa-expand-arrows-alt"></i>
                         </div>
-                        <h4>Scalable Content Solutions</h4>
-                        <p>Website content writing services designed for long-term growth, providing scalable strategies, multiple formats, and industry-specific content.</p>
+                        <h4>Scalable Annotation Processes</h4>
+                        <p>Execute data annotation services with scalable workflows, bulk data handling, and structured processes for efficient data labeling solutions.</p>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="why-choose-card">
+                        <div class="icon-wrapper">
+                            <i class="fas fa-plug"></i>
+                        </div>
+                        <h4>Tool & Platform Integration</h4>
+                        <p>Integrate data annotation services with annotation tools and AI platforms to streamline workflows and improve efficiency.</p>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="why-choose-card">
+                        <div class="icon-wrapper">
+                            <i class="fas fa-chart-line"></i>
+                        </div>
+                        <h4>Analytics & Quality Insights</h4>
+                        <p>Track data annotation services performance with quality checks, reports, and insights to optimize data labeling solutions and improve results.</p>
                     </div>
                 </div>
             </div>
@@ -891,7 +891,7 @@
                         <div class="hexagon-content">
                             <div class="step-number">01</div><i class="fas fa-search"></i>
                             <h5>DISCOVER</h5>
-                            <p>Website content strategy & planning</p>
+                            <p>Data annotation services research & planning</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
@@ -899,7 +899,7 @@
                         <div class="hexagon-content">
                             <div class="step-number">02</div><i class="fas fa-pencil-ruler"></i>
                             <h5>DESIGN</h5>
-                            <p>Content outline & structure design</p>
+                            <p>Creative data annotation workflow design</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
@@ -907,7 +907,7 @@
                         <div class="hexagon-content">
                             <div class="step-number">03</div><i class="fas fa-cogs"></i>
                             <h5>DEVELOP</h5>
-                            <p>Expert content creation & drafting</p>
+                            <p>Expert data annotation services & setup</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
@@ -915,7 +915,7 @@
                         <div class="hexagon-content">
                             <div class="step-number">04</div><i class="fas fa-chart-bar"></i>
                             <h5>TEST</h5>
-                            <p>Content review & SEO optimization</p>
+                            <p>Data annotation services review & quality check</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
@@ -923,7 +923,7 @@
                         <div class="hexagon-content">
                             <div class="step-number">05</div><i class="fas fa-rocket"></i>
                             <h5>LAUNCH</h5>
-                            <p>Smooth content publishing & deployment</p>
+                            <p>Smooth data annotation deployment & delivery</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
@@ -931,7 +931,7 @@
                         <div class="hexagon-content">
                             <div class="step-number">06</div><i class="fas fa-headset"></i>
                             <h5>SUPPORT</h5>
-                            <p>Ongoing content updates & optimization</p>
+                            <p>Ongoing data annotation services updates & optimization</p>
                         </div>
                     </div>
                 </div>
@@ -943,8 +943,8 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">OUR WEB DEVELOPMENT SERVICES</h5>
-                        <h2 class="title">Behind Every Successful Website Content Writing Project</h2>
+                        <h5 class="sub-title">OUR DATA ANNOTATION SERVICES</h5>
+                        <h2 class="title">Behind Every Successful Data Annotation Project</h2>
                     </div>
                 </div>
             </div>
@@ -953,12 +953,12 @@
             <div class="row" style="display: flex; flex-wrap: wrap;">
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-sitemap fa-3x mb-3"></i>
+                        <i class="fas fa-bullseye fa-3x mb-3"></i>
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Strategic Website Content Writing for businesses, focusing on keyword research, content planning, and engagement strategies to improve brand visibility and online ROI.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Website Content Strategy</a></h4>
+                        <p>Strategic data annotation services and data labeling solutions for businesses, focusing on dataset planning, labeling workflows, and structured processes to improve accuracy and performance.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Data Annotation Strategy</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -967,38 +967,38 @@
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Scalable Website Content Writing services with structure planning, content scheduling, audience analysis, and secure platform setup for maximum efficiency.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Content Development Setup</a></h4>
+                        <p>Scalable data annotation services with dataset setup, configuration, data structuring, and platform-ready data labeling solutions.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Dataset Setup & Configuration</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-mobile-alt fa-3x mb-3"></i>
+                        <i class="fas fa-layer-group fa-3x mb-3"></i>
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Professional Website Content Writing ensuring content displays correctly on desktops, tablets, and mobile devices for higher user engagement.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Multi-Device & SEO Optimization</a></h4>
+                        <p>Professional data annotation services ensuring data labeling solutions perform across image, text, and video datasets for consistent results.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Multi-Format Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-search-dollar fa-3x mb-3"></i>
+                        <i class="fas fa-project-diagram fa-3x mb-3"></i>
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Flexible Website Content Writing with optimized headings, meta descriptions, and A/B testing to boost readability, engagement, and search visibility.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Content & Copy Optimization</a></h4>
+                        <p>Flexible data annotation services with optimized workflows, structured datasets, and labeling processes to improve efficiency and accuracy.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Annotation Workflow Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-paint-brush fa-3x mb-3"></i>
+                        <i class="fas fa-brain fa-3x mb-3"></i>
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Conversion-focused Website Content Writing designed around user behavior to improve content relevance, engagement, and overall site performance.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Creative Enhancements</a></h4>
+                        <p>Conversion-focused data annotation services designed with smart labeling strategies and structured processes to improve model performance.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Intelligent Annotation Enhancements</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -1007,8 +1007,8 @@
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Advanced Website Content Writing strategies including regular updates, topic expansion, and internal linking to maintain search rankings and traffic.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Content Refresh & Updates</a></h4>
+                        <p>Advanced data annotation services and data labeling solutions strategies including dataset updates, scaling, and workflow improvements.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Annotation Updates & Scaling</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -1017,7 +1017,7 @@
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>High-performing Website Content Writing with monitoring, analytics, and reporting to enhance content impact and ROI.</p>
+                        <p>High-performing data annotation services with analytics, reporting tools, and tracking to evaluate dataset quality.</p>
                         <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Performance Tracking & Analytics</a></h4>
                     </div>
                 </div>
@@ -1027,8 +1027,8 @@
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Modern Website Content Writing upgrades for existing sites to improve structure, readability, and overall content efficiency.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Audit & Redesign</a></h4>
+                        <p>Modern data annotation services improvements for existing datasets to enhance structure, clarity, and labeling accuracy.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Annotation Audit & Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -1037,7 +1037,7 @@
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Reliable Website Content Writing support with continuous updates, SEO improvements, reporting, and content strategy enhancements for sustained results.</p>
+                        <p>Reliable data annotation services support with continuous updates, performance improvements, and strategy enhancements.</p>
                         <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Ongoing Support & Optimization</a></h4>
                     </div>
                 </div>
@@ -1055,70 +1055,58 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">SMART TECH CHOICES</h5>
-                        <h2 class="title">Behind Every Successful Website Content Writing Project</h2>
-                        <p class="mt-30">We use proven tools and modern strategies to deliver secure and scalable Website Content Writing solutions — built to support high-performing websites and measurable results for businesses.</p>
+                        <h2 class="title">Behind Every Successful Data Annotation Project</h2>
+                        <p class="mt-30">We use proven tools and modern strategies to deliver secure and scalable data annotation services and data labeling solutions — built to support accurate datasets, structured workflows, and measurable AI performance outcomes.</p>
                     </div>
                 </div>
             </div>
             <div class="row justify-content-center">
                 <div class="col-6 col-md-4 col-lg-2">
                     <div class="tech-stack-item">
-                        <i class="fas fa-sitemap fa-3x mb-3" style="color: var(--color-primary);"></i>
-                        <h5>Website Content Strategy</h5>
+                        <i class="fas fa-bullseye fa-3x mb-3" style="color: #0a66c2;"></i>
+                        <h5>Data Annotation Strategy</h5>
                     </div>
                 </div>
                 <div class="col-6 col-md-4 col-lg-2">
                     <div class="tech-stack-item">
-                        <i class="fas fa-search fa-3x mb-3" style="color: #ff6b35;"></i>
-                        <h5>Keyword Research</h5>
+                        <i class="fas fa-tags fa-3x mb-3" style="color: #0a66c2;"></i>
+                        <h5>Image Labeling</h5>
                     </div>
                 </div>
                 <div class="col-6 col-md-4 col-lg-2">
                     <div class="tech-stack-item">
-                        <i class="fas fa-search-dollar fa-3x mb-3" style="color: #ff6b35;"></i>
-                        <h5>SEMrush</h5>
+                        <i class="fas fa-font fa-3x mb-3" style="color: #0a66c2;"></i>
+                        <h5>Text Annotation</h5>
                     </div>
                 </div>
                 <div class="col-6 col-md-4 col-lg-2">
                     <div class="tech-stack-item">
-                        <i class="fas fa-chart-line fa-3x mb-3" style="color: #ff6b35;"></i>
-                        <h5>Ahrefs</h5>
+                        <i class="fas fa-video fa-3x mb-3" style="color: #f4b400;"></i>
+                        <h5>Video Annotation</h5>
                     </div>
                 </div>
                 <div class="col-6 col-md-4 col-lg-2">
                     <div class="tech-stack-item">
-                        <i class="fab fa-google fa-3x mb-3" style="color: #ea4335;"></i>
-                        <h5>Google Analytics</h5>
+                        <i class="fas fa-microphone fa-3x mb-3" style="color: #0a66c2;"></i>
+                        <h5>Audio Annotation</h5>
                     </div>
                 </div>
                 <div class="col-6 col-md-4 col-lg-2">
                     <div class="tech-stack-item">
-                        <i class="fab fa-google fa-3x mb-3" style="color: #34a853;"></i>
-                        <h5>Google Search Console</h5>
+                        <i class="fas fa-check-double fa-3x mb-3" style="color: #ea4335;"></i>
+                        <h5>Quality Assurance</h5>
                     </div>
                 </div>
                 <div class="col-6 col-md-4 col-lg-2">
                     <div class="tech-stack-item">
-                        <i class="fas fa-spell-check fa-3x mb-3" style="color: #1a73e8;"></i>
-                        <h5>Grammarly</h5>
+                        <i class="fas fa-plug fa-3x mb-3" style="color: #f4b400;"></i>
+                        <h5>Platform Integration</h5>
                     </div>
                 </div>
                 <div class="col-6 col-md-4 col-lg-2">
                     <div class="tech-stack-item">
-                        <i class="fas fa-file-alt fa-3x mb-3" style="color: #00a1f1;"></i>
-                        <h5>Content Management</h5>
-                    </div>
-                </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fas fa-sliders-h fa-3x mb-3" style="color: #f4b400;"></i>
-                        <h5>A/B Testing</h5>
-                    </div>
-                </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fas fa-tachometer-alt fa-3x mb-3" style="color: #e37400;"></i>
-                        <h5>Readability Tools</h5>
+                        <i class="fas fa-chart-line fa-3x mb-3" style="color: #34a853;"></i>
+                        <h5>Analytics & Reporting</h5>
                     </div>
                 </div>
             </div>
@@ -1132,8 +1120,8 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center text-light mt-0">
-                        <h2 class="title text-white mb-30">Ready to Elevate Your Website Content?</h2>
-                        <p class="text-white">Work with a trusted Website Content Writing agency for compelling, SEO-optimized content that engages visitors and drives growth.</p>
+                        <h2 class="title text-white mb-30">Ready to Enhance Your AI Models?</h2>
+                        <p class="text-white">Work with a trusted data annotation company for high-quality data labeling that improves model accuracy and AI performance.</p>
                         <div class="button mt-40">
                             <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Let's Talk</a>
                         </div>
@@ -1163,12 +1151,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        How long does it take to create website content?
+                                        What types of data annotation do you offer?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Project timelines depend on scope—single pages may take 1-2 weeks, while full website content can take 3-6 weeks. We provide detailed project timelines and milestones upfront so you know exactly when to expect delivery.
+                                        We offer comprehensive data annotation services across image, text, audio, and video datasets. This includes bounding box annotation, semantic segmentation, text classification, entity recognition, sentiment analysis, speech transcription, and video object tracking—all tailored to your AI model requirements.
                                     </div>
                                 </div>
                             </div>
@@ -1177,12 +1165,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        Do you offer SEO-optimized website content?
+                                        How do you ensure data annotation quality?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. Our website content writing services include keyword research, optimized meta descriptions, proper heading structure, and content tailored to improve search visibility, engagement, and conversions.
+                                        We implement rigorous quality checks including multi-level review, inter-annotator agreement metrics, automated validation, and expert audits. Our structured workflows and quality assurance processes ensure high accuracy, consistency, and reliability in every dataset we deliver.
                                     </div>
                                 </div>
                             </div>
@@ -1191,12 +1179,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        What types of website content do you create?
+                                        Can you handle large-scale annotation projects?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We create compelling content for homepages, landing pages, product pages, service pages, About Us, FAQs, and blogs. Our content is designed to engage visitors, build trust, and drive conversions across your entire site.
+                                        Yes. We deliver scalable data annotation services with bulk data handling, flexible workflows, and structured processes. Our team can scale to meet your volume requirements while maintaining quality and meeting deadlines.
                                     </div>
                                 </div>
                             </div>
@@ -1205,12 +1193,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Do you work with businesses in my industry?
+                                        Do you integrate with annotation tools and AI platforms?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We deliver industry-specific website content for B2B, B2C, tech, healthcare, e-commerce, and more. Our writers research your industry and audience to create content that resonates and converts.
+                                        Absolutely. We integrate data annotation services with popular annotation tools and AI platforms to streamline workflows. We work with your preferred tools or recommend industry-standard solutions to ensure seamless dataset delivery for model training.
                                     </div>
                                 </div>
                             </div>
@@ -1219,12 +1207,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you provide ongoing content updates and optimization?
+                                        How long does a typical data annotation project take?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We offer continuous content support including updates, SEO improvements, content refreshes, and performance reporting to maintain search rankings and keep your website content relevant.
+                                        Project timelines depend on dataset size, complexity, and format. We provide clear timelines upfront and follow a structured process—from discovery and workflow design to annotation, quality checks, and delivery—to ensure high-quality datasets on schedule.
                                     </div>
                                 </div>
                             </div>

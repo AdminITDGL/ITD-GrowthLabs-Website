@@ -24,8 +24,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Craft compelling and persuasive website content with ITD GrowthLabs. Our expert content writing enhances SEO, engages visitors, and strengthens your brand presence for measurable business growth.">
-    <title>Website Content Writing Services for Businesses | ITD GrowthLabs</title>
+    <meta name="description" content="Professional web application development services to build secure, scalable, and high-performing web apps. Our web application development ensures seamless functionality, modern design, and robust performance for businesses of all sizes.">
+    <title>Web Application Development Services | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
@@ -635,13 +635,13 @@
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
                             <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
-                                Website Content Writing <span style="color: var(--color-primary);">Services</span> for Businesses
+                                Web Application Development <span style="color: var(--color-primary);">Services</span> for Modern Businesses
                             </h2>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
-                                Enhance your brand and engage visitors with professional website content writing. Our content writing services deliver SEO-optimized, persuasive, and high-quality website content to boost traffic, conversions, and business growth.
+                                Build robust and scalable solutions with expert web application development. Our web application development delivers secure, fast, and high-performing web apps for businesses.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Create Content</a>
+                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Get Started</a>
                             </div>
                         </div>
                     </div>
@@ -778,7 +778,7 @@
                         <div class="counter" style="color:var(--color-primary)">
                             <span class="timer" data-to="100" data-speed="2000">100</span><span>+</span>
                         </div>
-                        <h4>Content Experts</h4>
+                        <h4>Tech Experts</h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
@@ -786,7 +786,7 @@
                         <div class="counter" style="color:var(--color-primary)">
                             <span class="timer" data-to="50" data-speed="2000">50</span><span>+</span>
                         </div>
-                        <h4>Projects Delivered</h4>
+                        <h4>Apps Delivered</h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
@@ -810,9 +810,9 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">WHY CHOOSE ITD GROWTHLABS</h5>
-                        <h2 class="title">Premier Website Content Writing Agency in India</h2>
+                        <h2 class="title">Premier Web Application Development Agency in India</h2>
                         <p class="mt-30">
-                            ITD GrowthLabs is a trusted Website Content Writing company providing professional content writing solutions for businesses worldwide. Our team delivers high-quality website content that engages visitors, improves SEO rankings, and drives measurable business growth.
+                            ITD GrowthLabs is a trusted Web Application Development company offering professional Web Application Development solutions for businesses worldwide. Our team builds modern solutions through expert Web Application Development that deliver smooth performance, security, and scalability.
                         </p>
                     </div>
                 </div>
@@ -821,19 +821,19 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-search"></i>
+                            <i class="fas fa-laptop-code"></i>
                         </div>
-                        <h4>SEO-Focused Content Strategy</h4>
-                        <p>Craft website content with keyword research, topic planning, and SEO-optimized structure to maximize search visibility and engagement.</p>
+                        <h4>Comprehensive App Planning</h4>
+                        <p>Complete Web Application Development from requirement analysis and UI/UX planning to deployment, ensuring seamless, high-performing web applications.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-user-edit"></i>
+                            <i class="fas fa-user-tie"></i>
                         </div>
-                        <h4>Dedicated Content Specialist</h4>
-                        <p>A dedicated content writer ensures clear communication, content consistency, and tailored messaging for your business website.</p>
+                        <h4>Dedicated Development Specialist</h4>
+                        <p>A dedicated expert for your Web Application Development ensures smooth communication and precise execution throughout the project lifecycle.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -841,35 +841,35 @@
                         <div class="icon-wrapper">
                             <i class="fas fa-handshake"></i>
                         </div>
-                        <h4>Transparent Pricing</h4>
-                        <p>Website content writing services with upfront pricing, detailed project timelines, and clear cost breakdown for predictable results.</p>
+                        <h4>Transparent Pricing & Project Planning</h4>
+                        <p>Our Web Application Development services provide clear pricing and detailed project timelines before starting your web application build.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-pen-fancy"></i>
+                            <i class="fas fa-clock"></i>
                         </div>
-                        <h4>High-Quality & Engaging Content</h4>
-                        <p>Develop compelling, professional content for web pages, blogs, and landing pages to boost visitor engagement and conversions.</p>
+                        <h4>Agile Development & Delivery</h4>
+                        <p>We manage Web Application Development projects using agile workflows to deliver secure and scalable web applications efficiently and on schedule.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-chart-line"></i>
+                            <i class="fas fa-headset"></i>
                         </div>
-                        <h4>Performance Monitoring & Optimization</h4>
-                        <p>Continuous review of website content with analytics, SEO audits, and updates to improve readability, search rankings, and conversions.</p>
+                        <h4>Continuous Updates & Support</h4>
+                        <p>Ongoing Web Application Development support with updates, testing, and feature enhancements to maximize performance and usability.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-expand-arrows-alt"></i>
+                            <i class="fas fa-shield-alt"></i>
                         </div>
-                        <h4>Scalable Content Solutions</h4>
-                        <p>Website content writing services designed for long-term growth, providing scalable strategies, multiple formats, and industry-specific content.</p>
+                        <h4>Secure & Scalable Architecture</h4>
+                        <p>Our Web Application Development focuses on robust security, fast performance, and scalable infrastructure for modern business applications.</p>
                     </div>
                 </div>
             </div>
@@ -891,7 +891,7 @@
                         <div class="hexagon-content">
                             <div class="step-number">01</div><i class="fas fa-search"></i>
                             <h5>DISCOVER</h5>
-                            <p>Website content strategy & planning</p>
+                            <p>Web Application Development planning</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
@@ -899,23 +899,23 @@
                         <div class="hexagon-content">
                             <div class="step-number">02</div><i class="fas fa-pencil-ruler"></i>
                             <h5>DESIGN</h5>
-                            <p>Content outline & structure design</p>
+                            <p>Creative Web Application Development design</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
                     <div class="process-hexagon">
                         <div class="hexagon-content">
-                            <div class="step-number">03</div><i class="fas fa-cogs"></i>
+                            <div class="step-number">03</div><i class="fas fa-code"></i>
                             <h5>DEVELOP</h5>
-                            <p>Expert content creation & drafting</p>
+                            <p>Expert Web Application Development build</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
                     <div class="process-hexagon">
                         <div class="hexagon-content">
-                            <div class="step-number">04</div><i class="fas fa-chart-bar"></i>
+                            <div class="step-number">04</div><i class="fas fa-bug"></i>
                             <h5>TEST</h5>
-                            <p>Content review & SEO optimization</p>
+                            <p>Web Application Development QA testing</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
@@ -923,7 +923,7 @@
                         <div class="hexagon-content">
                             <div class="step-number">05</div><i class="fas fa-rocket"></i>
                             <h5>LAUNCH</h5>
-                            <p>Smooth content publishing & deployment</p>
+                            <p>Smooth Web Application Development launch</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
@@ -931,7 +931,7 @@
                         <div class="hexagon-content">
                             <div class="step-number">06</div><i class="fas fa-headset"></i>
                             <h5>SUPPORT</h5>
-                            <p>Ongoing content updates & optimization</p>
+                            <p>Ongoing Web Application Development support</p>
                         </div>
                     </div>
                 </div>
@@ -944,7 +944,7 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">OUR WEB DEVELOPMENT SERVICES</h5>
-                        <h2 class="title">Behind Every Successful Website Content Writing Project</h2>
+                        <h2 class="title">Trusted Web Application Development Company in India</h2>
                     </div>
                 </div>
             </div>
@@ -953,22 +953,22 @@
             <div class="row" style="display: flex; flex-wrap: wrap;">
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-sitemap fa-3x mb-3"></i>
+                        <i class="fas fa-building fa-3x mb-3"></i>
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Strategic Website Content Writing for businesses, focusing on keyword research, content planning, and engagement strategies to improve brand visibility and online ROI.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Website Content Strategy</a></h4>
+                        <p>Strategic Web Application Development for businesses, focusing on intuitive design, secure architecture, and smooth performance for modern web solutions.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Custom Web Application Development</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-cogs fa-3x mb-3"></i>
+                        <i class="fas fa-shopping-cart fa-3x mb-3"></i>
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Scalable Website Content Writing services with structure planning, content scheduling, audience analysis, and secure platform setup for maximum efficiency.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Content Development Setup</a></h4>
+                        <p>Scalable Web Application Development solutions for enterprises with advanced features, integrations, and secure data management.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Enterprise Web Applications</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -977,18 +977,18 @@
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Professional Website Content Writing ensuring content displays correctly on desktops, tablets, and mobile devices for higher user engagement.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Multi-Device & SEO Optimization</a></h4>
+                        <p>Professional Web Application Development ensuring web apps deliver smooth performance and consistent user experience across desktops, tablets, and mobile devices.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Responsive Web UI Design</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-search-dollar fa-3x mb-3"></i>
+                        <i class="fab fa-wordpress fa-3x mb-3"></i>
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Flexible Website Content Writing with optimized headings, meta descriptions, and A/B testing to boost readability, engagement, and search visibility.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Content & Copy Optimization</a></h4>
+                        <p>Flexible Web Application Development that integrates APIs, payment systems, notifications, and other essential functionalities.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">App Feature Integration</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -997,8 +997,28 @@
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Conversion-focused Website Content Writing designed around user behavior to improve content relevance, engagement, and overall site performance.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Creative Enhancements</a></h4>
+                        <p>Conversion-focused Web Application Development built around user behavior, creating intuitive interfaces that improve engagement and usability.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Web App UI/UX Design</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-code fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Advanced Web Application Development with tailored features, scalable architecture, and technology integrations for complex web application requirements.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Custom App Solutions</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-bullseye fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>High-performing Web Application Development with optimized structure and design to support better visibility, speed, and user experience.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">SEO & Performance Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -1007,28 +1027,8 @@
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Advanced Website Content Writing strategies including regular updates, topic expansion, and internal linking to maintain search rankings and traffic.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Content Refresh & Updates</a></h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-one">
-                        <i class="fas fa-chart-bar fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
-                            <i class="fas fa-long-arrow-right"></i>
-                        </a>
-                        <p>High-performing Website Content Writing with monitoring, analytics, and reporting to enhance content impact and ROI.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Performance Tracking & Analytics</a></h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-one">
-                        <i class="fas fa-clipboard-check fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
-                            <i class="fas fa-long-arrow-right"></i>
-                        </a>
-                        <p>Modern Website Content Writing upgrades for existing sites to improve structure, readability, and overall content efficiency.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Audit & Redesign</a></h4>
+                        <p>Modern Web Application Development upgrades for outdated web applications to improve speed, usability, and visual appeal.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Web Application Redesign Services</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -1037,8 +1037,8 @@
                         <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Reliable Website Content Writing support with continuous updates, SEO improvements, reporting, and content strategy enhancements for sustained results.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Ongoing Support & Optimization</a></h4>
+                        <p>Reliable Web Application Development support with updates, bug fixes, monitoring, and performance optimization.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Web Application Maintenance & Support</a></h4>
                     </div>
                 </div>
             </div>
@@ -1055,70 +1055,230 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">SMART TECH CHOICES</h5>
-                        <h2 class="title">Behind Every Successful Website Content Writing Project</h2>
-                        <p class="mt-30">We use proven tools and modern strategies to deliver secure and scalable Website Content Writing solutions — built to support high-performing websites and measurable results for businesses.</p>
+                        <h2 class="title">Behind Every Successful Web Application Development</h2>
+                        <p class="mt-30">We use proven tools and modern technologies to deliver secure and scalable Web Application Development solutions — built to support reliable and high-performing web applications for businesses.</p>
                     </div>
                 </div>
             </div>
-            <div class="row justify-content-center">
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fas fa-sitemap fa-3x mb-3" style="color: var(--color-primary);"></i>
-                        <h5>Website Content Strategy</h5>
+            <div class="tech-categories mb-50">
+                <ul class="nav nav-pills justify-content-center gap-3 flex-wrap" id="techTabs" role="tablist">
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link active" id="frontend-tab" data-bs-toggle="pill" data-bs-target="#frontend" type="button" role="tab">Frontend (Native & Cross-Platform)</button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="backend-tab" data-bs-toggle="pill" data-bs-target="#backend" type="button" role="tab">Backend & Frameworks</button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="databases-tab" data-bs-toggle="pill" data-bs-target="#databases" type="button" role="tab">Databases</button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="cloud-tab" data-bs-toggle="pill" data-bs-target="#cloud" type="button" role="tab">Cloud & DevOps</button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="integrations-tab" data-bs-toggle="pill" data-bs-target="#integrations" type="button" role="tab">Integrations & APIs</button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="analytics-tab" data-bs-toggle="pill" data-bs-target="#analytics" type="button" role="tab">Testing & Analytics</button>
+                    </li>
+                </ul>
+            </div>
+            <div class="tab-content" id="techTabsContent">
+                <div class="tab-pane fade show active" id="frontend" role="tabpanel">
+                    <div class="row justify-content-center">
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fab fa-swift fa-3x mb-3" style="color: #fa7343;"></i>
+                                <h5>Swift</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fab fa-android fa-3x mb-3" style="color: #3ddc84;"></i>
+                                <h5>Kotlin</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fab fa-react fa-3x mb-3" style="color: #61dafb;"></i>
+                                <h5>React Native</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fab fa-google fa-3x mb-3" style="color: #02569b;"></i>
+                                <h5>Flutter</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-mobile-alt fa-3x mb-3" style="color: #3880ff;"></i>
+                                <h5>Ionic</h5>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fas fa-search fa-3x mb-3" style="color: #ff6b35;"></i>
-                        <h5>Keyword Research</h5>
+                <div class="tab-pane fade" id="backend" role="tabpanel">
+                    <div class="row justify-content-center">
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fab fa-node-js fa-3x mb-3" style="color: #339933;"></i>
+                                <h5>Node.js</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fab fa-microsoft fa-3x mb-3" style="color: #512bd4;"></i>
+                                <h5>.NET</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fab fa-laravel fa-3x mb-3" style="color: #ff2d20;"></i>
+                                <h5>Laravel</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fab fa-python fa-3x mb-3" style="color: #3776ab;"></i>
+                                <h5>Django</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fab fa-java fa-3x mb-3" style="color: #ed8b00;"></i>
+                                <h5>Spring Boot</h5>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fas fa-search-dollar fa-3x mb-3" style="color: #ff6b35;"></i>
-                        <h5>SEMrush</h5>
+                <div class="tab-pane fade" id="databases" role="tabpanel">
+                    <div class="row justify-content-center">
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-database fa-3x mb-3" style="color: #00758f;"></i>
+                                <h5>MySQL</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-database fa-3x mb-3" style="color: #336791;"></i>
+                                <h5>PostgreSQL</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-leaf fa-3x mb-3" style="color: #47a248;"></i>
+                                <h5>MongoDB</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fab fa-google fa-3x mb-3" style="color: #ffca28;"></i>
+                                <h5>Firebase</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-database fa-3x mb-3" style="color: #003b57;"></i>
+                                <h5>SQLite</h5>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fas fa-chart-line fa-3x mb-3" style="color: #ff6b35;"></i>
-                        <h5>Ahrefs</h5>
+                <div class="tab-pane fade" id="cloud" role="tabpanel">
+                    <div class="row justify-content-center">
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fab fa-aws fa-3x mb-3" style="color: #ff9900;"></i>
+                                <h5>AWS</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-cloud fa-3x mb-3" style="color: #4285f4;"></i>
+                                <h5>Google Cloud</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fab fa-microsoft fa-3x mb-3" style="color: #00a4ef;"></i>
+                                <h5>Microsoft Azure</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fab fa-docker fa-3x mb-3" style="color: #2496ed;"></i>
+                                <h5>Docker</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-cube fa-3x mb-3" style="color: #326ce5;"></i>
+                                <h5>Kubernetes</h5>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fab fa-google fa-3x mb-3" style="color: #ea4335;"></i>
-                        <h5>Google Analytics</h5>
+                <div class="tab-pane fade" id="integrations" role="tabpanel">
+                    <div class="row justify-content-center">
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-code fa-3x mb-3" style="color: #ff6b6b;"></i>
+                                <h5>REST</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-project-diagram fa-3x mb-3" style="color: #e10098;"></i>
+                                <h5>GraphQL</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-credit-card fa-3x mb-3" style="color: #635bff;"></i>
+                                <h5>Payment Gateways</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-building fa-3x mb-3" style="color: #00a1f1;"></i>
+                                <h5>CRM & ERP Systems</h5>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fab fa-google fa-3x mb-3" style="color: #34a853;"></i>
-                        <h5>Google Search Console</h5>
-                    </div>
-                </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fas fa-spell-check fa-3x mb-3" style="color: #1a73e8;"></i>
-                        <h5>Grammarly</h5>
-                    </div>
-                </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fas fa-file-alt fa-3x mb-3" style="color: #00a1f1;"></i>
-                        <h5>Content Management</h5>
-                    </div>
-                </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fas fa-sliders-h fa-3x mb-3" style="color: #f4b400;"></i>
-                        <h5>A/B Testing</h5>
-                    </div>
-                </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fas fa-tachometer-alt fa-3x mb-3" style="color: #e37400;"></i>
-                        <h5>Readability Tools</h5>
+                <div class="tab-pane fade" id="analytics" role="tabpanel">
+                    <div class="row justify-content-center">
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-vial fa-3x mb-3" style="color: #43b02a;"></i>
+                                <h5>Selenium</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-mobile-alt fa-3x mb-3" style="color: #5c6bc0;"></i>
+                                <h5>Appium</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-tachometer-alt fa-3x mb-3" style="color: #d22128;"></i>
+                                <h5>JMeter</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fab fa-google fa-3x mb-3" style="color: #f4b400;"></i>
+                                <h5>Google Analytics</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-exclamation-triangle fa-3x mb-3" style="color: #ff6f00;"></i>
+                                <h5>Firebase Crashlytics</h5>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -1132,8 +1292,8 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center text-light mt-0">
-                        <h2 class="title text-white mb-30">Ready to Elevate Your Website Content?</h2>
-                        <p class="text-white">Work with a trusted Website Content Writing agency for compelling, SEO-optimized content that engages visitors and drives growth.</p>
+                        <h2 class="title text-white mb-30">Ready to Build Your Website?</h2>
+                        <p class="text-white">Work with a trusted business website development company for long-term success.</p>
                         <div class="button mt-40">
                             <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Let's Talk</a>
                         </div>
@@ -1163,12 +1323,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        How long does it take to create website content?
+                                        How long does it take to develop a mobile app?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Project timelines depend on scope—single pages may take 1-2 weeks, while full website content can take 3-6 weeks. We provide detailed project timelines and milestones upfront so you know exactly when to expect delivery.
+                                        Typically, a mobile app takes 2-4 months depending on complexity, features, and platform (iOS, Android, or both).
                                     </div>
                                 </div>
                             </div>
@@ -1177,12 +1337,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        Do you offer SEO-optimized website content?
+                                        What's the average cost of app development?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. Our website content writing services include keyword research, optimized meta descriptions, proper heading structure, and content tailored to improve search visibility, engagement, and conversions.
+                                        App development costs vary based on features and complexity. Basic apps start around ₹50,000, while enterprise apps can range from ₹3,00,000 to ₹10,00,000+.
                                     </div>
                                 </div>
                             </div>
@@ -1191,12 +1351,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        What types of website content do you create?
+                                        Do you develop for both iOS and Android?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We create compelling content for homepages, landing pages, product pages, service pages, About Us, FAQs, and blogs. Our content is designed to engage visitors, build trust, and drive conversions across your entire site.
+                                        Yes, we develop native apps for both platforms and also offer cross-platform solutions using React Native and Flutter for cost-effective development.
                                     </div>
                                 </div>
                             </div>
@@ -1205,12 +1365,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Do you work with businesses in my industry?
+                                        Will you help with app store submission?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We deliver industry-specific website content for B2B, B2C, tech, healthcare, e-commerce, and more. Our writers research your industry and audience to create content that resonates and converts.
+                                        Absolutely. We handle the complete app store submission process for both Google Play Store and Apple App Store, including all required documentation and compliance.
                                     </div>
                                 </div>
                             </div>
@@ -1219,12 +1379,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you provide ongoing content updates and optimization?
+                                        Do you provide post-launch support and maintenance?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We offer continuous content support including updates, SEO improvements, content refreshes, and performance reporting to maintain search rankings and keep your website content relevant.
+                                        Yes, we offer comprehensive post-launch support including bug fixes, updates, feature enhancements, and maintenance to keep your app running smoothly.
                                     </div>
                                 </div>
                             </div>

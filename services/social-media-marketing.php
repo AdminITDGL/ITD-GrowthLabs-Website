@@ -3,29 +3,30 @@
 
 <head>
     <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-M4XDB2GZ');</script>
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-M4XDB2GZ');
+    </script>
     <!-- End Google Tag Manager -->
 
-    <!-- ========== Meta Tags ========== -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Looking for the best Social Media Marketing Services? GrowthLabs is a leading Social Media Agency offering tailored strategies to grow your brand, increase engagement, and drive results across all social platforms.">
-    <meta name="keywords" content="Social Media Marketing Services, Social Media Agency, Social Media Strategy, Social Media Advertising, Digital Marketing Agency, Brand Engagement, Social Media Growth, GrowthLabs Social Media Marketing.">
-    <title>Social Media Marketing for Small Businesses
-    </title>
-
-
-
-
-    <!-- ========== Favicon Icon ========== -->
+    <meta name="description" content="Boost your brand presence with expert social media marketing. Our social media strategies increase engagement, drive traffic, and grow your business online with measurable results.">
+    <title>Social Media Marketing Services for Businesses | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
-
-    <!-- ========== Start Stylesheet ========== -->
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
     <link href="../assets/css/themify-icons.css" rel="stylesheet">
@@ -38,9 +39,9 @@
     <link href="../assets/css/helper.css" rel="stylesheet">
     <link href="../assets/css/unit-test.css" rel="stylesheet">
     <link href="../assets/css/style.css" rel="stylesheet">
-    <!-- ========== End Stylesheet ========== -->
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZR348BRLFX"></script>
+    <script src="https://www.google.com/recaptcha/api.js?render=6Lcm0hosAAAAAPFeuKRDfgGF4Ajr9bcCCbD7LR-3"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17674012925"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -48,517 +49,1170 @@
             dataLayer.push(arguments);
         }
         gtag('js', new Date());
-        gtag('config', 'G-ZR348BRLFX');
+        gtag('config', 'AW-17674012925');
     </script>
-
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17674012925"></script>
     <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'AW-17674012925');
+        gtag('config', 'AW-17674012925/L6w9CJf84rIbEP2R0OtB', {
+            'phone_conversion_number': '84509 78544'
+        });
     </script>
+    <style>
+        #showMessage,
+        #showMessage_wdd {
+            display: none;
+            margin-top: 15px;
+            font-weight: bold;
+            transition: opacity 0.5s;
+        }
 
+        .success_msg {
+            color: green;
+        }
+
+        .error_msg {
+            color: red;
+        }
+
+        .services-style-one {
+            height: 100%;
+        }
+
+        .services-style-one i {
+            color: var(--color-primary);
+        }
+
+        .banner-style-three h2 strong::after {
+            display: none;
+        }
+
+        .icon_circle {
+            width: 80px;
+            height: 80px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            cursor: pointer;
+        }
+
+        .icon_circle:hover {
+            transform: scale(1.1);
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+        }
+
+        .icon_circle_block p {
+            font-size: 14px;
+            font-weight: 600;
+            text-transform: uppercase;
+            color: #000;
+        }
+    </style>
+    <style>
+        .form-with-profile {
+            background: #fff;
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+        }
+
+        .form-header-orange {
+            background: var(--color-primary);
+            position: relative;
+            text-align: center;
+        }
+
+        .profile-images-container {
+            position: relative;
+            margin-bottom: 10px;
+            padding-top: 5px;
+        }
+
+        .profile-main {
+            width: 60%;
+            height: auto;
+            display: block;
+            object-fit: cover;
+            margin: auto;
+        }
+
+        .fun-fact {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .fun-fact .counter {
+            justify-content: center;
+            width: 100%;
+        }
+
+        .fun-fact h4 {
+            margin-top: 10px;
+            margin-bottom: 0;
+        }
+    </style>
+
+    <style>
+        .tech-categories .nav-pills {
+            display: flex;
+        }
+
+        .tech-categories .nav-pills .nav-link {
+            background: #f5f5f5;
+            color: var(--color-heading);
+            border-radius: 30px;
+            padding: 10px 20px;
+            font-weight: 500;
+            transition: all .3s;
+            border: none
+        }
+
+        .tech-categories .nav-pills .nav-link:hover {
+            background: #e0e0e0;
+            color: #fff;
+        }
+
+        .tech-categories .nav-pills .nav-link.active {
+            background: var(--color-heading);
+            color: #fff
+        }
+
+        .tech-stack-item {
+            text-align: center;
+            padding: 30px 15px;
+            background: #fff;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
+            transition: all .3s;
+            height: 100%
+        }
+
+        .tech-stack-item:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1)
+        }
+
+        .tech-stack-item h5 {
+            margin-top: 15px;
+            font-size: 16px;
+            font-weight: 600;
+            color: var(--color-heading)
+        }
+
+        @media (max-width:767px) {
+            .tech-categories .nav-pills {
+                flex-direction: column;
+                gap: 10px
+            }
+
+            .tech-categories .nav-pills .nav-link {
+                width: 100%
+            }
+        }
+    </style>
+
+    <style>
+        .why-choose-card {
+            background: #fff;
+            border-radius: 12px;
+            padding: 35px 25px;
+            text-align: center;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
+            height: 100%;
+        }
+
+        .why-choose-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+        }
+
+        .why-choose-card .icon-wrapper {
+            width: 70px;
+            height: 70px;
+            margin: 0 auto 20px;
+            background: var(--color-primary);
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease;
+        }
+
+        .why-choose-card:hover .icon-wrapper {
+            background: var(--color-primary);
+            opacity: 0.9;
+        }
+
+        .why-choose-card .icon-wrapper i {
+            font-size: 32px;
+            color: #fff;
+        }
+
+        .why-choose-card h4 {
+            font-size: 20px;
+            font-weight: 600;
+            margin-bottom: 12px;
+            color: var(--color-heading);
+        }
+
+        .why-choose-card p {
+            color: var(--color-paragraph);
+            line-height: 1.7;
+            margin: 0;
+            font-size: 15px;
+        }
+
+        @media (max-width: 768px) {
+            .why-choose-card {
+                padding: 30px 20px;
+            }
+
+            .why-choose-card .icon-wrapper {
+                width: 60px;
+                height: 60px;
+            }
+
+            .why-choose-card .icon-wrapper i {
+                font-size: 28px;
+            }
+
+            .why-choose-card h4 {
+                font-size: 18px;
+            }
+        }
+    </style>
+    <style>
+        .process-track {
+            padding: 40px 0
+        }
+
+        .process-row {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-wrap: nowrap;
+            gap: 15px
+        }
+
+        .process-hexagon {
+            position: relative;
+            width: 180px;
+            height: 200px;
+            flex-shrink: 0
+        }
+
+        .process-hexagon::before {
+            content: '';
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background: var(--color-primary);
+            clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+            transition: all .3s
+        }
+
+        .process-hexagon:hover::before {
+            background: #000;
+            transform: scale(1.05)
+        }
+
+        .hexagon-content {
+            position: relative;
+            z-index: 1;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 20px 15px;
+            text-align: center
+        }
+
+        .step-number {
+            position: absolute;
+            top: -8px;
+            right: 10px;
+            width: 32px;
+            height: 32px;
+            background: #fff;
+            color: var(--color-primary);
+            border: 2px solid var(--color-primary);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+            font-size: 13px;
+            z-index: 2
+        }
+
+        .process-hexagon:hover .step-number {
+            background: var(--color-primary);
+            color: #fff
+        }
+
+        .hexagon-content i {
+            font-size: 36px;
+            color: #fff;
+            margin-bottom: 12px;
+            transition: all .3s
+        }
+
+        .hexagon-content h5 {
+            font-size: 18px;
+            font-weight: 700;
+            margin-bottom: 8px;
+            color: #fff;
+            text-transform: uppercase;
+            transition: all .3s
+        }
+
+        .hexagon-content p {
+            font-size: 13px;
+            color: #fff;
+            margin: 0;
+            line-height: 1.5;
+            transition: all .3s
+        }
+
+        .process-hexagon:hover .hexagon-content i,
+        .process-hexagon:hover .hexagon-content h5 {
+            color: var(--color-primary)
+        }
+
+        .process-hexagon:hover .hexagon-content p {
+            color: #fff;
+        }
+
+        .process-connector {
+            text-align: center;
+            color: var(--color-primary);
+            font-size: 24px;
+            opacity: .6;
+            flex-shrink: 0;
+            margin: 0 5px
+        }
+
+        @media (max-width:1199px) {
+            .process-hexagon {
+                width: 160px;
+                height: 180px
+            }
+
+            .hexagon-content i {
+                font-size: 32px
+            }
+
+            .hexagon-content h5 {
+                font-size: 16px
+            }
+
+            .hexagon-content p {
+                font-size: 12px
+            }
+        }
+
+        @media (max-width:991px) {
+            .process-track {
+                overflow-x: auto;
+                padding: 30px 0
+            }
+
+            .process-row {
+                min-width: 1100px;
+                justify-content: flex-start
+            }
+
+            .process-hexagon {
+                width: 150px;
+                height: 170px
+            }
+
+            .hexagon-content {
+                padding: 15px 10px
+            }
+
+            .hexagon-content i {
+                font-size: 28px;
+                margin-bottom: 10px
+            }
+
+            .hexagon-content h5 {
+                font-size: 15px
+            }
+
+            .hexagon-content p {
+                font-size: 11px
+            }
+
+            .process-connector {
+                font-size: 20px
+            }
+        }
+
+        @media (max-width:767px) {
+            .process-row {
+                min-width: 1000px
+            }
+
+            .process-hexagon {
+                width: 140px;
+                height: 160px
+            }
+
+            .hexagon-content i {
+                font-size: 24px;
+                margin-bottom: 8px
+            }
+
+            .hexagon-content h5 {
+                font-size: 14px
+            }
+
+            .hexagon-content p {
+                font-size: 10px
+            }
+
+            .process-connector {
+                font-size: 18px
+            }
+        }
+    </style>
+
+    <style>
+        .industry-carousel-wrapper {
+            position: relative;
+        }
+
+        .industry-carousel {
+            overflow: hidden;
+        }
+
+        .industry-card {
+            position: relative;
+            height: 350px;
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
+            transition: all 0.3s ease;
+        }
+
+        .industry-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        }
+
+        .industry-bg {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            opacity: 0.7;
+            filter: grayscale(30%);
+        }
+
+        .industry-overlay {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            padding: 25px;
+            z-index: 2;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .industry-overlay i {
+            font-size: 32px;
+            color: #fff;
+            filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
+        }
+
+        .industry-overlay span {
+            font-size: 20px;
+            font-weight: 600;
+            color: #fff;
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+        }
+
+        .industry-nav {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-top: 30px;
+        }
+
+        .industry-nav-prev,
+        .industry-nav-next {
+            width: 50px;
+            height: 50px;
+            background: #fff;
+            border: 2px solid var(--color-primary);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .industry-nav-prev:hover,
+        .industry-nav-next:hover {
+            background: var(--color-primary);
+            border-color: var(--color-primary);
+            transform: scale(1.1);
+        }
+
+        .industry-nav-prev i,
+        .industry-nav-next i {
+            font-size: 18px;
+            color: #333;
+        }
+
+        .industry-nav-prev:hover i,
+        .industry-nav-next:hover i {
+            color: #fff;
+        }
+
+        @media (max-width: 991px) {
+            .industry-card {
+                height: 300px;
+            }
+
+            .industry-overlay {
+                padding: 20px;
+            }
+
+            .industry-overlay i {
+                font-size: 28px;
+            }
+
+            .industry-overlay span {
+                font-size: 18px;
+            }
+        }
+
+        @media (max-width: 767px) {
+            .industry-card {
+                height: 250px;
+            }
+
+            .industry-overlay {
+                padding: 15px;
+                gap: 10px;
+            }
+
+            .industry-overlay i {
+                font-size: 24px;
+            }
+
+            .industry-overlay span {
+                font-size: 16px;
+            }
+
+            .industry-nav-prev,
+            .industry-nav-next {
+                width: 45px;
+                height: 45px;
+            }
+        }
+    </style>
 </head>
 
 <body>
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4XDB2GZ"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
-    
+   
     <?php include("header.php") ?>
-    <!-- End Header -->
 
-    <!-- Start Banner Area 
+    <!-- Start Banner
     ============================================= -->
-    <div class="banner-style-three-area overflow-hidden" style="background-image: url(../assets/img/shape/banner-5.jpg); padding-bottom: 50px;">
-
-        <!-- Single Item -->
-        <div class="banner-style-three pt-150 pt-md-120 pt-xs-60">
-            <div class="container">
-                <div class="content">
-
-                    <div class="row align-center">
-                        <div class="col-xl-6 col-lg-6 pr-50 pr-md-15 pr-xs-15 mt--80 mt-md-0 mt-xs-0">
-                            <div class="information">
-                                <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
-                                    Expert <br> Social Media <strong>Marketing Services</strong>
-                                </h2>
-                                <p class="wow fadeInUp" data-wow-delay="900ms" data-wow-duration="400ms">
-                                    Elevate your brand's presence and engage with your audience on Instagram, Facebook, LinkedIn, and more with our top-notch <strong>Social Media Marketing Services</strong>. We provide tailored strategies to increase engagement and drive real results.
-                                </p>
-                                <ul class="list-double mt-40">
-                                    <li>Targeted social media campaigns across Instagram, Facebook, LinkedIn, and more</li>
-                                    <li>Customized content to resonate with your audience and align with your brand</li>
-                                    <li>Data-driven strategies that lead to measurable growth and increased engagement</li>
-                                </ul>
-                                <div class="button" style="margin-top: 20px;">
-                                    <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min">Let's Talk</a>
-                                </div>
+    <div class="banner-style-three-area overflow-hidden pt-100 pb-100" style="background-image: url(../assets/img/shape/banner-3.jpg);">
+        <div class="container">
+            <div class="content">
+                <div class="row align-center">
+                    <div class="banner-style-three col-lg-7">
+                        <div class="information">
+                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                                Social Media Marketing <span style="color: var(--color-primary);">Services</span> for Businesses
+                            </h2>
+                            <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
+                                Drive engagement and grow your brand with expert social media marketing. Our social media strategies deliver targeted campaigns, optimized content, and data-driven results to boost online presence and measurable business growth.
+                            </p>
+                            <div class="button mt-4 mb-5">
+                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Start Campaign</a>
                             </div>
                         </div>
-
-                        <div class="col-xl-6 col-lg-6 pl-60 pl-md-15 pl-xs-15">
-                            <div class="thumb">
-                                <img class="wow fadeInDown" src="../assets/img/illustration/2.png" alt="Social Media Marketing Company">
-                                <!--img src="../assets/img/illustration/3.png" alt="Social Media Marketing Strategy"-->
-                                <div class="progress-card">
-                                    <div class="icon">
-                                        <i class="flaticon-startup-5"></i>
-                                    </div>
-                                    <div class="info">
-                                        <p>Increased Engagement</p>
-                                        <h4>+130%</h4>
-                                    </div>
+                    </div>
+                    <div class="col-tact-stye-one col-lg-5">
+                        <div class="contact-form-style-one form-with-profile wow fadeInUp p-0" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <div class="form-header-orange">
+                                <div class="profile-images-container">
+                                    <img src="../assets/img/form-profile-image.png" alt="Expert" class="profile-main" oncontextmenu="return false;" draggable="false" ondragstart="return false;">
                                 </div>
                             </div>
+                            <div class="form-content p-3">
+                                <div class="information">
+                                    <h4 class="wow fadeInUp mb-30 text-center" data-wow-delay="500ms" data-wow-duration="400ms">
+                                        <b>Get a Free Consultation</b>
+                                    </h4>
+                                </div>
+                                <form id="appDevelopmentForm">
+                                    <input type="hidden" name="username_hp">
+                                    <div class="row">
+                                        <div class="col-lg-6">
+                                            <div class="form-group">
+                                                <input type="text" name="full_name" class="form-control" placeholder="Full Name *" required>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="form-group">
+                                                <input type="email" name="email" class="form-control" placeholder="E-mail *" required>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="form-group">
+                                                <input type="text" name="phone" class="form-control" placeholder="Phone Number *" required>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="form-group">
+                                                <select name="budget" class="form-control" required>
+                                                    <option value="">Budget *</option>
+                                                    <option value="Under ₹50,000">Under ₹50,000</option>
+                                                    <option value="₹50,000 - ₹1,00,000">₹50,000 - ₹1,00,000</option>
+                                                    <option value="₹1,00,000 - ₹3,00,000">₹1,00,000 - ₹3,00,000</option>
+                                                    <option value="₹3,00,000 - ₹5,00,000">₹3,00,000 - ₹5,00,000</option>
+                                                    <option value="Above ₹5,00,000">Above ₹5,00,000</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-12">
+                                            <div class="form-group">
+                                                <textarea name="requirement" class="form-control" rows="4" placeholder="Requirement *" required></textarea>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-12">
+                                            <button type="submit" class="btn btn-primary w-100">Submit Now <i class="fas fa-arrow-up" style="margin-left: 8px;rotate: 45deg;"></i></button>
+                                        </div>
+                                    </div>
+                                    <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response-app">
+                                </form>
+                            </div>
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
-        <!-- End Single Item -->
     </div>
     <!-- End Banner -->
-    <div class="brand-style-one bg-gradient pt-3 pb-3">
-        <div class="container-fill">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="brand-carousel">
-                        <!-- Additional required wrapper -->
-                        <div class="swiper-wrapper">
-                            <!-- Single Item -->
-                            <div class="swiper-slide">
-                                <img src="../assets/img/brand/we3scs.png" alt="Image Not Found">
-                            </div>
-                            <div class="swiper-slide">
-                                <img src="../assets/img/brand/caper.png" alt="Image Not Found">
-                            </div>
-                            <!-- End Single Item -->
-                            <!-- Single Item -->
-                            <!-- End Single Item -->
-                            <!-- Single Item -->
-                            <div class="swiper-slide">
-                                <img src="../assets/img/brand/pannest.png" alt="Image Not Found">
-                            </div>
-                            <!-- End Single Item -->
-                            <!-- Single Item -->
-                            <!-- End Single Item -->
 
-                            <!-- Single Item -->
-                            <div class="swiper-slide">
-                                <img src="../assets/img/brand/hilift.png" alt="Image Not Found">
-                            </div>
-                            <!-- End Single Item -->
-
-                            <!-- Single Item -->
-                            <div class="swiper-slide">
-                                <img src="../assets/img/brand/daakiyawala.png" alt="Image Not Found">
-                            </div>
-                            <!-- End Single Item -->
-
-                            <!-- Single Item -->
-                            <div class="swiper-slide">
-                                <img src="../assets/img/brand/cariesco.png" alt="Image Not Found">
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Start Service Range
+    <!-- Start Clients/Partners
     ============================================= -->
-    <!-- <div class="service-range-area default-padding bg-gray">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-6 col-lg-5">
-                    <h4 class="sub-title">What We Offer</h4>
-                    <h2 class="title mb-30">Comprehensive <br> Blog Writing Services</h2>
-                    <p>
-                        Our expert <strong>SEO Blog Writing Company</strong> specializes in delivering high-quality, SEO-optimized <strong>blog post writing</strong> services that align with your brand voice and business goals. We create engaging, informative, and search engine-friendly content designed to enhance your online presence, drive <strong>organic traffic</strong>, and improve your <strong>SERP</strong> rankings.
-                    </p>
-                    <ul class="list-double mt-40">
-                        <li>
-                            <h5>SEO-Friendly Content</h5>
-                            <p>
-                                As a top <strong>SEO Blog Writing Company</strong>, we craft content optimized for search engines, ensuring your blog posts rank higher, attract more organic traffic, and help you reach your target audience.
-                            </p>
-                        </li>
-                        <li>
-                            <h5>Engaging Brand Storytelling</h5>
-                            <p>
-                                Our <strong>blog writing services</strong> create compelling narratives that resonate with your audience, enhancing user engagement and fostering long-term brand recognition.
-                            </p>
-                        </li>
-                        <li>
-                            <h5>Custom Solutions for Every Industry</h5>
-                            <p>
-                                Whether you need blog posts, product descriptions, or service pages, our <strong>SEO content writing services</strong> are tailored to meet the unique demands of your industry, expediting your content marketing efforts.
-                            </p>
-                        </li>
-                    </ul>
-                </div>
-                <div class="col-lg-6 offset-lg-1 col-xl-5 offset-xl-1">
-                    <div class="seo-progress text-center">
-
-                        <div class="circle-progress">
-                            <div class="seo-progressbar">
-                                <div class="circle" data-percent="85">
-                                    <strong>85%</strong>
-                                </div>
-                            </div>
-                            <h4>Enhanced User Engagement</h4>
-                        </div>
-
-                        <div class="seo-progess-items">
-                            <div class="process-item">
-                                <h5>SEO Impact</h5>
-                                <p>Improving your website's search rankings and boosting your <strong>organic traffic</strong> with expertly written and optimized blog posts.</p>
-                            </div>
-                            <div class="process-item">
-                                <h5>Business Growth</h5>
-                                <p>Driving up to 2x conversions with compelling and targeted <strong>SEO content writing services</strong> that help enhance brand recognition.</p>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!-- End Service Range -->
-
-
-    <!-- Start Service Range
-    ============================================= -->
-    <div class="service-range-area default-padding bg-gray">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-6 col-lg-5">
-                    <h4 class="sub-title">What We Offer</h4>
-                    <h2 class="title mb-30">Comprehensive <br> Social Media Marketing Services</h2>
-                    <p>
-                        As a leading <strong>social media marketing company</strong>, we offer tailored social media marketing services designed to engage your audience and grow your brand across platforms like <strong>Instagram</strong>, <strong>Facebook</strong>, <strong>LinkedIn</strong>, and more. Our expert team creates effective strategies that boost your brand’s visibility, foster engagement, and generate measurable results.
-                    </p>
-                    <ul class="list-double mt-40">
-                        <li>
-                            <h5>Targeted Social Media Campaigns</h5>
-                            <p>
-                                We create highly targeted social media campaigns on platforms such as Instagram, Facebook, and LinkedIn, ensuring your content reaches the right audience and maximizes engagement.
-                            </p>
-                        </li>
-                        <li>
-                            <h5>Engagement-Driven Content Creation</h5>
-                            <p>
-                                Our content creators develop engaging and shareable content that resonates with your audience, fostering long-term engagement and enhancing your brand’s relationship with followers.
-                            </p>
-                        </li>
-                        <li>
-                            <h5>Data-Driven Social Media Strategy</h5>
-                            <p>
-                                Using data and analytics, we craft strategies that deliver real results. From increasing followers to boosting interaction rates, our approach is designed to drive real business growth.
-                            </p>
-                        </li>
-                    </ul>
-                </div>
-                <div class="col-lg-6 offset-lg-1 col-xl-5 offset-xl-1">
-                    <div class="seo-progress text-center">
-
-                        <div class="circle-progress">
-                            <div class="seo-progressbar">
-                                <div class="circle" data-percent="90">
-                                    <strong>90%</strong>
-                                </div>
-                            </div>
-                            <h4>Enhanced Social Media Engagement</h4>
-                        </div>
-
-                        <div class="seo-progess-items">
-                            <div class="process-item">
-                                <h5>Brand Visibility</h5>
-                                <p>Boosting your brand’s reach and visibility on social platforms like Instagram, Facebook, and LinkedIn to create a strong online presence.</p>
-                            </div>
-                            <div class="process-item">
-                                <h5>Audience Growth</h5>
-                                <p>Achieving significant follower growth through consistent, engaging content and targeted strategies that convert followers into loyal customers.</p>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="button" style="margin-top: 20px;margin-left:100px">
-            <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min">Let’s Talk</a>
-        </div>
-    </div>
-
-    <!-- Start Feature
-    ============================================= -->
-    <div class="feature-style-one-area default-padding-top bottom-less">
+    <div class="brand-style-one bg-gradient pt-3 pb-3 pt-5 pb-5">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">Why You Need Expert Social Media Marketing Services</h5>
-                        <h2 class="title">Engaging Social Media Strategies That Boost Your Brand and Drive Organic Engagement</h2>
+                        <h5 class="sub-title">Clients. Partners. Growth Stories.</h5>
+                        <h2 class="title text-white">We're Trusted By 300+ Businesses</h2>
                     </div>
                 </div>
             </div>
         </div>
-
-        <div class="container">
-            <div class="row align-center">
-                <!-- Single Item -->
-                <div class="col-lg-4 col-md-6 mb-30">
-                    <div class="feature-style-one">
-                        <div class="info">
-                            <h4>Targeted Social Media Campaigns</h4>
-                            <p>
-                                Our expert <strong>social media marketing services</strong> ensure your campaigns are tailored to reach the right audience on platforms like <strong>Instagram</strong>, <strong>Facebook</strong>, and <strong>LinkedIn</strong>. We utilize data-driven strategies to maximize engagement and drive measurable results.
-                            </p>
+        <div class="container-fill">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="brand-carousel">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <img src="../assets/img/brand/we3scs.png">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="../assets/img/brand/caper.png">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="../assets/img/brand/pannest.png">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="../assets/img/brand/hilift.png">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="../assets/img/brand/daakiyawala.png">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="../assets/img/brand/cariesco.png">
+                            </div>
                         </div>
                     </div>
                 </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-lg-4 col-md-6 mb-30">
-                    <div class="feature-style-one">
-                        <div class="info">
-                            <h4>Brand-Focused Social Media Content</h4>
-                            <p>
-                                Our <strong>social media marketing company</strong> creates content that aligns with your brand's voice, values, and vision. This ensures your posts resonate with your audience, building strong relationships and increasing brand recognition across social media channels.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-lg-4 col-md-6 mb-30">
-                    <div class="feature-style-one">
-                        <div class="info">
-                            <h4>Engaging and Interactive Posts</h4>
-                            <p>
-                                Our <strong>social media marketing services</strong> focus on creating engaging, interactive posts that drive action from your audience, whether it’s commenting, sharing, or visiting your website for more information about your products or services.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-lg-4 col-md-6 mb-30">
-                    <div class="feature-style-one">
-                        <div class="info">
-                            <h4>Custom Social Media Strategy</h4>
-                            <p>
-                                We develop a tailored <strong>social media marketing strategy</strong> that supports your specific business goals. From content creation to audience engagement, our strategies are designed to boost brand visibility and foster lasting relationships with your followers.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-lg-4 col-md-6 mb-30">
-                    <div class="feature-style-one">
-                        <div class="info">
-                            <h4>Analytics-Driven Results</h4>
-                            <p>
-                                We track and analyze the performance of your social media campaigns to ensure continuous improvement. With our detailed insights, we refine your strategy to maximize your brand's impact on platforms like <strong>Instagram</strong> and <strong>Facebook</strong>.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-lg-4 col-md-6 mb-30">
-                    <div class="feature-style-one">
-                        <div class="info">
-                            <h4>Consistent Content Updates</h4>
-                            <p>
-                                Keeping your social media content fresh and up-to-date is essential for long-term success. Our team offers regular updates and optimizations to keep your social media presence relevant, engaging, and aligned with current trends.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-            </div>
-            <div class="button" style="margin-top: 20px;text-align:center">
-                <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min">Let’s Talk</a>
             </div>
         </div>
     </div>
-    <!-- End Feature -->
+    <!-- End Clients/Partners -->
 
-
-    <!-- Start Knowledge Hub 
+    <!-- Start Track Record
     ============================================= -->
-    <div class="knowledge-hub-area overflow-hidden default-padding">
+    <div class="default-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="site-heading text-center">
+                        <h5 class="sub-title">Our Track Record</h5>
+                        <h2 class="title">Creating Measurable Impact, Every Single Time</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
+                    <div class="fun-fact text-center">
+                        <div class="counter" style="color:var(--color-primary)">
+                            <span class="timer" data-to="10" data-speed="2000">10</span><span>+</span>
+                        </div>
+                        <h4>Years of Experience</h4>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
+                    <div class="fun-fact text-center">
+                        <div class="counter" style="color:var(--color-primary)">
+                            <span class="timer" data-to="100" data-speed="2000">100</span><span>+</span>
+                        </div>
+                        <h4>Tech Experts</h4>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
+                    <div class="fun-fact text-center">
+                        <div class="counter" style="color:var(--color-primary)">
+                            <span class="timer" data-to="50" data-speed="2000">50</span><span>+</span>
+                        </div>
+                        <h4>Campaigns Delivered</h4>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
+                    <div class="fun-fact text-center">
+                        <div class="counter" style="color:var(--color-primary)">
+                            <span class="timer" data-to="97" data-speed="2000">97</span><span>%</span>
+                        </div>
+                        <h4>Client Retention</h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Track Record -->
+
+    <!-- Start Why Choose Us
+    ============================================= -->
+    <div class="default-padding bg-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="site-heading text-center">
+                        <h5 class="sub-title">WHY CHOOSE ITD GROWTHLABS</h5>
+                        <h2 class="title">Premier Social Media Marketing Agency in India</h2>
+                        <p class="mt-30">
+                            ITD GrowthLabs is a trusted Social Media Marketing company providing professional Social Media Marketing solutions for businesses worldwide. Our team delivers high-performing social media campaigns that increase engagement, attract targeted audiences, and maximize ROI for measurable results.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row" style="display: flex; flex-wrap: wrap;">
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="why-choose-card">
+                        <div class="icon-wrapper">
+                            <i class="fas fa-bullseye"></i>
+                        </div>
+                        <h4>Targeted Social Campaigns</h4>
+                        <p>Craft social media marketing campaigns with precise audience targeting, platform-specific strategies, and goal-oriented approaches to maximize reach and conversions.</p>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="why-choose-card">
+                        <div class="icon-wrapper">
+                            <i class="fas fa-user-tie"></i>
+                        </div>
+                        <h4>Dedicated Account Manager</h4>
+                        <p>A dedicated social media specialist ensures personalized campaign guidance, timely updates, and optimized performance across all platforms.</p>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="why-choose-card">
+                        <div class="icon-wrapper">
+                            <i class="fas fa-handshake"></i>
+                        </div>
+                        <h4>Clear & Transparent Pricing</h4>
+                        <p>Social Media Marketing services with upfront pricing, detailed project timelines, and clear cost breakdown for predictable ROI.</p>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="why-choose-card">
+                        <div class="icon-wrapper">
+                            <i class="fas fa-paint-brush"></i>
+                        </div>
+                        <h4>Optimized Content & Creatives</h4>
+                        <p>Develop high-performing posts, banners, and ad copy optimized for social media platforms to boost engagement and brand visibility.</p>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="why-choose-card">
+                        <div class="icon-wrapper">
+                            <i class="fas fa-chart-line"></i>
+                        </div>
+                        <h4>Real-Time Performance Monitoring</h4>
+                        <p>Continuous monitoring of social media campaigns with analytics, reporting, and adjustments to maximize audience interaction and conversions.</p>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="why-choose-card">
+                        <div class="icon-wrapper">
+                            <i class="fas fa-expand-arrows-alt"></i>
+                        </div>
+                        <h4>Scalable Growth Strategies</h4>
+                        <p>Social Media Marketing campaigns designed for scalable growth, targeting broader audiences and optimizing for measurable business results.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="default-padding bg-white">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="site-heading text-center">
+                        <h5 class="sub-title">OUR DEVELOPMENT PROCESS</h5>
+                        <h2 class="title">From Concept to Launch</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="process-track">
+                <div class="process-row">
+                    <div class="process-hexagon">
+                        <div class="hexagon-content">
+                            <div class="step-number">01</div><i class="fas fa-search"></i>
+                            <h5>DISCOVER</h5>
+                            <p>Social Media Marketing campaign planning</p>
+                        </div>
+                    </div>
+                    <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
+                    <div class="process-hexagon">
+                        <div class="hexagon-content">
+                            <div class="step-number">02</div><i class="fas fa-pencil-ruler"></i>
+                            <h5>DESIGN</h5>
+                            <p>Creative Social Media Marketing ad design</p>
+                        </div>
+                    </div>
+                    <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
+                    <div class="process-hexagon">
+                        <div class="hexagon-content">
+                            <div class="step-number">03</div><i class="fas fa-cogs"></i>
+                            <h5>DEVELOP</h5>
+                            <p>Expert Social Media Marketing setup</p>
+                        </div>
+                    </div>
+                    <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
+                    <div class="process-hexagon">
+                        <div class="hexagon-content">
+                            <div class="step-number">04</div><i class="fas fa-chart-bar"></i>
+                            <h5>TEST</h5>
+                            <p>Social Media Marketing performance auditing</p>
+                        </div>
+                    </div>
+                    <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
+                    <div class="process-hexagon">
+                        <div class="hexagon-content">
+                            <div class="step-number">05</div><i class="fas fa-rocket"></i>
+                            <h5>LAUNCH</h5>
+                            <p>Smooth Social Media Marketing campaign launch</p>
+                        </div>
+                    </div>
+                    <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
+                    <div class="process-hexagon">
+                        <div class="hexagon-content">
+                            <div class="step-number">06</div><i class="fas fa-headset"></i>
+                            <h5>SUPPORT</h5>
+                            <p>Ongoing Social Media Marketing optimization support</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="default-padding box-layout overflow-hidden bottom-less services-style-one-area bg-gray bg-cover" style="background-image: url(../assets/img/shape/banner-2.jpg);">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="site-heading text-center">
+                        <h5 class="sub-title">OUR SOCIAL MEDIA MARKETING SERVICES</h5>
+                        <h2 class="title">Behind Every Successful Social Media Marketing Campaign</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row" style="display: flex; flex-wrap: wrap;">
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-chart-line fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Strategic Social Media Marketing for businesses, focusing on platform targeting, content planning, and engagement strategies to improve brand reach and ROI.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Social Media Strategy</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-cogs fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Scalable Social Media Marketing services with account configuration, content scheduling, audience segmentation, and secure platform setup for maximum efficiency.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Campaign Setup</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-mobile-alt fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Professional Social Media Marketing ensuring posts and ads display correctly on mobile devices and across social platforms for higher engagement.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Mobile & Platform Ads</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-search-dollar fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Flexible Social Media Marketing with optimized posts, ad creatives, and A/B testing to boost clicks, shares, engagement, and conversions.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Content & Ad Optimization</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-paint-brush fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Conversion-focused Social Media Marketing designed around user behavior to improve content relevance, engagement, and overall campaign performance.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Creative Enhancements</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-retweet fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Advanced Social Media Marketing strategies including remarketing, dynamic content, and custom audience targeting to increase return on ad spend.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Remarketing & Retargeting</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-chart-bar fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>High-performing Social Media Marketing with regular monitoring, analytics, and reporting to enhance campaign results and ROI.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Performance Tracking & Analytics</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-sync-alt fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Modern Social Media Marketing upgrades for existing campaigns to improve content structure, targeting, and overall performance efficiency.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Campaign Audit & Redesign</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-tools fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Reliable Social Media Marketing support with continuous updates, content optimization, reporting, and strategy improvements to maintain top campaign performance.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Ongoing Campaign Support</a></h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Start Technology Stack
+    ============================================= -->
+    <!-- Start Technology Stack
+    ============================================= -->
+    <div class="default-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="site-heading text-center">
+                        <h5 class="sub-title">SMART TECH CHOICES</h5>
+                        <h2 class="title">Behind Every Successful Social Media Marketing Campaign</h2>
+                        <p class="mt-30">We use proven tools and modern strategies to deliver secure and scalable Social Media Marketing solutions — built to support high-performing campaigns and measurable results for businesses.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-6 col-md-4 col-lg-2">
+                    <div class="tech-stack-item">
+                        <i class="fab fa-facebook-f fa-3x mb-3" style="color: #1877f2;"></i>
+                        <h5>Meta/Facebook</h5>
+                    </div>
+                </div>
+                <div class="col-6 col-md-4 col-lg-2">
+                    <div class="tech-stack-item">
+                        <i class="fab fa-instagram fa-3x mb-3" style="color: #e4405f;"></i>
+                        <h5>Instagram</h5>
+                    </div>
+                </div>
+                <div class="col-6 col-md-4 col-lg-2">
+                    <div class="tech-stack-item">
+                        <i class="fab fa-linkedin-in fa-3x mb-3" style="color: #0a66c2;"></i>
+                        <h5>LinkedIn</h5>
+                    </div>
+                </div>
+                <div class="col-6 col-md-4 col-lg-2">
+                    <div class="tech-stack-item">
+                        <i class="fab fa-twitter fa-3x mb-3" style="color: #1da1f2;"></i>
+                        <h5>Twitter/X</h5>
+                    </div>
+                </div>
+                <div class="col-6 col-md-4 col-lg-2">
+                    <div class="tech-stack-item">
+                        <i class="fas fa-chart-line fa-3x mb-3" style="color: #f4b400;"></i>
+                        <h5>Google Analytics</h5>
+                    </div>
+                </div>
+                <div class="col-6 col-md-4 col-lg-2">
+                    <div class="tech-stack-item">
+                        <i class="fas fa-calendar-alt fa-3x mb-3" style="color: #4285f4;"></i>
+                        <h5>Buffer</h5>
+                    </div>
+                </div>
+                <div class="col-6 col-md-4 col-lg-2">
+                    <div class="tech-stack-item">
+                        <i class="fas fa-paint-brush fa-3x mb-3" style="color: #ea4335;"></i>
+                        <h5>Canva</h5>
+                    </div>
+                </div>
+                <div class="col-6 col-md-4 col-lg-2">
+                    <div class="tech-stack-item">
+                        <i class="fas fa-sliders-h fa-3x mb-3" style="color: #34a853;"></i>
+                        <h5>A/B Testing</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Start Call to Action
+    ============================================= -->
+    <div class="default-padding bg-gradient bg-cover shadow dark" style="background-image: url(../assets/img/shape/banner-2.jpg);">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="site-heading text-center text-light mt-0">
+                        <h2 class="title text-white mb-30">Ready to Launch Your Social Media Campaign?</h2>
+                        <p class="text-white">Work with a trusted Social Media Marketing agency for engagement, brand visibility, and measurable results.</p>
+                        <div class="button mt-40">
+                            <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Let's Talk</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Call to Action -->
+    <div class="knowledge-hub-area overflow-hidden default-padding pb-0">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="site-heading text-center">
+                        <h5 class="sub-title">FAQ's</h5>
+                        <h2 class="title">Frequently Asked Questions</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="container">
             <div class="row">
                 <div class="col-12">
                     <div class="faq-style-one">
                         <div class="accordion" id="faqAccordion">
-                            <!-- FAQ Item 1 -->
+                            <!-- FAQ 1 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        What is social media marketing, and why is it important for my business?
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                        How long does it take to see results from social media marketing?
                                     </button>
                                 </h2>
-                                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
+                                <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p>
-                                            Social media marketing involves creating and managing content on platforms like <strong>Instagram</strong>, <strong>Facebook</strong>, and <strong>LinkedIn</strong> to increase engagement, brand awareness, and traffic. It’s essential for building a loyal online community and driving organic growth through targeted strategies. Our <strong>Social Media Marketing Services</strong> help elevate your brand's presence on social media.
-                                        </p>
+                                        Most social media campaigns start showing measurable engagement within 2-4 weeks. Full optimization and ROI improvements typically take 2-3 months as we refine content, targeting, and strategies based on performance data.
                                     </div>
                                 </div>
                             </div>
 
-                            <!-- FAQ Item 2 -->
+                            <!-- FAQ 2 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        How can social media marketing improve my website’s visibility?
+                                        What's the average cost of social media marketing services?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p>
-                                            Through social media marketing, we create targeted campaigns on platforms such as <strong>Instagram</strong>, <strong>Facebook</strong>, and <strong>LinkedIn</strong> that drive traffic to your website, increase brand recognition, and improve your SEO. Our <strong>social media marketing company</strong> uses data-driven strategies to boost visibility and engage with potential customers effectively.
-                                        </p>
+                                        Social media marketing costs vary based on platforms, campaign scope, and content needs. We offer clear and transparent pricing with detailed project timelines and cost breakdown before starting.
                                     </div>
                                 </div>
                             </div>
 
-                            <!-- FAQ Item 3 -->
+                            <!-- FAQ 3 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        How do social media campaigns help build brand engagement?
+                                        Which social media platforms do you manage?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p>
-                                            Social media campaigns create direct engagement with your audience through interactive posts, polls, and content sharing. By promoting your brand across platforms like <strong>Facebook</strong>, <strong>Instagram</strong>, and <strong>LinkedIn</strong>, we help increase your brand's visibility and foster a loyal community. Our <strong>Social Media Marketing Services</strong> focus on boosting engagement and building relationships with your followers.
-                                        </p>
+                                        We manage Facebook, Instagram, LinkedIn, Twitter/X, and other major platforms. Our team creates platform-specific strategies and optimized content to maximize engagement and reach for your target audience.
                                     </div>
                                 </div>
                             </div>
 
-                            <!-- FAQ Item 4 -->
+                            <!-- FAQ 4 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        What are the benefits of working with a social media marketing company?
+                                        Do you offer remarketing and audience targeting?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p>
-                                            Working with a <strong>social media marketing company</strong> allows you to leverage expert strategies for consistent growth, better targeting, and high-quality content creation. We help manage your social media presence on platforms like <strong>Instagram</strong>, <strong>Facebook</strong>, and <strong>LinkedIn</strong>, ensuring your brand stays relevant, engaging, and competitive in your industry.
-                                        </p>
+                                        Yes. We implement remarketing, dynamic content, and custom audience targeting across social platforms to re-engage website visitors and target high-intent users for better return on ad spend.
                                     </div>
                                 </div>
                             </div>
 
-                            <!-- FAQ Item 5 -->
+                            <!-- FAQ 5 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        How do social media strategies impact my business growth?
+                                        Do you provide ongoing campaign support and optimization?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p>
-                                            Well-crafted social media strategies align your business goals with audience needs, ensuring consistent growth and higher ROI. By focusing on platforms like <strong>Instagram</strong>, <strong>Facebook</strong>, and <strong>LinkedIn</strong>, we help you connect with potential customers, driving organic traffic and increasing brand loyalty.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ Item 6 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingSix">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                                        What makes a social media post effective for marketing?
-                                    </button>
-                                </h2>
-                                <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            An effective social media post resonates with your audience, uses high-quality visuals, and includes a clear call to action (CTA). It’s optimized for engagement and can drive traffic to your website or promote your services. Our <strong>social media marketing company</strong> helps craft posts that align with your brand voice and generate results on platforms like <strong>Instagram</strong>, <strong>Facebook</strong>, and <strong>LinkedIn</strong>.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ Item 7 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingSeven">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-                                        Can social media marketing drive sales for my business?
-                                    </button>
-                                </h2>
-                                <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            Yes! Through targeted campaigns on platforms like <strong>Instagram</strong>, <strong>Facebook</strong>, and <strong>LinkedIn</strong>, social media marketing can increase brand awareness, direct traffic to your website, and drive conversions. Our <strong>Social Media Marketing Services</strong> are designed to boost engagement and generate sales through compelling posts and ads.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ Item 8 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingEight">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
-                                        How often should I post on social media for effective marketing?
-                                    </button>
-                                </h2>
-                                <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            Consistency is key. We recommend posting regularly, at least several times a week, to maintain engagement and keep your brand top of mind. Whether it’s on <strong>Instagram</strong>, <strong>Facebook</strong>, or <strong>LinkedIn</strong>, our <strong>social media marketing services</strong> help plan a content calendar that maximizes your presence across platforms.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ Item 9 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingEight">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
-                                        How is the success of social media marketing measured? </button>
-                                </h2>
-                                <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            We track performance using metrics like engagement rate, reach, impressions, CTR, and conversions. Our analytics-driven reports help optimize your social media ROI. </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ Item 10 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingEight">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
-                                        How do you maintain brand consistency across platforms? </button>
-                                </h2>
-                                <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            We create unified brand messaging, tone, and visuals tailored for each platform—ensuring your brand feels consistent whether it’s on Instagram, Facebook, or LinkedIn. </p>
+                                        Yes, we offer continuous Social Media Marketing support with content optimization, performance monitoring, analytics reporting, and strategy improvements to maintain top campaign performance and measurable results.
                                     </div>
                                 </div>
                             </div>
@@ -568,203 +1222,17 @@
             </div>
         </div>
     </div>
-    <!-- End Knowledge Hub -->
+    <!-- End FAQ -->
 
-    <!-- Start Why You Need Web Content Writing Services
-    ============================================= -->
-    <div class="about-style-three-area default-padding overflow-hidden">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 about-style-three">
-                    <div class="about-three-thumb">
-                        <img src="../assets/img/homepage5.png" alt="Image Not Found">
-
-                        <div class="experience">
-                            <h2><strong>10+</strong> Years of Creating Impactful Content</h2>
-                        </div>
-                        <div class="animated-shape">
-                            <img src="../assets/img/shape/38.png" alt="Shape">
-                        </div>
-                    </div>
-                    <br>
-                    <div class="button" style="margin-top: 20px;text-align:center">
-                        <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min">Let’s Talk</a>
-                    </div>
-                </div>
-                <div class="col-lg-5 offset-lg-1 about-style-three">
-                    <div class="about-three-info">
-                        <h4 class="sub-title">Why You Need Social Media Marketing Services</h4>
-                        <h2 class="title">Boosting Engagement and Driving Organic Traffic with SEO Blog Writing</h2>
-                        <ul class="list-grid-four">
-                            <li><strong>SEO-Optimized Blog Content for Higher SERP Rankings</strong></li>
-                            <li><strong>Tailored Blog Writing to Your Brand Voice</strong></li>
-                            <li><strong>SEO Blog Writing to Increase Organic Traffic</strong></li>
-                            <li><strong>Industry-Specific Content for Targeted Audience Engagement</strong></li>
-                            <li><strong>Content Marketing Services for Long-Term Results</strong></li>
-                            <li><strong>Measurable Results through SEO Blog Writing and Content Marketing</strong></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Why You Need Web Content Writing Services -->
-
-
-    <!-- Start Process
-    ============================================= -->
-    <div class="process-style-one-area text-center default-padding">
-
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center">
-                        <h5 class="sub-title">Our Approach to Blog Writing Services</h5>
-                        <h2 class="title">Strategic Process for SEO Blog Writing Success</h2>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="container">
-            <div class="row">
-                <!-- Single Item -->
-                <div class="col-xl-3 col-lg-6 process-style-one">
-                    <div class="item">
-                        <div class="icon">
-                            <i class="flaticon-cyber-security"></i>
-                        </div>
-                        <div class="point">
-                            <span>01</span>
-                        </div>
-                        <h4>Goal Alignment</h4>
-
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-xl-3 col-lg-6 process-style-one">
-                    <div class="item">
-                        <div class="icon">
-                            <i class="flaticon-paper"></i>
-                        </div>
-                        <div class="content">
-                            <div class="point">
-                                <span>02</span>
-                            </div>
-                            <h4>Research and Strategy</h4>
-
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-xl-3 col-lg-6 process-style-one">
-                    <div class="item">
-                        <div class="icon">
-                            <i class="flaticon-start-up"></i>
-                        </div>
-                        <div class="point">
-                            <span>03</span>
-                        </div>
-                        <h4>Content Creation</h4>
-
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-xl-3 col-lg-6 process-style-one">
-                    <div class="item">
-                        <div class="icon">
-                            <i class="flaticon-support-1"></i>
-                        </div>
-                        <div class="point">
-                            <span>04</span>
-                        </div>
-                        <h4>Review and Optimization</h4>
-
-                    </div>
-                </div>
-                <!-- End Single Item -->
-            </div>
-        </div>
-    </div>
-    <!-- End Process -->
-    <!-- Calendly inline widget begin -->
-
+    <!-- Calendly Widget -->
     <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
 
-    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-
-
-    <!-- Calendly inline widget end -->
-
-    <!-- Start Contact Us 
-    ============================================= -->
-    <div class="contact-area overflow-hidden default-padding" style="background-image: url(assets/img/shape/map.png);">
-        <div class="shape-right-bottom">
-            <img src="../assets/img/shape/18.png" alt="Shape">
-        </div>
-        <div class="container">
-            <div class="row align-center">
-                <div class="col-tact-stye-one col-lg-5">
-                    <div class="contact-style-one-info">
-                        <div class="mb-40">
-                            <h2>Contact Information</h2>
-
-                        </div>
-                        <ul class="contact-address">
-                            <li class="wow fadeInUp">
-                                <div class="content">
-                                    <h4 class="title">Location</h4>
-                                    <p>
-                                        Gundecha Onclave, Ansa Industrial Estate, Chandivali, Powai, Mumbai, Maharashtra 400072
-                                    </p>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp" data-wow-delay="300ms">
-                                <div class="info">
-                                    <h4 class="title">Official Email</h4>
-                                    <a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp" data-wow-delay="500ms">
-                                <div class="info">
-                                    <h4 class="title">Company Website</h4>
-                                    <a href="https://www.itdgrowthlabs.com" target="_blank">www.itdgrowthlabs.com</a>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp" data-wow-delay="700ms">
-                                <div class="info">
-                                    <h4 class="title">Company Name</h4>
-                                    <p>ITD GrowthLabs</p>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-tact-stye-one col-lg-6 offset-lg-1">
-                    <div class="contact-form-style-one">
-                        <h4 class="sub-title">Have Questions?</h4>
-                        <h2 class="title">Send us a Message</h2>
-                        <?php include("../common-form.php") ?>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Contact -->
-
-    <!-- Start Footer 
+    <!-- Start Footer
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
         <div class="container">
             <div class="f-items default-padding-bottom pt-70 pt-xs-0">
                 <div class="row">
-                    <!-- Content Services -->
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">Core Tech Services</h4>
@@ -799,7 +1267,6 @@
                             </ul>
                         </div>
                     </div>
-
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">SEO &amp; Content Writing</h4>
@@ -834,7 +1301,6 @@
                             </ul>
                         </div>
                     </div>
-
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">Content Services</h4>
@@ -859,7 +1325,6 @@
                             </ul>
                         </div>
                     </div>
-
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">Custom Solutions</h4>
@@ -901,9 +1366,6 @@
                             </ul>
                         </div>
                     </div>
-
-
-                    <!-- Video Services -->
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">Video Services</h4>
@@ -916,13 +1378,9 @@
                                 <li><a href="../services/Video-Editing.php">Video Editing</a></li>
                                 <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
                                 <li><a href="../services/Onboarding-Videos.php">Onboarding Videos</a></li>
-
                             </ul>
                         </div>
                     </div>
-
-
-                    <!-- Industries We Serve & WhatsApp Marketing -->
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                         <h4 class="widget-title">WhatsApp Marketing</h4>
@@ -945,20 +1403,20 @@
                         </ul>
                     </div>
                     </div>
-                    <!-- Data Services -->
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
-                            <h4 class="widget-title">Data Services</h4>
-                            <ul>
-                                <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
-                                <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
-                                <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
-                                <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
-                                <li><a href="../data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
+                        <h4 class="widget-title">Data Services</h4>
+                        <ul>
+                            <li><a href="data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
+                            <li><a href="data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
+                            <li><a href="data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
+                            <li><a href="data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
+                            <li><a href="data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
+                        </ul>
+                    </div>
 
-                            </ul>
-                        </div>
-<div class="f-item link mt-5">
+
+                    <div class="f-item link mt-5">
                         <h4 class="widget-title">Africa Digital Services</h4>
                         <ul>
                             <li><a href="africa/website-design-development.php">Website Design & Development</a></li>
@@ -968,7 +1426,6 @@
                         </ul>
                     </div>
                     </div>
-                    <!-- Data Services -->
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">Data Annotation Services</h4>
@@ -989,16 +1446,11 @@
                         </ul>
                     </div>
                     </div>
-                    <!-- Data Services -->
-
-
-
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">Resources</h4>
                             <ul>
                                 <li><a href="../resources/all-blogs.php">Blogs</a></li>
-
                             </ul>
                         </div>
                         <br>
@@ -1009,28 +1461,12 @@
                             <p><i class="fa fa-globe"> </i> <a href="https://itdgrowthlabs.com/" style="color:#dedede"> Website: www.itdgrowthlabs.com </a></p>
                             <ul>
                                 <li>Gundecha Onclave, Mumbai, 400072</li>
-                                <!-- <li><a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a></li> -->
                             </ul>
                         </div>
                     </div>
-                    <!-- Contact Information -->
-                    <!-- <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                       <div class="f-item contact">
-                        <h4 class="widget-title">Contact Us</h4>
-                        <p><i class="fas fa-phone"></i> <a href="tel:+91 8450978544" style="color:#dedede">Contact No:+91 8450978544</a></p>
-                        <p><i class="fa fa-envelope"></i> <a href="mailto:info@itdgrowthlabs.com" style="color:#dedede"> Email: info@itdgrowthlabs.com </a></p>
-                        <p><i class="fa fa-globe"> </i> <a href="https://itdgrowthlabs.com/" style="color:#dedede"> Website: www.itdgrowthlabs.com </a></p>
-                        <ul>
-                            <li>Gundecha Onclave, Mumbai, 400072</li>
-                            <li><a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a></li> 
-                    </ul>
-                </div> -->
                 </div>
             </div>
         </div>
-        </div>
-
-        <!-- Footer Bottom -->
         <div class="footer-bottom bg-dark text-light text-center">
             <div class="container">
                 <div class="row">
@@ -1040,11 +1476,7 @@
                 </div>
             </div>
         </div>
-        <!-- End Footer Bottom -->
     </footer>
-
-    <!-- jQuery Frameworks
-    ============================================= -->
     <script src="../assets/js/jquery-3.6.0.min.js"></script>
     <script src="../assets/js/bootstrap.bundle.min.js"></script>
     <script src="../assets/js/jquery.appear.js"></script>
@@ -1057,23 +1489,15 @@
     <script src="../assets/js/circle-progress.js"></script>
     <script src="../assets/js/isotope.pkgd.min.js"></script>
     <script src="../assets/js/imagesloaded.pkgd.min.js"></script>
-    <script src="../assets/js/jquery.nice-select.min.js"></script>
+    <!-- <script src="../assets/js/jquery.nice-select.min.js"></script> -->
     <script src="../assets/js/count-to.js"></script>
     <script src="../assets/js/jquery.scrolla.min.js"></script>
     <script src="../assets/js/YTPlayer.min.js"></script>
     <script src="../assets/js/TweenMax.min.js"></script>
     <script src="../assets/js/validnavs.js"></script>
     <script src="../assets/js/main.js"></script>
-    <script src="https://www.google.com/recaptcha/api.js?render=6Lcm0hosAAAAAPFeuKRDfgGF4Ajr9bcCCbD7LR-3"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
-    <script src="../assets/js/custom.js"></script>
-    <!-- Calendly badge widget begin -->
-
     <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-
     <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
@@ -1084,8 +1508,50 @@
             });
         }
     </script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            toastr.options = {
+                positionClass: "toast-top-right",
+                closeButton: true,
+                progressBar: true,
+            };
+            const form = document.getElementById("appDevelopmentForm");
+            form.addEventListener("submit", function(e) {
+                e.preventDefault();
+                grecaptcha.ready(function() {
+                    grecaptcha.execute('6Lcm0hosAAAAAPFeuKRDfgGF4Ajr9bcCCbD7LR-3', {
+                        action: 'app_development_form'
+                    }).then(function(token) {
+                        document.getElementById('g-recaptcha-response-app').value = token;
 
-    <!-- Calendly badge widget end -->
+                        const formData = new FormData(form);
+                        fetch("../appDevelopmentFormMail.php", {
+                                method: "POST",
+                                body: formData,
+                            })
+                            .then((res) => res.json())
+                            .then((data) => {
+                                if (data.status === "success") {
+                                    toastr.success("Your enquiry has been sent successfully!");
+                                    form.reset();
+                                    setTimeout(() => {
+                                        window.location.href = "../appDevelopmentForm_thankyou.php";
+                                    }, 1500);
+                                } else {
+                                    toastr.error(data.message || "Something went wrong!");
+                                }
+                            })
+                            .catch((err) => {
+                                toastr.error("Network error!");
+                            });
+                    });
+                });
+            });
+        });
+    </script>
+
 </body>
 
 </html>

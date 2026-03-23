@@ -3,30 +3,30 @@
 
 <head>
     <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-M4XDB2GZ');</script>
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-M4XDB2GZ');
+    </script>
     <!-- End Google Tag Manager -->
-     
-    <!-- ========== Meta Tags ========== -->
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Get expert technical writing services for manuals, SOPs, guides, and API docs & more. Simplify complex content with clear, user-friendly documentation.">
-    <meta name="keywords" content="Content Marketing for Technology, SEO Blog Writing for Technology, Digital Marketing for Tech Companies, Technical Writing for Technology, Tech Article Writing, SEO Content for Tech, Blog Writing Services for Technology, Technical Content Writing for Technology Companies.">
-    <title>Technical Content Writing Services Company
-    </title>
-
-
-
-
-
-    <!-- ========== Favicon Icon ========== -->
+    <meta name="description" content="Enhance your brand with expert Technical Content Writing. ITD GrowthLabs delivers precise, informative, and SEO-optimized technical content for websites, blogs, manuals, and product documentation to engage readers and boost online visibility.">
+    <title>Technical Content Writing Services for Businesses | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
-
-    <!-- ========== Start Stylesheet ========== -->
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
     <link href="../assets/css/themify-icons.css" rel="stylesheet">
@@ -39,15 +39,9 @@
     <link href="../assets/css/helper.css" rel="stylesheet">
     <link href="../assets/css/unit-test.css" rel="stylesheet">
     <link href="../assets/css/style.css" rel="stylesheet">
-    <link href="style.css" rel="stylesheet">
+    <script src="https://www.google.com/recaptcha/api.js?render=6Lcm0hosAAAAAPFeuKRDfgGF4Ajr9bcCCbD7LR-3"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <!-- ========== End Stylesheet ========== -->
-
-    <!--[if lte IE 9]>
-        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-    <![endif]-->
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZR348BRLFX"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17674012925"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -55,506 +49,1170 @@
             dataLayer.push(arguments);
         }
         gtag('js', new Date());
-
-        gtag('config', 'G-ZR348BRLFX');
+        gtag('config', 'AW-17674012925');
     </script>
-
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17674012925"></script>
     <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'AW-17674012925');
+        gtag('config', 'AW-17674012925/L6w9CJf84rIbEP2R0OtB', {
+            'phone_conversion_number': '84509 78544'
+        });
     </script>
+    <style>
+        #showMessage,
+        #showMessage_wdd {
+            display: none;
+            margin-top: 15px;
+            font-weight: bold;
+            transition: opacity 0.5s;
+        }
 
+        .success_msg {
+            color: green;
+        }
+
+        .error_msg {
+            color: red;
+        }
+
+        .services-style-one {
+            height: 100%;
+        }
+
+        .services-style-one i {
+            color: var(--color-primary);
+        }
+
+        .banner-style-three h2 strong::after {
+            display: none;
+        }
+
+        .icon_circle {
+            width: 80px;
+            height: 80px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            cursor: pointer;
+        }
+
+        .icon_circle:hover {
+            transform: scale(1.1);
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+        }
+
+        .icon_circle_block p {
+            font-size: 14px;
+            font-weight: 600;
+            text-transform: uppercase;
+            color: #000;
+        }
+    </style>
+    <style>
+        .form-with-profile {
+            background: #fff;
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+        }
+
+        .form-header-orange {
+            background: var(--color-primary);
+            position: relative;
+            text-align: center;
+        }
+
+        .profile-images-container {
+            position: relative;
+            margin-bottom: 10px;
+            padding-top: 5px;
+        }
+
+        .profile-main {
+            width: 60%;
+            height: auto;
+            display: block;
+            object-fit: cover;
+            margin: auto;
+        }
+
+        .fun-fact {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .fun-fact .counter {
+            justify-content: center;
+            width: 100%;
+        }
+
+        .fun-fact h4 {
+            margin-top: 10px;
+            margin-bottom: 0;
+        }
+    </style>
+
+    <style>
+        .tech-categories .nav-pills {
+            display: flex;
+        }
+
+        .tech-categories .nav-pills .nav-link {
+            background: #f5f5f5;
+            color: var(--color-heading);
+            border-radius: 30px;
+            padding: 10px 20px;
+            font-weight: 500;
+            transition: all .3s;
+            border: none
+        }
+
+        .tech-categories .nav-pills .nav-link:hover {
+            background: #e0e0e0;
+            color: #fff;
+        }
+
+        .tech-categories .nav-pills .nav-link.active {
+            background: var(--color-heading);
+            color: #fff
+        }
+
+        .tech-stack-item {
+            text-align: center;
+            padding: 30px 15px;
+            background: #fff;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
+            transition: all .3s;
+            height: 100%
+        }
+
+        .tech-stack-item:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1)
+        }
+
+        .tech-stack-item h5 {
+            margin-top: 15px;
+            font-size: 16px;
+            font-weight: 600;
+            color: var(--color-heading)
+        }
+
+        @media (max-width:767px) {
+            .tech-categories .nav-pills {
+                flex-direction: column;
+                gap: 10px
+            }
+
+            .tech-categories .nav-pills .nav-link {
+                width: 100%
+            }
+        }
+    </style>
+
+    <style>
+        .why-choose-card {
+            background: #fff;
+            border-radius: 12px;
+            padding: 35px 25px;
+            text-align: center;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
+            height: 100%;
+        }
+
+        .why-choose-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+        }
+
+        .why-choose-card .icon-wrapper {
+            width: 70px;
+            height: 70px;
+            margin: 0 auto 20px;
+            background: var(--color-primary);
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease;
+        }
+
+        .why-choose-card:hover .icon-wrapper {
+            background: var(--color-primary);
+            opacity: 0.9;
+        }
+
+        .why-choose-card .icon-wrapper i {
+            font-size: 32px;
+            color: #fff;
+        }
+
+        .why-choose-card h4 {
+            font-size: 20px;
+            font-weight: 600;
+            margin-bottom: 12px;
+            color: var(--color-heading);
+        }
+
+        .why-choose-card p {
+            color: var(--color-paragraph);
+            line-height: 1.7;
+            margin: 0;
+            font-size: 15px;
+        }
+
+        @media (max-width: 768px) {
+            .why-choose-card {
+                padding: 30px 20px;
+            }
+
+            .why-choose-card .icon-wrapper {
+                width: 60px;
+                height: 60px;
+            }
+
+            .why-choose-card .icon-wrapper i {
+                font-size: 28px;
+            }
+
+            .why-choose-card h4 {
+                font-size: 18px;
+            }
+        }
+    </style>
+    <style>
+        .process-track {
+            padding: 40px 0
+        }
+
+        .process-row {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-wrap: nowrap;
+            gap: 15px
+        }
+
+        .process-hexagon {
+            position: relative;
+            width: 180px;
+            height: 200px;
+            flex-shrink: 0
+        }
+
+        .process-hexagon::before {
+            content: '';
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background: var(--color-primary);
+            clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+            transition: all .3s
+        }
+
+        .process-hexagon:hover::before {
+            background: #000;
+            transform: scale(1.05)
+        }
+
+        .hexagon-content {
+            position: relative;
+            z-index: 1;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 20px 15px;
+            text-align: center
+        }
+
+        .step-number {
+            position: absolute;
+            top: -8px;
+            right: 10px;
+            width: 32px;
+            height: 32px;
+            background: #fff;
+            color: var(--color-primary);
+            border: 2px solid var(--color-primary);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+            font-size: 13px;
+            z-index: 2
+        }
+
+        .process-hexagon:hover .step-number {
+            background: var(--color-primary);
+            color: #fff
+        }
+
+        .hexagon-content i {
+            font-size: 36px;
+            color: #fff;
+            margin-bottom: 12px;
+            transition: all .3s
+        }
+
+        .hexagon-content h5 {
+            font-size: 18px;
+            font-weight: 700;
+            margin-bottom: 8px;
+            color: #fff;
+            text-transform: uppercase;
+            transition: all .3s
+        }
+
+        .hexagon-content p {
+            font-size: 13px;
+            color: #fff;
+            margin: 0;
+            line-height: 1.5;
+            transition: all .3s
+        }
+
+        .process-hexagon:hover .hexagon-content i,
+        .process-hexagon:hover .hexagon-content h5 {
+            color: var(--color-primary)
+        }
+
+        .process-hexagon:hover .hexagon-content p {
+            color: #fff;
+        }
+
+        .process-connector {
+            text-align: center;
+            color: var(--color-primary);
+            font-size: 24px;
+            opacity: .6;
+            flex-shrink: 0;
+            margin: 0 5px
+        }
+
+        @media (max-width:1199px) {
+            .process-hexagon {
+                width: 160px;
+                height: 180px
+            }
+
+            .hexagon-content i {
+                font-size: 32px
+            }
+
+            .hexagon-content h5 {
+                font-size: 16px
+            }
+
+            .hexagon-content p {
+                font-size: 12px
+            }
+        }
+
+        @media (max-width:991px) {
+            .process-track {
+                overflow-x: auto;
+                padding: 30px 0
+            }
+
+            .process-row {
+                min-width: 1100px;
+                justify-content: flex-start
+            }
+
+            .process-hexagon {
+                width: 150px;
+                height: 170px
+            }
+
+            .hexagon-content {
+                padding: 15px 10px
+            }
+
+            .hexagon-content i {
+                font-size: 28px;
+                margin-bottom: 10px
+            }
+
+            .hexagon-content h5 {
+                font-size: 15px
+            }
+
+            .hexagon-content p {
+                font-size: 11px
+            }
+
+            .process-connector {
+                font-size: 20px
+            }
+        }
+
+        @media (max-width:767px) {
+            .process-row {
+                min-width: 1000px
+            }
+
+            .process-hexagon {
+                width: 140px;
+                height: 160px
+            }
+
+            .hexagon-content i {
+                font-size: 24px;
+                margin-bottom: 8px
+            }
+
+            .hexagon-content h5 {
+                font-size: 14px
+            }
+
+            .hexagon-content p {
+                font-size: 10px
+            }
+
+            .process-connector {
+                font-size: 18px
+            }
+        }
+    </style>
+
+    <style>
+        .industry-carousel-wrapper {
+            position: relative;
+        }
+
+        .industry-carousel {
+            overflow: hidden;
+        }
+
+        .industry-card {
+            position: relative;
+            height: 350px;
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
+            transition: all 0.3s ease;
+        }
+
+        .industry-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        }
+
+        .industry-bg {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            opacity: 0.7;
+            filter: grayscale(30%);
+        }
+
+        .industry-overlay {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            padding: 25px;
+            z-index: 2;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .industry-overlay i {
+            font-size: 32px;
+            color: #fff;
+            filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
+        }
+
+        .industry-overlay span {
+            font-size: 20px;
+            font-weight: 600;
+            color: #fff;
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+        }
+
+        .industry-nav {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-top: 30px;
+        }
+
+        .industry-nav-prev,
+        .industry-nav-next {
+            width: 50px;
+            height: 50px;
+            background: #fff;
+            border: 2px solid var(--color-primary);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .industry-nav-prev:hover,
+        .industry-nav-next:hover {
+            background: var(--color-primary);
+            border-color: var(--color-primary);
+            transform: scale(1.1);
+        }
+
+        .industry-nav-prev i,
+        .industry-nav-next i {
+            font-size: 18px;
+            color: #333;
+        }
+
+        .industry-nav-prev:hover i,
+        .industry-nav-next:hover i {
+            color: #fff;
+        }
+
+        @media (max-width: 991px) {
+            .industry-card {
+                height: 300px;
+            }
+
+            .industry-overlay {
+                padding: 20px;
+            }
+
+            .industry-overlay i {
+                font-size: 28px;
+            }
+
+            .industry-overlay span {
+                font-size: 18px;
+            }
+        }
+
+        @media (max-width: 767px) {
+            .industry-card {
+                height: 250px;
+            }
+
+            .industry-overlay {
+                padding: 15px;
+                gap: 10px;
+            }
+
+            .industry-overlay i {
+                font-size: 24px;
+            }
+
+            .industry-overlay span {
+                font-size: 16px;
+            }
+
+            .industry-nav-prev,
+            .industry-nav-next {
+                width: 45px;
+                height: 45px;
+            }
+        }
+    </style>
 </head>
 
 <body>
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4XDB2GZ"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
-    
-    <!-- Header 
-============================================= -->
+   
     <?php include("header.php") ?>
-    <!-- End Header -->
-    <!-- Start Banner Area 
+
+    <!-- Start Banner
     ============================================= -->
-    <div class="banner-style-three-area overflow-hidden" style="background-image: url(../assets/img/shape/technology-banner.jpg); padding-bottom: 50px;">
-
-        <!-- Single Item -->
-        <div class="banner-style-three pt-150 pt-md-120 pt-xs-60">
-            <div class="container">
-                <div class="content">
-
-                    <div class="row align-center">
-                        <div class="col-xl-6 col-lg-6 pr-50 pr-md-15 pr-xs-15 mt--80 mt-md-0 mt-xs-0">
-                            <div class="information">
-                                <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
-                                    Expert<br> <strong> Technical Writing Services</strong>
-                                </h2>
-                                <p class="wow fadeInUp" data-wow-delay="900ms" data-wow-duration="400ms">
-
-                                    Simplify complexity with expert<strong> technical writing services</strong>. From user guides to API docs, we craft content that informs, guides, and supports your audience.
-                                </p>
-                                <ul class="list-double mt-40">
-                                    <li>Improve user understanding with clear content</li>
-                                    <li>Speed up onboarding with better documentation</li>
-                                    <li>Reduce errors with precise technical writing</li>
-                                </ul>
-                                <div class="button" style="margin-top: 20px;">
-                                    <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min">Let’s Talk </a>
-                                </div>
+    <div class="banner-style-three-area overflow-hidden pt-100 pb-100" style="background-image: url(../assets/img/shape/banner-3.jpg);">
+        <div class="container">
+            <div class="content">
+                <div class="row align-center">
+                    <div class="banner-style-three col-lg-7">
+                        <div class="information">
+                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                                Technical Content Writing <span style="color: var(--color-primary);">Services</span> for Businesses
+                            </h2>
+                            <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
+                                Deliver precise and engaging technical content with expert technical content writing. Our technical content writing services create SEO-friendly, accurate, and high-quality technical content for websites, manuals, and product documentation to boost traffic, credibility, and business growth.
+                            </p>
+                            <div class="button mt-4 mb-5">
+                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Create Now</a>
                             </div>
                         </div>
-                        <div class="col-xl-6 col-lg-6 pl-60 pl-md-15 pl-xs-15">
-                            <div class="thumb">
-                                <img class="wow fadeInDown" src="../assets/img/illustration/2.png" alt="Technical Content Writing">
-                                <div class="progress-card">
-                                    <div class="icon">
-                                        <i class="flaticon-startup-5"></i>
-                                    </div>
-                                    <div class="info">
-                                        <p>Enhanced SEO Rankings</p>
-                                        <h4>+150%</h4>
-                                    </div>
+                    </div>
+                    <div class="col-tact-stye-one col-lg-5">
+                        <div class="contact-form-style-one form-with-profile wow fadeInUp p-0" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <div class="form-header-orange">
+                                <div class="profile-images-container">
+                                    <img src="../assets/img/form-profile-image.png" alt="Expert" class="profile-main" oncontextmenu="return false;" draggable="false" ondragstart="return false;">
                                 </div>
                             </div>
+                            <div class="form-content p-3">
+                                <div class="information">
+                                    <h4 class="wow fadeInUp mb-30 text-center" data-wow-delay="500ms" data-wow-duration="400ms">
+                                        <b>Get a Free Consultation</b>
+                                    </h4>
+                                </div>
+                                <form id="appDevelopmentForm">
+                                    <input type="hidden" name="username_hp">
+                                    <div class="row">
+                                        <div class="col-lg-6">
+                                            <div class="form-group">
+                                                <input type="text" name="full_name" class="form-control" placeholder="Full Name *" required>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="form-group">
+                                                <input type="email" name="email" class="form-control" placeholder="E-mail *" required>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="form-group">
+                                                <input type="text" name="phone" class="form-control" placeholder="Phone Number *" required>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="form-group">
+                                                <select name="budget" class="form-control" required>
+                                                    <option value="">Budget *</option>
+                                                    <option value="Under ₹50,000">Under ₹50,000</option>
+                                                    <option value="₹50,000 - ₹1,00,000">₹50,000 - ₹1,00,000</option>
+                                                    <option value="₹1,00,000 - ₹3,00,000">₹1,00,000 - ₹3,00,000</option>
+                                                    <option value="₹3,00,000 - ₹5,00,000">₹3,00,000 - ₹5,00,000</option>
+                                                    <option value="Above ₹5,00,000">Above ₹5,00,000</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-12">
+                                            <div class="form-group">
+                                                <textarea name="requirement" class="form-control" rows="4" placeholder="Requirement *" required></textarea>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-12">
+                                            <button type="submit" class="btn btn-primary w-100">Submit Now <i class="fas fa-arrow-up" style="margin-left: 8px;rotate: 45deg;"></i></button>
+                                        </div>
+                                    </div>
+                                    <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response-app">
+                                </form>
+                            </div>
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
-        <!-- End Single Item -->
     </div>
     <!-- End Banner -->
-    <div class="brand-style-one bg-gradient pt-3 pb-3">
-        <div class="container-fill">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="brand-carousel">
-                        <!-- Additional required wrapper -->
-                        <div class="swiper-wrapper">
-                            <!-- Single Item -->
-                            <div class="swiper-slide">
-                                <img src="../assets/img/brand/we3scs.png" alt="Image Not Found">
-                            </div>
-                            <div class="swiper-slide">
-                                <img src="../assets/img/brand/caper.png" alt="Image Not Found">
-                            </div>
-                            <!-- End Single Item -->
-                            <!-- Single Item -->
-                            <!-- End Single Item -->
-                            <!-- Single Item -->
-                            <div class="swiper-slide">
-                                <img src="../assets/img/brand/pannest.png" alt="Image Not Found">
-                            </div>
-                            <!-- End Single Item -->
-                            <!-- Single Item -->
-                            <!-- End Single Item -->
 
-                            <!-- Single Item -->
-                            <div class="swiper-slide">
-                                <img src="../assets/img/brand/hilift.png" alt="Image Not Found">
-                            </div>
-                            <!-- End Single Item -->
-
-                            <!-- Single Item -->
-                            <div class="swiper-slide">
-                                <img src="../assets/img/brand/daakiyawala.png" alt="Image Not Found">
-                            </div>
-                            <!-- End Single Item -->
-
-                            <!-- Single Item -->
-                            <div class="swiper-slide">
-                                <img src="../assets/img/brand/cariesco.png" alt="Image Not Found">
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Start Service Range
+    <!-- Start Clients/Partners
     ============================================= -->
-    <div class="service-range-area default-padding bg-gray">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-6 col-lg-5">
-                    <h4 class="sub-title">What We Offer</h4>
-                    <h2 class="title mb-30">Clear,<br>Accurate Technical Content</h2>
-                    <p>
-                        Our <strong>technical writing services</strong> help you simplify complex processes with user-centric documentation. From API docs to compliance manuals, we create clear, accurate, and accessible content that boosts user experience and ensures operational clarity.
-                    </p>
-                    <ul class="list-double mt-40">
-                        <li>
-                            <h5>User Manuals & Guides</h5>
-                            <p>
-                                Deliver step-by-step, easy-to-follow instructions for software, hardware, or services that reduce support queries and enhance product adoption.
-                            </p>
-                        </li>
-                        <li>
-                            <h5>API & Developer Documentation</h5>
-                            <p>
-                                We create well-structured API references and integration guides that help developers implement your tech with ease and minimize onboarding friction.
-                            </p>
-                        </li>
-                        <li>
-                            <h5>Compliance & SOP Documentation</h5>
-                            <p>
-                                Ensure your business stays compliant with clearly written SOPs, training content, and regulatory documents tailored to industry standards.
-                            </p>
-                        </li>
-                    </ul>
-                </div>
-                <div class="col-lg-6 offset-lg-1 col-xl-5 offset-xl-1">
-                    <div class="seo-progress text-center">
-
-                        <div class="circle-progress">
-                            <div class="seo-progressbar">
-                                <div class="circle" data-percent="92">
-                                    <strong>92%</strong>
-                                </div>
-                            </div>
-                            <h4>Improved User Clarity</h4>
-                        </div>
-
-                        <div class="seo-progess-items">
-                            <div class="process-item">
-                                <h5>Simplifying Complexity</h5>
-                                <p>Transforming technical data into user-friendly content that enhances understanding and boosts customer satisfaction across all platforms.</p>
-                            </div>
-                            <div class="process-item">
-                                <h5>Reducing Support Load</h5>
-                                <p>Accurate and intuitive documentation reduces repetitive queries, empowering users to solveissues independently and cutting down on support costs.</p>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-            <div class="button" style="margin-top: 20px;">
-                <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min">Let’s Talk</a>
-            </div>
-        </div>
-    </div>
-    <!-- End Service Range -->
-    <!-- Calendly inline widget begin -->
-    <!-- 
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
-
-    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
- -->
-
-    <!-- Calendly inline widget end -->
-
-
-    <!-- Start Why Choose Us 
-    ============================================= -->
-    <!-- <div class="choose-us-style-one-area default-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-7 choose-us-style-one">
-                    <h4 class="sub-title">Why Choose Us</h4>
-                    <h2 class="title">Your Trusted Partner for Technical Content Writing Services</h2>
-                    <div class="choose-us-thumb mt-50 mt-xs-40">
-                        <img class="wow fadeInUp" src="../assets/img/illustration/6.png" alt="Image Not Found">
-                        <img class="wow fadeInDown" src="../assets/img/illustration/7.png" alt="Image Not Found">
-                        <img class="wow fadeInRight" src="../assets/img/illustration/5.png" alt="Image Not Found">
-                    </div>
-                </div>
-                <div class="col-lg-5 pl-70 pl-md-15 pl-xs-15 choose-us-style-one">
-                    <div class="curve-text">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" version="1.1">
-                            <path id="textPath" d="M 0,75 a 75,75 0 1,1 0,1 z"></path>
-                            <text>
-                                <textPath href="#textPath">Your Partner in Technology Content Growth</textPath>
-                            </text>
-                        </svg>
-                        <a href="https://www.youtube.com/watch?v=owhuBrGIOsEdsk" class="popup-youtube"><i class="fas fa-play"></i></a>
-                    </div>
-                    <ul class="feature-process mt-75 mt-xs-0">
-                        <li class="wow fadeInLeft">
-                            <div class="info">
-                                <a href="#">Engaging Content for Technology Companies</a>
-                                <p>
-                                    Our expert <strong>technical content writers</strong> create blog posts, case studies, and website content tailored to the tech sector, helping you communicate your product's value and expertise effectively.
-                                </p>
-                            </div>
-                            <div class="link">
-                                <a href="#"><i class="fas fa-long-arrow-right"></i></a>
-                            </div>
-                        </li>
-                        <li class="wow fadeInLeft" data-wow-delay="500ms">
-                            <div class="info">
-                                <a href="#">SEO-Optimized Technical Content</a>
-                                <p>
-                                    We provide <strong>SEO-driven content marketing services</strong> for tech companies, helping you rank higher in search engines, drive <strong>organic traffic</strong>, and enhance your digital presence.
-                                </p>
-                            </div>
-                            <div class="link">
-                                <a href="#"><i class="fas fa-long-arrow-right"></i></a>
-                            </div>
-                        </li>
-                        <li class="wow fadeInLeft" data-wow-delay="900ms">
-                            <div class="info">
-                                <a href="#">Customer-Centric Technical Content</a>
-                                <p>
-                                    We create highly relevant and technical content focused on your target audience's needs. Our goal is to deliver value and build trust through articles, white papers, and case studies.
-                                </p>
-                            </div>
-                            <div class="link">
-                                <a href="#"><i class="fas fa-long-arrow-right"></i></a>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!-- End Why Choose Us -->
-
-    <!-- Start Feature
-    ============================================= -->
-    <div class="feature-style-one-area default-padding-top bottom-less">
+    <div class="brand-style-one bg-gradient pt-3 pb-3 pt-5 pb-5">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">Why You Need Professional Technical Writing Services</h5>
-                        <h2 class="title">The Real Impact of Technical Writing Services</h2>
+                        <h5 class="sub-title">Clients. Partners. Growth Stories.</h5>
+                        <h2 class="title text-white">We're Trusted By 300+ Businesses</h2>
                     </div>
                 </div>
             </div>
         </div>
-
-        <div class="container">
-            <div class="row align-center">
-                <!-- Single Item -->
-                <div class="col-lg-4 col-md-6 mb-30">
-                    <div class="feature-style-one">
-                        <div class="info">
-                            <h4> Clarity from Complexity</h4>
-                            <p>
-                                Simplify <strong>complex information into clear</strong>, structured content that helps users understand your product or process without confusion or technical background knowledge.
-                            </p>
+        <div class="container-fill">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="brand-carousel">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <img src="../assets/img/brand/we3scs.png">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="../assets/img/brand/caper.png">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="../assets/img/brand/pannest.png">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="../assets/img/brand/hilift.png">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="../assets/img/brand/daakiyawala.png">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="../assets/img/brand/cariesco.png">
+                            </div>
                         </div>
                     </div>
                 </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-lg-4 col-md-6 mb-30">
-                    <div class="feature-style-one">
-                        <div class="info">
-                            <h4>Better User Experience</h4>
-                            <p>
-                                Enhance user experience with professionally written manuals, guides, and help content that reduces frustration and improves product adoption rates.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-lg-4 col-md-6 mb-30">
-                    <div class="feature-style-one">
-                        <div class="info">
-                            <h4>Time & Cost Efficiency</h4>
-                            <p>
-                                Save valuable time and reduce support costs by equipping your users with accurate documentation that answers questions and solves problems proactively.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-lg-4 col-md-6 mb-30">
-                    <div class="feature-style-one">
-                        <div class="info">
-                            <h4>Consistent Brand Voice</h4>
-                            <p>
-                                Stay relevant with ongoing <strong>blog writing services</strong> and regular content updates. We keep your audience engaged with fresh, SEO-optimized, and informative content about your tech solutions.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-lg-4 col-md-6 mb-30">
-                    <div class="feature-style-one">
-                        <div class="info">
-                            <h4>Regulatory Compliance</h4>
-                            <p>
-                                Ensure compliance with industry standards and regulations through precise and properly formatted documentation for audits, training, and operations.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-lg-4 col-md-6 mb-30">
-                    <div class="feature-style-one">
-                        <div class="info">
-                            <h4>Scalable Documentation</h4>
-                            <p>
-                                Support scalability with standardized content that can be easily updated, translated, and repurposed as your products evolve and expand into new markets.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-            </div>
-            <div class="button" style="margin-top: 20px;text-align:center">
-                <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min">Let’s Talk</a>
             </div>
         </div>
     </div>
-    <!-- End Feature -->
+    <!-- End Clients/Partners -->
 
-
-    <!-- Start Knowledge Hub 
+    <!-- Start Track Record
     ============================================= -->
-    <div class="knowledge-hub-area overflow-hidden default-padding">
+    <div class="default-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="site-heading text-center">
+                        <h5 class="sub-title">Our Track Record</h5>
+                        <h2 class="title">Creating Measurable Impact, Every Single Time</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
+                    <div class="fun-fact text-center">
+                        <div class="counter" style="color:var(--color-primary)">
+                            <span class="timer" data-to="10" data-speed="2000">10</span><span>+</span>
+                        </div>
+                        <h4>Years of Experience</h4>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
+                    <div class="fun-fact text-center">
+                        <div class="counter" style="color:var(--color-primary)">
+                            <span class="timer" data-to="100" data-speed="2000">100</span><span>+</span>
+                        </div>
+                        <h4>Writing Experts</h4>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
+                    <div class="fun-fact text-center">
+                        <div class="counter" style="color:var(--color-primary)">
+                            <span class="timer" data-to="50" data-speed="2000">50</span><span>+</span>
+                        </div>
+                        <h4>Content Projects Delivered</h4>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
+                    <div class="fun-fact text-center">
+                        <div class="counter" style="color:var(--color-primary)">
+                            <span class="timer" data-to="97" data-speed="2000">97</span><span>%</span>
+                        </div>
+                        <h4>Client Retention</h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Track Record -->
+
+    <!-- Start Why Choose Us
+    ============================================= -->
+    <div class="default-padding bg-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="site-heading text-center">
+                        <h5 class="sub-title">WHY CHOOSE ITD GROWTHLABS</h5>
+                        <h2 class="title">Premier Technical Content Writing Agency in India</h2>
+                        <p class="mt-30">
+                            ITD GrowthLabs is a leading Technical Content Writing company offering expert content solutions for businesses globally. We create precise, clear, and SEO-optimized technical content that simplifies complex topics, strengthens brand authority, and drives measurable engagement and business growth.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row" style="display: flex; flex-wrap: wrap;">
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="why-choose-card">
+                        <div class="icon-wrapper">
+                            <i class="fas fa-industry"></i>
+                        </div>
+                        <h4>Industry-Specific Content</h4>
+                        <p>Create technical content tailored to your industry, highlighting specialized knowledge, innovations, and solutions for your target audience.</p>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="why-choose-card">
+                        <div class="icon-wrapper">
+                            <i class="fas fa-user-graduate"></i>
+                        </div>
+                        <h4>Expert Knowledge Integration</h4>
+                        <p>Ensure accurate representation of technical concepts by integrating insights from subject matter experts and validated sources.</p>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="why-choose-card">
+                        <div class="icon-wrapper">
+                            <i class="fas fa-search"></i>
+                        </div>
+                        <h4>Structured & SEO-Friendly Writing</h4>
+                        <p>Produce technical content with clear structure, headings, and SEO-optimized keywords to improve search rankings and readability.</p>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="why-choose-card">
+                        <div class="icon-wrapper">
+                            <i class="fas fa-file-alt"></i>
+                        </div>
+                        <h4>Whitepapers & Case Studies</h4>
+                        <p>Develop in-depth technical documents like whitepapers, case studies, and reports that establish authority and support lead generation.</p>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="why-choose-card">
+                        <div class="icon-wrapper">
+                            <i class="fas fa-book"></i>
+                        </div>
+                        <h4>Documentation & Manuals</h4>
+                        <p>Craft user manuals, guides, and technical documentation that simplify product usage and improve customer satisfaction.</p>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="why-choose-card">
+                        <div class="icon-wrapper">
+                            <i class="fas fa-expand-arrows-alt"></i>
+                        </div>
+                        <h4>Scalable Technical Content</h4>
+                        <p>Deliver scalable solutions for ongoing technical content needs, including website updates, blogs, and industry-focused articles.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="default-padding bg-white">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="site-heading text-center">
+                        <h5 class="sub-title">OUR DEVELOPMENT PROCESS</h5>
+                        <h2 class="title">From Concept to Launch</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="process-track">
+                <div class="process-row">
+                    <div class="process-hexagon">
+                        <div class="hexagon-content">
+                            <div class="step-number">01</div><i class="fas fa-search"></i>
+                            <h5>DISCOVER</h5>
+                            <p>Technical Content Writing research & planning</p>
+                        </div>
+                    </div>
+                    <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
+                    <div class="process-hexagon">
+                        <div class="hexagon-content">
+                            <div class="step-number">02</div><i class="fas fa-pencil-ruler"></i>
+                            <h5>DESIGN</h5>
+                            <p>Creative Technical Content structure design</p>
+                        </div>
+                    </div>
+                    <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
+                    <div class="process-hexagon">
+                        <div class="hexagon-content">
+                            <div class="step-number">03</div><i class="fas fa-cogs"></i>
+                            <h5>DEVELOP</h5>
+                            <p>Expert Technical Content drafting & writing</p>
+                        </div>
+                    </div>
+                    <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
+                    <div class="process-hexagon">
+                        <div class="hexagon-content">
+                            <div class="step-number">04</div><i class="fas fa-chart-bar"></i>
+                            <h5>TEST</h5>
+                            <p>Technical Content review & quality check</p>
+                        </div>
+                    </div>
+                    <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
+                    <div class="process-hexagon">
+                        <div class="hexagon-content">
+                            <div class="step-number">05</div><i class="fas fa-rocket"></i>
+                            <h5>LAUNCH</h5>
+                            <p>Smooth Technical Content publication & delivery</p>
+                        </div>
+                    </div>
+                    <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
+                    <div class="process-hexagon">
+                        <div class="hexagon-content">
+                            <div class="step-number">06</div><i class="fas fa-headset"></i>
+                            <h5>SUPPORT</h5>
+                            <p>Ongoing Technical Content updates & optimization</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="default-padding box-layout overflow-hidden bottom-less services-style-one-area bg-gray bg-cover" style="background-image: url(../assets/img/shape/banner-2.jpg);">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="site-heading text-center">
+                        <h5 class="sub-title">OUR TECHNICAL CONTENT WRITING SERVICES</h5>
+                        <h2 class="title">Behind Every Successful Technical Content Writing Project</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row" style="display: flex; flex-wrap: wrap;">
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-bullseye fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Strategic Technical Content Writing for businesses, focusing on keyword research, content planning, and engagement strategies to improve brand visibility and online ROI.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Technical Content Strategy</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-cogs fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Scalable Technical Content Writing services with structure planning, content scheduling, audience analysis, and secure platform setup for maximum efficiency.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Content Development Setup</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-mobile-alt fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Professional Technical Content Writing ensuring content displays correctly on desktops, tablets, and mobile devices for higher user engagement.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Multi-Device & SEO Optimization</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-search fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Flexible Technical Content Writing with optimized headings, meta descriptions, and A/B testing to boost readability, engagement, and search visibility.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Content & Copy Optimization</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-paint-brush fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Conversion-focused Technical Content Writing designed around user behavior to improve content relevance, engagement, and overall site performance.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Creative Enhancements</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-sync-alt fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Advanced Technical Content Writing strategies including regular updates, topic expansion, and internal linking to maintain search rankings and traffic.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Content Refresh & Updates</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-chart-bar fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>High-performing Technical Content Writing with monitoring, analytics, and reporting to enhance content impact and ROI.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Performance Tracking & Analytics</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-clipboard-check fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Modern Technical Content Writing upgrades for existing sites to improve structure, readability, and overall content efficiency.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Audit & Redesign</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-tools fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Reliable Technical Content Writing support with continuous updates, SEO improvements, reporting, and content strategy enhancements for sustained results.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Ongoing Support & Optimization</a></h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Start Technology Stack
+    ============================================= -->
+    <!-- Start Technology Stack
+    ============================================= -->
+    <div class="default-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="site-heading text-center">
+                        <h5 class="sub-title">SMART TECH CHOICES</h5>
+                        <h2 class="title">Behind Every Successful Technical Content Writing Project</h2>
+                        <p class="mt-30">We use proven tools and modern strategies to deliver secure and scalable Technical Content Writing solutions — built to support high-performing websites and measurable results for businesses.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-6 col-md-4 col-lg-2">
+                    <div class="tech-stack-item">
+                        <i class="fas fa-bullseye fa-3x mb-3" style="color: #0a66c2;"></i>
+                        <h5>Technical Content Strategy</h5>
+                    </div>
+                </div>
+                <div class="col-6 col-md-4 col-lg-2">
+                    <div class="tech-stack-item">
+                        <i class="fas fa-search fa-3x mb-3" style="color: #0a66c2;"></i>
+                        <h5>Keyword Research</h5>
+                    </div>
+                </div>
+                <div class="col-6 col-md-4 col-lg-2">
+                    <div class="tech-stack-item">
+                        <i class="fas fa-file-alt fa-3x mb-3" style="color: #0a66c2;"></i>
+                        <h5>Content Planning</h5>
+                    </div>
+                </div>
+                <div class="col-6 col-md-4 col-lg-2">
+                    <div class="tech-stack-item">
+                        <i class="fas fa-chart-line fa-3x mb-3" style="color: #f4b400;"></i>
+                        <h5>SEO Optimization</h5>
+                    </div>
+                </div>
+                <div class="col-6 col-md-4 col-lg-2">
+                    <div class="tech-stack-item">
+                        <i class="fas fa-book fa-3x mb-3" style="color: #0a66c2;"></i>
+                        <h5>Documentation Tools</h5>
+                    </div>
+                </div>
+                <div class="col-6 col-md-4 col-lg-2">
+                    <div class="tech-stack-item">
+                        <i class="fas fa-spell-check fa-3x mb-3" style="color: #ea4335;"></i>
+                        <h5>Quality Assurance</h5>
+                    </div>
+                </div>
+                <div class="col-6 col-md-4 col-lg-2">
+                    <div class="tech-stack-item">
+                        <i class="fas fa-users fa-3x mb-3" style="color: #f4b400;"></i>
+                        <h5>SME Collaboration</h5>
+                    </div>
+                </div>
+                <div class="col-6 col-md-4 col-lg-2">
+                    <div class="tech-stack-item">
+                        <i class="fas fa-globe fa-3x mb-3" style="color: #34a853;"></i>
+                        <h5>Multi-Platform Publishing</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Start Call to Action
+    ============================================= -->
+    <div class="default-padding bg-gradient bg-cover shadow dark" style="background-image: url(../assets/img/shape/banner-2.jpg);">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="site-heading text-center text-light mt-0">
+                        <h2 class="title text-white mb-30">Ready to Create Technical Content?</h2>
+                        <p class="text-white">Work with a trusted Technical Content Writing agency for precise, SEO-optimized content that boosts visibility and credibility.</p>
+                        <div class="button mt-40">
+                            <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Let's Talk</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Call to Action -->
+    <div class="knowledge-hub-area overflow-hidden default-padding pb-0">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="site-heading text-center">
+                        <h5 class="sub-title">FAQ's</h5>
+                        <h2 class="title">Frequently Asked Questions</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="container">
             <div class="row">
                 <div class="col-12">
                     <div class="faq-style-one">
                         <div class="accordion" id="faqAccordion">
+                            <!-- FAQ 1 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        What is technical writing?
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                        What types of technical content do you create?
                                     </button>
                                 </h2>
-                                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
+                                <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p>Technical writing is the process of creating clear and concise documentation for complex processes, systems, or products.</p>
+                                        We create a wide range of technical content including user manuals, product documentation, whitepapers, case studies, technical blog posts, API documentation, how-to guides, and industry-specific articles—all tailored to your audience and SEO-optimized.
                                     </div>
                                 </div>
                             </div>
-                            <!-- FAQ Item 2 -->
+
+                            <!-- FAQ 2 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        Who needs technical writing services?
+                                        How do you ensure technical accuracy in content?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p>Businesses in tech, healthcare, logistics, and manufacturing benefit from technical documentation to educate users and meet compliance needs.</p>
+                                        We integrate insights from subject matter experts (SMEs) and validated sources. Our writers collaborate with your technical team to ensure accurate representation of concepts, and we follow a rigorous review and quality-check process before delivery.
                                     </div>
                                 </div>
                             </div>
-                            <!-- FAQ Item 3 -->
+
+                            <!-- FAQ 3 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        What types of documents do you create?
+                                        Is your technical content SEO-optimized?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p>We create user manuals, SOPs, API docs, case studies, training guides, and more.</p>
+                                        Yes. We produce technical content with clear structure, SEO-optimized keywords, proper headings, meta descriptions, and internal linking to improve search rankings, readability, and online visibility for your business.
                                     </div>
                                 </div>
                             </div>
-                            <!-- FAQ Item 4 -->
+
+                            <!-- FAQ 4 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        How does technical writing help my business?
+                                        Can you handle ongoing technical content needs?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p>It improves customer understanding, product usability, reduces support queries, and strengthens brand credibility with accurate, professional content.</p>
+                                        Absolutely. We deliver scalable solutions for ongoing technical content needs, including website updates, blogs, documentation refreshes, and industry-focused articles. We also offer continuous support, SEO improvements, and content strategy enhancements.
                                     </div>
                                 </div>
                             </div>
-                            <!-- FAQ Item 5 -->
+
+                            <!-- FAQ 5 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you offer industry-specific writing?
+                                        How long does it take to deliver technical content?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p>Yes, our writers specialize in industries like technology, e-commerce, logistics, and manufacturing to ensure relevance and accuracy.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ Item 6 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingSix">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                                        Can you update existing documentation?
-                                    </button>
-                                </h2>
-                                <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>Absolutely. We review and revise existing documents to align with the latest updates, features, and brand tone.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ Item 7 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingSeven">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-                                        Is your documentation SEO-friendly?
-                                    </button>
-                                </h2>
-                                <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>Yes. Where relevant—especially for help content—we integrate SEO practices to improve discoverability.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ Item 8 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingEight">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
-                                        How do you ensure accuracy in technical content?
-                                    </button>
-                                </h2>
-                                <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>We conduct in-depth research about the subject matter and follow strict quality checks to ensure factual and technical accuracy.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ Item 9 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingNine">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
-                                        Do you provide visual aids in the documents?
-                                    </button>
-                                </h2>
-                                <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>Yes, we can include charts, diagrams, screenshots, and illustrations as needed to support comprehension, as per your business needs.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ Item 10 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingTen">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
-                                        What is your turnaround time?
-                                    </button>
-                                </h2>
-                                <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>Turnaround depends on the scope and type of document, but we always strive for timely delivery with quality intact.</p>
+                                        Project timelines vary based on scope and complexity. We provide clear timelines upfront and follow a structured process—from research and planning to drafting, review, and delivery—to ensure high-quality technical content on schedule.
                                     </div>
                                 </div>
                             </div>
@@ -564,203 +1222,17 @@
             </div>
         </div>
     </div>
-    </div>
-    <!-- End Knowledge Hub -->
+    <!-- End FAQ -->
 
-    <!-- Start Why You Need Content Writing Services
-    ============================================= -->
-    <div class="about-style-three-area default-padding overflow-hidden">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 about-style-three">
-                    <div class="about-three-thumb">
-                        <img src="../assets/img/homepage5.png" alt="Image Not Found">
-
-                        <div class="experience">
-                            <h2><strong>10+</strong> Years of Creating Impactful Content Marketing</h2>
-                        </div>
-                        <div class="animated-shape">
-                            <img src="../assets/img/shape/38.png" alt="Shape">
-                        </div>
-                    </div>
-                    <br>
-                    <div class="button" style="margin-top: 20px; text-align:center;">
-                        <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min">Let’s Talk</a>
-                    </div>
-                </div>
-                <div class="col-lg-5 offset-lg-1 about-style-three">
-                    <div class="about-three-info">
-                        <h4 class="sub-title">Why You Need Technical Writing Service</h4>
-                        <h2 class="title">Enhancing Clarity and Boosting Efficiency with Technical Documentation</h2>
-                        <ul class="list-grid-four">
-                            <li><strong>Simplify complex processes for end-user understanding.</strong></li>
-                            <li><strong>Reduce customer support needs with self-help documentation.</strong></li>
-                            <li><strong>Improve onboarding with clear instructional content.</strong></li>
-                            <li><strong>Ensure compliance with accurate SOP documentation.</strong></li>
-                            <li><strong>Build trust with professional, branded materials.</strong></li>
-                            <li><strong>Support scalability with structured, editable docs.</strong></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Why You Need Content Writing Services -->
-
-    <!-- Start Process
-    ============================================= -->
-    <div class="process-style-one-area text-center default-padding">
-
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center">
-                        <h5 class="sub-title">Our Approach</h5>
-                        <h2 class="title">Strategic Process For Technical Writing Success</h2>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="container">
-            <div class="row">
-                <!-- Single Item -->
-                <div class="col-xl-3 col-lg-6 process-style-one">
-                    <div class="item">
-                        <div class="icon">
-                            <i class="flaticon-cyber-security"></i>
-                        </div>
-                        <div class="point">
-                            <span>01</span>
-                        </div>
-                        <h4>Goal Alignment</h4>
-
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-xl-3 col-lg-6 process-style-one">
-                    <div class="item">
-                        <div class="icon">
-                            <i class="flaticon-paper"></i>
-                        </div>
-                        <div class="content">
-                            <div class="point">
-                                <span>02</span>
-                            </div>
-                            <h4>Research and Strategy</h4>
-
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-xl-3 col-lg-6 process-style-one">
-                    <div class="item">
-                        <div class="icon">
-                            <i class="flaticon-start-up"></i>
-                        </div>
-                        <div class="point">
-                            <span>03</span>
-                        </div>
-                        <h4>Content Creation</h4>
-
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-xl-3 col-lg-6 process-style-one">
-                    <div class="item">
-                        <div class="icon">
-                            <i class="flaticon-support-1"></i>
-                        </div>
-                        <div class="point">
-                            <span>04</span>
-                        </div>
-                        <h4>Review and Optimization</h4>
-
-                    </div>
-                </div>
-                <!-- End Single Item -->
-            </div>
-        </div>
-    </div>
-    <!-- End Process -->
-    <!-- Calendly inline widget begin -->
-
+    <!-- Calendly Widget -->
     <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
 
-    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-
-
-    <!-- Calendly inline widget end -->
-
-    <!-- Start Contact Us 
-    ============================================= -->
-    <div class="contact-area overflow-hidden default-padding" style="background-image: url(../assets/img/shape/map.png);">
-        <div class="shape-right-bottom">
-            <img src="../assets/img/shape/18.png" alt="Shape">
-        </div>
-        <div class="container">
-            <div class="row align-center">
-                <div class="col-tact-stye-one col-lg-5">
-                    <div class="contact-style-one-info">
-                        <div class="mb-40">
-                            <h2>Contact Information</h2>
-
-                        </div>
-                        <ul class="contact-address">
-                            <li class="wow fadeInUp">
-                                <div class="content">
-                                    <h4 class="title">Location</h4>
-                                    <p>
-                                        Gundecha Onclave, Powai, Mumbai, Maharashtra 400072
-                                    </p>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp" data-wow-delay="300ms">
-                                <div class="info">
-                                    <h4 class="title">Official Email</h4>
-                                    <a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp" data-wow-delay="500ms">
-                                <div class="info">
-                                    <h4 class="title">Company Website</h4>
-                                    <a href="https://www.itdgrowthlabs.com" target="_blank">www.itdgrowthlabs.com</a>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp" data-wow-delay="700ms">
-                                <div class="info">
-                                    <h4 class="title">Company Name</h4>
-                                    <p>ITD GrowthLabs</p>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-tact-stye-one col-lg-6 offset-lg-1">
-                    <div class="contact-form-style-one">
-                        <h4 class="sub-title">Have Questions?</h4>
-                        <h2 class="title">Send us a Message</h2>
-                        <?php include("../common-form.php") ?>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Contact -->
-
-    <!-- Start Footer 
+    <!-- Start Footer
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
         <div class="container">
             <div class="f-items default-padding-bottom pt-70 pt-xs-0">
                 <div class="row">
-                    <!-- Content Services -->
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">Core Tech Services</h4>
@@ -795,7 +1267,6 @@
                             </ul>
                         </div>
                     </div>
-
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">SEO &amp; Content Writing</h4>
@@ -830,7 +1301,6 @@
                             </ul>
                         </div>
                     </div>
-
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">Content Services</h4>
@@ -855,7 +1325,6 @@
                             </ul>
                         </div>
                     </div>
-
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">Custom Solutions</h4>
@@ -897,9 +1366,6 @@
                             </ul>
                         </div>
                     </div>
-
-
-                    <!-- Video Services -->
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">Video Services</h4>
@@ -912,13 +1378,9 @@
                                 <li><a href="../services/Video-Editing.php">Video Editing</a></li>
                                 <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
                                 <li><a href="../services/Onboarding-Videos.php">Onboarding Videos</a></li>
-
                             </ul>
                         </div>
                     </div>
-
-
-                    <!-- Industries We Serve & WhatsApp Marketing -->
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                         <h4 class="widget-title">WhatsApp Marketing</h4>
@@ -941,20 +1403,20 @@
                         </ul>
                     </div>
                     </div>
-                    <!-- Data Services -->
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
-                            <h4 class="widget-title">Data Services</h4>
-                            <ul>
-                                <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
-                                <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
-                                <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
-                                <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
-                                <li><a href="../data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
+                        <h4 class="widget-title">Data Services</h4>
+                        <ul>
+                            <li><a href="data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
+                            <li><a href="data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
+                            <li><a href="data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
+                            <li><a href="data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
+                            <li><a href="data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
+                        </ul>
+                    </div>
 
-                            </ul>
-                        </div>
-<div class="f-item link mt-5">
+
+                    <div class="f-item link mt-5">
                         <h4 class="widget-title">Africa Digital Services</h4>
                         <ul>
                             <li><a href="africa/website-design-development.php">Website Design & Development</a></li>
@@ -964,7 +1426,6 @@
                         </ul>
                     </div>
                     </div>
-                    <!-- Data Services -->
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">Data Annotation Services</h4>
@@ -985,16 +1446,11 @@
                         </ul>
                     </div>
                     </div>
-                    <!-- Data Services -->
-
-
-
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">Resources</h4>
                             <ul>
                                 <li><a href="../resources/all-blogs.php">Blogs</a></li>
-
                             </ul>
                         </div>
                         <br>
@@ -1005,28 +1461,12 @@
                             <p><i class="fa fa-globe"> </i> <a href="https://itdgrowthlabs.com/" style="color:#dedede"> Website: www.itdgrowthlabs.com </a></p>
                             <ul>
                                 <li>Gundecha Onclave, Mumbai, 400072</li>
-                                <!-- <li><a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a></li> -->
                             </ul>
                         </div>
                     </div>
-                    <!-- Contact Information -->
-                    <!-- <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                       <div class="f-item contact">
-                        <h4 class="widget-title">Contact Us</h4>
-                        <p><i class="fas fa-phone"></i> <a href="tel:+91 8450978544" style="color:#dedede">Contact No:+91 8450978544</a></p>
-                        <p><i class="fa fa-envelope"></i> <a href="mailto:info@itdgrowthlabs.com" style="color:#dedede"> Email: info@itdgrowthlabs.com </a></p>
-                        <p><i class="fa fa-globe"> </i> <a href="https://itdgrowthlabs.com/" style="color:#dedede"> Website: www.itdgrowthlabs.com </a></p>
-                        <ul>
-                            <li>Gundecha Onclave, Mumbai, 400072</li>
-                            <li><a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a></li> 
-                    </ul>
-                </div> -->
                 </div>
             </div>
         </div>
-        </div>
-
-        <!-- Footer Bottom -->
         <div class="footer-bottom bg-dark text-light text-center">
             <div class="container">
                 <div class="row">
@@ -1036,11 +1476,7 @@
                 </div>
             </div>
         </div>
-        <!-- End Footer Bottom -->
     </footer>
-
-    <!-- jQuery Frameworks
-    ============================================= -->
     <script src="../assets/js/jquery-3.6.0.min.js"></script>
     <script src="../assets/js/bootstrap.bundle.min.js"></script>
     <script src="../assets/js/jquery.appear.js"></script>
@@ -1053,23 +1489,15 @@
     <script src="../assets/js/circle-progress.js"></script>
     <script src="../assets/js/isotope.pkgd.min.js"></script>
     <script src="../assets/js/imagesloaded.pkgd.min.js"></script>
-    <script src="../assets/js/jquery.nice-select.min.js"></script>
+    <!-- <script src="../assets/js/jquery.nice-select.min.js"></script> -->
     <script src="../assets/js/count-to.js"></script>
     <script src="../assets/js/jquery.scrolla.min.js"></script>
     <script src="../assets/js/YTPlayer.min.js"></script>
     <script src="../assets/js/TweenMax.min.js"></script>
     <script src="../assets/js/validnavs.js"></script>
     <script src="../assets/js/main.js"></script>
-    <script src="https://www.google.com/recaptcha/api.js?render=6Lcm0hosAAAAAPFeuKRDfgGF4Ajr9bcCCbD7LR-3"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
-    <script src="../assets/js/custom.js"></script>
-    <!-- Calendly badge widget begin -->
-
     <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-
     <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
@@ -1080,8 +1508,49 @@
             });
         }
     </script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            toastr.options = {
+                positionClass: "toast-top-right",
+                closeButton: true,
+                progressBar: true,
+            };
+            const form = document.getElementById("appDevelopmentForm");
+            form.addEventListener("submit", function(e) {
+                e.preventDefault();
+                grecaptcha.ready(function() {
+                    grecaptcha.execute('6Lcm0hosAAAAAPFeuKRDfgGF4Ajr9bcCCbD7LR-3', {
+                        action: 'app_development_form'
+                    }).then(function(token) {
+                        document.getElementById('g-recaptcha-response-app').value = token;
 
-    <!-- Calendly badge widget end -->
+                        const formData = new FormData(form);
+                        fetch("../appDevelopmentFormMail.php", {
+                                method: "POST",
+                                body: formData,
+                            })
+                            .then((res) => res.json())
+                            .then((data) => {
+                                if (data.status === "success") {
+                                    toastr.success("Your enquiry has been sent successfully!");
+                                    form.reset();
+                                    setTimeout(() => {
+                                        window.location.href = "../appDevelopmentForm_thankyou.php";
+                                    }, 1500);
+                                } else {
+                                    toastr.error(data.message || "Something went wrong!");
+                                }
+                            })
+                            .catch((err) => {
+                                toastr.error("Network error!");
+                            });
+                    });
+                });
+            });
+        });
+    </script>
 
 </body>
 
