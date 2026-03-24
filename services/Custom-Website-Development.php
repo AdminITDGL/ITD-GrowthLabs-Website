@@ -786,7 +786,7 @@
                         <div class="counter" style="color:var(--color-primary)">
                             <span class="timer" data-to="50" data-speed="2000">50</span><span>+</span>
                         </div>
-                        <h4>Apps Delivered</h4>
+                        <h4>Websites Delivered</h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
@@ -1047,14 +1047,12 @@
 
     <!-- Start Technology Stack
     ============================================= -->
-    <!-- Start Technology Stack
-    ============================================= -->
     <div class="default-padding">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">Smart Tech Choices</h5>
+                        <h5 class="sub-title">SMART TECH CHOICES</h5>
                         <h2 class="title">Behind Every Successful Business Website</h2>
                         <p class="mt-30">We use proven and modern technologies to deliver strong, secure, and high-performing websites across browsers — built to scale for any business.</p>
                     </div>
@@ -1063,220 +1061,219 @@
             <div class="tech-categories mb-50">
                 <ul class="nav nav-pills justify-content-center gap-3 flex-wrap" id="techTabs" role="tablist">
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link active" id="frontend-tab" data-bs-toggle="pill" data-bs-target="#frontend" type="button" role="tab">Frontend (Native & Cross-Platform)</button>
+                        <button class="nav-link active" id="strategy-tab" data-bs-toggle="pill" data-bs-target="#strategy" type="button" role="tab">Strategy</button>
                     </li>
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="backend-tab" data-bs-toggle="pill" data-bs-target="#backend" type="button" role="tab">Backend & Frameworks</button>
+                        <button class="nav-link" id="quality-tab" data-bs-toggle="pill" data-bs-target="#quality" type="button" role="tab">Quality</button>
                     </li>
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="databases-tab" data-bs-toggle="pill" data-bs-target="#databases" type="button" role="tab">Databases</button>
+                        <button class="nav-link" id="deployment-tab" data-bs-toggle="pill" data-bs-target="#deployment" type="button" role="tab">Deployment</button>
                     </li>
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="cloud-tab" data-bs-toggle="pill" data-bs-target="#cloud" type="button" role="tab">Cloud & DevOps</button>
+                        <button class="nav-link" id="infrastructure-tab" data-bs-toggle="pill" data-bs-target="#infrastructure" type="button" role="tab">Infrastructure</button>
                     </li>
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="integrations-tab" data-bs-toggle="pill" data-bs-target="#integrations" type="button" role="tab">Integrations & APIs</button>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="analytics-tab" data-bs-toggle="pill" data-bs-target="#analytics" type="button" role="tab">Testing & Analytics</button>
+                        <button class="nav-link" id="performance-tab" data-bs-toggle="pill" data-bs-target="#performance" type="button" role="tab">Performance</button>
                     </li>
                 </ul>
             </div>
             <div class="tab-content" id="techTabsContent">
-                <div class="tab-pane fade show active" id="frontend" role="tabpanel">
+                <div class="tab-pane fade show active" id="strategy" role="tabpanel">
                     <div class="row justify-content-center">
                         <div class="col-6 col-md-4 col-lg-2">
                             <div class="tech-stack-item">
-                                <i class="fab fa-swift fa-3x mb-3" style="color: #fa7343;"></i>
-                                <h5>Swift</h5>
+                                <i class="fas fa-search fa-3x mb-3" style="color: var(--color-primary);"></i>
+                                <h5>Discovery</h5>
                             </div>
                         </div>
                         <div class="col-6 col-md-4 col-lg-2">
                             <div class="tech-stack-item">
-                                <i class="fab fa-android fa-3x mb-3" style="color: #3ddc84;"></i>
-                                <h5>Kotlin</h5>
+                                <i class="fas fa-sitemap fa-3x mb-3" style="color: var(--color-primary);"></i>
+                                <h5>Architecture</h5>
                             </div>
                         </div>
                         <div class="col-6 col-md-4 col-lg-2">
                             <div class="tech-stack-item">
-                                <i class="fab fa-react fa-3x mb-3" style="color: #61dafb;"></i>
-                                <h5>React Native</h5>
+                                <i class="fas fa-comments fa-3x mb-3" style="color: var(--color-primary);"></i>
+                                <h5>Consulting</h5>
                             </div>
                         </div>
                         <div class="col-6 col-md-4 col-lg-2">
                             <div class="tech-stack-item">
-                                <i class="fab fa-google fa-3x mb-3" style="color: #02569b;"></i>
-                                <h5>Flutter</h5>
+                                <i class="fas fa-code fa-3x mb-3" style="color: var(--color-primary);"></i>
+                                <h5>Development</h5>
                             </div>
                         </div>
                         <div class="col-6 col-md-4 col-lg-2">
                             <div class="tech-stack-item">
-                                <i class="fas fa-mobile-alt fa-3x mb-3" style="color: #3880ff;"></i>
-                                <h5>Ionic</h5>
+                                <i class="fas fa-project-diagram fa-3x mb-3" style="color: var(--color-primary);"></i>
+                                <h5>Mapping</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-pencil-ruler fa-3x mb-3" style="color: var(--color-primary);"></i>
+                                <h5>Design</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-palette fa-3x mb-3" style="color: var(--color-primary);"></i>
+                                <h5>Branding</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-drafting-compass fa-3x mb-3" style="color: var(--color-primary);"></i>
+                                <h5>Wireframing</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-shapes fa-3x mb-3" style="color: var(--color-primary);"></i>
+                                <h5>Prototyping</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-font fa-3x mb-3" style="color: var(--color-primary);"></i>
+                                <h5>Typography</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-icons fa-3x mb-3" style="color: var(--color-primary);"></i>
+                                <h5>Iconography</h5>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="tab-pane fade" id="backend" role="tabpanel">
+                <div class="tab-pane fade" id="quality" role="tabpanel">
                     <div class="row justify-content-center">
                         <div class="col-6 col-md-4 col-lg-2">
                             <div class="tech-stack-item">
-                                <i class="fab fa-node-js fa-3x mb-3" style="color: #339933;"></i>
-                                <h5>Node.js</h5>
+                                <i class="fas fa-vial fa-3x mb-3" style="color: var(--color-primary);"></i>
+                                <h5>Testing</h5>
                             </div>
                         </div>
                         <div class="col-6 col-md-4 col-lg-2">
                             <div class="tech-stack-item">
-                                <i class="fab fa-microsoft fa-3x mb-3" style="color: #512bd4;"></i>
-                                <h5>.NET</h5>
+                                <i class="fas fa-shield-alt fa-3x mb-3" style="color: var(--color-primary);"></i>
+                                <h5>Security</h5>
                             </div>
                         </div>
                         <div class="col-6 col-md-4 col-lg-2">
                             <div class="tech-stack-item">
-                                <i class="fab fa-laravel fa-3x mb-3" style="color: #ff2d20;"></i>
-                                <h5>Laravel</h5>
+                                <i class="fas fa-cogs fa-3x mb-3" style="color: var(--color-primary);"></i>
+                                <h5>Optimization</h5>
                             </div>
                         </div>
                         <div class="col-6 col-md-4 col-lg-2">
                             <div class="tech-stack-item">
-                                <i class="fab fa-python fa-3x mb-3" style="color: #3776ab;"></i>
-                                <h5>Django</h5>
+                                <i class="fas fa-mobile-alt fa-3x mb-3" style="color: var(--color-primary);"></i>
+                                <h5>Compatibility</h5>
                             </div>
                         </div>
                         <div class="col-6 col-md-4 col-lg-2">
                             <div class="tech-stack-item">
-                                <i class="fab fa-java fa-3x mb-3" style="color: #ed8b00;"></i>
-                                <h5>Spring Boot</h5>
+                                <i class="fas fa-universal-access fa-3x mb-3" style="color: var(--color-primary);"></i>
+                                <h5>Accessibility</h5>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="tab-pane fade" id="databases" role="tabpanel">
+                <div class="tab-pane fade" id="deployment" role="tabpanel">
                     <div class="row justify-content-center">
                         <div class="col-6 col-md-4 col-lg-2">
                             <div class="tech-stack-item">
-                                <i class="fas fa-database fa-3x mb-3" style="color: #00758f;"></i>
-                                <h5>MySQL</h5>
+                                <i class="fas fa-rocket fa-3x mb-3" style="color: var(--color-primary);"></i>
+                                <h5>Launching</h5>
                             </div>
                         </div>
                         <div class="col-6 col-md-4 col-lg-2">
                             <div class="tech-stack-item">
-                                <i class="fas fa-database fa-3x mb-3" style="color: #336791;"></i>
-                                <h5>PostgreSQL</h5>
+                                <i class="fas fa-tools fa-3x mb-3" style="color: var(--color-primary);"></i>
+                                <h5>Maintenance</h5>
                             </div>
                         </div>
                         <div class="col-6 col-md-4 col-lg-2">
                             <div class="tech-stack-item">
-                                <i class="fas fa-leaf fa-3x mb-3" style="color: #47a248;"></i>
-                                <h5>MongoDB</h5>
+                                <i class="fas fa-chart-line fa-3x mb-3" style="color: var(--color-primary);"></i>
+                                <h5>Analytics</h5>
                             </div>
                         </div>
                         <div class="col-6 col-md-4 col-lg-2">
                             <div class="tech-stack-item">
-                                <i class="fab fa-google fa-3x mb-3" style="color: #ffca28;"></i>
-                                <h5>Firebase</h5>
+                                <i class="fas fa-expand-arrows-alt fa-3x mb-3" style="color: var(--color-primary);"></i>
+                                <h5>Scaling</h5>
                             </div>
                         </div>
                         <div class="col-6 col-md-4 col-lg-2">
                             <div class="tech-stack-item">
-                                <i class="fas fa-database fa-3x mb-3" style="color: #003b57;"></i>
-                                <h5>SQLite</h5>
+                                <i class="fas fa-sync-alt fa-3x mb-3" style="color: var(--color-primary);"></i>
+                                <h5>Redundancy</h5>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="tab-pane fade" id="cloud" role="tabpanel">
+                <div class="tab-pane fade" id="infrastructure" role="tabpanel">
                     <div class="row justify-content-center">
                         <div class="col-6 col-md-4 col-lg-2">
                             <div class="tech-stack-item">
-                                <i class="fab fa-aws fa-3x mb-3" style="color: #ff9900;"></i>
-                                <h5>AWS</h5>
+                                <i class="fas fa-server fa-3x mb-3" style="color: var(--color-primary);"></i>
+                                <h5>Hosting</h5>
                             </div>
                         </div>
                         <div class="col-6 col-md-4 col-lg-2">
                             <div class="tech-stack-item">
-                                <i class="fas fa-cloud fa-3x mb-3" style="color: #4285f4;"></i>
-                                <h5>Google Cloud</h5>
+                                <i class="fas fa-database fa-3x mb-3" style="color: var(--color-primary);"></i>
+                                <h5>Database</h5>
                             </div>
                         </div>
                         <div class="col-6 col-md-4 col-lg-2">
                             <div class="tech-stack-item">
-                                <i class="fab fa-microsoft fa-3x mb-3" style="color: #00a4ef;"></i>
-                                <h5>Microsoft Azure</h5>
+                                <i class="fas fa-tachometer-alt fa-3x mb-3" style="color: var(--color-primary);"></i>
+                                <h5>Caching</h5>
                             </div>
                         </div>
                         <div class="col-6 col-md-4 col-lg-2">
                             <div class="tech-stack-item">
-                                <i class="fab fa-docker fa-3x mb-3" style="color: #2496ed;"></i>
-                                <h5>Docker</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-cube fa-3x mb-3" style="color: #326ce5;"></i>
-                                <h5>Kubernetes</h5>
+                                <i class="fas fa-globe fa-3x mb-3" style="color: var(--color-primary);"></i>
+                                <h5>CDN</h5>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="tab-pane fade" id="integrations" role="tabpanel">
+                <div class="tab-pane fade" id="performance" role="tabpanel">
                     <div class="row justify-content-center">
                         <div class="col-6 col-md-4 col-lg-2">
                             <div class="tech-stack-item">
-                                <i class="fas fa-code fa-3x mb-3" style="color: #ff6b6b;"></i>
-                                <h5>REST</h5>
+                                <i class="fas fa-bolt fa-3x mb-3" style="color: var(--color-primary);"></i>
+                                <h5>Speed</h5>
                             </div>
                         </div>
                         <div class="col-6 col-md-4 col-lg-2">
                             <div class="tech-stack-item">
-                                <i class="fas fa-project-diagram fa-3x mb-3" style="color: #e10098;"></i>
-                                <h5>GraphQL</h5>
+                                <i class="fas fa-search fa-3x mb-3" style="color: var(--color-primary);"></i>
+                                <h5>SEO</h5>
                             </div>
                         </div>
                         <div class="col-6 col-md-4 col-lg-2">
                             <div class="tech-stack-item">
-                                <i class="fas fa-credit-card fa-3x mb-3" style="color: #635bff;"></i>
-                                <h5>Payment Gateways</h5>
+                                <i class="fas fa-desktop fa-3x mb-3" style="color: var(--color-primary);"></i>
+                                <h5>Responsiveness</h5>
                             </div>
                         </div>
                         <div class="col-6 col-md-4 col-lg-2">
                             <div class="tech-stack-item">
-                                <i class="fas fa-building fa-3x mb-3" style="color: #00a1f1;"></i>
-                                <h5>CRM & ERP Systems</h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="tab-pane fade" id="analytics" role="tabpanel">
-                    <div class="row justify-content-center">
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-vial fa-3x mb-3" style="color: #43b02a;"></i>
-                                <h5>Selenium</h5>
+                                <i class="fas fa-file-code fa-3x mb-3" style="color: var(--color-primary);"></i>
+                                <h5>Scripts</h5>
                             </div>
                         </div>
                         <div class="col-6 col-md-4 col-lg-2">
                             <div class="tech-stack-item">
-                                <i class="fas fa-mobile-alt fa-3x mb-3" style="color: #5c6bc0;"></i>
-                                <h5>Appium</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-tachometer-alt fa-3x mb-3" style="color: #d22128;"></i>
-                                <h5>JMeter</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-google fa-3x mb-3" style="color: #f4b400;"></i>
-                                <h5>Google Analytics</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-exclamation-triangle fa-3x mb-3" style="color: #ff6f00;"></i>
-                                <h5>Firebase Crashlytics</h5>
+                                <i class="fas fa-clipboard-check fa-3x mb-3" style="color: var(--color-primary);"></i>
+                                <h5>Auditing</h5>
                             </div>
                         </div>
                     </div>
@@ -1323,12 +1320,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        How long does it take to develop a mobile app?
+                                        How long does it take to develop a custom website?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Typically, a mobile app takes 2-4 months depending on complexity, features, and platform (iOS, Android, or both).
+                                        Typically, a custom website takes 4–12 weeks depending on complexity, pages, features, and integrations. Simple business sites can launch in 4–6 weeks; enterprise or e-commerce sites may take 8–12 weeks.
                                     </div>
                                 </div>
                             </div>
@@ -1337,12 +1334,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        What's the average cost of app development?
+                                        What's the average cost of custom website development?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        App development costs vary based on features and complexity. Basic apps start around ₹50,000, while enterprise apps can range from ₹3,00,000 to ₹10,00,000+.
+                                        Custom website development costs vary based on scope and features. Basic business websites start around ₹50,000; corporate or e-commerce sites typically range from ₹1,00,000 to ₹5,00,000+ depending on your requirements.
                                     </div>
                                 </div>
                             </div>
@@ -1351,12 +1348,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Do you develop for both iOS and Android?
+                                        Do you build responsive and mobile-friendly websites?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we develop native apps for both platforms and also offer cross-platform solutions using React Native and Flutter for cost-effective development.
+                                        Yes. Every custom website we build is fully responsive and optimized for desktops, tablets, and mobile devices, ensuring a consistent user experience and better SEO across all devices.
                                     </div>
                                 </div>
                             </div>
@@ -1365,12 +1362,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Will you help with app store submission?
+                                        Will you handle hosting and deployment?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Absolutely. We handle the complete app store submission process for both Google Play Store and Apple App Store, including all required documentation and compliance.
+                                        Yes. We assist with hosting setup, domain configuration, SSL, and deployment. We also offer ongoing maintenance and support to keep your site secure, updated, and performing well.
                                     </div>
                                 </div>
                             </div>
@@ -1384,7 +1381,7 @@
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we offer comprehensive post-launch support including bug fixes, updates, feature enhancements, and maintenance to keep your app running smoothly.
+                                        Yes. We offer 24/7 website maintenance, security patches, content updates, and technical support so your site stays secure, fast, and aligned with your business needs.
                                     </div>
                                 </div>
                             </div>
