@@ -21,21 +21,12 @@
     </script>
     <!-- End Google Tag Manager -->
 
-    <!-- ========== Meta Tags ========== -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Boost customer engagement with expert WhatsApp Marketing & Automation services. Leverage official WhatsApp APIs for seamless messaging, automated workflows, and high-converting campaigns to grow your business.">
-    <meta name="keywords" content="WhatsApp Marketing, WhatsApp Automation, WhatsApp Business API, Chatbot Automation, WhatsApp Ads, Customer Engagement, WhatsApp Campaigns, WhatsApp Broadcasting, Conversational Marketing">
-    <title>Best WhatsApp Marketing & Automation Services |WhatsApp Business</title>
-
-
-
-
-    <!-- ========== Favicon Icon ========== -->
+    <meta name="description" content="Boost engagement with WhatsApp automation and WhatsApp marketing automation. ITD GrowthLabs offers scalable WhatsApp automation solutions for customer support, lead generation, and business growth.">
+    <title>WhatsApp Automation Services | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
-
-    <!-- ========== Start Stylesheet ========== -->
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
     <link href="../assets/css/themify-icons.css" rel="stylesheet">
@@ -48,25 +39,8 @@
     <link href="../assets/css/helper.css" rel="stylesheet">
     <link href="../assets/css/unit-test.css" rel="stylesheet">
     <link href="../assets/css/style.css" rel="stylesheet">
-    <link href="style.css" rel="stylesheet">
+    <script src="https://www.google.com/recaptcha/api.js?render=6Lcm0hosAAAAAPFeuKRDfgGF4Ajr9bcCCbD7LR-3"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <!-- ========== End Stylesheet ========== -->
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZR348BRLFX"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-        gtag('config', 'G-ZR348BRLFX');
-    </script>
-    <!--[if lte IE 9]>
-        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-    <![endif]-->
-
-    <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17674012925"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -75,10 +49,573 @@
             dataLayer.push(arguments);
         }
         gtag('js', new Date());
-
         gtag('config', 'AW-17674012925');
     </script>
+    <script>
+        gtag('config', 'AW-17674012925/L6w9CJf84rIbEP2R0OtB', {
+            'phone_conversion_number': '84509 78544'
+        });
+    </script>
+    <style>
+        #showMessage,
+        #showMessage_wdd {
+            display: none;
+            margin-top: 15px;
+            font-weight: bold;
+            transition: opacity 0.5s;
+        }
 
+        .success_msg {
+            color: green;
+        }
+
+        .error_msg {
+            color: red;
+        }
+
+        .services-style-one {
+            height: 100%;
+        }
+
+        .services-style-one i {
+            color: var(--color-primary);
+        }
+
+        .banner-style-three h2 strong::after {
+            display: none;
+        }
+
+        .icon_circle {
+            width: 80px;
+            height: 80px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            cursor: pointer;
+        }
+
+        .icon_circle:hover {
+            transform: scale(1.1);
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+        }
+
+        .icon_circle_block p {
+            font-size: 14px;
+            font-weight: 600;
+            text-transform: uppercase;
+            color: #000;
+        }
+    </style>
+    <style>
+        .form-with-profile {
+            background: #fff;
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+        }
+
+        .form-header-orange {
+            background: var(--color-primary);
+            position: relative;
+            text-align: center;
+        }
+
+        .profile-images-container {
+            position: relative;
+            margin-bottom: 10px;
+            padding-top: 5px;
+        }
+
+        .profile-main {
+            width: 60%;
+            height: auto;
+            display: block;
+            object-fit: cover;
+            margin: auto;
+        }
+
+        .fun-fact {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .fun-fact .counter {
+            justify-content: center;
+            width: 100%;
+        }
+
+        .fun-fact h4 {
+            margin-top: 10px;
+            margin-bottom: 0;
+        }
+    </style>
+
+    <style>
+        .tech-categories .nav-pills {
+            display: flex;
+        }
+
+        .tech-categories .nav-pills .nav-link {
+            background: #f5f5f5;
+            color: var(--color-heading);
+            border-radius: 30px;
+            padding: 10px 20px;
+            font-weight: 500;
+            transition: all .3s;
+            border: none
+        }
+
+        .tech-categories .nav-pills .nav-link:hover {
+            background: #e0e0e0;
+            color: #fff;
+        }
+
+        .tech-categories .nav-pills .nav-link.active {
+            background: var(--color-heading);
+            color: #fff
+        }
+
+        .tech-stack-item {
+            text-align: center;
+            padding: 30px 15px;
+            background: #fff;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
+            transition: all .3s;
+            height: 100%
+        }
+
+        .tech-stack-item:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1)
+        }
+
+        .tech-stack-item h5 {
+            margin-top: 15px;
+            font-size: 16px;
+            font-weight: 600;
+            color: var(--color-heading)
+        }
+
+        @media (max-width:767px) {
+            .tech-categories .nav-pills {
+                flex-direction: column;
+                gap: 10px
+            }
+
+            .tech-categories .nav-pills .nav-link {
+                width: 100%
+            }
+        }
+    </style>
+
+    <style>
+        .why-choose-card {
+            background: #fff;
+            border-radius: 12px;
+            padding: 35px 25px;
+            text-align: center;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
+            height: 100%;
+        }
+
+        .why-choose-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+        }
+
+        .why-choose-card .icon-wrapper {
+            width: 70px;
+            height: 70px;
+            margin: 0 auto 20px;
+            background: var(--color-primary);
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease;
+        }
+
+        .why-choose-card:hover .icon-wrapper {
+            background: var(--color-primary);
+            opacity: 0.9;
+        }
+
+        .why-choose-card .icon-wrapper i {
+            font-size: 32px;
+            color: #fff;
+        }
+
+        .why-choose-card h4 {
+            font-size: 20px;
+            font-weight: 600;
+            margin-bottom: 12px;
+            color: var(--color-heading);
+        }
+
+        .why-choose-card p {
+            color: var(--color-paragraph);
+            line-height: 1.7;
+            margin: 0;
+            font-size: 15px;
+        }
+
+        @media (max-width: 768px) {
+            .why-choose-card {
+                padding: 30px 20px;
+            }
+
+            .why-choose-card .icon-wrapper {
+                width: 60px;
+                height: 60px;
+            }
+
+            .why-choose-card .icon-wrapper i {
+                font-size: 28px;
+            }
+
+            .why-choose-card h4 {
+                font-size: 18px;
+            }
+        }
+    </style>
+    <style>
+        .process-track {
+            padding: 40px 0
+        }
+
+        .process-row {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-wrap: nowrap;
+            gap: 15px
+        }
+
+        .process-hexagon {
+            position: relative;
+            width: 180px;
+            height: 200px;
+            flex-shrink: 0
+        }
+
+        .process-hexagon::before {
+            content: '';
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background: var(--color-primary);
+            clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+            transition: all .3s
+        }
+
+        .process-hexagon:hover::before {
+            background: #000;
+            transform: scale(1.05)
+        }
+
+        .hexagon-content {
+            position: relative;
+            z-index: 1;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 20px 15px;
+            text-align: center
+        }
+
+        .step-number {
+            position: absolute;
+            top: -8px;
+            right: 10px;
+            width: 32px;
+            height: 32px;
+            background: #fff;
+            color: var(--color-primary);
+            border: 2px solid var(--color-primary);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+            font-size: 13px;
+            z-index: 2
+        }
+
+        .process-hexagon:hover .step-number {
+            background: var(--color-primary);
+            color: #fff
+        }
+
+        .hexagon-content i {
+            font-size: 36px;
+            color: #fff;
+            margin-bottom: 12px;
+            transition: all .3s
+        }
+
+        .hexagon-content h5 {
+            font-size: 18px;
+            font-weight: 700;
+            margin-bottom: 8px;
+            color: #fff;
+            text-transform: uppercase;
+            transition: all .3s
+        }
+
+        .hexagon-content p {
+            font-size: 13px;
+            color: #fff;
+            margin: 0;
+            line-height: 1.5;
+            transition: all .3s
+        }
+
+        .process-hexagon:hover .hexagon-content i,
+        .process-hexagon:hover .hexagon-content h5 {
+            color: var(--color-primary)
+        }
+
+        .process-hexagon:hover .hexagon-content p {
+            color: #fff;
+        }
+
+        .process-connector {
+            text-align: center;
+            color: var(--color-primary);
+            font-size: 24px;
+            opacity: .6;
+            flex-shrink: 0;
+            margin: 0 5px
+        }
+
+        @media (max-width:1199px) {
+            .process-hexagon {
+                width: 160px;
+                height: 180px
+            }
+
+            .hexagon-content i {
+                font-size: 32px
+            }
+
+            .hexagon-content h5 {
+                font-size: 16px
+            }
+
+            .hexagon-content p {
+                font-size: 12px
+            }
+        }
+
+        @media (max-width:991px) {
+            .process-track {
+                overflow-x: auto;
+                padding: 30px 0
+            }
+
+            .process-row {
+                min-width: 1100px;
+                justify-content: flex-start
+            }
+
+            .process-hexagon {
+                width: 150px;
+                height: 170px
+            }
+
+            .hexagon-content {
+                padding: 15px 10px
+            }
+
+            .hexagon-content i {
+                font-size: 28px;
+                margin-bottom: 10px
+            }
+
+            .hexagon-content h5 {
+                font-size: 15px
+            }
+
+            .hexagon-content p {
+                font-size: 11px
+            }
+
+            .process-connector {
+                font-size: 20px
+            }
+        }
+
+        @media (max-width:767px) {
+            .process-row {
+                min-width: 1000px
+            }
+
+            .process-hexagon {
+                width: 140px;
+                height: 160px
+            }
+
+            .hexagon-content i {
+                font-size: 24px;
+                margin-bottom: 8px
+            }
+
+            .hexagon-content h5 {
+                font-size: 14px
+            }
+
+            .hexagon-content p {
+                font-size: 10px
+            }
+
+            .process-connector {
+                font-size: 18px
+            }
+        }
+    </style>
+
+    <style>
+        .industry-carousel-wrapper {
+            position: relative;
+        }
+
+        .industry-carousel {
+            overflow: hidden;
+        }
+
+        .industry-card {
+            position: relative;
+            height: 350px;
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
+            transition: all 0.3s ease;
+        }
+
+        .industry-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        }
+
+        .industry-bg {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            opacity: 0.7;
+            filter: grayscale(30%);
+        }
+
+        .industry-overlay {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            padding: 25px;
+            z-index: 2;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .industry-overlay i {
+            font-size: 32px;
+            color: #fff;
+            filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
+        }
+
+        .industry-overlay span {
+            font-size: 20px;
+            font-weight: 600;
+            color: #fff;
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+        }
+
+        .industry-nav {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-top: 30px;
+        }
+
+        .industry-nav-prev,
+        .industry-nav-next {
+            width: 50px;
+            height: 50px;
+            background: #fff;
+            border: 2px solid var(--color-primary);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .industry-nav-prev:hover,
+        .industry-nav-next:hover {
+            background: var(--color-primary);
+            border-color: var(--color-primary);
+            transform: scale(1.1);
+        }
+
+        .industry-nav-prev i,
+        .industry-nav-next i {
+            font-size: 18px;
+            color: #333;
+        }
+
+        .industry-nav-prev:hover i,
+        .industry-nav-next:hover i {
+            color: #fff;
+        }
+
+        @media (max-width: 991px) {
+            .industry-card {
+                height: 300px;
+            }
+
+            .industry-overlay {
+                padding: 20px;
+            }
+
+            .industry-overlay i {
+                font-size: 28px;
+            }
+
+            .industry-overlay span {
+                font-size: 18px;
+            }
+        }
+
+        @media (max-width: 767px) {
+            .industry-card {
+                height: 250px;
+            }
+
+            .industry-overlay {
+                padding: 15px;
+                gap: 10px;
+            }
+
+            .industry-overlay i {
+                font-size: 24px;
+            }
+
+            .industry-overlay span {
+                font-size: 16px;
+            }
+
+            .industry-nav-prev,
+            .industry-nav-next {
+                width: 45px;
+                height: 45px;
+            }
+        }
+    </style>
 </head>
 
 <body>
@@ -86,455 +623,596 @@
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4XDB2GZ"
             height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
-    
-    <!-- Header -->
-    <!-- Start Navigation -->
+   
     <?php include("header.php") ?>
-    <!-- ============================================= -->
-    <!-- End Header -->
-    <!-- Start Banner Area 
+
+    <!-- Start Banner
     ============================================= -->
-    <div class="banner-style-three-area overflow-hidden" style="background-image: url(../assets/img/shape/banner-5.jpg); padding-bottom: 50px;">
-
-        <!-- Single Item -->
-        <div class="banner-style-three pt-150 pt-md-120 pt-xs-60">
-            <div class="container">
-                <div class="content">
-
-                    <div class="row align-center">
-                        <div class="col-xl-6 col-lg-6 pr-50 pr-md-15 pr-xs-15 mt--80 mt-md-0 mt-xs-0">
-                            <div class="information">
-                                <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
-                                    Grow your business <br> on WhatsApp
-                                </h2>
-                                <p class="wow fadeInUp" data-wow-delay="900ms" data-wow-duration="400ms">
-                                    Broadcast, Automate, Engage, and Sell – The Smartest Way to Leverage WhatsApp!
-                                </p>
-                                <ul class="list-double mt-40">
-                                    <li><strong>Broadcast Messages</strong> to reach your audience instantly</li>
-                                    <li><strong>Automate Customer Engagement</strong> with AI-powered chatbots</li>
-                                    <li><strong>Seamless Sales & Support</strong> to improve customer experience</li>
-                                </ul>
-                                <div class="button" style="margin-top: 20px;">
-                                    <a class="btn btn-theme btn-md animation" href="../contact-us.php">Get Started with WhatsApp</a>
-                                </div>
+    <div class="banner-style-three-area overflow-hidden pt-100 pb-100" style="background-image: url(../assets/img/shape/banner-3.jpg);">
+        <div class="container">
+            <div class="content">
+                <div class="row align-center">
+                    <div class="banner-style-three col-lg-7">
+                        <div class="information">
+                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                                WhatsApp Automation <span style="color: var(--color-primary);">Services</span> for Smart Business Growth
+                            </h2>
+                            <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
+                                Improve engagement with WhatsApp automation and WhatsApp marketing automation. ITD GrowthLabs delivers scalable WhatsApp automation solutions for support, leads, and growth.
+                            </p>
+                            <div class="button mt-4 mb-5">
+                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Start Automating</a>
                             </div>
                         </div>
-
-                        <div class="col-xl-6 col-lg-6 pl-60 pl-md-15 pl-xs-15">
-                            <div class="thumb">
-                                <img class="wow fadeInDown" src="../assets/img/illustration/whatsappbanner.png" alt="WhatsApp Marketing & Automation">
-                                <div class="progress-card">
-                                    <div class="icon">
-                                        <i class="flaticon-whatsapp"></i>
-                                    </div>
-                                    <div class="info">
-                                        <p>Revenue Growth</p>
-                                        <h4>+500%</h4>
-                                    </div>
+                    </div>
+                    <div class="col-tact-stye-one col-lg-5">
+                        <div class="contact-form-style-one form-with-profile wow fadeInUp p-0" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <div class="form-header-orange">
+                                <div class="profile-images-container">
+                                    <img src="../assets/img/form-profile-image.png" alt="Expert" class="profile-main" oncontextmenu="return false;" draggable="false" ondragstart="return false;">
                                 </div>
                             </div>
+                            <div class="form-content p-3">
+                                <div class="information">
+                                    <h4 class="wow fadeInUp mb-30 text-center" data-wow-delay="500ms" data-wow-duration="400ms">
+                                        <b>Get a Free Consultation</b>
+                                    </h4>
+                                </div>
+                                <form id="appDevelopmentForm">
+                                    <input type="hidden" name="username_hp">
+                                    <div class="row">
+                                        <div class="col-lg-6">
+                                            <div class="form-group">
+                                                <input type="text" name="full_name" class="form-control" placeholder="Full Name *" required>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="form-group">
+                                                <input type="email" name="email" class="form-control" placeholder="E-mail *" required>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="form-group">
+                                                <input type="text" name="phone" class="form-control" placeholder="Phone Number *" required>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="form-group">
+                                                <select name="budget" class="form-control" required>
+                                                    <option value="">Budget *</option>
+                                                    <option value="Under ₹50,000">Under ₹50,000</option>
+                                                    <option value="₹50,000 - ₹1,00,000">₹50,000 - ₹1,00,000</option>
+                                                    <option value="₹1,00,000 - ₹3,00,000">₹1,00,000 - ₹3,00,000</option>
+                                                    <option value="₹3,00,000 - ₹5,00,000">₹3,00,000 - ₹5,00,000</option>
+                                                    <option value="Above ₹5,00,000">Above ₹5,00,000</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-12">
+                                            <div class="form-group">
+                                                <textarea name="requirement" class="form-control" rows="4" placeholder="Requirement *" required></textarea>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-12">
+                                            <button type="submit" class="btn btn-primary w-100">Submit Now <i class="fas fa-arrow-up" style="margin-left: 8px;rotate: 45deg;"></i></button>
+                                        </div>
+                                    </div>
+                                    <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response-app">
+                                </form>
+                            </div>
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
-        <!-- End Single Item -->
     </div>
     <!-- End Banner -->
-    <div class="brand-style-one bg-gradient pt-3 pb-3">
-        <div class="container-fill">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="brand-carousel">
-                        <!-- Additional required wrapper -->
-                        <div class="swiper-wrapper">
-                            <!-- Single Item -->
-                            <div class="swiper-slide">
-                                <img src="../assets/img/brand/we3scs.png" alt="Image Not Found">
-                            </div>
-                            <div class="swiper-slide">
-                                <img src="../assets/img/brand/caper.png" alt="Image Not Found">
-                            </div>
-                            <!-- End Single Item -->
-                            <!-- Single Item -->
-                            <!-- End Single Item -->
-                            <!-- Single Item -->
-                            <div class="swiper-slide">
-                                <img src="../assets/img/brand/pannest.png" alt="Image Not Found">
-                            </div>
-                            <!-- End Single Item -->
-                            <!-- Single Item -->
-                            <!-- End Single Item -->
 
-                            <!-- Single Item -->
-                            <div class="swiper-slide">
-                                <img src="../assets/img/brand/hilift.png" alt="Image Not Found">
-                            </div>
-                            <!-- End Single Item -->
-
-                            <!-- Single Item -->
-                            <div class="swiper-slide">
-                                <img src="../assets/img/brand/daakiyawala.png" alt="Image Not Found">
-                            </div>
-                            <!-- End Single Item -->
-
-                            <!-- Single Item -->
-                            <div class="swiper-slide">
-                                <img src="../assets/img/brand/cariesco.png" alt="Image Not Found">
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-
-
-
-    <!-- Start Service Range  ============================================= -->
-    <div class="service-range-area default-padding bg-gray">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-6 col-lg-5">
-                    <h4 class="sub-title">What We Offer</h4>
-                    <h2 class="title mb-30">Complete WhatsApp Marketing & Automation</h2>
-                    <p>
-                        Unlock the full potential of WhatsApp with our advanced marketing and automation solutions. Enhance customer engagement, streamline workflows, and boost conversions with seamless communication tools.
-                    </p>
-                    <ul class="list-double mt-40">
-                        <li>
-                            <h5>WhatsApp Verification</h5>
-                            <p>
-                                Get the official <strong>WhatsApp Green Tick Verification</strong> to build trust and credibility for your business, ensuring seamless interactions with customers.
-                            </p>
-                        </li>
-                        <li>
-                            <h5>Personalized Campaign Dashboard</h5>
-                            <p>
-                                Manage and monitor your <strong>WhatsApp marketing campaigns</strong> with a dedicated dashboard. Track performance, automate messages, and optimize for better results.
-                            </p>
-                        </li>
-                        <li>
-                            <h5>Custom Chatbot Flow for WhatsApp Commerce</h5>
-                            <p>
-                                Build <strong>custom chatbot flows</strong> to automate customer interactions, provide instant support, and enhance sales with AI-driven WhatsApp commerce solutions.
-                            </p>
-                        </li>
-                        <li>
-                            <h5>WhatsApp Store</h5>
-                            <p>
-                                Set up a fully functional <strong>WhatsApp Store</strong> where customers can browse products, receive recommendations, and make purchases directly from WhatsApp.
-                            </p>
-                        </li>
-                    </ul>
-                </div>
-                <div class="col-lg-6 offset-lg-1 col-xl-5 offset-xl-1">
-                    <div class="seo-progress text-center">
-                        <div class="circle-progress">
-                            <div class="seo-progressbar">
-                                <div class="circle" data-percent="98">
-                                    <strong>98%</strong>
-                                </div>
-                            </div>
-                            <h4>Customer Engagement Rate</h4>
-                        </div>
-                        <div class="seo-progess-items">
-                            <div class="process-item">
-                                <h5>Increased Customer Trust</h5>
-                                <p>Boost brand credibility with <strong>WhatsApp verification</strong> and official green tick approval.</p>
-                            </div>
-                            <div class="process-item">
-                                <h5>Higher Sales & Conversions</h5>
-                                <p>Streamline the buying journey with <strong>WhatsApp Stores</strong> and AI-driven chat automation.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="button" style="margin-top: 20px;">
-                <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min">Let’s Talk</a>
-            </div>
-        </div>
-    </div>
-    <!-- End Service Range -->
-
-    <!-- Start Why Choose Us  ============================================= -->
-    <!-- <div class="choose-us-style-one-area default-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-7 choose-us-style-one">
-                    <h4 class="sub-title">Why Choose Us</h4>
-                    <h2 class="title">Your Trusted Partner for WhatsApp Marketing & Automation</h2>
-                    <div class="choose-us-thumb mt-50 mt-xs-40">
-                        <img class="wow fadeInUp" src="../assets/img/illustration/6.png" alt="Image Not Found">
-                        <img class="wow fadeInDown" src="../assets/img/illustration/7.png" alt="Image Not Found">
-                        <img class="wow fadeInRight" src="../assets/img/illustration/5.png" alt="Image Not Found">
-                    </div>
-                </div>
-                <div class="col-lg-5 pl-70 pl-md-15 pl-xs-15 choose-us-style-one">
-                    <div class="curve-text">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" version="1.1">
-                            <path id="textPath" d="M 0,75 a 75,75 0 1,1 0,1 z"></path>
-                            <text>
-                                <textPath href="#textPath">Your Partner in Growth</textPath>
-                            </text>
-                        </svg>
-                        <a href="https://www.youtube.com/watch?v=owhuBrGIOsEdsk" class="popup-youtube"><i class="fas fa-play"></i></a>
-                    </div>
-                    <ul class="feature-process mt-75 mt-xs-0">
-                        <li class="wow fadeInLeft">
-                            <div class="info">
-                                <a href="#">WhatsApp Verification & Onboarding</a>
-                                <p>
-                                    Get verified on WhatsApp quickly and securely, ensuring your business gains credibility and seamless access to WhatsApp’s powerful marketing tools.
-                                </p>
-                            </div>
-                            <div class="link">
-                                <a href="#"><i class="fas fa-long-arrow-right"></i></a>
-                            </div>
-                        </li>
-                        <li class="wow fadeInLeft" data-wow-delay="500ms">
-                            <div class="info">
-                                <a href="#">Personalized Campaign Dashboard</a>
-                                <p>
-                                    Manage and track all your WhatsApp marketing campaigns in one place. Create, schedule, and optimize messages for maximum engagement and conversions.
-                                </p>
-                            </div>
-                            <div class="link">
-                                <a href="#"><i class="fas fa-long-arrow-right"></i></a>
-                            </div>
-                        </li>
-                        <li class="wow fadeInLeft" data-wow-delay="900ms">
-                            <div class="info">
-                                <a href="#">Custom Chat Flow for WhatsApp Commerce</a>
-                                <p>
-                                    Build seamless and automated chat flows for WhatsApp commerce. Guide customers through a frictionless buying journey with AI-driven responses and smart automation.
-                                </p>
-                            </div>
-                            <div class="link">
-                                <a href="#"><i class="fas fa-long-arrow-right"></i></a>
-                            </div>
-                        </li>
-                        <li class="wow fadeInLeft" data-wow-delay="1300ms">
-                            <div class="info">
-                                <a href="#">WhatsApp Store Integration</a>
-                                <p>
-                                    Set up and manage your <strong>WhatsApp Store</strong> effortlessly, allowing customers to browse, select, and purchase products directly within WhatsApp.
-                                </p>
-                            </div>
-                            <div class="link">
-                                <a href="#"><i class="fas fa-long-arrow-right"></i></a>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!-- End Why Choose Us -->
-
-
-    <!-- Start Feature  ============================================= -->
-    <div class="feature-style-one-area default-padding-top bottom-less">
+    <!-- Start Clients/Partners
+    ============================================= -->
+    <div class="brand-style-one bg-gradient pt-3 pb-3 pt-5 pb-5">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">Why You Need WhatsApp Marketing & Automation</h5>
-                        <h2 class="title">Maximize Engagement & Conversions with Smart WhatsApp Solutions</h2>
+                        <h5 class="sub-title">Clients. Partners. Growth Stories.</h5>
+                        <h2 class="title text-white">We're Trusted By 300+ Businesses</h2>
                     </div>
                 </div>
             </div>
         </div>
-
-        <div class="container">
-            <div class="row align-center">
-                <!-- Single Item -->
-                <div class="col-lg-4 col-md-6 mb-30">
-                    <div class="feature-style-one">
-                        <div class="info">
-                            <h4>WhatsApp Verification</h4>
-                            <p>
-                                Ensure secure and seamless user verification with <strong>automated WhatsApp OTP messages</strong>, enhancing trust and reducing fraud.
-                            </p>
+        <div class="container-fill">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="brand-carousel">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <img src="../assets/img/brand/we3scs.png">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="../assets/img/brand/caper.png">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="../assets/img/brand/pannest.png">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="../assets/img/brand/hilift.png">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="../assets/img/brand/daakiyawala.png">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="../assets/img/brand/cariesco.png">
+                            </div>
                         </div>
                     </div>
                 </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-lg-4 col-md-6 mb-30">
-                    <div class="feature-style-one">
-                        <div class="info">
-                            <h4>Personalized Campaign Dashboard</h4>
-                            <p>
-                                Manage and track <strong>WhatsApp marketing campaigns</strong> with a data-driven dashboard, offering real-time insights for better ROI.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-lg-4 col-md-6 mb-30">
-                    <div class="feature-style-one">
-                        <div class="info">
-                            <h4>Customizable Chat Flow</h4>
-                            <p>
-                                Automate customer interactions with <strong>custom chat workflows</strong> for WhatsApp Commerce, enhancing the buying experience.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-lg-4 col-md-6 mb-30">
-                    <div class="feature-style-one">
-                        <div class="info">
-                            <h4>WhatsApp Store</h4>
-                            <p>
-                                Set up a <strong>WhatsApp-based store</strong> to showcase products, accept orders, and process payments seamlessly within chats.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-lg-4 col-md-6 mb-30">
-                    <div class="feature-style-one">
-                        <div class="info">
-                            <h4>Automated Customer Engagement</h4>
-                            <p>
-                                Keep customers engaged with <strong>interactive notifications</strong>, automated replies, and AI-driven messaging sequences.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-lg-4 col-md-6 mb-30">
-                    <div class="feature-style-one">
-                        <div class="info">
-                            <h4>Campaign Performance Tracking</h4>
-                            <p>
-                                Monitor campaign metrics like <strong>open rates, click-through rates, and conversions</strong> to optimize your WhatsApp marketing strategies.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Item -->
             </div>
         </div>
     </div>
-    <!-- End Feature -->
+    <!-- End Clients/Partners -->
 
-    <!-- Start Knowledge Hub 
+    <!-- Start Track Record
     ============================================= -->
-    <div class="knowledge-hub-area overflow-hidden default-padding">
+    <div class="default-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="site-heading text-center">
+                        <h5 class="sub-title">Our Track Record</h5>
+                        <h2 class="title">Creating Measurable Impact, Every Single Time</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
+                    <div class="fun-fact text-center">
+                        <div class="counter" style="color:var(--color-primary)">
+                            <span class="timer" data-to="10" data-speed="2000">10</span><span>+</span>
+                        </div>
+                        <h4>Years of Experience</h4>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
+                    <div class="fun-fact text-center">
+                        <div class="counter" style="color:var(--color-primary)">
+                            <span class="timer" data-to="100" data-speed="2000">100</span><span>+</span>
+                        </div>
+                        <h4>Tech Experts</h4>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
+                    <div class="fun-fact text-center">
+                        <div class="counter" style="color:var(--color-primary)">
+                            <span class="timer" data-to="50" data-speed="2000">50</span><span>+</span>
+                        </div>
+                        <h4>Apps Delivered</h4>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
+                    <div class="fun-fact text-center">
+                        <div class="counter" style="color:var(--color-primary)">
+                            <span class="timer" data-to="97" data-speed="2000">97</span><span>%</span>
+                        </div>
+                        <h4>Client Retention</h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Track Record -->
+
+    <!-- Start Why Choose Us
+    ============================================= -->
+    <div class="default-padding bg-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="site-heading text-center">
+                        <h5 class="sub-title">WHY CHOOSE ITD GROWTHLABS</h5>
+                        <h2 class="title">Premier WhatsApp Automation Company in India</h2>
+                        <p class="mt-30">
+                            ITD GrowthLabs is a leading WhatsApp automation company offering expert WhatsApp automation and WhatsApp marketing automation solutions for businesses globally. Our team builds scalable, user-friendly WhatsApp automation systems that improve customer engagement, response time, and deliver measurable business outcomes.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row" style="display: flex; flex-wrap: wrap;">
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="why-choose-card">
+                        <div class="icon-wrapper">
+                            <i class="fas fa-users-cog"></i>
+                        </div>
+                        <h4>Automated Lead Management</h4>
+                        <p>Streamline WhatsApp automation with smart lead capture, qualification, and nurturing workflows that improve response speed and increase conversion through WhatsApp marketing automation.</p>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="why-choose-card">
+                        <div class="icon-wrapper">
+                            <i class="fas fa-comments"></i>
+                        </div>
+                        <h4>Real-Time Customer Communication</h4>
+                        <p>Enable instant WhatsApp automation responses with intelligent chat flows, ensuring quick customer support and consistent engagement through WhatsApp marketing automation.</p>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="why-choose-card">
+                        <div class="icon-wrapper">
+                            <i class="fas fa-envelope-open-text"></i>
+                        </div>
+                        <h4>Personalized Messaging Automation</h4>
+                        <p>Deliver WhatsApp automation with customized messaging, audience segmentation, and targeted campaigns to enhance user experience and improve engagement rates.</p>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="why-choose-card">
+                        <div class="icon-wrapper">
+                            <i class="fas fa-broadcast-tower"></i>
+                        </div>
+                        <h4>Campaign Automation & Broadcasting</h4>
+                        <p>Execute WhatsApp automation campaigns with bulk messaging, broadcast scheduling, and automated follow-ups for effective WhatsApp marketing automation and outreach.</p>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="why-choose-card">
+                        <div class="icon-wrapper">
+                            <i class="fas fa-link"></i>
+                        </div>
+                        <h4>CRM & API Integration</h4>
+                        <p>Integrate WhatsApp automation with CRM systems and APIs to centralize customer data, automate workflows, and improve communication efficiency across platforms.</p>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="why-choose-card">
+                        <div class="icon-wrapper">
+                            <i class="fas fa-chart-line"></i>
+                        </div>
+                        <h4>Analytics & Performance Insights</h4>
+                        <p>Track WhatsApp automation performance with detailed analytics, engagement reports, and user insights to optimize WhatsApp marketing automation and drive better results.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="default-padding bg-white">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="site-heading text-center">
+                        <h5 class="sub-title">OUR DEVELOPMENT PROCESS</h5>
+                        <h2 class="title">From Concept to Launch</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="process-track">
+                <div class="process-row">
+                    <div class="process-hexagon">
+                        <div class="hexagon-content">
+                            <div class="step-number">01</div><i class="fas fa-search"></i>
+                            <h5>DISCOVER</h5>
+                            <p>WhatsApp automation research & planning</p>
+                        </div>
+                    </div>
+                    <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
+                    <div class="process-hexagon">
+                        <div class="hexagon-content">
+                            <div class="step-number">02</div><i class="fas fa-pencil-ruler"></i>
+                            <h5>DESIGN</h5>
+                            <p>Creative WhatsApp automation workflow design</p>
+                        </div>
+                    </div>
+                    <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
+                    <div class="process-hexagon">
+                        <div class="hexagon-content">
+                            <div class="step-number">03</div><i class="fas fa-cogs"></i>
+                            <h5>DEVELOP</h5>
+                            <p>Expert WhatsApp automation & system setup</p>
+                        </div>
+                    </div>
+                    <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
+                    <div class="process-hexagon">
+                        <div class="hexagon-content">
+                            <div class="step-number">04</div><i class="fas fa-chart-bar"></i>
+                            <h5>TEST</h5>
+                            <p>WhatsApp automation review & quality check</p>
+                        </div>
+                    </div>
+                    <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
+                    <div class="process-hexagon">
+                        <div class="hexagon-content">
+                            <div class="step-number">05</div><i class="fas fa-rocket"></i>
+                            <h5>LAUNCH</h5>
+                            <p>Smooth WhatsApp automation deployment & delivery</p>
+                        </div>
+                    </div>
+                    <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
+                    <div class="process-hexagon">
+                        <div class="hexagon-content">
+                            <div class="step-number">06</div><i class="fas fa-headset"></i>
+                            <h5>SUPPORT</h5>
+                            <p>Ongoing WhatsApp automation updates & optimization</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="default-padding box-layout overflow-hidden bottom-less services-style-one-area bg-gray bg-cover" style="background-image: url(../assets/img/shape/banner-2.jpg);">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="site-heading text-center">
+                        <h5 class="sub-title">OUR WEB DEVELOPMENT SERVICES</h5>
+                        <h2 class="title">Behind Every Successful WhatsApp Automation Project</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row" style="display: flex; flex-wrap: wrap;">
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-chart-line fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Strategic WhatsApp automation and WhatsApp marketing automation for businesses, focusing on workflow planning, audience segmentation, and structured messaging to improve engagement, conversions, and ROI.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">WhatsApp Automation Strategy</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-cogs fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Scalable WhatsApp automation services with workflow setup, chatbot configuration, user journey mapping, and platform-ready WhatsApp marketing automation for efficient communication experiences.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Automation Setup & Configuration</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-mobile-alt fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Professional WhatsApp automation ensuring WhatsApp marketing automation performs smoothly across mobile and web platforms for consistent and accessible customer communication.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Multi-Device Communication Optimization</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-stream fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Flexible WhatsApp automation with optimized messaging flows, structured sequences, and automated responses to improve engagement, retention, and communication performance.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Workflow & Message Optimization</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-robot fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Conversion-focused WhatsApp automation designed around user behavior with smart chatbots, quick replies, and interactive flows to improve engagement and user experience.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Interactive Chatbot Enhancements</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-expand-arrows-alt fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Advanced WhatsApp automation and WhatsApp marketing automation strategies including workflow updates, campaign scaling, and feature upgrades to maintain efficiency and growth.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Automation Updates & Scaling</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-chart-bar fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>High-performing WhatsApp automation with analytics, reporting tools, and engagement tracking to evaluate user behavior and improve WhatsApp marketing automation effectiveness.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Performance Tracking & Analytics</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-search fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Modern WhatsApp automation improvements for existing systems to enhance workflows, messaging clarity, engagement rates, and overall communication efficiency.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Automation Audit & Optimization</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-tools fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Reliable WhatsApp automation support with continuous updates, performance improvements, reporting, and strategy enhancements for long-term business success.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Ongoing Support & Optimization</a></h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Start Technology Stack
+    ============================================= -->
+    <!-- Start Technology Stack
+    ============================================= -->
+    <div class="default-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="site-heading text-center">
+                        <h5 class="sub-title">SMART TECH CHOICES</h5>
+                        <h2 class="title">Behind Every Successful WhatsApp Automation Project</h2>
+                        <p class="mt-30">We use proven tools and modern strategies to deliver secure and scalable WhatsApp automation and WhatsApp marketing automation solutions — built to support efficient communication, structured workflows, and measurable customer engagement outcomes for businesses.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-6 col-md-4 col-lg-2">
+                    <div class="tech-stack-item">
+                        <i class="fab fa-whatsapp fa-3x mb-3" style="color: #25D366;"></i>
+                        <h5>WhatsApp Business API</h5>
+                    </div>
+                </div>
+                <div class="col-6 col-md-4 col-lg-2">
+                    <div class="tech-stack-item">
+                        <i class="fas fa-robot fa-3x mb-3" style="color: #25D366;"></i>
+                        <h5>Chatbot Integration</h5>
+                    </div>
+                </div>
+                <div class="col-6 col-md-4 col-lg-2">
+                    <div class="tech-stack-item">
+                        <i class="fas fa-link fa-3x mb-3" style="color: #4285f4;"></i>
+                        <h5>CRM Integration</h5>
+                    </div>
+                </div>
+                <div class="col-6 col-md-4 col-lg-2">
+                    <div class="tech-stack-item">
+                        <i class="fas fa-plug fa-3x mb-3" style="color: #34a853;"></i>
+                        <h5>API Integration</h5>
+                    </div>
+                </div>
+                <div class="col-6 col-md-4 col-lg-2">
+                    <div class="tech-stack-item">
+                        <i class="fas fa-chart-pie fa-3x mb-3" style="color: #f4b400;"></i>
+                        <h5>Analytics Setup</h5>
+                    </div>
+                </div>
+                <div class="col-6 col-md-4 col-lg-2">
+                    <div class="tech-stack-item">
+                        <i class="fas fa-sliders-h fa-3x mb-3" style="color: #ea4335;"></i>
+                        <h5>A/B Testing</h5>
+                    </div>
+                </div>
+                <div class="col-6 col-md-4 col-lg-2">
+                    <div class="tech-stack-item">
+                        <i class="fas fa-tasks fa-3x mb-3" style="color: #25D366;"></i>
+                        <h5>Workflow Automation</h5>
+                    </div>
+                </div>
+                <div class="col-6 col-md-4 col-lg-2">
+                    <div class="tech-stack-item">
+                        <i class="fas fa-chart-line fa-3x mb-3" style="color: #4285f4;"></i>
+                        <h5>Performance Tracking</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Start Call to Action
+    ============================================= -->
+    <div class="default-padding bg-gradient bg-cover shadow dark" style="background-image: url(../assets/img/shape/banner-2.jpg);">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="site-heading text-center text-light mt-0">
+                        <h2 class="title text-white mb-30">Ready to Automate Your WhatsApp Communication?</h2>
+                        <p class="text-white">Work with a trusted WhatsApp automation company for scalable engagement and measurable business growth.</p>
+                        <div class="button mt-40">
+                            <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Let's Talk</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Call to Action -->
+    <div class="knowledge-hub-area overflow-hidden default-padding pb-0">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="site-heading text-center">
+                        <h5 class="sub-title">FAQ's</h5>
+                        <h2 class="title">Frequently Asked Questions</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="container">
             <div class="row">
                 <div class="col-12">
                     <div class="faq-style-one">
                         <div class="accordion" id="faqAccordion">
-                            <!-- FAQ Item 1 -->
+                            <!-- FAQ 1 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        What is WhatsApp Business?
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                        How long does it take to set up WhatsApp automation?
                                     </button>
                                 </h2>
-                                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
+                                <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p>
-                                            WhatsApp Business is a platform designed for businesses to connect with customers, offering features like automated responses, product catalogs, and marketing tools.
-                                        </p>
+                                        WhatsApp automation setup typically takes 1-3 weeks depending on complexity. Basic chatbot and workflow automation can go live quickly, while full CRM integration and custom solutions may require additional time for configuration and testing.
                                     </div>
                                 </div>
                             </div>
 
-                            <!-- FAQ Item 2 -->
+                            <!-- FAQ 2 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        How can WhatsApp marketing help businesses?
+                                        What's the cost of WhatsApp automation services?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p>
-                                            WhatsApp marketing allows businesses to engage directly with customers, send personalized offers, automate responses, and increase conversions through interactive messaging.
-                                        </p>
+                                        WhatsApp automation costs vary based on scope, chatbot complexity, integrations, and message volume. We offer transparent pricing with clear project timelines. WhatsApp Business API and message costs are separate and tailored to your usage.
                                     </div>
                                 </div>
                             </div>
 
-                            <!-- FAQ Item 3 -->
+                            <!-- FAQ 3 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        What are the best practices for WhatsApp campaigns?
+                                        Can you integrate WhatsApp automation with our CRM?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p>
-                                            To run successful WhatsApp campaigns, businesses should use targeted messaging, leverage rich media content, personalize communication, and ensure compliance with WhatsApp policies.
-                                        </p>
+                                        Yes. We integrate WhatsApp automation with popular CRM systems and APIs to centralize customer data, automate workflows, sync leads, and improve communication efficiency across platforms.
                                     </div>
                                 </div>
                             </div>
 
-                            <!-- FAQ Item 4 -->
+                            <!-- FAQ 4 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        How does automation work in WhatsApp Business?
+                                        Do you offer bulk messaging and campaign broadcasting?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p>
-                                            Automation in WhatsApp Business allows businesses to set up chatbots, automated replies, and customer segmentation to provide instant responses and streamline communication.
-                                        </p>
+                                        Yes. We deliver WhatsApp automation campaigns with bulk messaging, broadcast scheduling, audience segmentation, and automated follow-ups for effective WhatsApp marketing automation and outreach.
                                     </div>
                                 </div>
                             </div>
 
-                            <!-- FAQ Item 5 -->
+                            <!-- FAQ 5 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        How can businesses use WhatsApp for customer support?
+                                        Do you provide ongoing WhatsApp automation support?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p>
-                                            Businesses can use WhatsApp for customer support by offering real-time assistance, resolving queries through chat, and sending automated updates about orders, payments, and deliveries.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ Item 6 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingSix">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                                        What are interactive messages in WhatsApp marketing?
-                                    </button>
-                                </h2>
-                                <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            Interactive messages in WhatsApp marketing include CTA buttons, quick replies, list messages, and media-rich content that engage customers and drive actions effectively.
-                                        </p>
+                                        Yes, we offer reliable WhatsApp automation support with continuous updates, workflow improvements, performance reporting, and strategy enhancements for long-term business success.
                                     </div>
                                 </div>
                             </div>
@@ -544,112 +1222,17 @@
             </div>
         </div>
     </div>
-    <!-- End Knowledge Hub -->
+    <!-- End FAQ -->
 
+    <!-- Calendly Widget -->
+    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
 
-    <!-- Start Why You Need WhatsApp Marketing Services
-    ============================================= -->
-    <div class="about-style-three-area default-padding overflow-hidden">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 about-style-three">
-                    <div class="about-three-thumb">
-                        <img src="../assets/img/homepage5.png" alt="WhatsApp Marketing">
-
-                        <div class="experience">
-                            <h2><strong>25,000+</strong> Businesses Leveraging WhatsApp for Growth</h2>
-                        </div>
-                        <div class="animated-shape">
-                            <img src="../assets/img/shape/28.png" alt="Shape">
-                        </div>
-                    </div>
-                    <br>
-                    <div class="button" style="margin-top: 20px;text-align:center">
-                        <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min">Let’s Talk</a>
-                    </div>
-                </div>
-                <div class="col-lg-5 offset-lg-1 about-style-three">
-                    <div class="about-three-info">
-                        <h4 class="sub-title">Why You Need WhatsApp Marketing Services</h4>
-                        <h2 class="title">Increase Engagement and Conversions with Automated WhatsApp Campaigns</h2>
-                        <ul class="list-grid-four">
-                            <li><strong>Automated WhatsApp Campaigns for Customer Engagement</strong></li>
-                            <li><strong>Interactive Notifications with Rich Media and Quick Replies</strong></li>
-                            <li><strong>Abandoned Cart Recovery to Boost Sales</strong></li>
-                            <li><strong>Personalized WhatsApp Messages for Targeted Marketing</strong></li>
-                            <li><strong>Data-Driven Customer Segmentation and Retargeting</strong></li>
-                            <li><strong>Higher Customer Lifetime Value with Seamless WhatsApp Experiences</strong></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Why You Need WhatsApp Marketing Services -->
-
-    <!-- Start Contact Us 
-    ============================================= -->
-    <div class="contact-area overflow-hidden default-padding" style="background-image: url(../assets/img/shape/map.png);">
-        <div class="shape-right-bottom">
-            <img src="../assets/img/shape/18.png" alt="Shape">
-        </div>
-        <div class="container">
-            <div class="row align-center">
-                <div class="col-tact-stye-one col-lg-5">
-                    <div class="contact-style-one-info">
-                        <div class="mb-40">
-                            <h2>Contact Information</h2>
-
-                        </div>
-                        <ul class="contact-address">
-                            <li class="wow fadeInUp">
-                                <div class="content">
-                                    <h4 class="title">Location</h4>
-                                    <p>
-                                        Gundecha Onclave, Powai, Mumbai, Maharashtra 400072
-                                    </p>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp" data-wow-delay="300ms">
-                                <div class="info">
-                                    <h4 class="title">Official Email</h4>
-                                    <a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp" data-wow-delay="500ms">
-                                <div class="info">
-                                    <h4 class="title">Company Website</h4>
-                                    <a href="https://www.itdgrowthlabs.com" target="_blank">www.itdgrowthlabs.com</a>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp" data-wow-delay="700ms">
-                                <div class="info">
-                                    <h4 class="title">Company Name</h4>
-                                    <p>ITD GrowthLabs</p>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-tact-stye-one col-lg-6 offset-lg-1">
-                    <div class="contact-form-style-one">
-                        <h4 class="sub-title">Have Questions?</h4>
-                        <h2 class="title">Send us a Message</h2>
-                        <?php include("../common-form.php") ?>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Contact -->
-
-    <!-- Start Footer 
+    <!-- Start Footer
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
         <div class="container">
             <div class="f-items default-padding-bottom pt-70 pt-xs-0">
                 <div class="row">
-                    <!-- Content Services -->
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">Core Tech Services</h4>
@@ -684,7 +1267,6 @@
                             </ul>
                         </div>
                     </div>
-
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">SEO &amp; Content Writing</h4>
@@ -719,7 +1301,6 @@
                             </ul>
                         </div>
                     </div>
-
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">Content Services</h4>
@@ -744,7 +1325,6 @@
                             </ul>
                         </div>
                     </div>
-
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">Custom Solutions</h4>
@@ -786,9 +1366,6 @@
                             </ul>
                         </div>
                     </div>
-
-
-                    <!-- Video Services -->
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">Video Services</h4>
@@ -801,13 +1378,9 @@
                                 <li><a href="../services/Video-Editing.php">Video Editing</a></li>
                                 <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
                                 <li><a href="../services/Onboarding-Videos.php">Onboarding Videos</a></li>
-
                             </ul>
                         </div>
                     </div>
-
-
-                    <!-- Industries We Serve & WhatsApp Marketing -->
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                         <h4 class="widget-title">WhatsApp Marketing</h4>
@@ -830,20 +1403,20 @@
                         </ul>
                     </div>
                     </div>
-                    <!-- Data Services -->
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
-                            <h4 class="widget-title">Data Services</h4>
-                            <ul>
-                                <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
-                                <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
-                                <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
-                                <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
-                                <li><a href="../data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
+                        <h4 class="widget-title">Data Services</h4>
+                        <ul>
+                            <li><a href="data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
+                            <li><a href="data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
+                            <li><a href="data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
+                            <li><a href="data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
+                            <li><a href="data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
+                        </ul>
+                    </div>
 
-                            </ul>
-                        </div>
-<div class="f-item link mt-5">
+
+                    <div class="f-item link mt-5">
                         <h4 class="widget-title">Africa Digital Services</h4>
                         <ul>
                             <li><a href="africa/website-design-development.php">Website Design & Development</a></li>
@@ -853,7 +1426,6 @@
                         </ul>
                     </div>
                     </div>
-                    <!-- Data Services -->
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">Data Annotation Services</h4>
@@ -874,16 +1446,11 @@
                         </ul>
                     </div>
                     </div>
-                    <!-- Data Services -->
-
-
-
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">Resources</h4>
                             <ul>
                                 <li><a href="../resources/all-blogs.php">Blogs</a></li>
-
                             </ul>
                         </div>
                         <br>
@@ -894,28 +1461,12 @@
                             <p><i class="fa fa-globe"> </i> <a href="https://itdgrowthlabs.com/" style="color:#dedede"> Website: www.itdgrowthlabs.com </a></p>
                             <ul>
                                 <li>Gundecha Onclave, Mumbai, 400072</li>
-                                <!-- <li><a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a></li> -->
                             </ul>
                         </div>
                     </div>
-                    <!-- Contact Information -->
-                    <!-- <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                       <div class="f-item contact">
-                        <h4 class="widget-title">Contact Us</h4>
-                        <p><i class="fas fa-phone"></i> <a href="tel:+91 8450978544" style="color:#dedede">Contact No:+91 8450978544</a></p>
-                        <p><i class="fa fa-envelope"></i> <a href="mailto:info@itdgrowthlabs.com" style="color:#dedede"> Email: info@itdgrowthlabs.com </a></p>
-                        <p><i class="fa fa-globe"> </i> <a href="https://itdgrowthlabs.com/" style="color:#dedede"> Website: www.itdgrowthlabs.com </a></p>
-                        <ul>
-                            <li>Gundecha Onclave, Mumbai, 400072</li>
-                            <li><a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a></li> 
-                    </ul>
-                </div> -->
                 </div>
             </div>
         </div>
-        </div>
-
-        <!-- Footer Bottom -->
         <div class="footer-bottom bg-dark text-light text-center">
             <div class="container">
                 <div class="row">
@@ -925,11 +1476,7 @@
                 </div>
             </div>
         </div>
-        <!-- End Footer Bottom -->
     </footer>
-
-    <!-- jQuery Frameworks
-    ============================================= -->
     <script src="../assets/js/jquery-3.6.0.min.js"></script>
     <script src="../assets/js/bootstrap.bundle.min.js"></script>
     <script src="../assets/js/jquery.appear.js"></script>
@@ -942,17 +1489,68 @@
     <script src="../assets/js/circle-progress.js"></script>
     <script src="../assets/js/isotope.pkgd.min.js"></script>
     <script src="../assets/js/imagesloaded.pkgd.min.js"></script>
-    <script src="../assets/js/jquery.nice-select.min.js"></script>
+    <!-- <script src="../assets/js/jquery.nice-select.min.js"></script> -->
     <script src="../assets/js/count-to.js"></script>
     <script src="../assets/js/jquery.scrolla.min.js"></script>
     <script src="../assets/js/YTPlayer.min.js"></script>
     <script src="../assets/js/TweenMax.min.js"></script>
     <script src="../assets/js/validnavs.js"></script>
     <script src="../assets/js/main.js"></script>
-    <script src="https://www.google.com/recaptcha/api.js?render=6Lcm0hosAAAAAPFeuKRDfgGF4Ajr9bcCCbD7LR-3"></script>
+    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <script type="text/javascript">
+        window.onload = function() {
+            Calendly.initBadgeWidget({
+                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                text: 'Schedule time with me',
+                color: '#0069ff',
+                textColor: '#ffffff'
+            });
+        }
+    </script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
-    <script src="../assets/js/custom.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            toastr.options = {
+                positionClass: "toast-top-right",
+                closeButton: true,
+                progressBar: true,
+            };
+            const form = document.getElementById("appDevelopmentForm");
+            form.addEventListener("submit", function(e) {
+                e.preventDefault();
+                grecaptcha.ready(function() {
+                    grecaptcha.execute('6Lcm0hosAAAAAPFeuKRDfgGF4Ajr9bcCCbD7LR-3', {
+                        action: 'app_development_form'
+                    }).then(function(token) {
+                        document.getElementById('g-recaptcha-response-app').value = token;
+
+                        const formData = new FormData(form);
+                        fetch("../appDevelopmentFormMail.php", {
+                                method: "POST",
+                                body: formData,
+                            })
+                            .then((res) => res.json())
+                            .then((data) => {
+                                if (data.status === "success") {
+                                    toastr.success("Your enquiry has been sent successfully!");
+                                    form.reset();
+                                    setTimeout(() => {
+                                        window.location.href = "../appDevelopmentForm_thankyou.php";
+                                    }, 1500);
+                                } else {
+                                    toastr.error(data.message || "Something went wrong!");
+                                }
+                            })
+                            .catch((err) => {
+                                toastr.error("Network error!");
+                            });
+                    });
+                });
+            });
+        });
+    </script>
 
 </body>
 
