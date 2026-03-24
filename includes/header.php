@@ -62,7 +62,7 @@
                                            <h6 class="title">Website Development</h6>
                                            <ul class="menu-col">
                                                <li><a href="services/website-development-company.php">Business Website Development</a></li>
-                                               <li><a href="services/Custom-Website-Development.php">Corporate Website Development</a></li>
+                                               <li><a href="services/coroperate_business.php">Corporate Website Development</a></li>
                                                <li><a href="services/Custom-Website-Development.php">Custom Website Development</a></li>
                                                <li><a href="services/WordPress-Website-Development.php">WordPress Website Development</a></li>
                                                <li><a href="services/E-commerce-Website-Development.php">E-Commerce Website Development</a></li>
