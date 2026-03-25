@@ -59,7 +59,7 @@
 
                                        <!-- Column 1 -->
                                        <div class="col-menu col-lg-2">
-                                           <h6 class="title">Website Development</h6>
+                                           <h6 class="title"><a href="website_development.php">Website Development</a></h6>
                                            <ul class="menu-col">
                                                <li><a href="services/website-development-company.php">Business Website Development</a></li>
                                                <li><a href="services/coroperate_business.php">Corporate Website Development</a></li>
@@ -73,7 +73,7 @@
 
                                        <!-- Column 2 -->
                                        <div class="col-menu col-lg-2">
-                                           <h6 class="title">App Development</h6>
+                                           <h6 class="title"><a href="app_development.php">App Development</a></h6>
                                            <ul class="menu-col">
                                                <li><a href="services/App-Development.php">Android App Development</a></li>
                                                <li><a href="services/ios_development.php">iOS App Development</a></li>
@@ -86,7 +86,7 @@
 
                                        <!-- Column 3 -->
                                        <div class="col-menu col-lg-2">
-                                           <h6 class="title">Digital Marketing</h6>
+                                           <h6 class="title"><a href="digital_marketing.php">Digital Marketing</a></h6>
                                            <ul class="menu-col">
                                                <li><a href="services/seo-auditing-services.php">Search Engine Optimization (SEO)</a></li>
                                                <li><a href="services/local_seo_services.php">Local SEO Services</a></li>
@@ -99,7 +99,7 @@
 
                                        <!-- Column 4 -->
                                        <div class="col-menu col-lg-2">
-                                           <h6 class="title">Content & eLearning</h6>
+                                           <h6 class="title"><a href="content_marketing.php">Content & eLearning</a></h6>
                                            <ul class="menu-col">
                                                <li><a href="services/website-content-writing.php">Website Content Writing</a></li>
                                                <li><a href="services/technical-writing-services.php">Technical Content Writing</a></li>
@@ -112,7 +112,7 @@
 
                                        <!-- Column 5 -->
                                        <div class="col-menu col-lg-2">
-                                           <h6 class="title">AI & Intelligent Automation</h6>
+                                           <h6 class="title"><a href="ai_automation.php">AI & Intelligent Automation</a></h6>
                                            <ul class="menu-col">
                                                <li><a href="services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
                                                <li><a href="services/ai_chatbot.php">AI Chatbot Development</a></li>

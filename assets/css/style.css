@@ -9762,6 +9762,18 @@ header {
 	display: inline-block;
 }
 
+/* Keep mega-menu header titles styled the same when wrapped in a link */
+.megamenu-content .title a {
+	color: #1a73e8 !important;
+	text-decoration: none;
+}
+
+.megamenu-content .title a:hover,
+.megamenu-content .title a:focus {
+	color: #1a73e8 !important;
+	text-decoration: none;
+}
+
 .megamenu-content .title::after {
 	content: "";
 	position: absolute;
