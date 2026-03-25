@@ -1325,7 +1325,7 @@
                         <h2 class="title text-white mb-30">Streamline Your Logistics &amp; Supply Chain Operations</h2>
                         <p class="text-white">Improve efficiency with logistics &amp; supply chain and supply chain services. We deliver scalable logistics &amp; supply chain solutions for transportation, warehousing, distribution, and inventory management.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Streamline Now</a>
+                            <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Streamline Now</a>
                         </div>
                     </div>
                 </div>

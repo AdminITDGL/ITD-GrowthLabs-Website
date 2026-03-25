@@ -462,6 +462,36 @@
 			});
 		});
 
+		/* ==================================================
+		    CTA Redirects -> Contact Us Form
+		================================================== */
+		function getContactUsUrl() {
+			// Build absolute URL based on where this site is mounted.
+			var parts = window.location.pathname.split('/').filter(Boolean);
+			var idx = parts.lastIndexOf('GROWTHLAB_STATIC');
+			if (idx !== -1) {
+				return '/' + parts.slice(0, idx + 1).join('/') + '/contact-us.php';
+			}
+			return 'contact-us.php';
+		}
+
+		$('body').on('click', 'a', function(e) {
+			var href = ($(this).attr('href') || '').toString();
+			if (!href) return;
+
+			var isCtaCalendly = href.indexOf('https://calendly.com/itdgrowthlabs-info/30min') === 0;
+			var isCtaLpAppDev = href.indexOf('https://www.itdgrowthlabs.com/lp/app-development.php') === 0;
+
+			// Also catch URL variants (with trailing # / querystring)
+			if (!isCtaCalendly && href.indexOf('calendly.com/itdgrowthlabs-info/30min') !== -1) isCtaCalendly = true;
+			if (!isCtaLpAppDev && href.indexOf('itdgrowthlabs.com/lp/app-development.php') !== -1) isCtaLpAppDev = true;
+
+			if (isCtaCalendly || isCtaLpAppDev) {
+				e.preventDefault();
+				window.location.href = getContactUsUrl();
+			}
+		});
+
 	}); // end document ready function
 
 	/* ==================================================

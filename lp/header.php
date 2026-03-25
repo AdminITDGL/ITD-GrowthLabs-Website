@@ -164,7 +164,7 @@
                    <div class="attr-nav">
                        <ul>
                            <li class="button">
-                               <a href="https://calendly.com/itdgrowthlabs-info/30min">Book a Call</a>
+                               <a href="../contact-us.php">Book a Call</a>
                            </li>
                        </ul>
                    </div>

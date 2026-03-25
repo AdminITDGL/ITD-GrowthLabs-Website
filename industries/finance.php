@@ -1356,7 +1356,7 @@
                         <h2 class="title text-white mb-30">Ready to Build Your Finance &amp; FinTech Platform?</h2>
                         <p class="text-white">Partner with ITD GrowthLabs to streamline finance &amp; fintech operations, enhance digital banking, and accelerate measurable growth.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Let's Talk</a>
+                            <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Let's Talk</a>
                         </div>
                     </div>
                 </div>

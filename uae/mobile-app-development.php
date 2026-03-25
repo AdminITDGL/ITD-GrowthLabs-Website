@@ -784,7 +784,7 @@
                                 We design and develop high-performance Android and iOS mobile applications that help UAE businesses scale, engage users, and drive revenue.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Schedule a Meeting</a>
+                                <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Schedule a Meeting</a>
                             </div>
                         </div>
                     </div>
@@ -1502,7 +1502,7 @@
                         <p class="text-white">Partner with a trusted mobile app development company in UAE to turn your app idea into a scalable digital product.</p>
                         <p class="text-white mb-30">👉 Get a Free Mobile App Consultation</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Talk to a UAE App Expert</a>
+                            <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Talk to a UAE App Expert</a>
                         </div>
                     </div>
                 </div>
