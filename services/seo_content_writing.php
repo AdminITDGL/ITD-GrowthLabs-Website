@@ -1151,68 +1151,64 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        How long does it take to see results from SEO content?
+                                        What is SEO content writing?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        SEO content typically starts showing measurable results within 2-4 months. Search engines need time to index and rank new content. Consistent, high-quality SEO content with proper optimization can improve rankings and organic traffic steadily over 3-6 months and beyond.
+                                        SEO content writing creates web content optimized with keywords, headings, and meta tags to improve search engine visibility and rankings.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 2 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        What's included in your SEO content writing services?
+                                        Do you provide keyword research for content?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Our SEO content writing services include keyword research, topic planning, optimized content creation (blogs, articles, landing pages, website copy), meta titles and descriptions, internal linking recommendations, and content structure designed for search engines and user engagement. Pricing varies by project scope and volume.
+                                        Yes, we research and integrate high-value keywords to ensure your content ranks well and attracts targeted traffic.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 3 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Do you write for all industries and niches?
+                                        Can you write content for different industries?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. Our expert writers have experience across B2B, B2C, technology, healthcare, finance, e-commerce, and more. We conduct thorough research and adapt our writing style to your industry, audience, and brand voice for relevant, authoritative content.
+                                        Absolutely, we create SEO-optimized content for IT, e-commerce, corporate, healthcare, and more, tailored to your audience.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 4 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Do you offer ongoing content updates and optimization?
+                                        Do you create blogs and articles for SEO?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Absolutely. We offer scalable SEO content solutions including regular blog updates, content refreshes, keyword expansion, internal linking improvements, and performance tracking to maintain rankings and drive consistent organic traffic growth.
+                                        Yes, we write engaging blogs, articles, and web pages that drive traffic, build authority, and improve search rankings.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 5 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you provide content for landing pages and websites?
+                                        Will you update content for SEO performance?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We craft conversion-focused SEO content for landing pages, homepages, product pages, and service pages. Our content is optimized for search engines and designed to improve user experience, engagement, and lead generation.
+                                        Yes, we revise and optimize content regularly to maintain search rankings and adapt to evolving SEO trends.
                                     </div>
                                 </div>
                             </div>

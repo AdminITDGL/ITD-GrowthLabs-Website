@@ -1346,12 +1346,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        How long does it take to develop a custom website?
+                                        What is corporate website development?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Typically, a custom website takes 4–12 weeks depending on complexity, pages, features, and integrations. Simple business sites can launch in 4–6 weeks; enterprise or e-commerce sites may take 8–12 weeks.
+                                        It involves building professional, scalable websites that represent your brand, showcase services, and support business growth with strong UI/UX and functionality.
                                     </div>
                                 </div>
                             </div>
@@ -1360,12 +1360,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        What's the average cost of custom website development?
+                                        How do you align the website with our brand identity?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Custom website development costs vary based on scope and features. Basic business websites start around ₹50,000; corporate or e-commerce sites typically range from ₹1,00,000 to ₹5,00,000+ depending on your requirements.
+                                        We understand your goals, values, and audience to design a website that reflects your brand consistently across design, content, and user experience.
                                     </div>
                                 </div>
                             </div>
@@ -1374,12 +1374,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Do you build responsive and mobile-friendly websites?
+                                        Are corporate websites scalable for future growth?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. Every custom website we build is fully responsive and optimized for desktops, tablets, and mobile devices, ensuring a consistent user experience and better SEO across all devices.
+                                        Yes, we build scalable architectures and integrations, allowing your website to expand with new features, pages, and business needs over time.
                                     </div>
                                 </div>
                             </div>
@@ -1388,12 +1388,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Will you handle hosting and deployment?
+                                        Will the website support lead generation?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We assist with hosting setup, domain configuration, SSL, and deployment. We also offer ongoing maintenance and support to keep your site secure, updated, and performing well.
+                                        Yes, we include optimized layouts, CTAs, and forms to capture leads and improve conversions for corporate businesses.
                                     </div>
                                 </div>
                             </div>
@@ -1402,12 +1402,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you provide post-launch support and maintenance?
+                                        Do you provide ongoing maintenance and support?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We offer 24/7 website maintenance, security patches, content updates, and technical support so your site stays secure, fast, and aligned with your business needs.
+                                        Yes, we offer continuous updates, security checks, and performance monitoring to ensure your website runs smoothly post-launch.
                                     </div>
                                 </div>
                             </div>

@@ -1151,12 +1151,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        What LMS development services do you offer?
+                                        What is LMS development?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We offer comprehensive LMS development and learning management system development services including strategic planning, system architecture, custom platform development, multi-device optimization, interactive modules, platform integration, analytics and reporting, system audits, and ongoing support—all tailored to your business training needs.
+                                        LMS development creates online learning platforms to manage, deliver, and track courses for learners efficiently.
                                     </div>
                                 </div>
                             </div>
@@ -1165,12 +1165,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        Can you build a custom LMS for our business?
+                                        Do you build custom LMS platforms?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. Our expert LMS developers build custom learning management system development solutions tailored to your business goals. We create scalable platforms with structured system architecture, user workflows, interactive modules, and seamless integration with your existing tools for efficient digital learning delivery.
+                                        Yes, we design scalable, feature-rich LMS solutions tailored to your training and learning objectives.
                                     </div>
                                 </div>
                             </div>
@@ -1179,12 +1179,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Is the LMS scalable for future growth?
+                                        Can your LMS support multimedia content?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Absolutely. We deliver scalable LMS development and learning management system development for long-term growth. Our solutions include system upgrades, feature expansion, module optimization, and continuous learning improvements to support your growing training needs and user base.
+                                        Absolutely, our LMS supports videos, audio, quizzes, and interactive modules for an engaging learning experience.
                                     </div>
                                 </div>
                             </div>
@@ -1193,12 +1193,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Do you offer LMS integration with existing systems?
+                                        Is your LMS mobile-friendly?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We build LMS development systems integrated with business tools, training portals, HR systems, and third-party platforms. Our platform integration ensures improved usability, accessibility, and seamless learning delivery across your existing technology stack.
+                                        Yes, our LMS is fully responsive, allowing learners to access courses on desktops, tablets, and smartphones.
                                     </div>
                                 </div>
                             </div>
@@ -1207,12 +1207,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        How long does LMS development take?
+                                        Do you provide LMS maintenance and support?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        LMS development timelines vary based on scope, complexity, and custom requirements. We follow a structured process—Discover, Design, Develop, Test, Launch, and Support—and provide clear timelines upfront to ensure your learning management system is delivered on schedule with quality assurance at every step.
+                                        Yes, we offer updates, technical support, and system optimization to ensure smooth and secure LMS operation.
                                     </div>
                                 </div>
                             </div>

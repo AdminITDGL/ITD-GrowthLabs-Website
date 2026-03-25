@@ -1249,68 +1249,64 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        How long does it take to see results from Local SEO?
+                                        What is local SEO?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Local SEO typically shows initial results within 3-6 months, depending on competition, industry, and the current state of your online presence. Consistent efforts yield better rankings over time.
+                                        Local SEO optimizes your online presence to appear in search results for location-specific queries, driving nearby customers to your business.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 2 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        What's the average cost of Local SEO services?
+                                        Do you optimize Google My Business?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Local SEO costs vary based on location, competition, and scope. Basic packages start around ₹15,000–25,000/month, while comprehensive local SEO campaigns can range from ₹50,000 to ₹1,50,000+ per month.
+                                        Yes, we create and optimize GMB profiles with accurate info, images, and posts to improve local visibility.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 3 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Do you optimize Google My Business listings?
+                                        Can local SEO help increase foot traffic?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we specialize in Google My Business optimization, including profile setup, NAP consistency, photos, posts, reviews management, and local keyword targeting to improve your visibility in local search and Google Maps.
+                                        Absolutely, it targets nearby customers, boosting visits, calls, and local engagement for your business.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 4 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Will Local SEO work for businesses with multiple locations?
+                                        Do you handle local citations and listings?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Absolutely. We offer scalable Local SEO solutions for multi-location businesses, including location-specific pages, local citations, and geo-targeted content to help each location rank in its area.
+                                        Yes, we manage business listings, citations, and NAP consistency across directories to enhance local search rankings.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 5 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you provide ongoing Local SEO support and reporting?
+                                        How long does it take to see results in local SEO?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we offer continuous Local SEO support with content optimization, local backlinks, performance monitoring, and regular reports on rankings, traffic, and conversions to maintain and improve your local visibility.
+                                        Results often appear in 1–3 months depending on competition, location, and optimization efforts.
                                     </div>
                                 </div>
                             </div>

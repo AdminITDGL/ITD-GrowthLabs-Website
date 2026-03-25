@@ -1151,12 +1151,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        What types of technical content do you create?
+                                        What is technical content writing?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We create a wide range of technical content including user manuals, product documentation, whitepapers, case studies, technical blog posts, API documentation, how-to guides, and industry-specific articles—all tailored to your audience and SEO-optimized.
+                                        It involves creating accurate, clear, and detailed content for technology products, software, manuals, and IT solutions.
                                     </div>
                                 </div>
                             </div>
@@ -1165,12 +1165,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        How do you ensure technical accuracy in content?
+                                        Do you provide SEO-friendly technical content?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We integrate insights from subject matter experts (SMEs) and validated sources. Our writers collaborate with your technical team to ensure accurate representation of concepts, and we follow a rigorous review and quality-check process before delivery.
+                                        Yes, we write technical content optimized with keywords, headings, and meta tags to improve search visibility.
                                     </div>
                                 </div>
                             </div>
@@ -1179,12 +1179,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Is your technical content SEO-optimized?
+                                        Can you write for different tech industries?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We produce technical content with clear structure, SEO-optimized keywords, proper headings, meta descriptions, and internal linking to improve search rankings, readability, and online visibility for your business.
+                                        Absolutely, we create content for IT, software, SaaS, engineering, and other technical sectors with precise terminology.
                                     </div>
                                 </div>
                             </div>
@@ -1193,12 +1193,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Can you handle ongoing technical content needs?
+                                        Do you create manuals and product documentation?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Absolutely. We deliver scalable solutions for ongoing technical content needs, including website updates, blogs, documentation refreshes, and industry-focused articles. We also offer continuous support, SEO improvements, and content strategy enhancements.
+                                        Yes, we prepare user manuals, product guides, API documentation, and technical articles for clear understanding.
                                     </div>
                                 </div>
                             </div>
@@ -1207,12 +1207,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        How long does it take to deliver technical content?
+                                        Will you update and maintain technical content?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Project timelines vary based on scope and complexity. We provide clear timelines upfront and follow a structured process—from research and planning to drafting, review, and delivery—to ensure high-quality technical content on schedule.
+                                        Yes, we provide revisions and updates to keep technical content accurate, current, and easy to understand.
                                     </div>
                                 </div>
                             </div>

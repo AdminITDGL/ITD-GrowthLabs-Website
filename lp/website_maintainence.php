@@ -1321,12 +1321,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        How long does it take to develop a mobile app?
+                                        What is website maintenance?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Typically, a mobile app takes 2-4 months depending on complexity, features, and platform (iOS, Android, or both).
+                                        Website maintenance ensures your site runs smoothly with updates, security checks, backups, and performance optimizations.
                                     </div>
                                 </div>
                             </div>
@@ -1335,12 +1335,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        What's the average cost of app development?
+                                        How often should a website be maintained?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        App development costs vary based on features and complexity. Basic apps start around ₹50,000, while enterprise apps can range from ₹3,00,000 to ₹10,00,000+.
+                                        Regular maintenance is recommended monthly or quarterly depending on site complexity and content updates.
                                     </div>
                                 </div>
                             </div>
@@ -1349,12 +1349,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Do you develop for both iOS and Android?
+                                        Do you provide security updates?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we develop native apps for both platforms and also offer cross-platform solutions using React Native and Flutter for cost-effective development.
+                                        Yes, we perform regular security patches, monitor threats, and ensure your website is safe from vulnerabilities.
                                     </div>
                                 </div>
                             </div>
@@ -1363,12 +1363,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Will you help with app store submission?
+                                        Can you update website content and features?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Absolutely. We handle the complete app store submission process for both Google Play Store and Apple App Store, including all required documentation and compliance.
+                                        Absolutely, we manage content updates, plugin integrations, and new feature additions as needed.
                                     </div>
                                 </div>
                             </div>
@@ -1377,12 +1377,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you provide post-launch support and maintenance?
+                                        Do you offer performance monitoring?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we offer comprehensive post-launch support including bug fixes, updates, feature enhancements, and maintenance to keep your app running smoothly.
+                                        Yes, we monitor site speed, uptime, and overall performance to ensure a smooth user experience.
                                     </div>
                                 </div>
                             </div>

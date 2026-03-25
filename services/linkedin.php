@@ -1151,68 +1151,64 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        How long does it take to see results from LinkedIn Ads campaigns?
+                                        What are LinkedIn Ads?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Most LinkedIn Ads campaigns start showing measurable results within 2-4 weeks. Full optimization and ROI improvements typically take 2-3 months as we refine audience targeting, ad creatives, and bidding strategies based on performance data.
+                                        LinkedIn Ads are paid campaigns to target professionals, generating leads, engagement, and brand awareness on LinkedIn.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 2 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        What's the average cost of LinkedIn Ads management?
+                                        Do you manage LinkedIn Ads campaigns?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        LinkedIn Ads management costs vary based on campaign size, industry, and scope. We offer transparent pricing with upfront cost breakdown and detailed project timelines before starting. Ad spend is separate and tailored to your budget and goals.
+                                        Yes, we create, run, and optimize campaigns to maximize reach, clicks, and conversions for B2B businesses.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 3 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Do you optimize for B2B lead generation and conversions?
+                                        Can LinkedIn Ads generate quality leads?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We use precise audience targeting, professional ad creatives, smart bidding strategies, conversion tracking, and A/B testing to maximize engagement, lead generation, and ROI for your LinkedIn Ads campaigns.
+                                        Absolutely, LinkedIn Ads target decision-makers and professionals, driving high-quality B2B leads.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 4 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Do you offer remarketing and custom audience targeting?
+                                        Do you handle audience targeting?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Absolutely. We implement retargeting, dynamic ads, and Matched Audiences to re-engage website visitors and target high-intent B2B professionals on LinkedIn for better return on ad spend.
+                                        Yes, we target users by industry, role, company size, location, and interests to reach the right professionals.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 5 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you provide ongoing LinkedIn Ads support and optimization?
+                                        Will you track and report campaign performance?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we offer continuous LinkedIn Ads support with bid optimization, ad testing, performance monitoring, and regular reporting to maintain top campaign performance and maximize lead generation.
+                                        Yes, we provide detailed reports on impressions, clicks, leads, and ROI to optimize your LinkedIn Ads campaigns.
                                     </div>
                                 </div>
                             </div>

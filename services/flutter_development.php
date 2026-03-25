@@ -1323,12 +1323,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        How long does it take to develop a mobile app?
+                                        What is Flutter app development?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Typically, a mobile app takes 2-4 months depending on complexity, features, and platform (iOS, Android, or both).
+                                        Flutter allows building cross-platform apps for iOS and Android from a single codebase with fast performance and native-like UI/UX.
                                     </div>
                                 </div>
                             </div>
@@ -1337,12 +1337,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        What's the average cost of app development?
+                                        Do you develop custom Flutter apps?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        App development costs vary based on features and complexity. Basic apps start around ₹50,000, while enterprise apps can range from ₹3,00,000 to ₹10,00,000+.
+                                        Yes, we create tailored Flutter apps with intuitive design, smooth functionality, and secure architecture for your business needs.
                                     </div>
                                 </div>
                             </div>
@@ -1351,12 +1351,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Do you develop for both iOS and Android?
+                                        Which platforms do Flutter apps support?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we develop native apps for both platforms and also offer cross-platform solutions using React Native and Flutter for cost-effective development.
+                                        Flutter apps run on iOS, Android, and web platforms, ensuring consistent performance across devices from a single codebase.
                                     </div>
                                 </div>
                             </div>
@@ -1365,12 +1365,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Will you help with app store submission?
+                                        Can you integrate third-party APIs in Flutter apps?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Absolutely. We handle the complete app store submission process for both Google Play Store and Apple App Store, including all required documentation and compliance.
+                                        Absolutely, we integrate payments, analytics, social media, and other APIs to extend app functionality and enhance user experience.
                                     </div>
                                 </div>
                             </div>
@@ -1379,12 +1379,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you provide post-launch support and maintenance?
+                                        Do you provide testing and deployment support?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we offer comprehensive post-launch support including bug fixes, updates, feature enhancements, and maintenance to keep your app running smoothly.
+                                        Yes, we perform thorough testing and manage app deployment to App Store and Google Play, ensuring compliance and smooth launch.
                                     </div>
                                 </div>
                             </div>

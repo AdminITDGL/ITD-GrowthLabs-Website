@@ -1151,12 +1151,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        How long does it take to see results from social media marketing?
+                                        What is social media marketing?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Most social media campaigns start showing measurable engagement within 2-4 weeks. Full optimization and ROI improvements typically take 2-3 months as we refine content, targeting, and strategies based on performance data.
+                                        Social media marketing promotes your brand on platforms like Facebook, Instagram, and LinkedIn to increase engagement, awareness, and leads.
                                     </div>
                                 </div>
                             </div>
@@ -1165,12 +1165,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        What's the average cost of social media marketing services?
+                                        Do you manage social media accounts?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Social media marketing costs vary based on platforms, campaign scope, and content needs. We offer clear and transparent pricing with detailed project timelines and cost breakdown before starting.
+                                        Yes, we create content, schedule posts, run campaigns, and engage audiences to grow your social presence.
                                     </div>
                                 </div>
                             </div>
@@ -1179,12 +1179,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Which social media platforms do you manage?
+                                        Can social media marketing increase sales?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We manage Facebook, Instagram, LinkedIn, Twitter/X, and other major platforms. Our team creates platform-specific strategies and optimized content to maximize engagement and reach for your target audience.
+                                        Absolutely, targeted campaigns drive traffic, generate leads, and convert followers into customers.
                                     </div>
                                 </div>
                             </div>
@@ -1193,12 +1193,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Do you offer remarketing and audience targeting?
+                                        Do you run paid social media ads?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We implement remarketing, dynamic content, and custom audience targeting across social platforms to re-engage website visitors and target high-intent users for better return on ad spend.
+                                        Yes, we create and optimize paid campaigns on platforms like Facebook, Instagram, and LinkedIn for maximum ROI.
                                     </div>
                                 </div>
                             </div>
@@ -1207,12 +1207,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you provide ongoing campaign support and optimization?
+                                        Will you provide performance reports?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we offer continuous Social Media Marketing support with content optimization, performance monitoring, analytics reporting, and strategy improvements to maintain top campaign performance and measurable results.
+                                        Yes, we track metrics like engagement, reach, clicks, and conversions, providing clear reports to measure campaign success.
                                     </div>
                                 </div>
                             </div>

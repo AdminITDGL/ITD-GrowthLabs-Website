@@ -1151,68 +1151,68 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        What types of AI data labelling do you offer?
+                                        What is AI data labelling?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We offer comprehensive AI data labelling services across image, text, audio, and video datasets. This includes bounding box labelling, semantic segmentation, text classification, entity recognition, sentiment analysis, speech transcription, and video object tracking—all tailored to your AI model requirements.
+                                        AI data labelling tags and categorizes data so machine learning models can learn patterns and make accurate predictions.
                                     </div>
                                 </div>
                             </div>
-
+                            
                             <!-- FAQ 2 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        How do you ensure AI data labelling quality?
+                                        What types of data do you label?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We implement rigorous quality checks including multi-level review, inter-annotator agreement metrics, automated validation, and expert audits. Our structured workflows and quality assurance processes ensure high accuracy, consistency, and reliability in every dataset we deliver.
+                                        We label images, video, text, audio, and sensor data for AI/ML training and model improvement.
                                     </div>
                                 </div>
                             </div>
-
+                            
                             <!-- FAQ 3 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Can you handle large-scale AI data labelling projects?
+                                        How do you ensure labelling accuracy?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We deliver scalable AI data labelling services with bulk data handling, flexible workflows, and structured processes. Our team can scale to meet your volume requirements while maintaining quality and meeting deadlines.
+                                        We use expert annotators, quality checks, and validation to deliver precise, high‑quality labelled data.
                                     </div>
                                 </div>
                             </div>
-
+                            
                             <!-- FAQ 4 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Do you integrate with annotation tools and AI platforms?
+                                        Can you handle large data volumes?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Absolutely. We integrate AI data labelling with popular annotation tools and AI platforms to streamline workflows. We work with your preferred tools or recommend industry-standard solutions to ensure seamless dataset delivery for model training.
+                                        Yes, we scale operations to label large datasets efficiently while maintaining quality and timelines.
                                     </div>
                                 </div>
                             </div>
-
+                            
                             <!-- FAQ 5 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        How long does a typical AI data labelling project take?
+                                        Do you provide custom labelling formats?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Project timelines depend on dataset size, complexity, and format. We provide clear timelines upfront and follow a structured process—from discovery and workflow design to labelling, quality checks, and delivery—to ensure high-quality datasets on schedule.
+                                        Absolutely, we deliver data in formats tailored to your tools, models, and project requirements.
                                     </div>
                                 </div>
                             </div>

@@ -645,63 +645,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-tact-stye-one col-lg-5">
-                        <div class="contact-form-style-one form-with-profile wow fadeInUp p-0" data-wow-delay="500ms" data-wow-duration="400ms">
-                            <div class="form-header-orange">
-                                <div class="profile-images-container">
-                                    <img src="../assets/img/form-profile-image.png" alt="Expert" class="profile-main" oncontextmenu="return false;" draggable="false" ondragstart="return false;">
-                                </div>
-                            </div>
-                            <div class="form-content p-3">
-                                <div class="information">
-                                    <h4 class="wow fadeInUp mb-30 text-center" data-wow-delay="500ms" data-wow-duration="400ms">
-                                        <b>Get a Free Consultation</b>
-                                    </h4>
-                                </div>
-                                <form id="appDevelopmentForm">
-                                    <input type="hidden" name="username_hp">
-                                    <div class="row">
-                                        <div class="col-lg-6">
-                                            <div class="form-group">
-                                                <input type="text" name="full_name" class="form-control" placeholder="Full Name *" required>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-6">
-                                            <div class="form-group">
-                                                <input type="email" name="email" class="form-control" placeholder="E-mail *" required>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-6">
-                                            <div class="form-group">
-                                                <input type="text" name="phone" class="form-control" placeholder="Phone Number *" required>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-6">
-                                            <div class="form-group">
-                                                <select name="budget" class="form-control" required>
-                                                    <option value="">Budget *</option>
-                                                    <option value="Under ₹50,000">Under ₹50,000</option>
-                                                    <option value="₹50,000 - ₹1,00,000">₹50,000 - ₹1,00,000</option>
-                                                    <option value="₹1,00,000 - ₹3,00,000">₹1,00,000 - ₹3,00,000</option>
-                                                    <option value="₹3,00,000 - ₹5,00,000">₹3,00,000 - ₹5,00,000</option>
-                                                    <option value="Above ₹5,00,000">Above ₹5,00,000</option>
-                                                </select>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-12">
-                                            <div class="form-group">
-                                                <textarea name="requirement" class="form-control" rows="4" placeholder="Requirement *" required></textarea>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-12">
-                                            <button type="submit" class="btn btn-primary w-100">Submit Now <i class="fas fa-arrow-up" style="margin-left: 8px;rotate: 45deg;"></i></button>
-                                        </div>
-                                    </div>
-                                    <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response-app">
-                                </form>
-                            </div>
-                        </div>
-                    </div>
+                    <?php include("../includes/consultation-form.php") ?>
                 </div>
             </div>
         </div>
@@ -1321,12 +1265,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        How long does it take to develop a mobile app?
+                                        Do you develop custom Android apps?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Typically, a mobile app takes 2-4 months depending on complexity, features, and platform (iOS, Android, or both).
+                                        Yes, we build tailor-made Android apps with smooth performance, intuitive UI/UX, and secure architecture for your business needs.
                                     </div>
                                 </div>
                             </div>
@@ -1335,12 +1279,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        What's the average cost of app development?
+                                        Which Android devices do you support?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        App development costs vary based on features and complexity. Basic apps start around ₹50,000, while enterprise apps can range from ₹3,00,000 to ₹10,00,000+.
+                                        We develop apps compatible with all major Android devices and OS versions for seamless performance across smartphones and tablets.
                                     </div>
                                 </div>
                             </div>
@@ -1349,12 +1293,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Do you develop for both iOS and Android?
+                                        Can you integrate third-party services?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we develop native apps for both platforms and also offer cross-platform solutions using React Native and Flutter for cost-effective development.
+                                        Absolutely, we integrate APIs, payment gateways, analytics, and other tools to enhance app functionality and user experience.
                                     </div>
                                 </div>
                             </div>
@@ -1363,12 +1307,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Will you help with app store submission?
+                                        Do you provide app testing and QA?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Absolutely. We handle the complete app store submission process for both Google Play Store and Apple App Store, including all required documentation and compliance.
+                                        Yes, every Android app undergoes thorough testing for usability, performance, security, and bug-free delivery.
                                     </div>
                                 </div>
                             </div>
@@ -1377,12 +1321,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you provide post-launch support and maintenance?
+                                        Do you assist with Google Play submission?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we offer comprehensive post-launch support including bug fixes, updates, feature enhancements, and maintenance to keep your app running smoothly.
+                                        Yes, we manage Google Play deployment, compliance checks, and ensure your app meets all Google guidelines.
                                     </div>
                                 </div>
                             </div>

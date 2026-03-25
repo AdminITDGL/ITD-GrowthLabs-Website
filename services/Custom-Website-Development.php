@@ -1318,70 +1318,140 @@
                         <div class="accordion" id="faqAccordion">
                             <!-- FAQ 1 -->
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingOne">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        How long does it take to develop a custom website?
+                                <h2 class="accordion-header" id="headingCustomOne">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseCustomOne" aria-expanded="false" aria-controls="collapseCustomOne">
+                                        What is custom website development?
                                     </button>
                                 </h2>
-                                <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
+                                <div id="collapseCustomOne" class="accordion-collapse collapse" aria-labelledby="headingCustomOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Typically, a custom website takes 4–12 weeks depending on complexity, pages, features, and integrations. Simple business sites can launch in 4–6 weeks; enterprise or e-commerce sites may take 8–12 weeks.
+                                        Custom website development means building a website from the ground up—fully tailored to your business needs, unique features, brand design, and performance goals.
                                     </div>
                                 </div>
                             </div>
 
                             <!-- FAQ 2 -->
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingTwo">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        What's the average cost of custom website development?
+                                <h2 class="accordion-header" id="headingCustomTwo">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseCustomTwo" aria-expanded="false" aria-controls="collapseCustomTwo">
+                                        Why choose a custom website over a template?
                                     </button>
                                 </h2>
-                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
+                                <div id="collapseCustomTwo" class="accordion-collapse collapse" aria-labelledby="headingCustomTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Custom website development costs vary based on scope and features. Basic business websites start around ₹50,000; corporate or e-commerce sites typically range from ₹1,00,000 to ₹5,00,000+ depending on your requirements.
+                                        Custom websites offer complete flexibility and scalability, unique design aligned with your brand, advanced features, and optimum performance—unlike templates, which may have design or functionality limitations.
                                     </div>
                                 </div>
                             </div>
 
                             <!-- FAQ 3 -->
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingThree">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Do you build responsive and mobile-friendly websites?
+                                <h2 class="accordion-header" id="headingCustomThree">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseCustomThree" aria-expanded="false" aria-controls="collapseCustomThree">
+                                        Can you build custom features for my website?
                                     </button>
                                 </h2>
-                                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
+                                <div id="collapseCustomThree" class="accordion-collapse collapse" aria-labelledby="headingCustomThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. Every custom website we build is fully responsive and optimized for desktops, tablets, and mobile devices, ensuring a consistent user experience and better SEO across all devices.
+                                        Yes, we develop tailored features, integrations, and functionalities based on your specific business requirements.
                                     </div>
                                 </div>
                             </div>
 
                             <!-- FAQ 4 -->
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingFour">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Will you handle hosting and deployment?
+                                <h2 class="accordion-header" id="headingCustomFour">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseCustomFour" aria-expanded="false" aria-controls="collapseCustomFour">
+                                        Is a custom website scalable?
                                     </button>
                                 </h2>
-                                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
+                                <div id="collapseCustomFour" class="accordion-collapse collapse" aria-labelledby="headingCustomFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We assist with hosting setup, domain configuration, SSL, and deployment. We also offer ongoing maintenance and support to keep your site secure, updated, and performing well.
+                                        Absolutely, custom websites are built to grow with your business, allowing easy upgrades, integrations, and feature expansion.
                                     </div>
                                 </div>
                             </div>
 
                             <!-- FAQ 5 -->
                             <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingFive">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                <h2 class="accordion-header" id="headingCustomFive">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseCustomFive" aria-expanded="false" aria-controls="collapseCustomFive">
+                                        Do you ensure performance and SEO in custom builds?
+                                    </button>
+                                </h2>
+                                <div id="collapseCustomFive" class="accordion-collapse collapse" aria-labelledby="headingCustomFive" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        Yes, we optimize custom websites for speed, performance, and SEO to enhance visibility and user experience.
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- FAQ 6 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingCustomSix">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseCustomSix" aria-expanded="false" aria-controls="collapseCustomSix">
+                                        How long does it take to develop a custom website?
+                                    </button>
+                                </h2>
+                                <div id="collapseCustomSix" class="accordion-collapse collapse" aria-labelledby="headingCustomSix" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        Custom website timelines depend on complexity, features, and integrations. Most projects launch in 4–12 weeks—basic sites in 4–6 weeks, complex or e-commerce sites in 8–12 weeks.
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- FAQ 7 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingCustomSeven">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseCustomSeven" aria-expanded="false" aria-controls="collapseCustomSeven">
+                                        What's the average cost of custom website development?
+                                    </button>
+                                </h2>
+                                <div id="collapseCustomSeven" class="accordion-collapse collapse" aria-labelledby="headingCustomSeven" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        Costs vary by project scope. Basic custom websites start from ₹50,000, and advanced corporate or e-commerce builds range from ₹1,00,000 to ₹5,00,000+ based on requirements.
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- FAQ 8 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingCustomEight">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseCustomEight" aria-expanded="false" aria-controls="collapseCustomEight">
+                                        Do you build responsive and mobile-friendly websites?
+                                    </button>
+                                </h2>
+                                <div id="collapseCustomEight" class="accordion-collapse collapse" aria-labelledby="headingCustomEight" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        Yes, all our custom websites are fully responsive and optimized for desktops, tablets, and mobiles to deliver a seamless experience across devices and support your SEO goals.
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- FAQ 9 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingCustomNine">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseCustomNine" aria-expanded="false" aria-controls="collapseCustomNine">
+                                        Will you handle hosting and deployment?
+                                    </button>
+                                </h2>
+                                <div id="collapseCustomNine" class="accordion-collapse collapse" aria-labelledby="headingCustomNine" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        Yes, we help with hosting setup, domain configuration, SSL, and deployment, and can provide ongoing support to keep your website secure and updated.
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- FAQ 10 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingCustomTen">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseCustomTen" aria-expanded="false" aria-controls="collapseCustomTen">
                                         Do you provide post-launch support and maintenance?
                                     </button>
                                 </h2>
-                                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
+                                <div id="collapseCustomTen" class="accordion-collapse collapse" aria-labelledby="headingCustomTen" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We offer 24/7 website maintenance, security patches, content updates, and technical support so your site stays secure, fast, and aligned with your business needs.
+                                        Yes, we offer ongoing website maintenance, security updates, content changes, and technical support to ensure your site remains aligned with evolving business needs.
                                     </div>
                                 </div>
                             </div>

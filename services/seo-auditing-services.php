@@ -1352,68 +1352,64 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        How long does it take to see SEO results?
+                                        What is SEO and why is it important?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        SEO is a long-term strategy. Initial improvements can appear in 2-3 months, while significant ranking gains typically take 4-6 months. We focus on sustainable, white-hat techniques for lasting results.
+                                        SEO improves your website’s visibility on search engines, driving organic traffic, leads, and business growth.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 2 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        What's the average cost of SEO services?
+                                        Do you offer on-page SEO services?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        SEO costs vary based on scope, competition, and goals. Monthly SEO packages typically start around ₹15,000 for small businesses, while enterprise-level campaigns can range from ₹50,000 to ₹2,00,000+ per month.
+                                        Yes, we optimize meta tags, headings, content, and URLs to enhance website rankings and relevance.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 3 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Do you offer local SEO services?
+                                        Do you provide off-page SEO?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we offer comprehensive local SEO services including Google Business Profile optimization, local keyword targeting, and location-based content to help businesses rank in local search results.
+                                        Absolutely, we handle link building, guest posting, and authority signals to boost your website’s credibility.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 4 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Do you provide technical SEO audits?
+                                        How long does SEO take to show results?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we conduct thorough technical SEO audits covering site structure, crawlability, indexing, page speed, mobile-friendliness, structured data, and security. We provide actionable recommendations for improvement.
+                                        SEO results typically appear in 3–6 months, depending on competition, website condition, and strategy implementation.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 5 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you provide ongoing SEO support and reporting?
+                                        Do you provide SEO reporting and analytics?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we provide continuous SEO support with regular performance reports, keyword tracking, backlink monitoring, content updates, and strategy adjustments to maximize your search visibility and conversions.
+                                        Yes, we provide detailed monthly reports on traffic, rankings, and performance to track your SEO progress.
                                     </div>
                                 </div>
                             </div>

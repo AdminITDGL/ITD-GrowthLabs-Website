@@ -1151,12 +1151,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        How long does it take to set up WhatsApp automation?
+                                        What is WhatsApp automation?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        WhatsApp automation setup typically takes 1-3 weeks depending on complexity. Basic chatbot and workflow automation can go live quickly, while full CRM integration and custom solutions may require additional time for configuration and testing.
+                                        WhatsApp automation uses chatbots and automated messages to manage customer interactions, sales, and support efficiently.
                                     </div>
                                 </div>
                             </div>
@@ -1165,12 +1165,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        What's the cost of WhatsApp automation services?
+                                        Can you set up automated responses?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        WhatsApp automation costs vary based on scope, chatbot complexity, integrations, and message volume. We offer transparent pricing with clear project timelines. WhatsApp Business API and message costs are separate and tailored to your usage.
+                                        Yes, we configure instant replies, FAQs, and workflows to handle customer queries and improve engagement.
                                     </div>
                                 </div>
                             </div>
@@ -1179,12 +1179,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Can you integrate WhatsApp automation with our CRM?
+                                        Does WhatsApp automation support marketing campaigns?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We integrate WhatsApp automation with popular CRM systems and APIs to centralize customer data, automate workflows, sync leads, and improve communication efficiency across platforms.
+                                        Absolutely, we schedule broadcasts, promotions, and updates to targeted audiences for lead generation and sales.
                                     </div>
                                 </div>
                             </div>
@@ -1193,12 +1193,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Do you offer bulk messaging and campaign broadcasting?
+                                        Can it integrate with CRM and other tools?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We deliver WhatsApp automation campaigns with bulk messaging, broadcast scheduling, audience segmentation, and automated follow-ups for effective WhatsApp marketing automation and outreach.
+                                        Yes, our solution integrates with CRMs, e-commerce platforms, and other systems for seamless operations.
                                     </div>
                                 </div>
                             </div>
@@ -1207,12 +1207,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you provide ongoing WhatsApp automation support?
+                                        Do you provide analytics for WhatsApp campaigns?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we offer reliable WhatsApp automation support with continuous updates, workflow improvements, performance reporting, and strategy enhancements for long-term business success.
+                                        Yes, we track message delivery, response rates, and engagement to optimize automation and campaign performance.
                                     </div>
                                 </div>
                             </div>

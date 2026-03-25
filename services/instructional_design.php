@@ -1117,72 +1117,72 @@
                 <div class="col-12">
                     <div class="faq-style-one">
                         <div class="accordion" id="faqAccordion">
-                            <!-- FAQ 1 -->
+                            <!-- New FAQ 1 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        What does instructional design include?
+                                        What is instructional design?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Our instructional design services include curriculum planning, learning objective definition, structured course design, interactive learning modules, training frameworks, and content tailored for LMS platforms—all designed to improve learner engagement and knowledge retention.
+                                        Instructional design is the process of creating effective, engaging learning experiences using structured content and learning strategies.
                                     </div>
                                 </div>
                             </div>
 
-                            <!-- FAQ 2 -->
+                            <!-- New FAQ 2 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        How do you ensure effective learning outcomes?
+                                        Do you create custom learning programs?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We use proven instructional frameworks, learner analysis, and structured modules backed by subject research. Our team designs content with clear learning objectives, interactive elements, and assessments to measure knowledge retention and course effectiveness.
+                                        Yes, we design tailored programs with clear objectives, interactive modules, and assessments for learners of all levels.
                                     </div>
                                 </div>
                             </div>
 
-                            <!-- FAQ 3 -->
+                            <!-- New FAQ 3 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Can you work with our existing learning platform?
+                                        Can you design for corporate training?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We craft structured instructional design for learning platforms and training portals including LMS integration, SCORM-compliant modules, and platform-ready content to improve course usability and learner engagement.
+                                        Absolutely, we develop training solutions for onboarding, skill development, compliance, and professional growth.
                                     </div>
                                 </div>
                             </div>
 
-                            <!-- FAQ 4 -->
+                            <!-- New FAQ 4 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Do you offer ongoing course updates?
+                                        Do you incorporate multimedia in courses?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Absolutely. We deliver scalable instructional design services for long-term growth, including course expansion, training updates, new lesson additions, and continuous learning strategy development to maintain relevance and engagement.
+                                        Yes, we use videos, audio, animations, and graphics to enhance engagement and learning retention.
                                     </div>
                                 </div>
                             </div>
 
-                            <!-- FAQ 5 -->
+                            <!-- New FAQ 5 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        How long does an instructional design project take?
+                                        Will you revise and update learning materials?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Project timelines vary based on scope, complexity, and number of modules. We provide clear timelines upfront and follow a structured process—from discovery and design to development, testing, and launch—to deliver high-quality instructional design on schedule.
+                                        Yes, we provide regular updates and revisions to ensure content remains accurate, current, and effective.
                                     </div>
                                 </div>
                             </div>

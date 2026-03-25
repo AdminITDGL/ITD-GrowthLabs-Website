@@ -1151,12 +1151,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        What CRM platforms do you support?
+                                        What is CRM automation?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We work with leading CRM platforms including Salesforce, HubSpot, Zoho CRM, Microsoft Dynamics, and others. Our team can set up, configure, and automate workflows across your preferred CRM or help you choose the best platform for your business needs.
+                                        CRM automation automates customer relationship tasks like follow-ups, lead tracking, and engagement for better efficiency and sales.
                                     </div>
                                 </div>
                             </div>
@@ -1165,12 +1165,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        How does CRM automation improve sales efficiency?
+                                        Can you automate lead management?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        CRM automation streamlines lead management, follow-ups, pipeline tracking, and customer communications. Automated workflows ensure faster responses, consistent engagement, and reduced manual tasks—helping your team focus on closing deals and building relationships.
+                                        Yes, we automate lead capture, assignment, nurturing, and follow-ups to boost conversion rates.
                                     </div>
                                 </div>
                             </div>
@@ -1179,12 +1179,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Can you integrate CRM with our existing business tools?
+                                        Does CRM automation integrate with other tools?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We integrate CRM automation with your email, marketing tools, support systems, and other business platforms. This centralizes data, automates workflows across systems, and improves operational efficiency across your organization.
+                                        Absolutely, we connect CRM with email, WhatsApp, e-commerce, and analytics tools for seamless operations.
                                     </div>
                                 </div>
                             </div>
@@ -1193,12 +1193,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Do you offer CRM audit and optimization for existing systems?
+                                        How does CRM automation improve sales?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Absolutely. We provide CRM audit and optimization services for existing systems to enhance structure, clarity, and performance. We also offer ongoing support, updates, and strategy enhancements to keep your CRM automation running at peak efficiency.
+                                        It streamlines workflows, ensures timely follow-ups, and provides insights for faster, smarter decision-making.
                                     </div>
                                 </div>
                             </div>
@@ -1207,12 +1207,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        How long does CRM automation setup take?
+                                        Do you provide analytics and reporting?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Project timelines vary based on scope, complexity, and integration requirements. We provide clear timelines upfront and follow a structured process—from discovery and design to development, testing, and deployment—to ensure your CRM automation delivers measurable results on schedule.
+                                        Yes, we track customer interactions, sales performance, and campaign results to optimize CRM processes.
                                     </div>
                                 </div>
                             </div>

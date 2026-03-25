@@ -1323,12 +1323,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        How long does it take to develop a SaaS application?
+                                        What is SaaS development?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Typically, a SaaS application takes 3-6 months depending on complexity, features, integrations, and scalability requirements.
+                                        SaaS development builds cloud-based software accessible via browsers, offering scalability, easy updates, and subscription-based usage for businesses.
                                     </div>
                                 </div>
                             </div>
@@ -1337,12 +1337,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        What's the average cost of SaaS development?
+                                        Do you develop custom SaaS solutions?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        SaaS development costs vary based on features, scalability, and integrations. Basic cloud apps start around ₹1,00,000, while enterprise SaaS solutions can range from ₹5,00,000 to ₹15,00,000+.
+                                        Yes, we create tailored SaaS applications with secure architecture, smooth performance, and features designed to meet your business needs.
                                     </div>
                                 </div>
                             </div>
@@ -1351,12 +1351,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Do you build scalable and secure cloud applications?
+                                        Are SaaS apps accessible on multiple devices?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we build SaaS applications with enterprise-grade security, scalable cloud architecture, and multi-tenant support to streamline operations and boost productivity.
+                                        Absolutely, our SaaS apps work seamlessly across desktops, tablets, and smartphones via web browsers.
                                     </div>
                                 </div>
                             </div>
@@ -1365,12 +1365,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Will you help with cloud deployment and hosting?
+                                        Can you integrate third-party APIs in SaaS apps?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Absolutely. We handle cloud deployment on AWS, Azure, or Google Cloud, along with CI/CD setup, monitoring, and infrastructure management for reliable SaaS delivery.
+                                        Yes, we integrate payment systems, analytics, CRM, and other APIs to enhance functionality and efficiency.
                                     </div>
                                 </div>
                             </div>
@@ -1379,12 +1379,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you provide post-launch SaaS support and maintenance?
+                                        Do you provide maintenance and support for SaaS apps?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we offer ongoing SaaS Development support with updates, bug fixes, feature enhancements, performance optimization, and monitoring for long-term stability.
+                                        Yes, we offer continuous updates, security monitoring, and technical support to ensure smooth SaaS operations.
                                     </div>
                                 </div>
                             </div>

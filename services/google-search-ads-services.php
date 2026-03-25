@@ -1180,68 +1180,64 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        How long does it take to see results from Google Ads PPC campaigns?
+                                        What is Google Ads (PPC)?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Most Google Ads PPC campaigns start showing measurable results within 2-4 weeks. Full optimization and ROI improvements typically take 2-3 months as we refine keyword targeting, ad copies, and bidding strategies based on performance data.
+                                        Google Ads is a pay-per-click advertising platform that drives targeted traffic to your website through paid search campaigns.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 2 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        What's the average cost of Google Ads PPC management?
+                                        Do you manage Google Ads campaigns?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Google Ads PPC management costs vary based on campaign size, industry, and scope. We offer transparent pricing with clear project timelines before starting. Ad spend is separate and tailored to your budget and goals.
+                                        Yes, we create, optimize, and manage campaigns to maximize ROI, clicks, and conversions for your business.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 3 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Do you optimize Google Ads for maximum ROI and conversions?
+                                        Can Google Ads increase sales quickly?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We use keyword targeting, optimized ad copies, smart bidding strategies, conversion tracking, and A/B testing to maximize clicks, conversions, and ROI for your Google Ads PPC campaigns.
+                                        Absolutely, Google Ads drives immediate traffic and leads by targeting users searching for your products or services.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 4 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Do you offer remarketing and retargeting for Google Ads?
+                                        Do you provide keyword research for campaigns?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Absolutely. We implement remarketing, dynamic ads, and audience targeting to re-engage website visitors and target high-intent users across the Google Display Network for better return on ad spend.
+                                        Yes, we perform in-depth keyword research to target high-intent search terms and improve campaign performance.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 5 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you provide ongoing Google Ads PPC support and optimization?
+                                        Will you track and report campaign results?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we offer continuous Google Ads support with bid optimization, ad testing, performance monitoring, and regular reporting to maintain top campaign performance and maximize conversions.
+                                        Yes, we provide regular performance reports on clicks, conversions, ROI, and campaign optimization insights.
                                     </div>
                                 </div>
                             </div>

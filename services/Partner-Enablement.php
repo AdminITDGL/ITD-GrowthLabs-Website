@@ -1358,12 +1358,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        What is AI marketing automation?
+                                        What is business process automation (BPA)?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        AI marketing automation uses artificial intelligence to streamline and automate marketing campaigns, personalize customer journeys, manage leads, and optimize engagement across channels. It helps businesses scale marketing efforts while improving efficiency and ROI.
+                                        BPA uses technology to automate repetitive tasks, streamline workflows, and improve efficiency across your business operations.
                                     </div>
                                 </div>
                             </div>
@@ -1372,12 +1372,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        How quickly can AI marketing automation be implemented?
+                                        Which processes can be automated?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Implementation timelines vary based on scope, platforms, and integrations. Basic campaign automation can go live in 2-4 weeks, while full AI-driven marketing automation with CRM integration and multi-channel workflows typically takes 4-8 weeks.
+                                        We automate sales, HR, finance, customer support, and other repetitive workflows to save time and reduce errors.
                                     </div>
                                 </div>
                             </div>
@@ -1386,12 +1386,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Do you integrate with existing CRM and marketing tools?
+                                        Can BPA integrate with existing systems?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we integrate AI marketing automation with popular CRM platforms (Salesforce, HubSpot, Zoho) and marketing tools (Mailchimp, Meta Ads, Google Ads) to centralize data, automate workflows, and improve campaign efficiency.
+                                        Yes, we integrate automation tools with your CRM, ERP, and other platforms for seamless operations.
                                     </div>
                                 </div>
                             </div>
@@ -1400,12 +1400,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        What channels does your AI marketing automation support?
+                                        How does BPA improve efficiency?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Our AI marketing automation solutions work across email, social media, web, SMS, and paid advertising. We design multi-channel workflows that ensure consistent messaging and engagement across all touchpoints.
+                                        BPA reduces manual work, minimizes errors, accelerates processes, and allows employees to focus on strategic tasks.
                                     </div>
                                 </div>
                             </div>
@@ -1414,12 +1414,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you provide analytics and performance reporting?
+                                        Do you provide analytics and monitoring?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we provide detailed analytics, campaign ROI tracking, automation reports, and user interaction insights. Our team helps you optimize AI-driven marketing automation continuously for better engagement and conversions.
+                                        Yes, we track performance, workflow efficiency, and generate reports to continuously optimize automated processes.
                                     </div>
                                 </div>
                             </div>

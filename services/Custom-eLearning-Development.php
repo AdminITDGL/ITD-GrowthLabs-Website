@@ -1180,12 +1180,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        How long does eLearning content development take?
+                                        What is eLearning content development?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Project timelines vary based on scope, complexity, and course length. Simple training modules may take 2-4 weeks, while comprehensive multi-module courses can take 2-4 months. We provide detailed timelines during the discovery phase.
+                                        It involves creating interactive, engaging, and educational digital courses for learners across web, mobile, or LMS platforms.
                                     </div>
                                 </div>
                             </div>
@@ -1194,12 +1194,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        What's included in eLearning content development services?
+                                        Do you develop custom eLearning courses?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Our services include instructional design, curriculum planning, content creation, interactive modules, assessments, multi-device optimization, and LMS integration. We tailor each project to your training goals and learner needs.
+                                        Yes, we design tailored courses with multimedia, quizzes, and interactive modules to match learning objectives and audiences.
                                     </div>
                                 </div>
                             </div>
@@ -1208,12 +1208,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Do you support existing LMS platforms?
+                                        Can you create content for corporate training?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We develop eLearning content in SCORM, xAPI, and other standards-compatible formats that work with major LMS platforms including Moodle, Canvas, Cornerstone, Docebo, and proprietary systems.
+                                        Absolutely, we develop eLearning modules for employee onboarding, skill development, compliance, and professional growth.
                                     </div>
                                 </div>
                             </div>
@@ -1222,12 +1222,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Do you offer course updates and maintenance?
+                                        Do you support multimedia integration?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Absolutely. We provide ongoing support with course updates, new module additions, content refreshes, and performance optimization to keep your training relevant and engaging over time.
+                                        Yes, we integrate videos, audio, animations, and graphics to enhance engagement and learning effectiveness.
                                     </div>
                                 </div>
                             </div>
@@ -1236,12 +1236,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        How do you ensure learner engagement and knowledge retention?
+                                        Will you update and maintain eLearning content?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We use instructional design best practices, interactive elements, assessments, microlearning approaches, and learner-focused structure. Our content is designed for diverse learning styles with clear objectives and measurable outcomes.
+                                        Yes, we provide revisions, updates, and LMS integration support to keep content accurate, current, and interactive.
                                     </div>
                                 </div>
                             </div>

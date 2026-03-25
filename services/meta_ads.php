@@ -1151,12 +1151,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        How long does it take to see results from Meta Ads campaigns?
+                                        What are Meta Ads?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Most Meta Ads campaigns start showing measurable results within 2-4 weeks. Full optimization and ROI improvements typically take 2-3 months as we refine audience targeting, ad creatives, and bidding strategies based on performance data.
+                                        Meta Ads (Facebook &amp; Instagram ads) are paid campaigns that target audiences to drive traffic, leads, and sales on social platforms.
                                     </div>
                                 </div>
                             </div>
@@ -1165,12 +1165,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        What's the average cost of Meta Ads management?
+                                        Do you manage Meta Ads campaigns?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Meta Ads management costs vary based on campaign size, industry, and scope. We offer transparent pricing with clear project timelines before starting. Ad spend is separate and tailored to your budget and goals.
+                                        Yes, we create, run, and optimize Meta Ads campaigns to maximize engagement, clicks, and conversions.
                                     </div>
                                 </div>
                             </div>
@@ -1179,12 +1179,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Do you optimize for maximum ROI and conversions?
+                                        Can Meta Ads increase brand awareness?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We use audience targeting, optimized ad creatives, smart bidding strategies, conversion tracking, and A/B testing to maximize engagement, conversions, and ROI for your Meta Ads campaigns.
+                                        Absolutely, Meta Ads help reach your target audience, boosting visibility, engagement, and brand recognition online.
                                     </div>
                                 </div>
                             </div>
@@ -1193,12 +1193,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Do you offer remarketing and audience targeting?
+                                        Do you handle audience targeting?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Absolutely. We implement remarketing, dynamic ads, and custom audience targeting to re-engage website visitors and target high-intent users across Facebook and Instagram for better return on ad spend.
+                                        Yes, we segment audiences using demographics, interests, and behavior to deliver highly targeted ads for better results.
                                     </div>
                                 </div>
                             </div>
@@ -1207,12 +1207,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you provide ongoing Meta Ads support and optimization?
+                                        Will you provide campaign performance reports?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we offer continuous Meta Ads support with bid optimization, ad testing, performance monitoring, and regular reporting to maintain top campaign performance and maximize conversions.
+                                        Yes, we track metrics like impressions, clicks, and conversions, providing detailed reports to monitor and optimize campaigns.
                                     </div>
                                 </div>
                             </div>

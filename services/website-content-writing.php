@@ -1163,68 +1163,64 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        How long does it take to create website content?
+                                        What is website content writing?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Project timelines depend on scope—single pages may take 1-2 weeks, while full website content can take 3-6 weeks. We provide detailed project timelines and milestones upfront so you know exactly when to expect delivery.
+                                        Website content writing creates engaging, informative, and SEO-friendly content to attract visitors and convert them into customers.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 2 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        Do you offer SEO-optimized website content?
+                                        Do you provide SEO-optimized content?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. Our website content writing services include keyword research, optimized meta descriptions, proper heading structure, and content tailored to improve search visibility, engagement, and conversions.
+                                        Yes, we craft content with targeted keywords, meta tags, and headings to improve search engine visibility and rankings.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 3 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        What types of website content do you create?
+                                        Can you write content for different industries?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We create compelling content for homepages, landing pages, product pages, service pages, About Us, FAQs, and blogs. Our content is designed to engage visitors, build trust, and drive conversions across your entire site.
+                                        Absolutely, we create tailored content for IT, e-commerce, corporate, startups, and other industries with relevant tone and style.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 4 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Do you work with businesses in my industry?
+                                        Do you offer blog and article writing?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We deliver industry-specific website content for B2B, B2C, tech, healthcare, e-commerce, and more. Our writers research your industry and audience to create content that resonates and converts.
+                                        Yes, we write blogs, articles, and web pages that educate, engage, and improve your website’s authority and traffic.
                                     </div>
                                 </div>
                             </div>
-
                             <!-- FAQ 5 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you provide ongoing content updates and optimization?
+                                        Will you provide content edits and updates?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We offer continuous content support including updates, SEO improvements, content refreshes, and performance reporting to maintain search rankings and keep your website content relevant.
+                                        Yes, we offer revisions, updates, and content optimization to keep your website fresh, accurate, and relevant.
                                     </div>
                                 </div>
                             </div>

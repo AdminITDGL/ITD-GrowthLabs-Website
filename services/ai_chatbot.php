@@ -1142,6 +1142,7 @@
                 </div>
             </div>
         </div>
+        
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -1156,7 +1157,7 @@
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        AI chatbot automation uses intelligent chatbots to automate customer conversations, support queries, lead capture, and follow-ups. Our AI chatbot solutions deliver instant responses, 24/7 availability, and personalized interactions to improve engagement and business growth.
+                                        AI chatbot automation uses artificial intelligence to handle customer queries, support, and sales efficiently 24/7.
                                     </div>
                                 </div>
                             </div>
@@ -1165,12 +1166,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        Can AI chatbots integrate with our CRM?
+                                        Can chatbots respond instantly to customers?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes. We integrate AI chatbot automation with popular CRM systems and APIs to centralize customer data, sync leads, and automate workflows. This ensures seamless communication and improved efficiency across your platforms.
+                                        Yes, our AI chatbots provide instant replies, resolve FAQs, and guide users for faster engagement.
                                     </div>
                                 </div>
                             </div>
@@ -1179,12 +1180,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Do your chatbots work across multiple platforms?
+                                        Can AI chatbots handle multiple channels?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Absolutely. Our AI chatbot solutions are optimized for web, mobile, WhatsApp, and other messaging platforms. We deliver consistent, scalable AI chatbot automation that performs smoothly wherever your customers engage.
+                                        Absolutely, they work on websites, WhatsApp, Messenger, and other platforms to manage customer interactions.
                                     </div>
                                 </div>
                             </div>
@@ -1193,12 +1194,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        How do you measure chatbot performance?
+                                        Do chatbots integrate with existing systems?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We use detailed analytics and engagement reports to track response times, conversion rates, user satisfaction, and conversation quality. This data helps us optimize your AI chatbot automation for better results and ROI.
+                                        Yes, we integrate AI chatbots with CRM, e-commerce, and other business tools for seamless automation.
                                     </div>
                                 </div>
                             </div>
@@ -1207,12 +1208,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        How long does it take to set up AI chatbot automation?
+                                        Will you track chatbot performance?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Project timelines depend on scope—from simple chatbots to complex multi-platform automation. We provide clear timelines and follow a structured process: research, design, development, testing, and deployment—ensuring your AI chatbot solutions go live on schedule.
+                                        Yes, we provide analytics on interactions, response times, and user engagement to optimize chatbot efficiency.
                                     </div>
                                 </div>
                             </div>

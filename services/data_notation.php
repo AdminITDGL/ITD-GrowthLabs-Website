@@ -1216,6 +1216,34 @@
                                     </div>
                                 </div>
                             </div>
+
+                            <!-- FAQ 6 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingSix">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                        Is my data secure and confidential during annotation?
+                                    </button>
+                                </h2>
+                                <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        Yes, data security and confidentiality are top priorities. We use secure infrastructure, sign NDAs, and follow strict data privacy protocols to ensure your data remains protected at every stage of the annotation process.
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- FAQ 7 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingSeven">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                                        Can you annotate data in multiple languages?
+                                    </button>
+                                </h2>
+                                <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        Absolutely! Our annotation team supports multilingual projects, enabling accurate labeling of text, audio, and video datasets in various languages to meet the needs of global AI models.
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>

@@ -1358,12 +1358,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        How long does it take to set up AI marketing automation?
+                                        What is business process automation (BPA)?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        AI marketing automation setup typically takes 2-4 weeks depending on scope. We streamline campaign configuration, workflow design, and system integration for faster time-to-value and measurable results.
+                                        BPA uses technology to automate repetitive tasks, streamline workflows, and improve efficiency across your business operations.
                                     </div>
                                 </div>
                             </div>
@@ -1372,12 +1372,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        What's the average cost of AI marketing automation services?
+                                        Which processes can be automated?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        AI marketing automation costs vary based on scope, channels, and workflows. Setup and ongoing management typically start around ₹25,000 for small businesses, with enterprise-level solutions ranging from ₹75,000 to ₹3,00,000+ depending on complexity.
+                                        We automate sales, HR, finance, customer support, and other repetitive workflows to save time and reduce errors.
                                     </div>
                                 </div>
                             </div>
@@ -1386,12 +1386,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Do you integrate AI marketing automation with CRM and marketing tools?
+                                        Can BPA integrate with existing systems?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we integrate AI marketing automation with popular CRM systems and marketing tools to centralize data, automate workflows, and improve campaign efficiency across email, social, and web channels.
+                                        Yes, we integrate automation tools with your CRM, ERP, and other platforms for seamless operations.
                                     </div>
                                 </div>
                             </div>
@@ -1400,12 +1400,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Do you provide campaign audit and optimization?
+                                        How does BPA improve efficiency?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we conduct thorough AI marketing automation audits covering campaign structure, workflows, audience segmentation, and performance. We provide actionable recommendations to enhance clarity, engagement, and ROI.
+                                        BPA reduces manual work, minimizes errors, accelerates processes, and allows employees to focus on strategic tasks.
                                     </div>
                                 </div>
                             </div>
@@ -1414,12 +1414,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you provide ongoing AI marketing automation support and reporting?
+                                        Do you provide analytics and monitoring?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we provide continuous AI marketing automation support with regular performance reports, campaign tracking, workflow optimization, and strategy enhancements to maximize engagement, conversions, and marketing outcomes.
+                                        Yes, we track performance, workflow efficiency, and generate reports to continuously optimize automated processes.
                                     </div>
                                 </div>
                             </div>
