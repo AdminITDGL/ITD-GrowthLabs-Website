@@ -24,21 +24,22 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Boost engagement with WhatsApp automation and WhatsApp marketing automation. ITD GrowthLabs offers scalable WhatsApp automation solutions for customer support, lead generation, and business growth.">
-    <title>WhatsApp Automation Services | ITD GrowthLabs</title>
-    <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
-    <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
-    <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
-    <link href="../assets/css/themify-icons.css" rel="stylesheet">
-    <link href="../assets/css/elegant-icons.css" rel="stylesheet">
-    <link href="../assets/css/flaticon-set.css" rel="stylesheet">
-    <link href="../assets/css/magnific-popup.css" rel="stylesheet">
-    <link href="../assets/css/swiper-bundle.min.css" rel="stylesheet">
-    <link href="../assets/css/animate.css" rel="stylesheet">
-    <link href="../assets/css/validnavs.css" rel="stylesheet">
-    <link href="../assets/css/helper.css" rel="stylesheet">
-    <link href="../assets/css/unit-test.css" rel="stylesheet">
-    <link href="../assets/css/style.css" rel="stylesheet">
+    <base href="../">
+    <meta name="description" content="Advanced AI & intelligent automation solutions to streamline operations and boost efficiency. Services include AI development, machine learning, process automation, chatbots, and intelligent business automation systems.">
+    <title>AI & Intelligent Automation | ITD GrowthLabs</title>
+    <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/css/font-awesome.min.css" rel="stylesheet">
+    <link href="assets/css/themify-icons.css" rel="stylesheet">
+    <link href="assets/css/elegant-icons.css" rel="stylesheet">
+    <link href="assets/css/flaticon-set.css" rel="stylesheet">
+    <link href="assets/css/magnific-popup.css" rel="stylesheet">
+    <link href="assets/css/swiper-bundle.min.css" rel="stylesheet">
+    <link href="assets/css/animate.css" rel="stylesheet">
+    <link href="assets/css/validnavs.css" rel="stylesheet">
+    <link href="assets/css/helper.css" rel="stylesheet">
+    <link href="assets/css/unit-test.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
     <script src="https://www.google.com/recaptcha/api.js?render=6Lcm0hosAAAAAPFeuKRDfgGF4Ajr9bcCCbD7LR-3"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17674012925"></script>
@@ -624,35 +625,28 @@
             height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
    
-    <?php include("header.php") ?>
+    <?php include(__DIR__ . "/../includes/header.php"); ?>
 
     <!-- Start Banner
     ============================================= -->
-    <div class="banner-style-three-area overflow-hidden pt-100 pb-100" style="background-image: url(../assets/img/shape/banner-3.jpg);">
+    <div class="banner-style-three-area overflow-hidden pt-100 pb-100" style="background-image: url(assets/img/shape/banner-3.jpg);">
         <div class="container">
             <div class="content">
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
                             <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
-                                WhatsApp Automation <span style="color: var(--color-primary);">Services</span> for Smart Business Growth
+                                Custom <span style="color: var(--color-primary);">AI & Intelligent Automation</span> Solutions for Growing Businesses
                             </h2>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
-                                Improve engagement with WhatsApp automation and WhatsApp marketing automation. ITD GrowthLabs delivers scalable WhatsApp automation solutions for support, leads, and growth.
+                                Partner with ITD GrowthLabs for AI and automation services that deliver smart workflows, process optimization, and measurable business impact. Our approach ensures intelligent systems, seamless integration, and scalable automation.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Start Automating</a>
+                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php#" target="_blank">Let’s Automate Your Business</a>
                             </div>
                         </div>
                     </div>
-                    <div class="col-tact-stye-one col-lg-5">
-                        <div class="contact-form-style-one form-with-profile wow fadeInUp p-0" data-wow-delay="500ms" data-wow-duration="400ms">
-                            <div class="form-header-orange">
-                                <div class="profile-images-container">
-                                    <img src="../assets/img/form-profile-image.png" alt="Expert" class="profile-main" oncontextmenu="return false;" draggable="false" ondragstart="return false;">
-                                </div>
-                            </div>
-                            <div class="form-content p-3">
+                    <div class="form-content p-3">
                                 <div class="information">
                                     <h4 class="wow fadeInUp mb-30 text-center" data-wow-delay="500ms" data-wow-duration="400ms" style="visibility: visible; animation-duration: 400ms; animation-delay: 500ms; animation-name: fadeInUp;">
                                         <b>Get a Free Consultation</b>
@@ -703,8 +697,6 @@
                                     </div>
                                 </form>
                             </div>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
@@ -730,22 +722,22 @@
                     <div class="brand-carousel">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
-                                <img src="../assets/img/brand/we3scs.png">
+                                <img src="assets/img/brand/we3scs.png">
                             </div>
                             <div class="swiper-slide">
-                                <img src="../assets/img/brand/caper.png">
+                                <img src="assets/img/brand/caper.png">
                             </div>
                             <div class="swiper-slide">
-                                <img src="../assets/img/brand/pannest.png">
+                                <img src="assets/img/brand/pannest.png">
                             </div>
                             <div class="swiper-slide">
-                                <img src="../assets/img/brand/hilift.png">
+                                <img src="assets/img/brand/hilift.png">
                             </div>
                             <div class="swiper-slide">
-                                <img src="../assets/img/brand/daakiyawala.png">
+                                <img src="assets/img/brand/daakiyawala.png">
                             </div>
                             <div class="swiper-slide">
-                                <img src="../assets/img/brand/cariesco.png">
+                                <img src="assets/img/brand/cariesco.png">
                             </div>
                         </div>
                     </div>
@@ -781,7 +773,7 @@
                         <div class="counter" style="color:var(--color-primary)">
                             <span class="timer" data-to="100" data-speed="2000">100</span><span>+</span>
                         </div>
-                        <h4>Tech Experts</h4>
+                        <h4>Website Experts</h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
@@ -789,7 +781,7 @@
                         <div class="counter" style="color:var(--color-primary)">
                             <span class="timer" data-to="50" data-speed="2000">50</span><span>+</span>
                         </div>
-                        <h4>Apps Delivered</h4>
+                        <h4>Websites Delivered</h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
@@ -812,10 +804,10 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">WHY CHOOSE ITD GROWTHLABS</h5>
-                        <h2 class="title">Premier WhatsApp Automation Company in India</h2>
+                        <h5 class="sub-title">WHY CHOOSE ITD GrowthLabs</h5>
+                        <h2 class="title">Trusted AI & Intelligent Automation Company in India</h2>
                         <p class="mt-30">
-                            ITD GrowthLabs is a leading WhatsApp automation company offering expert WhatsApp automation and WhatsApp marketing automation solutions for businesses globally. Our team builds scalable, user-friendly WhatsApp automation systems that improve customer engagement, response time, and deliver measurable business outcomes.
+                            ITD GrowthLabs delivers smart AI and automation solutions for startups, SMEs, and enterprises to optimize processes and increase efficiency.
                         </p>
                     </div>
                 </div>
@@ -824,46 +816,46 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-users-cog"></i>
+                            <i class="fas fa-cogs"></i>
                         </div>
-                        <h4>Automated Lead Management</h4>
-                        <p>Streamline WhatsApp automation with smart lead capture, qualification, and nurturing workflows that improve response speed and increase conversion through WhatsApp marketing automation.</p>
+                        <h4>AI Workflow Development</h4>
+                        <p>AI-powered workflows to automate processes, boost efficiency, and reduce manual effort.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-comments"></i>
+                            <i class="fas fa-robot"></i>
                         </div>
-                        <h4>Real-Time Customer Communication</h4>
-                        <p>Enable instant WhatsApp automation responses with intelligent chat flows, ensuring quick customer support and consistent engagement through WhatsApp marketing automation.</p>
+                        <h4>Intelligent Automation Platforms</h4>
+                        <p>AI and RPA platforms with seamless integration, real-time monitoring, and scalability.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-envelope-open-text"></i>
+                            <i class="fas fa-brain"></i>
                         </div>
-                        <h4>Personalized Messaging Automation</h4>
-                        <p>Deliver WhatsApp automation with customized messaging, audience segmentation, and targeted campaigns to enhance user experience and improve engagement rates.</p>
+                        <h4>Machine Learning Solutions</h4>
+                        <p>ML models and algorithms to analyze data, predict outcomes, and optimize decisions.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-broadcast-tower"></i>
+                            <i class="fas fa-bolt"></i>
                         </div>
-                        <h4>Campaign Automation & Broadcasting</h4>
-                        <p>Execute WhatsApp automation campaigns with bulk messaging, broadcast scheduling, and automated follow-ups for effective WhatsApp marketing automation and outreach.</p>
+                        <h4>Process Automation & Optimization</h4>
+                        <p>AI-driven automation with predictive analytics and smart task management.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-link"></i>
+                            <i class="fas fa-plug"></i>
                         </div>
-                        <h4>CRM & API Integration</h4>
-                        <p>Integrate WhatsApp automation with CRM systems and APIs to centralize customer data, automate workflows, and improve communication efficiency across platforms.</p>
+                        <h4>AI & RPA Integration</h4>
+                        <p>Integration of AI and RPA with ERP, CRM, and business systems.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -871,8 +863,8 @@
                         <div class="icon-wrapper">
                             <i class="fas fa-chart-line"></i>
                         </div>
-                        <h4>Analytics & Performance Insights</h4>
-                        <p>Track WhatsApp automation performance with detailed analytics, engagement reports, and user insights to optimize WhatsApp marketing automation and drive better results.</p>
+                        <h4>AI-Powered Analytics & Insights</h4>
+                        <p>Advanced analytics, dashboards, and reporting for data-driven strategies.</p>
                     </div>
                 </div>
             </div>
@@ -893,61 +885,61 @@
                     <div class="process-hexagon">
                         <div class="hexagon-content">
                             <div class="step-number">01</div><i class="fas fa-search"></i>
-                            <h5>DISCOVER</h5>
-                            <p>WhatsApp automation research & planning</p>
+                                    <h5>DISCOVER</h5>
+                                    <p>Research</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
                     <div class="process-hexagon">
                         <div class="hexagon-content">
                             <div class="step-number">02</div><i class="fas fa-pencil-ruler"></i>
-                            <h5>DESIGN</h5>
-                            <p>Creative WhatsApp automation workflow design</p>
+                                    <h5>DESIGN</h5>
+                                    <p>Strategy</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
                     <div class="process-hexagon">
                         <div class="hexagon-content">
-                            <div class="step-number">03</div><i class="fas fa-cogs"></i>
-                            <h5>DEVELOP</h5>
-                            <p>Expert WhatsApp automation & system setup</p>
+                            <div class="step-number">03</div><i class="fas fa-code"></i>
+                                    <h5>DEVELOP</h5>
+                                    <p>Build</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
                     <div class="process-hexagon">
                         <div class="hexagon-content">
-                            <div class="step-number">04</div><i class="fas fa-chart-bar"></i>
-                            <h5>TEST</h5>
-                            <p>WhatsApp automation review & quality check</p>
+                            <div class="step-number">04</div><i class="fas fa-bug"></i>
+                                    <h5>TEST</h5>
+                                    <p>Validate</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
                     <div class="process-hexagon">
                         <div class="hexagon-content">
                             <div class="step-number">05</div><i class="fas fa-rocket"></i>
-                            <h5>LAUNCH</h5>
-                            <p>Smooth WhatsApp automation deployment & delivery</p>
+                                    <h5>LAUNCH</h5>
+                                    <p>Deploy</p>
                         </div>
                     </div>
                     <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
                     <div class="process-hexagon">
                         <div class="hexagon-content">
                             <div class="step-number">06</div><i class="fas fa-headset"></i>
-                            <h5>SUPPORT</h5>
-                            <p>Ongoing WhatsApp automation updates & optimization</p>
+                                    <h5>SUPPORT</h5>
+                                    <p>Monitor</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <div class="default-padding box-layout overflow-hidden bottom-less services-style-one-area bg-gray bg-cover" style="background-image: url(../assets/img/shape/banner-2.jpg);">
+    <div class="default-padding box-layout overflow-hidden bottom-less services-style-one-area bg-gray bg-cover" style="background-image: url(assets/img/shape/banner-2.jpg);">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">OUR WEB DEVELOPMENT SERVICES</h5>
-                        <h2 class="title">Behind Every Successful WhatsApp Automation Project</h2>
+                        <h5 class="sub-title">OUR AI & INTELLIGENT AUTOMATION SERVICES</h5>
+                        <h2 class="title">Complete Custom AI & Intelligent Automation Solutions</h2>
                     </div>
                 </div>
             </div>
@@ -956,100 +948,128 @@
             <div class="row" style="display: flex; flex-wrap: wrap;">
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-chart-line fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <i class="fas fa-heartbeat fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Strategic WhatsApp automation and WhatsApp marketing automation for businesses, focusing on workflow planning, audience segmentation, and structured messaging to improve engagement, conversions, and ROI.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">WhatsApp Automation Strategy</a></h4>
+                        <p>AI for diagnostics, patient monitoring, and healthcare workflow automation.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Healthcare &amp; MedTech AI</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <i class="fas fa-shopping-cart fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Scalable WhatsApp automation services with workflow setup, chatbot configuration, user journey mapping, and platform-ready WhatsApp marketing automation for efficient communication experiences.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Automation Setup & Configuration</a></h4>
+                        <p>Personalized recommendations, demand forecasting, and sales optimization.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">E-Commerce &amp; Retail AI</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Professional WhatsApp automation ensuring WhatsApp marketing automation performs smoothly across mobile and web platforms for consistent and accessible customer communication.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Multi-Device Communication Optimization</a></h4>
+                        <p>Fraud detection, transaction analysis, and financial predictions.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">FinTech &amp; Banking AI</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-stream fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <i class="fas fa-cogs fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Flexible WhatsApp automation with optimized messaging flows, structured sequences, and automated responses to improve engagement, retention, and communication performance.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Workflow & Message Optimization</a></h4>
+                        <p>Adaptive learning, course recommendations, and personalized engagement tools.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">E-Learning AI</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-robot fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <i class="fas fa-paint-brush fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Conversion-focused WhatsApp automation designed around user behavior with smart chatbots, quick replies, and interactive flows to improve engagement and user experience.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Interactive Chatbot Enhancements</a></h4>
+                        <p>Property valuation, lead scoring, virtual tours, and agent workflow automation.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Real Estate AI</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-expand-arrows-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <i class="fas fa-plane fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Advanced WhatsApp automation and WhatsApp marketing automation strategies including workflow updates, campaign scaling, and feature upgrades to maintain efficiency and growth.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Automation Updates & Scaling</a></h4>
+                        <p>Booking automation, personalization, and predictive analytics.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Travel &amp; Hospitality AI</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-chart-bar fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <i class="fas fa-shipping-fast fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>High-performing WhatsApp automation with analytics, reporting tools, and engagement tracking to evaluate user behavior and improve WhatsApp marketing automation effectiveness.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Performance Tracking & Analytics</a></h4>
+                        <p>Route planning, shipment tracking, inventory management, and demand forecasting.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Logistics AI</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-search fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <i class="fas fa-utensils fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Modern WhatsApp automation improvements for existing systems to enhance workflows, messaging clarity, engagement rates, and overall communication efficiency.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Automation Audit & Optimization</a></h4>
+                        <p>Menu recommendations, order predictions, and operations automation.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Food &amp; Restaurant AI</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-tools fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <i class="fas fa-cloud fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Reliable WhatsApp automation support with continuous updates, performance improvements, reporting, and strategy enhancements for long-term business success.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Ongoing Support & Optimization</a></h4>
+                        <p>Analytics, automation, predictive insights, and user behavior tracking.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">SaaS &amp; Cloud AI</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-car fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Vehicle management, predictive maintenance, and smart customer service.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Automotive &amp; Mobility AI</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-film fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Content recommendations, audience insights, and workflow automation.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Entertainment &amp; Media AI</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-briefcase fa-3x mb-3"></i>
+                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Workflow automation, analytics, and client management solutions.</p>
+                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Professional Services AI</a></h4>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 
-    <!-- Start Technology Stack
-    ============================================= -->
     <!-- Start Technology Stack
     ============================================= -->
     <div class="default-padding">
@@ -1058,73 +1078,282 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">SMART TECH CHOICES</h5>
-                        <h2 class="title">Behind Every Successful WhatsApp Automation Project</h2>
-                        <p class="mt-30">We use proven tools and modern strategies to deliver secure and scalable WhatsApp automation and WhatsApp marketing automation solutions — built to support efficient communication, structured workflows, and measurable customer engagement outcomes for businesses.</p>
+                        <h2 class="title">Behind Every Successful Business Campaign</h2>
+                        <p class="mt-30">We use modern and proven content and e-learning strategies to deliver engaging courses, effective learning, and measurable skill growth - designed to scale your business.</p>
                     </div>
                 </div>
             </div>
-            <div class="row justify-content-center">
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fab fa-whatsapp fa-3x mb-3" style="color: #25D366;"></i>
-                        <h5>WhatsApp Business API</h5>
+            <div class="tech-categories mb-50">
+                <ul class="nav nav-pills justify-content-center gap-3 flex-wrap" id="techTabs" role="tablist">
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link active" id="frontend-tab" data-bs-toggle="pill" data-bs-target="#frontend" type="button" role="tab">Frontend</button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="backend-tab" data-bs-toggle="pill" data-bs-target="#backend" type="button" role="tab">Backend</button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="databases-tab" data-bs-toggle="pill" data-bs-target="#databases" type="button" role="tab">CMS</button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="cloud-tab" data-bs-toggle="pill" data-bs-target="#cloud" type="button" role="tab">Security</button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="integrations-tab" data-bs-toggle="pill" data-bs-target="#integrations" type="button" role="tab">Integrations</button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="analytics-tab" data-bs-toggle="pill" data-bs-target="#analytics" type="button" role="tab">Audit &amp; Analytics</button>
+                    </li>
+                </ul>
+            </div>
+            <div class="tab-content" id="techTabsContent">
+                <div class="tab-pane fade show active" id="frontend" role="tabpanel">
+                    <div class="row justify-content-center">
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fab fa-swift fa-3x mb-3" style="color: #fa7343;"></i>
+                                <h5>Swift</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fab fa-android fa-3x mb-3" style="color: #3ddc84;"></i>
+                                <h5>Kotlin</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fab fa-react fa-3x mb-3" style="color: #61dafb;"></i>
+                                <h5>React Native</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fab fa-google fa-3x mb-3" style="color: #02569b;"></i>
+                                <h5>Flutter</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-mobile-alt fa-3x mb-3" style="color: #3880ff;"></i>
+                                <h5>Ionic</h5>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fas fa-robot fa-3x mb-3" style="color: #25D366;"></i>
-                        <h5>Chatbot Integration</h5>
+                <div class="tab-pane fade" id="backend" role="tabpanel">
+                    <div class="row justify-content-center">
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fab fa-node-js fa-3x mb-3" style="color: #339933;"></i>
+                                <h5>Node.js</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fab fa-microsoft fa-3x mb-3" style="color: #512bd4;"></i>
+                                <h5>.NET</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fab fa-laravel fa-3x mb-3" style="color: #ff2d20;"></i>
+                                <h5>Laravel</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fab fa-python fa-3x mb-3" style="color: #3776ab;"></i>
+                                <h5>Django</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fab fa-java fa-3x mb-3" style="color: #ed8b00;"></i>
+                                <h5>Spring Boot</h5>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fas fa-link fa-3x mb-3" style="color: #4285f4;"></i>
-                        <h5>CRM Integration</h5>
+                <div class="tab-pane fade" id="databases" role="tabpanel">
+                    <div class="row justify-content-center">
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-database fa-3x mb-3" style="color: #00758f;"></i>
+                                <h5>WordPress</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-database fa-3x mb-3" style="color: #336791;"></i>
+                                <h5>PostgreSQL</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-leaf fa-3x mb-3" style="color: #47a248;"></i>
+                                <h5>MongoDB</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fab fa-google fa-3x mb-3" style="color: #ffca28;"></i>
+                                <h5>Strapi</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-database fa-3x mb-3" style="color: #003b57;"></i>
+                                <h5>MySQL</h5>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fas fa-plug fa-3x mb-3" style="color: #34a853;"></i>
-                        <h5>API Integration</h5>
+                <div class="tab-pane fade" id="cloud" role="tabpanel">
+                    <div class="row justify-content-center">
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fab fa-aws fa-3x mb-3" style="color: #ff9900;"></i>
+                                <h5>Security</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-cloud fa-3x mb-3" style="color: #4285f4;"></i>
+                                <h5>Encryption</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fab fa-microsoft fa-3x mb-3" style="color: #00a4ef;"></i>
+                                <h5>Secure Authentication</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fab fa-docker fa-3x mb-3" style="color: #2496ed;"></i>
+                                <h5>Access Control</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-cube fa-3x mb-3" style="color: #326ce5;"></i>
+                                <h5>Vulnerability Protection</h5>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fas fa-chart-pie fa-3x mb-3" style="color: #f4b400;"></i>
-                        <h5>Analytics Setup</h5>
+                <div class="tab-pane fade" id="integrations" role="tabpanel">
+                    <div class="row justify-content-center">
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-code fa-3x mb-3" style="color: #ff6b6b;"></i>
+                                <h5>APIs</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-project-diagram fa-3x mb-3" style="color: #e10098;"></i>
+                                <h5>GraphQL</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-credit-card fa-3x mb-3" style="color: #635bff;"></i>
+                                <h5>Stripe</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-building fa-3x mb-3" style="color: #00a1f1;"></i>
+                                <h5>SEO</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-comment-dots fa-3x mb-3" style="color: #ff6fb1;"></i>
+                                <h5>HubSpot</h5>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fas fa-sliders-h fa-3x mb-3" style="color: #ea4335;"></i>
-                        <h5>A/B Testing</h5>
-                    </div>
-                </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fas fa-tasks fa-3x mb-3" style="color: #25D366;"></i>
-                        <h5>Workflow Automation</h5>
-                    </div>
-                </div>
-                <div class="col-6 col-md-4 col-lg-2">
-                    <div class="tech-stack-item">
-                        <i class="fas fa-chart-line fa-3x mb-3" style="color: #4285f4;"></i>
-                        <h5>Performance Tracking</h5>
+                <div class="tab-pane fade" id="analytics" role="tabpanel">
+                    <div class="row justify-content-center">
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-vial fa-3x mb-3" style="color: #43b02a;"></i>
+                                <h5>Lighthouse</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-mobile-alt fa-3x mb-3" style="color: #5c6bc0;"></i>
+                                <h5>GA4</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-tachometer-alt fa-3x mb-3" style="color: #d22128;"></i>
+                                <h5>Hotjar</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fab fa-google fa-3x mb-3" style="color: #f4b400;"></i>
+                                <h5>Sentry</h5>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="tech-stack-item">
+                                <i class="fas fa-exclamation-triangle fa-3x mb-3" style="color: #ff6f00;"></i>
+                                <h5>SEMrush</h5>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const industryCarousel = new Swiper('.industry-carousel', {
+                slidesPerView: 1,
+                spaceBetween: 20,
+                loop: true,
+                autoplay: {
+                    delay: 3000,
+                    disableOnInteraction: false
+                },
+                navigation: {
+                    nextEl: '.industry-nav-next',
+                    prevEl: '.industry-nav-prev'
+                },
+                breakpoints: {
+                    576: {
+                        slidesPerView: 2,
+                        spaceBetween: 20
+                    },
+                    768: {
+                        slidesPerView: 3,
+                        spaceBetween: 25
+                    },
+                    992: {
+                        slidesPerView: 4,
+                        spaceBetween: 30
+                    }
+                }
+            });
+        });
+    </script>
 
     <!-- Start Call to Action
     ============================================= -->
-    <div class="default-padding bg-gradient bg-cover shadow dark" style="background-image: url(../assets/img/shape/banner-2.jpg);">
+    <div class="default-padding bg-gradient bg-cover shadow dark" style="background-image: url(assets/img/shape/banner-2.jpg);">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center text-light mt-0">
-                        <h2 class="title text-white mb-30">Ready to Automate Your WhatsApp Communication?</h2>
-                        <p class="text-white">Work with a trusted WhatsApp automation company for scalable engagement and measurable business growth.</p>
+                        <h2 class="title text-white mb-30">Ready to Build Your Website?</h2>
+                        <p class="text-white">Work with a trusted business website development company for strong online presence and digital growth.</p>
                         <div class="button mt-40">
                             <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Let's Talk</a>
                         </div>
@@ -1154,12 +1383,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        What is WhatsApp automation?
+                                        How long does it take to develop a business website?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        WhatsApp automation uses chatbots and automated messages to manage customer interactions, sales, and support efficiently.
+                                        Typically, a business website takes 4-8 weeks depending on complexity, pages, and features. Simple websites can be delivered in 2-3 weeks.
                                     </div>
                                 </div>
                             </div>
@@ -1168,12 +1397,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        Can you set up automated responses?
+                                        What's the average cost of business website development?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we configure instant replies, FAQs, and workflows to handle customer queries and improve engagement.
+                                        Website development costs vary based on complexity and features. Simple business websites start around ₹25,000, while custom enterprise sites can range from ₹1,00,000 to ₹5,00,000+.
                                     </div>
                                 </div>
                             </div>
@@ -1182,12 +1411,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Does WhatsApp automation support marketing campaigns?
+                                        Do you offer responsive website design?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Absolutely, we schedule broadcasts, promotions, and updates to targeted audiences for lead generation and sales.
+                                        Yes, all our business websites are built with responsive design, ensuring your site looks and performs perfectly on desktops, tablets, and mobile devices.
                                     </div>
                                 </div>
                             </div>
@@ -1196,12 +1425,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Can it integrate with CRM and other tools?
+                                        Will my website be SEO-ready?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, our solution integrates with CRMs, e-commerce platforms, and other systems for seamless operations.
+                                        Yes, all our business websites are built with SEO-ready structure including proper meta tags, clean URLs, fast loading, and mobile-friendly design to improve search visibility.
                                     </div>
                                 </div>
                             </div>
@@ -1210,12 +1439,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you provide analytics for WhatsApp campaigns?
+                                        Do you provide post-launch website support and maintenance?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we track message delivery, response rates, and engagement to optimize automation and campaign performance.
+                                        Yes, we offer comprehensive website maintenance and support including updates, performance monitoring, security patches, and content updates to keep your business website running smoothly.
                                     </div>
                                 </div>
                             </div>
@@ -1480,25 +1709,25 @@
             </div>
         </div>
     </footer>
-    <script src="../assets/js/jquery-3.6.0.min.js"></script>
-    <script src="../assets/js/bootstrap.bundle.min.js"></script>
-    <script src="../assets/js/jquery.appear.js"></script>
-    <script src="../assets/js/jquery.easing.min.js"></script>
-    <script src="../assets/js/jquery.magnific-popup.min.js"></script>
-    <script src="../assets/js/modernizr.custom.13711.js"></script>
-    <script src="../assets/js/swiper-bundle.min.js"></script>
-    <script src="../assets/js/wow.min.js"></script>
-    <script src="../assets/js/progress-bar.min.js"></script>
-    <script src="../assets/js/circle-progress.js"></script>
-    <script src="../assets/js/isotope.pkgd.min.js"></script>
-    <script src="../assets/js/imagesloaded.pkgd.min.js"></script>
-    <!-- <script src="../assets/js/jquery.nice-select.min.js"></script> -->
-    <script src="../assets/js/count-to.js"></script>
-    <script src="../assets/js/jquery.scrolla.min.js"></script>
-    <script src="../assets/js/YTPlayer.min.js"></script>
-    <script src="../assets/js/TweenMax.min.js"></script>
-    <script src="../assets/js/validnavs.js"></script>
-    <script src="../assets/js/main.js"></script>
+    <script src="assets/js/jquery-3.6.0.min.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/jquery.appear.js"></script>
+    <script src="assets/js/jquery.easing.min.js"></script>
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="assets/js/modernizr.custom.13711.js"></script>
+    <script src="assets/js/swiper-bundle.min.js"></script>
+    <script src="assets/js/wow.min.js"></script>
+    <script src="assets/js/progress-bar.min.js"></script>
+    <script src="assets/js/circle-progress.js"></script>
+    <script src="assets/js/isotope.pkgd.min.js"></script>
+    <script src="assets/js/imagesloaded.pkgd.min.js"></script>
+    <!-- <script src="assets/js/jquery.nice-select.min.js"></script> -->
+    <script src="assets/js/count-to.js"></script>
+    <script src="assets/js/jquery.scrolla.min.js"></script>
+    <script src="assets/js/YTPlayer.min.js"></script>
+    <script src="assets/js/TweenMax.min.js"></script>
+    <script src="assets/js/validnavs.js"></script>
+    <script src="assets/js/main.js"></script>
     <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
     <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
     <script type="text/javascript">
@@ -1530,7 +1759,7 @@
                         document.getElementById('g-recaptcha-response-app').value = token;
 
                         const formData = new FormData(form);
-                        fetch("../appDevelopmentFormMail.php", {
+                        fetch("appDevelopmentFormMail.php", {
                                 method: "POST",
                                 body: formData,
                             })
@@ -1540,7 +1769,7 @@
                                     toastr.success("Your enquiry has been sent successfully!");
                                     form.reset();
                                     setTimeout(() => {
-                                        window.location.href = "../appDevelopmentForm_thankyou.php";
+                                        window.location.href = "appDevelopmentForm_thankyou.php";
                                     }, 1500);
                                 } else {
                                     toastr.error(data.message || "Something went wrong!");

@@ -654,50 +654,53 @@
                             </div>
                             <div class="form-content p-3">
                                 <div class="information">
-                                    <h4 class="wow fadeInUp mb-30 text-center" data-wow-delay="500ms" data-wow-duration="400ms">
+                                    <h4 class="wow fadeInUp mb-30 text-center" data-wow-delay="500ms" data-wow-duration="400ms" style="visibility: visible; animation-duration: 400ms; animation-delay: 500ms; animation-name: fadeInUp;">
                                         <b>Get a Free Consultation</b>
                                     </h4>
                                 </div>
-                                <form id="appDevelopmentForm">
-                                    <input type="hidden" name="username_hp">
+                                <form id="contactMail">
                                     <div class="row">
                                         <div class="col-lg-6">
                                             <div class="form-group">
-                                                <input type="text" name="full_name" class="form-control" placeholder="Full Name *" required>
+                                                <input type="hidden" name="username_hp">
+                                                <input type="text" name="name" class="form-control" placeholder="Full Name *" required="">
                                             </div>
                                         </div>
                                         <div class="col-lg-6">
                                             <div class="form-group">
-                                                <input type="email" name="email" class="form-control" placeholder="E-mail *" required>
+                                                <input type="email" name="email" class="form-control" placeholder="Email ID *" required="">
                                             </div>
                                         </div>
-                                        <div class="col-lg-6">
+                                        <div class="col-lg-12">
                                             <div class="form-group">
-                                                <input type="text" name="phone" class="form-control" placeholder="Phone Number *" required>
+                                                <input type="text" name="mobile" class="form-control" placeholder="Mobile Number *" required="">
                                             </div>
                                         </div>
-                                        <div class="col-lg-6">
+                                        <div class="col-lg-12">
                                             <div class="form-group">
-                                                <select name="budget" class="form-control" required>
-                                                    <option value="">Budget *</option>
-                                                    <option value="Under ₹50,000">Under ₹50,000</option>
-                                                    <option value="₹50,000 - ₹1,00,000">₹50,000 - ₹1,00,000</option>
-                                                    <option value="₹1,00,000 - ₹3,00,000">₹1,00,000 - ₹3,00,000</option>
-                                                    <option value="₹3,00,000 - ₹5,00,000">₹3,00,000 - ₹5,00,000</option>
-                                                    <option value="Above ₹5,00,000">Above ₹5,00,000</option>
+                                                <select name="service" class="form-control" required="">
+                                                    <option value="" disabled="" selected="">Service Interested In *</option>
+                                                    <option value="Technology Solutions (Website, App, AI, Database)">Technology Solutions (Website, App, AI, Database)</option>
+                                                    <option value="Digital Marketing (Social Media, Branding)">Digital Marketing (Social Media, Branding)</option>
+                                                    <option value="Lead Generation – Paid Ads (Meta, Google)">Lead Generation – Paid Ads (Meta, Google)</option>
+                                                    <option value="Content &amp; Creative Services (Writing, Video, Media)">Content &amp; Creative Services (Writing, Video, Media)</option>
                                                 </select>
                                             </div>
                                         </div>
                                         <div class="col-lg-12">
-                                            <div class="form-group">
-                                                <textarea name="requirement" class="form-control" rows="4" placeholder="Requirement *" required></textarea>
+                                            <div class="form-group comments">
+                                                <textarea name="message" class="form-control" placeholder="Tell Us About Your Requirement *" required=""></textarea>
                                             </div>
                                         </div>
+                                    </div>
+                                    <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response">
+                                    <div class="row">
                                         <div class="col-lg-12">
-                                            <button type="submit" class="btn btn-primary w-100">Submit Now <i class="fas fa-arrow-up" style="margin-left: 8px;rotate: 45deg;"></i></button>
+                                            <button type="submit" class="btn btn-primary w-100">
+                                                <i class="fa fa-paper-plane"></i> Submit Now
+                                            </button>
                                         </div>
                                     </div>
-                                    <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response-app">
                                 </form>
                             </div>
                         </div>
@@ -1278,82 +1281,6 @@
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="default-padding bg-gray">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center">
-                        <h5 class="sub-title">INDUSTRIES WE SERVE</h5>
-                        <h2 class="title">We Build Apps for Every Industry</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="industry-carousel-wrapper">
-                <div class="swiper industry-carousel">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <div class="industry-card">
-                                <div class="industry-bg" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'); background-size: cover; background-position: center;"></div>
-                                <div class="industry-overlay">
-                                    <i class="fas fa-heartbeat"></i>
-                                    <span>Healthcare</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="industry-card">
-                                <div class="industry-bg" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80'); background-size: cover; background-position: center;"></div>
-                                <div class="industry-overlay">
-                                    <i class="fas fa-shopping-cart"></i>
-                                    <span>E-commerce & D2C</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="industry-card">
-                                <div class="industry-bg" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80'); background-size: cover; background-position: center;"></div>
-                                <div class="industry-overlay">
-                                    <i class="fas fa-building"></i>
-                                    <span>Real Estate</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="industry-card">
-                                <div class="industry-bg" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'); background-size: cover; background-position: center;"></div>
-                                <div class="industry-overlay">
-                                    <i class="fas fa-shipping-fast"></i>
-                                    <span>Logistics & Transport</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="industry-card">
-                                <div class="industry-bg" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80'); background-size: cover; background-position: center;"></div>
-                                <div class="industry-overlay">
-                                    <i class="fas fa-graduation-cap"></i>
-                                    <span>Education & EdTech</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="industry-card">
-                                <div class="industry-bg" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&q=80'); background-size: cover; background-position: center;"></div>
-                                <div class="industry-overlay">
-                                    <i class="fas fa-rocket"></i>
-                                    <span>Startups & SaaS</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="industry-nav">
-                    <div class="industry-nav-prev"><i class="fas fa-chevron-left"></i></div>
-                    <div class="industry-nav-next"><i class="fas fa-chevron-right"></i></div>
                 </div>
             </div>
         </div>

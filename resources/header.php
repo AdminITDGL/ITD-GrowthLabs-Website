@@ -133,16 +133,16 @@
                        <li class="dropdown">
                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Industries</a>
                            <ul class="dropdown-menu">
-                               <li><a href="../services/logistics-content-marketing.php">Logistics & Supply Chain</a></li>
-                               <li><a href="../services/Industries-We-Serve-Manufacturing.php">Manufacturing</a></li>
-                               <li><a href="#">Healthcare</a></li>
-                               <li><a href="#">Real Estate</a></li>
-                               <li><a href="#">Education & EdTech</a></li>
-                               <li><a href="#">E-Commerce & D2C</a></li>
-                               <li><a href="#">Finance & FinTech</a></li>
-                               <li><a href="#">IT & SaaS</a></li>
-                               <li><a href="#">Professional Services</a></li>
-                               <li><a href="#">Startups</a></li>
+                               <li><a href="../industries/logistics.php">Logistics & Supply Chain</a></li>
+                               <li><a href="../industries/manufacturing.php">Manufacturing</a></li>
+                               <li><a href="../industries/healthcare.php">Healthcare</a></li>
+                               <li><a href="../industries/realestate.php">Real Estate</a></li>
+                               <li><a href="../industries/education.php">Education & EdTech</a></li>
+                               <li><a href="../industries/ecommerce.php">E-Commerce & D2C</a></li>
+                               <li><a href="../industries/finance.php">Finance & FinTech</a></li>
+                               <li><a href="../industries/information_tech.php">IT & SaaS</a></li>
+                               <li><a href="../industries/professional_services.php">Professional Services</a></li>
+                               <li><a href="../industries/startups.php">Startups</a></li>
                            </ul>
                        </li>
 
