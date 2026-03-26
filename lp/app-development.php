@@ -641,7 +641,7 @@
                                 Partner with one of the best app developers for startups and businesses in India. ITD GrowthLabs delivers result-driven mobile app development services in India for Android, iOS, SaaS, AI, and custom web platforms.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="#contactMail">Let’s Build Your App</a>
+                                <a class="btn btn-theme btn-md animation" href="../contact-us.php">Let’s Build Your App</a>
                             </div>
                         </div>
                     </div>

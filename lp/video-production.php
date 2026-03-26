@@ -188,7 +188,7 @@
                                     <li>Get scalable, future-ready solutions that evolve with your business</li>
                                 </ul> -->
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="#videoProductionForm">Schedule A Video Consultation</a>
+                                <a class="btn btn-theme btn-md animation" href="../contact-us.php">Schedule A Video Consultation</a>
                             </div>
                             <div class="row text-center g-4 icon_circle_block">
                                 <div class="col-6 col-sm-6 col-md-4 d-flex flex-column align-items-center">
