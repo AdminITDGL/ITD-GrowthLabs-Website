@@ -660,14 +660,14 @@
                                     </h4>
                                 </div>
                                 <form id="contactMail">
-                                    <div class="row">
-                                        <div class="col-lg-6">
+                                    <div class="row g-2">
+                                        <div class="col-lg-6 col-md-6">
                                             <div class="form-group">
                                                 <input type="hidden" name="username_hp">
                                                 <input type="text" name="name" class="form-control" placeholder="Full Name *" required="">
                                             </div>
                                         </div>
-                                        <div class="col-lg-6">
+                                        <div class="col-lg-6 col-md-6">
                                             <div class="form-group">
                                                 <input type="email" name="email" class="form-control" placeholder="Email ID *" required="">
                                             </div>

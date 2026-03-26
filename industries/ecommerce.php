@@ -646,21 +646,28 @@
                             </div>
                         </div>
                     </div>
-                    <div class="form-content p-3">
+                    <div class="col-tact-stye-one col-lg-5">
+                        <div class="contact-form-style-one form-with-profile wow fadeInUp p-0" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <div class="form-header-orange">
+                                <div class="profile-images-container">
+                                    <img src="assets/img/form-profile-image.png" alt="Expert" class="profile-main" oncontextmenu="return false;" draggable="false" ondragstart="return false;">
+                                </div>
+                            </div>
+                            <div class="form-content p-3">
                                 <div class="information">
                                     <h4 class="wow fadeInUp mb-30 text-center" data-wow-delay="500ms" data-wow-duration="400ms" style="visibility: visible; animation-duration: 400ms; animation-delay: 500ms; animation-name: fadeInUp;">
                                         <b>Get a Free Consultation</b>
                                     </h4>
                                 </div>
                                 <form id="contactMail">
-                                    <div class="row">
-                                        <div class="col-lg-6">
+                                    <div class="row g-2">
+                                        <div class="col-lg-6 col-md-6">
                                             <div class="form-group">
                                                 <input type="hidden" name="username_hp">
                                                 <input type="text" name="name" class="form-control" placeholder="Full Name *" required="">
                                             </div>
                                         </div>
-                                        <div class="col-lg-6">
+                                        <div class="col-lg-6 col-md-6">
                                             <div class="form-group">
                                                 <input type="email" name="email" class="form-control" placeholder="Email ID *" required="">
                                             </div>
@@ -697,6 +704,8 @@
                                     </div>
                                 </form>
                             </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
