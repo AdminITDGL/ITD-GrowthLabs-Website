@@ -195,7 +195,7 @@
                                     <li>Get scalable, future-ready solutions that evolve with your business</li>
                                 </ul> -->
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://wa.me/918450978544?text=Hi%2C%20I%20would%20like%20to%20get%20a%20quote%20for%20website%20design." target="_blank">Request A Quote</a>
+                                <a class="btn btn-theme btn-md animation" href="#socialMediaForm">Request A Quote</a>
                             </div>
                             <div class="row text-center g-4 icon_circle_block">
                                 <div class="col-6 col-sm-6 col-md-4 d-flex flex-column align-items-center">
