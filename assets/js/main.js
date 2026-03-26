@@ -466,13 +466,19 @@
 		    CTA Redirects -> Contact Us Form
 		================================================== */
 		function getContactUsUrl() {
-			// Build absolute URL based on where this site is mounted.
+			// Root-relative contact page (works on live site + local XAMPP subfolder).
 			var parts = window.location.pathname.split('/').filter(Boolean);
 			var idx = parts.lastIndexOf('GROWTHLAB_STATIC');
 			if (idx !== -1) {
 				return '/' + parts.slice(0, idx + 1).join('/') + '/contact-us.php';
 			}
-			return 'contact-us.php';
+			// Live: /services/page.php must NOT use bare "contact-us.php" (that hits /services/contact-us.php).
+			var si = parts.indexOf('services');
+			if (si !== -1) {
+				var prefix = parts.slice(0, si).join('/');
+				return (prefix ? '/' + prefix : '') + '/contact-us.php';
+			}
+			return '/contact-us.php';
 		}
 
 		$('body').on('click', 'a', function(e) {

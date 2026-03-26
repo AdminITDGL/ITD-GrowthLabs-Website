@@ -20,6 +20,16 @@ function getSiteRootFileUrl(filename) {
             filename
         );
     }
+    var si = parts.indexOf("services");
+    if (si !== -1) {
+        var prefix = parts.slice(0, si).join("/");
+        return (
+            window.location.origin +
+            (prefix ? "/" + prefix : "") +
+            "/" +
+            filename
+        );
+    }
     try {
         var depth = Math.max(0, parts.length - 1);
         var up = "";
