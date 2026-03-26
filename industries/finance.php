@@ -1743,47 +1743,7 @@
     </script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            toastr.options = {
-                positionClass: "toast-top-right",
-                closeButton: true,
-                progressBar: true,
-            };
-            const form = document.getElementById("appDevelopmentForm");
-            form.addEventListener("submit", function(e) {
-                e.preventDefault();
-                grecaptcha.ready(function() {
-                    grecaptcha.execute('6Lcm0hosAAAAAPFeuKRDfgGF4Ajr9bcCCbD7LR-3', {
-                        action: 'app_development_form'
-                    }).then(function(token) {
-                        document.getElementById('g-recaptcha-response-app').value = token;
-
-                        const formData = new FormData(form);
-                        fetch("appDevelopmentFormMail.php", {
-                                method: "POST",
-                                body: formData,
-                            })
-                            .then((res) => res.json())
-                            .then((data) => {
-                                if (data.status === "success") {
-                                    toastr.success("Your enquiry has been sent successfully!");
-                                    form.reset();
-                                    setTimeout(() => {
-                                        window.location.href = "appDevelopmentForm_thankyou.php";
-                                    }, 1500);
-                                } else {
-                                    toastr.error(data.message || "Something went wrong!");
-                                }
-                            })
-                            .catch((err) => {
-                                toastr.error("Network error!");
-                            });
-                    });
-                });
-            });
-        });
-    </script>
+    <script src="assets/js/custom.js"></script>
 
 </body>
 

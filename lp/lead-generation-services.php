@@ -774,6 +774,7 @@
     </script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+    <script src="../assets/js/custom.js"></script>
     <script>
         document.addEventListener("DOMContentLoaded", function() {
             toastr.options = {

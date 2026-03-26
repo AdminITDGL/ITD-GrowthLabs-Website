@@ -1748,6 +1748,7 @@
     </script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+    <script src="assets/js/custom.js"></script>
     <script>
         document.addEventListener("DOMContentLoaded", function() {
             toastr.options = {
@@ -1765,7 +1766,7 @@
                         document.getElementById('g-recaptcha-response-app').value = token;
 
                         const formData = new FormData(form);
-                        fetch("appDevelopmentFormMail.php", {
+                        fetch(getSiteRootFileUrl("appDevelopmentFormMail.php"), {
                                 method: "POST",
                                 body: formData,
                             })
@@ -1775,7 +1776,7 @@
                                     toastr.success("Your enquiry has been sent successfully!");
                                     form.reset();
                                     setTimeout(() => {
-                                        window.location.href = "appDevelopmentForm_thankyou.php";
+                                        window.location.href = getSiteRootFileUrl("appDevelopmentForm_thankyou.php");
                                     }, 1500);
                                 } else {
                                     toastr.error(data.message || "Something went wrong!");
