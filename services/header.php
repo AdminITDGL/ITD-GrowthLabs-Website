@@ -1,3 +1,4 @@
+<?php require_once __DIR__ . '/contact-url.php'; ?>
    <div class="country-flags-header">
        <div class="container">
            <div class="country-flags-container">
@@ -153,7 +154,7 @@
 
                        <!-- CONTACT -->
                        <li>
-                           <a href="../contact-us.php">Contact Us</a>
+                           <a href="<?php echo htmlspecialchars($gl_contact_us, ENT_QUOTES, 'UTF-8'); ?>">Contact Us</a>
                        </li>
 
                    </ul>
@@ -164,7 +165,7 @@
                    <div class="attr-nav">
                        <ul>
                            <li class="button">
-                               <a href="../contact-us.php">Book a Call</a>
+                               <a href="<?php echo htmlspecialchars($gl_contact_us, ENT_QUOTES, 'UTF-8'); ?>">Book a Call</a>
                            </li>
                        </ul>
                    </div>

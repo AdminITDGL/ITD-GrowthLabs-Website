@@ -67,6 +67,7 @@
 </head>
 
 <body>
+<?php require_once __DIR__ . '/contact-url.php'; ?>
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4XDB2GZ"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -268,7 +269,7 @@
                        </li> -->
 
 
-                        <li><a href="../contact-us.php">Contact</a></li>
+                        <li><a href="<?php echo htmlspecialchars($gl_contact_us, ENT_QUOTES, 'UTF-8'); ?>">Contact</a></li>
                     </ul>
                 </div><!-- /.navbar-collapse -->
 
