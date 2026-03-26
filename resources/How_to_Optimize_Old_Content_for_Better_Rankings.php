@@ -210,7 +210,7 @@
                                     <p>From conducting a comprehensive content audit to enhancing internal links, mobile performance, and metadata, each optimization step plays a vital role in content rejuvenation. Regular monitoring, keyword realignment, and effective promotion ensure that your re-optimized articles continue to contribute to your long-term SEO goals.</p>
                                     <p>At ITD Growthlabs, we believe in the power of content revitalization as a sustainable and cost-effective SEO strategy. It’s not just about producing more—it’s about making the most of what you already have.</p>
                                     <p><strong>Ready to Improve Your SEO Content Strategy?</strong></p>
-                                    <p>Let ITD Growthlabs help you transform your underperforming content into SEO powerhouses. <a href="contact-us.php">Contact us today</a> to schedule a free consultation!</p>
+                                    <p>Let ITD Growthlabs help you transform your underperforming content into SEO powerhouses. <a href="../contact-us.php">Contact us today</a> to schedule a free consultation!</p>
                                 </div>
                             </div>
                         </div>

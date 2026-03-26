@@ -238,7 +238,7 @@
                                     <p>Crafting SEO-optimized product descriptions is both an art and a science. By understanding your audience, integrating relevant keywords, and presenting information compellingly, you can enhance visibility, engage potential customers, and drive conversions. Remember, the goal is to communicate value effectively, addressing customer needs and guiding them seamlessly through the purchasing journey.</p>
                                     <p>At ITD Growthlabs, we specialize in creating tailored ecommerce content strategies that resonate with audiences and align with business objectives. Our expertise in SEO product writing ensures that your products not only reach the right audience but also compel them to act.</p>
                                     <p><strong>Ready to transform your product descriptions and boost your online sales?</strong><br>
-                                        Partner with ITD Growthlabs for expert SEO-friendly ecommerce content solutions. <a href="contact-us.php">Contact us today!</a></p>
+                                        Partner with ITD Growthlabs for expert SEO-friendly ecommerce content solutions. <a href="../contact-us.php">Contact us today!</a></p>
 
                                 </div>
                             </div>
