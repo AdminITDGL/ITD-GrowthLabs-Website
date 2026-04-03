@@ -24,8 +24,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Create powerful, responsive, and user-friendly websites with custom solutions, mobile-first design, seamless integrations, and optimized performance.">
-    <title>Website Development Services | ITD GrowthLabs</title>
+    <meta name="description" content="Top app development company in India serving USA, UK, UAE & Australia. Custom Android, iOS, Flutter & hybrid mobile app development services. Build scalable, secure apps with ITD GrowthLabs. Get a free consultation today.">
+    <title>App Development Services in India | Android, iOS & Flutter Apps | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
@@ -616,6 +616,65 @@
             }
         }
     </style>
+    <link rel="canonical" href="https://itdgrowthlabs.com/app_development.php" />
+    <link rel="alternate" hreflang="en-in" href="https://itdgrowthlabs.com/app_development.php" />
+    <link rel="alternate" hreflang="en-us" href="https://itdgrowthlabs.com/usa/mobile-app-development.php" />
+    <link rel="alternate" hreflang="en-gb" href="https://itdgrowthlabs.com/uk/mobile-app-development.php" />
+    <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/app_development.php" />
+    <meta property="og:title" content="App Development Services in India | Custom Mobile & Web Apps | ITD GrowthLabs" />
+    <meta property="og:description" content="ITD GrowthLabs offers custom app development services including Android, iOS, Flutter, and hybrid mobile apps." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/app_development.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <!-- FAQPage Schema for AEO -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "What types of apps does ITD GrowthLabs develop?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "We develop Android apps, iOS apps, hybrid/cross-platform apps (using Flutter and React Native), web applications, SaaS products, and custom enterprise applications. We also specialize in industry-specific solutions for logistics, real estate, healthcare, and e-commerce."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How much does app development cost?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "App development costs vary by complexity. A simple app or MVP starts from $5,000-$15,000, mid-complexity apps range from $15,000-$50,000, and enterprise-grade applications can cost $50,000-$200,000+. Factors include features, platforms (iOS/Android/both), integrations, and design complexity."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Should I build a native app or a cross-platform app?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Native apps (Swift for iOS, Kotlin for Android) offer the best performance and device-specific features. Cross-platform apps (Flutter, React Native) are cost-effective as one codebase works on both platforms, reducing development time by 30-40%. We recommend cross-platform for most business apps and native for performance-critical applications."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How long does it take to develop a mobile app?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "A basic MVP takes 6-10 weeks, a mid-complexity app takes 3-5 months, and a feature-rich enterprise app takes 5-9 months. We use agile sprints with bi-weekly deliverables so you see progress throughout the development cycle."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Do you provide app maintenance after launch?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, we provide comprehensive post-launch support including bug fixes, OS compatibility updates, performance optimization, feature enhancements, server monitoring, and app store management. Our maintenance plans ensure your app stays updated and competitive."
+                }
+            }
+        ]
+    }
+    </script>
 </head>
 
 <body>
@@ -641,7 +700,7 @@
                                 Partner with ITD GrowthLabs for mobile and web app development services that deliver fast, scalable, and secure apps. Our app development approach ensures seamless performance, UX, and growth for your business.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php#" target="_blank">Let’s Build Your App</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Let’s Build Your App</a>
                             </div>
                         </div>
                     </div>
@@ -710,6 +769,14 @@
         </div>
     </div>
     <!-- End Banner -->
+
+    <!-- Quick Summary for AI Search Engines (AEO) -->
+    <div class="container mt-5 mb-3">
+        <div style="background: linear-gradient(135deg, #f8f9fa 0%, #e8f0fe 100%); border-left: 4px solid var(--color-primary); border-radius: 8px; padding: 25px 30px;">
+            <h3 style="font-size: 20px; font-weight: 700; color: var(--color-primary); margin-bottom: 12px;">Quick Summary — App Development Services by ITD GrowthLabs</h3>
+            <p style="font-size: 15px; line-height: 1.8; color: #3c4043; margin: 0;"><strong>ITD GrowthLabs</strong> provides end-to-end <strong>mobile app development services</strong> including <strong>Android app development</strong>, <strong>iOS app development</strong>, <strong>Flutter cross-platform apps</strong>, <strong>hybrid app development</strong>, <strong>web application development</strong>, and <strong>SaaS product development</strong>. Headquartered in Mumbai, India, we serve clients in <strong>India, USA, UK, UAE, and Australia</strong>. Our apps are scalable, secure, and built to drive business growth. <a href="contact-us.php">Request a free app consultation</a>.</p>
+        </div>
+    </div>
 
     <!-- Start Clients/Partners
     ============================================= -->
@@ -957,121 +1024,121 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-heartbeat fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Secure apps with telemedicine, patient portals, and real-time data access.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Healthcare &amp; MedTech Apps</a></h4>
+                        <h4><a href="contact-us.php">Healthcare &amp; MedTech Apps</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-shopping-cart fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Scalable apps with secure checkout, product catalogs, and smooth UX.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">E-Commerce &amp; Retail Apps</a></h4>
+                        <h4><a href="contact-us.php">E-Commerce &amp; Retail Apps</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Financial apps with account management, payments, encryption, and analytics.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">FinTech &amp; Banking Apps</a></h4>
+                        <h4><a href="contact-us.php">FinTech &amp; Banking Apps</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-graduation-cap fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Interactive apps with courses, live classes, and progress tracking.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">E-Learning Apps</a></h4>
+                        <h4><a href="contact-us.php">E-Learning Apps</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-building fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Property apps with filters, virtual tours, maps, and lead tools.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Real Estate Apps</a></h4>
+                        <h4><a href="contact-us.php">Real Estate Apps</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-plane fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Booking apps with search, itineraries, payments, and reviews.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Travel &amp; Hospitality Apps</a></h4>
+                        <h4><a href="contact-us.php">Travel &amp; Hospitality Apps</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-shipping-fast fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Systems with tracking, dashboards, and real-time updates.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Logistics Apps</a></h4>
+                        <h4><a href="contact-us.php">Logistics Apps</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-utensils fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Apps with menus, bookings, ordering, delivery, and loyalty features.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Food &amp; Restaurant Apps</a></h4>
+                        <h4><a href="contact-us.php">Food &amp; Restaurant Apps</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cloud fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Platforms with subscriptions, onboarding, dashboards, and multi-tenant support.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">SaaS &amp; Cloud Apps</a></h4>
+                        <h4><a href="contact-us.php">SaaS &amp; Cloud Apps</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-car fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Dealer apps with bookings, service scheduling, and inventory display.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Automotive Apps</a></h4>
+                        <h4><a href="contact-us.php">Automotive Apps</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-film fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Streaming apps with content libraries, playback, and sharing.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Entertainment Apps</a></h4>
+                        <h4><a href="contact-us.php">Entertainment Apps</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-briefcase fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Custom apps with service showcases, client portals, and dashboards.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Professional Services Apps</a></h4>
+                        <h4><a href="contact-us.php">Professional Services Apps</a></h4>
                     </div>
                 </div>
             </div>
@@ -1364,7 +1431,7 @@
                         <h2 class="title text-white mb-30">Ready to Build Your Website?</h2>
                         <p class="text-white">Work with a trusted business website development company for strong online presence and digital growth.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Let's Talk</a>
+                            <a class="btn btn-theme btn-md animation" href="contact-us.php">Let's Talk</a>
                         </div>
                     </div>
                 </div>
@@ -1465,8 +1532,70 @@
     </div>
     <!-- End FAQ -->
 
-    <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <!-- Contact CTA (replaced Calendly widget) -->
+    <div class="text-center default-padding">
+        <a href="contact-us.php" class="btn btn-theme btn-md animation">Schedule a Free Consultation</a>
+    </div>
+
+    <!-- FAQ Section for AEO -->
+    <div class="faq-style-one-area default-padding" id="faq">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="site-heading text-center">
+                        <h2 class="title">Frequently Asked Questions</h2>
+                        <p>Common questions about our app development services</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-lg-10">
+                    <div class="accordion" id="faqAccordion">
+                        <div class="accordion-item">
+                            <h3 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq1">What types of apps does ITD GrowthLabs develop?</button>
+                            </h3>
+                            <div id="faq1" class="accordion-collapse collapse show" data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">We develop Android apps, iOS apps, hybrid/cross-platform apps (using Flutter and React Native), web applications, SaaS products, and custom enterprise applications. We also specialize in industry-specific solutions for logistics, real estate, healthcare, and e-commerce.</div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h3 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2">How much does app development cost?</button>
+                            </h3>
+                            <div id="faq2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">App development costs vary by complexity. A simple app or MVP starts from $5,000-$15,000, mid-complexity apps range from $15,000-$50,000, and enterprise-grade applications can cost $50,000-$200,000+. Factors include features, platforms (iOS/Android/both), integrations, and design complexity.</div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h3 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq3">Should I build a native app or a cross-platform app?</button>
+                            </h3>
+                            <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">Native apps (Swift for iOS, Kotlin for Android) offer the best performance and device-specific features. Cross-platform apps (Flutter, React Native) are cost-effective as one codebase works on both platforms, reducing development time by 30-40%. We recommend cross-platform for most business apps and native for performance-critical applications.</div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h3 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq4">How long does it take to develop a mobile app?</button>
+                            </h3>
+                            <div id="faq4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">A basic MVP takes 6-10 weeks, a mid-complexity app takes 3-5 months, and a feature-rich enterprise app takes 5-9 months. We use agile sprints with bi-weekly deliverables so you see progress throughout the development cycle.</div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h3 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq5">Do you provide app maintenance after launch?</button>
+                            </h3>
+                            <div id="faq5" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">Yes, we provide comprehensive post-launch support including bug fixes, OS compatibility updates, performance optimization, feature enhancements, server monitoring, and app store management. Our maintenance plans ensure your app stays updated and competitive.</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <!-- Start Footer
     ============================================= -->
@@ -1737,18 +1866,7 @@
     <script src="assets/js/TweenMax.min.js"></script>
     <script src="assets/js/validnavs.js"></script>
     <script src="assets/js/main.js"></script>
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-    <script type="text/javascript">
-        window.onload = function() {
-            Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
-                text: 'Schedule time with me',
-                color: '#0069ff',
-                textColor: '#ffffff'
-            });
-        }
-    </script>
+    <!-- Calendly widget removed — using contact-us.php instead -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
     <script src="assets/js/custom.js"></script>

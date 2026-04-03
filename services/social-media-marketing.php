@@ -616,6 +616,35 @@
             }
         }
     </style>
+    <link rel="canonical" href="https://itdgrowthlabs.com/services/social-media-marketing.php" />
+    <meta property="og:title" content="Social Media Marketing Services for Businesses | ITD GrowthLabs" />
+    <meta property="og:description" content="Boost your brand presence with expert social media marketing services." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/services/social-media-marketing.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "Social Media Marketing Services",
+        "description": "Expert social media marketing services to boost brand presence, engagement, and conversions.",
+        "provider": {"@type": "Organization", "name": "ITD GrowthLabs", "url": "https://itdgrowthlabs.com"},
+        "areaServed": ["India", "Australia", "UAE", "UK", "USA"],
+        "serviceType": "Social Media Marketing"
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {"@type": "Question", "name": "Which social media platforms should my business be on?", "acceptedAnswer": {"@type": "Answer", "text": "The best platforms depend on your target audience. LinkedIn is essential for B2B businesses, Instagram and Facebook for B2C and e-commerce, Twitter/X for tech and news brands, and YouTube for video content. ITD GrowthLabs analyzes your industry and audience to recommend the most effective platform mix."}},
+            {"@type": "Question", "name": "How often should I post on social media?", "acceptedAnswer": {"@type": "Answer", "text": "Optimal posting frequency varies by platform: LinkedIn 3-5 times per week, Instagram 4-7 times per week, Facebook 3-5 times per week, and Twitter/X 1-3 times daily. Consistency and content quality matter more than frequency. We create content calendars tailored to your brand and audience."}},
+            {"@type": "Question", "name": "How do you measure social media ROI?", "acceptedAnswer": {"@type": "Answer", "text": "We track key metrics including engagement rate, reach, impressions, click-through rate, lead generation, conversion rate, and cost per lead. We provide monthly reports with actionable insights showing how social media efforts contribute to your business objectives and revenue."}},
+            {"@type": "Question", "name": "Do you create social media content?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, we provide end-to-end social media management including content strategy, graphic design, copywriting, video creation, content scheduling, community management, and performance reporting. Our team creates platform-specific content that resonates with your target audience."}}
+        ]
+    }
+    </script>
 </head>
 
 <body>
@@ -641,7 +670,7 @@
                                 Drive engagement and grow your brand with expert social media marketing. Our social media strategies deliver targeted campaigns, optimized content, and data-driven results to boost online presence and measurable business growth.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Start Campaign</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Start Campaign</a>
                             </div>
                         </div>
                     </div>
@@ -710,6 +739,14 @@
         </div>
     </div>
     <!-- End Banner -->
+
+    <!-- Quick Summary for AI Search Engines (AEO) -->
+    <div class="container mt-5 mb-3">
+        <div style="background: linear-gradient(135deg, #f8f9fa 0%, #e8f0fe 100%); border-left: 4px solid var(--color-primary); border-radius: 8px; padding: 25px 30px;">
+            <h3 style="font-size: 20px; font-weight: 700; color: var(--color-primary); margin-bottom: 12px;">Quick Summary — Social Media Marketing Services</h3>
+            <p style="font-size: 15px; line-height: 1.8; color: #3c4043; margin: 0;"><strong>ITD GrowthLabs</strong> provides <strong>social media marketing services</strong> across <strong>Facebook, Instagram, LinkedIn, and Twitter</strong>. We create targeted campaigns, manage paid social ads, and build brand presence for B2B businesses in <strong>India, USA, UK, UAE, and Australia</strong>. From strategy to execution, we help you grow engagement, generate leads, and build authority on social platforms. <a href="../contact-us.php">Get a free social media strategy call</a>.</p>
+        </div>
+    </div>
 
     <!-- Start Clients/Partners
     ============================================= -->
@@ -957,91 +994,91 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-chart-line fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic Social Media Marketing for businesses, focusing on platform targeting, content planning, and engagement strategies to improve brand reach and ROI.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Social Media Strategy</a></h4>
+                        <h4><a href="contact-us.php">Social Media Strategy</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Scalable Social Media Marketing services with account configuration, content scheduling, audience segmentation, and secure platform setup for maximum efficiency.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Campaign Setup</a></h4>
+                        <h4><a href="contact-us.php">Campaign Setup</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Professional Social Media Marketing ensuring posts and ads display correctly on mobile devices and across social platforms for higher engagement.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Mobile & Platform Ads</a></h4>
+                        <h4><a href="contact-us.php">Mobile & Platform Ads</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-search-dollar fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Flexible Social Media Marketing with optimized posts, ad creatives, and A/B testing to boost clicks, shares, engagement, and conversions.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Content & Ad Optimization</a></h4>
+                        <h4><a href="contact-us.php">Content & Ad Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-paint-brush fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Conversion-focused Social Media Marketing designed around user behavior to improve content relevance, engagement, and overall campaign performance.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Creative Enhancements</a></h4>
+                        <h4><a href="contact-us.php">Creative Enhancements</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-retweet fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Advanced Social Media Marketing strategies including remarketing, dynamic content, and custom audience targeting to increase return on ad spend.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Remarketing & Retargeting</a></h4>
+                        <h4><a href="contact-us.php">Remarketing & Retargeting</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-chart-bar fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>High-performing Social Media Marketing with regular monitoring, analytics, and reporting to enhance campaign results and ROI.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Performance Tracking & Analytics</a></h4>
+                        <h4><a href="contact-us.php">Performance Tracking & Analytics</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-sync-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Modern Social Media Marketing upgrades for existing campaigns to improve content structure, targeting, and overall performance efficiency.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Campaign Audit & Redesign</a></h4>
+                        <h4><a href="contact-us.php">Campaign Audit & Redesign</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-tools fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Reliable Social Media Marketing support with continuous updates, content optimization, reporting, and strategy improvements to maintain top campaign performance.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Ongoing Campaign Support</a></h4>
+                        <h4><a href="contact-us.php">Ongoing Campaign Support</a></h4>
                     </div>
                 </div>
             </div>
@@ -1126,7 +1163,7 @@
                         <h2 class="title text-white mb-30">Ready to Launch Your Social Media Campaign?</h2>
                         <p class="text-white">Work with a trusted Social Media Marketing agency for engagement, brand visibility, and measurable results.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Let's Talk</a>
+                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Let's Talk</a>
                         </div>
                     </div>
                 </div>
@@ -1228,7 +1265,7 @@
     <!-- End FAQ -->
 
     <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
 
     <!-- Start Footer
     ============================================= -->
@@ -1499,12 +1536,12 @@
     <script src="../assets/js/TweenMax.min.js"></script>
     <script src="../assets/js/validnavs.js"></script>
     <script src="../assets/js/main.js"></script>
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <link href="contact-us.php" rel="stylesheet">
+    <script src="contact-us.php" type="text/javascript" async></script>
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'

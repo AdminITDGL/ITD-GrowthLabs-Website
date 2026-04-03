@@ -64,6 +64,17 @@
     gtag('config', 'AW-17674012925');
     </script>
 
+
+    <!-- SEO Optimization -->
+    <link rel="canonical" href="https://itdgrowthlabs.com/whatsapp_marketing/WhatsApp-Chatbot.php" />
+    <meta property="og:title" content="WhatsApp Chatbot Services | ITD GrowthLabs" />
+    <meta property="og:description" content="Automate customer interactions with WhatsApp Chatbots. Provide instant replies, handle FAQs, generate leads, and offer 24/7 support with AI-driven workflows." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/whatsapp_marketing/WhatsApp-Chatbot.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"Service","name":"WhatsApp Chatbot Services","description":"Automate customer interactions with WhatsApp Chatbots. Provide instant replies, handle FAQs, generate leads, and offer 24/7 support with AI-driven wor","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"WhatsApp Marketing"}
+    </script>
 </head>
 
 <body>
@@ -277,7 +288,7 @@
                     <div class="attr-nav">
                         <ul>
                             <li class="button">
-                                <a href="https://calendly.com/itdgrowthlabs-info/30min">Book a Call</a>
+                                <a href="contact-us.php">Book a Call</a>
                             </li>
                         </ul>
                     </div>
@@ -317,7 +328,7 @@
                                     <li>Offer 24/7 customer interaction</li>
                                 </ul>
                                 <div class="button" style="margin-top: 20px;">
-                                    <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min">Let’s Talk</a>
+                                    <a class="btn btn-theme btn-md animation" href="contact-us.php">Let’s Talk</a>
                                 </div>
                             </div>
                         </div>
@@ -451,16 +462,16 @@
                 </div>
             </div>
             <div class="button" style="margin-top: 20px;">
-                <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min">Let’s Talk</a>
+                <a class="btn btn-theme btn-md animation" href="contact-us.php">Let’s Talk</a>
             </div>
         </div>
     </div>
     <!-- End Service Range -->
     <!-- Calendly inline widget begin -->
 
-    <!-- <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <!-- <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
 
-    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script> -->
+    <script type="text/javascript" src="contact-us.php" async></script> -->
 
 
     <!-- Calendly inline widget end -->
@@ -627,7 +638,7 @@
 
             </div>
             <div class="button" style="margin-top: 20px;text-align:center">
-                <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min">Let’s Talk</a>
+                <a class="btn btn-theme btn-md animation" href="contact-us.php">Let’s Talk</a>
             </div>
         </div>
     </div>
@@ -849,9 +860,9 @@
     <!-- End Why You Need Content Writing Services -->
     <!-- Calendly inline widget begin -->
 
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
 
-    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+    <script type="text/javascript" src="contact-us.php" async></script>
 
 
     <!-- Calendly inline widget end -->
@@ -1225,14 +1236,14 @@
     <script src="../assets/js/custom.js"></script>
     <!-- Calendly badge widget begin -->
 
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+    <link href="contact-us.php" rel="stylesheet">
 
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <script src="contact-us.php" type="text/javascript" async></script>
 
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'

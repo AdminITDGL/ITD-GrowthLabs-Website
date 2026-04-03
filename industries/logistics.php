@@ -617,6 +617,18 @@
             }
         }
     </style>
+    <link rel="canonical" href="https://itdgrowthlabs.com/industries/logistics.php" />
+    <meta property="og:title" content="Logistics & Supply Chain Solutions | ITD GrowthLabs" />
+    <meta property="og:description" content="Explore advanced logistics & supply chain solutions with ITD GrowthLabs. Optimize operations, improve efficiency, and streamline your logistics management." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/industries/logistics.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"Service","name":"Logistics & Supply Chain Digital Solutions","description":"Website development, app development, and digital marketing services for logistics and supply chain companies.","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Logistics Industry Solutions"}
+    </script>
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What digital solutions does ITD GrowthLabs offer for logistics companies?","acceptedAnswer":{"@type":"Answer","text":"We offer fleet management apps, delivery tracking systems, route optimization software, warehouse management systems, custom logistics websites, and digital marketing services including SEO and Google Ads specifically for logistics and supply chain businesses."}},{"@type":"Question","name":"How can digital marketing help logistics companies grow?","acceptedAnswer":{"@type":"Answer","text":"Digital marketing helps logistics companies generate qualified leads through SEO for industry keywords, Google Ads targeting shippers and manufacturers, LinkedIn B2B campaigns, and content marketing that establishes thought leadership in supply chain management."}},{"@type":"Question","name":"Do you build custom logistics apps?","acceptedAnswer":{"@type":"Answer","text":"Yes, we build custom logistics applications including fleet tracking apps, driver management systems, delivery scheduling platforms, warehouse inventory systems, and freight management solutions using Flutter, React Native, and native iOS/Android development."}}]}
+    </script>
 </head>
 
 <body>
@@ -642,7 +654,7 @@
                                 Improve efficiency with logistics &amp; supply chain and supply chain services. We deliver scalable logistics &amp; supply chain solutions for transportation, warehousing, distribution, and inventory management.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Streamline Now</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Streamline Now</a>
                             </div>
                         </div>
                     </div>
@@ -711,6 +723,13 @@
         </div>
     </div>
     <!-- End Banner -->
+
+    <div class="container mt-5 mb-3">
+        <div style="background: linear-gradient(135deg, #f8f9fa 0%, #e8f0fe 100%); border-left: 4px solid var(--color-primary); border-radius: 8px; padding: 25px 30px;">
+            <h3 style="font-size: 20px; font-weight: 700; color: var(--color-primary); margin-bottom: 12px;">Quick Summary — Digital Solutions for Logistics Companies</h3>
+            <p style="font-size: 15px; line-height: 1.8; color: #3c4043; margin: 0;"><strong>ITD GrowthLabs</strong> provides <strong>digital marketing, website development, and app development</strong> for <strong>logistics &amp; supply chain companies</strong>. We build fleet tracking apps, logistics websites, SEO strategies, and lead generation campaigns for businesses in <strong>India, USA, UK, UAE, and Australia</strong>. <a href="../contact-us.php">Get a free consultation</a>.</p>
+        </div>
+    </div>
 
     <!-- Start Clients/Partners
     ============================================= -->
@@ -958,91 +977,91 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-heartbeat fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic logistics &amp; supply chain services for businesses, focusing on planning, process optimization, and structured workflows to improve efficiency and performance</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Logistics &amp; Supply Chain Strategy</a></h4>
+                        <h4><a href="contact-us.php">Logistics &amp; Supply Chain Strategy</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-shopping-cart fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Scalable logistics &amp; supply chain services with network setup, system configuration, warehousing structure, and platform-ready operations</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Network Setup &amp; Configuration</a></h4>
+                        <h4><a href="contact-us.php">Network Setup &amp; Configuration</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Professional logistics &amp; supply chain ensuring services perform across transportation, warehousing, distribution, and inventory for consistent results</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Multi-Channel Operations Optimization</a></h4>
+                        <h4><a href="contact-us.php">Multi-Channel Operations Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Flexible logistics &amp; supply chain with optimized workflows, structured processes, and operations management to improve efficiency and accuracy</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Workflow Optimization</a></h4>
+                        <h4><a href="contact-us.php">Workflow Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-paint-brush fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Conversion-focused logistics &amp; supply chain designed with smart strategies, automation, and structured processes to improve operational performance</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Intelligent Process Enhancements</a></h4>
+                        <h4><a href="contact-us.php">Intelligent Process Enhancements</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-plane fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Advanced logistics &amp; supply chain strategies including network expansion, capacity scaling, and workflow improvements</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Operations Scaling &amp; Expansion</a></h4>
+                        <h4><a href="contact-us.php">Operations Scaling &amp; Expansion</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-shipping-fast fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>High-performing logistics &amp; supply chain with analytics, reporting tools, and tracking to evaluate operational efficiency</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Performance Tracking &amp; Analytics</a></h4>
+                        <h4><a href="contact-us.php">Performance Tracking &amp; Analytics</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-utensils fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Modern logistics &amp; supply chain improvements for existing operations to enhance structure, visibility, and performance</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Process Audit &amp; Optimization</a></h4>
+                        <h4><a href="contact-us.php">Process Audit &amp; Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cloud fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Reliable logistics &amp; supply chain support with continuous updates, performance improvements, and operational enhancements</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Ongoing Support &amp; Optimization</a></h4>
+                        <h4><a href="contact-us.php">Ongoing Support &amp; Optimization</a></h4>
                     </div>
                 </div>
             </div>
@@ -1436,7 +1455,7 @@
     <!-- End FAQ -->
 
     <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
 
     <!-- Start Footer
     ============================================= -->
@@ -1707,12 +1726,12 @@
     <script src="assets/js/TweenMax.min.js"></script>
     <script src="assets/js/validnavs.js"></script>
     <script src="assets/js/main.js"></script>
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <link href="contact-us.php" rel="stylesheet">
+    <script src="contact-us.php" type="text/javascript" async></script>
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'

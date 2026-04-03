@@ -617,6 +617,18 @@
             }
         }
     </style>
+    <link rel="canonical" href="https://itdgrowthlabs.com/industries/professional_services.php" />
+    <meta property="og:title" content="Professional Services Digital Solutions | ITD GrowthLabs" />
+    <meta property="og:description" content="Digital solutions for professional services firms including consulting websites, client portals, and B2B lead generation marketing." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/industries/professional_services.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"Service","name":"Professional Services Digital Solutions","description":"Website development and digital marketing for consulting firms, law firms, accounting firms, and professional services businesses.","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Professional Services Solutions"}
+    </script>
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What digital solutions do professional services firms need?","acceptedAnswer":{"@type":"Answer","text":"Professional services firms need authority-building websites, client portals, case study showcases, SEO for expertise-based keywords, LinkedIn thought leadership, and content marketing that demonstrates domain expertise to attract high-value B2B clients."}},{"@type":"Question","name":"How can consulting firms generate leads online?","acceptedAnswer":{"@type":"Answer","text":"Consulting firms generate leads through thought leadership content, LinkedIn advertising, SEO for industry-specific problem keywords, webinar funnels, case study marketing, and Google Ads targeting businesses searching for consulting solutions."}},{"@type":"Question","name":"Do you build client portals for service firms?","acceptedAnswer":{"@type":"Answer","text":"Yes, we build secure client portals with project dashboards, document sharing, invoicing, messaging systems, and progress tracking. Our portals integrate with CRM systems and are designed for seamless client collaboration."}}]}
+    </script>
 </head>
 
 <body>
@@ -642,7 +654,7 @@
                                 Enhance your business with professional services solutions. We deliver scalable services for operations management, workflow optimization, client engagement, and process improvement to drive higher productivity.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Optimize Operations</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Optimize Operations</a>
                             </div>
                         </div>
                     </div>
@@ -711,6 +723,13 @@
         </div>
     </div>
     <!-- End Banner -->
+
+    <div class="container mt-5 mb-3">
+        <div style="background: linear-gradient(135deg, #f8f9fa 0%, #e8f0fe 100%); border-left: 4px solid var(--color-primary); border-radius: 8px; padding: 25px 30px;">
+            <h3 style="font-size: 20px; font-weight: 700; color: var(--color-primary); margin-bottom: 12px;">Quick Summary — IT Solutions for Professional Services</h3>
+            <p style="font-size: 15px; line-height: 1.8; color: #3c4043; margin: 0;"><strong>ITD GrowthLabs</strong> delivers <strong>custom IT solutions for professional services firms</strong> — including <strong>law firms, consulting agencies, and accounting practices</strong>. From <strong>CRM automation</strong> and <strong>client portal development</strong> to <strong>SEO and digital marketing</strong>, we help professional service providers streamline operations and grow their client base across <strong>India, USA, UK, UAE & Australia</strong>. <a href="contact-us.php">Get a Free Consultation →</a></p>
+        </div>
+    </div>
 
     <!-- Start Clients/Partners
     ============================================= -->
@@ -958,91 +977,91 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-bullseye fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic professional services focused on workflow structuring, process optimization, and service planning to improve efficiency and business outcomes</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Professional Services Planning &amp; Strategy</a></h4>
+                        <h4><a href="contact-us.php">Professional Services Planning &amp; Strategy</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-plug fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Scalable professional services with process setup, system integration, and platform management for seamless operations</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Service Setup &amp; Integration</a></h4>
+                        <h4><a href="contact-us.php">Service Setup &amp; Integration</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Professional services solutions ensuring smooth coordination across project delivery, client management, reporting, and performance monitoring</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Operational &amp; Service Optimization</a></h4>
+                        <h4><a href="contact-us.php">Operational &amp; Service Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-project-diagram fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Flexible professional services workflows with structured systems and optimized processes to improve speed, accuracy, and operational efficiency</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Process &amp; Workflow Enhancement</a></h4>
+                        <h4><a href="contact-us.php">Process &amp; Workflow Enhancement</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-magic fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Advanced professional services solutions using automation, digital tools, and intelligent systems to enhance service delivery and decision-making</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Smart Service Innovations</a></h4>
+                        <h4><a href="contact-us.php">Smart Service Innovations</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-layer-group fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic professional services scaling with client onboarding, project capacity expansion, and operational growth for increasing demand</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Scaling &amp; Capacity Expansion</a></h4>
+                        <h4><a href="contact-us.php">Scaling &amp; Capacity Expansion</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-chart-line fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Data-driven professional services with analytics, reporting, and tracking to optimize project performance, client satisfaction, and service quality</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Insights &amp; Performance Monitoring</a></h4>
+                        <h4><a href="contact-us.php">Insights &amp; Performance Monitoring</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-shield-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Modern professional services enhancements ensuring regulatory compliance, structured processes, and improved operational standards</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Compliance &amp; Process Improvement</a></h4>
+                        <h4><a href="contact-us.php">Compliance &amp; Process Improvement</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-headset fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Reliable professional services support with ongoing updates, process improvements, and performance optimization</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Continuous Support &amp; Improvement</a></h4>
+                        <h4><a href="contact-us.php">Continuous Support &amp; Improvement</a></h4>
                     </div>
                 </div>
             </div>
@@ -1436,7 +1455,7 @@
     <!-- End FAQ -->
 
     <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
 
     <!-- Start Footer
     ============================================= -->
@@ -1707,12 +1726,12 @@
     <script src="assets/js/TweenMax.min.js"></script>
     <script src="assets/js/validnavs.js"></script>
     <script src="assets/js/main.js"></script>
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <link href="contact-us.php" rel="stylesheet">
+    <script src="contact-us.php" type="text/javascript" async></script>
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'

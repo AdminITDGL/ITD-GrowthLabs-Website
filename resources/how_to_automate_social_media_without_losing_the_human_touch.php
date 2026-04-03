@@ -45,6 +45,21 @@
         <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
     <![endif]-->
 
+
+    <!-- SEO Optimization -->
+    <link rel="canonical" href="https://itdgrowthlabs.com/resources/how_to_automate_social_media_without_losing_the_human_touch.php" />
+    <meta property="og:title" content="Automate Social Content Without Losing Authenticity | ITD GrowthLabs" />
+    <meta property="og:description" content="Discover the best SEO content tools, writing tools for SEO, content optimization software, and keyword tools that every marketer should leverage in 2025 to enhance content performance and search ranki" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/resources/how_to_automate_social_media_without_losing_the_human_touch.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <meta property="og:site_name" content="ITD GrowthLabs" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Automate Social Content Without Losing Authenticity | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Discover the best SEO content tools, writing tools for SEO, content optimization software, and keyword tools that every marketer should leverage in 20" />
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"BlogPosting","headline":"Automate Social Content Without Losing Authenticity | ITD GrowthLabs","description":"Discover the best SEO content tools, writing tools for SEO, content optimization software, and keyword tools that every marketer should leverage in 2025 to enhance content performance and search ranki","author":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"publisher":{"@type":"Organization","name":"ITD GrowthLabs","logo":{"@type":"ImageObject","url":"https://itdgrowthlabs.com/assets/img/logo.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://itdgrowthlabs.com/resources/how_to_automate_social_media_without_losing_the_human_touch.php"},"articleSection":"Video Marketing"}
+    </script>
 </head>
 
 <body>
@@ -503,14 +518,14 @@
 
     <!-- Calendly badge widget begin -->
 
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+    <link href="contact-us.php" rel="stylesheet">
 
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <script src="contact-us.php" type="text/javascript" async></script>
 
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'
@@ -520,9 +535,9 @@
 
     <!-- Calendly inline widget begin -->
 
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdGrowthLabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
 
-    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+    <script type="text/javascript" src="contact-us.php" async></script>
 
 
     <!-- Calendly inline widget end -->
@@ -835,14 +850,14 @@
     <script type="text/javascript" src='https://www.google.com/recaptcha/api.js' async defer></script>
     <!-- Calendly badge widget begin -->
 
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+    <link href="contact-us.php" rel="stylesheet">
 
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <script src="contact-us.php" type="text/javascript" async></script>
 
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'

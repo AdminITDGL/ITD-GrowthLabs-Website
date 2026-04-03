@@ -616,6 +616,17 @@
             }
         }
     </style>
+
+    <!-- SEO Optimization -->
+    <link rel="canonical" href="https://itdgrowthlabs.com/lp/landing_page.php" />
+    <meta property="og:title" content="Landing Page Design Services for Conversions | ITD GrowthLabs" />
+    <meta property="og:description" content="Professional landing page design services to create high-converting, visually engaging pages for marketing campaigns. Our landing page design focuses on user experience, lead generation, and optimized" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/lp/landing_page.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"Service","name":"Landing Page Design Services for Conversions","description":"Professional landing page design services to create high-converting, visually engaging pages for marketing campaigns. Our landing page design focuses ","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Digital Services"}
+    </script>
 </head>
 
 <body>
@@ -641,7 +652,7 @@
                                 Boost campaign results with expert landing page design. Our landing page design creates fast, engaging, and conversion-focused pages built to capture leads and drive business growth.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" >Get Started</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" >Get Started</a>
                             </div>
                         </div>
                     </div>
@@ -957,91 +968,91 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-building fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic Landing Page Design for marketing campaigns, focusing on strong branding, clear messaging, and seamless user experience for higher conversions.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Campaign Landing Page Design</a></h4>
+                        <h4><a href="contact-us.php">Campaign Landing Page Design</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-shopping-cart fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Scalable Landing Page Design built to capture leads with optimized forms, compelling CTAs, and conversion-focused layouts.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Lead Generation Pages</a></h4>
+                        <h4><a href="contact-us.php">Lead Generation Pages</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Professional Landing Page Design ensuring pages perform smoothly across desktops, tablets, and mobile devices for maximum reach.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Responsive Page Design</a></h4>
+                        <h4><a href="contact-us.php">Responsive Page Design</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fab fa-wordpress fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Flexible Landing Page Design that guides visitors through clear content structure and persuasive design elements.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Conversion-Focused Layouts</a></h4>
+                        <h4><a href="contact-us.php">Conversion-Focused Layouts</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-paint-brush fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Conversion-driven Landing Page Design built around user behavior, creating intuitive layouts that improve engagement and campaign results.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Landing Page UI/UX Design</a></h4>
+                        <h4><a href="contact-us.php">Landing Page UI/UX Design</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-code fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Advanced Landing Page Design with custom visuals, messaging, and layouts tailored to specific marketing goals.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Custom Campaign Page Design</a></h4>
+                        <h4><a href="contact-us.php">Custom Campaign Page Design</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-bullseye fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>High-converting Landing Page Design built for marketing funnels to capture leads and improve campaign performance.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Sales Funnel Landing Pages</a></h4>
+                        <h4><a href="contact-us.php">Sales Funnel Landing Pages</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-sync-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Modern Landing Page Design upgrades for outdated pages to improve speed, SEO performance, and visual appeal.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Landing Page Redesign</a></h4>
+                        <h4><a href="contact-us.php">Landing Page Redesign</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-tools fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Reliable Landing Page Design support with updates, performance monitoring, and continuous optimization for better results.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Landing Page Maintenance & Support</a></h4>
+                        <h4><a href="contact-us.php">Landing Page Maintenance & Support</a></h4>
                     </div>
                 </div>
             </div>
@@ -1296,7 +1307,7 @@
                         <h2 class="title text-white mb-30">Ready to Build Your Landing Page?</h2>
                         <p class="text-white">Work with a trusted Landing Page Design company for high-converting campaigns.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Let's Talk</a>
+                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Let's Talk</a>
                         </div>
                     </div>
                 </div>
@@ -1398,7 +1409,7 @@
     <!-- End FAQ -->
 
     <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
 
     <!-- Start Footer
     ============================================= -->
@@ -1669,12 +1680,12 @@
     <script src="../assets/js/TweenMax.min.js"></script>
     <script src="../assets/js/validnavs.js"></script>
     <script src="../assets/js/main.js"></script>
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <link href="contact-us.php" rel="stylesheet">
+    <script src="contact-us.php" type="text/javascript" async></script>
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'

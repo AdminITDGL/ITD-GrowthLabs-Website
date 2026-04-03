@@ -616,6 +616,15 @@
             }
         }
     </style>
+    <link rel="canonical" href="https://itdgrowthlabs.com/services/data_notation.php" />
+    <meta property="og:title" content="Data Annotation Services | ITD GrowthLabs" />
+    <meta property="og:description" content="Enhance AI models with data annotation services and data labeling solutions. Improve accuracy with high-quality data annotation for image, text, and video datasets." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/services/data_notation.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"Service","name":"Data Annotation","description":"High-quality data annotation services for image, text, and video datasets to enhance AI models","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"AI & Data Services"}
+    </script>
 </head>
 
 <body>
@@ -641,7 +650,7 @@
                                 Improve accuracy with data annotation services and data labeling solutions. ITD GrowthLabs delivers scalable data annotation services for image, text, and video datasets.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Start Annotating</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Start Annotating</a>
                             </div>
                         </div>
                     </div>
@@ -957,91 +966,91 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-bullseye fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic data annotation services and data labeling solutions for businesses, focusing on dataset planning, labeling workflows, and structured processes to improve accuracy and performance.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Data Annotation Strategy</a></h4>
+                        <h4><a href="contact-us.php">Data Annotation Strategy</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Scalable data annotation services with dataset setup, configuration, data structuring, and platform-ready data labeling solutions.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Dataset Setup & Configuration</a></h4>
+                        <h4><a href="contact-us.php">Dataset Setup & Configuration</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-layer-group fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Professional data annotation services ensuring data labeling solutions perform across image, text, and video datasets for consistent results.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Multi-Format Optimization</a></h4>
+                        <h4><a href="contact-us.php">Multi-Format Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-project-diagram fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Flexible data annotation services with optimized workflows, structured datasets, and labeling processes to improve efficiency and accuracy.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Annotation Workflow Optimization</a></h4>
+                        <h4><a href="contact-us.php">Annotation Workflow Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-brain fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Conversion-focused data annotation services designed with smart labeling strategies and structured processes to improve model performance.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Intelligent Annotation Enhancements</a></h4>
+                        <h4><a href="contact-us.php">Intelligent Annotation Enhancements</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-sync-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Advanced data annotation services and data labeling solutions strategies including dataset updates, scaling, and workflow improvements.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Annotation Updates & Scaling</a></h4>
+                        <h4><a href="contact-us.php">Annotation Updates & Scaling</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-chart-bar fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>High-performing data annotation services with analytics, reporting tools, and tracking to evaluate dataset quality.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Performance Tracking & Analytics</a></h4>
+                        <h4><a href="contact-us.php">Performance Tracking & Analytics</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-clipboard-check fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Modern data annotation services improvements for existing datasets to enhance structure, clarity, and labeling accuracy.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Annotation Audit & Optimization</a></h4>
+                        <h4><a href="contact-us.php">Annotation Audit & Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-tools fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Reliable data annotation services support with continuous updates, performance improvements, and strategy enhancements.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Ongoing Support & Optimization</a></h4>
+                        <h4><a href="contact-us.php">Ongoing Support & Optimization</a></h4>
                     </div>
                 </div>
             </div>
@@ -1126,7 +1135,7 @@
                         <h2 class="title text-white mb-30">Ready to Enhance Your AI Models?</h2>
                         <p class="text-white">Work with a trusted data annotation company for high-quality data labeling that improves model accuracy and AI performance.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Let's Talk</a>
+                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Let's Talk</a>
                         </div>
                     </div>
                 </div>
@@ -1256,7 +1265,7 @@
     <!-- End FAQ -->
 
     <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
 
     <!-- Start Footer
     ============================================= -->
@@ -1527,12 +1536,10 @@
     <script src="../assets/js/TweenMax.min.js"></script>
     <script src="../assets/js/validnavs.js"></script>
     <script src="../assets/js/main.js"></script>
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'

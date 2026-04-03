@@ -616,6 +616,17 @@
             }
         }
     </style>
+
+    <!-- SEO Optimization -->
+    <link rel="canonical" href="https://itdgrowthlabs.com/services/website-content-writing.php" />
+    <meta property="og:title" content="Website Content Writing Services for Businesses | ITD GrowthLabs" />
+    <meta property="og:description" content="Craft compelling and persuasive website content with ITD GrowthLabs. Our expert content writing enhances SEO, engages visitors, and strengthens your brand presence for measurable business growth." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/services/website-content-writing.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"Service","name":"Website Content Writing Services for Businesses","description":"Craft compelling and persuasive website content with ITD GrowthLabs. Our expert content writing enhances SEO, engages visitors, and strengthens your b","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Content and SEO"}
+    </script>
 </head>
 
 <body>
@@ -641,7 +652,7 @@
                                 Enhance your brand and engage visitors with professional website content writing. Our content writing services deliver SEO-optimized, persuasive, and high-quality website content to boost traffic, conversions, and business growth.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Create Content</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Create Content</a>
                             </div>
                         </div>
                     </div>
@@ -957,91 +968,91 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-sitemap fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic Website Content Writing for businesses, focusing on keyword research, content planning, and engagement strategies to improve brand visibility and online ROI.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Website Content Strategy</a></h4>
+                        <h4><a href="contact-us.php">Website Content Strategy</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Scalable Website Content Writing services with structure planning, content scheduling, audience analysis, and secure platform setup for maximum efficiency.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Content Development Setup</a></h4>
+                        <h4><a href="contact-us.php">Content Development Setup</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Professional Website Content Writing ensuring content displays correctly on desktops, tablets, and mobile devices for higher user engagement.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Multi-Device & SEO Optimization</a></h4>
+                        <h4><a href="contact-us.php">Multi-Device & SEO Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-search-dollar fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Flexible Website Content Writing with optimized headings, meta descriptions, and A/B testing to boost readability, engagement, and search visibility.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Content & Copy Optimization</a></h4>
+                        <h4><a href="contact-us.php">Content & Copy Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-paint-brush fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Conversion-focused Website Content Writing designed around user behavior to improve content relevance, engagement, and overall site performance.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Creative Enhancements</a></h4>
+                        <h4><a href="contact-us.php">Creative Enhancements</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-sync-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Advanced Website Content Writing strategies including regular updates, topic expansion, and internal linking to maintain search rankings and traffic.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Content Refresh & Updates</a></h4>
+                        <h4><a href="contact-us.php">Content Refresh & Updates</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-chart-bar fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>High-performing Website Content Writing with monitoring, analytics, and reporting to enhance content impact and ROI.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Performance Tracking & Analytics</a></h4>
+                        <h4><a href="contact-us.php">Performance Tracking & Analytics</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-clipboard-check fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Modern Website Content Writing upgrades for existing sites to improve structure, readability, and overall content efficiency.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Audit & Redesign</a></h4>
+                        <h4><a href="contact-us.php">Audit & Redesign</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-tools fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Reliable Website Content Writing support with continuous updates, SEO improvements, reporting, and content strategy enhancements for sustained results.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Ongoing Support & Optimization</a></h4>
+                        <h4><a href="contact-us.php">Ongoing Support & Optimization</a></h4>
                     </div>
                 </div>
             </div>
@@ -1138,7 +1149,7 @@
                         <h2 class="title text-white mb-30">Ready to Elevate Your Website Content?</h2>
                         <p class="text-white">Work with a trusted Website Content Writing agency for compelling, SEO-optimized content that engages visitors and drives growth.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Let's Talk</a>
+                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Let's Talk</a>
                         </div>
                     </div>
                 </div>
@@ -1236,7 +1247,7 @@
     <!-- End FAQ -->
 
     <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
 
     <!-- Start Footer
     ============================================= -->
@@ -1507,12 +1518,12 @@
     <script src="../assets/js/TweenMax.min.js"></script>
     <script src="../assets/js/validnavs.js"></script>
     <script src="../assets/js/main.js"></script>
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <link href="contact-us.php" rel="stylesheet">
+    <script src="contact-us.php" type="text/javascript" async></script>
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'

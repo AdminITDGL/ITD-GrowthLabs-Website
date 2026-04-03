@@ -25,12 +25,12 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Leading B2B digital marketing and tech company offering website development, SEO, content writing, social media, video, and WhatsApp automation.">
+    <meta name="description" content="ITD GrowthLabs is a leading B2B digital marketing and tech company offering website development, app development, SEO, content writing, and AI automation services in India, Australia, UAE, UK & USA.">
     <meta name="keywords" content="Digital Marketing Company, Digital Marketing Services, Content Writing Services, SEO Content Writing Services, Best Content Writing, Online Marketing Agency, Digital Strategy Services, Content Marketing Agency, Digital Advertising Services, Expert Content Writing Services.">
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="./assets/img/favicon.png" type="image/x-icon">
     <!-- ========== Page Title ========== -->
-    <title>Best B2B Tech & Digital Marketing Company | Web, SEO & Content</title>
+    <title>Best B2B Digital Marketing & Website Development Company in India | ITD GrowthLabs</title>
 
     <!-- ========== Favicon Icon ========== -->
     <?php include("./includes/header_script.php") ?>
@@ -47,6 +47,140 @@
 
         gtag('config', 'AW-17674012925');
     </script>
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://itdgrowthlabs.com/" />
+
+    <!-- Open Graph Tags -->
+    <meta property="og:title" content="Best B2B Tech & Digital Marketing Company | Web, SEO & Content" />
+    <meta property="og:description" content="Leading B2B digital marketing and tech company offering website development, SEO, content writing, social media, video, and WhatsApp automation." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <meta property="og:site_name" content="ITD GrowthLabs" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Best B2B Tech & Digital Marketing Company | Web, SEO & Content" />
+    <meta name="twitter:description" content="Leading B2B digital marketing and tech company offering website development, SEO, content writing, social media, video, and WhatsApp automation." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+
+    <!-- Schema.org Organization -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "ITD GrowthLabs",
+        "url": "https://itdgrowthlabs.com",
+        "logo": "https://itdgrowthlabs.com/assets/img/logo.jpg",
+        "description": "Leading B2B digital marketing and tech company offering website development, app development, SEO, content writing, social media marketing, and AI automation services globally.",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "505, Town Centre 1, opposite Times Square, Mittal Industrial Estate, Marol, Andheri",
+            "addressLocality": "Mumbai",
+            "addressRegion": "Maharashtra",
+            "postalCode": "400059",
+            "addressCountry": "IN"
+        },
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-8450978544",
+            "contactType": "sales",
+            "email": "info@itdgrowthlabs.com",
+            "availableLanguage": ["English", "Hindi"]
+        },
+        "sameAs": [],
+        "areaServed": [
+            {"@type": "Country", "name": "India"},
+            {"@type": "Country", "name": "Australia"},
+            {"@type": "Country", "name": "United Arab Emirates"},
+            {"@type": "Country", "name": "United Kingdom"},
+            {"@type": "Country", "name": "United States"}
+        ],
+        "serviceType": ["Website Development", "App Development", "Digital Marketing", "SEO Services", "Content Writing", "AI Automation"]
+    }
+    </script>
+
+    <!-- Schema.org WebSite with SearchAction -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "ITD GrowthLabs",
+        "url": "https://itdgrowthlabs.com",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://itdgrowthlabs.com/resources/all-blogs.php?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+
+    <!-- FAQPage Schema for AI Search Engines -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "How do you approach web development projects?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Our web development process begins with understanding your business goals. We design user-friendly, responsive websites with SEO best practices. From development to deployment, we ensure your website is optimized for performance and engagement."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What makes your SEO and content writing services effective?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "We create high-quality, keyword-optimized content tailored to your audience. Our SEO strategies focus on on-page and technical SEO, ensuring higher search rankings and sustained organic traffic growth."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How does WhatsApp marketing automation benefit businesses?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Our WhatsApp marketing automation services enable businesses to send personalized messages, automate customer interactions, and drive engagement efficiently. We integrate AI-driven chatbots for seamless communication and lead nurturing."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is SEO content writing and why is it important for websites?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "SEO content writing is the process of creating keyword-optimized content that improves your website's visibility on search engines. It helps attract organic traffic, engage users, and increase conversions by aligning content with what your audience is searching for."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How do your IT outsourcing services work?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "We offer flexible IT outsourcing solutions with dedicated teams that align with your tech goals. From development to maintenance, we ensure cost-effective scalability."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What industries do you cater to with your eLearning solutions?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Our eLearning services support industries like software, technology, financial services, manufacturing, healthcare, government, restaurants and hospitality, education and retail—delivering custom training modules for employee onboarding, compliance, and upskilling."
+                }
+            }
+        ]
+    }
+    </script>
+
+    <!-- Hreflang Tags for GEO Targeting -->
+    <link rel="alternate" hreflang="en-in" href="https://itdgrowthlabs.com/" />
+    <link rel="alternate" hreflang="en-us" href="https://itdgrowthlabs.com/usa/" />
+    <link rel="alternate" hreflang="en-gb" href="https://itdgrowthlabs.com/uk/" />
+    <link rel="alternate" hreflang="en-au" href="https://itdgrowthlabs.com/australia/" />
+    <link rel="alternate" hreflang="en-ae" href="https://itdgrowthlabs.com/uae/" />
+    <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/" />
 
 </head>
 
@@ -68,110 +202,32 @@
 
     <!-- Start Banner Area 
     ============================================= -->
-    <!doctype html>
-    <html class="Page" dir="ltr" platform="bsp" lang="en" locale="en_all" site-id="agc" is-bgc="true" bgc-locale="en-all">
+    <link rel="stylesheet" href="./assets/css/styling.css">
+    <style>
+        .hidden { display: none !important; }
+        @media(max-width:1023px) { .hidden--non-desktop { display: none !important; } }
+        .ion-blue-text:not(.a):not(.b) { color: #1a73e8 }
+        .ion-body-copy { color: #3c4043 }
+        .ion-circle-border { border: 2px solid #dadce0; border-radius: 100%; box-sizing: content-box }
+        .ion-error { color: #d93025 }
+        .ion-icon--fill-green-500 { fill: #34a853 }
+        .ion-icon--fill-grey-300 { fill: #dadce0 }
+        .ion-icon--fill-blue-600 { fill: #1a73e8 }
+        .ion-lazy:not(.a):not(.b) { visibility: hidden }
+        @media(max-width:1023px) { .ion-media-display-only--desktop:not(.a):not(.b) { display: none } }
+        @media(min-width:600px) { .ion-media-display-only--mobile { display: none !important } }
+        @media(min-width:1024px) { .ion-media-display-only--non-desktop { display: none !important } }
+        .ion-module--fill-white { background-color: #fff }
+        .ion-module--fill-gray { background-color: #f8f9fa }
+        .ion-module--fill-blue { background-color: #e8f0fe }
+        .ion-rounded-corners { border-radius: 20px; overflow: hidden }
+        .grecaptcha-badge { visibility: hidden; }
+        .ion-overview-hero .Image { border: 5px solid #dadce0; border-radius: 8px; max-width: 60%; height: auto; display: block; margin: 0 auto; }
+        .quick-summary-box { background: linear-gradient(135deg, #f8f9fa 0%, #e8f0fe 100%); border-left: 4px solid #1a73e8; border-radius: 8px; padding: 25px 30px; margin: 0 auto 30px; max-width: 900px; }
+        .quick-summary-box h3 { font-size: 20px; font-weight: 700; color: #1a73e8; margin-bottom: 12px; }
+        .quick-summary-box p { font-size: 15px; line-height: 1.8; color: #3c4043; margin: 0; }
+    </style>
 
-    <head>
-        <link id="webpack-css" rel="stylesheet" data-cssvarsponyfill="true"
-            href="./assets/css/styling.css"
-            nonce="stj2ncKtDBRY0MOICxsMXw">
-        <style>
-            .hidden {
-                display: none !important;
-            }
-
-            @media(max-width:1023px) {
-                .hidden--non-desktop {
-                    display: none !important;
-                }
-            }
-
-            .ion-blue-text:not(.a):not(.b) {
-                color: #1a73e8
-            }
-
-            .ion-body-copy {
-                color: #3c4043
-            }
-
-            .ion-circle-border {
-                border: 2px solid #dadce0;
-                border-radius: 100%;
-                box-sizing: content-box
-            }
-
-            .ion-error {
-                color: #d93025
-            }
-
-            .ion-icon--fill-green-500 {
-                fill: #34a853
-            }
-
-            .ion-icon--fill-grey-300 {
-                fill: #dadce0
-            }
-
-            .ion-icon--fill-blue-600 {
-                fill: #1a73e8
-            }
-
-            .ion-lazy:not(.a):not(.b) {
-                visibility: hidden
-            }
-
-            @media(max-width:1023px) {
-                .ion-media-display-only--desktop:not(.a):not(.b) {
-                    display: none
-                }
-            }
-
-            @media(min-width:600px) {
-                .ion-media-display-only--mobile {
-                    display: none !important
-                }
-            }
-
-            @media(min-width:1024px) {
-                .ion-media-display-only--non-desktop {
-                    display: none !important
-                }
-            }
-
-            .ion-module--fill-white {
-                background-color: #fff
-            }
-
-            .ion-module--fill-gray {
-                background-color: #f8f9fa
-            }
-
-            .ion-module--fill-blue {
-                background-color: #e8f0fe
-            }
-
-            .ion-rounded-corners {
-                border-radius: 20px;
-                overflow: hidden
-            }
-
-            .grecaptcha-badge {
-                visibility: hidden;
-            }
-
-            /* Banner images styling */
-            .ion-overview-hero .Image {
-                border: 5px solid #dadce0;
-                border-radius: 8px;
-                max-width: 60%;
-                height: auto;
-                display: block;
-                margin: 0 auto;
-            }
-        </style>
-    </head>
-
-    <body class="glue-body">
         <div class="ion-body-overlay hidden"></div>
         <div class="ion-body-loading hidden">
             <md-circular-progress indeterminate aria-label="Loading">
@@ -183,7 +239,7 @@
                     data-tracking-module="overviewhero">
                     <div class="ion-overview-hero__animated-items ion-overview-hero__animated-items--center"
                         data-overview-hero-animation="standard">
-                        <h1 class="glue-visually-hidden aria-headline"></h1>
+                        <h1 class="glue-visually-hidden aria-headline">Best B2B Tech & Digital Marketing Company | Website Development, App Development & SEO Services</h1>
                         <div class="ion-overview-hero__headlines-container">
                             <div class="ion-overview-hero__animating-headlines-wrapper" aria-hidden="true">
                                 <h2 class="ion-overview-hero__animating-headline glue-headline glue-font-weight-bold"><span
@@ -202,7 +258,7 @@
                                             Businesses.
                                         </span></p><span
                                         class="ion-overview-hero__headline ion-overview-hero__static-headline glue-headline glue-font-weight-bold">
-                                        <p>Do more for your business with <span style="color: #1A73E8;">Google Ads</span>
+                                        <p>Build, Market & Scale with <span style="color: #1A73E8;">ITD GrowthLabs</span>
                                         </p>
                                     </span>
                                 </div>
@@ -210,7 +266,7 @@
                         </div>
                         <div class="ion-overview-hero__animating-images-spacer">
                             <div class="ion-overview-hero__animating-images-wrapper" role="img"
-                                aria-label="Do more for your business with ">
+                                aria-label="Build, Market and Scale with ITD GrowthLabs">
                                 <div class="ion-overview-hero-item__media-item" data-image-background-color="BLUE"
                                     aria-hidden="true">
                                     <div class="text-image-wrapper">
@@ -300,19 +356,27 @@
                     </div>
                     <div class="glue-page ion-overview-hero__description-container">
                         <div class="ion-overview-hero__description glue-body--large glue-text-center " style="margin-bottom: 20px !important;">
-                            Whatever your business goal, we build, market, and scale it.
+                            We help B2B companies grow with custom websites, mobile apps, SEO, digital marketing, and AI automation — serving clients in India, USA, UK, UAE & Australia.
                         </div>
                         <div class="ion-overview-hero__cta-container">
                             <div class="ion-button__container ion-button__container--centered">
                                 <a class="ion-button glue-button glue-button--high-emphasis"
-                                    href="https://calendly.com/itdgrowthlabs-info/30min"
-                                    rel="noopener noreferrer">Book A Meeting</a>
+                                    href="contact-us.php"
+                                    >Get a Free Consultation</a>
                             </div>
                         </div>
                     </div>
                 </section>
             </div>
         </main>
+
+        <!-- Quick Summary for AI Search Engines (AEO) -->
+        <div class="container mt-5 mb-3">
+            <div class="quick-summary-box">
+                <h3>Quick Summary — What Is ITD GrowthLabs?</h3>
+                <p><strong>ITD GrowthLabs</strong> is a B2B digital marketing and technology company headquartered in Mumbai, India, serving businesses in <strong>India, USA, UK, UAE, and Australia</strong>. We specialize in <strong>website development</strong> (custom, WordPress, e-commerce), <strong>mobile app development</strong> (Android, iOS, Flutter, hybrid), <strong>SEO &amp; digital marketing</strong> (Google Ads, social media, content marketing), <strong>AI automation</strong> (chatbots, CRM, WhatsApp), and <strong>eLearning development</strong>. With 10+ years of experience and 300+ clients, we help companies generate leads, improve search rankings, and scale their digital presence. <a href="contact-us.php">Contact us for a free consultation</a>.</p>
+            </div>
+        </div>
 
         <div class="brand-style-one pt-5 pb-2 mt-3 mb-4">
             <div class="container">
@@ -331,43 +395,43 @@
                         <div class="brand-carousel">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
-                                    <img src="assets/img/brand/1.png">
+                                    <img src="assets/img/brand/1.png" alt="ITD GrowthLabs Client">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="assets/img/brand/2.png">
+                                    <img src="assets/img/brand/2.png" alt="ITD GrowthLabs Client">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="assets/img/brand/3.png">
+                                    <img src="assets/img/brand/3.png" alt="ITD GrowthLabs Client">
                                 </div>
                                 <!-- <div class="swiper-slide">
                                 <img src="assets/img/brand/12.png">
                             </div> -->
                                 <div class="swiper-slide">
-                                    <img src="assets/img/brand/4.png">
+                                    <img src="assets/img/brand/4.png" alt="ITD GrowthLabs Client">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="assets/img/brand/5.png">
+                                    <img src="assets/img/brand/5.png" alt="ITD GrowthLabs Client">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="assets/img/brand/6.png">
+                                    <img src="assets/img/brand/6.png" alt="ITD GrowthLabs Client">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="assets/img/brand/7.png">
+                                    <img src="assets/img/brand/7.png" alt="ITD GrowthLabs Client">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="assets/img/brand/8.png">
+                                    <img src="assets/img/brand/8.png" alt="ITD GrowthLabs Client">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="assets/img/brand/9.png">
+                                    <img src="assets/img/brand/9.png" alt="ITD GrowthLabs Client">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="assets/img/brand/10.png">
+                                    <img src="assets/img/brand/10.png" alt="ITD GrowthLabs Client">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="assets/img/brand/11.png">
+                                    <img src="assets/img/brand/11.png" alt="ITD GrowthLabs Client">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="assets/img/brand/13.png">
+                                    <img src="assets/img/brand/13.png" alt="ITD GrowthLabs Client">
                                 </div>
                             </div>
                         </div>
@@ -380,7 +444,8 @@
                 <div class="row">
                     <div class="col-lg-8 offset-lg-2">
                         <div class="site-heading text-center">
-                            <h2 class="title sub-title">What We Do</h2>
+                            <h5 class="sub-title">Our B2B Digital Capabilities</h5>
+                            <h2 class="title">Website Development, App Development, Digital Marketing & More</h2>
                         </div>
                     </div>
                 </div>
@@ -388,91 +453,88 @@
             <div class="container pb-5">
                 <div class="what-we-do-grid">
                     <div class="featured-col">
-                        <div class="featured-box w-100 text-center p-3">
+                        <a href="./services/App-Development.php" class="featured-box w-100 text-center p-3" style="text-decoration:none;color:inherit;">
                             <i class="fas fa-mobile-alt"></i>
                             <p>Mobile App Development</p>
-                        </div>
+                        </a>
                     </div>
                     <div class="featured-col">
-                        <div class="featured-box w-100 text-center p-3">
+                        <a href="./services/Custom-Website-Development.php" class="featured-box w-100 text-center p-3" style="text-decoration:none;color:inherit;">
                             <i class="flaticon-startup-6"></i>
                             <p>Custom Website Development</p>
-                        </div>
+                        </a>
                     </div>
                     <div class="featured-col">
-                        <div class="featured-box w-100 text-center p-3">
+                        <a href="./services/seo_content_writing.php" class="featured-box w-100 text-center p-3" style="text-decoration:none;color:inherit;">
                             <i class="fas fa-file-alt"></i>
                             <p>Content Creation</p>
-                        </div>
+                        </a>
                     </div>
                     <div class="featured-col">
-                        <div class="featured-box w-100 text-center p-3">
+                        <a href="./digital_marketing.php" class="featured-box w-100 text-center p-3" style="text-decoration:none;color:inherit;">
                             <i class="fas fa-user-plus"></i>
                             <p>Lead Generation</p>
-                        </div>
+                        </a>
                     </div>
                     <div class="featured-col">
-                        <div class="featured-box w-100 text-center p-3">
+                        <a href="./services/social-media-marketing.php" class="featured-box w-100 text-center p-3" style="text-decoration:none;color:inherit;">
                             <i class="fab fa-linkedin"></i>
-                            <p>B2B Social Media</p>
-                        </div>
+                            <p>B2B Social Media Marketing</p>
+                        </a>
                     </div>
                     <div class="featured-col">
-                        <div class="featured-box w-100 text-center p-3">
+                        <a href="./services/Sales-Enablement.php" class="featured-box w-100 text-center p-3" style="text-decoration:none;color:inherit;">
                             <i class="fas fa-chart-line"></i>
                             <p>Sales Enablement</p>
-                        </div>
+                        </a>
                     </div>
                     <div class="featured-col">
-                        <div class="featured-box w-100 text-center p-3">
+                        <a href="./services/blog-writing-services.php" class="featured-box w-100 text-center p-3" style="text-decoration:none;color:inherit;">
                             <i class="fas fa-lightbulb"></i>
-                            <p>Thought Leadership</p>
-                        </div>
+                            <p>Thought Leadership Content</p>
+                        </a>
                     </div>
                     <div class="featured-col">
-                        <div class="featured-box w-100 text-center p-3">
+                        <a href="./services/whatsapp-marketing-and-automation.php" class="featured-box w-100 text-center p-3" style="text-decoration:none;color:inherit;">
                             <i class="fas fa-comments"></i>
-                            <p>B2B Communication Strategy</p>
-                        </div>
+                            <p>WhatsApp Marketing & Automation</p>
+                        </a>
                     </div>
-
-
                     <div class="featured-col">
-                        <div class="featured-box w-100 text-center p-3">
+                        <a href="./services/content-marketing-services.php" class="featured-box w-100 text-center p-3" style="text-decoration:none;color:inherit;">
                             <i class="fas fa-bullseye"></i>
-                            <p>Brand Strategy</p>
-                        </div>
+                            <p>Brand & Content Strategy</p>
+                        </a>
                     </div>
                     <div class="featured-col">
-                        <div class="featured-box w-100 text-center p-3">
+                        <a href="./services/coroperate_business.php" class="featured-box w-100 text-center p-3" style="text-decoration:none;color:inherit;">
                             <i class="fas fa-palette"></i>
-                            <p>Corporate Branding</p>
-                        </div>
+                            <p>Corporate Website Branding</p>
+                        </a>
                     </div>
-
                     <div class="featured-col">
-                        <div class="featured-box w-100 text-center p-3">
+                        <a href="./services/crm_automation.php" class="featured-box w-100 text-center p-3" style="text-decoration:none;color:inherit;">
                             <i class="fas fa-handshake"></i>
-                            <p>Lead Nurturing</p>
-                        </div>
+                            <p>CRM & Lead Nurturing</p>
+                        </a>
                     </div>
                     <div class="featured-col">
-                        <div class="featured-box w-100 text-center p-3">
+                        <a href="./services/google_ads.php" class="featured-box w-100 text-center p-3" style="text-decoration:none;color:inherit;">
                             <i class="fas fa-search"></i>
-                            <p>Search and Display Marketing</p>
-                        </div>
+                            <p>Google Ads & PPC Marketing</p>
+                        </a>
                     </div>
                     <div class="featured-col">
-                        <div class="featured-box w-100 text-center p-3">
+                        <a href="./services/IT-Team-Outsourcing.php" class="featured-box w-100 text-center p-3" style="text-decoration:none;color:inherit;">
                             <i class="fas fa-users"></i>
-                            <p>Strategic Partnerships</p>
-                        </div>
+                            <p>IT Team Outsourcing</p>
+                        </a>
                     </div>
                     <div class="featured-col">
-                        <div class="featured-box w-100 text-center p-3">
+                        <a href="./services/seo-auditing-services.php" class="featured-box w-100 text-center p-3" style="text-decoration:none;color:inherit;">
                             <i class="fas fa-globe"></i>
-                            <p>Global Customer Acquisition</p>
-                        </div>
+                            <p>Global SEO & Customer Acquisition</p>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -608,8 +670,8 @@
                 <div class="row">
                     <div class="col-lg-8 offset-lg-2">
                         <div class="site-heading text-center">
-                            <h5 class="sub-title">Our Expertise</h5>
-                            <h2 class="title">Industries Where We Excel</h2>
+                            <h5 class="sub-title">Industries We Serve</h5>
+                            <h2 class="title">B2B Digital Solutions for Every Industry</h2>
                         </div>
                     </div>
                 </div>
@@ -633,7 +695,7 @@
                                 <li><i class="fas fa-shield-alt"></i> Cybersecurity</li>
                                 <li><i class="fas fa-code"></i> IT Services</li>
                             </ul>
-                            <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                            <a href="./industries/information_tech.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                             <div class="shape">
                                 <img src="assets/img/shape/15.webp" alt="Image Not Found">
                             </div>
@@ -656,7 +718,7 @@
                                 <li><i class="fas fa-shopping-cart"></i> Online Marketplaces</li>
                                 <li><i class="fas fa-warehouse"></i> Distribution</li>
                             </ul>
-                            <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                            <a href="./industries/manufacturing.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                             <div class="shape">
                                 <img src="assets/img/shape/15.webp" alt="Image Not Found">
                             </div>
@@ -679,7 +741,7 @@
                                 <li><i class="fas fa-handshake"></i> B2B Services</li>
                                 <li><i class="fas fa-building"></i> Corporate Training</li>
                             </ul>
-                            <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                            <a href="./industries/education.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                             <div class="shape">
                                 <img src="assets/img/shape/15.webp" alt="Image Not Found">
                             </div>
@@ -702,7 +764,7 @@
                                 <li><i class="fas fa-hands-helping"></i> Non-Profit Organizations</li>
                                 <li><i class="fas fa-globe"></i> International Businesses</li>
                             </ul>
-                            <a href="#" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
+                            <a href="./industries/healthcare.php" class="icon-btn"><i class="fas fa-arrow-right"></i></a>
                             <div class="shape">
                                 <img src="assets/img/shape/15.webp" alt="Image Not Found">
                             </div>
@@ -790,8 +852,8 @@
                 <div class="row">
                     <div class="col-xl-6 mb-30">
                         <div class="service-style-two-heading bg-theme bg-cover text-light" style="background-image: url(assets/img/shape/banner-3.webp);">
-                            <h5 class="sub-title">Tech Services</h5>
-                            <h2 class="title">Smart, Future-Ready Digital Tech Solutions</h2>
+                            <h5 class="sub-title">Website & App Development Services</h5>
+                            <h2 class="title">Custom Web, E-Commerce & IT Solutions for Business Growth</h2>
                             <div class="button-border-length mt-35">
                                 <a href="contact-us.php" class="btn-arrow-length">Let’s Talk</a>
                             </div>
@@ -944,9 +1006,9 @@
                 <div class="row">
                     <div class="col-lg-8 offset-lg-2">
                         <div class="project-deal">
-                            <h2 class="title">Need a tech <strong>partner</strong> <br>for your next digital project?</h2>
-                            <p>Whether it's a custom website, e-commerce platform, WordPress solution, or IT team support — we build what your business needs to scale.</p>
-                            <a class="btn mt-30 btn-md circle btn-gradient animation" href="contact-us.php">Lets talk</a>
+                            <h2 class="title">Need a <strong>Website or App Development</strong> <br>Partner for Your Business?</h2>
+                            <p>From custom websites and e-commerce platforms to mobile apps and SaaS products — we build scalable digital solutions that drive growth. Trusted by 300+ businesses in India, USA, UK, UAE & Australia.</p>
+                            <a class="btn mt-30 btn-md circle btn-gradient animation" href="contact-us.php">Get a Free Quote</a>
                         </div>
                     </div>
                 </div>
@@ -961,8 +1023,8 @@
                 <div class="row">
                     <div class="col-xl-6 mb-30">
                         <div class="service-style-two-heading bg-theme bg-cover text-light" style="background-image: url(assets/img/shape/banner-3.webp);">
-                            <h5 class="sub-title">Content Services</h5>
-                            <h2 class="title">Expert Content Solutions That Perform</h2>
+                            <h5 class="sub-title">SEO Content Writing & Marketing Services</h5>
+                            <h2 class="title">Content That Ranks, Engages & Converts</h2>
                             <div class="button-border-length mt-35">
                                 <a href="contact-us.php" class="btn-arrow-length">Let’s Talk</a>
                             </div>
@@ -1170,9 +1232,9 @@
                 <div class="row">
                     <div class="col-lg-8 offset-lg-2">
                         <div class="project-deal">
-                            <h2 class="title">Need expert <strong>content </strong> <br>that drives results?</h2>
-                            <p>From SEO content and blogs to technical writing and case studies — we write with purpose, clarity, and performance in mind.</p>
-                            <a class="btn mt-30 btn-md circle btn-gradient animation" href="contact-us.php">Lets talk</a>
+                            <h2 class="title">Need <strong>SEO Content Writing</strong> <br>That Drives Leads & Rankings?</h2>
+                            <p>From SEO-optimized web content and blog writing to technical documentation and case studies — our content writers create copy that ranks on Google and converts visitors into clients.</p>
+                            <a class="btn mt-30 btn-md circle btn-gradient animation" href="contact-us.php">Request a Content Strategy Call</a>
                         </div>
                     </div>
                 </div>
@@ -1187,8 +1249,8 @@
                 <div class="row">
                     <div class="col-xl-6 mb-30">
                         <div class="service-style-two-heading bg-theme bg-cover text-light" style="background-image: url(assets/img/shape/banner-3.webp);">
-                            <h5 class="sub-title">eLearning Services</h5>
-                            <h2 class="title">Smart eLearning for Modern Workforces</h2>
+                            <h5 class="sub-title">Custom eLearning Development Services</h5>
+                            <h2 class="title">Corporate Training, LMS & eLearning Solutions</h2>
                             <div class="button-border-length mt-35">
                                 <a href="contact-us.php" class="btn-arrow-length">Let’s Talk</a>
                             </div>
@@ -1401,23 +1463,20 @@
                     </div>
                     <div class="col-lg-5 offset-lg-1 about-style-three">
                         <div class="about-three-info">
-                            <h4 class="sub-title">Why Choose Us</h4>
-                            <h2 class="title">A decade of expertise <br> delivering digital solutions</h2>
+                            <h4 class="sub-title">Why Choose ITD GrowthLabs</h4>
+                            <h2 class="title">10+ Years of B2B Digital Marketing & Technology Expertise</h2>
                             <p>
-                                We are a team of experts offering customized digital marketing solutions, from content
-                                writing to content marketing strategies that drive sales. Our approach integrates
-                                industry-led solutions with cutting-edge content and technology expertise, enabling
-                                businesses to grow and succeed in today's dynamic digital landscape.
+                                ITD GrowthLabs is a full-service B2B digital agency combining website development, mobile app development, SEO, performance marketing, and AI automation under one roof. We've helped 300+ businesses across India, USA, UK, UAE, and Australia generate qualified leads, improve search rankings, and scale revenue through data-driven strategies and custom-built technology.
                             </p>
                             <ul class="list-grid-four">
-                                <li>Quality Focus</li>
-                                <li>Content Expertise</li>
-                                <li>Client-Centric</li>
-                                <li>Scalable Solutions</li>
-                                <li>Strategic Insights</li>
-                                <li>Knowledge Hub</li>
-                                <li>Industry Experience</li>
-                                <li>Efficient Processes</li>
+                                <li>300+ B2B Clients Served</li>
+                                <li>SEO & Content Experts</li>
+                                <li>Custom Web & App Development</li>
+                                <li>AI & Marketing Automation</li>
+                                <li>Dedicated Project Managers</li>
+                                <li>Global Delivery (5 Countries)</li>
+                                <li>10+ Industry Verticals</li>
+                                <li>Transparent Reporting</li>
                             </ul>
 
                         </div>
@@ -1427,9 +1486,17 @@
         </div>
         <!-- End About -->
 
-        <!-- Start Knowledge Hub  -->
+        <!-- Start FAQ Section — Frequently Asked Questions -->
         <div class="knowledge-hub-area overflow-hidden default-padding">
             <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 offset-lg-2 mb-4">
+                        <div class="site-heading text-center">
+                            <h5 class="sub-title">FAQs</h5>
+                            <h2 class="title">Frequently Asked Questions About Our Digital Services</h2>
+                        </div>
+                    </div>
+                </div>
                 <div class="row">
                     <div class="col-12">
                         <div class="faq-style-one">
@@ -1683,117 +1750,6 @@
                                         </div>
                                     </div>
                                 </div>
-                                <!-- FAQ Item -->
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingSEO1">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSEO1" aria-expanded="false" aria-controls="collapseSEO1">
-                                            What is SEO content writing and why is it important for websites?
-                                        </button>
-                                    </h2>
-                                    <div id="collapseSEO1" class="accordion-collapse collapse" aria-labelledby="headingSEO1" data-bs-parent="#faqAccordion">
-                                        <div class="accordion-body">
-                                            <p>SEO content writing involves crafting keyword-optimized content to improve your site’s visibility on search engines. It helps attract organic traffic, engage users, and drive conversions.</p>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <!-- FAQ Item -->
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingSEO2">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSEO2" aria-expanded="false" aria-controls="collapseSEO2">
-                                            How do blog writing services help with lead generation and SEO?
-                                        </button>
-                                    </h2>
-                                    <div id="collapseSEO2" class="accordion-collapse collapse" aria-labelledby="headingSEO2" data-bs-parent="#faqAccordion">
-                                        <div class="accordion-body">
-                                            <p>Blog writing targets long-tail keywords and audience questions, improving SEO rankings. Consistent blogging drives traffic, builds trust, and boosts lead generation through CTAs and internal links.</p>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <!-- FAQ Item -->
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingSEO3">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSEO3" aria-expanded="false" aria-controls="collapseSEO3">
-                                            What’s the difference between website content writing and SEO article writing?
-                                        </button>
-                                    </h2>
-                                    <div id="collapseSEO3" class="accordion-collapse collapse" aria-labelledby="headingSEO3" data-bs-parent="#faqAccordion">
-                                        <div class="accordion-body">
-                                            <p>Website content focuses on persuasive copy for static pages like Home and Services, while SEO articles target specific keywords to rank in search results and attract ongoing traffic.</p>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <!-- FAQ Item -->
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingSEO4">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSEO4" aria-expanded="false" aria-controls="collapseSEO4">
-                                            Do you provide technical writing services for software or industrial companies?
-                                        </button>
-                                    </h2>
-                                    <div id="collapseSEO4" class="accordion-collapse collapse" aria-labelledby="headingSEO4" data-bs-parent="#faqAccordion">
-                                        <div class="accordion-body">
-                                            <p>Yes, we offer technical writing for IT, SaaS, and manufacturing sectors—covering user manuals, SOPs, help guides, and more, in clear and structured formats.</p>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <!-- FAQ Item -->
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingSEO5">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSEO5" aria-expanded="false" aria-controls="collapseSEO5">
-                                            Can I outsource content writing to your team for long-term projects?
-                                        </button>
-                                    </h2>
-                                    <div id="collapseSEO5" class="accordion-collapse collapse" aria-labelledby="headingSEO5" data-bs-parent="#faqAccordion">
-                                        <div class="accordion-body">
-                                            <p>Absolutely. We offer long-term content support with dedicated writers for blogs, SEO pages, product descriptions, and more—fully managed and quality checked.</p>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <!-- FAQ Item -->
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingIT1">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseIT1" aria-expanded="false" aria-controls="collapseIT1">
-                                            How do your IT outsourcing services work?
-                                        </button>
-                                    </h2>
-                                    <div id="collapseIT1" class="accordion-collapse collapse" aria-labelledby="headingIT1" data-bs-parent="#faqAccordion">
-                                        <div class="accordion-body">
-                                            <p>We offer scalable IT outsourcing solutions with dedicated teams aligned to your goals—handling everything from custom development to support and maintenance.</p>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <!-- FAQ Item -->
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingeLearning1">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseeLearning1" aria-expanded="false" aria-controls="collapseeLearning1">
-                                            What industries do you cater to with your eLearning solutions?
-                                        </button>
-                                    </h2>
-                                    <div id="collapseeLearning1" class="accordion-collapse collapse" aria-labelledby="headingeLearning1" data-bs-parent="#faqAccordion">
-                                        <div class="accordion-body">
-                                            <p>We serve software, tech, manufacturing, finance, healthcare, government, hospitality, education, and retail—offering onboarding, compliance, and skills training solutions.</p>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <!-- FAQ Item -->
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingCustom1">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseCustom1" aria-expanded="false" aria-controls="collapseCustom1">
-                                            Can we request changes to better align with our brand voice?
-                                        </button>
-                                    </h2>
-                                    <div id="collapseCustom1" class="accordion-collapse collapse" aria-labelledby="headingCustom1" data-bs-parent="#faqAccordion">
-                                        <div class="accordion-body">
-                                            <p>Absolutely. We collaborate with you closely to ensure every deliverable—whether content, design, or code—reflects your brand’s tone, style, and identity.</p>
-                                        </div>
-                                    </div>
-                                </div>
 
                             </div>
                         </div>
@@ -1806,8 +1762,8 @@
 
         <!-- Calendly inline widget begin -->
 
-        <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
-        <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+        <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
+        <script type="text/javascript" src="contact-us.php" async></script>
 
 
         <!-- Calendly inline widget end -->
@@ -1870,12 +1826,12 @@
 
         <!-- Calendly badge widget begin -->
 
-        <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-        <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+        <link href="contact-us.php" rel="stylesheet">
+        <script src="contact-us.php" type="text/javascript" async></script>
         <script type="text/javascript">
             window.onload = function() {
                 Calendly.initBadgeWidget({
-                    url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                    url: 'contact-us.php',
                     text: 'Schedule time with me',
                     color: '#0069ff',
                     textColor: '#ffffff'

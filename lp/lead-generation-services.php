@@ -144,6 +144,17 @@
             margin: auto;
         }
     </style>
+
+    <!-- SEO Optimization -->
+    <link rel="canonical" href="https://itdgrowthlabs.com/lp/lead-generation-services.php" />
+    <meta property="og:title" content="Lead Generation Services | Google & Meta Ads Campaigns | ITD GrowthLabs" />
+    <meta property="og:description" content="Generate high-quality leads with ITD GrowthLabs. We specialize in performance marketing via Google Ads, Facebook, and Instagram to help businesses grow." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/lp/lead-generation-services.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"Service","name":"Lead Generation Services | Google & Meta Ads Campaigns","description":"Generate high-quality leads with ITD GrowthLabs. We specialize in performance marketing via Google Ads, Facebook, and Instagram to help businesses gro","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Digital Services"}
+    </script>
 </head>
 
 <body>
@@ -492,7 +503,7 @@
             </div>
         </div>
     </div>
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
         <div class="container">
             <div class="f-items default-padding-bottom pt-70 pt-xs-0">
@@ -760,12 +771,12 @@
     <script src="../assets/js/TweenMax.min.js"></script>
     <script src="../assets/js/validnavs.js"></script>
     <script src="../assets/js/main.js"></script>
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <link href="contact-us.php" rel="stylesheet">
+    <script src="contact-us.php" type="text/javascript" async></script>
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'

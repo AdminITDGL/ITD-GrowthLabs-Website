@@ -44,6 +44,21 @@
         <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
     <![endif]-->
 
+
+    <!-- SEO Optimization -->
+    <link rel="canonical" href="https://itdgrowthlabs.com/resources/top-10-website-content-writing-agencies-in-India.php" />
+    <meta property="og:title" content="Top 10 Website Content Writing Agencies in India" />
+    <meta property="og:description" content="Discover top website content writing agencies in India that can transform your brand with expert content creation, SEO strategies, and high-quality writing services." />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/resources/top-10-website-content-writing-agencies-in-India.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <meta property="og:site_name" content="ITD GrowthLabs" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Top 10 Website Content Writing Agencies in India" />
+    <meta name="twitter:description" content="Discover top website content writing agencies in India that can transform your brand with expert content creation, SEO strategies, and high-quality wr" />
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"BlogPosting","headline":"Top 10 Website Content Writing Agencies in India","description":"Discover top website content writing agencies in India that can transform your brand with expert content creation, SEO strategies, and high-quality writing services.","author":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"publisher":{"@type":"Organization","name":"ITD GrowthLabs","logo":{"@type":"ImageObject","url":"https://itdgrowthlabs.com/assets/img/logo.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://itdgrowthlabs.com/resources/top-10-website-content-writing-agencies-in-India.php"},"articleSection":"Content Marketing"}
+    </script>
 </head>
 
 <body>
@@ -218,7 +233,7 @@
                                     <h2>Conclusion: Choosing the Right Content Agency for Your Business</h2>
                                     <p>Selecting the right content writing agency is crucial for achieving online success. The agencies listed above specialize in SEO content, B2B content writing, web copywriting, and content strategy—the key elements that drive online visibility, engagement, and conversions.</p>
                                     <p>Whether you need SEO content to rank higher on search engines or web copywriting to create compelling, persuasive content for your website, these agencies offer the expertise and experience to elevate your brand.</p>
-                                    <p> Ready to elevate your content strategy? Contact one of the Top 10 Website Content Writing Agencies in India to take your brand to new heights! <a href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Schedule a free consultation</a> or visit <a href="https://www.itdgrowthlabs.com/" target="_blank">ITDGrowthLabs</a> for more information.</p>
+                                    <p> Ready to elevate your content strategy? Contact one of the Top 10 Website Content Writing Agencies in India to take your brand to new heights! <a href="contact-us.php" target="_blank">Schedule a free consultation</a> or visit <a href="https://www.itdgrowthlabs.com/" target="_blank">ITDGrowthLabs</a> for more information.</p>
                                 </div>
                             </div>
                         </div>
@@ -267,14 +282,14 @@
 
     <!-- Calendly badge widget begin -->
 
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+    <link href="contact-us.php" rel="stylesheet">
 
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <script src="contact-us.php" type="text/javascript" async></script>
 
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdGrowthLabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'
@@ -284,9 +299,9 @@
 
     <!-- Calendly inline widget begin -->
 
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdGrowthLabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
 
-    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+    <script type="text/javascript" src="contact-us.php" async></script>
 
 
     <!-- Calendly inline widget end -->
@@ -599,14 +614,14 @@
     <script type="text/javascript" src='https://www.google.com/recaptcha/api.js' async defer></script>
     <!-- Calendly badge widget begin -->
 
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+    <link href="contact-us.php" rel="stylesheet">
 
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <script src="contact-us.php" type="text/javascript" async></script>
 
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'

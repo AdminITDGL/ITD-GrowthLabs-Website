@@ -782,8 +782,8 @@
                                 We help African businesses generate leads, increase visibility, and grow revenue through data-driven digital marketing strategies.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Get a Free Marketing Consultation</a>
-                                <a class="btn btn-theme btn-md animation ms-3" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Talk to a Digital Marketing Expert</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Get a Free Marketing Consultation</a>
+                                <a class="btn btn-theme btn-md animation ms-3" href="contact-us.php" target="_blank">Talk to a Digital Marketing Expert</a>
                             </div>
                         </div>
                     </div>
@@ -1312,7 +1312,7 @@
                         <p class="text-white">Partner with a top digital marketing services company in Africa that delivers measurable results.</p>
                         <p class="text-white mb-30">👉 Get a Free Digital Marketing Consultation</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Talk to an Africa Digital Marketing Expert</a>
+                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Talk to an Africa Digital Marketing Expert</a>
                         </div>
                     </div>
                 </div>
@@ -1389,7 +1389,7 @@
             </div>
         </div>
     </div>
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>    
+    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>    
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
         <div class="container">
             <div class="f-items default-padding-bottom pt-70 pt-xs-0">
@@ -1657,12 +1657,12 @@
     <script src="../assets/js/TweenMax.min.js"></script>
     <script src="../assets/js/validnavs.js"></script>
     <script src="../assets/js/main.js"></script>
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <link href="contact-us.php" rel="stylesheet">
+    <script src="contact-us.php" type="text/javascript" async></script>
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'

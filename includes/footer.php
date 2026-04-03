@@ -80,31 +80,6 @@
 
                 <div class="col-lg-3 col-md-3 mt-50 footer-item">
                     <div class="f-item link">
-                        <h4 class="widget-title">Content Services</h4>
-                        <ul>
-                            <li><a href="services/website-content-writing.php">Website Content Writing</a></li>
-                            <li><a href="services/seo-article-writing.php">SEO Article Writing</a></li>
-                            <li><a href="services/blog-writing-services.php">Blog Writing</a></li>
-                            <li><a href="services/case-study-writing-services.php">Case Study Writing</a></li>
-                            <li><a href="services/product-description-writing-services.php">Product Description</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                    <div class="f-item link">
-                        <h4 class="widget-title">End-to-End Services</h4>
-                        <ul>
-                            <li><a href="services/website-development-company.php">Website Design & Development</a></li>
-                            <li><a href="services/content-marketing-services.php">Content Marketing Services</a></li>
-                            <li><a href="services/seo-auditing-services.php">SEO Audit and Optimization</a></li>
-                            <li><a href="services/social-media-marketing.php">Social Media Marketing</a></li>
-                            <li><a href="services/google-search-ads-services.php">Google Search Ads</a></li>
-                        </ul>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                    <div class="f-item link">
                         <h4 class="widget-title">Custom Solutions</h4>
                         <ul>
                             <li><a href="services/Custom-eLearning-Development.php" target="_blank" style="text-transform: none;">Custom eLearning Development</a></li>
@@ -133,14 +108,14 @@
                     <div class="f-item link">
                         <h4 class="widget-title">Industries We Serve</h4>
                         <ul>
-                            <li><a href="">Software & Tech</a></li>
-                            <li><a href="">Financial Services</a></li>
-                            <li><a href="">Manufacturing</a></li>
-                            <li><a href="">Healthcare</a></li>
-                            <li><a href="">Government</a></li>
-                            <li><a href="">Restaurants & Hospitality</a></li>
-                            <li><a href="">Education</a></li>
-                            <li><a href="">Retail</a></li>
+                            <li><a href="industries/information_tech.php">Software & Tech</a></li>
+                            <li><a href="industries/finance.php">Financial Services</a></li>
+                            <li><a href="industries/manufacturing.php">Manufacturing</a></li>
+                            <li><a href="industries/healthcare.php">Healthcare</a></li>
+                            <li><a href="industries/professional_services.php">Government</a></li>
+                            <li><a href="industries/professional_services.php">Restaurants & Hospitality</a></li>
+                            <li><a href="industries/education.php">Education</a></li>
+                            <li><a href="industries/ecommerce.php">Retail</a></li>
                         </ul>
                     </div>
                 </div>
@@ -238,6 +213,28 @@
 
 
 
+                <!-- UK Digital Services -->
+                <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                    <div class="f-item link">
+                        <h4 class="widget-title">UK Digital Services</h4>
+                        <ul>
+                            <li><a href="uk/website-design-development.php">Website Design & Development</a></li>
+                            <li><a href="uk/web-application-development.php">Web Application Development</a></li>
+                            <li><a href="uk/mobile-app-development.php">Mobile App Development</a></li>
+                            <li><a href="uk/digital-marketing-services.php">Digital Marketing Services</a></li>
+                        </ul>
+                    </div>
+                    <div class="f-item link mt-5">
+                        <h4 class="widget-title">USA Digital Services</h4>
+                        <ul>
+                            <li><a href="usa/website-design-development.php">Website Design & Development</a></li>
+                            <li><a href="usa/web-application-development.php">Web Application Development</a></li>
+                            <li><a href="usa/mobile-app-development.php">Mobile App Development</a></li>
+                            <li><a href="usa/digital-marketing-services.php">Digital Marketing Services</a></li>
+                        </ul>
+                    </div>
+                </div>
+
                 <div class="col-lg-3 col-md-3 mt-50 footer-item">
                     <div class="f-item link">
                         <h4 class="widget-title">Resources</h4>
@@ -254,7 +251,6 @@
                         <p><i class="fa fa-globe"> </i> <a href="https://itdgrowthlabs.com/" style="color:#dedede"> Website: www.itdgrowthlabs.com </a></p>
                         <ul>
                             <li>505, Town Centre 1, opposite Times Square, Mittal Industrial Estate, Marol, Andheri, Mumbai, Maharashtra 400059</li>
-                            <!-- <li><a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a></li> -->
                         </ul>
                     </div>
                 </div>
@@ -279,7 +275,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <p>Copyright &copy; 2025 ITD GrowthLabs All Rights Reserved</p>
+                    <p>Copyright &copy; 2026 ITD GrowthLabs. All Rights Reserved.</p>
                 </div>
             </div>
         </div>
@@ -289,12 +285,12 @@
 
 <!-- Calendly badge widget begin -->
 
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<!-- <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script> -->
+<link href='contact-us.php' rel="stylesheet">
+<!-- <script src='contact-us.php' type="text/javascript" async></script> -->
 <!-- <script type="text/javascript">
     window.onload = function() {
         Calendly.initBadgeWidget({
-            url: 'https://calendly.com/itdgrowthlabs-info/30min',
+            url: contact-us.php,
             text: 'Schedule time with me',
             color: '#0069ff',
             textColor: '#ffffff'

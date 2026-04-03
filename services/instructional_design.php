@@ -616,6 +616,17 @@
             }
         }
     </style>
+
+    <!-- SEO Optimization -->
+    <link rel="canonical" href="https://itdgrowthlabs.com/services/instructional_design.php" />
+    <meta property="og:title" content="Instructional Design Services for eLearning | ITD GrowthLabs" />
+    <meta property="og:description" content="Enhance digital learning with expert instructional design services. Our instructional design solutions create structured, engaging, and learner-focused training content that improves knowledge retenti" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/services/instructional_design.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"Service","name":"Instructional Design Services for eLearning","description":"Enhance digital learning with expert instructional design services. Our instructional design solutions create structured, engaging, and learner-focuse","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"eLearning and Training"}
+    </script>
 </head>
 
 <body>
@@ -641,7 +652,7 @@
                                 Create effective learning experiences with expert instructional design. Our instructional design services develop structured, engaging, and learner-focused training content that improves knowledge retention, course clarity, and learning outcomes.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Start Designing</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Start Designing</a>
                             </div>
                         </div>
                     </div>
@@ -957,91 +968,91 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-bullseye fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic eLearning Content Development for businesses, focusing on learning objectives, curriculum planning, and structured course design to improve learner engagement, knowledge delivery, and training ROI.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">1. eLearning Content Strategy</a></h4>
+                        <h4><a href="contact-us.php">1. eLearning Content Strategy</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Scalable eLearning Content Development services with course structure planning, lesson scheduling, learner analysis, and platform-ready setup for efficient digital learning experiences.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">2. Content Development Setup</a></h4>
+                        <h4><a href="contact-us.php">2. Content Development Setup</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Professional eLearning Content Development ensuring learning modules perform smoothly on desktops, tablets, and mobile devices for consistent and accessible training delivery.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">3. Multi-Device Learning Optimization</a></h4>
+                        <h4><a href="contact-us.php">3. Multi-Device Learning Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-search fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Flexible eLearning Content Development with optimized learning modules, structured lessons, and interactive testing to improve engagement, retention, and training performance.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">4. Content & Module Optimization</a></h4>
+                        <h4><a href="contact-us.php">4. Content & Module Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-lightbulb fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Conversion-focused eLearning Content Development designed around learner behavior to improve training relevance, interaction, and overall learning experience.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">5. Interactive Learning Enhancements</a></h4>
+                        <h4><a href="contact-us.php">5. Interactive Learning Enhancements</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-sync-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Advanced eLearning Content Development strategies including regular course updates, new lesson additions, and module expansion to maintain training relevance and engagement.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">6. Course Updates & Expansion</a></h4>
+                        <h4><a href="contact-us.php">6. Course Updates & Expansion</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-chart-bar fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>High-performing eLearning Content Development with monitoring, analytics, and reporting to evaluate learner performance and improve course effectiveness.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">7. Performance Tracking & Analytics</a></h4>
+                        <h4><a href="contact-us.php">7. Performance Tracking & Analytics</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-clipboard-check fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Modern eLearning Content Development upgrades for existing training modules to improve structure, clarity, engagement, and overall learning efficiency.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">8. Course Audit & Redesign</a></h4>
+                        <h4><a href="contact-us.php">8. Course Audit & Redesign</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-tools fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Reliable eLearning Content Development support with continuous updates, learning improvements, reporting, and strategy enhancements for long-term training success.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">9. Ongoing Support & Optimization</a></h4>
+                        <h4><a href="contact-us.php">9. Ongoing Support & Optimization</a></h4>
                     </div>
                 </div>
             </div>
@@ -1096,7 +1107,7 @@
                         <h2 class="title text-white mb-30">Ready to Design Effective Learning Experiences?</h2>
                         <p class="text-white">Work with a trusted Instructional Design agency for structured, engaging training content that improves knowledge retention and learning outcomes.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Let's Talk</a>
+                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Let's Talk</a>
                         </div>
                     </div>
                 </div>
@@ -1198,7 +1209,7 @@
     <!-- End FAQ -->
 
     <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
 
     <!-- Start Footer
     ============================================= -->
@@ -1470,12 +1481,12 @@
     <script src="../assets/js/TweenMax.min.js"></script>
     <script src="../assets/js/validnavs.js"></script>
     <script src="../assets/js/main.js"></script>
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <link href="contact-us.php" rel="stylesheet">
+    <script src="contact-us.php" type="text/javascript" async></script>
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'

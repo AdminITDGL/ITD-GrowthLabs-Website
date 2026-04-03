@@ -24,8 +24,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Expert digital marketing services to grow your brand online. Solutions include SEO, social media marketing, performance marketing, content marketing, and online advertising to drive traffic, leads, and conversions.">
-    <title>Digital Marketing Services | ITD GrowthLabs</title>
+    <meta name="description" content="ITD GrowthLabs offers expert digital marketing services including SEO, Google Ads, social media marketing, PPC, and content marketing. We help B2B businesses in India, USA, UK, UAE & Australia drive traffic, generate leads, and grow revenue.">
+    <title>Digital Marketing Services in India | SEO, PPC, Social Media Marketing | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
@@ -616,6 +616,67 @@
             }
         }
     </style>
+    <link rel="canonical" href="https://itdgrowthlabs.com/digital_marketing.php" />
+    <!-- Hreflang Tags for GEO Targeting -->
+    <link rel="alternate" hreflang="en-in" href="https://itdgrowthlabs.com/digital_marketing.php" />
+    <link rel="alternate" hreflang="en-us" href="https://itdgrowthlabs.com/usa/digital-marketing-services.php" />
+    <link rel="alternate" hreflang="en-gb" href="https://itdgrowthlabs.com/uk/digital-marketing-services.php" />
+    <link rel="alternate" hreflang="en-au" href="https://itdgrowthlabs.com/australia/" />
+    <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/digital_marketing.php" />
+    <meta property="og:title" content="Digital Marketing Services in India | SEO, PPC & Social Media | ITD GrowthLabs" />
+    <meta property="og:description" content="Expert B2B digital marketing services including SEO, Google Ads, social media marketing, content marketing to drive traffic, leads, and conversions for businesses in India, USA, UK, UAE & Australia." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/digital_marketing.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <!-- FAQPage Schema for AEO -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "What digital marketing services does ITD GrowthLabs offer?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "ITD GrowthLabs offers comprehensive digital marketing services including Search Engine Optimization (SEO), Google Ads (PPC), social media marketing, content marketing, LinkedIn advertising, Meta Ads management, local SEO services, and SEO auditing. We serve businesses in India, Australia, UAE, UK, and USA across all industries."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How much do digital marketing services cost?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Digital marketing costs vary based on services, scope, and competition. SEO packages typically start from $500-$2,000/month, Google Ads management from $300-$1,500/month plus ad spend, and social media marketing from $400-$1,500/month. ITD GrowthLabs offers customized packages tailored to your budget and business goals."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How long does it take to see results from digital marketing?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Results timelines vary by channel. Google Ads and paid social campaigns can generate leads within 1-2 weeks. SEO typically takes 3-6 months to show significant organic traffic improvements. Content marketing builds authority over 6-12 months. We provide monthly performance reports so you can track progress from day one."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Which digital marketing channel is best for B2B businesses?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "For B2B businesses, the most effective channels are typically LinkedIn advertising for targeted lead generation, SEO and content marketing for long-term organic visibility, Google Ads for high-intent search traffic, and email marketing for nurturing prospects. ITD GrowthLabs specializes in B2B digital marketing strategies that combine these channels for maximum ROI."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Do you offer digital marketing services internationally?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, ITD GrowthLabs provides digital marketing services across India, Australia, UAE, United Kingdom, and United States. We offer geo-targeted campaigns optimized for local search in each market, with dedicated strategies for different regions and their specific audience behaviors."
+                }
+            }
+        ]
+    }
+    </script>
 </head>
 
 <body>
@@ -635,13 +696,13 @@
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
                             <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
-                                Custom <span style="color: var(--color-primary);">Digital Marketing</span> Solutions for Growing Businesses
+                                Result-Driven <span style="color: var(--color-primary);">Digital Marketing Services</span> for B2B Companies
                             </h2>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
-                                Custom digital marketing solutions by ITD GrowthLabs to boost traffic, drive results, and grow your brand with targeted campaigns and optimized performance for maximum ROI.
+                                From SEO and Google Ads to social media marketing and content strategy — ITD GrowthLabs helps businesses in India, USA, UK, UAE & Australia generate qualified leads, improve search rankings, and maximize ROI with data-driven digital marketing campaigns.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php#" target="_blank">Let’s Grow Your Brand</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php">Get a Free Digital Marketing Audit</a>
                             </div>
                         </div>
                     </div>
@@ -710,6 +771,14 @@
         </div>
     </div>
     <!-- End Banner -->
+
+    <!-- Quick Summary for AI Search Engines (AEO) -->
+    <div class="container mt-5 mb-3">
+        <div style="background: linear-gradient(135deg, #f8f9fa 0%, #e8f0fe 100%); border-left: 4px solid var(--color-primary); border-radius: 8px; padding: 25px 30px;">
+            <h3 style="font-size: 20px; font-weight: 700; color: var(--color-primary); margin-bottom: 12px;">Quick Summary — Digital Marketing Services by ITD GrowthLabs</h3>
+            <p style="font-size: 15px; line-height: 1.8; color: #3c4043; margin: 0;"><strong>ITD GrowthLabs</strong> is a B2B digital marketing agency offering <strong>SEO services</strong>, <strong>Google Ads (PPC)</strong>, <strong>social media marketing</strong>, <strong>content marketing</strong>, <strong>LinkedIn advertising</strong>, <strong>Meta Ads management</strong>, and <strong>local SEO</strong>. Based in Mumbai, India, we serve clients across <strong>India, USA, UK, UAE, and Australia</strong>. Our data-driven strategies help businesses increase organic traffic, generate qualified leads, and improve conversion rates. With 10+ years of experience and 300+ clients, we deliver measurable ROI across all digital channels. <a href="contact-us.php">Request a free digital marketing audit</a>.</p>
+        </div>
+    </div>
 
     <!-- Start Clients/Partners
     ============================================= -->
@@ -883,8 +952,8 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">OUR DEVELOPMENT PROCESS</h5>
-                        <h2 class="title">From Concept to Launch</h2>
+                        <h5 class="sub-title">OUR DIGITAL MARKETING PROCESS</h5>
+                        <h2 class="title">How We Drive Results — From Strategy to Growth</h2>
                     </div>
                 </div>
             </div>
@@ -946,8 +1015,8 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">OUR WEBSITE DEVELOPMENT SERVICES</h5>
-                        <h2 class="title">Complete Custom Content &amp; E-Learning Solutions</h2>
+                        <h5 class="sub-title">INDUSTRIES WE SERVE</h5>
+                        <h2 class="title">Digital Marketing Solutions for Every Industry</h2>
                     </div>
                 </div>
             </div>
@@ -957,121 +1026,121 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-heartbeat fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>SEO, social media, and patient engagement campaigns for healthcare brands.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Healthcare &amp; MedTech</a></h4>
+                        <h4><a href="contact-us.php">Healthcare &amp; MedTech</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-shopping-cart fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>PPC, SEO, social ads, and email marketing to boost online sales.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">E-Commerce &amp; Retail</a></h4>
+                        <h4><a href="contact-us.php">E-Commerce &amp; Retail</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Targeted ads, content, and lead generation for finance apps and banks.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">FinTech &amp; Banking</a></h4>
+                        <h4><a href="contact-us.php">FinTech &amp; Banking</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>SEO, social campaigns, webinars, and email marketing to promote learning platforms.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">E-Learning</a></h4>
+                        <h4><a href="contact-us.php">E-Learning</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-paint-brush fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Local SEO, social ads, virtual tours, and lead generation campaigns.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Real Estate</a></h4>
+                        <h4><a href="contact-us.php">Real Estate</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-plane fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Social media, search ads, email marketing, and SEO for travel brands.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Travel &amp; Hospitality</a></h4>
+                        <h4><a href="contact-us.php">Travel &amp; Hospitality</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-shipping-fast fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>SEO, content marketing, and performance campaigns for logistics growth.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Logistics &amp; Distribution</a></h4>
+                        <h4><a href="contact-us.php">Logistics &amp; Distribution</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-utensils fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Local SEO, social campaigns, and customer engagement strategies.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Food &amp; Restaurant</a></h4>
+                        <h4><a href="contact-us.php">Food &amp; Restaurant</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cloud fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Content marketing, SEO, email automation, and lead nurturing for subscriptions.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">SaaS &amp; Cloud</a></h4>
+                        <h4><a href="contact-us.php">SaaS &amp; Cloud</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-car fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Social ads, SEO, and targeted campaigns for auto services.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Automotive &amp; Mobility</a></h4>
+                        <h4><a href="contact-us.php">Automotive &amp; Mobility</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-film fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Social campaigns, SEO, and audience growth strategies.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Entertainment &amp; Media</a></h4>
+                        <h4><a href="contact-us.php">Entertainment &amp; Media</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-briefcase fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Content marketing, social ads, SEO, and lead generation for agencies and firms.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Professional Services</a></h4>
+                        <h4><a href="contact-us.php">Professional Services</a></h4>
                     </div>
                 </div>
             </div>
@@ -1361,10 +1430,10 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center text-light mt-0">
-                        <h2 class="title text-white mb-30">Ready to Build Your Website?</h2>
-                        <p class="text-white">Work with a trusted business website development company for strong online presence and digital growth.</p>
+                        <h2 class="title text-white mb-30">Ready to Grow Your Business with Digital Marketing?</h2>
+                        <p class="text-white">Partner with ITD GrowthLabs — a trusted digital marketing company helping B2B businesses drive traffic, generate leads, and scale revenue across India, USA, UK, UAE & Australia.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Let's Talk</a>
+                            <a class="btn btn-theme btn-md animation" href="contact-us.php">Get a Free Marketing Strategy Call</a>
                         </div>
                     </div>
                 </div>
@@ -1372,90 +1441,74 @@
         </div>
     </div>
     <!-- End Call to Action -->
-    <div class="knowledge-hub-area overflow-hidden default-padding pb-0">
+    <!-- FAQ Section — Digital Marketing FAQs -->
+    <div class="faq-style-one-area default-padding" id="faq">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">FAQ's</h5>
-                        <h2 class="title">Frequently Asked Questions</h2>
+                        <h5 class="sub-title">FAQs</h5>
+                        <h2 class="title">Frequently Asked Questions About Digital Marketing</h2>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="faq-style-one">
-                        <div class="accordion" id="faqAccordion">
-                            <!-- FAQ 1 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingOne">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        How long does it take to develop a business website?
-                                    </button>
-                                </h2>
-                                <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        Typically, a business website takes 4-8 weeks depending on complexity, pages, and features. Simple websites can be delivered in 2-3 weeks.
-                                    </div>
-                                </div>
+            <div class="row justify-content-center">
+                <div class="col-lg-10">
+                    <div class="accordion" id="dmFaqAccordion">
+                        <div class="accordion-item">
+                            <h3 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#dmfaq1">What digital marketing services does ITD GrowthLabs offer?</button>
+                            </h3>
+                            <div id="dmfaq1" class="accordion-collapse collapse show" data-bs-parent="#dmFaqAccordion">
+                                <div class="accordion-body">ITD GrowthLabs offers comprehensive digital marketing services including Search Engine Optimization (SEO), Google Ads (PPC), social media marketing, content marketing, LinkedIn advertising, Meta Ads management, local SEO services, and SEO auditing. We serve businesses in India, Australia, UAE, UK, and USA across all industries.</div>
                             </div>
-
-                            <!-- FAQ 2 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingTwo">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        What's the average cost of business website development?
-                                    </button>
-                                </h2>
-                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        Website development costs vary based on complexity and features. Simple business websites start around ₹25,000, while custom enterprise sites can range from ₹1,00,000 to ₹5,00,000+.
-                                    </div>
-                                </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h3 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#dmfaq2">How much do digital marketing services cost?</button>
+                            </h3>
+                            <div id="dmfaq2" class="accordion-collapse collapse" data-bs-parent="#dmFaqAccordion">
+                                <div class="accordion-body">Digital marketing costs vary based on services, scope, and competition. SEO packages typically start from $500-$2,000/month, Google Ads management from $300-$1,500/month plus ad spend, and social media marketing from $400-$1,500/month. ITD GrowthLabs offers customized packages tailored to your budget and business goals.</div>
                             </div>
-
-                            <!-- FAQ 3 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingThree">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Do you offer responsive website design?
-                                    </button>
-                                </h2>
-                                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        Yes, all our business websites are built with responsive design, ensuring your site looks and performs perfectly on desktops, tablets, and mobile devices.
-                                    </div>
-                                </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h3 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#dmfaq3">How long does it take to see results from digital marketing?</button>
+                            </h3>
+                            <div id="dmfaq3" class="accordion-collapse collapse" data-bs-parent="#dmFaqAccordion">
+                                <div class="accordion-body">Results timelines vary by channel. Google Ads and paid social campaigns can generate leads within 1-2 weeks. SEO typically takes 3-6 months to show significant organic traffic improvements. Content marketing builds authority over 6-12 months. We provide monthly performance reports so you can track progress from day one.</div>
                             </div>
-
-                            <!-- FAQ 4 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingFour">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Will my website be SEO-ready?
-                                    </button>
-                                </h2>
-                                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        Yes, all our business websites are built with SEO-ready structure including proper meta tags, clean URLs, fast loading, and mobile-friendly design to improve search visibility.
-                                    </div>
-                                </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h3 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#dmfaq4">Which digital marketing channel is best for B2B businesses?</button>
+                            </h3>
+                            <div id="dmfaq4" class="accordion-collapse collapse" data-bs-parent="#dmFaqAccordion">
+                                <div class="accordion-body">For B2B businesses, the most effective channels are typically LinkedIn advertising for targeted lead generation, SEO and content marketing for long-term organic visibility, Google Ads for high-intent search traffic, and email marketing for nurturing prospects. ITD GrowthLabs specializes in B2B digital marketing strategies that combine these channels for maximum ROI.</div>
                             </div>
-
-                            <!-- FAQ 5 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingFive">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you provide post-launch website support and maintenance?
-                                    </button>
-                                </h2>
-                                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        Yes, we offer comprehensive website maintenance and support including updates, performance monitoring, security patches, and content updates to keep your business website running smoothly.
-                                    </div>
-                                </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h3 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#dmfaq5">Do you offer digital marketing services internationally?</button>
+                            </h3>
+                            <div id="dmfaq5" class="accordion-collapse collapse" data-bs-parent="#dmFaqAccordion">
+                                <div class="accordion-body">Yes, ITD GrowthLabs provides digital marketing services across India, Australia, UAE, United Kingdom, and United States. We offer geo-targeted campaigns optimized for local search in each market, with dedicated strategies for different regions and their specific audience behaviors.</div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h3 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#dmfaq6">What is the difference between SEO and PPC advertising?</button>
+                            </h3>
+                            <div id="dmfaq6" class="accordion-collapse collapse" data-bs-parent="#dmFaqAccordion">
+                                <div class="accordion-body">SEO (Search Engine Optimization) focuses on earning organic traffic through keyword optimization, content creation, and technical improvements — results build over 3-6 months but are long-lasting. PPC (Pay-Per-Click) like Google Ads delivers instant visibility by paying for each click — ideal for immediate lead generation. Most successful B2B companies use both strategies together for maximum impact.</div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h3 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#dmfaq7">How do you measure the success of digital marketing campaigns?</button>
+                            </h3>
+                            <div id="dmfaq7" class="accordion-collapse collapse" data-bs-parent="#dmFaqAccordion">
+                                <div class="accordion-body">We track key performance indicators (KPIs) including organic traffic growth, keyword rankings, cost per lead (CPL), conversion rates, click-through rates (CTR), return on ad spend (ROAS), and overall ROI. Clients receive monthly performance reports with actionable insights and recommendations via Google Analytics, Google Search Console, and custom dashboards.</div>
                             </div>
                         </div>
                     </div>
@@ -1463,10 +1516,6 @@
             </div>
         </div>
     </div>
-    <!-- End FAQ -->
-
-    <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
 
     <!-- Start Footer
     ============================================= -->
@@ -1737,12 +1786,12 @@
     <script src="assets/js/TweenMax.min.js"></script>
     <script src="assets/js/validnavs.js"></script>
     <script src="assets/js/main.js"></script>
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <link href="contact-us.php" rel="stylesheet">
+    <script src="contact-us.php" type="text/javascript" async></script>
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'

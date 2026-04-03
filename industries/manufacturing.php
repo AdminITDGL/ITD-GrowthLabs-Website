@@ -617,6 +617,18 @@
             }
         }
     </style>
+    <link rel="canonical" href="https://itdgrowthlabs.com/industries/manufacturing.php" />
+    <meta property="og:title" content="Manufacturing Industry Digital Solutions | ITD GrowthLabs" />
+    <meta property="og:description" content="Digital solutions for manufacturing companies including websites, apps, and marketing strategies to boost efficiency and drive growth." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/industries/manufacturing.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"Service","name":"Manufacturing Industry Digital Solutions","description":"Website development, app development, and digital marketing for manufacturing companies.","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Manufacturing Industry Solutions"}
+    </script>
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What digital services do manufacturing companies need?","acceptedAnswer":{"@type":"Answer","text":"Manufacturing companies benefit from product catalog websites, ERP-integrated web applications, supply chain management apps, B2B lead generation through SEO and LinkedIn marketing, content marketing for technical products, and digital transformation consulting."}},{"@type":"Question","name":"How can SEO help manufacturing businesses?","acceptedAnswer":{"@type":"Answer","text":"SEO helps manufacturing companies rank for industry-specific keywords, attract B2B buyers searching for suppliers, generate qualified leads, and establish authority in their niche through technical content, case studies, and optimized product pages."}},{"@type":"Question","name":"Do you build websites for manufacturing companies?","acceptedAnswer":{"@type":"Answer","text":"Yes, we build custom manufacturing websites with product catalogs, quote request forms, technical specification pages, distributor portals, and integrations with ERP and CRM systems. Our websites are optimized for B2B lead generation."}}]}
+    </script>
 </head>
 
 <body>
@@ -642,7 +654,7 @@
                                 Partner with ITD GrowthLabs for AI and automation services that deliver smart workflows, process optimization, and measurable business impact. Our approach ensures intelligent systems, seamless integration, and scalable automation.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php#" target="_blank">Let’s Automate Your Business</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Let’s Automate Your Business</a>
                             </div>
                         </div>
                     </div>
@@ -711,6 +723,13 @@
         </div>
     </div>
     <!-- End Banner -->
+
+    <div class="container mt-5 mb-3">
+        <div style="background: linear-gradient(135deg, #f8f9fa 0%, #e8f0fe 100%); border-left: 4px solid var(--color-primary); border-radius: 8px; padding: 25px 30px;">
+            <h3 style="font-size: 20px; font-weight: 700; color: var(--color-primary); margin-bottom: 12px;">Quick Summary — Manufacturing &amp; Industrial Digital Solutions</h3>
+            <p style="font-size: 15px; line-height: 1.8; color: #3c4043; margin: 0;"><strong>ITD GrowthLabs</strong> provides <strong>digital marketing, website development, and automation solutions</strong> for <strong>manufacturing and industrial companies</strong>. We help factories, OEMs, and industrial businesses across <strong>India, USA, UK, UAE, and Australia</strong> generate leads and build a strong online presence. <a href="../contact-us.php">Get a free manufacturing marketing consultation</a>.</p>
+        </div>
+    </div>
 
     <!-- Start Clients/Partners
     ============================================= -->
@@ -958,121 +977,121 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-heartbeat fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>AI for diagnostics, patient monitoring, and healthcare workflow automation.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Healthcare &amp; MedTech AI</a></h4>
+                        <h4><a href="contact-us.php">Healthcare &amp; MedTech AI</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-shopping-cart fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Personalized recommendations, demand forecasting, and sales optimization.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">E-Commerce &amp; Retail AI</a></h4>
+                        <h4><a href="contact-us.php">E-Commerce &amp; Retail AI</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Fraud detection, transaction analysis, and financial predictions.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">FinTech &amp; Banking AI</a></h4>
+                        <h4><a href="contact-us.php">FinTech &amp; Banking AI</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Adaptive learning, course recommendations, and personalized engagement tools.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">E-Learning AI</a></h4>
+                        <h4><a href="contact-us.php">E-Learning AI</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-paint-brush fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Property valuation, lead scoring, virtual tours, and agent workflow automation.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Real Estate AI</a></h4>
+                        <h4><a href="contact-us.php">Real Estate AI</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-plane fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Booking automation, personalization, and predictive analytics.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Travel &amp; Hospitality AI</a></h4>
+                        <h4><a href="contact-us.php">Travel &amp; Hospitality AI</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-shipping-fast fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Route planning, shipment tracking, inventory management, and demand forecasting.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Logistics AI</a></h4>
+                        <h4><a href="contact-us.php">Logistics AI</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-utensils fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Menu recommendations, order predictions, and operations automation.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Food &amp; Restaurant AI</a></h4>
+                        <h4><a href="contact-us.php">Food &amp; Restaurant AI</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cloud fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Analytics, automation, predictive insights, and user behavior tracking.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">SaaS &amp; Cloud AI</a></h4>
+                        <h4><a href="contact-us.php">SaaS &amp; Cloud AI</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-car fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Vehicle management, predictive maintenance, and smart customer service.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Automotive &amp; Mobility AI</a></h4>
+                        <h4><a href="contact-us.php">Automotive &amp; Mobility AI</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-film fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Content recommendations, audience insights, and workflow automation.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Entertainment &amp; Media AI</a></h4>
+                        <h4><a href="contact-us.php">Entertainment &amp; Media AI</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-briefcase fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Workflow automation, analytics, and client management solutions.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Professional Services AI</a></h4>
+                        <h4><a href="contact-us.php">Professional Services AI</a></h4>
                     </div>
                 </div>
             </div>
@@ -1466,7 +1485,7 @@
     <!-- End FAQ -->
 
     <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
 
     <!-- Start Footer
     ============================================= -->
@@ -1737,12 +1756,12 @@
     <script src="assets/js/TweenMax.min.js"></script>
     <script src="assets/js/validnavs.js"></script>
     <script src="assets/js/main.js"></script>
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <link href="contact-us.php" rel="stylesheet">
+    <script src="contact-us.php" type="text/javascript" async></script>
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'

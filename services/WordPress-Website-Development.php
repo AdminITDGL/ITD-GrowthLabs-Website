@@ -616,6 +616,15 @@
             }
         }
     </style>
+    <link rel="canonical" href="https://itdgrowthlabs.com/services/WordPress-Website-Development.php" />
+    <meta property="og:title" content="WordPress Website Development Services | ITD GrowthLabs" />
+    <meta property="og:description" content="Get professional WordPress website development services from ITD GrowthLabs. Our WordPress website development solutions help businesses build fast, secure, and SEO-friendly websites for better online growth and performance." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/services/WordPress-Website-Development.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"Service","name":"WordPress Website Development Services","description":"Professional WordPress website development solutions to build fast, secure, and SEO-friendly websites.","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"WordPress Website Development"}
+    </script>
 </head>
 
 <body>
@@ -641,7 +650,7 @@
                                 Build scalable sites with expert WordPress website development. We deliver secure, fast, SEO-ready solutions through WordPress website development for modern brands now.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Get Started</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Get Started</a>
                             </div>
                         </div>
                     </div>
@@ -957,91 +966,91 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-building fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic WordPress Website Development for enterprises, focusing on strong branding, secure infrastructure, and seamless user experience for professional corporate websites.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Corporate WordPress Development</a></h4>
+                        <h4><a href="contact-us.php">Corporate WordPress Development</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-shopping-cart fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Scalable WordPress Website Development for online stores with WooCommerce integration, secure payment gateways, inventory control, and optimized checkout flows.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">WordPress E-commerce Solutions</a></h4>
+                        <h4><a href="contact-us.php">WordPress E-commerce Solutions</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Professional WordPress Website Development ensuring websites perform smoothly across desktops, tablets, and mobile devices for better reach and engagement.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Responsive WordPress Design</a></h4>
+                        <h4><a href="contact-us.php">Responsive WordPress Design</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fab fa-wordpress fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Flexible WordPress Website Development that allows businesses to easily manage content, pages, and updates without technical expertise.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">WordPress CMS Development</a></h4>
+                        <h4><a href="contact-us.php">WordPress CMS Development</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-paint-brush fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Conversion-focused WordPress Website Development built around user behavior, creating intuitive layouts that improve engagement and lead generation.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">WordPress UI/UX Design</a></h4>
+                        <h4><a href="contact-us.php">WordPress UI/UX Design</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-code fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Advanced WordPress Website Development with custom themes, plugins, and scalable architecture tailored to complex business requirements.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Custom WordPress Development</a></h4>
+                        <h4><a href="contact-us.php">Custom WordPress Development</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-bullseye fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>High-converting WordPress Website Development landing pages designed for marketing campaigns to capture leads and maximize digital advertising ROI.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">WordPress Landing Page Development</a></h4>
+                        <h4><a href="contact-us.php">WordPress Landing Page Development</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-sync-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Modern WordPress Website Development upgrades for outdated websites to improve speed, SEO performance, and visual appeal.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">WordPress Website Redesign</a></h4>
+                        <h4><a href="contact-us.php">WordPress Website Redesign</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-tools fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Reliable WordPress Website Development support with regular updates, security monitoring, backups, and performance optimization.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">WordPress Maintenance & Support</a></h4>
+                        <h4><a href="contact-us.php">WordPress Maintenance & Support</a></h4>
                     </div>
                 </div>
             </div>
@@ -1298,7 +1307,7 @@
                         <h2 class="title text-white mb-30">Ready to Build Your Website?</h2>
                         <p class="text-white">Work with a trusted business website development company for long-term success.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Let's Talk</a>
+                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Let's Talk</a>
                         </div>
                     </div>
                 </div>
@@ -1400,7 +1409,7 @@
     <!-- End FAQ -->
 
     <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
 
     <!-- Start Footer
     ============================================= -->
@@ -1671,12 +1680,12 @@
     <script src="../assets/js/TweenMax.min.js"></script>
     <script src="../assets/js/validnavs.js"></script>
     <script src="../assets/js/main.js"></script>
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <link href="contact-us.php" rel="stylesheet">
+    <script src="contact-us.php" type="text/javascript" async></script>
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'

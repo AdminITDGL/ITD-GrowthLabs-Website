@@ -616,6 +616,15 @@
             }
         }
     </style>
+    <link rel="canonical" href="https://itdgrowthlabs.com/services/ai_label_development.php" />
+    <meta property="og:title" content="AI Data Labelling Services | ITD GrowthLabs" />
+    <meta property="og:description" content="Improve model accuracy with AI data labelling and data labeling services. High-quality AI data labelling for image, text, audio, and video datasets to enhance AI performance." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/services/ai_label_development.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"Service","name":"AI Data Labelling","description":"High-quality AI data labelling for image, text, audio, and video datasets","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"AI & Data Services"}
+    </script>
 </head>
 
 <body>
@@ -641,7 +650,7 @@
                                 Improve accuracy with AI data labelling and data labeling services. ITD GrowthLabs delivers scalable AI data labelling solutions for image, text, audio, and video datasets.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Start Labelling</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Start Labelling</a>
                             </div>
                         </div>
                     </div>
@@ -957,91 +966,91 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-bullseye fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic AI data labelling and data labeling services for businesses, focusing on dataset planning, labeling workflows, and structured processes to improve accuracy and performance.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">AI Data Labelling Strategy</a></h4>
+                        <h4><a href="contact-us.php">AI Data Labelling Strategy</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Scalable AI data labelling services with dataset setup, configuration, data structuring, and platform-ready data labeling services.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Dataset Setup & Configuration</a></h4>
+                        <h4><a href="contact-us.php">Dataset Setup & Configuration</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-layer-group fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Professional AI data labelling ensuring data labeling services perform across image, text, audio, and video datasets for consistent results.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Multi-Format Data Optimization</a></h4>
+                        <h4><a href="contact-us.php">Multi-Format Data Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-project-diagram fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Flexible AI data labelling with optimized workflows, structured datasets, and labeling processes to improve efficiency and accuracy.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Labelling Workflow Optimization</a></h4>
+                        <h4><a href="contact-us.php">Labelling Workflow Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-brain fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Conversion-focused AI data labelling designed with smart labeling strategies and structured processes to improve model performance.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Intelligent Labelling Enhancements</a></h4>
+                        <h4><a href="contact-us.php">Intelligent Labelling Enhancements</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-expand-arrows-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Advanced AI data labelling and data labeling services strategies including dataset updates, scaling, and workflow improvements.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Labelling Updates & Scaling</a></h4>
+                        <h4><a href="contact-us.php">Labelling Updates & Scaling</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-chart-bar fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>High-performing AI data labelling with analytics, reporting tools, and tracking to evaluate dataset quality.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Performance Tracking & Analytics</a></h4>
+                        <h4><a href="contact-us.php">Performance Tracking & Analytics</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-clipboard-check fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Modern AI data labelling improvements for existing datasets to enhance structure, clarity, and labeling accuracy.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Labelling Audit & Optimization</a></h4>
+                        <h4><a href="contact-us.php">Labelling Audit & Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-tools fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Reliable AI data labelling support with continuous updates, performance improvements, and strategy enhancements.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Ongoing Support & Optimization</a></h4>
+                        <h4><a href="contact-us.php">Ongoing Support & Optimization</a></h4>
                     </div>
                 </div>
             </div>
@@ -1126,7 +1135,7 @@
                         <h2 class="title text-white mb-30">Ready to Improve Your AI Model Accuracy?</h2>
                         <p class="text-white">Work with a trusted AI data labelling company for high-quality, scalable data labeling that enhances AI performance and model accuracy.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Let's Talk</a>
+                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Let's Talk</a>
                         </div>
                     </div>
                 </div>
@@ -1228,7 +1237,7 @@
     <!-- End FAQ -->
 
     <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
 
     <!-- Start Footer
     ============================================= -->
@@ -1499,12 +1508,10 @@
     <script src="../assets/js/TweenMax.min.js"></script>
     <script src="../assets/js/validnavs.js"></script>
     <script src="../assets/js/main.js"></script>
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'

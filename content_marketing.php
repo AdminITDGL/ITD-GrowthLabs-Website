@@ -641,7 +641,7 @@
                                 Partner with ITD GrowthLabs for content and e-learning services that deliver engaging courses, interactive learning, and measurable learner growth. Our approach ensures optimized content, seamless user experience, and effective knowledge transfer.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php#" target="_blank">Let’s Build Your Learning Platform</a>
+                                <a class="btn btn-theme btn-md animation" href='contact-us.php' target="_blank">Let’s Build Your Learning Platform</a>
                             </div>
                         </div>
                     </div>
@@ -954,121 +954,121 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-heartbeat fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href='contact-us.php' class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>E-learning content with courses, modules, and patient education tools.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Healthcare &amp; MedTech</a></h4>
+                        <h4><a href='contact-us.php'>Healthcare &amp; MedTech</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-shopping-cart fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href='contact-us.php' class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Training for staff with tutorials, guides, and product modules.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">E-Commerce &amp; Retail</a></h4>
+                        <h4><a href='contact-us.php'>E-Commerce &amp; Retail</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href='contact-us.php' class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Financial literacy and app training for banks and fintech teams.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">FinTech &amp; Banking</a></h4>
+                        <h4><a href='contact-us.php'>FinTech &amp; Banking</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href='contact-us.php' class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Interactive platforms, courses, webinars, and engagement tools.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Education &amp; E-Learning</a></h4>
+                        <h4><a href='contact-us.php'>Education &amp; E-Learning</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-paint-brush fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href='contact-us.php' class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Training modules for agents with sales tips and compliance content.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Real Estate</a></h4>
+                        <h4><a href='contact-us.php'>Real Estate</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-plane fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href='contact-us.php' class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Programs for staff covering operations and customer service.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Travel &amp; Hospitality</a></h4>
+                        <h4><a href='contact-us.php'>Travel &amp; Hospitality</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-shipping-fast fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href='contact-us.php' class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Learning for teams on tracking, safety, and workflows.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Logistics &amp; Distribution</a></h4>
+                        <h4><a href='contact-us.php'>Logistics &amp; Distribution</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-utensils fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href='contact-us.php' class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Training for staff on operations, hygiene, and service practices.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Food &amp; Restaurant</a></h4>
+                        <h4><a href='contact-us.php'>Food &amp; Restaurant</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cloud fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href='contact-us.php' class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Onboarding and training content with tutorials and guides.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">SaaS &amp; Cloud</a></h4>
+                        <h4><a href='contact-us.php'>SaaS &amp; Cloud</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-car fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href='contact-us.php' class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Modules for dealers and teams on sales, service, and apps.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Automotive &amp; Mobility</a></h4>
+                        <h4><a href='contact-us.php'>Automotive &amp; Mobility</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-film fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href='contact-us.php' class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Content for production, operations, and audience engagement.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Entertainment &amp; Media</a></h4>
+                        <h4><a href='contact-us.php'>Entertainment &amp; Media</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-briefcase fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href='contact-us.php' class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Courses on workflow, compliance, and client management.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Professional Services</a></h4>
+                        <h4><a href='contact-us.php'>Professional Services</a></h4>
                     </div>
                 </div>
             </div>
@@ -1361,7 +1361,7 @@
                         <h2 class="title text-white mb-30">Ready to Build Your Website?</h2>
                         <p class="text-white">Work with a trusted business website development company for strong online presence and digital growth.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Let's Talk</a>
+                            <a class="btn btn-theme btn-md animation" href='contact-us.php' target="_blank">Let's Talk</a>
                         </div>
                     </div>
                 </div>
@@ -1463,7 +1463,7 @@
     <!-- End FAQ -->
 
     <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <div class="calendly-inline-widget" data-url='contact-us.php' style="min-width:320px;height:700px;"></div>
 
     <!-- Start Footer
     ============================================= -->
@@ -1734,12 +1734,12 @@
     <script src="assets/js/TweenMax.min.js"></script>
     <script src="assets/js/validnavs.js"></script>
     <script src="assets/js/main.js"></script>
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <link href='contact-us.php' rel="stylesheet">
+    <script src='contact-us.php' type="text/javascript" async></script>
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                url: contact-us.php,
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'

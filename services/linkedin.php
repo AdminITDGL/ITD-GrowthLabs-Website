@@ -616,6 +616,17 @@
             }
         }
     </style>
+
+    <!-- SEO Optimization -->
+    <link rel="canonical" href="https://itdgrowthlabs.com/services/linkedin.php" />
+    <meta property="og:title" content="LinkedIn Ads Services for Businesses | ITD GrowthLabs" />
+    <meta property="og:description" content="Drive targeted B2B traffic with expert LinkedIn Ads management. Our LinkedIn Ads strategies optimize campaigns, improve engagement, and increase leads for measurable business growth." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/services/linkedin.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"Service","name":"LinkedIn Ads Services for Businesses","description":"Drive targeted B2B traffic with expert LinkedIn Ads management. Our LinkedIn Ads strategies optimize campaigns, improve engagement, and increase leads","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Digital Marketing"}
+    </script>
 </head>
 
 <body>
@@ -641,7 +652,7 @@
                                 Boost your B2B reach with expert LinkedIn Ads management. Our LinkedIn Ads strategies deliver targeted engagement, optimized ad creatives, and data-driven campaigns for measurable growth.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Launch Ads</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Launch Ads</a>
                             </div>
                         </div>
                     </div>
@@ -957,91 +968,91 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fab fa-linkedin fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic LinkedIn Ads management for businesses, focusing on audience targeting, ad copy optimization, and bidding strategies to improve campaign performance and ROI.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">LinkedIn Ads Strategy</a></h4>
+                        <h4><a href="contact-us.php">LinkedIn Ads Strategy</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Scalable LinkedIn Ads services with account structure, conversion tracking, audience segmentation, and secure setup for maximum efficiency.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Technical Campaign Setup</a></h4>
+                        <h4><a href="contact-us.php">Technical Campaign Setup</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Professional LinkedIn Ads management ensuring ads display correctly on mobile devices and across LinkedIn platforms for higher reach.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Mobile & Professional Ads</a></h4>
+                        <h4><a href="contact-us.php">Mobile & Professional Ads</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-search-dollar fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Flexible LinkedIn Ads management with targeted keywords, ad variations, and A/B testing to boost clicks, engagement, and conversions.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Keyword & Ad Optimization</a></h4>
+                        <h4><a href="contact-us.php">Keyword & Ad Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-paint-brush fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Conversion-focused LinkedIn Ads management designed around user behavior to improve ad relevance, engagement, and overall campaign performance.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Creative Ad Enhancements</a></h4>
+                        <h4><a href="contact-us.php">Creative Ad Enhancements</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-retweet fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Advanced LinkedIn Ads strategies including retargeting, dynamic ads, and custom audience targeting to increase return on ad spend.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Remarketing & Retargeting</a></h4>
+                        <h4><a href="contact-us.php">Remarketing & Retargeting</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-chart-bar fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>High-performing LinkedIn Ads management with regular monitoring, analytics, and reporting to enhance campaign results and ROI.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Performance Tracking & Analytics</a></h4>
+                        <h4><a href="contact-us.php">Performance Tracking & Analytics</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-sync-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Modern LinkedIn Ads upgrades for existing campaigns to improve ad structure, targeting, and overall campaign efficiency.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Campaign Audit & Redesign</a></h4>
+                        <h4><a href="contact-us.php">Campaign Audit & Redesign</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-tools fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Reliable LinkedIn Ads management support with continuous updates, bid management, reporting, and optimization to maintain top campaign performance.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Ongoing Campaign Support</a></h4>
+                        <h4><a href="contact-us.php">Ongoing Campaign Support</a></h4>
                     </div>
                 </div>
             </div>
@@ -1126,7 +1137,7 @@
                         <h2 class="title text-white mb-30">Ready to Launch Your LinkedIn Ads Campaign?</h2>
                         <p class="text-white">Work with a trusted LinkedIn Ads agency for targeted B2B engagement and measurable leads.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Let's Talk</a>
+                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Let's Talk</a>
                         </div>
                     </div>
                 </div>
@@ -1224,7 +1235,7 @@
     <!-- End FAQ -->
 
     <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
 
     <!-- Start Footer
     ============================================= -->
@@ -1495,12 +1506,12 @@
     <script src="../assets/js/TweenMax.min.js"></script>
     <script src="../assets/js/validnavs.js"></script>
     <script src="../assets/js/main.js"></script>
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <link href="contact-us.php" rel="stylesheet">
+    <script src="contact-us.php" type="text/javascript" async></script>
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'

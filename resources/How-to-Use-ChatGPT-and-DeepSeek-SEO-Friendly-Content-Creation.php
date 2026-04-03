@@ -49,6 +49,21 @@
         <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
     <![endif]-->
 
+
+    <!-- SEO Optimization -->
+    <link rel="canonical" href="https://itdgrowthlabs.com/resources/How-to-Use-ChatGPT-and-DeepSeek-SEO-Friendly-Content-Creation.php" />
+    <meta property="og:title" content="How to Use ChatGPT and DeepSeek for SEO-Friendly Content Creation" />
+    <meta property="og:description" content="Discover how to use ChatGPT for SEO and DeepSeek for AI content optimization to create SEO-friendly content. Learn how these tools streamline content creation and improve rankings." />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/resources/How-to-Use-ChatGPT-and-DeepSeek-SEO-Friendly-Content-Creation.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <meta property="og:site_name" content="ITD GrowthLabs" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="How to Use ChatGPT and DeepSeek for SEO-Friendly Content Creation" />
+    <meta name="twitter:description" content="Discover how to use ChatGPT for SEO and DeepSeek for AI content optimization to create SEO-friendly content. Learn how these tools streamline content " />
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"BlogPosting","headline":"How to Use ChatGPT and DeepSeek for SEO-Friendly Content Creation","description":"Discover how to use ChatGPT for SEO and DeepSeek for AI content optimization to create SEO-friendly content. Learn how these tools streamline content creation and improve rankings.","author":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"publisher":{"@type":"Organization","name":"ITD GrowthLabs","logo":{"@type":"ImageObject","url":"https://itdgrowthlabs.com/assets/img/logo.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://itdgrowthlabs.com/resources/How-to-Use-ChatGPT-and-DeepSeek-SEO-Friendly-Content-Creation.php"},"articleSection":"SEO"}
+    </script>
 </head>
 
 <body>
@@ -129,7 +144,7 @@
 
                                     <p>Whether you’re looking to boost your search engine rankings or create compelling content that converts, AI tools like ChatGPT and DeepSeek offer the expertise and precision needed to elevate your brand’s content strategy.</p>
 
-                                    <p>Ready to take your content to the next level? Explore the benefits of using AI for SEO content writing. <a href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Schedule a free consultation</a> or visit <a href="https://www.itdgrowthlabs.com/" target="_blank">ITDGrowthLabs</a> for more information on how AI tools can transform your content and SEO strategy.</p>
+                                    <p>Ready to take your content to the next level? Explore the benefits of using AI for SEO content writing. <a href="contact-us.php" target="_blank">Schedule a free consultation</a> or visit <a href="https://www.itdgrowthlabs.com/" target="_blank">ITDGrowthLabs</a> for more information on how AI tools can transform your content and SEO strategy.</p>
 
                                 </div>
                             </div>
@@ -178,14 +193,14 @@
 
     <!-- Calendly badge widget begin -->
 
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+    <link href="contact-us.php" rel="stylesheet">
 
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <script src="contact-us.php" type="text/javascript" async></script>
 
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdGrowthLabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'
@@ -195,9 +210,9 @@
 
     <!-- Calendly inline widget begin -->
 
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdGrowthLabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
 
-    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+    <script type="text/javascript" src="contact-us.php" async></script>
 
 
     <!-- Calendly inline widget end -->

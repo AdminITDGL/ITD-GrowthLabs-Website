@@ -485,8 +485,8 @@
 			var href = ($(this).attr('href') || '').toString();
 			if (!href) return;
 
-			var isCtaCalendly = href.indexOf('https://calendly.com/itdgrowthlabs-info/30min') === 0;
-			var isCtaLpAppDev = href.indexOf('https://www.itdgrowthlabs.com/lp/app-development.php') === 0;
+			var isCtaCalendly = href.indexOf('contact-us.php') === 0;
+			var isCtaLpAppDev = href.indexOf('contact-us.php') === 0;
 
 			// Also catch URL variants (with trailing # / querystring)
 			if (!isCtaCalendly && href.indexOf('calendly.com/itdgrowthlabs-info/30min') !== -1) isCtaCalendly = true;

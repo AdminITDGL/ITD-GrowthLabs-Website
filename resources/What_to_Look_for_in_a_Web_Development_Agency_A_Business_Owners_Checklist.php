@@ -48,6 +48,21 @@
         <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
     <![endif]-->
 
+
+    <!-- SEO Optimization -->
+    <link rel="canonical" href="https://itdgrowthlabs.com/resources/What_to_Look_for_in_a_Web_Development_Agency_A_Business_Owners_Checklist.php" />
+    <meta property="og:title" content="What to Look for in a Web Development Agency: A Business Owner’s Checklist" />
+    <meta property="og:description" content="What is technical writing? Learn how beginners can excel in technical documentation and writing for tech with expert tips from ITD GrowthLabs." />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/resources/What_to_Look_for_in_a_Web_Development_Agency_A_Business_Owners_Checklist.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <meta property="og:site_name" content="ITD GrowthLabs" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="What to Look for in a Web Development Agency: A Business Owner’s Checklist" />
+    <meta name="twitter:description" content="What is technical writing? Learn how beginners can excel in technical documentation and writing for tech with expert tips from ITD GrowthLabs." />
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"BlogPosting","headline":"What to Look for in a Web Development Agency: A Business Owner’s Checklist","description":"What is technical writing? Learn how beginners can excel in technical documentation and writing for tech with expert tips from ITD GrowthLabs.","author":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"publisher":{"@type":"Organization","name":"ITD GrowthLabs","logo":{"@type":"ImageObject","url":"https://itdgrowthlabs.com/assets/img/logo.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://itdgrowthlabs.com/resources/What_to_Look_for_in_a_Web_Development_Agency_A_Business_Owners_Checklist.php"},"articleSection":"Website Development"}
+    </script>
 </head>
 
 <body>
@@ -105,14 +120,14 @@
 
     <!-- Calendly badge widget begin -->
 
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+    <link href="contact-us.php" rel="stylesheet">
 
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <script src="contact-us.php" type="text/javascript" async></script>
 
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdGrowthLabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'
@@ -122,9 +137,9 @@
 
     <!-- Calendly inline widget begin -->
 
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdGrowthLabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
 
-    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+    <script type="text/javascript" src="contact-us.php" async></script>
 
 
     <!-- Calendly inline widget end -->

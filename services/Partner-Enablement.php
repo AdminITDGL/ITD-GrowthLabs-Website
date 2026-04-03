@@ -616,6 +616,17 @@
             }
         }
     </style>
+
+    <!-- SEO Optimization -->
+    <link rel="canonical" href="https://itdgrowthlabs.com/services/Partner-Enablement.php" />
+    <meta property="og:title" content="AI Marketing Automation Services | ITD GrowthLabs" />
+    <meta property="og:description" content="Boost growth with AI marketing automation and AI-driven marketing automation solutions. Automate campaigns, personalize customer journeys, and improve engagement with smarter marketing strategies." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/services/Partner-Enablement.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"Service","name":"AI Marketing Automation Services","description":"Boost growth with AI marketing automation and AI-driven marketing automation solutions. Automate campaigns, personalize customer journeys, and improve","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Digital Services"}
+    </script>
 </head>
 
 <body>
@@ -641,7 +652,7 @@
                                 Boost results with AI marketing automation and AI-driven marketing automation. ITD GrowthLabs delivers scalable AI marketing automation solutions for campaigns, personalization, and growth.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Start Automating</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Start Automating</a>
                             </div>
                         </div>
                     </div>
@@ -957,91 +968,91 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-lightbulb fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic AI marketing automation and AI-driven marketing automation for businesses, focusing on campaign planning, audience targeting, and structured workflows to improve performance, engagement, and ROI.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">AI Marketing Automation Strategy</a></h4>
+                        <h4><a href="contact-us.php">AI Marketing Automation Strategy</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Scalable AI marketing automation services with campaign setup, system configuration, audience mapping, and platform-ready AI-driven marketing automation.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Campaign Setup & Configuration</a></h4>
+                        <h4><a href="contact-us.php">Campaign Setup & Configuration</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-broadcast-tower fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Professional AI marketing automation ensuring AI-driven marketing automation performs across email, social, and web platforms for consistent engagement.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Multi-Channel Optimization</a></h4>
+                        <h4><a href="contact-us.php">Multi-Channel Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-project-diagram fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Flexible AI marketing automation with optimized campaigns, structured workflows, and automated processes to improve performance and conversions.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Campaign & Workflow Optimization</a></h4>
+                        <h4><a href="contact-us.php">Campaign & Workflow Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-brain fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Conversion-focused AI marketing automation designed with smart targeting, automation triggers, and structured campaigns to improve engagement.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Intelligent Marketing Enhancements</a></h4>
+                        <h4><a href="contact-us.php">Intelligent Marketing Enhancements</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-chart-line fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Advanced AI marketing automation and AI-driven marketing automation strategies including campaign updates, scaling, and feature upgrades.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Automation Updates & Scaling</a></h4>
+                        <h4><a href="contact-us.php">Automation Updates & Scaling</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-chart-bar fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>High-performing AI marketing automation with analytics, reporting tools, and tracking to evaluate campaign effectiveness.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Performance Tracking & Analytics</a></h4>
+                        <h4><a href="contact-us.php">Performance Tracking & Analytics</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-clipboard-check fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Modern AI marketing automation improvements for existing campaigns to enhance structure, clarity, and performance.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Campaign Audit & Optimization</a></h4>
+                        <h4><a href="contact-us.php">Campaign Audit & Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-tools fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Reliable AI marketing automation support with continuous updates, performance improvements, and strategy enhancements.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Ongoing Support & Optimization</a></h4>
+                        <h4><a href="contact-us.php">Ongoing Support & Optimization</a></h4>
                     </div>
                 </div>
             </div>
@@ -1333,7 +1344,7 @@
                         <h2 class="title text-white mb-30">Ready to Automate Your Marketing?</h2>
                         <p class="text-white">Work with a trusted AI marketing automation company for expert AI-driven marketing automation that drives engagement and increases conversions.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Let's Talk</a>
+                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Let's Talk</a>
                         </div>
                     </div>
                 </div>
@@ -1435,7 +1446,7 @@
     <!-- End FAQ -->
 
     <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
 
     <!-- Start Footer
     ============================================= -->
@@ -1706,12 +1717,12 @@
     <script src="../assets/js/TweenMax.min.js"></script>
     <script src="../assets/js/validnavs.js"></script>
     <script src="../assets/js/main.js"></script>
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <link href="contact-us.php" rel="stylesheet">
+    <script src="contact-us.php" type="text/javascript" async></script>
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'

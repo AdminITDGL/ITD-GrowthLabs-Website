@@ -617,6 +617,18 @@
             }
         }
     </style>
+    <link rel="canonical" href="https://itdgrowthlabs.com/industries/information_tech.php" />
+    <meta property="og:title" content="IT & SaaS Industry Digital Solutions | ITD GrowthLabs" />
+    <meta property="og:description" content="Digital solutions for IT and SaaS companies including product websites, B2B marketing, lead generation, and growth marketing strategies." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/industries/information_tech.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"Service","name":"IT & SaaS Industry Digital Solutions","description":"Website development, product marketing, and lead generation for IT companies and SaaS businesses.","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"IT & SaaS Industry Solutions"}
+    </script>
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What marketing services do SaaS companies need?","acceptedAnswer":{"@type":"Answer","text":"SaaS companies benefit from product-led content marketing, SEO for feature-based keywords, Google Ads for competitor and solution searches, LinkedIn advertising for B2B lead generation, technical blog content, and conversion-optimized landing pages with free trial funnels."}},{"@type":"Question","name":"Can you build SaaS product websites?","acceptedAnswer":{"@type":"Answer","text":"Yes, we build high-converting SaaS websites with feature showcase pages, pricing tables, customer testimonials, integration pages, documentation portals, blog platforms, and optimized signup flows designed to convert visitors into trial users."}},{"@type":"Question","name":"How do you generate leads for IT companies?","acceptedAnswer":{"@type":"Answer","text":"We use a multi-channel approach including SEO for technical keywords, LinkedIn outreach and advertising, Google Ads for solution searches, content marketing through whitepapers and case studies, and email marketing automation for lead nurturing."}}]}
+    </script>
 </head>
 
 <body>
@@ -642,7 +654,7 @@
                                 Enhance your business with IT &amp; SaaS services. We deliver scalable solutions for software management, cloud operations, system integration, and process optimization to drive higher productivity.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Boost Performance</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Boost Performance</a>
                             </div>
                         </div>
                     </div>
@@ -711,6 +723,13 @@
         </div>
     </div>
     <!-- End Banner -->
+
+    <div class="container mt-5 mb-3">
+        <div style="background: linear-gradient(135deg, #f8f9fa 0%, #e8f0fe 100%); border-left: 4px solid var(--color-primary); border-radius: 8px; padding: 25px 30px;">
+            <h3 style="font-size: 20px; font-weight: 700; color: var(--color-primary); margin-bottom: 12px;">Quick Summary — IT &amp; SaaS Company Digital Solutions</h3>
+            <p style="font-size: 15px; line-height: 1.8; color: #3c4043; margin: 0;"><strong>ITD GrowthLabs</strong> provides <strong>digital marketing, SEO, and lead generation</strong> services for <strong>IT companies, SaaS startups, and software firms</strong> across <strong>India, USA, UK, UAE, and Australia</strong>. We help tech companies scale with content marketing, PPC, and growth strategies. <a href="../contact-us.php">Get a free IT marketing consultation</a>.</p>
+        </div>
+    </div>
 
     <!-- Start Clients/Partners
     ============================================= -->
@@ -958,91 +977,91 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic IT &amp; SaaS services focused on software planning, workflow structuring, and process optimization to improve efficiency and business outcomes</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">IT &amp; SaaS Planning &amp; Strategy</a></h4>
+                        <h4><a href="contact-us.php">IT &amp; SaaS Planning &amp; Strategy</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-plug fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Scalable IT &amp; SaaS services with platform setup, cloud integration, and system configuration for seamless operations</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Platform Setup &amp; Integration</a></h4>
+                        <h4><a href="contact-us.php">Platform Setup &amp; Integration</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-server fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Professional IT &amp; SaaS solutions ensuring smooth coordination across software deployment, updates, user management, and performance monitoring</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Operational &amp; System Optimization</a></h4>
+                        <h4><a href="contact-us.php">Operational &amp; System Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-tasks fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Flexible IT &amp; SaaS workflows with structured systems and optimized processes to improve speed, accuracy, and operational efficiency</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Process &amp; Workflow Enhancement</a></h4>
+                        <h4><a href="contact-us.php">Process &amp; Workflow Enhancement</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-brain fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Advanced IT &amp; SaaS solutions using automation, AI, and intelligent systems to enhance software performance and decision-making</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Smart IT Innovations</a></h4>
+                        <h4><a href="contact-us.php">Smart IT Innovations</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-expand-arrows-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic IT &amp; SaaS scaling with user onboarding, system expansion, and operational growth for increasing business demands</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Scaling &amp; Capacity Expansion</a></h4>
+                        <h4><a href="contact-us.php">Scaling &amp; Capacity Expansion</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-chart-line fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Data-driven IT &amp; SaaS with analytics, reporting, and tracking to optimize system efficiency, uptime, and user satisfaction</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Insights &amp; Performance Monitoring</a></h4>
+                        <h4><a href="contact-us.php">Insights &amp; Performance Monitoring</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-shield-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Modern IT &amp; SaaS enhancements ensuring data security, regulatory compliance, and streamlined operational standards</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Compliance &amp; Process Improvement</a></h4>
+                        <h4><a href="contact-us.php">Compliance &amp; Process Improvement</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-headset fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Reliable IT &amp; SaaS support with ongoing updates, system improvements, and performance optimization</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Continuous Support &amp; Improvement</a></h4>
+                        <h4><a href="contact-us.php">Continuous Support &amp; Improvement</a></h4>
                     </div>
                 </div>
             </div>
@@ -1436,7 +1455,7 @@
     <!-- End FAQ -->
 
     <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
 
     <!-- Start Footer
     ============================================= -->
@@ -1707,12 +1726,12 @@
     <script src="assets/js/TweenMax.min.js"></script>
     <script src="assets/js/validnavs.js"></script>
     <script src="assets/js/main.js"></script>
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <link href="contact-us.php" rel="stylesheet">
+    <script src="contact-us.php" type="text/javascript" async></script>
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'

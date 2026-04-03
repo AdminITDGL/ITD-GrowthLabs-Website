@@ -616,6 +616,35 @@
             }
         }
     </style>
+    <link rel="canonical" href="https://itdgrowthlabs.com/services/flutter_development.php" />
+    <meta property="og:title" content="Flutter App Development Services | ITD GrowthLabs" />
+    <meta property="og:description" content="Build innovative, cross-platform mobile apps with Flutter development services." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/services/flutter_development.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "Flutter App Development",
+        "description": "Cross-platform mobile app development using Flutter for iOS and Android.",
+        "provider": {"@type": "Organization", "name": "ITD GrowthLabs", "url": "https://itdgrowthlabs.com"},
+        "areaServed": ["India", "Australia", "UAE", "UK", "USA"],
+        "serviceType": "Flutter App Development"
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {"@type": "Question", "name": "What is Flutter app development?", "acceptedAnswer": {"@type": "Answer", "text": "Flutter is Google's open-source UI framework for building natively compiled applications for mobile (iOS and Android), web, and desktop from a single codebase. Flutter apps deliver near-native performance with beautiful, customizable UI components and hot reload for faster development."}},
+            {"@type": "Question", "name": "Why choose Flutter over native development?", "acceptedAnswer": {"@type": "Answer", "text": "Flutter reduces development time and cost by up to 40% since one codebase works on both iOS and Android. It offers near-native performance, a rich widget library, hot reload for faster iteration, and strong community support. It's ideal for startups and businesses that need to launch on both platforms quickly."}},
+            {"@type": "Question", "name": "Is Flutter suitable for enterprise applications?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, Flutter is used by major enterprises including Google, BMW, Alibaba, and Toyota. It supports complex features, integrates with native device capabilities, and scales well for enterprise-grade applications with thousands of users."}},
+            {"@type": "Question", "name": "How long does Flutter app development take?", "acceptedAnswer": {"@type": "Answer", "text": "Flutter development is typically 30-40% faster than native development. A simple app takes 4-8 weeks, a mid-complexity app 2-4 months, and a complex enterprise app 4-8 months. The single-codebase approach significantly reduces development time compared to building separate iOS and Android apps."}}
+        ]
+    }
+    </script>
 </head>
 
 <body>
@@ -710,6 +739,14 @@
         </div>
     </div>
     <!-- End Banner -->
+
+    <!-- Quick Summary for AI Search Engines (AEO) -->
+    <div class="container mt-5 mb-3">
+        <div style="background: linear-gradient(135deg, #f8f9fa 0%, #e8f0fe 100%); border-left: 4px solid var(--color-primary); border-radius: 8px; padding: 25px 30px;">
+            <h3 style="font-size: 20px; font-weight: 700; color: var(--color-primary); margin-bottom: 12px;">Quick Summary — Flutter App Development Services</h3>
+            <p style="font-size: 15px; line-height: 1.8; color: #3c4043; margin: 0;"><strong>ITD GrowthLabs</strong> offers <strong>Flutter app development services</strong> to build high-performance, cross-platform mobile apps for <strong>Android and iOS</strong> from a single codebase. We deliver fast, beautiful, and natively compiled applications for startups and enterprises across <strong>India, USA, UK, UAE, and Australia</strong>. <a href="../contact-us.php">Get a free Flutter app consultation</a>.</p>
+        </div>
+    </div>
 
     <!-- Start Clients/Partners
     ============================================= -->
@@ -957,91 +994,91 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic Flutter App Development for businesses, focusing on intuitive design, secure architecture, and smooth performance for cross-platform mobile applications.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Custom Flutter App Development</a></h4>
+                        <h4><a href="contact-us.php">Custom Flutter App Development</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-building fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Scalable Flutter App Development solutions for enterprises with advanced features, integrations, and secure data management.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Enterprise Flutter Applications</a></h4>
+                        <h4><a href="contact-us.php">Enterprise Flutter Applications</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Professional Flutter App Development ensuring apps deliver smooth performance and consistent user experience across Android and iOS devices.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Responsive App UI Design</a></h4>
+                        <h4><a href="contact-us.php">Responsive App UI Design</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-plug fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Flexible Flutter App Development that integrates APIs, payment systems, notifications, and other essential app functionalities.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">App Feature Integration</a></h4>
+                        <h4><a href="contact-us.php">App Feature Integration</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-paint-brush fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Conversion-focused Flutter App Development built around user behavior, creating intuitive interfaces that improve engagement and usability.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Flutter App UI/UX Design</a></h4>
+                        <h4><a href="contact-us.php">Flutter App UI/UX Design</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-code fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Advanced Flutter App Development with tailored features, scalable architecture, and technology integrations for complex app requirements.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Custom App Solutions</a></h4>
+                        <h4><a href="contact-us.php">Custom App Solutions</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-bullseye fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>High-performing Flutter App Development with optimized structure and design to support better visibility on both stores.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">App Store & Play Store Optimization</a></h4>
+                        <h4><a href="contact-us.php">App Store & Play Store Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-sync-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Modern Flutter App Development upgrades for outdated applications to improve speed, usability, and visual appeal.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Flutter App Redesign Services</a></h4>
+                        <h4><a href="contact-us.php">Flutter App Redesign Services</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-tools fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Reliable Flutter App Development support with updates, bug fixes, monitoring, and performance optimization.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Flutter App Maintenance & Support</a></h4>
+                        <h4><a href="contact-us.php">Flutter App Maintenance & Support</a></h4>
                     </div>
                 </div>
             </div>
@@ -1298,7 +1335,7 @@
                         <h2 class="title text-white mb-30">Ready to Build Your Website?</h2>
                         <p class="text-white">Work with a trusted business website development company for long-term success.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Let's Talk</a>
+                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Let's Talk</a>
                         </div>
                     </div>
                 </div>
@@ -1400,7 +1437,7 @@
     <!-- End FAQ -->
 
     <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
 
     <!-- Start Footer
     ============================================= -->
@@ -1671,12 +1708,12 @@
     <script src="../assets/js/TweenMax.min.js"></script>
     <script src="../assets/js/validnavs.js"></script>
     <script src="../assets/js/main.js"></script>
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <link href="contact-us.php" rel="stylesheet">
+    <script src="contact-us.php" type="text/javascript" async></script>
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'

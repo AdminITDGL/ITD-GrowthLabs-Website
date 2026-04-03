@@ -46,6 +46,21 @@
         <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
     <![endif]-->
 
+
+    <!-- SEO Optimization -->
+    <link rel="canonical" href="https://itdgrowthlabs.com/resources/Nail_Your_First_Impression_Checklist_for_New_Businesses.php" />
+    <meta property="og:title" content="Website Content Checklist for New Businesses" />
+    <meta property="og:description" content="Launch your brand right with this website content checklist for new businesses. Includes tips on startup website content, business site copy & more." />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/resources/Nail_Your_First_Impression_Checklist_for_New_Businesses.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <meta property="og:site_name" content="ITD GrowthLabs" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Website Content Checklist for New Businesses" />
+    <meta name="twitter:description" content="Launch your brand right with this website content checklist for new businesses. Includes tips on startup website content, business site copy & more." />
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"BlogPosting","headline":"Website Content Checklist for New Businesses","description":"Launch your brand right with this website content checklist for new businesses. Includes tips on startup website content, business site copy & more.","author":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"publisher":{"@type":"Organization","name":"ITD GrowthLabs","logo":{"@type":"ImageObject","url":"https://itdgrowthlabs.com/assets/img/logo.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://itdgrowthlabs.com/resources/Nail_Your_First_Impression_Checklist_for_New_Businesses.php"},"articleSection":"AI & Technology"}
+    </script>
 </head>
 
 <body>
@@ -341,14 +356,14 @@
 
         <!-- Calendly badge widget begin -->
 
-        <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+        <link href="contact-us.php" rel="stylesheet">
 
-        <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+        <script src="contact-us.php" type="text/javascript" async></script>
 
         <script type="text/javascript">
             window.onload = function() {
                 Calendly.initBadgeWidget({
-                    url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                    url: 'contact-us.php',
                     text: 'Schedule time with me',
                     color: '#0069ff',
                     textColor: '#ffffff'
@@ -358,9 +373,9 @@
 
         <!-- Calendly inline widget begin -->
 
-        <div class="calendly-inline-widget" data-url="https://calendly.com/itdGrowthLabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+        <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
 
-        <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+        <script type="text/javascript" src="contact-us.php" async></script>
 
 
         <!-- Calendly inline widget end -->
@@ -641,14 +656,14 @@
     <script type="text/javascript" src='https://www.google.com/recaptcha/api.js' async defer></script>
     <!-- Calendly badge widget begin -->
 
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+    <link href="contact-us.php" rel="stylesheet">
 
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <script src="contact-us.php" type="text/javascript" async></script>
 
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'

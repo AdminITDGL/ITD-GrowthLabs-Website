@@ -617,6 +617,18 @@
             }
         }
     </style>
+    <link rel="canonical" href="https://itdgrowthlabs.com/industries/education.php" />
+    <meta property="og:title" content="Education & EdTech Digital Solutions | ITD GrowthLabs" />
+    <meta property="og:description" content="Digital solutions for education including LMS platforms, eLearning apps, student portals, and education marketing services." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/industries/education.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"Service","name":"Education & EdTech Digital Solutions","description":"LMS development, eLearning apps, websites, and digital marketing for educational institutions.","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Education Industry Solutions"}
+    </script>
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What EdTech solutions does ITD GrowthLabs offer?","acceptedAnswer":{"@type":"Answer","text":"We build learning management systems (LMS), eLearning mobile apps, student portals, virtual classroom platforms, assessment tools, and educational content delivery systems for schools, universities, coaching centers, and corporate training."}},{"@type":"Question","name":"Can you build a custom LMS platform?","acceptedAnswer":{"@type":"Answer","text":"Yes, we develop custom LMS platforms with course management, student progress tracking, live video integration, quiz/assessment engines, certificate generation, multi-language support, and mobile-responsive design."}},{"@type":"Question","name":"How can digital marketing help educational institutions?","acceptedAnswer":{"@type":"Answer","text":"Education marketing includes local SEO for student enrollment, Google Ads for course promotion, social media campaigns for brand awareness, content marketing through educational blogs, and lead generation funnels for admissions and registrations."}}]}
+    </script>
 </head>
 
 <body>
@@ -642,7 +654,7 @@
                                 Improve efficiency with education &amp; edtech and education &amp; edtech services. We deliver scalable education &amp; edtech solutions for learning management, operations, content delivery, and process optimization.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php#" target="_blank">Start Learning</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Start Learning</a>
                             </div>
                         </div>
                     </div>
@@ -711,6 +723,13 @@
         </div>
     </div>
     <!-- End Banner -->
+
+    <div class="container mt-5 mb-3">
+        <div style="background: linear-gradient(135deg, #f8f9fa 0%, #e8f0fe 100%); border-left: 4px solid var(--color-primary); border-radius: 8px; padding: 25px 30px;">
+            <h3 style="font-size: 20px; font-weight: 700; color: var(--color-primary); margin-bottom: 12px;">Quick Summary — Education &amp; EdTech Digital Solutions</h3>
+            <p style="font-size: 15px; line-height: 1.8; color: #3c4043; margin: 0;"><strong>ITD GrowthLabs</strong> delivers <strong>digital marketing, LMS development, and edtech app solutions</strong> for <strong>schools, universities, coaching institutes, and edtech startups</strong> across <strong>India, USA, UK, UAE, and Australia</strong>. We help education businesses grow enrollments and build scalable platforms. <a href="../contact-us.php">Get a free education marketing consultation</a>.</p>
+        </div>
+    </div>
 
     <!-- Start Clients/Partners
     ============================================= -->
@@ -958,91 +977,91 @@
             <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                 <div class="services-style-one">
                     <i class="fas fa-bullseye fa-3x mb-3"></i>
-                    <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                    <a href="contact-us.php" class="btn-arrow">
                         <i class="fas fa-long-arrow-right"></i>
                     </a>
                     <p>Strategic education &amp; edtech services focused on course planning, learning workflow structuring, and process optimization to improve efficiency and learning outcomes</p>
-                    <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Education &amp; EdTech Planning &amp; Strategy</a></h4>
+                    <h4><a href="contact-us.php">Education &amp; EdTech Planning &amp; Strategy</a></h4>
                 </div>
             </div>
             <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                 <div class="services-style-one">
                     <i class="fas fa-cubes fa-3x mb-3"></i>
-                    <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                    <a href="contact-us.php" class="btn-arrow">
                         <i class="fas fa-long-arrow-right"></i>
                     </a>
                     <p>Scalable education &amp; edtech services with LMS setup, platform integration, and data management for seamless learning operations</p>
-                    <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Platform Setup &amp; Integration</a></h4>
+                    <h4><a href="contact-us.php">Platform Setup &amp; Integration</a></h4>
                 </div>
             </div>
             <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                 <div class="services-style-one">
                     <i class="fas fa-book-open fa-3x mb-3"></i>
-                    <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                    <a href="contact-us.php" class="btn-arrow">
                         <i class="fas fa-long-arrow-right"></i>
                     </a>
                     <p>Professional education &amp; edtech solutions ensuring smooth coordination across course delivery, student engagement, assessments, and administration</p>
-                    <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Curriculum &amp; Operational Optimization</a></h4>
+                    <h4><a href="contact-us.php">Curriculum &amp; Operational Optimization</a></h4>
                 </div>
             </div>
             <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                 <div class="services-style-one">
                     <i class="fas fa-diagram-project fa-3x mb-3"></i>
-                    <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                    <a href="contact-us.php" class="btn-arrow">
                         <i class="fas fa-long-arrow-right"></i>
                     </a>
                     <p>Flexible education &amp; edtech workflows with structured systems and optimized processes to improve speed, accuracy, and learning efficiency</p>
-                    <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Process &amp; Workflow Enhancement</a></h4>
+                    <h4><a href="contact-us.php">Process &amp; Workflow Enhancement</a></h4>
                 </div>
             </div>
             <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                 <div class="services-style-one">
                     <i class="fas fa-lightbulb fa-3x mb-3"></i>
-                    <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                    <a href="contact-us.php" class="btn-arrow">
                         <i class="fas fa-long-arrow-right"></i>
                     </a>
                     <p>Advanced education &amp; edtech solutions using automation, digital tools, and intelligent systems to enhance learning experiences and decision-making</p>
-                    <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Smart Learning Innovations</a></h4>
+                    <h4><a href="contact-us.php">Smart Learning Innovations</a></h4>
                 </div>
             </div>
             <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                 <div class="services-style-one">
                     <i class="fas fa-expand-arrows-alt fa-3x mb-3"></i>
-                    <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                    <a href="contact-us.php" class="btn-arrow">
                         <i class="fas fa-long-arrow-right"></i>
                     </a>
                     <p>Strategic education &amp; edtech scaling with student onboarding, content expansion, and operational growth for increasing demands</p>
-                    <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Scaling &amp; Capacity Expansion</a></h4>
+                    <h4><a href="contact-us.php">Scaling &amp; Capacity Expansion</a></h4>
                 </div>
             </div>
             <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                 <div class="services-style-one">
                     <i class="fas fa-chart-line fa-3x mb-3"></i>
-                    <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                    <a href="contact-us.php" class="btn-arrow">
                         <i class="fas fa-long-arrow-right"></i>
                     </a>
                     <p>Data-driven education &amp; edtech with analytics, reporting, and tracking to improve learning outcomes and platform performance</p>
-                    <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Insights &amp; Performance Monitoring</a></h4>
+                    <h4><a href="contact-us.php">Insights &amp; Performance Monitoring</a></h4>
                 </div>
             </div>
             <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                 <div class="services-style-one">
                     <i class="fas fa-shield-alt fa-3x mb-3"></i>
-                    <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                    <a href="contact-us.php" class="btn-arrow">
                         <i class="fas fa-long-arrow-right"></i>
                     </a>
                     <p>Modern education &amp; edtech enhancements ensuring regulatory compliance, structured workflows, and improved operational standards</p>
-                    <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Compliance &amp; Process Improvement</a></h4>
+                    <h4><a href="contact-us.php">Compliance &amp; Process Improvement</a></h4>
                 </div>
             </div>
             <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                 <div class="services-style-one">
                     <i class="fas fa-headset fa-3x mb-3"></i>
-                    <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                    <a href="contact-us.php" class="btn-arrow">
                         <i class="fas fa-long-arrow-right"></i>
                     </a>
                     <p>Reliable education &amp; edtech support with ongoing updates, system improvements, and performance optimization</p>
-                    <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Continuous Support &amp; Improvement</a></h4>
+                    <h4><a href="contact-us.php">Continuous Support &amp; Improvement</a></h4>
                 </div>
             </div>
         </div>
@@ -1437,7 +1456,7 @@
     <!-- End FAQ -->
 
     <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
 
     <!-- Start Footer
     ============================================= -->
@@ -1708,12 +1727,12 @@
     <script src="assets/js/TweenMax.min.js"></script>
     <script src="assets/js/validnavs.js"></script>
     <script src="assets/js/main.js"></script>
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <link href="contact-us.php" rel="stylesheet">
+    <script src="contact-us.php" type="text/javascript" async></script>
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'

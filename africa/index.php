@@ -736,6 +736,35 @@
             }
         }
     </style>
+    <link rel="canonical" href="https://itdgrowthlabs.com/africa/" />
+    <meta property="og:title" content="Top Website, App & Digital Marketing Company in Africa | ITD GrowthLabs" />
+    <meta property="og:description" content="ITD GrowthLabs is a leading digital solutions company in Africa offering website development, app development, and digital marketing." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/africa/" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <link rel="alternate" hreflang="en-za" href="https://itdgrowthlabs.com/africa/" />
+    <link rel="alternate" hreflang="en" href="https://itdgrowthlabs.com/" />
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "ITD GrowthLabs - Africa",
+        "url": "https://itdgrowthlabs.com/africa/",
+        "image": "https://itdgrowthlabs.com/assets/img/logo.jpg",
+        "telephone": "+91-8450978544",
+        "email": "info@itdgrowthlabs.com",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "ZA"
+        },
+        "areaServed": [
+            {"@type": "Country", "name": "South Africa"},
+            {"@type": "Country", "name": "Nigeria"},
+            {"@type": "Country", "name": "Kenya"}
+        ],
+        "serviceType": ["Website Development", "App Development", "Digital Marketing", "SEO Services"]
+    }
+    </script>
 </head>
 
 <body>
@@ -809,7 +838,7 @@
                                 We provide website development, web applications, mobile apps, and digital marketing services across Africa—helping businesses scale in South Africa, Nigeria, Kenya, and beyond.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Talk to an Africa Digital Expert</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Talk to an Africa Digital Expert</a>
                             </div>
                         </div>
                     </div>
@@ -876,6 +905,12 @@
                     </div>
                 </div>
             </div>
+        </div>
+    </div>
+    <div class="container mt-5 mb-3">
+        <div style="background: linear-gradient(135deg, #f8f9fa 0%, #e8f0fe 100%); border-left: 4px solid var(--color-primary); border-radius: 8px; padding: 25px 30px;">
+            <h3 style="font-size: 20px; font-weight: 700; color: var(--color-primary); margin-bottom: 12px;">Quick Summary — ITD GrowthLabs Africa</h3>
+            <p style="font-size: 15px; line-height: 1.8; color: #3c4043; margin: 0;"><strong>ITD GrowthLabs</strong> provides <strong>digital marketing, website development, and technology services in Africa</strong>. We work with businesses in <strong>Nigeria, South Africa, Kenya, Ghana, and across the continent</strong>. Our team delivers SEO, social media marketing, custom websites, and mobile app development for African businesses. <a href="../contact-us.php">Get a free consultation for your African business</a>.</p>
         </div>
     </div>
     <div class="default-padding p-0">
@@ -1517,7 +1552,7 @@
                         <h2 class="title text-white mb-30">Looking for a Top Digital Solutions Company in Africa?</h2>
                         <p class="text-white">Partner with ITD GrowthLabs, a trusted digital growth partner for businesses across Africa.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Talk to an Africa Digital Expert</a>
+                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Talk to an Africa Digital Expert</a>
                         </div>
                     </div>
                 </div>
@@ -1606,7 +1641,7 @@
             </div>
         </div>
     </div>
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>    
+    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>    
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
         <div class="container">
             <div class="f-items default-padding-bottom pt-70 pt-xs-0">
@@ -1874,12 +1909,12 @@
     <script src="../assets/js/TweenMax.min.js"></script>
     <script src="../assets/js/validnavs.js"></script>
     <script src="../assets/js/main.js"></script>
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <link href="contact-us.php" rel="stylesheet">
+    <script src="contact-us.php" type="text/javascript" async></script>
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'

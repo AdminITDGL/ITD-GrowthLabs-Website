@@ -14,7 +14,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Dilabs - Creative Digital Agency Template">
+    <meta name="description" content="Contact ITD GrowthLabs for website development, app development, digital marketing, and SEO services. Get a free consultation for your business growth.">
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="./assets/img/favicon.png" type="image/x-icon">
     <!-- ========== Page Title ========== -->
@@ -34,21 +34,6 @@
         gtag('config', 'AW-17674012925/L6w9CJf84rIbEP2R0OtB', {
             'phone_conversion_number': '84509 78544'
         });
-    </script>
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-M4XDB2GZ');
     </script>
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17674012925"></script>
@@ -77,6 +62,36 @@
             color: red;
         }
     </style>
+
+    <link rel="canonical" href="https://itdgrowthlabs.com/contact-us.php" />
+    <meta property="og:title" content="Contact Us | ITD GrowthLabs Digital Marketing Company" />
+    <meta property="og:description" content="Contact ITD GrowthLabs for website development, app development, digital marketing, and SEO services. Get a free consultation for your business growth." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/contact-us.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+
+    <!-- LocalBusiness Schema -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "ITD GrowthLabs",
+        "image": "https://itdgrowthlabs.com/assets/img/logo.jpg",
+        "url": "https://itdgrowthlabs.com",
+        "telephone": "+91-8450978544",
+        "email": "info@itdgrowthlabs.com",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "505, Town Centre 1, opposite Times Square, Mittal Industrial Estate, Marol, Andheri",
+            "addressLocality": "Mumbai",
+            "addressRegion": "Maharashtra",
+            "postalCode": "400059",
+            "addressCountry": "IN"
+        },
+        "openingHours": "Mo-Sa 09:00-18:00",
+        "priceRange": "$$"
+    }
+    </script>
 
 </head>
 
@@ -175,8 +190,8 @@
     <!-- End Contact -->
     <!-- Calendly inline widget begin -->
 
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
-    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+    <div class="calendly-inline-widget" data-url='contact-us.php' style="min-width:320px;height:700px;"></div>
+    <script type="text/javascript" src='contact-us.php' async></script>
     <!-- Calendly inline widget end -->
     <?php include("./includes/footer.php") ?>
     <?php include("./includes/footer_script.php") ?>

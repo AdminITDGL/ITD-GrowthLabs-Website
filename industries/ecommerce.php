@@ -617,6 +617,18 @@
             }
         }
     </style>
+    <link rel="canonical" href="https://itdgrowthlabs.com/industries/ecommerce.php" />
+    <meta property="og:title" content="E-Commerce & D2C Digital Solutions | ITD GrowthLabs" />
+    <meta property="og:description" content="Complete e-commerce solutions including Shopify, WooCommerce, custom stores, mobile commerce apps, and digital marketing to drive online sales." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/industries/ecommerce.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"Service","name":"E-Commerce & D2C Digital Solutions","description":"Website development, app development, and digital marketing for e-commerce and D2C brands.","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"E-Commerce Industry Solutions"}
+    </script>
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What e-commerce platforms do you work with?","acceptedAnswer":{"@type":"Answer","text":"We work with Shopify, WooCommerce, Magento, custom-built platforms, and headless commerce solutions. We help businesses choose the right platform based on their product catalog size, budget, scalability needs, and integration requirements."}},{"@type":"Question","name":"How can digital marketing increase e-commerce sales?","acceptedAnswer":{"@type":"Answer","text":"E-commerce digital marketing combines SEO for organic product discovery, Google Shopping ads, social media advertising on Instagram and Facebook, email marketing for cart recovery, WhatsApp automation for order updates, and conversion rate optimization to maximize revenue."}},{"@type":"Question","name":"Do you build mobile commerce apps?","acceptedAnswer":{"@type":"Answer","text":"Yes, we build mobile commerce apps with product browsing, cart management, secure payment integration, push notifications for offers, order tracking, and seamless checkout experiences using Flutter and React Native for both iOS and Android."}}]}
+    </script>
 </head>
 
 <body>
@@ -642,7 +654,7 @@
                                 Improve efficiency with e-commerce &amp; D2C and e-commerce &amp; D2C services. We deliver scalable solutions for online store management, operations, order fulfillment, and sales process optimization.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Boost Sales</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Boost Sales</a>
                             </div>
                         </div>
                     </div>
@@ -711,6 +723,13 @@
         </div>
     </div>
     <!-- End Banner -->
+
+    <div class="container mt-5 mb-3">
+        <div style="background: linear-gradient(135deg, #f8f9fa 0%, #e8f0fe 100%); border-left: 4px solid var(--color-primary); border-radius: 8px; padding: 25px 30px;">
+            <h3 style="font-size: 20px; font-weight: 700; color: var(--color-primary); margin-bottom: 12px;">Quick Summary — E-Commerce &amp; D2C Digital Solutions</h3>
+            <p style="font-size: 15px; line-height: 1.8; color: #3c4043; margin: 0;"><strong>ITD GrowthLabs</strong> delivers <strong>e-commerce website development</strong>, <strong>performance marketing</strong>, <strong>SEO</strong>, and <strong>social media marketing</strong> for online stores and D2C brands across <strong>India, USA, UK, UAE, and Australia</strong>. <a href="../contact-us.php">Get a free e-commerce growth consultation</a>.</p>
+        </div>
+    </div>
 
     <!-- Start Clients/Partners
     ============================================= -->
@@ -958,91 +977,91 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic e-commerce &amp; D2C services focused on store planning, sales workflow structuring, and process optimization to improve efficiency and revenue outcomes</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">E-Commerce &amp; D2C Planning &amp; Strategy</a></h4>
+                        <h4><a href="contact-us.php">E-Commerce &amp; D2C Planning &amp; Strategy</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-plug fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Scalable e-commerce &amp; D2C services with online store setup, platform integration, and inventory management for seamless operations</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Platform Setup &amp; Integration</a></h4>
+                        <h4><a href="contact-us.php">Platform Setup &amp; Integration</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-server fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Professional e-commerce &amp; D2C solutions ensuring smooth coordination across product listings, order management, inventory, and customer service</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Product &amp; Operational Optimization</a></h4>
+                        <h4><a href="contact-us.php">Product &amp; Operational Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-tasks fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Flexible e-commerce &amp; D2C workflows with structured systems and optimized processes to improve speed, accuracy, and operational efficiency</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Process &amp; Workflow Enhancement</a></h4>
+                        <h4><a href="contact-us.php">Process &amp; Workflow Enhancement</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-brain fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Advanced e-commerce &amp; D2C solutions using automation, digital tools, and intelligent systems to enhance shopping experiences and decision-making</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Smart Sales Innovations</a></h4>
+                        <h4><a href="contact-us.php">Smart Sales Innovations</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-expand-arrows-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic e-commerce &amp; D2C scaling with product portfolio expansion, order handling, and operational growth for increasing market demands</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Scaling &amp; Capacity Expansion</a></h4>
+                        <h4><a href="contact-us.php">Scaling &amp; Capacity Expansion</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-chart-line fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Data-driven e-commerce &amp; D2C with analytics, reporting, and tracking to improve sales, conversions, and customer engagement</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Insights &amp; Performance Monitoring</a></h4>
+                        <h4><a href="contact-us.php">Insights &amp; Performance Monitoring</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-shield-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Modern e-commerce &amp; D2C enhancements ensuring payment security, regulatory compliance, and streamlined operational standards</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Compliance &amp; Process Improvement</a></h4>
+                        <h4><a href="contact-us.php">Compliance &amp; Process Improvement</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-headset fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Reliable e-commerce &amp; D2C support with ongoing updates, system improvements, and performance optimization</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Continuous Support &amp; Improvement</a></h4>
+                        <h4><a href="contact-us.php">Continuous Support &amp; Improvement</a></h4>
                     </div>
                 </div>
             </div>
@@ -1437,7 +1456,7 @@
     <!-- End FAQ -->
 
     <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
 
     <!-- Start Footer
     ============================================= -->
@@ -1708,12 +1727,12 @@
     <script src="assets/js/TweenMax.min.js"></script>
     <script src="assets/js/validnavs.js"></script>
     <script src="assets/js/main.js"></script>
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <link href="contact-us.php" rel="stylesheet">
+    <script src="contact-us.php" type="text/javascript" async></script>
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'

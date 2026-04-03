@@ -617,6 +617,18 @@
             }
         }
     </style>
+    <link rel="canonical" href="https://itdgrowthlabs.com/industries/startups.php" />
+    <meta property="og:title" content="Startup Digital Solutions | MVP, Apps & Growth Marketing | ITD GrowthLabs" />
+    <meta property="og:description" content="Digital solutions for startups including MVP development, app development, growth marketing, and investor-ready websites to scale your startup." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/industries/startups.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"Service","name":"Startup Digital Solutions","description":"MVP development, app development, and growth marketing for startups and emerging businesses.","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Startup Solutions"}
+    </script>
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What startup services does ITD GrowthLabs offer?","acceptedAnswer":{"@type":"Answer","text":"We offer MVP development, mobile app development, web application development, investor pitch websites, growth marketing, SEO, social media marketing, and branding services. We work with early-stage startups through Series A+ companies across all industries."}},{"@type":"Question","name":"How quickly can you build a startup MVP?","acceptedAnswer":{"@type":"Answer","text":"We can build a functional MVP in 4-8 weeks depending on complexity. Our agile process focuses on core features first, allowing you to validate your idea, gather user feedback, and attract investors quickly while keeping development costs manageable."}},{"@type":"Question","name":"Do you offer equity-based partnerships with startups?","acceptedAnswer":{"@type":"Answer","text":"We primarily work on a project or retainer basis, but we're open to discussing equity-based partnerships for promising startups with strong founding teams and validated market opportunities. Contact us to discuss your specific situation."}}]}
+    </script>
 </head>
 
 <body>
@@ -642,7 +654,7 @@
                                 Accelerate your startup's growth with tailored solutions. We deliver scalable services for business strategy, operations support, funding support, and process optimization to drive measurable results.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Fuel Your Growth</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Fuel Your Growth</a>
                             </div>
                         </div>
                     </div>
@@ -711,6 +723,13 @@
         </div>
     </div>
     <!-- End Banner -->
+
+    <div class="container mt-5 mb-3">
+        <div style="background: linear-gradient(135deg, #f8f9fa 0%, #e8f0fe 100%); border-left: 4px solid var(--color-primary); border-radius: 8px; padding: 25px 30px;">
+            <h3 style="font-size: 20px; font-weight: 700; color: var(--color-primary); margin-bottom: 12px;">Quick Summary — IT & Digital Solutions for Startups</h3>
+            <p style="font-size: 15px; line-height: 1.8; color: #3c4043; margin: 0;"><strong>ITD GrowthLabs</strong> is a trusted <strong>technology partner for startups</strong> — offering <strong>MVP development</strong>, <strong>mobile app development</strong>, <strong>website design</strong>, <strong>SEO</strong>, and <strong>digital marketing</strong> to help early-stage companies launch, scale, and compete. We serve startups across <strong>India, USA, UK, UAE & Australia</strong>. <a href="contact-us.php">Get a Free Consultation →</a></p>
+        </div>
+    </div>
 
     <!-- Start Clients/Partners
     ============================================= -->
@@ -958,91 +977,91 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-heartbeat fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic startup solutions focused on business modeling, market research, and workflow design to drive growth and operational efficiency.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Startup Strategy &amp; Planning</a></h4>
+                        <h4><a href="contact-us.php">Startup Strategy &amp; Planning</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-shopping-cart fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Scalable startup services with MVP development, platform integration, and system configuration for seamless operations.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Product &amp; Platform Setup</a></h4>
+                        <h4><a href="contact-us.php">Product &amp; Platform Setup</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Solutions ensuring smooth coordination across product launch, team collaboration, operations, and performance monitoring.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Operational &amp; Business Optimization</a></h4>
+                        <h4><a href="contact-us.php">Operational &amp; Business Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Flexible startup workflows with structured processes, optimized tasks, and automation to boost efficiency and accuracy.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Process &amp; Workflow Enhancement</a></h4>
+                        <h4><a href="contact-us.php">Process &amp; Workflow Enhancement</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-paint-brush fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Advanced startup solutions using digital tools, AI, and automation to accelerate decision-making and scale operations.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Smart Growth Innovations</a></h4>
+                        <h4><a href="contact-us.php">Smart Growth Innovations</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-plane fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic scaling with customer onboarding, market expansion, and operational growth to meet increasing demand.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Scaling &amp; Capacity Expansion</a></h4>
+                        <h4><a href="contact-us.php">Scaling &amp; Capacity Expansion</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-shipping-fast fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Data-driven startup management with analytics, reporting, and tracking to optimize growth, engagement, and revenue.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Insights &amp; Performance Monitoring</a></h4>
+                        <h4><a href="contact-us.php">Insights &amp; Performance Monitoring</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-utensils fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Modern startup enhancements ensuring regulatory compliance, secure processes, and operational stability.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Compliance &amp; Risk Management</a></h4>
+                        <h4><a href="contact-us.php">Compliance &amp; Risk Management</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cloud fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Reliable startup support with ongoing updates, process refinement, and growth optimization.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Continuous Support &amp; Improvement</a></h4>
+                        <h4><a href="contact-us.php">Continuous Support &amp; Improvement</a></h4>
                     </div>
                 </div>
             </div>
@@ -1436,7 +1455,7 @@
     <!-- End FAQ -->
 
     <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
 
     <!-- Start Footer
     ============================================= -->
@@ -1707,12 +1726,12 @@
     <script src="assets/js/TweenMax.min.js"></script>
     <script src="assets/js/validnavs.js"></script>
     <script src="assets/js/main.js"></script>
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <link href="contact-us.php" rel="stylesheet">
+    <script src="contact-us.php" type="text/javascript" async></script>
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'

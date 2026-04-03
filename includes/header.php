@@ -13,6 +13,14 @@
                    <img src="assets/img/australia.png" alt="Australia Flag">
                    <span>Australia</span>
                </a>
+               <a href="uk/index.php" class="country-flag-item">
+                   <img src="assets/img/uk.png" alt="UK Flag">
+                   <span>UK</span>
+               </a>
+               <a href="usa/index.php" class="country-flag-item">
+                   <img src="assets/img/usa.png" alt="USA Flag">
+                   <span>USA</span>
+               </a>
            </div>
        </div>
    </div>
@@ -81,6 +89,9 @@
                                                <li><a href="services/flutter_development.php">Flutter App Development</a></li>
                                                <li><a href="services/web_app_development.php">Web Application Development</a></li>
                                                <li><a href="services/saas_developement.php">SaaS Development</a></li>
+                                               <li><a href="services/logistics-app-development.php">Logistics App Development</a></li>
+                                               <li><a href="services/real-estate-app-development.php">Real Estate App Development</a></li>
+                                               <li><a href="services/custom-software-development.php">Custom Software Development</a></li>
                                            </ul>
                                        </div>
 

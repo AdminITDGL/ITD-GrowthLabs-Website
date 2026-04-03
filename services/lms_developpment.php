@@ -616,6 +616,15 @@
             }
         }
     </style>
+    <link rel="canonical" href="https://itdgrowthlabs.com/services/lms_developpment.php" />
+    <meta property="og:title" content="LMS Development Services | ITD GrowthLabs" />
+    <meta property="og:description" content="Get expert LMS development services with custom learning management system development solutions. ITD GrowthLabs offers scalable, user-friendly LMS development tailored to your business needs." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/services/lms_developpment.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"Service","name":"LMS Development Services","description":"Expert LMS development services with custom learning management system solutions.","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"LMS Development"}
+    </script>
 </head>
 
 <body>
@@ -641,7 +650,7 @@
                                 Boost performance with LMS development and learning management system development. ITD GrowthLabs delivers scalable LMS development solutions for engaging top training experiences.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Start Building</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Start Building</a>
                             </div>
                         </div>
                     </div>
@@ -957,91 +966,91 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-bullseye fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic LMS development and learning management system development for businesses, focusing on system planning, user roles, and structured platform design to improve engagement, performance, and training ROI.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">LMS Development Strategy</a></h4>
+                        <h4><a href="contact-us.php">LMS Development Strategy</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Scalable LMS development services with system architecture planning, user flow setup, learner analysis, and platform-ready LMS development for efficient digital learning experiences.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">System Development Setup</a></h4>
+                        <h4><a href="contact-us.php">System Development Setup</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Professional LMS development ensuring learning management system development performs smoothly on desktops, tablets, and mobile devices for consistent and accessible training delivery.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Multi-Device Platform Optimization</a></h4>
+                        <h4><a href="contact-us.php">Multi-Device Platform Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-search fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Flexible LMS development with optimized modules, structured dashboards, and interactive features to improve engagement, retention, and system performance.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Platform & Module Optimization</a></h4>
+                        <h4><a href="contact-us.php">Platform & Module Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-paint-brush fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Conversion-focused LMS development designed around user behavior to improve system usability, interaction, and overall learning experience.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Interactive Platform Enhancements</a></h4>
+                        <h4><a href="contact-us.php">Interactive Platform Enhancements</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-sync-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Advanced LMS development and learning management system development strategies including feature updates, module expansion, and system upgrades to maintain platform relevance.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">System Updates & Expansion</a></h4>
+                        <h4><a href="contact-us.php">System Updates & Expansion</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-chart-bar fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>High-performing LMS development with analytics, dashboards, and reporting tools to evaluate learner performance and improve training effectiveness.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Performance Tracking & Analytics</a></h4>
+                        <h4><a href="contact-us.php">Performance Tracking & Analytics</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-clipboard-check fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Modern LMS development upgrades for existing platforms to improve structure, navigation, user experience, and overall system efficiency.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">System Audit & Redesign</a></h4>
+                        <h4><a href="contact-us.php">System Audit & Redesign</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-tools fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Reliable LMS development support with continuous updates, performance improvements, reporting, and strategy enhancements for long-term success.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Ongoing Support & Optimization</a></h4>
+                        <h4><a href="contact-us.php">Ongoing Support & Optimization</a></h4>
                     </div>
                 </div>
             </div>
@@ -1126,7 +1135,7 @@
                         <h2 class="title text-white mb-30">Ready to Build Your LMS?</h2>
                         <p class="text-white">Work with a trusted LMS development company for scalable, user-friendly learning management systems that deliver measurable training outcomes.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Let's Talk</a>
+                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Let's Talk</a>
                         </div>
                     </div>
                 </div>
@@ -1228,7 +1237,7 @@
     <!-- End FAQ -->
 
     <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
 
     <!-- Start Footer
     ============================================= -->
@@ -1499,12 +1508,10 @@
     <script src="../assets/js/TweenMax.min.js"></script>
     <script src="../assets/js/validnavs.js"></script>
     <script src="../assets/js/main.js"></script>
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'

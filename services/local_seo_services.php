@@ -616,6 +616,15 @@
             }
         }
     </style>
+    <link rel="canonical" href="https://itdgrowthlabs.com/services/local_seo_services.php" />
+    <meta property="og:title" content="Local SEO Services for Businesses | ITD GrowthLabs" />
+    <meta property="og:description" content="Drive more customers with professional Local SEO services. Improve local search rankings, attract nearby audiences, and grow your business with targeted Local SEO strategies" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/services/local_seo_services.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"Service","name":"Local SEO Services for Businesses","description":"Professional Local SEO services to improve local search rankings and attract nearby audiences.","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Local SEO"}
+    </script>
 </head>
 
 <body>
@@ -641,7 +650,7 @@
                                 Boost your local presence with expert local SEO services. Our local SEO strategies improve search visibility, attract nearby customers, and drive higher conversions for growing businesses in your area.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Get Found</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Get Found</a>
                             </div>
                         </div>
                     </div>
@@ -957,91 +966,91 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-search fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic Local SEO for businesses, focusing on optimized content, meta tags, local keywords, and headings to improve search visibility in your target area.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Local On-Page SEO</a></h4>
+                        <h4><a href="contact-us.php">Local On-Page SEO</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Scalable Local SEO services with site audits, crawl optimization, structured data, and secure website setup for better local search performance.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Technical Local SEO</a></h4>
+                        <h4><a href="contact-us.php">Technical Local SEO</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Professional Local SEO ensuring websites perform smoothly on mobile devices, fast loading speed, and mobile-friendly layouts for local searches.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Mobile & Local SEO</a></h4>
+                        <h4><a href="contact-us.php">Mobile & Local SEO</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-key fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Flexible Local SEO integrating high-performing local keywords, internal linking, and content strategies to boost nearby organic traffic.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Keyword & Content Optimization</a></h4>
+                        <h4><a href="contact-us.php">Keyword & Content Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-paint-brush fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Conversion-focused Local SEO designed around user behavior to improve engagement, reduce bounce rate, and increase local dwell time.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">UI/UX Local SEO Enhancements</a></h4>
+                        <h4><a href="contact-us.php">UI/UX Local SEO Enhancements</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-link fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Advanced Local SEO with strategic backlinks, Google My Business optimization, and off-page strategies to improve local rankings.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Local Link Building & Authority</a></h4>
+                        <h4><a href="contact-us.php">Local Link Building & Authority</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-chart-line fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>High-performing Local SEO services with analytics, site speed monitoring, and continuous tracking to improve local SERP positions.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Performance Tracking & Analytics</a></h4>
+                        <h4><a href="contact-us.php">Performance Tracking & Analytics</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-search-dollar fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Modern Local SEO upgrades for outdated websites to enhance structure, content relevance, and technical performance for local search.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Local SEO Audit & Redesign</a></h4>
+                        <h4><a href="contact-us.php">Local SEO Audit & Redesign</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-headset fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Reliable Local SEO support with updates, monitoring, reporting, and continuous optimization to maintain top local search results.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Ongoing Local SEO Support</a></h4>
+                        <h4><a href="contact-us.php">Ongoing Local SEO Support</a></h4>
                     </div>
                 </div>
             </div>
@@ -1224,7 +1233,7 @@
                         <h2 class="title text-white mb-30">Ready to Get Found Locally?</h2>
                         <p class="text-white">Work with a trusted Local SEO agency to improve your local search rankings and attract more nearby customers.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Let's Talk</a>
+                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Let's Talk</a>
                         </div>
                     </div>
                 </div>
@@ -1322,7 +1331,7 @@
     <!-- End FAQ -->
 
     <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
 
     <!-- Start Footer
     ============================================= -->
@@ -1593,12 +1602,10 @@
     <script src="../assets/js/TweenMax.min.js"></script>
     <script src="../assets/js/validnavs.js"></script>
     <script src="../assets/js/main.js"></script>
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'

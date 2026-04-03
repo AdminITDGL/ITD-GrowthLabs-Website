@@ -617,6 +617,18 @@
             }
         }
     </style>
+    <link rel="canonical" href="https://itdgrowthlabs.com/industries/finance.php" />
+    <meta property="og:title" content="Finance & FinTech Digital Solutions | ITD GrowthLabs" />
+    <meta property="og:description" content="Secure digital solutions for finance and fintech including banking apps, payment platforms, and financial services marketing." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/industries/finance.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"Service","name":"Finance & FinTech Digital Solutions","description":"Secure website development, app development, and digital marketing for financial services and fintech companies.","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Finance Industry Solutions"}
+    </script>
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do you build secure financial applications?","acceptedAnswer":{"@type":"Answer","text":"Yes, we build PCI-DSS compliant financial applications with end-to-end encryption, multi-factor authentication, secure payment processing, fraud detection, and regulatory compliance. Our fintech solutions include banking apps, payment gateways, investment platforms, and insurance portals."}},{"@type":"Question","name":"What compliance standards do you follow for fintech development?","acceptedAnswer":{"@type":"Answer","text":"We follow PCI-DSS, GDPR, SOC 2, and industry-specific regulatory requirements. Our development process includes security audits, penetration testing, data encryption, and compliance documentation."}},{"@type":"Question","name":"How can financial companies benefit from digital marketing?","acceptedAnswer":{"@type":"Answer","text":"Financial services marketing includes SEO for trust-building content, Google Ads for high-intent financial product searches, LinkedIn B2B campaigns, content marketing for financial education, and reputation management to build credibility."}}]}
+    </script>
 </head>
 
 <body>
@@ -642,7 +654,7 @@
                                 Explore advanced finance &amp; fintech solutions to optimize financial operations, enhance digital banking, and drive growth. Streamline processes and deliver secure finance &amp; fintech services.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php#" target="_blank">Increase Revenue</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Increase Revenue</a>
                             </div>
                         </div>
                     </div>
@@ -711,6 +723,13 @@
         </div>
     </div>
     <!-- End Banner -->
+
+    <div class="container mt-5 mb-3">
+        <div style="background: linear-gradient(135deg, #f8f9fa 0%, #e8f0fe 100%); border-left: 4px solid var(--color-primary); border-radius: 8px; padding: 25px 30px;">
+            <h3 style="font-size: 20px; font-weight: 700; color: var(--color-primary); margin-bottom: 12px;">Quick Summary — FinTech &amp; Finance Digital Marketing Services</h3>
+            <p style="font-size: 15px; line-height: 1.8; color: #3c4043; margin: 0;"><strong>ITD GrowthLabs</strong> specializes in <strong>fintech digital marketing</strong>, <strong>financial services website development</strong>, and <strong>finance app development</strong>. We serve banks, NBFCs, fintech startups, and insurance companies across <strong>India, USA, UK, UAE, and Australia</strong>. <a href="../contact-us.php">Get a free fintech marketing consultation</a>.</p>
+        </div>
+    </div>
 
     <!-- Start Clients/Partners
     ============================================= -->
@@ -958,121 +977,121 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-bullseye fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic finance &amp; fintech services focused on digital banking, financial workflow structuring, and process optimization to improve efficiency and revenue outcomes.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Finance &amp; FinTech Planning &amp; Strategy</a></h4>
+                        <h4><a href="contact-us.php">Finance &amp; FinTech Planning &amp; Strategy</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-network-wired fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Scalable finance &amp; fintech services with platform setup, core banking integration, and secure transaction management for seamless operations.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Platform Setup &amp; Integration</a></h4>
+                        <h4><a href="contact-us.php">Platform Setup &amp; Integration</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Professional finance &amp; fintech solutions ensuring smooth coordination across payments, accounting, reporting, and risk management.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Operational &amp; Financial Optimization</a></h4>
+                        <h4><a href="contact-us.php">Operational &amp; Financial Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-diagram-project fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Flexible finance &amp; fintech workflows with structured systems and optimized processes to improve speed, accuracy, and operational efficiency.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Process &amp; Workflow Enhancement</a></h4>
+                        <h4><a href="contact-us.php">Process &amp; Workflow Enhancement</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-microchip fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Advanced finance &amp; fintech solutions using automation, AI, and intelligent systems to enhance decision-making and financial service delivery.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Smart Financial Innovations</a></h4>
+                        <h4><a href="contact-us.php">Smart Financial Innovations</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-expand-arrows-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic finance &amp; fintech scaling with customer onboarding, transaction volume handling, and operational growth for increasing demand.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Scaling &amp; Capacity Expansion</a></h4>
+                        <h4><a href="contact-us.php">Scaling &amp; Capacity Expansion</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-chart-pie fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Data-driven finance &amp; fintech with analytics, reporting, and tracking to optimize financial performance, risk management, and client satisfaction.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Insights &amp; Performance Monitoring</a></h4>
+                        <h4><a href="contact-us.php">Insights &amp; Performance Monitoring</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-balance-scale fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Modern finance &amp; fintech enhancements ensuring regulatory compliance, data security, and streamlined operational standards.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Compliance &amp; Process Improvement</a></h4>
+                        <h4><a href="contact-us.php">Compliance &amp; Process Improvement</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-headset fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Reliable finance &amp; fintech support with ongoing updates, system improvements, and performance optimization.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Continuous Support &amp; Improvement</a></h4>
+                        <h4><a href="contact-us.php">Continuous Support &amp; Improvement</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30 d-none">
                     <div class="services-style-one">
                         <i class="fas fa-car fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Vehicle management, predictive maintenance, and smart customer service.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Automotive &amp; Mobility AI</a></h4>
+                        <h4><a href="contact-us.php">Automotive &amp; Mobility AI</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30 d-none">
                     <div class="services-style-one">
                         <i class="fas fa-film fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Content recommendations, audience insights, and workflow automation.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Entertainment &amp; Media AI</a></h4>
+                        <h4><a href="contact-us.php">Entertainment &amp; Media AI</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30 d-none">
                     <div class="services-style-one">
                         <i class="fas fa-briefcase fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php#" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Workflow automation, analytics, and client management solutions.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php#">Professional Services AI</a></h4>
+                        <h4><a href="contact-us.php">Professional Services AI</a></h4>
                     </div>
                 </div>
             </div>
@@ -1467,7 +1486,7 @@
     <!-- End FAQ -->
 
     <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
 
     <!-- Start Footer
     ============================================= -->
@@ -1738,12 +1757,12 @@
     <script src="assets/js/TweenMax.min.js"></script>
     <script src="assets/js/validnavs.js"></script>
     <script src="assets/js/main.js"></script>
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <link href="contact-us.php" rel="stylesheet">
+    <script src="contact-us.php" type="text/javascript" async></script>
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'

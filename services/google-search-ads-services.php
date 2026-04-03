@@ -616,6 +616,17 @@
             }
         }
     </style>
+
+    <!-- SEO Optimization -->
+    <link rel="canonical" href="https://itdgrowthlabs.com/services/google-search-ads-services.php" />
+    <meta property="og:title" content="Google Ads PPC Services for Businesses | ITD GrowthLabs" />
+    <meta property="og:description" content="Drive instant traffic and boost sales with expert Google Ads PPC services. Our PPC campaigns optimize keywords, ads, and bidding strategies for maximum ROI and measurable results." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/services/google-search-ads-services.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"Service","name":"Google Ads PPC Services for Businesses","description":"Drive instant traffic and boost sales with expert Google Ads PPC services. Our PPC campaigns optimize keywords, ads, and bidding strategies for maximu","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Digital Marketing"}
+    </script>
 </head>
 
 <body>
@@ -641,7 +652,7 @@
                                 Drive targeted traffic and maximize ROI with expert Google Ads PPC management. Our PPC campaigns use optimized keywords, compelling ad copies, and smart bidding to increase clicks, conversions, and business growth.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="https://www.itdgrowthlabs.com/lp/app-development.php" target="_blank">Launch Campaign</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Launch Campaign</a>
                             </div>
                         </div>
                     </div>
@@ -957,91 +968,91 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-chart-line fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic Google Ads (PPC) for businesses, focusing on keyword targeting, ad copy optimization, and bidding strategies to improve ad performance and ROI.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">PPC Campaign Strategy</a></h4>
+                        <h4><a href="contact-us.php">PPC Campaign Strategy</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Scalable Google Ads (PPC) services with campaign structure, conversion tracking, audience segmentation, and secure account setup for maximum efficiency.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Technical PPC Setup</a></h4>
+                        <h4><a href="contact-us.php">Technical PPC Setup</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Professional Google Ads (PPC) ensuring ads display correctly on mobile devices and across the Google Display Network for higher reach.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Mobile & Display Ads</a></h4>
+                        <h4><a href="contact-us.php">Mobile & Display Ads</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-search-dollar fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Flexible Google Ads (PPC) with targeted keywords, ad variations, and A/B testing to boost click-through rates and conversions.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Keyword & Ad Optimization</a></h4>
+                        <h4><a href="contact-us.php">Keyword & Ad Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-paint-brush fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Conversion-focused Google Ads (PPC) designed around user behavior, improving ad relevance, engagement, and overall performance.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">UI/UX Ad Enhancements</a></h4>
+                        <h4><a href="contact-us.php">UI/UX Ad Enhancements</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-retweet fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Advanced Google Ads (PPC) strategies including remarketing, dynamic ads, and audience targeting to increase return on ad spend.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Remarketing & Retargeting</a></h4>
+                        <h4><a href="contact-us.php">Remarketing & Retargeting</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-chart-bar fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>High-performing Google Ads (PPC) with regular monitoring, analytics, and reporting to improve campaign results and ROI.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Performance Tracking & Analytics</a></h4>
+                        <h4><a href="contact-us.php">Performance Tracking & Analytics</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-sync-alt fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Modern Google Ads (PPC) upgrades for existing campaigns to enhance ad structure, targeting, and performance metrics.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">PPC Audit & Campaign Redesign</a></h4>
+                        <h4><a href="contact-us.php">PPC Audit & Campaign Redesign</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-tools fa-3x mb-3"></i>
-                        <a href="https://www.itdgrowthlabs.com/lp/app-development.php" class="btn-arrow">
+                        <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Reliable Google Ads (PPC) support with continuous updates, bid management, reporting, and optimization to maintain top campaign performance.</p>
-                        <h4><a href="https://www.itdgrowthlabs.com/lp/app-development.php">Ongoing PPC Management</a></h4>
+                        <h4><a href="contact-us.php">Ongoing PPC Management</a></h4>
                     </div>
                 </div>
             </div>
@@ -1155,7 +1166,7 @@
                         <h2 class="title text-white mb-30">Ready to Launch Your Google Ads Campaign?</h2>
                         <p class="text-white">Work with a trusted Google Ads PPC agency for targeted traffic and measurable ROI.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank">Let's Talk</a>
+                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Let's Talk</a>
                         </div>
                     </div>
                 </div>
@@ -1253,7 +1264,7 @@
     <!-- End FAQ -->
 
     <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="https://calendly.com/itdgrowthlabs-info/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
 
     <!-- Start Footer
     ============================================= -->
@@ -1524,12 +1535,12 @@
     <script src="../assets/js/TweenMax.min.js"></script>
     <script src="../assets/js/validnavs.js"></script>
     <script src="../assets/js/main.js"></script>
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <link href="contact-us.php" rel="stylesheet">
+    <script src="contact-us.php" type="text/javascript" async></script>
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
-                url: 'https://calendly.com/itdgrowthlabs-info/30min',
+                url: 'contact-us.php',
                 text: 'Schedule time with me',
                 color: '#0069ff',
                 textColor: '#ffffff'
