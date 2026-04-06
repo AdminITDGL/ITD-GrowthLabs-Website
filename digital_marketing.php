@@ -24,7 +24,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="ITD GrowthLabs offers expert digital marketing services including SEO, Google Ads, social media marketing, PPC, and content marketing. We help B2B businesses in India, USA, UK, UAE & Australia drive traffic, generate leads, and grow revenue.">
+    <meta name="description" content="Expert digital marketing services — SEO, Google Ads, social media & content marketing. ITD GrowthLabs helps B2B businesses drive leads across India, USA, UK, UAE & Australia.">
     <title>Digital Marketing Services in India | SEO, PPC, Social Media Marketing | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
@@ -621,9 +621,14 @@
     <link rel="alternate" hreflang="en-in" href="https://itdgrowthlabs.com/digital_marketing.php" />
     <link rel="alternate" hreflang="en-us" href="https://itdgrowthlabs.com/usa/digital-marketing-services.php" />
     <link rel="alternate" hreflang="en-gb" href="https://itdgrowthlabs.com/uk/digital-marketing-services.php" />
-    <link rel="alternate" hreflang="en-au" href="https://itdgrowthlabs.com/australia/" />
+    <link rel="alternate" hreflang="en-au" href="https://itdgrowthlabs.com/australia/digital-marketing-services.php" />
+    <link rel="alternate" hreflang="en-ae" href="https://itdgrowthlabs.com/uae/digital-marketing-services.php" />
     <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/digital_marketing.php" />
     <meta property="og:title" content="Digital Marketing Services in India | SEO, PPC & Social Media | ITD GrowthLabs" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Digital Marketing Services in India | SEO, PPC & Social Media | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Expert digital marketing services — SEO, Google Ads, social media & content marketing. ITD GrowthLabs helps B2B businesses drive leads across India, USA, UK, UAE & Australia." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/og-digital-marketing.jpg" />
     <meta property="og:description" content="Expert B2B digital marketing services including SEO, Google Ads, social media marketing, content marketing to drive traffic, leads, and conversions for businesses in India, USA, UK, UAE & Australia." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://itdgrowthlabs.com/digital_marketing.php" />
@@ -677,6 +682,50 @@
         ]
     }
     </script>
+    <!-- Service Schema -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "Digital Marketing Services",
+        "description": "Expert digital marketing services including SEO, Google Ads, social media marketing, PPC, and content marketing for B2B businesses.",
+        "provider": {
+            "@type": "Organization",
+            "name": "ITD GrowthLabs",
+            "url": "https://itdgrowthlabs.com"
+        },
+        "serviceType": "Digital Marketing",
+        "areaServed": [
+            {"@type": "Country", "name": "India"},
+            {"@type": "Country", "name": "United States"},
+            {"@type": "Country", "name": "United Kingdom"},
+            {"@type": "Country", "name": "United Arab Emirates"},
+            {"@type": "Country", "name": "Australia"}
+        ],
+        "hasOfferCatalog": {
+            "@type": "OfferCatalog",
+            "name": "Digital Marketing Services",
+            "itemListElement": [
+                {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Search Engine Optimization (SEO)"}},
+                {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Google Ads (PPC) Management"}},
+                {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Social Media Marketing"}},
+                {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Content Marketing"}},
+                {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Local SEO Services"}}
+            ]
+        }
+    }
+    </script>
+    <!-- BreadcrumbList Schema -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"},
+            {"@type": "ListItem", "position": 2, "name": "Digital Marketing Services", "item": "https://itdgrowthlabs.com/digital_marketing.php"}
+        ]
+    }
+    </script>
 </head>
 
 <body>
@@ -695,11 +744,11 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 Result-Driven <span style="color: var(--color-primary);">Digital Marketing Services</span> for B2B Companies
-                            </h2>
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
-                                From SEO and Google Ads to social media marketing and content strategy — ITD GrowthLabs helps businesses in India, USA, UK, UAE & Australia generate qualified leads, improve search rankings, and maximize ROI with data-driven digital marketing campaigns.
+                                Increase organic traffic by 3x, reduce your cost per lead, and improve ROAS with data-driven campaigns. ITD GrowthLabs combines SEO, Google Ads, social media marketing, and content strategy to deliver measurable growth for B2B businesses in India, USA, UK, UAE & Australia.
                             </p>
                             <div class="button mt-4 mb-5">
                                 <a class="btn btn-theme btn-md animation" href="contact-us.php">Get a Free Digital Marketing Audit</a>
@@ -1030,7 +1079,7 @@
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>SEO, social media, and patient engagement campaigns for healthcare brands.</p>
-                        <h4><a href="contact-us.php">Healthcare &amp; MedTech</a></h4>
+                        <h4><a href="industries/healthcare.php">Healthcare &amp; MedTech</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -1040,7 +1089,7 @@
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>PPC, SEO, social ads, and email marketing to boost online sales.</p>
-                        <h4><a href="contact-us.php">E-Commerce &amp; Retail</a></h4>
+                        <h4><a href="industries/ecommerce.php">E-Commerce &amp; Retail</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -1050,7 +1099,7 @@
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Targeted ads, content, and lead generation for finance apps and banks.</p>
-                        <h4><a href="contact-us.php">FinTech &amp; Banking</a></h4>
+                        <h4><a href="industries/finance.php">FinTech &amp; Banking</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -1060,7 +1109,7 @@
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>SEO, social campaigns, webinars, and email marketing to promote learning platforms.</p>
-                        <h4><a href="contact-us.php">E-Learning</a></h4>
+                        <h4><a href="industries/education.php">E-Learning</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -1070,7 +1119,7 @@
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Local SEO, social ads, virtual tours, and lead generation campaigns.</p>
-                        <h4><a href="contact-us.php">Real Estate</a></h4>
+                        <h4><a href="industries/realestate.php">Real Estate</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -1090,7 +1139,7 @@
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>SEO, content marketing, and performance campaigns for logistics growth.</p>
-                        <h4><a href="contact-us.php">Logistics &amp; Distribution</a></h4>
+                        <h4><a href="industries/logistics.php">Logistics &amp; Distribution</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -1110,7 +1159,7 @@
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Content marketing, SEO, email automation, and lead nurturing for subscriptions.</p>
-                        <h4><a href="contact-us.php">SaaS &amp; Cloud</a></h4>
+                        <h4><a href="industries/information_tech.php">SaaS &amp; Cloud</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -1441,6 +1490,32 @@
         </div>
     </div>
     <!-- End Call to Action -->
+    <!-- Related Services Internal Links -->
+    <div class="container mb-5">
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2 text-center">
+                <h2 class="title mb-4">Explore More Services</h2>
+                <p style="font-size: 15px; color: #666; margin-bottom: 25px;">Looking for more than digital marketing? ITD GrowthLabs also specializes in building websites and mobile apps for businesses.</p>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-md-5 mb-3">
+                <a href="website_development.php" style="text-decoration: none; display: block; background: #f8f9fa; border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px; text-align: center;">
+                    <i class="fas fa-laptop-code" style="font-size: 28px; color: var(--color-primary); margin-bottom: 10px; display: block;"></i>
+                    <h4 style="font-size: 18px; font-weight: 700; color: #232323;">Website Development Services</h4>
+                    <p style="font-size: 14px; color: #666; margin: 0;">Custom, WordPress & e-commerce website development</p>
+                </a>
+            </div>
+            <div class="col-md-5 mb-3">
+                <a href="app_development.php" style="text-decoration: none; display: block; background: #f8f9fa; border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px; text-align: center;">
+                    <i class="fas fa-mobile-alt" style="font-size: 28px; color: var(--color-primary); margin-bottom: 10px; display: block;"></i>
+                    <h4 style="font-size: 18px; font-weight: 700; color: #232323;">App Development Services</h4>
+                    <p style="font-size: 14px; color: #666; margin: 0;">Android, iOS, Flutter & hybrid mobile app development</p>
+                </a>
+            </div>
+        </div>
+    </div>
+
     <!-- FAQ Section — Digital Marketing FAQs -->
     <div class="faq-style-one-area default-padding" id="faq">
         <div class="container">
@@ -1786,9 +1861,7 @@
     <script src="assets/js/TweenMax.min.js"></script>
     <script src="assets/js/validnavs.js"></script>
     <script src="assets/js/main.js"></script>
-    <link href="contact-us.php" rel="stylesheet">
-    <script src="contact-us.php" type="text/javascript" async></script>
-    <script type="text/javascript">
+<script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
                 url: 'contact-us.php',

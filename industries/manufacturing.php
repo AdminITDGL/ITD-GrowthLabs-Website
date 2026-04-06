@@ -25,8 +25,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <base href="../">
-    <meta name="description" content="Advanced AI & intelligent automation solutions to streamline operations and boost efficiency. Services include AI development, machine learning, process automation, chatbots, and intelligent business automation systems.">
-    <title>AI & Intelligent Automation | ITD GrowthLabs</title>
+    <meta name="description" content="Digital solutions for manufacturing — ERP integration, supply chain apps, industrial websites & digital marketing for manufacturers. ITD GrowthLabs.">
+    <title>Manufacturing IT Solutions & Digital Marketing | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
@@ -1483,11 +1483,7 @@
         </div>
     </div>
     <!-- End FAQ -->
-
-    <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
-
-    <!-- Start Footer
+<!-- Start Footer
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
         <div class="container">
@@ -1756,9 +1752,7 @@
     <script src="assets/js/TweenMax.min.js"></script>
     <script src="assets/js/validnavs.js"></script>
     <script src="assets/js/main.js"></script>
-    <link href="contact-us.php" rel="stylesheet">
-    <script src="contact-us.php" type="text/javascript" async></script>
-    <script type="text/javascript">
+<script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
                 url: 'contact-us.php',

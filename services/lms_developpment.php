@@ -24,8 +24,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Get expert LMS development services with custom learning management system development solutions. ITD GrowthLabs offers scalable, user-friendly LMS development tailored to your business needs.">
-    <title>LMS Development Services | ITD GrowthLabs</title>
+    <meta name="description" content="Custom LMS development with course creation, student tracking, SCORM compliance and certification management. E-learning platforms for businesses.">
+    <title>LMS Development Services | Learning Management Systems | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
@@ -618,6 +618,10 @@
     </style>
     <link rel="canonical" href="https://itdgrowthlabs.com/services/lms_developpment.php" />
     <meta property="og:title" content="LMS Development Services | ITD GrowthLabs" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="LMS Development Services | Learning Management Systems | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Custom LMS development with course creation, student tracking, SCORM compliance and certification management. E-learning platforms for businesses." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
     <meta property="og:description" content="Get expert LMS development services with custom learning management system development solutions. ITD GrowthLabs offers scalable, user-friendly LMS development tailored to your business needs." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://itdgrowthlabs.com/services/lms_developpment.php" />
@@ -643,9 +647,9 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 LMS Development <span style="color: var(--color-primary);">Services</span> for Scalable Business Learning
-                            </h2>
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
                                 Boost performance with LMS development and learning management system development. ITD GrowthLabs delivers scalable LMS development solutions for engaging top training experiences.
                             </p>
@@ -1235,11 +1239,7 @@
         </div>
     </div>
     <!-- End FAQ -->
-
-    <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
-
-    <!-- Start Footer
+<!-- Start Footer
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
         <div class="container">

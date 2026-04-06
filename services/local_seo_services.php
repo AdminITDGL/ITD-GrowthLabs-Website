@@ -24,8 +24,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Drive more customers with professional Local SEO services. Improve local search rankings, attract nearby audiences, and grow your business with targeted Local SEO strategies">
-    <title>Local SEO Services for Businesses | ITD GrowthLabs</title>
+    <meta name="description" content="Rank higher in local search results. ITD GrowthLabs optimizes your Google Business Profile, local citations and on-page SEO for nearby customers.">
+    <title>Local SEO Services | Google Business Profile Optimization | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
@@ -618,6 +618,10 @@
     </style>
     <link rel="canonical" href="https://itdgrowthlabs.com/services/local_seo_services.php" />
     <meta property="og:title" content="Local SEO Services for Businesses | ITD GrowthLabs" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Local SEO Services | Google Business Profile Optimization | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Rank higher in local search results. ITD GrowthLabs optimizes your Google Business Profile, local citations and on-page SEO for nearby customers." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
     <meta property="og:description" content="Drive more customers with professional Local SEO services. Improve local search rankings, attract nearby audiences, and grow your business with targeted Local SEO strategies" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://itdgrowthlabs.com/services/local_seo_services.php" />
@@ -643,9 +647,9 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 Local SEO <span style="color: var(--color-primary);">Services</span> for Businesses
-                            </h2>
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
                                 Boost your local presence with expert local SEO services. Our local SEO strategies improve search visibility, attract nearby customers, and drive higher conversions for growing businesses in your area.
                             </p>
@@ -1329,11 +1333,7 @@
         </div>
     </div>
     <!-- End FAQ -->
-
-    <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
-
-    <!-- Start Footer
+<!-- Start Footer
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
         <div class="container">

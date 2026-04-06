@@ -25,8 +25,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <base href="../">
-    <meta name="description" content="Discover advanced IT & SaaS solutions to streamline business operations, enhance software performance, and drive growth. Optimize IT systems and SaaS platforms for scalable efficiency.">
-    <title>IT & SaaS Solutions | ITD GrowthLabs</title>
+    <meta name="description" content="Technology solutions for IT companies including SaaS development, web apps, SEO and lead generation for software firms and tech startups. ITD GrowthLabs.">
+    <title>IT Industry Solutions | Software and Digital Services | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
@@ -619,6 +619,10 @@
     </style>
     <link rel="canonical" href="https://itdgrowthlabs.com/industries/information_tech.php" />
     <meta property="og:title" content="IT & SaaS Industry Digital Solutions | ITD GrowthLabs" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="IT Industry Solutions | Software and Digital Services | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Technology solutions for IT companies including SaaS development, web apps, SEO and lead generation for software firms and tech startups. ITD GrowthLabs." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
     <meta property="og:description" content="Digital solutions for IT and SaaS companies including product websites, B2B marketing, lead generation, and growth marketing strategies." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://itdgrowthlabs.com/industries/information_tech.php" />
@@ -647,9 +651,9 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 IT &amp; SaaS Services for <span style="color: var(--color-primary);">Maximum Growth &amp; Efficiency</span>
-                            </h2>
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
                                 Enhance your business with IT &amp; SaaS services. We deliver scalable solutions for software management, cloud operations, system integration, and process optimization to drive higher productivity.
                             </p>
@@ -1453,11 +1457,7 @@
         </div>
     </div>
     <!-- End FAQ -->
-
-    <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
-
-    <!-- Start Footer
+<!-- Start Footer
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
         <div class="container">
@@ -1726,9 +1726,7 @@
     <script src="assets/js/TweenMax.min.js"></script>
     <script src="assets/js/validnavs.js"></script>
     <script src="assets/js/main.js"></script>
-    <link href="contact-us.php" rel="stylesheet">
-    <script src="contact-us.php" type="text/javascript" async></script>
-    <script type="text/javascript">
+<script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
                 url: 'contact-us.php',

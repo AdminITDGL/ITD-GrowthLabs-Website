@@ -24,8 +24,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Drive instant traffic and boost sales with expert Google Ads PPC services. Our PPC campaigns optimize keywords, ads, and bidding strategies for maximum ROI and measurable results.">
-    <title>Google Ads PPC Services for Businesses | ITD GrowthLabs</title>
+    <meta name="description" content="Drive qualified leads with Google Ads. ITD GrowthLabs manages Search, Display, Shopping and YouTube ad campaigns to maximize ROI for your business.">
+    <title>Google Ads PPC Management Services | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
@@ -618,6 +618,10 @@
     </style>
     <link rel="canonical" href="https://itdgrowthlabs.com/services/google_ads.php" />
     <meta property="og:title" content="Google Ads PPC Services | ITD GrowthLabs" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Google Ads PPC Management Services | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Drive qualified leads with Google Ads. ITD GrowthLabs manages Search, Display, Shopping and YouTube ad campaigns to maximize ROI for your business." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
     <meta property="og:description" content="Drive instant traffic and boost sales with expert Google Ads PPC management services." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://itdgrowthlabs.com/services/google_ads.php" />
@@ -663,9 +667,9 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 Google Ads <span style="color: var(--color-primary);">PPC Services</span> for Businesses
-                            </h2>
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
                                 Drive targeted traffic and maximize ROI with expert Google Ads PPC management. Our PPC campaigns use optimized keywords, compelling ad copies, and smart bidding to increase clicks, conversions, and business growth.
                             </p>
@@ -1263,11 +1267,7 @@
         </div>
     </div>
     <!-- End FAQ -->
-
-    <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
-
-    <!-- Start Footer
+<!-- Start Footer
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
         <div class="container">
@@ -1536,9 +1536,7 @@
     <script src="../assets/js/TweenMax.min.js"></script>
     <script src="../assets/js/validnavs.js"></script>
     <script src="../assets/js/main.js"></script>
-    <link href="contact-us.php" rel="stylesheet">
-    <script src="contact-us.php" type="text/javascript" async></script>
-    <script type="text/javascript">
+<script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
                 url: 'contact-us.php',

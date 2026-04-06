@@ -24,8 +24,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Get custom software and application development tailored to your business needs. From enterprise solutions to startup MVPs, ITD GrowthLabs builds software that scales.">
-    <title>Custom Software & App Development Services | Tailored Business Solutions | ITD GrowthLabs</title>
+    <meta name="description" content="Tailored software solutions for businesses including enterprise apps, MVPs, SaaS platforms and workflow automation. ITD GrowthLabs delivers across India, USA, UK, UAE.">
+    <title>Custom Software Development Services | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
@@ -618,6 +618,10 @@
     </style>
     <link rel="canonical" href="https://itdgrowthlabs.com/services/custom-software-development.php" />
     <meta property="og:title" content="Custom Software & App Development Services | Tailored Business Solutions | ITD GrowthLabs" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Custom Software Development Services | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Tailored software solutions for businesses including enterprise apps, MVPs, SaaS platforms and workflow automation. ITD GrowthLabs delivers across India, USA, UK, UAE." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
     <meta property="og:description" content="Get custom software and application development tailored to your business needs. From enterprise solutions to startup MVPs, ITD GrowthLabs builds software that scales." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://itdgrowthlabs.com/services/custom-software-development.php" />
@@ -1486,11 +1490,7 @@
         </div>
     </div>
     <!-- End FAQ -->
-
-    <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url='contact-us.php' style="min-width:320px;height:700px;"></div>
-
-    <!-- Start Footer
+<!-- Start Footer
     ============================================= -->
     <?php include("../includes/footer.php") ?>
 

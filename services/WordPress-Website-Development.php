@@ -24,7 +24,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Get professional WordPress website development services from ITD GrowthLabs. Our WordPress website development solutions help businesses build fast, secure, and SEO-friendly websites for better online growth and performance.">
+    <meta name="description" content="Professional WordPress development with theme customization, WooCommerce, plugins and SEO. ITD GrowthLabs builds fast, secure WordPress websites worldwide.">
     <title>WordPress Website Development Services | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
@@ -618,6 +618,10 @@
     </style>
     <link rel="canonical" href="https://itdgrowthlabs.com/services/WordPress-Website-Development.php" />
     <meta property="og:title" content="WordPress Website Development Services | ITD GrowthLabs" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="WordPress Website Development Services | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Professional WordPress development with theme customization, WooCommerce, plugins and SEO. ITD GrowthLabs builds fast, secure WordPress websites worldwide." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
     <meta property="og:description" content="Get professional WordPress website development services from ITD GrowthLabs. Our WordPress website development solutions help businesses build fast, secure, and SEO-friendly websites for better online growth and performance." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://itdgrowthlabs.com/services/WordPress-Website-Development.php" />
@@ -643,11 +647,11 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 WordPress <span style="color: var(--color-primary);">Website Development Services</span> for Growing Brands
-                            </h2>
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
-                                Build scalable sites with expert WordPress website development. We deliver secure, fast, SEO-ready solutions through WordPress website development for modern brands now.
+                                From custom theme development and WooCommerce stores to plugin integrations and speed optimization — ITD GrowthLabs builds WordPress websites that load fast, rank on Google, and scale with your business. Trusted by 300+ clients in India, USA, UK, UAE & Australia.
                             </p>
                             <div class="button mt-4 mb-5">
                                 <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Get Started</a>
@@ -1407,11 +1411,7 @@
         </div>
     </div>
     <!-- End FAQ -->
-
-    <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
-
-    <!-- Start Footer
+<!-- Start Footer
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
         <div class="container">
@@ -1680,9 +1680,7 @@
     <script src="../assets/js/TweenMax.min.js"></script>
     <script src="../assets/js/validnavs.js"></script>
     <script src="../assets/js/main.js"></script>
-    <link href="contact-us.php" rel="stylesheet">
-    <script src="contact-us.php" type="text/javascript" async></script>
-    <script type="text/javascript">
+<script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
                 url: 'contact-us.php',

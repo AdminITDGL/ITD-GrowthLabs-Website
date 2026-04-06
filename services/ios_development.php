@@ -24,8 +24,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Professional iOS app development services to build secure, scalable, and high-performance mobile apps. Our iOS app development focuses on smooth user experience, advanced features, and reliable performance for business growth.">
-    <title>iOS App Development Services for Businesses | ITD GrowthLabs</title>
+    <meta name="description" content="Custom iOS app development using Swift and SwiftUI. ITD GrowthLabs builds secure, App Store-ready iPhone and iPad apps for businesses worldwide.">
+    <title>iOS App Development Services | iPhone and iPad Apps | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
@@ -618,6 +618,10 @@
     </style>
     <link rel="canonical" href="https://itdgrowthlabs.com/services/ios_development.php" />
     <meta property="og:title" content="iOS App Development Services | ITD GrowthLabs" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="iOS App Development Services | iPhone and iPad Apps | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Custom iOS app development using Swift and SwiftUI. ITD GrowthLabs builds secure, App Store-ready iPhone and iPad apps for businesses worldwide." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
     <meta property="og:description" content="Professional iOS app development services for businesses." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://itdgrowthlabs.com/services/ios_development.php" />
@@ -651,9 +655,9 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 iOS App Development Services for <span style="color: var(--color-primary);">High-Performance Apps</span>
-                            </h2>
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
                                 Build powerful apps with expert iOS app development. Our iOS app development delivers secure, scalable, and user-friendly mobile apps designed to drive growth and performance.
                             </p>
@@ -1416,11 +1420,7 @@
         </div>
     </div>
     <!-- End FAQ -->
-
-    <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
-
-    <!-- Start Footer
+<!-- Start Footer
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
         <div class="container">
@@ -1689,9 +1689,7 @@
     <script src="../assets/js/TweenMax.min.js"></script>
     <script src="../assets/js/validnavs.js"></script>
     <script src="../assets/js/main.js"></script>
-    <link href="contact-us.php" rel="stylesheet">
-    <script src="contact-us.php" type="text/javascript" async></script>
-    <script type="text/javascript">
+<script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
                 url: 'contact-us.php',

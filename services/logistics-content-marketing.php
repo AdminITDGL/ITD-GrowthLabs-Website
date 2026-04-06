@@ -719,16 +719,7 @@
     </div>
     <!-- End Process -->
 
-    <!-- Calendly inline widget begin -->
-
-    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
-
-    <script type="text/javascript" src="contact-us.php" async></script>
-
-
-    <!-- Calendly inline widget end -->
-
-    <!-- Start Contact Us 
+<!-- Start Contact Us 
     ============================================= -->
     <div class="contact-area overflow-hidden default-padding" style="background-image: url(../assets/img/shape/map.png);">
         <div class="shape-right-bottom">
@@ -1094,13 +1085,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
     <script src="../assets/js/custom.js"></script>
-    <!-- Calendly badge widget begin -->
-
-    <link href="contact-us.php" rel="stylesheet">
-
-    <script src="contact-us.php" type="text/javascript" async></script>
-
-    <script type="text/javascript">
+<script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
                 url: 'contact-us.php',
@@ -1110,10 +1095,7 @@
             });
         }
     </script>
-
-    <!-- Calendly badge widget end -->
-
-    <?php include("../includes/popup_modal.php") ?>
+<?php include("../includes/popup_modal.php") ?>
 </body>
 
 </html>

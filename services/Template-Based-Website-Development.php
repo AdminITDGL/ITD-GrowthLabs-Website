@@ -71,6 +71,10 @@
 
     <link rel="canonical" href="https://itdgrowthlabs.com/services/Template-Based-Website-Development.php" />
     <meta property="og:title" content="Affordable Template Website Development for SMEs" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Affordable Template Website Development for SMEs | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Launch your business website fast with template-based development. Affordable, responsive and SEO-ready websites for SMEs by ITD GrowthLabs." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
     <meta property="og:description" content="Launch your business online faster with affordable template-based website development. Quick turnaround, responsive designs, and SEO-friendly layouts." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://itdgrowthlabs.com/services/Template-Based-Website-Development.php" />
@@ -255,17 +259,9 @@
         </div>
     </div>
     <!-- End Service Range -->
-    <!-- Calendly inline widget begin -->
-    <!-- 
-    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
-
-    <script type="text/javascript" src="contact-us.php" async></script>
- -->
-
-    <!-- Calendly inline widget end -->
-
-
-    <!-- Start Why Choose Us 
+<!--
+-->
+<!-- Start Why Choose Us 
     ============================================= -->
     <!-- <div class="choose-us-style-one-area default-padding">
         <div class="container">
@@ -706,16 +702,8 @@
         </div>
     </div>
     <!-- End Process -->
-    <!-- Calendly inline widget begin -->
 
-    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
-
-    <script type="text/javascript" src="contact-us.php" async></script>
-
-
-    <!-- Calendly inline widget end -->
-
-    <!-- Start Contact Us 
+<!-- Start Contact Us 
     ============================================= -->
     <div class="contact-area overflow-hidden default-padding" style="background-image: url(../assets/img/shape/map.png);">
         <div class="shape-right-bottom">
@@ -1081,13 +1069,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
     <script src="../assets/js/custom.js"></script>
-    <!-- Calendly badge widget begin -->
-
-    <link href="contact-us.php" rel="stylesheet">
-
-    <script src="contact-us.php" type="text/javascript" async></script>
-
-    <script type="text/javascript">
+<script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
                 url: 'contact-us.php',
@@ -1097,9 +1079,6 @@
             });
         }
     </script>
-
-    <!-- Calendly badge widget end -->
-
 </body>
 
 </html>

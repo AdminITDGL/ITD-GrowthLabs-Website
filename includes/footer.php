@@ -282,9 +282,6 @@
     </div>
     <!-- End Footer Bottom -->
 </footer>
-
-<!-- Calendly badge widget begin -->
-
 <link href='contact-us.php' rel="stylesheet">
 <!-- <script src='contact-us.php' type="text/javascript" async></script> -->
 <!-- <script type="text/javascript">

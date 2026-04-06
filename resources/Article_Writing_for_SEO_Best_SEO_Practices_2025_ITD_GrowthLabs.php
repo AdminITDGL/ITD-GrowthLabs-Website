@@ -343,15 +343,7 @@
         </div>
     </div>
     <!-- End Blog -->
-
-
-    <!-- Calendly badge widget begin -->
-
-    <link href="contact-us.php" rel="stylesheet">
-
-    <script src="contact-us.php" type="text/javascript" async></script>
-
-    <script type="text/javascript">
+<script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
                 url: 'contact-us.php',
@@ -362,15 +354,7 @@
         }
     </script>
 
-    <!-- Calendly inline widget begin -->
-
-    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
-
-    <script type="text/javascript" src="contact-us.php" async></script>
-
-
-    <!-- Calendly inline widget end -->
-    <!-- Start Footer 
+<!-- Start Footer 
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
         <div class="container">
@@ -677,13 +661,7 @@
     <script src="../assets/js/validnavs.js"></script>
     <script src="../assets/js/main.js"></script>
     <script type="text/javascript" src='https://www.google.com/recaptcha/api.js' async defer></script>
-    <!-- Calendly badge widget begin -->
-
-    <link href="contact-us.php" rel="stylesheet">
-
-    <script src="contact-us.php" type="text/javascript" async></script>
-
-    <script type="text/javascript">
+<script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
                 url: 'contact-us.php',
@@ -693,8 +671,6 @@
             });
         }
     </script>
-
-    <!-- Calendly badge widget end -->
 </body>
 
 </html>

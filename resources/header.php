@@ -61,13 +61,13 @@
                                        <div class="col-menu col-lg-2">
                                            <h6 class="title"><a href="../website_development.php">Website Development</a></h6>
                                            <ul class="menu-col">
-                                               <li><a href="../lp/website-design-development.php">Business Website Development</a></li>
+                                               <li><a href="contact-us.php">Business Website Development</a></li>
                                                <li><a href="../services/coroperate_business.php">Corporate Website Development</a></li>
-                                               <li><a href="../lp/website-design-development.php">Custom Website Development</a></li>
-                                               <li><a href="../lp/website-design-development.php">WordPress Website Development</a></li>
-                                               <li><a href="../lp/website-design-development.php">E-Commerce Website Development</a></li>
-                                               <li><a href="../lp/website-design-development.php">Landing Page Design</a></li>
-                                               <li><a href="../lp/website-design-development.php">Website Maintenance</a></li>
+                                               <li><a href="contact-us.php">Custom Website Development</a></li>
+                                               <li><a href="contact-us.php">WordPress Website Development</a></li>
+                                               <li><a href="contact-us.php">E-Commerce Website Development</a></li>
+                                               <li><a href="contact-us.php">Landing Page Design</a></li>
+                                               <li><a href="contact-us.php">Website Maintenance</a></li>
                                            </ul>
                                        </div>
 
@@ -75,12 +75,12 @@
                                        <div class="col-menu col-lg-2">
                                            <h6 class="title"><a href="../app_development.php">App Development</a></h6>
                                            <ul class="menu-col">
-                                               <li><a href="../lp/app-development.php">Android App Development</a></li>
-                                               <li><a href="../lp/app-development.php">iOS App Development</a></li>
-                                               <li><a href="../lp/app-development.php">Hybrid App Development</a></li>
-                                               <li><a href="../lp/app-development.php">Flutter App Development</a></li>
-                                               <li><a href="../lp/app-development.php">Web Application Development</a></li>
-                                               <li><a href="../lp/app-development.php">SaaS Development</a></li>
+                                               <li><a href="contact-us.php">Android App Development</a></li>
+                                               <li><a href="contact-us.php">iOS App Development</a></li>
+                                               <li><a href="contact-us.php">Hybrid App Development</a></li>
+                                               <li><a href="contact-us.php">Flutter App Development</a></li>
+                                               <li><a href="contact-us.php">Web Application Development</a></li>
+                                               <li><a href="contact-us.php">SaaS Development</a></li>
                                            </ul>
                                        </div>
 

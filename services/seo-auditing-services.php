@@ -25,7 +25,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Boost your online visibility with expert SEO services. Our SEO solutions improve search rankings, drive traffic, and enhance conversions for businesses worldwide.">
-    <title>SEO Services for Businesses | ITD GrowthLabs</title>
+    <title>SEO Audit and Optimization Services | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
@@ -618,6 +618,10 @@
     </style>
     <link rel="canonical" href="https://itdgrowthlabs.com/services/seo-auditing-services.php" />
     <meta property="og:title" content="SEO Services for Businesses | ITD GrowthLabs" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="SEO Audit and Optimization Services | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Comprehensive SEO audit covering technical SEO, on-page, backlinks and competitor analysis. ITD GrowthLabs helps fix issues that hurt your rankings." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
     <meta property="og:description" content="Boost your online visibility with expert SEO services. Our SEO solutions improve search rankings, drive traffic, and enhance conversions for businesses worldwide." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://itdgrowthlabs.com/services/seo-auditing-services.php" />
@@ -643,9 +647,9 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 Search Engine <span style="color: var(--color-primary);">Optimization Services</span> for Businesses
-                            </h2>
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
                                 Enhance your brand visibility with professional SEO services. Our SEO strategies boost search rankings, attract targeted traffic, and increase conversions for growing businesses online.
                             </p>
@@ -1440,11 +1444,7 @@
         </div>
     </div>
     <!-- End FAQ -->
-
-    <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
-
-    <!-- Start Footer
+<!-- Start Footer
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
         <div class="container">
@@ -1713,9 +1713,7 @@
     <script src="../assets/js/TweenMax.min.js"></script>
     <script src="../assets/js/validnavs.js"></script>
     <script src="../assets/js/main.js"></script>
-    <link href="contact-us.php" rel="stylesheet">
-    <script src="contact-us.php" type="text/javascript" async></script>
-    <script type="text/javascript">
+<script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
                 url: 'contact-us.php',

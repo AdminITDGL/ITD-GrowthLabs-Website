@@ -24,8 +24,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Improve search rankings with professional SEO content writing services. Get optimized, engaging, and high-quality SEO content writing that increases organic traffic, boosts visibility, and drives conversions for business growth.">
-    <title>SEO Content Writing Services | ITD GrowthLabs</title>
+    <meta name="description" content="Rank-worthy SEO content writing including blogs, articles, landing pages and website copy. ITD GrowthLabs creates content that drives organic traffic.">
+    <title>SEO Content Writing Services | Blog and Article Writing | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
@@ -618,6 +618,10 @@
     </style>
     <link rel="canonical" href="https://itdgrowthlabs.com/services/seo_content_writing.php" />
     <meta property="og:title" content="SEO Content Writing Services | ITD GrowthLabs" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="SEO Content Writing Services | Blog and Article Writing | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Rank-worthy SEO content writing including blogs, articles, landing pages and website copy. ITD GrowthLabs creates content that drives organic traffic." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
     <meta property="og:description" content="Improve search rankings with professional SEO content writing services. Get optimized, engaging, and high-quality SEO content writing that increases organic traffic, boosts visibility, and drives conversions for business growth." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://itdgrowthlabs.com/services/seo_content_writing.php" />
@@ -643,9 +647,9 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 SEO Content Writing <span style="color: var(--color-primary);">Services</span> for Businesses
-                            </h2>
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
                                 Boost your online presence with professional SEO content writing. Our SEO content writing services deliver optimized, engaging, and search-friendly SEO content that improves rankings, attracts organic traffic, and supports consistent business growth.
                             </p>
@@ -1231,11 +1235,7 @@
         </div>
     </div>
     <!-- End FAQ -->
-
-    <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
-
-    <!-- Start Footer
+<!-- Start Footer
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
         <div class="container">

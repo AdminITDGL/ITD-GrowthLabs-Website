@@ -25,8 +25,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <base href="../">
-    <meta name="description" content="Explore advanced finance & fintech solutions to optimize financial operations, enhance digital banking, and drive growth. Streamline processes and deliver secure finance & fintech services.">
-    <title>Finance &amp; FinTech Solutions | ITD GrowthLabs</title>
+    <meta name="description" content="IT solutions for finance including fintech app development, banking websites, payment gateways and digital marketing for financial services. ITD GrowthLabs.">
+    <title>Finance and Fintech IT Solutions | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
@@ -619,6 +619,10 @@
     </style>
     <link rel="canonical" href="https://itdgrowthlabs.com/industries/finance.php" />
     <meta property="og:title" content="Finance & FinTech Digital Solutions | ITD GrowthLabs" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Finance and Fintech IT Solutions | ITD GrowthLabs" />
+    <meta name="twitter:description" content="IT solutions for finance including fintech app development, banking websites, payment gateways and digital marketing for financial services. ITD GrowthLabs." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
     <meta property="og:description" content="Secure digital solutions for finance and fintech including banking apps, payment platforms, and financial services marketing." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://itdgrowthlabs.com/industries/finance.php" />
@@ -647,9 +651,9 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 Finance &amp; <span style="color: var(--color-primary);">FinTech</span> Solutions for Maximum Growth &amp; Revenue
-                            </h2>
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
                                 Explore advanced finance &amp; fintech solutions to optimize financial operations, enhance digital banking, and drive growth. Streamline processes and deliver secure finance &amp; fintech services.
                             </p>
@@ -1484,11 +1488,7 @@
         </div>
     </div>
     <!-- End FAQ -->
-
-    <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
-
-    <!-- Start Footer
+<!-- Start Footer
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
         <div class="container">
@@ -1757,9 +1757,7 @@
     <script src="assets/js/TweenMax.min.js"></script>
     <script src="assets/js/validnavs.js"></script>
     <script src="assets/js/main.js"></script>
-    <link href="contact-us.php" rel="stylesheet">
-    <script src="contact-us.php" type="text/javascript" async></script>
-    <script type="text/javascript">
+<script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
                 url: 'contact-us.php',

@@ -351,17 +351,7 @@
     </div>
     <!-- End Feature -->
 
-    <!-- Calendly inline widget begin -->
-
-    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
-
-    <script type="text/javascript" src="contact-us.php" async></script>
-
-
-    <!-- Calendly inline widget end -->
-
-
-    <!-- Start Why Choose Us 
+<!-- Start Why Choose Us 
     ============================================= -->
     <!-- <div class="choose-us-style-one-area default-padding">
         <div class="container">
@@ -543,16 +533,7 @@
     </div>
     <!-- End Knowledge Hub -->
 
-    <!-- Calendly inline widget begin -->
-
-    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
-
-    <script type="text/javascript" src="contact-us.php" async></script>
-
-
-    <!-- Calendly inline widget end -->
-
-    <!-- Start Why You Need Video Production Services
+<!-- Start Why You Need Video Production Services
     ============================================= -->
     <div class="about-style-three-area default-padding overflow-hidden">
         <div class="container">

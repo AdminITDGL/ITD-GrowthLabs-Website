@@ -26,7 +26,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <base href="../">
     <meta name="description" content="Boost your startup's growth with end-to-end solutions, including business strategy, operations support, funding guidance, and scalable growth strategies.">
-    <title>Startup Solutions & Support | ITD GrowthLabs</title>
+    <title>Startup IT Solutions | MVP and App Development | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
@@ -619,6 +619,10 @@
     </style>
     <link rel="canonical" href="https://itdgrowthlabs.com/industries/startups.php" />
     <meta property="og:title" content="Startup Digital Solutions | MVP, Apps & Growth Marketing | ITD GrowthLabs" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Startup IT Solutions | MVP and App Development | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Technology partner for startups offering MVP development, mobile apps, websites, SEO and digital marketing. Launch and scale with ITD GrowthLabs." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
     <meta property="og:description" content="Digital solutions for startups including MVP development, app development, growth marketing, and investor-ready websites to scale your startup." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://itdgrowthlabs.com/industries/startups.php" />
@@ -647,9 +651,9 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 Startup Solutions for Maximum Growth &amp; Success
-                            </h2>
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
                                 Accelerate your startup's growth with tailored solutions. We deliver scalable services for business strategy, operations support, funding support, and process optimization to drive measurable results.
                             </p>
@@ -1453,11 +1457,7 @@
         </div>
     </div>
     <!-- End FAQ -->
-
-    <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
-
-    <!-- Start Footer
+<!-- Start Footer
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
         <div class="container">
@@ -1726,9 +1726,7 @@
     <script src="assets/js/TweenMax.min.js"></script>
     <script src="assets/js/validnavs.js"></script>
     <script src="assets/js/main.js"></script>
-    <link href="contact-us.php" rel="stylesheet">
-    <script src="contact-us.php" type="text/javascript" async></script>
-    <script type="text/javascript">
+<script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
                 url: 'contact-us.php',

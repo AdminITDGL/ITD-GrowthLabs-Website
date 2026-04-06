@@ -539,8 +539,39 @@
                 </div>
             </div>
         </div>
+
+        <!-- Core Service Hub Links for Internal Linking -->
+        <div class="container mt-5 mb-3">
+            <div class="row text-center">
+                <div class="col-md-4 mb-4">
+                    <div style="background: #fff; border: 1px solid #e0e0e0; border-radius: 12px; padding: 30px 20px; height: 100%; box-shadow: 0 2px 8px rgba(0,0,0,0.06);">
+                        <i class="fas fa-laptop-code" style="font-size: 36px; color: var(--color-primary); margin-bottom: 15px;"></i>
+                        <h3 style="font-size: 20px; font-weight: 700; margin-bottom: 10px;"><a href="./website_development.php" style="color: #232323; text-decoration: none;">Website Development Services</a></h3>
+                        <p style="font-size: 14px; color: #666; margin-bottom: 15px;">Custom websites, WordPress, e-commerce & corporate web design — responsive, fast & SEO-optimized.</p>
+                        <a href="./website_development.php" class="btn btn-sm" style="background: var(--color-primary); color: #fff; border-radius: 30px; padding: 8px 20px;">Explore Web Development →</a>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <div style="background: #fff; border: 1px solid #e0e0e0; border-radius: 12px; padding: 30px 20px; height: 100%; box-shadow: 0 2px 8px rgba(0,0,0,0.06);">
+                        <i class="fas fa-mobile-alt" style="font-size: 36px; color: var(--color-primary); margin-bottom: 15px;"></i>
+                        <h3 style="font-size: 20px; font-weight: 700; margin-bottom: 10px;"><a href="./app_development.php" style="color: #232323; text-decoration: none;">App Development Services</a></h3>
+                        <p style="font-size: 14px; color: #666; margin-bottom: 15px;">Android, iOS, Flutter & hybrid apps — scalable, secure mobile applications for your business.</p>
+                        <a href="./app_development.php" class="btn btn-sm" style="background: var(--color-primary); color: #fff; border-radius: 30px; padding: 8px 20px;">Explore App Development →</a>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <div style="background: #fff; border: 1px solid #e0e0e0; border-radius: 12px; padding: 30px 20px; height: 100%; box-shadow: 0 2px 8px rgba(0,0,0,0.06);">
+                        <i class="fas fa-chart-line" style="font-size: 36px; color: var(--color-primary); margin-bottom: 15px;"></i>
+                        <h3 style="font-size: 20px; font-weight: 700; margin-bottom: 10px;"><a href="./digital_marketing.php" style="color: #232323; text-decoration: none;">Digital Marketing Services</a></h3>
+                        <p style="font-size: 14px; color: #666; margin-bottom: 15px;">SEO, Google Ads, social media marketing & content strategy — data-driven campaigns that deliver ROI.</p>
+                        <a href="./digital_marketing.php" class="btn btn-sm" style="background: var(--color-primary); color: #fff; border-radius: 30px; padding: 8px 20px;">Explore Digital Marketing →</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
         <div class="services-style-three-area bg-dark bg-cover default-padding bottom-less" style="margin-top:80px"
-            style="background-image: url(assets/img/shape/banner-6.jpg);"> 
+            style="background-image: url(assets/img/shape/banner-6.jpg);">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 offset-lg-2">
@@ -1759,15 +1790,7 @@
         </div>
         <!-- End Knowledge Hub -->
 
-
-        <!-- Calendly inline widget begin -->
-
-        <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
-        <script type="text/javascript" src="contact-us.php" async></script>
-
-
-        <!-- Calendly inline widget end -->
-        <!-- Start Contact Us 
+<!-- Start Contact Us 
     ============================================= -->
         <div class="contact-area overflow-hidden default-padding" style="background-image: url(assets/img/shape/map.png);">
             <div class="shape-right-bottom">
@@ -1823,12 +1846,7 @@
             </div>
         </div>
         <!-- End Contact -->
-
-        <!-- Calendly badge widget begin -->
-
-        <link href="contact-us.php" rel="stylesheet">
-        <script src="contact-us.php" type="text/javascript" async></script>
-        <script type="text/javascript">
+<script type="text/javascript">
             window.onload = function() {
                 Calendly.initBadgeWidget({
                     url: 'contact-us.php',

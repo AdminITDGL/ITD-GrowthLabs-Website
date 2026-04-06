@@ -188,12 +188,8 @@
         </div>
     </div>
     <!-- End Contact -->
-    <!-- Calendly inline widget begin -->
-
-    <div class="calendly-inline-widget" data-url='contact-us.php' style="min-width:320px;height:700px;"></div>
-    <script type="text/javascript" src='contact-us.php' async></script>
-    <!-- Calendly inline widget end -->
-    <?php include("./includes/footer.php") ?>
+<script type="text/javascript" src='contact-us.php' async></script>
+<?php include("./includes/footer.php") ?>
     <?php include("./includes/footer_script.php") ?>
     <script src="https://www.google.com/recaptcha/api.js?render=6Lcm0hosAAAAAPFeuKRDfgGF4Ajr9bcCCbD7LR-3"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">

@@ -24,8 +24,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Streamline operations with CRM automation and customer relationship management automation. Automate sales, improve customer tracking, and enhance efficiency with scalable CRM automation solutions.">
-    <title>CRM Automation Services | ITD GrowthLabs</title>
+    <meta name="description" content="Automate your sales pipeline with custom CRM solutions. ITD GrowthLabs builds CRM systems with lead scoring, workflow automation and analytics.">
+    <title>CRM Automation Services | Sales and Customer Management | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
@@ -618,6 +618,10 @@
     </style>
     <link rel="canonical" href="https://itdgrowthlabs.com/services/crm_automation.php" />
     <meta property="og:title" content="CRM Automation Services | ITD GrowthLabs" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="CRM Automation Services | Sales and Customer Management | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Automate your sales pipeline with custom CRM solutions. ITD GrowthLabs builds CRM systems with lead scoring, workflow automation and analytics." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
     <meta property="og:description" content="Streamline operations with CRM automation and customer relationship management automation. Automate sales, improve customer tracking, and enhance efficiency with scalable CRM automation solutions." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://itdgrowthlabs.com/services/crm_automation.php" />
@@ -643,9 +647,9 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 CRM Automation <span style="color: var(--color-primary);">Services</span> for Smart Business Growth
-                            </h2>
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
                                 Improve efficiency with CRM automation and customer relationship management automation. ITD GrowthLabs delivers scalable CRM automation solutions for sales, tracking, and growth.
                             </p>
@@ -1235,11 +1239,7 @@
         </div>
     </div>
     <!-- End FAQ -->
-
-    <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
-
-    <!-- Start Footer
+<!-- Start Footer
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
         <div class="container">

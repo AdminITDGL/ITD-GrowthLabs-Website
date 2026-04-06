@@ -25,8 +25,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <base href="../">
-    <meta name="description" content="Transform your real estate operations with ITD GrowthLab’s real estate solutions & services. Improve property workflows, boost efficiency, and drive smarter real estate management and growth.">
-    <title>Real Estate Solutions & Services | ITD GrowthLabs</title>
+    <meta name="description" content="IT solutions for real estate including property listing apps, CRM, virtual tours and digital marketing for real estate firms. ITD GrowthLabs.">
+    <title>Real Estate IT Solutions and Digital Marketing | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
@@ -619,6 +619,10 @@
     </style>
     <link rel="canonical" href="https://itdgrowthlabs.com/industries/realestate.php" />
     <meta property="og:title" content="Real Estate Industry Digital Solutions | ITD GrowthLabs" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Real Estate IT Solutions and Digital Marketing | ITD GrowthLabs" />
+    <meta name="twitter:description" content="IT solutions for real estate including property listing apps, CRM, virtual tours and digital marketing for real estate firms. ITD GrowthLabs." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
     <meta property="og:description" content="Digital solutions for real estate including property listing websites, CRM apps, virtual tour platforms, and lead generation marketing for realtors and developers." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://itdgrowthlabs.com/industries/realestate.php" />
@@ -647,9 +651,9 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 Real Estate Services for Efficient Growth &amp; Smarter Management
-                            </h2>
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
                                 Improve efficiency with real estate and real estate services. We deliver scalable real estate solutions for property management, operations, sales processes, and workflow optimization.
                             </p>
@@ -1454,11 +1458,7 @@
         </div>
     </div>
     <!-- End FAQ -->
-
-    <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
-
-    <!-- Start Footer
+<!-- Start Footer
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
         <div class="container">
@@ -1727,9 +1727,7 @@
     <script src="assets/js/TweenMax.min.js"></script>
     <script src="assets/js/validnavs.js"></script>
     <script src="assets/js/main.js"></script>
-    <link href="contact-us.php" rel="stylesheet">
-    <script src="contact-us.php" type="text/javascript" async></script>
-    <script type="text/javascript">
+<script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
                 url: 'contact-us.php',

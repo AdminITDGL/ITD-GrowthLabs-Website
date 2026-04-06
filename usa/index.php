@@ -736,20 +736,20 @@
             }
         }
     </style>
-    <link rel="canonical" href="https://itdgrowthlabs.c../usa/" />
+    <link rel="canonical" href="https://itdgrowthlabs.com/usa/" />
     <meta property="og:title" content="Top Digital Services Company in the USA | Web, App & Marketing" />
     <meta property="og:description" content="ITD GrowthLabs is a leading digital services company in the USA offering website development, web apps, mobile apps & digital marketing." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://itdgrowthlabs.c../usa/" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/usa/" />
     <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
-    <link rel="alternate" hreflang="en-us" href="https://itdgrowthlabs.c../usa/" />
+    <link rel="alternate" hreflang="en-us" href="https://itdgrowthlabs.com/usa/" />
     <link rel="alternate" hreflang="en" href="https://itdgrowthlabs.com/" />
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
         "name": "ITD GrowthLabs - USA",
-        "url": "https://itdgrowthlabs.c../usa/",
+        "url": "https://itdgrowthlabs.com/usa/",
         "image": "https://itdgrowthlabs.com/assets/img/logo.jpg",
         "telephone": "+91-8450978544",
         "email": "info@itdgrowthlabs.com",
@@ -1710,8 +1710,7 @@
             </div>
         </div>
     </div>
-    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>    
-    <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
+<footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
         <div class="container">
             <div class="f-items default-padding-bottom pt-70 pt-xs-0">
                 <div class="row">
@@ -1978,9 +1977,7 @@
     <script src="../assets/js/TweenMax.min.js"></script>
     <script src="../assets/js/validnavs.js"></script>
     <script src="../assets/js/main.js"></script>
-    <link href="contact-us.php" rel="stylesheet">
-    <script src="contact-us.php" type="text/javascript" async></script>
-    <script type="text/javascript">
+<script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
                 url: 'contact-us.php',

@@ -24,8 +24,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Boost your brand presence with expert social media marketing. Our social media strategies increase engagement, drive traffic, and grow your business online with measurable results.">
-    <title>Social Media Marketing Services for Businesses | ITD GrowthLabs</title>
+    <meta name="description" content="Grow your brand with social media marketing. ITD GrowthLabs manages Instagram, Facebook, LinkedIn and YouTube campaigns that drive engagement and leads.">
+    <title>Social Media Marketing Services | Instagram, Facebook, LinkedIn | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
@@ -618,6 +618,10 @@
     </style>
     <link rel="canonical" href="https://itdgrowthlabs.com/services/social-media-marketing.php" />
     <meta property="og:title" content="Social Media Marketing Services for Businesses | ITD GrowthLabs" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Social Media Marketing Services | Instagram, Facebook, LinkedIn | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Grow your brand with social media marketing. ITD GrowthLabs manages Instagram, Facebook, LinkedIn and YouTube campaigns that drive engagement and leads." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
     <meta property="og:description" content="Boost your brand presence with expert social media marketing services." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://itdgrowthlabs.com/services/social-media-marketing.php" />
@@ -663,9 +667,9 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 Social Media Marketing <span style="color: var(--color-primary);">Services</span> for Businesses
-                            </h2>
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
                                 Drive engagement and grow your brand with expert social media marketing. Our social media strategies deliver targeted campaigns, optimized content, and data-driven results to boost online presence and measurable business growth.
                             </p>
@@ -1263,11 +1267,7 @@
         </div>
     </div>
     <!-- End FAQ -->
-
-    <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
-
-    <!-- Start Footer
+<!-- Start Footer
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
         <div class="container">
@@ -1536,9 +1536,7 @@
     <script src="../assets/js/TweenMax.min.js"></script>
     <script src="../assets/js/validnavs.js"></script>
     <script src="../assets/js/main.js"></script>
-    <link href="contact-us.php" rel="stylesheet">
-    <script src="contact-us.php" type="text/javascript" async></script>
-    <script type="text/javascript">
+<script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
                 url: 'contact-us.php',

@@ -24,7 +24,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Top app development company in India serving USA, UK, UAE & Australia. Custom Android, iOS, Flutter & hybrid mobile app development services. Build scalable, secure apps with ITD GrowthLabs. Get a free consultation today.">
+    <meta name="description" content="Custom Android, iOS & Flutter app development services in India. Build scalable mobile apps with ITD GrowthLabs — serving USA, UK, UAE & Australia.">
     <title>App Development Services in India | Android, iOS & Flutter Apps | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
@@ -620,8 +620,14 @@
     <link rel="alternate" hreflang="en-in" href="https://itdgrowthlabs.com/app_development.php" />
     <link rel="alternate" hreflang="en-us" href="https://itdgrowthlabs.com/usa/mobile-app-development.php" />
     <link rel="alternate" hreflang="en-gb" href="https://itdgrowthlabs.com/uk/mobile-app-development.php" />
+    <link rel="alternate" hreflang="en-au" href="https://itdgrowthlabs.com/australia/mobile-app-development.PHP" />
+    <link rel="alternate" hreflang="en-ae" href="https://itdgrowthlabs.com/uae/mobile-app-development.php" />
     <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/app_development.php" />
     <meta property="og:title" content="App Development Services in India | Custom Mobile & Web Apps | ITD GrowthLabs" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="App Development Services in India | Android, iOS & Flutter Apps | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Custom Android, iOS & Flutter app development services in India. Build scalable mobile apps with ITD GrowthLabs — serving USA, UK, UAE & Australia." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/og-app-development.jpg" />
     <meta property="og:description" content="ITD GrowthLabs offers custom app development services including Android, iOS, Flutter, and hybrid mobile apps." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://itdgrowthlabs.com/app_development.php" />
@@ -675,6 +681,50 @@
         ]
     }
     </script>
+    <!-- Service Schema -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "App Development Services",
+        "description": "Custom mobile app development services — Android, iOS, Flutter & hybrid apps for businesses. Scalable, secure, and user-friendly applications.",
+        "provider": {
+            "@type": "Organization",
+            "name": "ITD GrowthLabs",
+            "url": "https://itdgrowthlabs.com"
+        },
+        "serviceType": "Mobile App Development",
+        "areaServed": [
+            {"@type": "Country", "name": "India"},
+            {"@type": "Country", "name": "United States"},
+            {"@type": "Country", "name": "United Kingdom"},
+            {"@type": "Country", "name": "United Arab Emirates"},
+            {"@type": "Country", "name": "Australia"}
+        ],
+        "hasOfferCatalog": {
+            "@type": "OfferCatalog",
+            "name": "App Development Services",
+            "itemListElement": [
+                {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Android App Development"}},
+                {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "iOS App Development"}},
+                {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Flutter App Development"}},
+                {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Hybrid App Development"}},
+                {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Web Application Development"}}
+            ]
+        }
+    }
+    </script>
+    <!-- BreadcrumbList Schema -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"},
+            {"@type": "ListItem", "position": 2, "name": "App Development Services", "item": "https://itdgrowthlabs.com/app_development.php"}
+        ]
+    }
+    </script>
 </head>
 
 <body>
@@ -693,11 +743,11 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
-                                Custom <span style="color: var(--color-primary);">App Development</span> Solutions for Growing Businesses
-                            </h2>
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                                Custom <span style="color: var(--color-primary);">App Development</span> Services for Growing Businesses
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
-                                Partner with ITD GrowthLabs for mobile and web app development services that deliver fast, scalable, and secure apps. Our app development approach ensures seamless performance, UX, and growth for your business.
+                                Build mobile apps that users love — native Android, iOS, Flutter cross-platform, and hybrid solutions engineered for performance, security, and scalability. ITD GrowthLabs has delivered 100+ apps for startups and enterprises in India, USA, UK, UAE & Australia.
                             </p>
                             <div class="button mt-4 mb-5">
                                 <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Let’s Build Your App</a>
@@ -1537,6 +1587,32 @@
         <a href="contact-us.php" class="btn btn-theme btn-md animation">Schedule a Free Consultation</a>
     </div>
 
+    <!-- Related Services Internal Links -->
+    <div class="container mb-5">
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2 text-center">
+                <h2 class="title mb-4">Explore More Services</h2>
+                <p style="font-size: 15px; color: #666; margin-bottom: 25px;">Need a website or digital marketing alongside your app? ITD GrowthLabs offers end-to-end digital solutions.</p>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-md-5 mb-3">
+                <a href="website_development.php" style="text-decoration: none; display: block; background: #f8f9fa; border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px; text-align: center;">
+                    <i class="fas fa-laptop-code" style="font-size: 28px; color: var(--color-primary); margin-bottom: 10px; display: block;"></i>
+                    <h4 style="font-size: 18px; font-weight: 700; color: #232323;">Website Development Services</h4>
+                    <p style="font-size: 14px; color: #666; margin: 0;">Custom, WordPress & e-commerce website development</p>
+                </a>
+            </div>
+            <div class="col-md-5 mb-3">
+                <a href="digital_marketing.php" style="text-decoration: none; display: block; background: #f8f9fa; border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px; text-align: center;">
+                    <i class="fas fa-chart-line" style="font-size: 28px; color: var(--color-primary); margin-bottom: 10px; display: block;"></i>
+                    <h4 style="font-size: 18px; font-weight: 700; color: #232323;">Digital Marketing Services</h4>
+                    <p style="font-size: 14px; color: #666; margin: 0;">SEO, Google Ads, social media & content marketing</p>
+                </a>
+            </div>
+        </div>
+    </div>
+
     <!-- FAQ Section for AEO -->
     <div class="faq-style-one-area default-padding" id="faq">
         <div class="container">
@@ -1866,8 +1942,7 @@
     <script src="assets/js/TweenMax.min.js"></script>
     <script src="assets/js/validnavs.js"></script>
     <script src="assets/js/main.js"></script>
-    <!-- Calendly widget removed — using contact-us.php instead -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
     <script src="assets/js/custom.js"></script>
 

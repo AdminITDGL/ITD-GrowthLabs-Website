@@ -24,8 +24,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Build custom logistics apps for fleet management, delivery tracking, route optimization, and warehouse management. Expert logistics app development by ITD GrowthLabs.">
-    <title>Logistics App Development Services | Custom Fleet & Delivery Apps | ITD GrowthLabs</title>
+    <meta name="description" content="Custom logistics app development for fleet management, delivery tracking, route optimization and warehouse management. Built for logistics companies worldwide.">
+    <title>Logistics App Development | Fleet and Delivery Apps | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
@@ -618,6 +618,10 @@
     </style>
     <link rel="canonical" href="https://itdgrowthlabs.com/services/logistics-app-development.php" />
     <meta property="og:title" content="Logistics App Development Services | Custom Fleet & Delivery Apps | ITD GrowthLabs" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Logistics App Development | Fleet and Delivery Apps | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Custom logistics app development for fleet management, delivery tracking, route optimization and warehouse management. Built for logistics companies worldwide." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
     <meta property="og:description" content="Build custom logistics apps for fleet management, delivery tracking, route optimization, and warehouse management. Expert logistics app development by ITD GrowthLabs." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://itdgrowthlabs.com/services/logistics-app-development.php" />
@@ -1463,11 +1467,7 @@
         </div>
     </div>
     <!-- End FAQ -->
-
-    <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url='contact-us.php' style="min-width:320px;height:700px;"></div>
-
-    <!-- Start Footer
+<!-- Start Footer
     ============================================= -->
     <?php include("../includes/footer.php") ?>
 

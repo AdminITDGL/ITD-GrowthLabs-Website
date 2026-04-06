@@ -25,7 +25,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Build custom real estate apps for property listings, virtual tours, CRM, and lead management. Expert real estate app development services by ITD GrowthLabs.">
-    <title>Real Estate App Development Services | Property Listing & CRM Apps | ITD GrowthLabs</title>
+    <title>Real Estate App Development | Property Listing and CRM | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
@@ -618,6 +618,10 @@
     </style>
     <link rel="canonical" href="https://itdgrowthlabs.com/services/real-estate-app-development.php" />
     <meta property="og:title" content="Real Estate App Development Services | Property Listing & CRM Apps | ITD GrowthLabs" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Real Estate App Development | Property Listing and CRM | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Custom real estate app development with property listings, virtual tours, CRM, lead management and agent portals for real estate businesses." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
     <meta property="og:description" content="Build custom real estate apps for property listings, virtual tours, CRM, and lead management. Expert real estate app development services by ITD GrowthLabs." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://itdgrowthlabs.com/services/real-estate-app-development.php" />
@@ -1461,11 +1465,7 @@
         </div>
     </div>
     <!-- End FAQ -->
-
-    <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url='contact-us.php' style="min-width:320px;height:700px;"></div>
-
-    <!-- Start Footer
+<!-- Start Footer
     ============================================= -->
     <?php include("../includes/footer.php") ?>
 

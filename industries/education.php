@@ -25,8 +25,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <base href="../">
-    <meta name="description" content="Discover innovative education &amp; edtech solutions to enhance learning experiences, streamline operations, and optimize education &amp; edtech processes for scalable growth.">
-    <title>Education &amp; EdTech Solutions | ITD GrowthLabs</title>
+    <meta name="description" content="Digital solutions for education including LMS platforms, e-learning apps, EdTech websites and digital marketing for schools, colleges and training companies.">
+    <title>Education and EdTech IT Solutions | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
@@ -619,6 +619,10 @@
     </style>
     <link rel="canonical" href="https://itdgrowthlabs.com/industries/education.php" />
     <meta property="og:title" content="Education & EdTech Digital Solutions | ITD GrowthLabs" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Education and EdTech IT Solutions | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Digital solutions for education including LMS platforms, e-learning apps, EdTech websites and digital marketing for schools, colleges and training companies." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
     <meta property="og:description" content="Digital solutions for education including LMS platforms, eLearning apps, student portals, and education marketing services." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://itdgrowthlabs.com/industries/education.php" />
@@ -647,9 +651,9 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 Education &amp; EdTech Services for Efficient Growth &amp; Smarter Learning
-                            </h2>
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
                                 Improve efficiency with education &amp; edtech and education &amp; edtech services. We deliver scalable education &amp; edtech solutions for learning management, operations, content delivery, and process optimization.
                             </p>
@@ -1454,11 +1458,7 @@
         </div>
     </div>
     <!-- End FAQ -->
-
-    <!-- Calendly Widget -->
-    <div class="calendly-inline-widget" data-url="contact-us.php" style="min-width:320px;height:700px;"></div>
-
-    <!-- Start Footer
+<!-- Start Footer
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
         <div class="container">
@@ -1727,9 +1727,7 @@
     <script src="assets/js/TweenMax.min.js"></script>
     <script src="assets/js/validnavs.js"></script>
     <script src="assets/js/main.js"></script>
-    <link href="contact-us.php" rel="stylesheet">
-    <script src="contact-us.php" type="text/javascript" async></script>
-    <script type="text/javascript">
+<script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({
                 url: 'contact-us.php',
