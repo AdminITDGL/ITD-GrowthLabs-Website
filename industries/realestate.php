@@ -729,6 +729,30 @@
     <!-- End Banner -->
 
     <!-- Quick Summary for AI Search Engines (AEO) -->
+        <!-- Trust Badge Bar -->
+    <div style="background: #f8f9fa; border-bottom: 1px solid #e0e0e0; padding: 20px 0;">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-6 col-md-3 mb-2 mb-md-0">
+                    <div style="font-size: 28px; font-weight: 800; color: var(--color-primary);">300+</div>
+                    <div style="font-size: 13px; color: #5f6368; font-weight: 500;">Projects Delivered</div>
+                </div>
+                <div class="col-6 col-md-3 mb-2 mb-md-0">
+                    <div style="font-size: 28px; font-weight: 800; color: var(--color-primary);">10+</div>
+                    <div style="font-size: 13px; color: #5f6368; font-weight: 500;">Years of Experience</div>
+                </div>
+                <div class="col-6 col-md-3">
+                    <div style="font-size: 28px; font-weight: 800; color: var(--color-primary);">5</div>
+                    <div style="font-size: 13px; color: #5f6368; font-weight: 500;">Countries Served</div>
+                </div>
+                <div class="col-6 col-md-3">
+                    <div style="font-size: 28px; font-weight: 800; color: var(--color-primary);">97%</div>
+                    <div style="font-size: 13px; color: #5f6368; font-weight: 500;">Client Retention</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div class="container mt-5 mb-3">
         <div style="background: linear-gradient(135deg, #f8f9fa 0%, #e8f0fe 100%); border-left: 4px solid var(--color-primary); border-radius: 8px; padding: 25px 30px;">
             <h3 style="font-size: 20px; font-weight: 700; color: var(--color-primary); margin-bottom: 12px;">Quick Summary — Real Estate Digital Marketing & App Development</h3>
@@ -1099,6 +1123,21 @@
                     </div>
                 </div>
 </div>
+        </div>
+    </div>
+
+    <!-- Mid-Page CTA Banner -->
+    <div style="background: linear-gradient(135deg, var(--color-primary) 0%, #1a237e 100%); padding: 40px 0;">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-8">
+                    <h3 style="color: #fff; margin: 0; font-size: 24px;">Need More Qualified Property Buyer Leads?</h3>
+                    <p style="color: rgba(255,255,255,0.85); margin: 8px 0 0; font-size: 16px;">Get a free real estate digital marketing audit.</p>
+                </div>
+                <div class="col-lg-4 text-lg-end mt-3 mt-lg-0">
+                    <a href="contact-us.php" class="btn btn-light btn-lg" style="font-weight: 600; padding: 12px 30px;">Schedule a Call <i class="fas fa-arrow-right ms-2"></i></a>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -1731,7 +1770,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <p>Copyright &copy; 2025 ITD GrowthLabs All Rights Reserved</p>
+                        <p>Copyright &copy; 2026 ITD GrowthLabs All Rights Reserved</p>
                     </div>
                 </div>
             </div>

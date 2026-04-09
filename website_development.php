@@ -820,6 +820,30 @@
     </div>
     <!-- End Banner -->
 
+    <!-- Trust Badge Bar -->
+    <div style="background: #f8f9fa; border-bottom: 1px solid #e0e0e0; padding: 20px 0;">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-6 col-md-3 mb-2 mb-md-0">
+                    <div style="font-size: 28px; font-weight: 800; color: var(--color-primary);">300+</div>
+                    <div style="font-size: 13px; color: #5f6368; font-weight: 500;">Projects Delivered</div>
+                </div>
+                <div class="col-6 col-md-3 mb-2 mb-md-0">
+                    <div style="font-size: 28px; font-weight: 800; color: var(--color-primary);">10+</div>
+                    <div style="font-size: 13px; color: #5f6368; font-weight: 500;">Years of Experience</div>
+                </div>
+                <div class="col-6 col-md-3">
+                    <div style="font-size: 28px; font-weight: 800; color: var(--color-primary);">5</div>
+                    <div style="font-size: 13px; color: #5f6368; font-weight: 500;">Countries Served</div>
+                </div>
+                <div class="col-6 col-md-3">
+                    <div style="font-size: 28px; font-weight: 800; color: var(--color-primary);">97%</div>
+                    <div style="font-size: 13px; color: #5f6368; font-weight: 500;">Client Retention</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- Quick Summary for AI Search Engines (AEO) -->
     <div class="container mt-5 mb-3">
         <div style="background: linear-gradient(135deg, #f8f9fa 0%, #e8f0fe 100%); border-left: 4px solid var(--color-primary); border-radius: 8px; padding: 25px 30px;">
@@ -1190,6 +1214,21 @@
                         <p>Custom sites with showcases, client portals, and SEO-ready design.</p>
                         <h4><a href="contact-us.php">Professional Services</a></h4>
                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Mid-Page CTA Banner -->
+    <div style="background: linear-gradient(135deg, var(--color-primary) 0%, #1a237e 100%); padding: 40px 0;">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-8">
+                    <h3 style="color: #fff; margin: 0; font-size: 24px;">Need a Website That Generates Leads &amp; Ranks on Google?</h3>
+                    <p style="color: rgba(255,255,255,0.85); margin: 8px 0 0; font-size: 16px;">Schedule a free 30-minute strategy call with our web development experts.</p>
+                </div>
+                <div class="col-lg-4 text-lg-end mt-3 mt-lg-0">
+                    <a href="contact-us.php" class="btn btn-light btn-lg" style="font-weight: 600; padding: 12px 30px;">Schedule a Call <i class="fas fa-arrow-right ms-2"></i></a>
                 </div>
             </div>
         </div>
@@ -1911,7 +1950,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <p>Copyright &copy; 2025 ITD GrowthLabs All Rights Reserved</p>
+                        <p>Copyright &copy; 2026 ITD GrowthLabs All Rights Reserved</p>
                     </div>
                 </div>
             </div>

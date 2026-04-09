@@ -68,7 +68,10 @@
       "Bash(grep -c \"AI & Intelligent Automation\" industries/*.php)",
       "Bash(grep -L \"faqAccordion\" services/*.php)",
       "Bash(grep -n \"Government\\\\|Restaurants & Hospitality\" industries/*.php)",
-      "Bash(grep -rL \"<h1\" services/*.php)"
+      "Bash(grep -rL \"<h1\" services/*.php)",
+      "WebFetch(domain:www.webskitters.com)",
+      "Bash(python add_trust_cta.py)",
+      "Bash(rm add_trust_cta.py)"
     ]
   }
 }

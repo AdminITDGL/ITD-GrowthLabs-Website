@@ -89,7 +89,18 @@
             "email": "info@itdgrowthlabs.com",
             "availableLanguage": ["English", "Hindi"]
         },
-        "sameAs": [],
+        "foundingDate": "2015",
+        "numberOfEmployees": {
+            "@type": "QuantitativeValue",
+            "value": "50+"
+        },
+        "sameAs": [
+            "https://www.linkedin.com/company/itdgrowthlabs/",
+            "https://www.instagram.com/itdgrowthlabs/",
+            "https://www.facebook.com/itdgrowthlabs/",
+            "https://twitter.com/itdgrowthlabs",
+            "https://www.youtube.com/@itdgrowthlabs"
+        ],
         "areaServed": [
             {"@type": "Country", "name": "India"},
             {"@type": "Country", "name": "Australia"},
@@ -378,6 +389,42 @@
             </div>
         </div>
 
+        <!-- Trust Badge Bar for Social Proof & Lead Generation -->
+        <div style="background: #f8f9fa; padding: 30px 0; border-top: 1px solid #e9ecef; border-bottom: 1px solid #e9ecef;">
+            <div class="container">
+                <div class="row text-center">
+                    <div class="col-6 col-md-3 mb-3 mb-md-0">
+                        <div style="padding: 10px;">
+                            <i class="fas fa-project-diagram" style="font-size: 28px; color: var(--color-primary); margin-bottom: 8px; display: block;"></i>
+                            <div style="font-size: 28px; font-weight: 800; color: #232323; line-height: 1.2;">300+</div>
+                            <div style="font-size: 14px; color: #666; font-weight: 500;">Projects Delivered</div>
+                        </div>
+                    </div>
+                    <div class="col-6 col-md-3 mb-3 mb-md-0">
+                        <div style="padding: 10px;">
+                            <i class="fas fa-award" style="font-size: 28px; color: var(--color-primary); margin-bottom: 8px; display: block;"></i>
+                            <div style="font-size: 28px; font-weight: 800; color: #232323; line-height: 1.2;">10+</div>
+                            <div style="font-size: 14px; color: #666; font-weight: 500;">Years Experience</div>
+                        </div>
+                    </div>
+                    <div class="col-6 col-md-3">
+                        <div style="padding: 10px;">
+                            <i class="fas fa-globe-americas" style="font-size: 28px; color: var(--color-primary); margin-bottom: 8px; display: block;"></i>
+                            <div style="font-size: 28px; font-weight: 800; color: #232323; line-height: 1.2;">5</div>
+                            <div style="font-size: 14px; color: #666; font-weight: 500;">Countries Served</div>
+                        </div>
+                    </div>
+                    <div class="col-6 col-md-3">
+                        <div style="padding: 10px;">
+                            <i class="fas fa-handshake" style="font-size: 28px; color: var(--color-primary); margin-bottom: 8px; display: block;"></i>
+                            <div style="font-size: 28px; font-weight: 800; color: #232323; line-height: 1.2;">97%</div>
+                            <div style="font-size: 14px; color: #666; font-weight: 500;">Client Retention</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
         <div class="brand-style-one pt-5 pb-2 mt-3 mb-4">
             <div class="container">
                 <div class="row">
@@ -535,6 +582,21 @@
                             <i class="fas fa-globe"></i>
                             <p>Global SEO & Customer Acquisition</p>
                         </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Mid-Page CTA Banner for Lead Generation -->
+        <div class="container-full" style="background: linear-gradient(135deg, var(--color-primary) 0%, #1a237e 100%); padding: 40px 0;">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-8">
+                        <h3 style="color: #fff; margin: 0; font-size: 24px;">Looking for a Reliable Website, App, or Marketing Partner?</h3>
+                        <p style="color: rgba(255,255,255,0.85); margin: 8px 0 0; font-size: 16px;">Schedule a free 30-minute strategy call with our experts.</p>
+                    </div>
+                    <div class="col-lg-4 text-end">
+                        <a href="contact-us.php" class="btn btn-light btn-lg" style="font-weight: 600; padding: 12px 30px;">Schedule a Call <i class="fas fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
