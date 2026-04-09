@@ -2,16 +2,10 @@
   "version": "0.0.1",
   "configurations": [
     {
-      "name": "PHP Site (Python HTTP Server)",
-      "runtimeExecutable": "python",
-      "runtimeArgs": ["-m", "http.server", "8000"],
-      "port": 8000
-    },
-    {
-      "name": "PHP Site (Node http-server)",
-      "runtimeExecutable": "npx",
-      "runtimeArgs": ["http-server", "-p", "3000", "-c-1"],
-      "port": 3000
+      "name": "growthlab-php",
+      "runtimeExecutable": "C:\\xampp\\php\\php.exe",
+      "runtimeArgs": ["-S", "localhost:8080", "-t", "."],
+      "port": 8080
     }
   ]
 }

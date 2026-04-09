@@ -831,9 +831,9 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 Top Digital Solutions Company in Africa for Growing Businesses
-                            </h2>
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
                                 We provide website development, web applications, mobile apps, and digital marketing services across Africa—helping businesses scale in South Africa, Nigeria, Kenya, and beyond.
                             </p>

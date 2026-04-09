@@ -645,9 +645,9 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 eLearning Content <span style="color: var(--color-primary);">Development Services</span> for Businesses
-                            </h2>
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
                                 Create engaging digital learning experiences with expert eLearning content development. Our eLearning content development services deliver interactive, structured, and learner-focused training content that improves knowledge retention and business training outcomes.
                             </p>

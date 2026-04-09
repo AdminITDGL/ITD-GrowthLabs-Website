@@ -777,9 +777,9 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 Mobile App Development Company in UAE – Android &amp; iOS Experts
-                            </h2>
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
                                 We design and develop high-performance Android and iOS mobile applications that help UAE businesses scale, engage users, and drive revenue.
                             </p>

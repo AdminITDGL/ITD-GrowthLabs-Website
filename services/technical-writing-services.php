@@ -645,9 +645,9 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 Technical Content Writing <span style="color: var(--color-primary);">Services</span> for Businesses
-                            </h2>
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
                                 Deliver precise and engaging technical content with expert technical content writing. Our technical content writing services create SEO-friendly, accurate, and high-quality technical content for websites, manuals, and product documentation to boost traffic, credibility, and business growth.
                             </p>

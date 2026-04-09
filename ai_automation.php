@@ -634,9 +634,9 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 Custom <span style="color: var(--color-primary);">AI & Intelligent Automation</span> Solutions for Growing Businesses
-                            </h2>
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
                                 Partner with ITD GrowthLabs for AI and automation services that deliver smart workflows, process optimization, and measurable business impact. Our approach ensures intelligent systems, seamless integration, and scalable automation.
                             </p>
@@ -1733,8 +1733,7 @@
     <script src="assets/js/TweenMax.min.js"></script>
     <script src="assets/js/validnavs.js"></script>
     <script src="assets/js/main.js"></script>
-    <link href='contact-us.php' rel="stylesheet">
-    <script src='contact-us.php' type="text/javascript" async></script>
+        <script src='contact-us.php' type="text/javascript" async></script>
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({

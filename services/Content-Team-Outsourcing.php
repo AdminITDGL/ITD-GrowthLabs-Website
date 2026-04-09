@@ -102,9 +102,9 @@
                     <div class="row align-center">
                         <div class="col-xl-6 col-lg-6 pr-50 pr-md-15 pr-xs-15 mt--80 mt-md-0 mt-xs-0">
                             <div class="information">
-                                <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                                <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                     <strong>Content Team Outsourcing Services</strong>
-                                </h2>
+                                </h1>
                                 <p class="wow fadeInUp" data-wow-delay="900ms" data-wow-duration="400ms">
 
                                     Deploy expert content teams on-demand. From SEO writing to strategy, get high-quality, ready-to-go professionals aligned to your <strong></strong> goals—on-site or remote.

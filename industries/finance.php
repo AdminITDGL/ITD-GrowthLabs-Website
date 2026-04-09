@@ -652,13 +652,13 @@
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
                             <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
-                                Finance &amp; <span style="color: var(--color-primary);">FinTech</span> Solutions for Maximum Growth &amp; Revenue
+                                <span style="color: var(--color-primary);">Finance &amp; FinTech</span> Website, App &amp; Digital Marketing Solutions
                             </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
-                                Explore advanced finance &amp; fintech solutions to optimize financial operations, enhance digital banking, and drive growth. Streamline processes and deliver secure finance &amp; fintech services.
+                                Build secure banking portals, financial apps, and compliance-ready digital platforms that build customer trust. ITD GrowthLabs helps banks, NBFCs, insurance companies, and fintech startups grow with custom website development, mobile apps, and lead generation campaigns.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Increase Revenue</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Get a Free Finance Consultation</a>
                             </div>
                         </div>
                     </div>
@@ -836,58 +836,58 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">WHY CHOOSE ITD GROWTHLABS</h5>
-                        <h2 class="title">Premier Finance &amp; FinTech Solutions Company in India</h2>
+                        <h5 class="sub-title">WHY CHOOSE ITD GROWTHLABS FOR FINANCE</h5>
+                        <h2 class="title">Trusted Finance &amp; FinTech Solutions Partner in India</h2>
                         <p class="mt-30">
-                            ITD GrowthLabs delivers scalable finance &amp; fintech solutions that optimize financial operations, enhance digital banking, and drive measurable business growth.
+                            ITD GrowthLabs delivers secure, compliance-ready websites, financial apps, and digital marketing strategies for banks, NBFCs, insurance companies, and fintech startups.
                         </p>
                     </div>
                 </div>
             </div>
             <div class="row" style="display: flex; flex-wrap: wrap;">
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-cogs"></i>
+                            <i class="fas fa-lock"></i>
                         </div>
-                        <h4>Enhanced Financial Services</h4>
-                        <p>Optimize finance &amp; fintech platforms with secure transactions, seamless payment processing, and efficient financial workflows to improve client satisfaction.</p>
+                        <h4>Secure Banking Portals</h4>
+                        <p>Build encrypted, PCI-DSS compliant banking websites with secure login, transaction history, account management, and real-time notifications.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-robot"></i>
+                            <i class="fas fa-mobile-alt"></i>
                         </div>
-                        <h4>End-to-End Financial Management</h4>
-                        <p>Manage finance &amp; fintech operations across payments, accounting, reporting, and compliance for reliable and accurate performance.</p>
+                        <h4>FinTech Mobile Apps</h4>
+                        <p>Custom mobile banking, payment, and investment apps with biometric authentication, UPI integration, and portfolio tracking.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-brain"></i>
+                            <i class="fas fa-search"></i>
                         </div>
-                        <h4>Tailored FinTech Strategies</h4>
-                        <p>Deliver finance &amp; fintech solutions with customized digital banking tools, financial planning strategies, and technology integration for maximum ROI.</p>
+                        <h4>Financial Services SEO</h4>
+                        <p>Rank for high-intent financial keywords like 'best mutual fund app', 'business loan provider', and 'insurance comparison' to drive organic leads.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-bolt"></i>
+                            <i class="fas fa-bullhorn"></i>
                         </div>
-                        <h4>Scalable Digital Platforms</h4>
-                        <p>Expand finance &amp; fintech services with scalable infrastructure, multi-channel support, and streamlined operations to meet growing customer demands.</p>
+                        <h4>Google Ads for Financial Services</h4>
+                        <p>Targeted PPC campaigns for loan products, insurance plans, and investment services with compliance-ready ad copy and landing pages.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-plug"></i>
+                            <i class="fas fa-shield-alt"></i>
                         </div>
-                        <h4>Technology &amp; Automation Integration</h4>
-                        <p>Integrate finance &amp; fintech with advanced tools, AI automation, analytics, and secure systems to enhance operational efficiency and accuracy.</p>
+                        <h4>Compliance &amp; Security</h4>
+                        <p>Build platforms that meet RBI, SEBI, and IRDAI compliance standards with proper KYC flows, data encryption, and audit trails.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -895,12 +895,11 @@
                         <div class="icon-wrapper">
                             <i class="fas fa-chart-line"></i>
                         </div>
-                        <h4>Analytics &amp; Performance Insights</h4>
-                        <p>Track finance &amp; fintech metrics with dashboards, reports, and insights to optimize financial performance, risk management, and customer satisfaction.</p>
+                        <h4>Lead Generation &amp; Analytics</h4>
+                        <p>Track lead quality, conversion funnels, and campaign ROI to optimize customer acquisition costs across all digital channels.</p>
                     </div>
                 </div>
-            </div>
-        </div>
+</div>
     </div>
     <div class="default-padding bg-white">
         <div class="container">
@@ -908,7 +907,7 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">OUR DEVELOPMENT PROCESS</h5>
-                        <h2 class="title">From Concept to FinTech Success</h2>
+                        <h2 class="title">From Concept to Secure Financial Platform</h2>
                     </div>
                 </div>
             </div>
@@ -970,135 +969,135 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">OUR WEB DEVELOPMENT SERVICES</h5>
-                        <h2 class="title">Behind Every Successful Finance &amp; FinTech Transformation</h2>
+                        <h5 class="sub-title">OUR FINANCE DIGITAL SERVICES</h5>
+                        <h2 class="title">Complete Finance Website, App &amp; Marketing Solutions</h2>
                     </div>
                 </div>
             </div>
         </div>
         <div class="container">
             <div class="row" style="display: flex; flex-wrap: wrap;">
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-bullseye fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-landmark fa-3x mb-3"></i>
+                        <a href="website_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Strategic finance &amp; fintech services focused on digital banking, financial workflow structuring, and process optimization to improve efficiency and revenue outcomes.</p>
-                        <h4><a href="contact-us.php">Finance &amp; FinTech Planning &amp; Strategy</a></h4>
+                        <p>Corporate banking and NBFC websites with loan calculators, product comparison tools, branch locators, and lead capture forms.</p>
+                        <h4><a href="website_development.php">Banking &amp; NBFC Website Development</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-network-wired fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-wallet fa-3x mb-3"></i>
+                        <a href="app_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Scalable finance &amp; fintech services with platform setup, core banking integration, and secure transaction management for seamless operations.</p>
-                        <h4><a href="contact-us.php">Platform Setup &amp; Integration</a></h4>
+                        <p>Mobile banking and payment apps with UPI, wallet, bill pay, fund transfer, and account management features.</p>
+                        <h4><a href="app_development.php">Mobile Banking App Development</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-calculator fa-3x mb-3"></i>
+                        <a href="website_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Professional finance &amp; fintech solutions ensuring smooth coordination across payments, accounting, reporting, and risk management.</p>
-                        <h4><a href="contact-us.php">Operational &amp; Financial Optimization</a></h4>
+                        <p>Insurance company websites with plan comparison, premium calculators, claims tracking, and agent portals.</p>
+                        <h4><a href="website_development.php">Insurance Portal Development</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-diagram-project fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-search-plus fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Flexible finance &amp; fintech workflows with structured systems and optimized processes to improve speed, accuracy, and operational efficiency.</p>
-                        <h4><a href="contact-us.php">Process &amp; Workflow Enhancement</a></h4>
+                        <p>Financial services SEO to rank for loan, insurance, and investment keywords that drive high-quality organic leads.</p>
+                        <h4><a href="digital_marketing.php">Financial Services SEO</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-microchip fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-ad fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Advanced finance &amp; fintech solutions using automation, AI, and intelligent systems to enhance decision-making and financial service delivery.</p>
-                        <h4><a href="contact-us.php">Smart Financial Innovations</a></h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-one">
-                        <i class="fas fa-expand-arrows-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
-                            <i class="fas fa-long-arrow-right"></i>
-                        </a>
-                        <p>Strategic finance &amp; fintech scaling with customer onboarding, transaction volume handling, and operational growth for increasing demand.</p>
-                        <h4><a href="contact-us.php">Scaling &amp; Capacity Expansion</a></h4>
+                        <p>Google Ads and Meta Ads for financial products with compliance-ready copy, lead forms, and conversion tracking.</p>
+                        <h4><a href="digital_marketing.php">Financial PPC &amp; Lead Generation</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-chart-pie fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="app_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Data-driven finance &amp; fintech with analytics, reporting, and tracking to optimize financial performance, risk management, and client satisfaction.</p>
-                        <h4><a href="contact-us.php">Insights &amp; Performance Monitoring</a></h4>
+                        <p>Investment and portfolio tracking apps with real-time market data, SIP calculators, and goal-based planning tools.</p>
+                        <h4><a href="app_development.php">Investment &amp; Wealth Apps</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-balance-scale fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-id-card fa-3x mb-3"></i>
+                        <a href="app_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Modern finance &amp; fintech enhancements ensuring regulatory compliance, data security, and streamlined operational standards.</p>
-                        <h4><a href="contact-us.php">Compliance &amp; Process Improvement</a></h4>
+                        <p>Digital KYC and onboarding platforms with Aadhaar verification, video KYC, document OCR, and e-signature integration.</p>
+                        <h4><a href="app_development.php">KYC &amp; Onboarding Solutions</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-pen-fancy fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Financial content marketing — educational blogs, market analysis, and trust-building thought leadership content.</p>
+                        <h4><a href="digital_marketing.php">Finance Content Marketing</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-share-alt fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Social media marketing for financial brands — market updates, customer stories, and financial literacy content.</p>
+                        <h4><a href="digital_marketing.php">Finance Social Media Marketing</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-file-invoice-dollar fa-3x mb-3"></i>
+                        <a href="website_development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Accounting and invoicing portals with automated billing, GST compliance, ledger management, and client dashboards.</p>
+                        <h4><a href="website_development.php">Accounting &amp; Billing Platforms</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-shield-alt fa-3x mb-3"></i>
+                        <a href="app_development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Fraud detection dashboards, transaction monitoring tools, and compliance reporting systems for financial institutions.</p>
+                        <h4><a href="app_development.php">Fraud Detection &amp; Compliance Tools</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-headset fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="website_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Reliable finance &amp; fintech support with ongoing updates, system improvements, and performance optimization.</p>
-                        <h4><a href="contact-us.php">Continuous Support &amp; Improvement</a></h4>
+                        <p>Customer service portals with ticket management, chatbot integration, and self-service knowledge bases for financial queries.</p>
+                        <h4><a href="website_development.php">Customer Support Portals</a></h4>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30 d-none">
-                    <div class="services-style-one">
-                        <i class="fas fa-car fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
-                            <i class="fas fa-long-arrow-right"></i>
-                        </a>
-                        <p>Vehicle management, predictive maintenance, and smart customer service.</p>
-                        <h4><a href="contact-us.php">Automotive &amp; Mobility AI</a></h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30 d-none">
-                    <div class="services-style-one">
-                        <i class="fas fa-film fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
-                            <i class="fas fa-long-arrow-right"></i>
-                        </a>
-                        <p>Content recommendations, audience insights, and workflow automation.</p>
-                        <h4><a href="contact-us.php">Entertainment &amp; Media AI</a></h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30 d-none">
-                    <div class="services-style-one">
-                        <i class="fas fa-briefcase fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
-                            <i class="fas fa-long-arrow-right"></i>
-                        </a>
-                        <p>Workflow automation, analytics, and client management solutions.</p>
-                        <h4><a href="contact-us.php">Professional Services AI</a></h4>
-                    </div>
-                </div>
-            </div>
+</div>
         </div>
     </div>
 
@@ -1110,8 +1109,8 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">SMART TECH CHOICES</h5>
-                        <h2 class="title">Behind Every Successful Business Campaign</h2>
-                        <p class="mt-30">We use modern and proven content and e-learning strategies to deliver engaging courses, effective learning, and measurable skill growth - designed to scale your business.</p>
+                        <h2 class="title">Technology Behind Our Financial Solutions</h2>
+                        <p class="mt-30">We use bank-grade security frameworks, encrypted infrastructure, and compliance-ready tools to build reliable platforms for financial institutions.</p>
                     </div>
                 </div>
             </div>
@@ -1416,12 +1415,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        What is finance &amp; fintech?
+                                        Do you build PCI-DSS compliant financial websites?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Finance &amp; fintech involves providing digital financial services, managing transactions, payments, and banking solutions through secure and efficient platforms.
+                                        Yes, we develop banking and fintech platforms with PCI-DSS compliance, data encryption, secure authentication, and audit trails to meet regulatory requirements for financial data handling.
                                     </div>
                                 </div>
                             </div>
@@ -1430,12 +1429,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        What services do you offer?
+                                        What fintech apps can you develop?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We provide digital banking solutions, payment processing, financial management, risk management, and end-to-end finance &amp; fintech services.
+                                        We develop mobile banking apps, payment wallets, investment platforms, insurance portals, loan management systems, KYC solutions, and accounting tools for banks, NBFCs, and fintech startups.
                                     </div>
                                 </div>
                             </div>
@@ -1444,12 +1443,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        How do you ensure operational efficiency?
+                                        How can digital marketing help financial services companies?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We use optimized workflows, automation tools, and secure platforms to improve transactions, reporting, and financial operations.
+                                        We drive high-quality leads through financial SEO, Google Ads for loan and insurance products, LinkedIn B2B campaigns, content marketing for financial education, and social media trust-building strategies.
                                     </div>
                                 </div>
                             </div>
@@ -1458,12 +1457,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Can you handle large-scale operations?
+                                        How long does it take to build a banking app?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we manage high-volume financial operations with scalable systems while maintaining security, efficiency, and compliance.
+                                        A standard mobile banking app takes 12-16 weeks. Payment wallets and simpler fintech apps can be built in 8-12 weeks. Complex platforms with trading or multi-bank integration may take 16-20 weeks.
                                     </div>
                                 </div>
                             </div>
@@ -1472,12 +1471,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you offer customized solutions?
+                                        Do you serve fintech startups?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Absolutely, we deliver finance &amp; fintech solutions tailored to your business model, financial products, and operational requirements.
+                                        Yes, we work with fintech startups on MVP development, scalable platform architecture, UPI and payment gateway integration, and growth marketing to acquire customers.
                                     </div>
                                 </div>
                             </div>
@@ -1618,11 +1617,11 @@
                             <ul>
                                 <li><a href="">Software & Tech</a></li>
                                 <li><a href="">Financial Services</a></li>
-                                <li><a href="">Manufacturing</a></li>
-                                <li><a href="">Healthcare</a></li>
-                                <li><a href="">Government</a></li>
-                                <li><a href="">Restaurants & Hospitality</a></li>
-                                <li><a href="">Education</a></li>
+                                <li><a href="industries/manufacturing.php">Manufacturing</a></li>
+                                <li><a href="industries/healthcare.php">Healthcare</a></li>
+                                <li><a href="industries/professional_services.php">Professional Services</a></li>
+                                <li><a href="industries/startups.php">Startups</a></li>
+                                <li><a href="industries/education.php">Education</a></li>
                                 <li><a href="">Retail</a></li>
                             </ul>
                         </div>

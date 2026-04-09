@@ -667,9 +667,9 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 Custom <span style="color: var(--color-primary);">Business Website Development</span> for Growing Businesses
-                            </h2>
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
                                 Partner with expert website developers for startups and businesses. We deliver result driven business website development including responsive design SEO ready structure.
                             </p>

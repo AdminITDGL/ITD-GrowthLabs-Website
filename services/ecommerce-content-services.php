@@ -103,9 +103,9 @@
                     <div class="row align-center">
                         <div class="col-xl-6 col-lg-6 pr-50 pr-md-15 pr-xs-15 mt--80 mt-md-0 mt-xs-0">
                             <div class="information">
-                                <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                                <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                     eCommerce Content Writing Services <br> for <strong>Online Stores</strong>
-                                </h2>
+                                </h1>
                                 <p class="wow fadeInUp" data-wow-delay="900ms" data-wow-duration="400ms">
                                     Elevate your eCommerce business with expertly crafted <strong>eCommerce content writing</strong> that enhances SEO, drives conversions, and engages your target audience. Tailored content strategies for online stores to increase traffic and sales.
                                 </p>

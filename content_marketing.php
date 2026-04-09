@@ -634,9 +634,9 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 Custom <span style="color: var(--color-primary);">Content &amp; eLearning</span> Solutions for Growing Businesses
-                            </h2>
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
                                 Partner with ITD GrowthLabs for content and e-learning services that deliver engaging courses, interactive learning, and measurable learner growth. Our approach ensures optimized content, seamless user experience, and effective knowledge transfer.
                             </p>
@@ -1730,8 +1730,7 @@
     <script src="assets/js/TweenMax.min.js"></script>
     <script src="assets/js/validnavs.js"></script>
     <script src="assets/js/main.js"></script>
-    <link href='contact-us.php' rel="stylesheet">
-    <script src='contact-us.php' type="text/javascript" async></script>
+        <script src='contact-us.php' type="text/javascript" async></script>
     <script type="text/javascript">
         window.onload = function() {
             Calendly.initBadgeWidget({

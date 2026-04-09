@@ -23,7 +23,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="ITD GrowthLabs is a leading digital marketing company in Australia offering SEO, PPC, social media & lead generation services across major cities.">
+    <meta name="description" content="ITD GrowthLabs is a leading digital marketing company in the UK offering SEO, PPC, social media & lead generation services across major cities.">
     <title>Top Digital Marketing Services Company in Australia | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
@@ -775,9 +775,9 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 Top Digital Marketing Services Company in Australia
-                            </h2>
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
                                 We help Australian businesses generate leads, increase online visibility, and grow revenue through data-driven digital marketing strategies.
                             </p>

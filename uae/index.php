@@ -710,9 +710,9 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 Digital Solutions in UAE – <span style="color: var(--color-primary);">Web Design, App Development &amp; Digital Marketing Services</span>
-                            </h2>
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
                                 Grow your UAE business with high-performance websites, custom web apps, Android & iOS apps, and SEO-optimized content crafted by experts.
                             </p>

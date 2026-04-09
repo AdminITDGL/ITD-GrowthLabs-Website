@@ -652,13 +652,13 @@
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
                             <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
-                                <span style="color: var(--color-primary);">E-Commerce &amp; D2C</span> Services for Efficient Growth &amp; Smarter Sales
+                                <span style="color: var(--color-primary);">E-Commerce &amp; D2C</span> Website, App &amp; Digital Marketing Solutions
                             </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
-                                Improve efficiency with e-commerce &amp; D2C and e-commerce &amp; D2C services. We deliver scalable solutions for online store management, operations, order fulfillment, and sales process optimization.
+                                Build high-converting online stores, marketplace apps, and performance marketing campaigns that drive sales. ITD GrowthLabs helps e-commerce brands and D2C companies grow revenue with custom website development, mobile apps, SEO, and paid advertising across India, USA, UK, UAE &amp; Australia.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Boost Sales</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Get a Free E-Commerce Consultation</a>
                             </div>
                         </div>
                     </div>
@@ -836,58 +836,58 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">WHY CHOOSE ITD GROWTHLABS</h5>
-                        <h2 class="title">Premier E-Commerce &amp; D2C Solutions Company in India</h2>
+                        <h5 class="sub-title">WHY CHOOSE ITD GROWTHLABS FOR E-COMMERCE</h5>
+                        <h2 class="title">Trusted E-Commerce &amp; D2C Solutions Partner in India</h2>
                         <p class="mt-30">
-                            ITD GrowthLabs delivers scalable e-commerce &amp; D2C solutions that boost online sales, streamline operations, and drive measurable business growth.
+                            ITD GrowthLabs delivers high-performing online stores, marketplace apps, and digital marketing strategies that help e-commerce brands increase conversions and reduce cart abandonment.
                         </p>
                     </div>
                 </div>
             </div>
             <div class="row" style="display: flex; flex-wrap: wrap;">
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-cogs"></i>
+                            <i class="fas fa-shopping-cart"></i>
                         </div>
-                        <h4>Enhanced Customer Shopping Experience</h4>
-                        <p>Optimize e-commerce &amp; D2C platforms with intuitive navigation, smooth checkout, and seamless order processing to improve satisfaction and conversions.</p>
+                        <h4>Online Store Development</h4>
+                        <p>Custom e-commerce websites on Shopify, WooCommerce, Magento, and headless platforms with secure checkout, product catalogs, and inventory management.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-robot"></i>
+                            <i class="fas fa-mobile-alt"></i>
                         </div>
-                        <h4>End-to-End Store Management</h4>
-                        <p>Manage e-commerce &amp; D2C operations across product listings, inventory, orders, and customer support for reliable performance.</p>
+                        <h4>E-Commerce Mobile Apps</h4>
+                        <p>Native and cross-platform mobile shopping apps with push notifications, wishlists, order tracking, and one-tap payments.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-brain"></i>
+                            <i class="fas fa-search"></i>
                         </div>
-                        <h4>Tailored Sales &amp; Marketing Strategies</h4>
-                        <p>Deliver e-commerce &amp; D2C solutions with customized marketing campaigns, pricing strategies, and promotional plans for maximum ROI.</p>
+                        <h4>E-Commerce SEO &amp; Content</h4>
+                        <p>Rank for product keywords, category pages, and buying-intent searches to drive organic traffic and reduce dependency on paid ads.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-bolt"></i>
+                            <i class="fas fa-bullhorn"></i>
                         </div>
-                        <h4>Scalable Online Platforms</h4>
-                        <p>Expand e-commerce &amp; D2C stores with scalable infrastructure, multi-channel integration, and streamlined processes for growing demand.</p>
+                        <h4>Google &amp; Meta Ads for E-Commerce</h4>
+                        <p>Performance marketing campaigns with ROAS tracking, dynamic product ads, remarketing, and conversion-optimized landing pages.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-plug"></i>
+                            <i class="fas fa-share-alt"></i>
                         </div>
-                        <h4>Technology &amp; Automation Integration</h4>
-                        <p>Integrate e-commerce &amp; D2C with advanced tools, automation, analytics, and smart systems to enhance operational efficiency.</p>
+                        <h4>Social Commerce &amp; Influencer Marketing</h4>
+                        <p>Sell directly on Instagram, Facebook Shops, and leverage influencer partnerships to expand your customer base.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -895,12 +895,11 @@
                         <div class="icon-wrapper">
                             <i class="fas fa-chart-line"></i>
                         </div>
-                        <h4>Analytics &amp; Performance Insights</h4>
-                        <p>Track e-commerce &amp; D2C metrics with dashboards, reports, and insights to optimize sales, conversions, and customer retention.</p>
+                        <h4>Analytics &amp; Conversion Optimization</h4>
+                        <p>Track sales funnels, cart abandonment, and customer behavior to continuously improve conversion rates and average order value.</p>
                     </div>
                 </div>
-            </div>
-        </div>
+</div>
     </div>
     <div class="default-padding bg-white">
         <div class="container">
@@ -970,105 +969,135 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">OUR WEB DEVELOPMENT SERVICES</h5>
-                        <h2 class="title">Behind Every Successful E-Commerce &amp; D2C Transformation</h2>
+                        <h5 class="sub-title">OUR E-COMMERCE DIGITAL SERVICES</h5>
+                        <h2 class="title">Complete E-Commerce Website, App &amp; Marketing Solutions</h2>
                     </div>
                 </div>
             </div>
         </div>
         <div class="container">
             <div class="row" style="display: flex; flex-wrap: wrap;">
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-store fa-3x mb-3"></i>
+                        <a href="website_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Strategic e-commerce &amp; D2C services focused on store planning, sales workflow structuring, and process optimization to improve efficiency and revenue outcomes</p>
-                        <h4><a href="contact-us.php">E-Commerce &amp; D2C Planning &amp; Strategy</a></h4>
+                        <p>Custom online store development with product management, secure checkout, payment gateway integration, and mobile-responsive design.</p>
+                        <h4><a href="website_development.php">Shopify &amp; WooCommerce Development</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-plug fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-mobile-alt fa-3x mb-3"></i>
+                        <a href="app_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Scalable e-commerce &amp; D2C services with online store setup, platform integration, and inventory management for seamless operations</p>
-                        <h4><a href="contact-us.php">Platform Setup &amp; Integration</a></h4>
+                        <p>Mobile shopping apps with barcode scanning, AR product preview, loyalty programs, and seamless checkout experiences.</p>
+                        <h4><a href="app_development.php">E-Commerce App Development</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-server fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-boxes fa-3x mb-3"></i>
+                        <a href="website_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Professional e-commerce &amp; D2C solutions ensuring smooth coordination across product listings, order management, inventory, and customer service</p>
-                        <h4><a href="contact-us.php">Product &amp; Operational Optimization</a></h4>
+                        <p>Multi-vendor marketplace platforms with seller dashboards, commission management, and automated order routing.</p>
+                        <h4><a href="website_development.php">Marketplace Platform Development</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-tasks fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-search-plus fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Flexible e-commerce &amp; D2C workflows with structured systems and optimized processes to improve speed, accuracy, and operational efficiency</p>
-                        <h4><a href="contact-us.php">Process &amp; Workflow Enhancement</a></h4>
+                        <p>Product page SEO, category optimization, and content marketing to drive organic sales without ad spend.</p>
+                        <h4><a href="digital_marketing.php">E-Commerce SEO Services</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-brain fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-ad fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Advanced e-commerce &amp; D2C solutions using automation, digital tools, and intelligent systems to enhance shopping experiences and decision-making</p>
-                        <h4><a href="contact-us.php">Smart Sales Innovations</a></h4>
+                        <p>Google Shopping, Meta product ads, and retargeting campaigns to recover abandoned carts and drive repeat purchases.</p>
+                        <h4><a href="digital_marketing.php">E-Commerce PPC &amp; Paid Ads</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-expand-arrows-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-envelope-open-text fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Strategic e-commerce &amp; D2C scaling with product portfolio expansion, order handling, and operational growth for increasing market demands</p>
-                        <h4><a href="contact-us.php">Scaling &amp; Capacity Expansion</a></h4>
+                        <p>Email automation for cart recovery, product launches, customer retention, and personalized product recommendations.</p>
+                        <h4><a href="digital_marketing.php">Email Marketing &amp; Automation</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-chart-line fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-credit-card fa-3x mb-3"></i>
+                        <a href="website_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Data-driven e-commerce &amp; D2C with analytics, reporting, and tracking to improve sales, conversions, and customer engagement</p>
-                        <h4><a href="contact-us.php">Insights &amp; Performance Monitoring</a></h4>
+                        <p>Payment gateway integration with Razorpay, Stripe, PayPal, and COD — plus shipping API connections for automated order fulfillment.</p>
+                        <h4><a href="website_development.php">Payment &amp; Shipping Integration</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-shield-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-chart-bar fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Modern e-commerce &amp; D2C enhancements ensuring payment security, regulatory compliance, and streamlined operational standards</p>
-                        <h4><a href="contact-us.php">Compliance &amp; Process Improvement</a></h4>
+                        <p>Conversion rate optimization, A/B testing, heatmap analysis, and funnel optimization to maximize revenue per visitor.</p>
+                        <h4><a href="digital_marketing.php">CRO &amp; Analytics</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-hashtag fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Social media marketing for e-commerce brands — product showcases, UGC campaigns, and influencer collaborations on Instagram and Facebook.</p>
+                        <h4><a href="digital_marketing.php">Social Media for E-Commerce</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-headset fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="website_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Reliable e-commerce &amp; D2C support with ongoing updates, system improvements, and performance optimization</p>
-                        <h4><a href="contact-us.php">Continuous Support &amp; Improvement</a></h4>
+                        <p>Customer support portals, live chat integration, return management systems, and loyalty program platforms.</p>
+                        <h4><a href="website_development.php">Customer Experience Platforms</a></h4>
                     </div>
                 </div>
-            </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-globe fa-3x mb-3"></i>
+                        <a href="website_development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Multi-currency, multi-language e-commerce stores for cross-border selling with localized checkout and tax compliance.</p>
+                        <h4><a href="website_development.php">International E-Commerce</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-sync-alt fa-3x mb-3"></i>
+                        <a href="app_development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>ERP, CRM, and inventory management system integrations for seamless operations across online and offline channels.</p>
+                        <h4><a href="app_development.php">E-Commerce Integrations</a></h4>
+                    </div>
+                </div>
+</div>
         </div>
     </div>
 
@@ -1080,8 +1109,8 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">SMART TECH CHOICES</h5>
-                        <h2 class="title">Behind Every Successful Business Campaign</h2>
-                        <p class="mt-30">We use modern and proven content and e-learning strategies to deliver engaging courses, effective learning, and measurable skill growth - designed to scale your business.</p>
+                        <h2 class="title">Technology Behind Our E-Commerce Solutions</h2>
+                        <p class="mt-30">We use industry-leading e-commerce platforms, payment gateways, and marketing tools to build reliable online stores and apps.</p>
                     </div>
                 </div>
             </div>
@@ -1355,8 +1384,8 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center text-light mt-0">
-                        <h2 class="title text-white mb-30">Ready to Build Your Website?</h2>
-                        <p class="text-white">Work with a trusted business website development company for strong online presence and digital growth.</p>
+                        <h2 class="title text-white mb-30">Ready to Grow Your E-Commerce Business?</h2>
+                        <p class="text-white">From online stores and shopping apps to performance marketing campaigns — get a free consultation with our e-commerce experts.</p>
                         <div class="button mt-40">
                             <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Let's Talk</a>
                         </div>
@@ -1386,12 +1415,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        What is e-commerce &amp; D2C?
+                                        Which e-commerce platform is best for my business?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        E-commerce &amp; D2C involves selling products directly to customers online through digital platforms and structured sales processes.
+                                        It depends on your scale and needs. Shopify is great for quick launches, WooCommerce for WordPress-based stores, and Magento for large catalogs. We help you choose the right platform based on your products, budget, and growth plans.
                                     </div>
                                 </div>
                             </div>
@@ -1400,12 +1429,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        What services do you offer?
+                                        How long does it take to build an online store?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We provide online store setup, product management, order fulfillment, digital marketing, and end-to-end e-commerce &amp; D2C solutions.
+                                        A standard e-commerce website with 50-200 products takes 4-8 weeks. Custom marketplace platforms with multiple vendors may take 10-14 weeks depending on features like payment splits and seller dashboards.
                                     </div>
                                 </div>
                             </div>
@@ -1414,12 +1443,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        How do you ensure operational efficiency?
+                                        Can you help increase my online store's conversion rate?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We use optimized workflows, automation tools, and streamlined platforms to improve sales, inventory management, and order processing.
+                                        Yes, we specialize in CRO — from checkout flow optimization and A/B testing to cart recovery emails and retargeting ads. Our clients typically see 25-40% improvement in conversion rates within 3 months.
                                     </div>
                                 </div>
                             </div>
@@ -1428,12 +1457,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Can you handle large-scale operations?
+                                        Do you offer digital marketing for e-commerce brands?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we manage high-volume e-commerce &amp; D2C operations with scalable systems while maintaining efficiency and timely deliveries.
+                                        Yes, we provide full-funnel e-commerce marketing including Google Shopping ads, Meta product ads, SEO for product pages, email automation, influencer marketing, and social commerce strategies.
                                     </div>
                                 </div>
                             </div>
@@ -1442,12 +1471,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you offer customized solutions?
+                                        Can you integrate my store with ERP and inventory systems?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Absolutely, we deliver e-commerce &amp; D2C solutions tailored to your business model, product range, and customer engagement strategy.
+                                        Yes, we integrate e-commerce stores with ERP systems (SAP, Zoho), inventory management tools, shipping APIs (Shiprocket, Delhivery), and CRM platforms for seamless operations.
                                     </div>
                                 </div>
                             </div>
@@ -1588,11 +1617,11 @@
                             <ul>
                                 <li><a href="">Software & Tech</a></li>
                                 <li><a href="">Financial Services</a></li>
-                                <li><a href="">Manufacturing</a></li>
-                                <li><a href="">Healthcare</a></li>
-                                <li><a href="">Government</a></li>
-                                <li><a href="">Restaurants & Hospitality</a></li>
-                                <li><a href="">Education</a></li>
+                                <li><a href="industries/manufacturing.php">Manufacturing</a></li>
+                                <li><a href="industries/healthcare.php">Healthcare</a></li>
+                                <li><a href="industries/professional_services.php">Professional Services</a></li>
+                                <li><a href="industries/startups.php">Startups</a></li>
+                                <li><a href="industries/education.php">Education</a></li>
                                 <li><a href="">Retail</a></li>
                             </ul>
                         </div>

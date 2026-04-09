@@ -652,13 +652,13 @@
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
                             <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
-                                Logistics &amp; Supply Chain Services for Efficient Business Growth
+                                <span style="color: var(--color-primary);">Logistics &amp; Supply Chain</span> Website, App &amp; Digital Marketing Solutions
                             </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
-                                Improve efficiency with logistics &amp; supply chain and supply chain services. We deliver scalable logistics &amp; supply chain solutions for transportation, warehousing, distribution, and inventory management.
+                                Build fleet management dashboards, shipment tracking apps, and B2B marketing campaigns that drive business inquiries. ITD GrowthLabs helps logistics companies, freight forwarders, and supply chain businesses grow their digital presence and generate leads.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Streamline Now</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Get a Free Logistics Consultation</a>
                             </div>
                         </div>
                     </div>
@@ -836,58 +836,58 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">WHY CHOOSE ITD GrowthLabs</h5>
-                        <h2 class="title">Premier Logistics &amp; Supply Chain Company in India</h2>
+                        <h5 class="sub-title">WHY CHOOSE ITD GROWTHLABS FOR LOGISTICS</h5>
+                        <h2 class="title">Trusted Logistics &amp; Supply Chain Solutions Partner in India</h2>
                         <p class="mt-30">
-                            ITD GrowthLabs delivers scalable logistics &amp; supply chain solutions that boost efficiency, optimize operations, and drive measurable growth.
+                            ITD GrowthLabs delivers operational dashboards, tracking apps, and B2B marketing strategies that help logistics companies improve efficiency, reduce costs, and generate qualified business leads.
                         </p>
                     </div>
                 </div>
             </div>
             <div class="row" style="display: flex; flex-wrap: wrap;">
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-cogs"></i>
+                            <i class="fas fa-truck"></i>
                         </div>
-                        <h4>Efficient Logistics Operations</h4>
-                        <p>Streamline logistics &amp; supply chain with optimized transportation, route planning, and process management that enhance efficiency and performance</p>
+                        <h4>Logistics Company Websites</h4>
+                        <p>Professional logistics websites with service listings, rate calculators, shipment tracking, and lead capture forms for freight and warehousing companies.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-robot"></i>
+                            <i class="fas fa-route"></i>
                         </div>
-                        <h4>End-to-End Supply Chain Support</h4>
-                        <p>Enable logistics &amp; supply chain across procurement, warehousing, distribution, and delivery, ensuring consistent and reliable supply chain services</p>
+                        <h4>Shipment Tracking Apps</h4>
+                        <p>Real-time tracking apps for shipments, fleet vehicles, and warehouse inventory with GPS integration and delivery notifications.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-brain"></i>
+                            <i class="fas fa-search"></i>
                         </div>
-                        <h4>Customized Supply Chain Strategies</h4>
-                        <p>Deliver logistics &amp; supply chain with tailored workflows, network design, and planning strategies to enhance operational performance</p>
+                        <h4>Logistics SEO &amp; B2B Search</h4>
+                        <p>Rank for logistics keywords like 'freight forwarding company', 'warehouse services near me', and supply chain solution queries.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-bolt"></i>
+                            <i class="fas fa-bullhorn"></i>
                         </div>
-                        <h4>Scalable Logistics Processes</h4>
-                        <p>Execute logistics &amp; supply chain with scalable operations, bulk handling capabilities, and structured processes for efficient supply chain management</p>
+                        <h4>Google &amp; LinkedIn Ads for Logistics</h4>
+                        <p>Targeted B2B campaigns reaching procurement managers, supply chain heads, and logistics decision-makers in target industries.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-plug"></i>
+                            <i class="fas fa-warehouse"></i>
                         </div>
-                        <h4>Technology &amp; System Integration</h4>
-                        <p>Integrate logistics &amp; supply chain with advanced tools, tracking systems, and platforms to streamline workflows and improve efficiency</p>
+                        <h4>Warehouse Management Systems</h4>
+                        <p>Custom WMS platforms with inventory tracking, order picking optimization, barcode scanning, and multi-warehouse management.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -895,12 +895,11 @@
                         <div class="icon-wrapper">
                             <i class="fas fa-chart-line"></i>
                         </div>
-                        <h4>Analytics &amp; Performance Insights</h4>
-                        <p>Track logistics &amp; supply chain performance with real-time monitoring, reports, and insights to optimize operations and improve results</p>
+                        <h4>Operations &amp; Lead Analytics</h4>
+                        <p>Track fleet performance, delivery metrics, and marketing campaign ROI to optimize operations and customer acquisition.</p>
                     </div>
                 </div>
-            </div>
-        </div>
+</div>
     </div>
     <div class="default-padding bg-white">
         <div class="container">
@@ -908,7 +907,7 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">OUR DEVELOPMENT PROCESS</h5>
-                        <h2 class="title">From Concept to Launch</h2>
+                        <h2 class="title">From Concept to Logistics Platform</h2>
                     </div>
                 </div>
             </div>
@@ -970,105 +969,135 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">OUR WEB DEVELOPMENT SERVICES</h5>
-                        <h2 class="title">Behind Every Successful Logistics &amp; Supply Chain Project</h2>
+                        <h5 class="sub-title">OUR LOGISTICS DIGITAL SERVICES</h5>
+                        <h2 class="title">Complete Logistics Website, App &amp; Marketing Solutions</h2>
                     </div>
                 </div>
             </div>
         </div>
         <div class="container">
             <div class="row" style="display: flex; flex-wrap: wrap;">
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-heartbeat fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-truck fa-3x mb-3"></i>
+                        <a href="website_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Strategic logistics &amp; supply chain services for businesses, focusing on planning, process optimization, and structured workflows to improve efficiency and performance</p>
-                        <h4><a href="contact-us.php">Logistics &amp; Supply Chain Strategy</a></h4>
+                        <p>Logistics company websites with service pages, shipment tracking portals, rate calculators, and B2B lead capture.</p>
+                        <h4><a href="website_development.php">Logistics Website Development</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-shopping-cart fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-map-marked-alt fa-3x mb-3"></i>
+                        <a href="app_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Scalable logistics &amp; supply chain services with network setup, system configuration, warehousing structure, and platform-ready operations</p>
-                        <h4><a href="contact-us.php">Network Setup &amp; Configuration</a></h4>
+                        <p>Real-time shipment tracking apps with GPS, delivery notifications, proof of delivery, and customer tracking links.</p>
+                        <h4><a href="app_development.php">Shipment Tracking Apps</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-warehouse fa-3x mb-3"></i>
+                        <a href="app_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Professional logistics &amp; supply chain ensuring services perform across transportation, warehousing, distribution, and inventory for consistent results</p>
-                        <h4><a href="contact-us.php">Multi-Channel Operations Optimization</a></h4>
+                        <p>Warehouse management systems with inventory tracking, barcode scanning, order picking, and multi-location management.</p>
+                        <h4><a href="app_development.php">WMS Development</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-search-plus fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Flexible logistics &amp; supply chain with optimized workflows, structured processes, and operations management to improve efficiency and accuracy</p>
-                        <h4><a href="contact-us.php">Workflow Optimization</a></h4>
+                        <p>Logistics SEO for freight, warehousing, and supply chain keywords to drive organic B2B inquiries.</p>
+                        <h4><a href="digital_marketing.php">Logistics SEO Services</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-paint-brush fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-ad fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Conversion-focused logistics &amp; supply chain designed with smart strategies, automation, and structured processes to improve operational performance</p>
-                        <h4><a href="contact-us.php">Intelligent Process Enhancements</a></h4>
+                        <p>Google Ads and LinkedIn campaigns targeting supply chain managers and procurement teams.</p>
+                        <h4><a href="digital_marketing.php">B2B Logistics PPC &amp; Ads</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-plane fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-car fa-3x mb-3"></i>
+                        <a href="app_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Advanced logistics &amp; supply chain strategies including network expansion, capacity scaling, and workflow improvements</p>
-                        <h4><a href="contact-us.php">Operations Scaling &amp; Expansion</a></h4>
+                        <p>Fleet management apps with vehicle tracking, driver management, fuel monitoring, and maintenance scheduling.</p>
+                        <h4><a href="app_development.php">Fleet Management Apps</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-shipping-fast fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-clipboard-list fa-3x mb-3"></i>
+                        <a href="app_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>High-performing logistics &amp; supply chain with analytics, reporting tools, and tracking to evaluate operational efficiency</p>
-                        <h4><a href="contact-us.php">Performance Tracking &amp; Analytics</a></h4>
+                        <p>Driver delivery apps with route optimization, digital POD, task assignment, and communication tools.</p>
+                        <h4><a href="app_development.php">Driver &amp; Delivery Apps</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-utensils fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-pen-fancy fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Modern logistics &amp; supply chain improvements for existing operations to enhance structure, visibility, and performance</p>
-                        <h4><a href="contact-us.php">Process Audit &amp; Optimization</a></h4>
+                        <p>Industry content marketing — case studies, logistics guides, and thought leadership articles for B2B authority.</p>
+                        <h4><a href="digital_marketing.php">Logistics Content Marketing</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-cloud fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-calculator fa-3x mb-3"></i>
+                        <a href="website_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Reliable logistics &amp; supply chain support with continuous updates, performance improvements, and operational enhancements</p>
-                        <h4><a href="contact-us.php">Ongoing Support &amp; Optimization</a></h4>
+                        <p>Freight rate calculator portals and instant quote generators for logistics service providers.</p>
+                        <h4><a href="website_development.php">Rate Calculator &amp; Quote Portals</a></h4>
                     </div>
                 </div>
-            </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-exchange-alt fa-3x mb-3"></i>
+                        <a href="app_development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>ERP and TMS integrations for seamless data flow between logistics operations and business management systems.</p>
+                        <h4><a href="app_development.php">ERP &amp; TMS Integrations</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-chart-bar fa-3x mb-3"></i>
+                        <a href="website_development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Operational dashboards with KPI tracking, delivery performance, fleet utilization, and cost analytics.</p>
+                        <h4><a href="website_development.php">Operations Dashboard Development</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-headset fa-3x mb-3"></i>
+                        <a href="website_development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Customer portals with shipment booking, tracking, invoice management, and communication tools.</p>
+                        <h4><a href="website_development.php">Customer Service Portals</a></h4>
+                    </div>
+                </div>
+</div>
         </div>
     </div>
 
@@ -1080,8 +1109,8 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">SMART TECH CHOICES</h5>
-                        <h2 class="title">Behind Every Successful Business Campaign</h2>
-                        <p class="mt-30">We use modern and proven content and e-learning strategies to deliver engaging courses, effective learning, and measurable skill growth - designed to scale your business.</p>
+                        <h2 class="title">Technology Behind Our Logistics Solutions</h2>
+                        <p class="mt-30">We use GPS-enabled frameworks, cloud infrastructure, and logistics-specific tools to build reliable platforms for supply chain businesses.</p>
                     </div>
                 </div>
             </div>
@@ -1385,12 +1414,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        What is logistics &amp; supply chain?
+                                        Can you build a shipment tracking portal?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Logistics &amp; supply chain involves managing the flow of goods, services, and information from origin to delivery efficiently.
+                                        Yes, we build real-time tracking portals and apps with GPS integration, delivery notifications, proof of delivery, customer tracking links, and multi-carrier support for logistics companies and freight forwarders.
                                     </div>
                                 </div>
                             </div>
@@ -1399,12 +1428,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        What services do you offer?
+                                        What logistics apps do you develop?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We provide transportation, warehousing, inventory management, distribution, and end-to-end logistics &amp; supply chain solutions.
+                                        We develop fleet management apps, warehouse management systems, driver delivery apps, shipment tracking platforms, rate calculator tools, and operations dashboards for logistics companies.
                                     </div>
                                 </div>
                             </div>
@@ -1413,12 +1442,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        How do you ensure operational efficiency?
+                                        How can digital marketing help a logistics company?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We use optimized routes, advanced tracking systems, and streamlined processes to improve logistics &amp; supply chain performance.
+                                        B2B logistics marketing includes SEO for freight and warehousing keywords, Google Ads targeting procurement teams, LinkedIn campaigns for supply chain decision-makers, and content marketing with case studies and industry guides.
                                     </div>
                                 </div>
                             </div>
@@ -1427,12 +1456,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Can you handle large-scale operations?
+                                        How long does it take to build a logistics platform?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we manage high-volume logistics &amp; supply chain operations with scalable systems while maintaining efficiency and timelines.
+                                        A standard logistics website takes 4-6 weeks. Shipment tracking apps take 8-12 weeks. Complex WMS or fleet management platforms may take 12-16 weeks depending on integrations.
                                     </div>
                                 </div>
                             </div>
@@ -1441,12 +1470,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you offer customized solutions?
+                                        Do you integrate with existing ERP and TMS systems?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Absolutely, we deliver logistics &amp; supply chain solutions tailored to your business needs, industry, and operational requirements.
+                                        Yes, we integrate logistics platforms with popular ERP systems (SAP, Oracle, Zoho), TMS platforms, shipping APIs, and payment gateways for seamless data flow and operations.
                                     </div>
                                 </div>
                             </div>
@@ -1587,11 +1616,11 @@
                             <ul>
                                 <li><a href="">Software & Tech</a></li>
                                 <li><a href="">Financial Services</a></li>
-                                <li><a href="">Manufacturing</a></li>
-                                <li><a href="">Healthcare</a></li>
-                                <li><a href="">Government</a></li>
-                                <li><a href="">Restaurants & Hospitality</a></li>
-                                <li><a href="">Education</a></li>
+                                <li><a href="industries/manufacturing.php">Manufacturing</a></li>
+                                <li><a href="industries/healthcare.php">Healthcare</a></li>
+                                <li><a href="industries/professional_services.php">Professional Services</a></li>
+                                <li><a href="industries/startups.php">Startups</a></li>
+                                <li><a href="industries/education.php">Education</a></li>
                                 <li><a href="">Retail</a></li>
                             </ul>
                         </div>

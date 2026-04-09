@@ -24,7 +24,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="ITD GrowthLabs is a leading web application development company in Australia delivering secure, scalable custom web apps for startups & enterprises.">
+    <meta name="description" content="ITD GrowthLabs is a leading web application development company in the UK delivering secure, scalable custom web apps for startups & enterprises.">
     <meta name="keywords" content="Web application development company in Australia, Web application development services in Australia, Custom web app development Australia, Web app developers in Australia, Web application development company in Sydney, Web app development company in Melbourne, Enterprise web application development Australia">
     <title>Top Web Application Development Company in Australia | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
@@ -777,9 +777,9 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 Top Web Application Development Company in Australia
-                            </h2>
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
                                 We design and develop secure, scalable, and high-performance web applications that help Australian businesses automate operations and scale faster.
                             </p>

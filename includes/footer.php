@@ -108,14 +108,16 @@
                     <div class="f-item link">
                         <h4 class="widget-title">Industries We Serve</h4>
                         <ul>
-                            <li><a href="industries/information_tech.php">Software & Tech</a></li>
-                            <li><a href="industries/finance.php">Financial Services</a></li>
+                            <li><a href="industries/information_tech.php">IT &amp; Technology</a></li>
+                            <li><a href="industries/finance.php">Finance &amp; FinTech</a></li>
                             <li><a href="industries/manufacturing.php">Manufacturing</a></li>
                             <li><a href="industries/healthcare.php">Healthcare</a></li>
-                            <li><a href="industries/professional_services.php">Government</a></li>
-                            <li><a href="industries/professional_services.php">Restaurants & Hospitality</a></li>
-                            <li><a href="industries/education.php">Education</a></li>
-                            <li><a href="industries/ecommerce.php">Retail</a></li>
+                            <li><a href="industries/ecommerce.php">E-Commerce &amp; D2C</a></li>
+                            <li><a href="industries/education.php">Education &amp; E-Learning</a></li>
+                            <li><a href="industries/realestate.php">Real Estate</a></li>
+                            <li><a href="industries/logistics.php">Logistics &amp; Supply Chain</a></li>
+                            <li><a href="industries/professional_services.php">Professional Services</a></li>
+                            <li><a href="industries/startups.php">Startups</a></li>
                         </ul>
                     </div>
                 </div>
@@ -240,6 +242,8 @@
                         <h4 class="widget-title">Resources</h4>
                         <ul>
                             <li><a href="./resources/all-blogs.php">Blogs</a></li>
+                            <li><a href="about.php">About Us</a></li>
+                            <li><a href="contact-us.php">Contact Us</a></li>
                             <li><a href="privacy_policy.php">Privacy Policy</a></li>
                         </ul>
                     </div>
@@ -252,20 +256,16 @@
                         <ul>
                             <li>505, Town Centre 1, opposite Times Square, Mittal Industrial Estate, Marol, Andheri, Mumbai, Maharashtra 400059</li>
                         </ul>
+                        <div class="mt-3">
+                            <a href="https://www.linkedin.com/company/itd-growthlabs/" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-linkedin"></i></a>
+                            <a href="https://www.instagram.com/itdgrowthlabs/" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-instagram"></i></a>
+                            <a href="https://www.facebook.com/itdgrowthlabs/" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-facebook"></i></a>
+                            <a href="https://twitter.com/itdgrowthlabs" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-twitter"></i></a>
+                            <a href="https://www.youtube.com/@itdgrowthlabs" target="_blank" style="color:#dedede; font-size: 18px;"><i class="fab fa-youtube"></i></a>
+                        </div>
                     </div>
                 </div>
 
-                
-                <!-- Contact Information -->
-                <!-- <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                    <div class="f-item contact">
-                        <h4 class="widget-title">Contact Us</h4>
-                        <ul>
-                            <li>Gundecha Onclave, Mumbai, 400072</li>
-                            <li><a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a></li>
-                        </ul>
-                    </div>
-                </div> -->
             </div>
         </div>
     </div>
@@ -282,15 +282,3 @@
     </div>
     <!-- End Footer Bottom -->
 </footer>
-<link href='contact-us.php' rel="stylesheet">
-<!-- <script src='contact-us.php' type="text/javascript" async></script> -->
-<!-- <script type="text/javascript">
-    window.onload = function() {
-        Calendly.initBadgeWidget({
-            url: contact-us.php,
-            text: 'Schedule time with me',
-            color: '#0069ff',
-            textColor: '#ffffff'
-        });
-    }
-</script>Calendly badge widget end -->

@@ -24,7 +24,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="ITD GrowthLabs is a leading mobile app development company in Australia offering Android & iOS app development services in Sydney, Melbourne, Brisbane & Perth.">
+    <meta name="description" content="ITD GrowthLabs is a leading mobile app development company in the UK offering Android & iOS app development services in London, Manchester, Birmingham & Leeds.">
     <meta name="keywords" content="Mobile app development company in Australia, Mobile app development services in Australia, Android app development company in Australia, iOS app development company in Australia, App developers in Australia, Mobile app developers in Sydney, Mobile app development company in Melbourne, Custom mobile app development Australia">
     <title>Top Mobile App Development Company in Australia | Android & iOS Apps</title>
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
@@ -777,9 +777,9 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 Top Mobile App Development Company in Australia
-                            </h2>
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
                                 We design and develop high-performance Android and iOS mobile applications that help Australian businesses scale, automate, and engage users effectively.
                             </p>

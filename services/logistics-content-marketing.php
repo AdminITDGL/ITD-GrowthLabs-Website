@@ -102,9 +102,9 @@
                     <div class="row align-center">
                         <div class="col-xl-6 col-lg-6 pr-50 pr-md-15 pr-xs-15 mt--80 mt-md-0 mt-xs-0">
                             <div class="information">
-                                <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                                <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                     Content Marketing <br> for <strong>Logistics & Transportation</strong>
-                                </h2>
+                                </h1>
                                 <p class="wow fadeInUp" data-wow-delay="900ms" data-wow-duration="400ms">
                                     Enhance your logistics and transportation business with tailored <strong>content marketing services</strong>.
                                     Drive organic traffic, establish authority, and engage your target audience with impactful content strategies.

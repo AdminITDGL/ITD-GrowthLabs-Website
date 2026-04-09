@@ -647,14 +647,14 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
-                                Custom <span style="color: var(--color-primary);">AI & Intelligent Automation</span> Solutions for Growing Businesses
-                            </h2>
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                                <span style="color: var(--color-primary);">Manufacturing</span> Website, App &amp; Digital Marketing Solutions
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
-                                Partner with ITD GrowthLabs for AI and automation services that deliver smart workflows, process optimization, and measurable business impact. Our approach ensures intelligent systems, seamless integration, and scalable automation.
+                                Build professional manufacturing websites, inventory management apps, and B2B lead generation campaigns that drive dealer inquiries. ITD GrowthLabs helps manufacturers, OEMs, and industrial companies grow their digital presence across India, USA, UK, UAE &amp; Australia.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Let’s Automate Your Business</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Get a Free Manufacturing Consultation</a>
                             </div>
                         </div>
                     </div>
@@ -832,58 +832,58 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">WHY CHOOSE ITD GrowthLabs</h5>
-                        <h2 class="title">Trusted AI & Intelligent Automation Company in India</h2>
+                        <h5 class="sub-title">WHY CHOOSE ITD GROWTHLABS FOR MANUFACTURING</h5>
+                        <h2 class="title">Trusted Manufacturing Digital Solutions Partner in India</h2>
                         <p class="mt-30">
-                            ITD GrowthLabs delivers smart AI and automation solutions for startups, SMEs, and enterprises to optimize processes and increase efficiency.
+                            ITD GrowthLabs delivers professional websites, operational apps, and B2B marketing strategies that help manufacturers generate dealer inquiries, streamline operations, and build industry authority.
                         </p>
                     </div>
                 </div>
             </div>
             <div class="row" style="display: flex; flex-wrap: wrap;">
+                                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="why-choose-card">
+                        <div class="icon-wrapper">
+                            <i class="fas fa-industry"></i>
+                        </div>
+                        <h4>Manufacturing Websites</h4>
+                        <p>Professional B2B websites with product catalogs, specification sheets, dealer locators, and RFQ forms for industrial manufacturers and OEMs.</p>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="why-choose-card">
+                        <div class="icon-wrapper">
+                            <i class="fas fa-mobile-alt"></i>
+                        </div>
+                        <h4>Inventory &amp; Supply Chain Apps</h4>
+                        <p>Custom mobile apps for inventory tracking, production monitoring, purchase orders, and supply chain visibility across multiple plants.</p>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="why-choose-card">
+                        <div class="icon-wrapper">
+                            <i class="fas fa-search"></i>
+                        </div>
+                        <h4>Industrial SEO &amp; B2B Search</h4>
+                        <p>Rank for manufacturing keywords like 'industrial equipment supplier', 'OEM manufacturer in India', and product-specific B2B search queries.</p>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="why-choose-card">
+                        <div class="icon-wrapper">
+                            <i class="fas fa-bullhorn"></i>
+                        </div>
+                        <h4>Google Ads &amp; LinkedIn for Manufacturing</h4>
+                        <p>Targeted B2B campaigns on Google and LinkedIn to reach procurement managers, plant heads, and industrial buyers.</p>
+                    </div>
+                </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
                             <i class="fas fa-cogs"></i>
                         </div>
-                        <h4>AI Workflow Development</h4>
-                        <p>AI-powered workflows to automate processes, boost efficiency, and reduce manual effort.</p>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="why-choose-card">
-                        <div class="icon-wrapper">
-                            <i class="fas fa-robot"></i>
-                        </div>
-                        <h4>Intelligent Automation Platforms</h4>
-                        <p>AI and RPA platforms with seamless integration, real-time monitoring, and scalability.</p>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="why-choose-card">
-                        <div class="icon-wrapper">
-                            <i class="fas fa-brain"></i>
-                        </div>
-                        <h4>Machine Learning Solutions</h4>
-                        <p>ML models and algorithms to analyze data, predict outcomes, and optimize decisions.</p>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="why-choose-card">
-                        <div class="icon-wrapper">
-                            <i class="fas fa-bolt"></i>
-                        </div>
-                        <h4>Process Automation & Optimization</h4>
-                        <p>AI-driven automation with predictive analytics and smart task management.</p>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="why-choose-card">
-                        <div class="icon-wrapper">
-                            <i class="fas fa-plug"></i>
-                        </div>
-                        <h4>AI & RPA Integration</h4>
-                        <p>Integration of AI and RPA with ERP, CRM, and business systems.</p>
+                        <h4>Dealer &amp; Distributor Portals</h4>
+                        <p>Custom portals for dealers and distributors with pricing, order management, inventory access, and communication tools.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -891,12 +891,11 @@
                         <div class="icon-wrapper">
                             <i class="fas fa-chart-line"></i>
                         </div>
-                        <h4>AI-Powered Analytics & Insights</h4>
-                        <p>Advanced analytics, dashboards, and reporting for data-driven strategies.</p>
+                        <h4>B2B Lead Analytics</h4>
+                        <p>Track lead quality, RFQ conversions, and campaign ROI to optimize marketing spend and identify high-value B2B opportunities.</p>
                     </div>
                 </div>
-            </div>
-        </div>
+</div>
     </div>
     <div class="default-padding bg-white">
         <div class="container">
@@ -904,7 +903,7 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">OUR DEVELOPMENT PROCESS</h5>
-                        <h2 class="title">From Concept to Launch</h2>
+                        <h2 class="title">From Concept to Industrial Digital Platform</h2>
                     </div>
                 </div>
             </div>
@@ -966,135 +965,135 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">OUR AI & INTELLIGENT AUTOMATION SERVICES</h5>
-                        <h2 class="title">Complete Custom AI & Intelligent Automation Solutions</h2>
+                        <h5 class="sub-title">OUR MANUFACTURING DIGITAL SERVICES</h5>
+                        <h2 class="title">Complete Manufacturing Website, App &amp; Marketing Solutions</h2>
                     </div>
                 </div>
             </div>
         </div>
         <div class="container">
             <div class="row" style="display: flex; flex-wrap: wrap;">
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-heartbeat fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-industry fa-3x mb-3"></i>
+                        <a href="website_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>AI for diagnostics, patient monitoring, and healthcare workflow automation.</p>
-                        <h4><a href="contact-us.php">Healthcare &amp; MedTech AI</a></h4>
+                        <p>Corporate manufacturing websites with product catalogs, technical specifications, dealer locators, and B2B lead capture forms.</p>
+                        <h4><a href="website_development.php">Manufacturing Website Development</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-shopping-cart fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-boxes fa-3x mb-3"></i>
+                        <a href="app_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Personalized recommendations, demand forecasting, and sales optimization.</p>
-                        <h4><a href="contact-us.php">E-Commerce &amp; Retail AI</a></h4>
+                        <p>Inventory management apps with barcode scanning, stock alerts, purchase order management, and multi-warehouse tracking.</p>
+                        <h4><a href="app_development.php">Inventory Management Apps</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-users-cog fa-3x mb-3"></i>
+                        <a href="website_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Fraud detection, transaction analysis, and financial predictions.</p>
-                        <h4><a href="contact-us.php">FinTech &amp; Banking AI</a></h4>
+                        <p>Dealer and distributor portals with pricing tiers, order management, document sharing, and performance dashboards.</p>
+                        <h4><a href="website_development.php">Dealer &amp; Distributor Portals</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-search-plus fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Adaptive learning, course recommendations, and personalized engagement tools.</p>
-                        <h4><a href="contact-us.php">E-Learning AI</a></h4>
+                        <p>Industrial SEO to rank for product keywords, material specifications, and B2B search queries that drive qualified inquiries.</p>
+                        <h4><a href="digital_marketing.php">Manufacturing SEO Services</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-paint-brush fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-ad fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Property valuation, lead scoring, virtual tours, and agent workflow automation.</p>
-                        <h4><a href="contact-us.php">Real Estate AI</a></h4>
+                        <p>Google Ads and LinkedIn campaigns targeting procurement managers, engineers, and decision-makers in target industries.</p>
+                        <h4><a href="digital_marketing.php">B2B PPC &amp; LinkedIn Campaigns</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-plane fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-clipboard-list fa-3x mb-3"></i>
+                        <a href="app_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Booking automation, personalization, and predictive analytics.</p>
-                        <h4><a href="contact-us.php">Travel &amp; Hospitality AI</a></h4>
+                        <p>Production planning and quality control apps with work order management, inspection checklists, and defect tracking.</p>
+                        <h4><a href="app_development.php">Production &amp; QC Apps</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-shipping-fast fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-truck fa-3x mb-3"></i>
+                        <a href="app_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Route planning, shipment tracking, inventory management, and demand forecasting.</p>
-                        <h4><a href="contact-us.php">Logistics AI</a></h4>
+                        <p>Supply chain tracking apps with vendor management, shipment monitoring, and delivery scheduling for manufacturers.</p>
+                        <h4><a href="app_development.php">Supply Chain Tracking Apps</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-utensils fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-pen-fancy fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Menu recommendations, order predictions, and operations automation.</p>
-                        <h4><a href="contact-us.php">Food &amp; Restaurant AI</a></h4>
+                        <p>Technical content marketing — case studies, whitepapers, product guides, and industry articles that build authority.</p>
+                        <h4><a href="digital_marketing.php">Manufacturing Content Marketing</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-cloud fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-file-pdf fa-3x mb-3"></i>
+                        <a href="website_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Analytics, automation, predictive insights, and user behavior tracking.</p>
-                        <h4><a href="contact-us.php">SaaS &amp; Cloud AI</a></h4>
+                        <p>Product catalog websites with downloadable datasheets, CAD files, and technical documentation for industrial products.</p>
+                        <h4><a href="website_development.php">Digital Product Catalogs</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-car fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-handshake fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Vehicle management, predictive maintenance, and smart customer service.</p>
-                        <h4><a href="contact-us.php">Automotive &amp; Mobility AI</a></h4>
+                        <p>Trade show marketing, email campaigns, and industry directory listings to generate B2B leads and partnerships.</p>
+                        <h4><a href="digital_marketing.php">Trade Show &amp; B2B Marketing</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-film fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-chart-bar fa-3x mb-3"></i>
+                        <a href="app_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Content recommendations, audience insights, and workflow automation.</p>
-                        <h4><a href="contact-us.php">Entertainment &amp; Media AI</a></h4>
+                        <p>Plant performance dashboards with production metrics, downtime tracking, and OEE reporting for manufacturing operations.</p>
+                        <h4><a href="app_development.php">Plant Performance Dashboards</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-briefcase fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-headset fa-3x mb-3"></i>
+                        <a href="website_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Workflow automation, analytics, and client management solutions.</p>
-                        <h4><a href="contact-us.php">Professional Services AI</a></h4>
+                        <p>Customer support and service portals with ticket management, warranty tracking, and spare parts ordering.</p>
+                        <h4><a href="website_development.php">After-Sales Service Portals</a></h4>
                     </div>
                 </div>
-            </div>
+</div>
         </div>
     </div>
 
@@ -1106,8 +1105,8 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">SMART TECH CHOICES</h5>
-                        <h2 class="title">Behind Every Successful Business Campaign</h2>
-                        <p class="mt-30">We use modern and proven content and e-learning strategies to deliver engaging courses, effective learning, and measurable skill growth - designed to scale your business.</p>
+                        <h2 class="title">Technology Behind Our Manufacturing Solutions</h2>
+                        <p class="mt-30">We use robust frameworks, enterprise-grade infrastructure, and industrial tools to build reliable platforms for manufacturers and OEMs.</p>
                     </div>
                 </div>
             </div>
@@ -1380,8 +1379,8 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center text-light mt-0">
-                        <h2 class="title text-white mb-30">Ready to Build Your Website?</h2>
-                        <p class="text-white">Work with a trusted business website development company for strong online presence and digital growth.</p>
+                        <h2 class="title text-white mb-30">Ready to Digitize Your Manufacturing Business?</h2>
+                        <p class="text-white">From corporate websites and inventory apps to B2B lead generation — get a free consultation with our manufacturing digital experts.</p>
                         <div class="button mt-40">
                             <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Let's Talk</a>
                         </div>
@@ -1411,12 +1410,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        How long does it take to develop a business website?
+                                        Can you build a product catalog website for manufacturers?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Typically, a business website takes 4-8 weeks depending on complexity, pages, and features. Simple websites can be delivered in 2-3 weeks.
+                                        Yes, we build B2B product catalog websites with technical specifications, downloadable datasheets, dealer locators, RFQ forms, and multi-category product navigation for industrial manufacturers.
                                     </div>
                                 </div>
                             </div>
@@ -1425,12 +1424,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        What's the average cost of business website development?
+                                        What apps do you build for manufacturing companies?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Website development costs vary based on complexity and features. Simple business websites start around ₹25,000, while custom enterprise sites can range from ₹1,00,000 to ₹5,00,000+.
+                                        We develop inventory management apps, production monitoring dashboards, quality control tools, supply chain tracking apps, dealer portals, and plant performance reporting systems.
                                     </div>
                                 </div>
                             </div>
@@ -1439,12 +1438,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Do you offer responsive website design?
+                                        How can digital marketing help a manufacturing company?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, all our business websites are built with responsive design, ensuring your site looks and performs perfectly on desktops, tablets, and mobile devices.
+                                        B2B digital marketing includes industrial SEO for product keywords, Google Ads targeting procurement managers, LinkedIn campaigns for decision-makers, content marketing with case studies, and email nurture sequences for leads.
                                     </div>
                                 </div>
                             </div>
@@ -1453,12 +1452,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Will my website be SEO-ready?
+                                        How long does it take to build a manufacturing website?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, all our business websites are built with SEO-ready structure including proper meta tags, clean URLs, fast loading, and mobile-friendly design to improve search visibility.
+                                        A standard corporate manufacturing website takes 6-8 weeks. Dealer portals and inventory management platforms may take 10-14 weeks depending on integrations and user roles.
                                     </div>
                                 </div>
                             </div>
@@ -1467,12 +1466,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you provide post-launch website support and maintenance?
+                                        Do you serve manufacturers outside India?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we offer comprehensive website maintenance and support including updates, performance monitoring, security patches, and content updates to keep your business website running smoothly.
+                                        Yes, we work with manufacturers and industrial companies across India, USA, UK, UAE, and Australia. Our solutions support multi-region operations, multiple currencies, and localized content.
                                     </div>
                                 </div>
                             </div>
@@ -1613,11 +1612,11 @@
                             <ul>
                                 <li><a href="">Software & Tech</a></li>
                                 <li><a href="">Financial Services</a></li>
-                                <li><a href="">Manufacturing</a></li>
-                                <li><a href="">Healthcare</a></li>
-                                <li><a href="">Government</a></li>
-                                <li><a href="">Restaurants & Hospitality</a></li>
-                                <li><a href="">Education</a></li>
+                                <li><a href="industries/manufacturing.php">Manufacturing</a></li>
+                                <li><a href="industries/healthcare.php">Healthcare</a></li>
+                                <li><a href="industries/professional_services.php">Professional Services</a></li>
+                                <li><a href="industries/startups.php">Startups</a></li>
+                                <li><a href="industries/education.php">Education</a></li>
                                 <li><a href="">Retail</a></li>
                             </ul>
                         </div>

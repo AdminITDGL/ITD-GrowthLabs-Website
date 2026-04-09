@@ -645,9 +645,9 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 Meta Ads <span style="color: var(--color-primary);">Management Services</span> for Businesses
-                            </h2>
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
                                 Maximize your social media reach with professional Meta Ads Management. Our strategies deliver targeted engagement, optimized ad creatives, and data-driven campaigns to increase conversions and grow your business online.
                             </p>

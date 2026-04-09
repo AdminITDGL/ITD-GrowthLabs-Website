@@ -652,13 +652,13 @@
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
                             <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
-                                Startup Solutions for Maximum Growth &amp; Success
+                                <span style="color: var(--color-primary);">Startup</span> Website, App &amp; Digital Marketing Solutions
                             </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
-                                Accelerate your startup's growth with tailored solutions. We deliver scalable services for business strategy, operations support, funding support, and process optimization to drive measurable results.
+                                Launch your MVP faster, build a strong online presence, and acquire your first customers. ITD GrowthLabs helps startups and early-stage companies with affordable website development, mobile apps, branding, and growth marketing campaigns.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Fuel Your Growth</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Get a Free Startup Consultation</a>
                             </div>
                         </div>
                     </div>
@@ -836,58 +836,58 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">WHY CHOOSE ITD GROWTHLABS</h5>
-                        <h2 class="title">Premier Startup Solutions Company in India</h2>
+                        <h5 class="sub-title">WHY CHOOSE ITD GROWTHLABS FOR STARTUPS</h5>
+                        <h2 class="title">Trusted Startup Technology &amp; Growth Partner in India</h2>
                         <p class="mt-30">
-                            ITD GrowthLabs delivers scalable startup solutions that accelerate business growth, optimize operations, and drive measurable success.
+                            ITD GrowthLabs helps startups launch faster with affordable MVP development, scalable websites, mobile apps, and data-driven growth marketing strategies.
                         </p>
                     </div>
                 </div>
             </div>
             <div class="row" style="display: flex; flex-wrap: wrap;">
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-cogs"></i>
+                            <i class="fas fa-rocket"></i>
                         </div>
-                        <h4>Optimized Startup Operations</h4>
-                        <p>Enhance startup performance with structured workflows, efficient processes, and streamlined operations to boost productivity and growth.</p>
+                        <h4>MVP &amp; Product Development</h4>
+                        <p>Launch your minimum viable product fast with lean development, rapid prototyping, and iterative testing to validate your business idea.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-robot"></i>
+                            <i class="fas fa-laptop-code"></i>
                         </div>
-                        <h4>End-to-End Business Support</h4>
-                        <p>Manage startup operations across strategy, planning, execution, and reporting for reliable and consistent performance.</p>
+                        <h4>Startup Websites &amp; Landing Pages</h4>
+                        <p>High-converting startup websites and landing pages with clear value propositions, investor sections, and lead capture for early users.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-brain"></i>
+                            <i class="fas fa-mobile-alt"></i>
                         </div>
-                        <h4>Tailored Growth Strategies</h4>
-                        <p>Deliver startup solutions with customized business plans, process automation, and operational strategies for maximum impact.</p>
+                        <h4>Mobile App Development</h4>
+                        <p>Build your startup's mobile app — Android, iOS, or cross-platform — with a focus on user experience, scalability, and fast time-to-market.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-bolt"></i>
+                            <i class="fas fa-bullhorn"></i>
                         </div>
-                        <h4>Scalable Startup Systems</h4>
-                        <p>Expand startup operations with scalable systems, multi-project management, and structured processes to support rapid growth.</p>
+                        <h4>Growth Marketing &amp; User Acquisition</h4>
+                        <p>Performance marketing campaigns on Google and Meta to acquire your first 1,000 users, optimize CAC, and build traction for fundraising.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-plug"></i>
+                            <i class="fas fa-paint-brush"></i>
                         </div>
-                        <h4>Technology &amp; Automation Integration</h4>
-                        <p>Integrate startup operations with advanced tools, automation, analytics, and digital platforms to enhance efficiency and decision-making.</p>
+                        <h4>Brand Identity &amp; Design</h4>
+                        <p>Logo design, brand guidelines, pitch deck design, and visual identity that helps your startup stand out and attract investors.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -895,12 +895,11 @@
                         <div class="icon-wrapper">
                             <i class="fas fa-chart-line"></i>
                         </div>
-                        <h4>Analytics &amp; Performance Insights</h4>
-                        <p>Track startup growth with dashboards, reporting, and insights to optimize operations, investor reporting, and business outcomes.</p>
+                        <h4>Analytics &amp; Growth Metrics</h4>
+                        <p>Set up analytics, track key metrics (CAC, LTV, churn), and build data-driven growth loops to scale your startup.</p>
                     </div>
                 </div>
-            </div>
-        </div>
+</div>
     </div>
     <div class="default-padding bg-white">
         <div class="container">
@@ -908,7 +907,7 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">OUR DEVELOPMENT PROCESS</h5>
-                        <h2 class="title">From Concept to Startup Success</h2>
+                        <h2 class="title">From Idea to Launch</h2>
                     </div>
                 </div>
             </div>
@@ -970,52 +969,62 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">OUR WEB DEVELOPMENT SERVICES</h5>
-                        <h2 class="title">Behind Every Successful Startup Journey</h2>
+                        <h5 class="sub-title">OUR STARTUP DIGITAL SERVICES</h5>
+                        <h2 class="title">Complete Startup Website, App &amp; Marketing Solutions</h2>
                     </div>
                 </div>
             </div>
         </div>
         <div class="container">
             <div class="row" style="display: flex; flex-wrap: wrap;">
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-heartbeat fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-rocket fa-3x mb-3"></i>
+                        <a href="app_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Strategic startup solutions focused on business modeling, market research, and workflow design to drive growth and operational efficiency.</p>
-                        <h4><a href="contact-us.php">Startup Strategy &amp; Planning</a></h4>
+                        <p>MVP development with lean methodology — validate your idea, build core features, and launch in weeks, not months.</p>
+                        <h4><a href="app_development.php">MVP Development</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-shopping-cart fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-laptop-code fa-3x mb-3"></i>
+                        <a href="website_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Scalable startup services with MVP development, platform integration, and system configuration for seamless operations.</p>
-                        <h4><a href="contact-us.php">Product &amp; Platform Setup</a></h4>
+                        <p>Startup websites and landing pages with clear messaging, user signup flows, and conversion-optimized design.</p>
+                        <h4><a href="website_development.php">Startup Website Development</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="app_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Solutions ensuring smooth coordination across product launch, team collaboration, operations, and performance monitoring.</p>
-                        <h4><a href="contact-us.php">Operational &amp; Business Optimization</a></h4>
+                        <p>Mobile app development for startups — Android, iOS, and cross-platform apps built for scalability and user retention.</p>
+                        <h4><a href="app_development.php">Startup Mobile Apps</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-search-plus fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Flexible startup workflows with structured processes, optimized tasks, and automation to boost efficiency and accuracy.</p>
-                        <h4><a href="contact-us.php">Process &amp; Workflow Enhancement</a></h4>
+                        <p>Startup SEO to build organic traffic from day one — content strategy, technical SEO, and keyword targeting for your niche.</p>
+                        <h4><a href="digital_marketing.php">Startup SEO Services</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-ad fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Growth marketing with Google Ads, Meta Ads, and product-led campaigns to acquire your first customers efficiently.</p>
+                        <h4><a href="digital_marketing.php">User Acquisition Campaigns</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -1024,51 +1033,71 @@
                         <a href="contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Advanced startup solutions using digital tools, AI, and automation to accelerate decision-making and scale operations.</p>
-                        <h4><a href="contact-us.php">Smart Growth Innovations</a></h4>
+                        <p>Brand identity design — logo, brand guidelines, pitch decks, and marketing collateral that attract investors and customers.</p>
+                        <h4><a href="contact-us.php">Branding &amp; Design</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-plane fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-share-alt fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Strategic scaling with customer onboarding, market expansion, and operational growth to meet increasing demand.</p>
-                        <h4><a href="contact-us.php">Scaling &amp; Capacity Expansion</a></h4>
+                        <p>Social media marketing for startups — product launches, founder stories, community building, and viral content strategies.</p>
+                        <h4><a href="digital_marketing.php">Startup Social Media</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-shipping-fast fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-envelope-open-text fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Data-driven startup management with analytics, reporting, and tracking to optimize growth, engagement, and revenue.</p>
-                        <h4><a href="contact-us.php">Insights &amp; Performance Monitoring</a></h4>
+                        <p>Email marketing for user onboarding, product updates, drip campaigns, and customer retention sequences.</p>
+                        <h4><a href="digital_marketing.php">Email &amp; Lifecycle Marketing</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-utensils fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-code fa-3x mb-3"></i>
+                        <a href="app_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Modern startup enhancements ensuring regulatory compliance, secure processes, and operational stability.</p>
-                        <h4><a href="contact-us.php">Compliance &amp; Risk Management</a></h4>
+                        <p>API development, third-party integrations, and custom backend systems to support your product's core functionality.</p>
+                        <h4><a href="app_development.php">API &amp; Backend Development</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-cloud fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-file-alt fa-3x mb-3"></i>
+                        <a href="website_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Reliable startup support with ongoing updates, process refinement, and growth optimization.</p>
-                        <h4><a href="contact-us.php">Continuous Support &amp; Improvement</a></h4>
+                        <p>SaaS landing pages with pricing tables, feature comparisons, testimonials, and free trial signup flows.</p>
+                        <h4><a href="website_development.php">SaaS Landing Pages</a></h4>
                     </div>
                 </div>
-            </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-chart-bar fa-3x mb-3"></i>
+                        <a href="app_development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Analytics dashboards and admin panels for tracking user behavior, product metrics, and business KPIs.</p>
+                        <h4><a href="app_development.php">Analytics &amp; Admin Dashboards</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-handshake fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Content marketing for startups — blog articles, case studies, and thought leadership to build authority in your niche.</p>
+                        <h4><a href="digital_marketing.php">Startup Content Marketing</a></h4>
+                    </div>
+                </div>
+</div>
         </div>
     </div>
 
@@ -1080,8 +1109,8 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">SMART TECH CHOICES</h5>
-                        <h2 class="title">Behind Every Successful Business Campaign</h2>
-                        <p class="mt-30">We use modern and proven content and e-learning strategies to deliver engaging courses, effective learning, and measurable skill growth - designed to scale your business.</p>
+                        <h2 class="title">Technology Behind Our Startup Solutions</h2>
+                        <p class="mt-30">We use modern, scalable frameworks and cloud infrastructure to build products that grow with your startup.</p>
                     </div>
                 </div>
             </div>
@@ -1354,8 +1383,8 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center text-light mt-0">
-                        <h2 class="title text-white mb-30">Ready to Build Your Website?</h2>
-                        <p class="text-white">Work with a trusted business website development company for strong online presence and digital growth.</p>
+                        <h2 class="title text-white mb-30">Ready to Launch Your Startup?</h2>
+                        <p class="text-white">From MVP development and mobile apps to growth marketing — get a free consultation with our startup technology experts.</p>
                         <div class="button mt-40">
                             <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Let's Talk</a>
                         </div>
@@ -1385,12 +1414,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        What are startups?
+                                        How quickly can you build an MVP?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Startups are early-stage businesses focused on innovative products or services, aiming for rapid growth and scalable operations.
+                                        We can build a functional MVP in 4-8 weeks depending on complexity. We use lean methodology — start with core features, validate with real users, and iterate based on feedback to reduce time and cost.
                                     </div>
                                 </div>
                             </div>
@@ -1399,12 +1428,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        What services do you offer?
+                                        How much does it cost to build a startup website?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We provide business strategy, market research, product development, operations support, and end-to-end startup solutions.
+                                        Startup websites and landing pages start from INR 15,000-50,000 for simple sites. MVP web apps range from INR 1-3 lakhs depending on features and integrations. We offer flexible packages for early-stage startups.
                                     </div>
                                 </div>
                             </div>
@@ -1413,12 +1442,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        How do you ensure operational efficiency?
+                                        Can you help with both development and marketing?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We use optimized workflows, automation tools, and structured processes to streamline operations and accelerate growth.
+                                        Yes, that is our strength. We handle full-stack development (website, app, backend) AND growth marketing (SEO, paid ads, social media, content) — so you get a single partner for your entire digital strategy.
                                     </div>
                                 </div>
                             </div>
@@ -1427,12 +1456,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Can you handle large-scale operations?
+                                        Do you work with funded and bootstrapped startups?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we support high-growth startups with scalable systems while maintaining efficiency, reliability, and timely execution.
+                                        Yes, we work with both. For bootstrapped startups, we offer lean packages focused on MVP and essential marketing. For funded startups, we scale up with dedicated teams and comprehensive growth strategies.
                                     </div>
                                 </div>
                             </div>
@@ -1441,12 +1470,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you offer customized solutions?
+                                        Do you help with pitch deck design?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Absolutely, we deliver startup solutions tailored to your business model, growth goals, and market requirements.
+                                        Yes, we design investor-ready pitch decks, brand identity kits, and marketing collateral that help startups present their vision clearly and attract funding.
                                     </div>
                                 </div>
                             </div>
@@ -1587,11 +1616,11 @@
                             <ul>
                                 <li><a href="">Software & Tech</a></li>
                                 <li><a href="">Financial Services</a></li>
-                                <li><a href="">Manufacturing</a></li>
-                                <li><a href="">Healthcare</a></li>
-                                <li><a href="">Government</a></li>
-                                <li><a href="">Restaurants & Hospitality</a></li>
-                                <li><a href="">Education</a></li>
+                                <li><a href="industries/manufacturing.php">Manufacturing</a></li>
+                                <li><a href="industries/healthcare.php">Healthcare</a></li>
+                                <li><a href="industries/professional_services.php">Professional Services</a></li>
+                                <li><a href="industries/startups.php">Startups</a></li>
+                                <li><a href="industries/education.php">Education</a></li>
                                 <li><a href="">Retail</a></li>
                             </ul>
                         </div>

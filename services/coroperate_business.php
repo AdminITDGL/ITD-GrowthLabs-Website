@@ -643,9 +643,9 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 Custom Business <span style="color: var(--color-primary);">Website Development</span> for Growing Brands
-                            </h2>
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
                                 Our Web Development Company offers expert Custom Website Design in India. We build secure Business Website Development for corporate firms, portals, and e-commerce sites.
                             </p>

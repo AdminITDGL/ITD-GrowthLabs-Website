@@ -645,9 +645,9 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 WhatsApp Automation <span style="color: var(--color-primary);">Services</span> for Smart Business Growth
-                            </h2>
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
                                 Improve engagement with WhatsApp automation and WhatsApp marketing automation. ITD GrowthLabs delivers scalable WhatsApp automation solutions for support, leads, and growth.
                             </p>

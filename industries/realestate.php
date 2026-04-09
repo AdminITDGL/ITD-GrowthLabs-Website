@@ -652,13 +652,13 @@
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
                             <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
-                                Real Estate Services for Efficient Growth &amp; Smarter Management
+                                <span style="color: var(--color-primary);">Real Estate</span> Website, App &amp; Digital Marketing Solutions
                             </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
-                                Improve efficiency with real estate and real estate services. We deliver scalable real estate solutions for property management, operations, sales processes, and workflow optimization.
+                                Build property listing portals, real estate CRM apps, and lead generation campaigns that drive qualified buyer inquiries. ITD GrowthLabs helps real estate developers, brokers, and property firms grow their sales with custom websites, mobile apps, and digital marketing.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Explore Now</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Get a Free Real Estate Consultation</a>
                             </div>
                         </div>
                     </div>
@@ -837,58 +837,58 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">WHY CHOOSE ITD GROWTHLABS</h5>
-                        <h2 class="title">Premier Real Estate Solutions Company in India</h2>
+                        <h5 class="sub-title">WHY CHOOSE ITD GROWTHLABS FOR REAL ESTATE</h5>
+                        <h2 class="title">Trusted Real Estate Digital Solutions Partner in India</h2>
                         <p class="mt-30">
-                            ITD GrowthLabs delivers scalable real estate solutions that enhance property management, streamline operations, and drive measurable business growth.
+                            ITD GrowthLabs delivers high-converting property portals, broker tools, and lead generation campaigns that help real estate businesses attract qualified buyers and close deals faster.
                         </p>
                     </div>
                 </div>
             </div>
             <div class="row" style="display: flex; flex-wrap: wrap;">
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-cogs"></i>
+                            <i class="fas fa-building"></i>
                         </div>
-                        <h4>Optimized Property Management</h4>
-                        <p>Streamline real estate operations with efficient workflows, property tracking, and management processes to improve performance and control</p>
+                        <h4>Property Listing Websites</h4>
+                        <p>Professional real estate websites with property listings, virtual tours, floor plans, location maps, EMI calculators, and lead capture forms.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-robot"></i>
+                            <i class="fas fa-mobile-alt"></i>
                         </div>
-                        <h4>End-to-End Real Estate Support</h4>
-                        <p>Enable real estate across property acquisition, management, sales, and leasing, ensuring seamless and reliable operations</p>
+                        <h4>Real Estate Mobile Apps</h4>
+                        <p>Property search apps with filters, saved searches, push notifications for new listings, virtual tours, and direct agent communication.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-brain"></i>
+                            <i class="fas fa-search"></i>
                         </div>
-                        <h4>Customized Real Estate Strategies</h4>
-                        <p>Deliver real estate solutions with tailored plans, process design, and operational strategies to meet specific business needs</p>
+                        <h4>Real Estate SEO &amp; Local Search</h4>
+                        <p>Rank for property keywords like 'flats in [city]', 'commercial office space', and 'real estate developers near me' to drive organic buyer leads.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-bolt"></i>
+                            <i class="fas fa-bullhorn"></i>
                         </div>
-                        <h4>Scalable Real Estate Operations</h4>
-                        <p>Execute real estate with scalable systems, portfolio expansion, and structured processes for efficient growth and management</p>
+                        <h4>Google &amp; Meta Ads for Real Estate</h4>
+                        <p>Targeted property ads on Google and Facebook with lead forms, virtual tour ads, and geo-targeted campaigns for specific localities.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-plug"></i>
+                            <i class="fas fa-user-tie"></i>
                         </div>
-                        <h4>Advanced Technology Integration</h4>
-                        <p>Integrate real estate with modern tools, digital platforms, and smart systems to enhance efficiency and decision-making</p>
+                        <h4>Broker &amp; Agent CRM</h4>
+                        <p>Custom CRM portals for brokers with lead management, follow-up tracking, site visit scheduling, and performance dashboards.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -896,12 +896,11 @@
                         <div class="icon-wrapper">
                             <i class="fas fa-chart-line"></i>
                         </div>
-                        <h4>Performance Tracking &amp; Insights</h4>
-                        <p>Monitor real estate performance with analytics, reporting, and insights to optimize operations and improve results</p>
+                        <h4>Lead Analytics &amp; Conversion</h4>
+                        <p>Track lead sources, inquiry quality, and campaign ROI to optimize marketing spend and improve buyer conversion rates.</p>
                     </div>
                 </div>
-            </div>
-        </div>
+</div>
     </div>
     <div class="default-padding bg-white">
         <div class="container">
@@ -909,7 +908,7 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">OUR DEVELOPMENT PROCESS</h5>
-                        <h2 class="title">From Concept to Property Success</h2>
+                        <h2 class="title">From Concept to Property Platform</h2>
                     </div>
                 </div>
             </div>
@@ -971,105 +970,135 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">OUR WEB DEVELOPMENT SERVICES</h5>
-                        <h2 class="title">Behind Every Successful Real Estate Transformation</h2>
+                        <h5 class="sub-title">OUR REAL ESTATE DIGITAL SERVICES</h5>
+                        <h2 class="title">Complete Real Estate Website, App &amp; Marketing Solutions</h2>
                     </div>
                 </div>
             </div>
         </div>
         <div class="container">
             <div class="row" style="display: flex; flex-wrap: wrap;">
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-building fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="website_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Strategic real estate services focused on property planning, workflow structuring, and process optimization to improve efficiency and business outcomes</p>
-                        <h4><a href="contact-us.php">Real Estate Planning &amp; Strategy</a></h4>
+                        <p>Property listing portals with advanced search, virtual tours, floor plans, location maps, and lead capture for real estate developers.</p>
+                        <h4><a href="website_development.php">Property Portal Development</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-network-wired fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-mobile-alt fa-3x mb-3"></i>
+                        <a href="app_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Scalable real estate services with system setup, platform integration, and data management for seamless property operations</p>
-                        <h4><a href="contact-us.php">Infrastructure Setup &amp; Integration</a></h4>
+                        <p>Property search mobile apps with filters, saved listings, push notifications, virtual tours, and in-app agent chat.</p>
+                        <h4><a href="app_development.php">Real Estate Mobile Apps</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-handshake fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-user-tie fa-3x mb-3"></i>
+                        <a href="app_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Professional real estate solutions ensuring smooth coordination across property sales, leasing, management, and administrative processes</p>
-                        <h4><a href="contact-us.php">Sales &amp; Operational Optimization</a></h4>
+                        <p>CRM tools for real estate brokers with lead tracking, follow-up reminders, site visit scheduling, and deal pipeline management.</p>
+                        <h4><a href="app_development.php">Broker CRM Development</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-diagram-project fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-search-plus fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Flexible real estate workflows with structured systems and optimized processes to improve speed, accuracy, and operational efficiency</p>
-                        <h4><a href="contact-us.php">Process &amp; Workflow Enhancement</a></h4>
+                        <p>Real estate SEO for property keywords, locality searches, and developer brand queries to drive organic buyer inquiries.</p>
+                        <h4><a href="digital_marketing.php">Real Estate SEO Services</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-microchip fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-ad fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Advanced real estate solutions using automation, digital tools, and intelligent systems to enhance property management and decision-making</p>
-                        <h4><a href="contact-us.php">Smart Real Estate Innovations</a></h4>
+                        <p>Google Ads and Facebook property ads with lead forms, virtual tour campaigns, and geo-targeted locality advertising.</p>
+                        <h4><a href="digital_marketing.php">Real Estate PPC &amp; Lead Gen</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-expand-arrows-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-vr-cardboard fa-3x mb-3"></i>
+                        <a href="website_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Strategic real estate scaling with portfolio growth, resource planning, and operational expansion for increasing demands</p>
-                        <h4><a href="contact-us.php">Portfolio Expansion &amp; Scaling</a></h4>
+                        <p>Virtual property tour pages with 360-degree views, video walkthroughs, and interactive floor plans.</p>
+                        <h4><a href="website_development.php">Virtual Tour &amp; 3D Showcase</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-chart-pie fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-calculator fa-3x mb-3"></i>
+                        <a href="website_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Data-driven real estate with analytics, reporting, and tracking to improve decision-making and property performance</p>
-                        <h4><a href="contact-us.php">Insights &amp; Performance Monitoring</a></h4>
+                        <p>EMI calculator tools, property comparison features, and investment ROI calculators for buyer decision support.</p>
+                        <h4><a href="website_development.php">EMI &amp; ROI Calculator Tools</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-balance-scale fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-share-alt fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Modern real estate enhancements ensuring regulatory compliance, better process structure, and improved operational standards</p>
-                        <h4><a href="contact-us.php">Compliance &amp; Process Improvement</a></h4>
+                        <p>Real estate social media marketing — project launches, construction updates, testimonials, and locality content on Facebook and Instagram.</p>
+                        <h4><a href="digital_marketing.php">Real Estate Social Media</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-pen-fancy fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Property content marketing — locality guides, buyer guides, investment tips, and market analysis articles.</p>
+                        <h4><a href="digital_marketing.php">Real Estate Content Marketing</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-map-marked-alt fa-3x mb-3"></i>
+                        <a href="website_development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Multi-project websites for real estate developers with project-wise listings, brochure downloads, and central inquiry management.</p>
+                        <h4><a href="website_development.php">Developer Portfolio Websites</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-envelope-open-text fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Email campaigns for property launches, price updates, and lead nurturing sequences to convert inquiries into site visits.</p>
+                        <h4><a href="digital_marketing.php">Real Estate Email Marketing</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-headset fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="website_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Reliable real estate support with ongoing updates, system improvements, and performance optimization</p>
-                        <h4><a href="contact-us.php">Continuous Support &amp; Improvement</a></h4>
+                        <p>Customer portals for homebuyers with payment tracking, construction updates, document downloads, and service requests.</p>
+                        <h4><a href="website_development.php">Homebuyer Customer Portals</a></h4>
                     </div>
                 </div>
-            </div>
+</div>
         </div>
     </div>
 
@@ -1081,8 +1110,8 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">SMART TECH CHOICES</h5>
-                        <h2 class="title">Behind Every Successful Business Campaign</h2>
-                        <p class="mt-30">We use modern and proven content and e-learning strategies to deliver engaging courses, effective learning, and measurable skill growth - designed to scale your business.</p>
+                        <h2 class="title">Technology Behind Our Real Estate Solutions</h2>
+                        <p class="mt-30">We use modern frameworks, map APIs, and CRM integrations to build reliable property platforms for developers and brokers.</p>
                     </div>
                 </div>
             </div>
@@ -1355,8 +1384,8 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center text-light mt-0">
-                        <h2 class="title text-white mb-30">Ready to Build Your Website?</h2>
-                        <p class="text-white">Work with a trusted business website development company for strong online presence and digital growth.</p>
+                        <h2 class="title text-white mb-30">Ready to Grow Your Real Estate Business Online?</h2>
+                        <p class="text-white">From property portals and broker apps to lead generation campaigns — get a free consultation with our real estate digital experts.</p>
                         <div class="button mt-40">
                             <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Let's Talk</a>
                         </div>
@@ -1386,12 +1415,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        What is real estate?
+                                        Can you build a property listing portal like MagicBricks?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Real estate involves managing, buying, selling, and leasing properties through structured processes and systems.
+                                        Yes, we build custom property listing portals with advanced search filters, virtual tours, floor plans, map views, EMI calculators, and lead management — tailored for real estate developers, brokers, and aggregators.
                                     </div>
                                 </div>
                             </div>
@@ -1400,12 +1429,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        What services do you offer?
+                                        What real estate apps do you develop?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We provide property management, sales optimization, leasing support, and end-to-end real estate solutions.
+                                        We develop property search apps, broker CRM tools, homebuyer portals, site visit scheduling apps, and real estate investment tracking platforms for Android and iOS.
                                     </div>
                                 </div>
                             </div>
@@ -1414,12 +1443,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        How do you ensure operational efficiency?
+                                        How can digital marketing help sell properties faster?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We use optimized workflows, digital tools, and streamlined systems to improve real estate performance and management.
+                                        We run targeted Google Ads for property searches, Facebook lead campaigns with virtual tour ads, SEO for locality keywords, and email nurture sequences to convert inquiries into site visits and bookings.
                                     </div>
                                 </div>
                             </div>
@@ -1428,12 +1457,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Can you handle large-scale operations?
+                                        How long does it take to build a real estate website?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we manage large real estate portfolios with scalable systems while maintaining efficiency and timelines.
+                                        A standard property listing website takes 6-8 weeks. Feature-rich portals with CRM, virtual tours, and multi-project support may take 10-14 weeks depending on complexity.
                                     </div>
                                 </div>
                             </div>
@@ -1442,12 +1471,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you offer customized solutions?
+                                        Do you work with real estate companies outside India?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Absolutely, we deliver real estate solutions tailored to your business needs, market requirements, and property goals.
+                                        Yes, we work with real estate developers, brokers, and property firms across India, USA, UK, UAE, and Australia. Our platforms support multi-currency listings and localized property searches.
                                     </div>
                                 </div>
                             </div>
@@ -1588,11 +1617,11 @@
                             <ul>
                                 <li><a href="">Software & Tech</a></li>
                                 <li><a href="">Financial Services</a></li>
-                                <li><a href="">Manufacturing</a></li>
-                                <li><a href="">Healthcare</a></li>
-                                <li><a href="">Government</a></li>
-                                <li><a href="">Restaurants & Hospitality</a></li>
-                                <li><a href="">Education</a></li>
+                                <li><a href="industries/manufacturing.php">Manufacturing</a></li>
+                                <li><a href="industries/healthcare.php">Healthcare</a></li>
+                                <li><a href="industries/professional_services.php">Professional Services</a></li>
+                                <li><a href="industries/startups.php">Startups</a></li>
+                                <li><a href="industries/education.php">Education</a></li>
                                 <li><a href="">Retail</a></li>
                             </ul>
                         </div>

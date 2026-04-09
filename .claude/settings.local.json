@@ -56,7 +56,19 @@
       "Read(//c/Users/Prashant/Desktop/ALL/GrowthLabs Website Files/.claude/worktrees/zen-bell/$BASE/includes/**)",
       "Bash(BASE=\"/c/Users/Prashant/Desktop/ALL/GrowthLabs Website Files/.claude/worktrees/zen-bell\" grep -n \"contact-us\\\\.php\" \"$BASE/content_marketing.php\")",
       "Bash(grep -h '<title>' industries/*.php)",
-      "Bash(python3:*)"
+      "Bash(python3:*)",
+      "Bash(where python3:*)",
+      "Bash(where python:*)",
+      "Read(//c/xampp/php/**)",
+      "Read(//c/wamp64/bin/**)",
+      "Read(//c/laragon/bin/**)",
+      "Read(//c/php/**)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(python fix_industry_pages.py)",
+      "Bash(grep -c \"AI & Intelligent Automation\" industries/*.php)",
+      "Bash(grep -L \"faqAccordion\" services/*.php)",
+      "Bash(grep -n \"Government\\\\|Restaurants & Hospitality\" industries/*.php)",
+      "Bash(grep -rL \"<h1\" services/*.php)"
     ]
   }
 }

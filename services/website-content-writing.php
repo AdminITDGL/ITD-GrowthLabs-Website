@@ -645,9 +645,9 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 Website Content Writing <span style="color: var(--color-primary);">Services</span> for Businesses
-                            </h2>
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
                                 Enhance your brand and engage visitors with professional website content writing. Our content writing services deliver SEO-optimized, persuasive, and high-quality website content to boost traffic, conversions, and business growth.
                             </p>

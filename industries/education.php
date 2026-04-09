@@ -652,13 +652,13 @@
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
                             <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
-                                Education &amp; EdTech Services for Efficient Growth &amp; Smarter Learning
+                                <span style="color: var(--color-primary);">Education &amp; E-Learning</span> Website, App &amp; Digital Marketing Solutions
                             </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
-                                Improve efficiency with education &amp; edtech and education &amp; edtech services. We deliver scalable education &amp; edtech solutions for learning management, operations, content delivery, and process optimization.
+                                Build engaging university websites, LMS platforms, and student-facing apps that increase enrollments. ITD GrowthLabs helps schools, colleges, training institutes, and edtech startups grow with custom website development, mobile apps, SEO, and student acquisition campaigns.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Start Learning</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Get a Free Education Consultation</a>
                             </div>
                         </div>
                     </div>
@@ -836,58 +836,58 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">WHY CHOOSE ITD GROWTHLABS</h5>
-                        <h2 class="title">Premier Education &amp; EdTech Solutions Company in India</h2>
+                        <h5 class="sub-title">WHY CHOOSE ITD GROWTHLABS FOR EDUCATION</h5>
+                        <h2 class="title">Trusted Education &amp; E-Learning Solutions Partner in India</h2>
                         <p class="mt-30">
-                            ITD GrowthLabs delivers scalable education &amp; edtech solutions that enhance learning experiences, streamline operations, and drive measurable growth in education systems.
+                            ITD GrowthLabs delivers student-centric websites, e-learning platforms, and digital marketing strategies that help educational institutions increase enrollments and build a strong digital campus presence.
                         </p>
                     </div>
                 </div>
             </div>
             <div class="row" style="display: flex; flex-wrap: wrap;">
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-cogs"></i>
+                            <i class="fas fa-university"></i>
                         </div>
-                        <h4>Enhanced Learning Experiences</h4>
-                        <p>Streamline education &amp; edtech with structured workflows, interactive platforms, and content delivery systems to improve learner engagement and outcomes</p>
+                        <h4>University &amp; School Websites</h4>
+                        <p>Professional institutional websites with course catalogs, faculty profiles, event calendars, and online admission portals for schools and universities.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-robot"></i>
+                            <i class="fas fa-laptop"></i>
                         </div>
-                        <h4>End-to-End EdTech Support</h4>
-                        <p>Enable education &amp; edtech across course creation, learning management, student engagement, and administration for seamless operations</p>
+                        <h4>LMS &amp; E-Learning Platforms</h4>
+                        <p>Custom learning management systems with video courses, quizzes, progress tracking, certificates, and student dashboards.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-brain"></i>
+                            <i class="fas fa-search"></i>
                         </div>
-                        <h4>Customized Learning Strategies</h4>
-                        <p>Deliver education &amp; edtech solutions with tailored learning models, content strategies, and process design to meet specific educational needs</p>
+                        <h4>Education SEO &amp; Local Search</h4>
+                        <p>Rank for course-related keywords, 'best college near me' searches, and program-specific queries to drive organic student inquiries.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-bolt"></i>
+                            <i class="fas fa-bullhorn"></i>
                         </div>
-                        <h4>Scalable Education Platforms</h4>
-                        <p>Execute education &amp; edtech with scalable systems, user expansion, and structured processes for efficient growth and accessibility</p>
+                        <h4>Student Enrollment Campaigns</h4>
+                        <p>Google Ads and Meta Ads campaigns targeting students and parents searching for courses, admissions, and career programs.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-plug"></i>
+                            <i class="fas fa-mobile-alt"></i>
                         </div>
-                        <h4>Advanced Technology Integration</h4>
-                        <p>Integrate education &amp; edtech with modern tools, digital platforms, and smart systems to enhance learning and operational efficiency</p>
+                        <h4>Student &amp; Parent Apps</h4>
+                        <p>Mobile apps for attendance tracking, fee payment, exam results, timetables, and parent-teacher communication.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -895,12 +895,11 @@
                         <div class="icon-wrapper">
                             <i class="fas fa-chart-line"></i>
                         </div>
-                        <h4>Performance Tracking &amp; Insights</h4>
-                        <p>Monitor education &amp; edtech performance with analytics, reporting, and insights to improve learning outcomes and system efficiency</p>
+                        <h4>Analytics &amp; Enrollment Insights</h4>
+                        <p>Track student acquisition channels, website conversions, and campaign performance to optimize marketing spend and enrollment rates.</p>
                     </div>
                 </div>
-            </div>
-        </div>
+</div>
     </div>
     <div class="default-padding bg-white">
         <div class="container">
@@ -908,7 +907,7 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">OUR DEVELOPMENT PROCESS</h5>
-                        <h2 class="title">From Concept to Learning Success</h2>
+                        <h2 class="title">From Concept to Digital Campus</h2>
                     </div>
                 </div>
             </div>
@@ -970,105 +969,135 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">OUR WEB DEVELOPMENT SERVICES</h5>
-                        <h2 class="title">Behind Every Successful Education &amp; EdTech Transformation</h2>
+                        <h5 class="sub-title">OUR EDUCATION DIGITAL SERVICES</h5>
+                        <h2 class="title">Complete Education Website, App &amp; Marketing Solutions</h2>
                     </div>
                 </div>
             </div>
         </div>
         <div class="container">
         <div class="row" style="display: flex; flex-wrap: wrap;">
-            <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                <div class="services-style-one">
-                    <i class="fas fa-bullseye fa-3x mb-3"></i>
-                    <a href="contact-us.php" class="btn-arrow">
-                        <i class="fas fa-long-arrow-right"></i>
-                    </a>
-                    <p>Strategic education &amp; edtech services focused on course planning, learning workflow structuring, and process optimization to improve efficiency and learning outcomes</p>
-                    <h4><a href="contact-us.php">Education &amp; EdTech Planning &amp; Strategy</a></h4>
+                            <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-university fa-3x mb-3"></i>
+                        <a href="website_development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Custom university and school websites with course listings, faculty profiles, admission portals, and virtual campus tours.</p>
+                        <h4><a href="website_development.php">University &amp; School Website Development</a></h4>
+                    </div>
                 </div>
-            </div>
-            <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                <div class="services-style-one">
-                    <i class="fas fa-cubes fa-3x mb-3"></i>
-                    <a href="contact-us.php" class="btn-arrow">
-                        <i class="fas fa-long-arrow-right"></i>
-                    </a>
-                    <p>Scalable education &amp; edtech services with LMS setup, platform integration, and data management for seamless learning operations</p>
-                    <h4><a href="contact-us.php">Platform Setup &amp; Integration</a></h4>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-chalkboard-teacher fa-3x mb-3"></i>
+                        <a href="website_development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Learning management systems with live classes, recorded lectures, assignments, grading, and student analytics.</p>
+                        <h4><a href="website_development.php">LMS Platform Development</a></h4>
+                    </div>
                 </div>
-            </div>
-            <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                <div class="services-style-one">
-                    <i class="fas fa-book-open fa-3x mb-3"></i>
-                    <a href="contact-us.php" class="btn-arrow">
-                        <i class="fas fa-long-arrow-right"></i>
-                    </a>
-                    <p>Professional education &amp; edtech solutions ensuring smooth coordination across course delivery, student engagement, assessments, and administration</p>
-                    <h4><a href="contact-us.php">Curriculum &amp; Operational Optimization</a></h4>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-mobile-alt fa-3x mb-3"></i>
+                        <a href="app_development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Student mobile apps with attendance, timetables, exam results, fee payment, and push notifications for important updates.</p>
+                        <h4><a href="app_development.php">Student Mobile App Development</a></h4>
+                    </div>
                 </div>
-            </div>
-            <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                <div class="services-style-one">
-                    <i class="fas fa-diagram-project fa-3x mb-3"></i>
-                    <a href="contact-us.php" class="btn-arrow">
-                        <i class="fas fa-long-arrow-right"></i>
-                    </a>
-                    <p>Flexible education &amp; edtech workflows with structured systems and optimized processes to improve speed, accuracy, and learning efficiency</p>
-                    <h4><a href="contact-us.php">Process &amp; Workflow Enhancement</a></h4>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-search-plus fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Education SEO to rank for course keywords, university searches, and 'best institute for [subject]' queries.</p>
+                        <h4><a href="digital_marketing.php">Education SEO Services</a></h4>
+                    </div>
                 </div>
-            </div>
-            <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                <div class="services-style-one">
-                    <i class="fas fa-lightbulb fa-3x mb-3"></i>
-                    <a href="contact-us.php" class="btn-arrow">
-                        <i class="fas fa-long-arrow-right"></i>
-                    </a>
-                    <p>Advanced education &amp; edtech solutions using automation, digital tools, and intelligent systems to enhance learning experiences and decision-making</p>
-                    <h4><a href="contact-us.php">Smart Learning Innovations</a></h4>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-ad fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Google Ads and Meta Ads targeting students and parents during admission seasons to maximize enrollment inquiries.</p>
+                        <h4><a href="digital_marketing.php">Student Enrollment PPC Campaigns</a></h4>
+                    </div>
                 </div>
-            </div>
-            <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                <div class="services-style-one">
-                    <i class="fas fa-expand-arrows-alt fa-3x mb-3"></i>
-                    <a href="contact-us.php" class="btn-arrow">
-                        <i class="fas fa-long-arrow-right"></i>
-                    </a>
-                    <p>Strategic education &amp; edtech scaling with student onboarding, content expansion, and operational growth for increasing demands</p>
-                    <h4><a href="contact-us.php">Scaling &amp; Capacity Expansion</a></h4>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-share-alt fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Social media marketing for educational brands — campus life content, alumni stories, and student success showcases.</p>
+                        <h4><a href="digital_marketing.php">Education Social Media Marketing</a></h4>
+                    </div>
                 </div>
-            </div>
-            <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                <div class="services-style-one">
-                    <i class="fas fa-chart-line fa-3x mb-3"></i>
-                    <a href="contact-us.php" class="btn-arrow">
-                        <i class="fas fa-long-arrow-right"></i>
-                    </a>
-                    <p>Data-driven education &amp; edtech with analytics, reporting, and tracking to improve learning outcomes and platform performance</p>
-                    <h4><a href="contact-us.php">Insights &amp; Performance Monitoring</a></h4>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-video fa-3x mb-3"></i>
+                        <a href="app_development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Virtual classroom apps with live video, screen sharing, whiteboard, chat, and recording capabilities.</p>
+                        <h4><a href="app_development.php">Virtual Classroom Tools</a></h4>
+                    </div>
                 </div>
-            </div>
-            <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                <div class="services-style-one">
-                    <i class="fas fa-shield-alt fa-3x mb-3"></i>
-                    <a href="contact-us.php" class="btn-arrow">
-                        <i class="fas fa-long-arrow-right"></i>
-                    </a>
-                    <p>Modern education &amp; edtech enhancements ensuring regulatory compliance, structured workflows, and improved operational standards</p>
-                    <h4><a href="contact-us.php">Compliance &amp; Process Improvement</a></h4>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-file-alt fa-3x mb-3"></i>
+                        <a href="website_development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Online admission portals with form management, document uploads, fee payment, and status tracking.</p>
+                        <h4><a href="website_development.php">Admission &amp; Enrollment Portals</a></h4>
+                    </div>
                 </div>
-            </div>
-            <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                <div class="services-style-one">
-                    <i class="fas fa-headset fa-3x mb-3"></i>
-                    <a href="contact-us.php" class="btn-arrow">
-                        <i class="fas fa-long-arrow-right"></i>
-                    </a>
-                    <p>Reliable education &amp; edtech support with ongoing updates, system improvements, and performance optimization</p>
-                    <h4><a href="contact-us.php">Continuous Support &amp; Improvement</a></h4>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-certificate fa-3x mb-3"></i>
+                        <a href="app_development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Online exam platforms with proctoring, auto-grading, certificate generation, and result analytics.</p>
+                        <h4><a href="app_development.php">Online Exam &amp; Assessment Platforms</a></h4>
+                    </div>
                 </div>
-            </div>
-        </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-pen-fancy fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Educational content marketing — blog articles, course guides, career resources, and webinar promotion.</p>
+                        <h4><a href="digital_marketing.php">Education Content Marketing</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-users fa-3x mb-3"></i>
+                        <a href="app_development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Parent-teacher communication portals with meeting scheduling, progress reports, and announcements.</p>
+                        <h4><a href="app_development.php">Parent-Teacher Communication Apps</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-globe fa-3x mb-3"></i>
+                        <a href="website_development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Multi-campus and franchise websites with centralized management and location-specific content.</p>
+                        <h4><a href="website_development.php">Multi-Campus Website Solutions</a></h4>
+                    </div>
+                </div>
+</div>
         </div>
     </div>
 
@@ -1080,8 +1109,8 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">SMART TECH CHOICES</h5>
-                        <h2 class="title">Behind Every Successful Business Campaign</h2>
-                        <p class="mt-30">We use modern and proven content and e-learning strategies to deliver engaging courses, effective learning, and measurable skill growth - designed to scale your business.</p>
+                        <h2 class="title">Technology Behind Our Education Solutions</h2>
+                        <p class="mt-30">We use modern frameworks, secure infrastructure, and education-specific tools to build reliable platforms for schools, universities, and edtech companies.</p>
                     </div>
                 </div>
             </div>
@@ -1355,8 +1384,8 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center text-light mt-0">
-                        <h2 class="title text-white mb-30">Ready to Build Your Website?</h2>
-                        <p class="text-white">Work with a trusted business website development company for strong online presence and digital growth.</p>
+                        <h2 class="title text-white mb-30">Ready to Build Your Digital Campus?</h2>
+                        <p class="text-white">From university websites and student apps to enrollment campaigns — get a free consultation with our education technology experts.</p>
                         <div class="button mt-40">
                             <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Let's Talk</a>
                         </div>
@@ -1386,12 +1415,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        What is education &amp; edtech?
+                                        Can you build a custom LMS for my institution?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Education &amp; edtech involves delivering learning experiences, managing educational content, and enabling digital learning through structured systems and platforms.
+                                        Yes, we build custom learning management systems with features like video courses, live classes, quizzes, assignments, progress tracking, certificates, and student analytics — tailored to your curriculum and teaching methodology.
                                     </div>
                                 </div>
                             </div>
@@ -1400,12 +1429,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        What services do you offer?
+                                        How can digital marketing increase student enrollments?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We provide learning management, curriculum optimization, student engagement, digital content delivery, and end-to-end education &amp; edtech solutions.
+                                        We run targeted Google Ads and Meta Ads during admission seasons, optimize your website for education-related searches, create engaging social media content, and build landing pages that convert visitors into admission inquiries.
                                     </div>
                                 </div>
                             </div>
@@ -1414,12 +1443,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        How do you ensure operational efficiency?
+                                        Do you develop mobile apps for schools?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We use optimized workflows, digital tools, and streamlined platforms to improve education management and learning outcomes.
+                                        Yes, we develop student and parent apps with features like attendance tracking, exam results, fee payment, timetables, push notifications, and parent-teacher communication portals.
                                     </div>
                                 </div>
                             </div>
@@ -1428,12 +1457,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Can you handle large-scale operations?
+                                        How long does it take to build a university website?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we manage large student cohorts and educational programs with scalable systems while maintaining quality and timelines.
+                                        A standard university website with course listings, faculty profiles, and admission portals takes 6-10 weeks. Custom LMS platforms with e-learning features may take 12-16 weeks depending on complexity.
                                     </div>
                                 </div>
                             </div>
@@ -1442,12 +1471,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you offer customized solutions?
+                                        Do you work with edtech startups?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Absolutely, we deliver education &amp; edtech solutions tailored to your institution’s needs, learning goals, and digital strategy.
+                                        Yes, we work with edtech startups on MVP development, scalable LMS platforms, student-facing mobile apps, and growth marketing campaigns to acquire users and build traction.
                                     </div>
                                 </div>
                             </div>
@@ -1588,11 +1617,11 @@
                             <ul>
                                 <li><a href="">Software & Tech</a></li>
                                 <li><a href="">Financial Services</a></li>
-                                <li><a href="">Manufacturing</a></li>
-                                <li><a href="">Healthcare</a></li>
-                                <li><a href="">Government</a></li>
-                                <li><a href="">Restaurants & Hospitality</a></li>
-                                <li><a href="">Education</a></li>
+                                <li><a href="industries/manufacturing.php">Manufacturing</a></li>
+                                <li><a href="industries/healthcare.php">Healthcare</a></li>
+                                <li><a href="industries/professional_services.php">Professional Services</a></li>
+                                <li><a href="industries/startups.php">Startups</a></li>
+                                <li><a href="industries/education.php">Education</a></li>
                                 <li><a href="">Retail</a></li>
                             </ul>
                         </div>

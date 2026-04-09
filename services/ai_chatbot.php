@@ -643,9 +643,9 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 AI Chatbot Automation <span style="color: var(--color-primary);">Services</span> for Smart Business Growth
-                            </h2>
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
                                 Boost engagement with AI chatbot automation and AI chatbot solutions. ITD GrowthLabs delivers scalable AI chatbot automation for support, lead generation, and business growth.
                             </p>

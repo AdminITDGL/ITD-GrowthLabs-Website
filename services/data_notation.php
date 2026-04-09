@@ -643,9 +643,9 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                 Data Annotation <span style="color: var(--color-primary);">Services</span> for Smart AI Model Growth
-                            </h2>
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
                                 Improve accuracy with data annotation services and data labeling solutions. ITD GrowthLabs delivers scalable data annotation services for image, text, and video datasets.
                             </p>

@@ -647,14 +647,14 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
-                            <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
-                                Custom <span style="color: var(--color-primary);">AI & Intelligent Automation</span> Solutions for Growing Businesses
-                            </h2>
+                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                                <span style="color: var(--color-primary);">Healthcare</span> Website, App &amp; Digital Marketing Solutions
+                            </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
-                                Partner with ITD GrowthLabs for AI and automation services that deliver smart workflows, process optimization, and measurable business impact. Our approach ensures intelligent systems, seamless integration, and scalable automation.
+                                Build HIPAA-ready patient portals, telemedicine apps, and hospital websites that attract more patients. ITD GrowthLabs helps healthcare providers, clinics, and medtech companies grow their online presence and patient acquisition with SEO, Google Ads, and social media marketing.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Let’s Automate Your Business</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Get a Free Healthcare Consultation</a>
                             </div>
                         </div>
                     </div>
@@ -832,10 +832,10 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">WHY CHOOSE ITD GrowthLabs</h5>
-                        <h2 class="title">Trusted AI & Intelligent Automation Company in India</h2>
+                        <h5 class="sub-title">WHY CHOOSE ITD GROWTHLABS FOR HEALTHCARE</h5>
+                        <h2 class="title">Trusted Healthcare Digital Solutions Partner in India</h2>
                         <p class="mt-30">
-                            ITD GrowthLabs delivers smart AI and automation solutions for startups, SMEs, and enterprises to optimize processes and increase efficiency.
+                            ITD GrowthLabs delivers HIPAA-aware websites, patient-facing apps, and healthcare marketing solutions that help hospitals, clinics, and medtech companies attract more patients and grow revenue.
                         </p>
                     </div>
                 </div>
@@ -846,44 +846,44 @@
                         <div class="icon-wrapper">
                             <i class="fas fa-cogs"></i>
                         </div>
-                        <h4>AI Workflow Development</h4>
-                        <p>AI-powered workflows to automate processes, boost efficiency, and reduce manual effort.</p>
+                        <h4>Hospital &amp; Clinic Websites</h4>
+                        <p>Professional, fast-loading websites for hospitals and clinics with online appointment booking, doctor profiles, and department listings.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-robot"></i>
+                            <i class="fas fa-mobile-alt"></i>
                         </div>
-                        <h4>Intelligent Automation Platforms</h4>
-                        <p>AI and RPA platforms with seamless integration, real-time monitoring, and scalability.</p>
+                        <h4>Patient Portal &amp; Telemedicine Apps</h4>
+                        <p>Custom mobile apps for patient records, video consultations, prescription management, and appointment scheduling.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-brain"></i>
+                            <i class="fas fa-search"></i>
                         </div>
-                        <h4>Machine Learning Solutions</h4>
-                        <p>ML models and algorithms to analyze data, predict outcomes, and optimize decisions.</p>
+                        <h4>Healthcare SEO &amp; Local Search</h4>
+                        <p>Rank on Google for "best hospital near me", "doctor in [city]" and healthcare-specific keywords to drive patient footfall.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-bolt"></i>
+                            <i class="fas fa-bullhorn"></i>
                         </div>
-                        <h4>Process Automation & Optimization</h4>
-                        <p>AI-driven automation with predictive analytics and smart task management.</p>
+                        <h4>Google Ads &amp; Meta Ads for Healthcare</h4>
+                        <p>Targeted PPC campaigns for hospitals, diagnostic labs, and medtech companies to acquire new patients at lower cost per lead.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-plug"></i>
+                            <i class="fas fa-shield-alt"></i>
                         </div>
-                        <h4>AI & RPA Integration</h4>
-                        <p>Integration of AI and RPA with ERP, CRM, and business systems.</p>
+                        <h4>HIPAA-Compliant Development</h4>
+                        <p>Secure patient data handling, encrypted communications, and compliant form submissions across all web and mobile platforms.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -891,8 +891,8 @@
                         <div class="icon-wrapper">
                             <i class="fas fa-chart-line"></i>
                         </div>
-                        <h4>AI-Powered Analytics & Insights</h4>
-                        <p>Advanced analytics, dashboards, and reporting for data-driven strategies.</p>
+                        <h4>Analytics &amp; Patient Insights</h4>
+                        <p>Track patient acquisition channels, website conversions, ad performance, and social engagement to optimize marketing spend.</p>
                     </div>
                 </div>
             </div>
@@ -904,7 +904,7 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">OUR DEVELOPMENT PROCESS</h5>
-                        <h2 class="title">From Concept to Launch</h2>
+                        <h2 class="title">From Concept to Patient-Ready Platform</h2>
                     </div>
                 </div>
             </div>
@@ -966,8 +966,8 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">OUR AI & INTELLIGENT AUTOMATION SERVICES</h5>
-                        <h2 class="title">Complete Custom AI & Intelligent Automation Solutions</h2>
+                        <h5 class="sub-title">OUR HEALTHCARE DIGITAL SERVICES</h5>
+                        <h2 class="title">Complete Healthcare Website, App &amp; Marketing Solutions</h2>
                     </div>
                 </div>
             </div>
@@ -976,122 +976,112 @@
             <div class="row" style="display: flex; flex-wrap: wrap;">
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
+                        <i class="fas fa-hospital fa-3x mb-3"></i>
+                        <a href="website_development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Custom hospital and clinic websites with doctor profiles, department pages, appointment booking, and patient testimonials.</p>
+                        <h4><a href="website_development.php">Hospital Website Development</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-video fa-3x mb-3"></i>
+                        <a href="app_development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Telemedicine apps with HD video consultations, e-prescriptions, and secure patient-doctor communication.</p>
+                        <h4><a href="app_development.php">Telemedicine App Development</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-user-md fa-3x mb-3"></i>
+                        <a href="app_development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Patient portals for accessing medical records, lab reports, prescriptions, and appointment history from any device.</p>
+                        <h4><a href="app_development.php">Patient Portal &amp; EHR Apps</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-search-plus fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Healthcare SEO to rank for medical keywords, doctor searches, and "near me" queries in your target cities.</p>
+                        <h4><a href="digital_marketing.php">Healthcare SEO Services</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-ad fa-3x mb-3"></i>
+                        <a href="contact-us.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Google Ads and Meta Ads campaigns targeting patients searching for specific treatments, specialists, and diagnostic services.</p>
+                        <h4><a href="digital_marketing.php">Healthcare PPC &amp; Paid Ads</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-share-alt fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Social media marketing for hospitals and clinics — health tips, patient education, and community engagement on Facebook, Instagram, and LinkedIn.</p>
+                        <h4><a href="digital_marketing.php">Healthcare Social Media Marketing</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-calendar-check fa-3x mb-3"></i>
+                        <a href="app_development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Online appointment booking systems with automated reminders, doctor availability, and multi-location support.</p>
+                        <h4><a href="app_development.php">Appointment Booking Systems</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-pills fa-3x mb-3"></i>
+                        <a href="website_development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>E-pharmacy and diagnostic lab websites with online ordering, home sample collection, and report delivery portals.</p>
+                        <h4><a href="website_development.php">Pharmacy &amp; Diagnostic Lab Portals</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-pen-fancy fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Medical content marketing — blog articles, health guides, and doctor Q&amp;A content to build trust and drive organic traffic.</p>
+                        <h4><a href="digital_marketing.php">Healthcare Content Marketing</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
                         <i class="fas fa-heartbeat fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="app_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>AI for diagnostics, patient monitoring, and healthcare workflow automation.</p>
-                        <h4><a href="contact-us.php">Healthcare &amp; MedTech AI</a></h4>
+                        <p>Health monitoring and wellness apps with vitals tracking, medication reminders, and wearable device integration.</p>
+                        <h4><a href="app_development.php">Health Monitoring Apps</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-shopping-cart fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-star fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Personalized recommendations, demand forecasting, and sales optimization.</p>
-                        <h4><a href="contact-us.php">E-Commerce &amp; Retail AI</a></h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-one">
-                        <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
-                            <i class="fas fa-long-arrow-right"></i>
-                        </a>
-                        <p>Fraud detection, transaction analysis, and financial predictions.</p>
-                        <h4><a href="contact-us.php">FinTech &amp; Banking AI</a></h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-one">
-                        <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
-                            <i class="fas fa-long-arrow-right"></i>
-                        </a>
-                        <p>Adaptive learning, course recommendations, and personalized engagement tools.</p>
-                        <h4><a href="contact-us.php">E-Learning AI</a></h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-one">
-                        <i class="fas fa-paint-brush fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
-                            <i class="fas fa-long-arrow-right"></i>
-                        </a>
-                        <p>Property valuation, lead scoring, virtual tours, and agent workflow automation.</p>
-                        <h4><a href="contact-us.php">Real Estate AI</a></h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-one">
-                        <i class="fas fa-plane fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
-                            <i class="fas fa-long-arrow-right"></i>
-                        </a>
-                        <p>Booking automation, personalization, and predictive analytics.</p>
-                        <h4><a href="contact-us.php">Travel &amp; Hospitality AI</a></h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-one">
-                        <i class="fas fa-shipping-fast fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
-                            <i class="fas fa-long-arrow-right"></i>
-                        </a>
-                        <p>Route planning, shipment tracking, inventory management, and demand forecasting.</p>
-                        <h4><a href="contact-us.php">Logistics AI</a></h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-one">
-                        <i class="fas fa-utensils fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
-                            <i class="fas fa-long-arrow-right"></i>
-                        </a>
-                        <p>Menu recommendations, order predictions, and operations automation.</p>
-                        <h4><a href="contact-us.php">Food &amp; Restaurant AI</a></h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-one">
-                        <i class="fas fa-cloud fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
-                            <i class="fas fa-long-arrow-right"></i>
-                        </a>
-                        <p>Analytics, automation, predictive insights, and user behavior tracking.</p>
-                        <h4><a href="contact-us.php">SaaS &amp; Cloud AI</a></h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-one">
-                        <i class="fas fa-car fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
-                            <i class="fas fa-long-arrow-right"></i>
-                        </a>
-                        <p>Vehicle management, predictive maintenance, and smart customer service.</p>
-                        <h4><a href="contact-us.php">Automotive &amp; Mobility AI</a></h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-one">
-                        <i class="fas fa-film fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
-                            <i class="fas fa-long-arrow-right"></i>
-                        </a>
-                        <p>Content recommendations, audience insights, and workflow automation.</p>
-                        <h4><a href="contact-us.php">Entertainment &amp; Media AI</a></h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-one">
-                        <i class="fas fa-briefcase fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
-                            <i class="fas fa-long-arrow-right"></i>
-                        </a>
-                        <p>Workflow automation, analytics, and client management solutions.</p>
-                        <h4><a href="contact-us.php">Professional Services AI</a></h4>
+                        <p>Online reputation management for doctors and hospitals — review generation, Google Business Profile optimization, and patient feedback systems.</p>
+                        <h4><a href="digital_marketing.php">Reputation Management for Healthcare</a></h4>
                     </div>
                 </div>
             </div>
@@ -1106,8 +1096,8 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">SMART TECH CHOICES</h5>
-                        <h2 class="title">Behind Every Successful Business Campaign</h2>
-                        <p class="mt-30">We use modern and proven content and e-learning strategies to deliver engaging courses, effective learning, and measurable skill growth - designed to scale your business.</p>
+                        <h2 class="title">Technology Behind Our Healthcare Solutions</h2>
+                        <p class="mt-30">We use industry-leading frameworks, secure infrastructure, and healthcare-grade tools to build reliable platforms for hospitals, clinics, and medtech companies.</p>
                     </div>
                 </div>
             </div>
@@ -1380,8 +1370,8 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center text-light mt-0">
-                        <h2 class="title text-white mb-30">Ready to Build Your Website?</h2>
-                        <p class="text-white">Work with a trusted business website development company for strong online presence and digital growth.</p>
+                        <h2 class="title text-white mb-30">Ready to Grow Your Healthcare Business Online?</h2>
+                        <p class="text-white">From hospital websites and telemedicine apps to patient acquisition campaigns — get a free consultation with our healthcare digital experts.</p>
                         <div class="button mt-40">
                             <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Let's Talk</a>
                         </div>
@@ -1411,12 +1401,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        How long does it take to develop a business website?
+                                        Do you build HIPAA-compliant healthcare websites?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Typically, a business website takes 4-8 weeks depending on complexity, pages, and features. Simple websites can be delivered in 2-3 weeks.
+                                        Yes, we build healthcare websites and apps with HIPAA-compliant features including encrypted patient data, secure login, SSL certificates, and compliant form submissions to protect patient information.
                                     </div>
                                 </div>
                             </div>
@@ -1425,12 +1415,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        What's the average cost of business website development?
+                                        What healthcare apps can you develop?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Website development costs vary based on complexity and features. Simple business websites start around ₹25,000, while custom enterprise sites can range from ₹1,00,000 to ₹5,00,000+.
+                                        We develop patient portals, telemedicine platforms, appointment booking systems, EHR integrations, health monitoring apps, pharmacy management apps, and diagnostic lab portals for hospitals, clinics, and medtech companies.
                                     </div>
                                 </div>
                             </div>
@@ -1439,12 +1429,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Do you offer responsive website design?
+                                        How can digital marketing help my hospital or clinic?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, all our business websites are built with responsive design, ensuring your site looks and performs perfectly on desktops, tablets, and mobile devices.
+                                        Healthcare digital marketing includes local SEO to rank for "doctor near me" searches, Google Ads for patient acquisition, social media health campaigns, content marketing for medical education, and reputation management to build patient trust.
                                     </div>
                                 </div>
                             </div>
@@ -1453,12 +1443,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Will my website be SEO-ready?
+                                        How long does it take to build a hospital website?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, all our business websites are built with SEO-ready structure including proper meta tags, clean URLs, fast loading, and mobile-friendly design to improve search visibility.
+                                        A standard hospital website with doctor profiles, department listings, and appointment booking takes 6-10 weeks. Telemedicine platforms and patient portals with EHR integration may take 12-16 weeks depending on complexity.
                                     </div>
                                 </div>
                             </div>
@@ -1467,12 +1457,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you provide post-launch website support and maintenance?
+                                        Do you serve healthcare clients outside India?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we offer comprehensive website maintenance and support including updates, performance monitoring, security patches, and content updates to keep your business website running smoothly.
+                                        Yes, we work with healthcare providers, hospitals, and medtech companies across India, USA, UK, UAE, and Australia. Our solutions are built to meet regional compliance requirements and serve patients in multiple geographies.
                                     </div>
                                 </div>
                             </div>
@@ -1613,11 +1603,11 @@
                             <ul>
                                 <li><a href="">Software & Tech</a></li>
                                 <li><a href="">Financial Services</a></li>
-                                <li><a href="">Manufacturing</a></li>
-                                <li><a href="">Healthcare</a></li>
-                                <li><a href="">Government</a></li>
-                                <li><a href="">Restaurants & Hospitality</a></li>
-                                <li><a href="">Education</a></li>
+                                <li><a href="industries/manufacturing.php">Manufacturing</a></li>
+                                <li><a href="industries/healthcare.php">Healthcare</a></li>
+                                <li><a href="industries/professional_services.php">Professional Services</a></li>
+                                <li><a href="industries/startups.php">Startups</a></li>
+                                <li><a href="industries/education.php">Education</a></li>
                                 <li><a href="">Retail</a></li>
                             </ul>
                         </div>

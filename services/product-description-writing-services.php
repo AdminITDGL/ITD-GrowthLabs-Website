@@ -90,9 +90,9 @@
                     <div class="row align-center">
                         <div class="col-xl-6 col-lg-6 pr-50 pr-md-15 pr-xs-15 mt--80 mt-md-0 mt-xs-0">
                             <div class="information">
-                                <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                                <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                     Expert <br> Product Description <strong>Writing Services</strong>
-                                </h2>
+                                </h1>
                                 <p class="wow fadeInUp" data-wow-delay="900ms" data-wow-duration="400ms">
                                     Boost your eCommerce success with our expert <strong>Product Description Writing Services</strong>.
                                     We specialize in crafting SEO-optimized, compelling product descriptions that increase conversions and enhance your online store’s visibility.

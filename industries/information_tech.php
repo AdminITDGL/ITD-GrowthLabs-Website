@@ -652,13 +652,13 @@
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
                             <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
-                                IT &amp; SaaS Services for <span style="color: var(--color-primary);">Maximum Growth &amp; Efficiency</span>
+                                <span style="color: var(--color-primary);">IT &amp; Technology</span> Website, App &amp; Digital Marketing Solutions
                             </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
-                                Enhance your business with IT &amp; SaaS services. We deliver scalable solutions for software management, cloud operations, system integration, and process optimization to drive higher productivity.
+                                Build professional tech company websites, SaaS platforms, and B2B marketing campaigns that generate leads. ITD GrowthLabs helps IT companies, SaaS startups, and technology firms grow with custom development, mobile apps, SEO, and performance marketing.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Boost Performance</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Get a Free IT Consultation</a>
                             </div>
                         </div>
                     </div>
@@ -836,58 +836,58 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">WHY CHOOSE ITD GROWTHLABS</h5>
-                        <h2 class="title">Premier IT &amp; SaaS Solutions Company in India</h2>
+                        <h5 class="sub-title">WHY CHOOSE ITD GROWTHLABS FOR IT COMPANIES</h5>
+                        <h2 class="title">Trusted IT &amp; Technology Solutions Partner in India</h2>
                         <p class="mt-30">
-                            ITD GrowthLabs delivers scalable IT &amp; SaaS solutions that optimize business operations, enhance software performance, and drive measurable growth.
+                            ITD GrowthLabs delivers high-converting tech company websites, SaaS platforms, and B2B marketing strategies that help IT companies and startups acquire customers and build authority.
                         </p>
                     </div>
                 </div>
             </div>
             <div class="row" style="display: flex; flex-wrap: wrap;">
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-cogs"></i>
+                            <i class="fas fa-laptop-code"></i>
                         </div>
-                        <h4>Optimized IT &amp; SaaS Services</h4>
-                        <p>Enhance IT &amp; SaaS platforms with secure systems, seamless software deployment, and efficient workflows to improve business productivity</p>
+                        <h4>Tech Company Websites</h4>
+                        <p>Professional IT company websites with service showcases, case studies, team profiles, and lead capture forms that convert visitors into qualified inquiries.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-robot"></i>
+                            <i class="fas fa-cloud"></i>
                         </div>
-                        <h4>End-to-End System Management</h4>
-                        <p>Manage IT &amp; SaaS operations across software deployment, cloud management, updates, and maintenance for reliable performance</p>
+                        <h4>SaaS Platform Development</h4>
+                        <p>Custom SaaS platforms with subscription billing, user dashboards, API integrations, multi-tenant architecture, and scalable infrastructure.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-brain"></i>
+                            <i class="fas fa-search"></i>
                         </div>
-                        <h4>Tailored SaaS Strategies</h4>
-                        <p>Deliver IT &amp; SaaS solutions with customized software tools, integration strategies, and process automation for maximum efficiency</p>
+                        <h4>B2B Tech SEO</h4>
+                        <p>Rank for technology service keywords, software solution searches, and IT consulting queries to drive organic B2B leads.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-bolt"></i>
+                            <i class="fas fa-bullhorn"></i>
                         </div>
-                        <h4>Scalable Digital Platforms</h4>
-                        <p>Expand IT &amp; SaaS services with scalable infrastructure, multi-platform support, and streamlined operations to meet growing business demands</p>
+                        <h4>Google &amp; LinkedIn Ads for IT</h4>
+                        <p>Targeted B2B campaigns on Google and LinkedIn reaching CTOs, IT managers, and procurement teams in your target markets.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-plug"></i>
+                            <i class="fas fa-mobile-alt"></i>
                         </div>
-                        <h4>Technology &amp; Automation Integration</h4>
-                        <p>Integrate IT &amp; SaaS with advanced tools, AI automation, analytics, and secure systems to enhance operational efficiency and accuracy</p>
+                        <h4>Enterprise &amp; Internal Tools</h4>
+                        <p>Custom mobile apps and internal tools for project management, time tracking, resource allocation, and client reporting.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -895,12 +895,11 @@
                         <div class="icon-wrapper">
                             <i class="fas fa-chart-line"></i>
                         </div>
-                        <h4>Analytics &amp; Performance Insights</h4>
-                        <p>Track IT &amp; SaaS performance with dashboards, reporting, and insights to optimize software efficiency, uptime, and user satisfaction</p>
+                        <h4>Analytics &amp; Lead Tracking</h4>
+                        <p>Track lead quality, pipeline value, and campaign ROI across all digital channels to optimize customer acquisition costs.</p>
                     </div>
                 </div>
-            </div>
-        </div>
+</div>
     </div>
     <div class="default-padding bg-white">
         <div class="container">
@@ -908,7 +907,7 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">OUR DEVELOPMENT PROCESS</h5>
-                        <h2 class="title">From Concept to IT &amp; SaaS Success</h2>
+                        <h2 class="title">From Concept to Tech Platform</h2>
                     </div>
                 </div>
             </div>
@@ -970,105 +969,135 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">OUR WEB DEVELOPMENT SERVICES</h5>
-                        <h2 class="title">Behind Every Successful IT &amp; SaaS Transformation</h2>
+                        <h5 class="sub-title">OUR IT &amp; TECHNOLOGY SERVICES</h5>
+                        <h2 class="title">Complete IT Website, App &amp; Marketing Solutions</h2>
                     </div>
                 </div>
             </div>
         </div>
         <div class="container">
             <div class="row" style="display: flex; flex-wrap: wrap;">
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-laptop-code fa-3x mb-3"></i>
+                        <a href="website_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Strategic IT &amp; SaaS services focused on software planning, workflow structuring, and process optimization to improve efficiency and business outcomes</p>
-                        <h4><a href="contact-us.php">IT &amp; SaaS Planning &amp; Strategy</a></h4>
+                        <p>IT company websites with service pages, case studies, blog, careers section, and B2B lead capture optimized for conversions.</p>
+                        <h4><a href="website_development.php">IT Company Website Development</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-plug fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-cloud fa-3x mb-3"></i>
+                        <a href="app_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Scalable IT &amp; SaaS services with platform setup, cloud integration, and system configuration for seamless operations</p>
-                        <h4><a href="contact-us.php">Platform Setup &amp; Integration</a></h4>
+                        <p>SaaS platform development with subscription management, multi-tenant architecture, API integrations, and scalable cloud hosting.</p>
+                        <h4><a href="app_development.php">SaaS Platform Development</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-server fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-mobile-alt fa-3x mb-3"></i>
+                        <a href="app_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Professional IT &amp; SaaS solutions ensuring smooth coordination across software deployment, updates, user management, and performance monitoring</p>
-                        <h4><a href="contact-us.php">Operational &amp; System Optimization</a></h4>
+                        <p>Enterprise mobile apps for project management, field service, CRM access, and internal communication tools.</p>
+                        <h4><a href="app_development.php">Enterprise Mobile Apps</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-tasks fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-search-plus fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Flexible IT &amp; SaaS workflows with structured systems and optimized processes to improve speed, accuracy, and operational efficiency</p>
-                        <h4><a href="contact-us.php">Process &amp; Workflow Enhancement</a></h4>
+                        <p>Technology SEO for B2B service keywords, software solution queries, and IT consulting searches.</p>
+                        <h4><a href="digital_marketing.php">IT Company SEO Services</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-brain fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-ad fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Advanced IT &amp; SaaS solutions using automation, AI, and intelligent systems to enhance software performance and decision-making</p>
-                        <h4><a href="contact-us.php">Smart IT Innovations</a></h4>
+                        <p>Google Ads and LinkedIn campaigns targeting CTOs, IT managers, and enterprise buyers in your target verticals.</p>
+                        <h4><a href="digital_marketing.php">B2B Tech PPC &amp; LinkedIn Ads</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-expand-arrows-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-pen-fancy fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Strategic IT &amp; SaaS scaling with user onboarding, system expansion, and operational growth for increasing business demands</p>
-                        <h4><a href="contact-us.php">Scaling &amp; Capacity Expansion</a></h4>
+                        <p>Technical content marketing — whitepapers, case studies, blog articles, and thought leadership to build authority.</p>
+                        <h4><a href="digital_marketing.php">Tech Content Marketing</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-chart-line fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-code fa-3x mb-3"></i>
+                        <a href="website_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Data-driven IT &amp; SaaS with analytics, reporting, and tracking to optimize system efficiency, uptime, and user satisfaction</p>
-                        <h4><a href="contact-us.php">Insights &amp; Performance Monitoring</a></h4>
+                        <p>API development, third-party integrations, and custom middleware for connecting business systems and data flows.</p>
+                        <h4><a href="website_development.php">API &amp; Integration Services</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-database fa-3x mb-3"></i>
+                        <a href="app_development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Custom dashboards and reporting tools with real-time data visualization, KPI tracking, and automated reporting.</p>
+                        <h4><a href="app_development.php">Analytics &amp; Dashboard Tools</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-shield-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="website_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Modern IT &amp; SaaS enhancements ensuring data security, regulatory compliance, and streamlined operational standards</p>
-                        <h4><a href="contact-us.php">Compliance &amp; Process Improvement</a></h4>
+                        <p>Security-focused development with penetration testing, code audits, SSL, and compliance with industry standards.</p>
+                        <h4><a href="website_development.php">Security &amp; Compliance</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-share-alt fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>LinkedIn and Twitter marketing for tech companies — product updates, tech insights, and employer branding content.</p>
+                        <h4><a href="digital_marketing.php">Tech Social Media Marketing</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-envelope-open-text fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Email nurture sequences, webinar promotion, and drip campaigns for B2B tech lead conversion.</p>
+                        <h4><a href="digital_marketing.php">B2B Email Marketing</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-headset fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="website_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Reliable IT &amp; SaaS support with ongoing updates, system improvements, and performance optimization</p>
-                        <h4><a href="contact-us.php">Continuous Support &amp; Improvement</a></h4>
+                        <p>Client portals with project tracking, ticket management, document sharing, and communication tools.</p>
+                        <h4><a href="website_development.php">Client Portal Development</a></h4>
                     </div>
                 </div>
-            </div>
+</div>
         </div>
     </div>
 
@@ -1080,8 +1109,8 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">SMART TECH CHOICES</h5>
-                        <h2 class="title">Behind Every Successful Business Campaign</h2>
-                        <p class="mt-30">We use modern and proven content and e-learning strategies to deliver engaging courses, effective learning, and measurable skill growth - designed to scale your business.</p>
+                        <h2 class="title">Technology Behind Our IT Solutions</h2>
+                        <p class="mt-30">We use cutting-edge frameworks, cloud infrastructure, and development tools to build high-performance platforms for IT companies.</p>
                     </div>
                 </div>
             </div>
@@ -1354,8 +1383,8 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center text-light mt-0">
-                        <h2 class="title text-white mb-30">Ready to Build Your Website?</h2>
-                        <p class="text-white">Work with a trusted business website development company for strong online presence and digital growth.</p>
+                        <h2 class="title text-white mb-30">Ready to Grow Your IT Business?</h2>
+                        <p class="text-white">From tech company websites and SaaS platforms to B2B lead generation — get a free consultation with our technology experts.</p>
                         <div class="button mt-40">
                             <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Let's Talk</a>
                         </div>
@@ -1385,12 +1414,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        What is IT &amp; SaaS?
+                                        Can you build a SaaS platform from scratch?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        IT &amp; SaaS involves delivering software solutions, cloud services, and digital platforms to optimize business operations and enhance productivity.
+                                        Yes, we build custom SaaS platforms with multi-tenant architecture, subscription billing, user management, API integrations, and scalable cloud infrastructure. We handle everything from MVP to production.
                                     </div>
                                 </div>
                             </div>
@@ -1399,12 +1428,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        What services do you offer?
+                                        How can digital marketing help an IT company?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We provide cloud software solutions, system integration, application management, workflow automation, and end-to-end IT &amp; SaaS services.
+                                        B2B tech marketing includes SEO for technology keywords, Google Ads targeting enterprise buyers, LinkedIn campaigns for CTO-level decision-makers, content marketing with whitepapers and case studies, and email nurture sequences.
                                     </div>
                                 </div>
                             </div>
@@ -1413,12 +1442,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        How do you ensure operational efficiency?
+                                        Do you build enterprise mobile apps?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We use optimized workflows, automation tools, and secure platforms to improve software performance, uptime, and operational processes.
+                                        Yes, we develop enterprise apps for project management, field service, CRM access, internal communication, and operational tools — available on Android, iOS, and cross-platform frameworks.
                                     </div>
                                 </div>
                             </div>
@@ -1427,12 +1456,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Can you handle large-scale operations?
+                                        How long does it take to build a tech company website?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we manage high-volume IT &amp; SaaS deployments with scalable systems while maintaining security, reliability, and efficiency.
+                                        A professional IT company website with service pages, case studies, and lead capture takes 4-6 weeks. SaaS platforms and complex web applications take 10-16 weeks depending on features.
                                     </div>
                                 </div>
                             </div>
@@ -1441,12 +1470,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you offer customized solutions?
+                                        Do you work with IT companies outside India?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Absolutely, we deliver IT &amp; SaaS solutions tailored to your business needs, software requirements, and operational goals.
+                                        Yes, we work with IT companies, SaaS startups, and tech firms across India, USA, UK, UAE, and Australia. We offer flexible engagement models — project-based, retainer, and dedicated team options.
                                     </div>
                                 </div>
                             </div>
@@ -1587,11 +1616,11 @@
                             <ul>
                                 <li><a href="">Software & Tech</a></li>
                                 <li><a href="">Financial Services</a></li>
-                                <li><a href="">Manufacturing</a></li>
-                                <li><a href="">Healthcare</a></li>
-                                <li><a href="">Government</a></li>
-                                <li><a href="">Restaurants & Hospitality</a></li>
-                                <li><a href="">Education</a></li>
+                                <li><a href="industries/manufacturing.php">Manufacturing</a></li>
+                                <li><a href="industries/healthcare.php">Healthcare</a></li>
+                                <li><a href="industries/professional_services.php">Professional Services</a></li>
+                                <li><a href="industries/startups.php">Startups</a></li>
+                                <li><a href="industries/education.php">Education</a></li>
                                 <li><a href="">Retail</a></li>
                             </ul>
                         </div>

@@ -652,13 +652,13 @@
                     <div class="banner-style-three col-lg-7">
                         <div class="information">
                             <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
-                                Professional Services for <span style="color: var(--color-primary);">Maximum Growth</span> &amp; Efficiency
+                                <span style="color: var(--color-primary);">Professional Services</span> Website, App &amp; Digital Marketing Solutions
                             </h1>
                             <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
-                                Enhance your business with professional services solutions. We deliver scalable services for operations management, workflow optimization, client engagement, and process improvement to drive higher productivity.
+                                Build authority-driven websites, client portals, and lead generation campaigns for law firms, consulting companies, accounting practices, and service businesses. ITD GrowthLabs helps professional service firms attract high-value clients and build industry authority.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Optimize Operations</a>
+                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Get a Free Professional Services Consultation</a>
                             </div>
                         </div>
                     </div>
@@ -836,58 +836,58 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">WHY CHOOSE ITD GrowthLabs</h5>
-                        <h2 class="title">Premier Professional Services Company in India</h2>
+                        <h5 class="sub-title">WHY CHOOSE ITD GROWTHLABS FOR PROFESSIONAL SERVICES</h5>
+                        <h2 class="title">Trusted Professional Services Digital Partner in India</h2>
                         <p class="mt-30">
-                            ITD GrowthLabs delivers scalable professional services that optimize business operations, enhance client management, and drive measurable growth.
+                            ITD GrowthLabs delivers authority-building websites, client management tools, and lead generation strategies that help law firms, consultancies, and accounting firms attract and retain high-value clients.
                         </p>
                     </div>
                 </div>
             </div>
             <div class="row" style="display: flex; flex-wrap: wrap;">
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-cogs"></i>
+                            <i class="fas fa-briefcase"></i>
                         </div>
-                        <h4>Optimized Professional Services</h4>
-                        <p>Enhance professional service delivery with structured workflows, streamlined processes, and efficient operations to improve business productivity</p>
+                        <h4>Professional Firm Websites</h4>
+                        <p>Authority-driven websites for law firms, consultancies, and accounting practices with team profiles, service pages, case results, and client testimonials.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-robot"></i>
+                            <i class="fas fa-user-shield"></i>
                         </div>
-                        <h4>End-to-End Service Management</h4>
-                        <p>Manage professional services operations across project planning, execution, client coordination, and reporting for reliable performance</p>
+                        <h4>Client Portals &amp; CRM</h4>
+                        <p>Secure client portals with document sharing, project tracking, billing, communication logs, and appointment scheduling.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-brain"></i>
+                            <i class="fas fa-search"></i>
                         </div>
-                        <h4>Tailored Service Strategies</h4>
-                        <p>Deliver professional services with customized process designs, workflow automation, and operational strategies for maximum efficiency</p>
+                        <h4>Professional Services SEO</h4>
+                        <p>Rank for service-specific keywords like 'business consultant in [city]', 'law firm for [practice area]', and 'CA firm near me'.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-bolt"></i>
+                            <i class="fas fa-bullhorn"></i>
                         </div>
-                        <h4>Scalable Service Operations</h4>
-                        <p>Expand professional services with scalable systems, multi-client management, and structured processes to meet growing business demands</p>
+                        <h4>Google Ads &amp; LinkedIn Campaigns</h4>
+                        <p>Targeted campaigns on Google and LinkedIn reaching business owners, executives, and decision-makers looking for professional services.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="why-choose-card">
                         <div class="icon-wrapper">
-                            <i class="fas fa-plug"></i>
+                            <i class="fas fa-pen-fancy"></i>
                         </div>
-                        <h4>Technology & Automation Integration</h4>
-                        <p>Integrate professional services with advanced tools, automation, analytics, and digital systems to enhance operational efficiency and accuracy</p>
+                        <h4>Thought Leadership Content</h4>
+                        <p>Build industry authority with blog articles, whitepapers, case studies, and expert commentary that positions your firm as a trusted advisor.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -895,12 +895,11 @@
                         <div class="icon-wrapper">
                             <i class="fas fa-chart-line"></i>
                         </div>
-                        <h4>Analytics & Performance Insights</h4>
-                        <p>Track professional services performance with dashboards, reporting, and insights to optimize project delivery, client satisfaction, and operational outcomes</p>
+                        <h4>Lead Tracking &amp; Analytics</h4>
+                        <p>Track inquiry sources, consultation bookings, and campaign ROI to optimize marketing spend and client acquisition costs.</p>
                     </div>
                 </div>
-            </div>
-        </div>
+</div>
     </div>
     <div class="default-padding bg-white">
         <div class="container">
@@ -908,7 +907,7 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">OUR DEVELOPMENT PROCESS</h5>
-                        <h2 class="title">From Concept to Professional Services Success</h2>
+                        <h2 class="title">From Strategy to Client-Ready Platform</h2>
                     </div>
                 </div>
             </div>
@@ -970,105 +969,135 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5 class="sub-title">OUR WEB DEVELOPMENT SERVICES</h5>
-                        <h2 class="title">Behind Every Successful Professional Services Transformation</h2>
+                        <h5 class="sub-title">OUR PROFESSIONAL SERVICES DIGITAL SOLUTIONS</h5>
+                        <h2 class="title">Complete Professional Services Website, App &amp; Marketing Solutions</h2>
                     </div>
                 </div>
             </div>
         </div>
         <div class="container">
             <div class="row" style="display: flex; flex-wrap: wrap;">
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-bullseye fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-gavel fa-3x mb-3"></i>
+                        <a href="website_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Strategic professional services focused on workflow structuring, process optimization, and service planning to improve efficiency and business outcomes</p>
-                        <h4><a href="contact-us.php">Professional Services Planning &amp; Strategy</a></h4>
+                        <p>Law firm websites with practice area pages, attorney profiles, case results, client testimonials, and free consultation forms.</p>
+                        <h4><a href="website_development.php">Law Firm Website Development</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-plug fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-chart-pie fa-3x mb-3"></i>
+                        <a href="website_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Scalable professional services with process setup, system integration, and platform management for seamless operations</p>
-                        <h4><a href="contact-us.php">Service Setup &amp; Integration</a></h4>
+                        <p>Consulting firm websites with service offerings, industry expertise showcases, case studies, and B2B lead capture.</p>
+                        <h4><a href="website_development.php">Consulting Firm Websites</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-calculator fa-3x mb-3"></i>
+                        <a href="website_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Professional services solutions ensuring smooth coordination across project delivery, client management, reporting, and performance monitoring</p>
-                        <h4><a href="contact-us.php">Operational &amp; Service Optimization</a></h4>
+                        <p>Accounting and CA firm websites with service listings, tax calculators, client portals, and appointment booking.</p>
+                        <h4><a href="website_development.php">Accounting Firm Websites</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-project-diagram fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-search-plus fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Flexible professional services workflows with structured systems and optimized processes to improve speed, accuracy, and operational efficiency</p>
-                        <h4><a href="contact-us.php">Process &amp; Workflow Enhancement</a></h4>
+                        <p>Professional services SEO for practice-area and service keywords to drive organic client inquiries.</p>
+                        <h4><a href="digital_marketing.php">Professional Services SEO</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-magic fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-ad fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Advanced professional services solutions using automation, digital tools, and intelligent systems to enhance service delivery and decision-making</p>
-                        <h4><a href="contact-us.php">Smart Service Innovations</a></h4>
+                        <p>Google Ads and LinkedIn campaigns targeting business owners and executives seeking professional advisory services.</p>
+                        <h4><a href="digital_marketing.php">Professional Services PPC &amp; Ads</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-layer-group fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-user-shield fa-3x mb-3"></i>
+                        <a href="app_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Strategic professional services scaling with client onboarding, project capacity expansion, and operational growth for increasing demand</p>
-                        <h4><a href="contact-us.php">Scaling &amp; Capacity Expansion</a></h4>
+                        <p>Secure client portals with document management, billing, project status tracking, and encrypted communication.</p>
+                        <h4><a href="app_development.php">Client Portal Development</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-chart-line fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-pen-fancy fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Data-driven professional services with analytics, reporting, and tracking to optimize project performance, client satisfaction, and service quality</p>
-                        <h4><a href="contact-us.php">Insights &amp; Performance Monitoring</a></h4>
+                        <p>Thought leadership content — expert articles, industry analysis, and regulatory updates that build trust and authority.</p>
+                        <h4><a href="digital_marketing.php">Thought Leadership Content</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
-                        <i class="fas fa-shield-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <i class="fas fa-file-invoice-dollar fa-3x mb-3"></i>
+                        <a href="app_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Modern professional services enhancements ensuring regulatory compliance, structured processes, and improved operational standards</p>
-                        <h4><a href="contact-us.php">Compliance &amp; Process Improvement</a></h4>
+                        <p>Billing, invoicing, and time tracking tools with client-wise reporting, payment reminders, and GST-compliant invoices.</p>
+                        <h4><a href="app_development.php">Billing &amp; Invoicing Apps</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-share-alt fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>LinkedIn and social media marketing for professional firms — expertise showcases, team highlights, and industry insights.</p>
+                        <h4><a href="digital_marketing.php">Professional Social Media</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-envelope-open-text fa-3x mb-3"></i>
+                        <a href="digital_marketing.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Email campaigns for client retention, newsletter updates, regulatory alerts, and cross-selling professional services.</p>
+                        <h4><a href="digital_marketing.php">Professional Email Marketing</a></h4>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                    <div class="services-style-one">
+                        <i class="fas fa-calendar-check fa-3x mb-3"></i>
+                        <a href="app_development.php" class="btn-arrow">
+                            <i class="fas fa-long-arrow-right"></i>
+                        </a>
+                        <p>Appointment scheduling systems with calendar integration, automated reminders, and video consultation booking.</p>
+                        <h4><a href="app_development.php">Appointment Scheduling Systems</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-headset fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="website_development.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
-                        <p>Reliable professional services support with ongoing updates, process improvements, and performance optimization</p>
-                        <h4><a href="contact-us.php">Continuous Support &amp; Improvement</a></h4>
+                        <p>Customer support portals with ticket management, knowledge base, and self-service tools for client inquiries.</p>
+                        <h4><a href="website_development.php">Client Support Portals</a></h4>
                     </div>
                 </div>
-            </div>
+</div>
         </div>
     </div>
 
@@ -1080,8 +1109,8 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">SMART TECH CHOICES</h5>
-                        <h2 class="title">Behind Every Successful Business Campaign</h2>
-                        <p class="mt-30">We use modern and proven content and e-learning strategies to deliver engaging courses, effective learning, and measurable skill growth - designed to scale your business.</p>
+                        <h2 class="title">Technology Behind Our Professional Services Solutions</h2>
+                        <p class="mt-30">We use secure frameworks, CRM integrations, and compliance-ready tools to build reliable platforms for professional service firms.</p>
                     </div>
                 </div>
             </div>
@@ -1354,8 +1383,8 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center text-light mt-0">
-                        <h2 class="title text-white mb-30">Ready to Build Your Website?</h2>
-                        <p class="text-white">Work with a trusted business website development company for strong online presence and digital growth.</p>
+                        <h2 class="title text-white mb-30">Ready to Grow Your Professional Practice?</h2>
+                        <p class="text-white">From authority-driven websites and client portals to lead generation campaigns — get a free consultation with our professional services experts.</p>
                         <div class="button mt-40">
                             <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Let's Talk</a>
                         </div>
@@ -1385,12 +1414,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        What are professional services?
+                                        Can you build a website for a law firm?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Professional services involve delivering expert solutions, consulting, and managed operations to help businesses optimize processes and achieve their goals.
+                                        Yes, we build professional law firm websites with practice area pages, attorney profiles, case results, client testimonials, blog sections, and free consultation forms — optimized for local SEO and lead generation.
                                     </div>
                                 </div>
                             </div>
@@ -1399,12 +1428,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        What services do you offer?
+                                        How can digital marketing help a consulting firm?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We provide business consulting, process optimization, project management, client support, and end-to-end professional services solutions.
+                                        We drive qualified B2B leads through professional services SEO, Google Ads targeting business owners, LinkedIn thought leadership campaigns, content marketing with whitepapers and case studies, and email nurture sequences.
                                     </div>
                                 </div>
                             </div>
@@ -1413,12 +1442,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        How do you ensure operational efficiency?
+                                        Do you build client portals?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        We use structured workflows, automation tools, and best practices to streamline service delivery, improve productivity, and maintain quality.
+                                        Yes, we develop secure client portals with document management, project tracking, billing, encrypted communication, and appointment scheduling — integrated with your existing CRM and accounting tools.
                                     </div>
                                 </div>
                             </div>
@@ -1427,12 +1456,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Can you handle large-scale operations?
+                                        How long does it take to build a professional services website?
                                     </button>
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, we manage high-volume professional services projects with scalable systems while ensuring efficiency, reliability, and timely delivery.
+                                        A standard professional firm website takes 4-6 weeks. Client portals and practice management platforms may take 8-12 weeks depending on integrations and security requirements.
                                     </div>
                                 </div>
                             </div>
@@ -1441,12 +1470,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you offer customized solutions?
+                                        Do you serve professional firms outside India?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Absolutely, we deliver professional services tailored to your business needs, operational goals, and industry requirements.
+                                        Yes, we work with law firms, consulting companies, and accounting practices across India, USA, UK, UAE, and Australia. Our platforms support multi-jurisdiction compliance and localized content.
                                     </div>
                                 </div>
                             </div>
@@ -1587,11 +1616,11 @@
                             <ul>
                                 <li><a href="">Software & Tech</a></li>
                                 <li><a href="">Financial Services</a></li>
-                                <li><a href="">Manufacturing</a></li>
-                                <li><a href="">Healthcare</a></li>
-                                <li><a href="">Government</a></li>
-                                <li><a href="">Restaurants & Hospitality</a></li>
-                                <li><a href="">Education</a></li>
+                                <li><a href="industries/manufacturing.php">Manufacturing</a></li>
+                                <li><a href="industries/healthcare.php">Healthcare</a></li>
+                                <li><a href="industries/professional_services.php">Professional Services</a></li>
+                                <li><a href="industries/startups.php">Startups</a></li>
+                                <li><a href="industries/education.php">Education</a></li>
                                 <li><a href="">Retail</a></li>
                             </ul>
                         </div>

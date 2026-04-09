@@ -98,9 +98,9 @@
                     <div class="row align-center">
                         <div class="col-xl-6 col-lg-6 pr-50 pr-md-15 pr-xs-15 mt--80 mt-md-0 mt-xs-0">
                             <div class="information">
-                                <h2 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                                <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
                                     Digital Content Marketing <br> for <strong>Manufacturing Companies</strong>
-                                </h2>
+                                </h1>
                                 <p class="wow fadeInUp" data-wow-delay="900ms" data-wow-duration="400ms">
                                     Empower your manufacturing business with tailored <strong>digital content marketing strategies</strong>.
                                     Enhance online visibility, establish industry authority, and drive measurable growth through impactful content.

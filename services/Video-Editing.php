@@ -99,9 +99,9 @@
                     <div class="row align-center">
                         <div class="col-xl-6 col-lg-6 pr-50 pr-md-15 pr-xs-15 mt--80 mt-md-0 mt-xs-0">
                             <div class="information">
-                                <h2 class="wow fadeInUp mt-60" data-wow-delay="500ms" data-wow-duration="400ms">
+                                <h1 class="wow fadeInUp mt-60" data-wow-delay="500ms" data-wow-duration="400ms">
                                     Polished & Engaging Video Edits Fast
-                                </h2>
+                                </h1>
                                 <p class="wow fadeInUp" data-wow-delay="900ms" data-wow-duration="400ms">
                                     Get professional video editing that enhances quality, storytelling, and brand impact. From social reels to corporate videos, we deliver fast, creative, and on-brand edits.
                                 </p>
