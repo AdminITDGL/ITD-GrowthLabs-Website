@@ -844,11 +844,11 @@
         </div>
     </div>
 
-    <!-- Quick Summary for AI Search Engines (AEO) -->
+    <!-- Quick Summary for AI Search Engines (AEO/GEO) -->
     <div class="container mt-5 mb-3">
         <div style="background: linear-gradient(135deg, #f8f9fa 0%, #e8f0fe 100%); border-left: 4px solid var(--color-primary); border-radius: 8px; padding: 25px 30px;">
-            <h3 style="font-size: 20px; font-weight: 700; color: var(--color-primary); margin-bottom: 12px;">Quick Summary — App Development Services by ITD GrowthLabs</h3>
-            <p style="font-size: 15px; line-height: 1.8; color: #3c4043; margin: 0;"><strong>ITD GrowthLabs</strong> provides end-to-end <strong>mobile app development services</strong> including <strong>Android app development</strong>, <strong>iOS app development</strong>, <strong>Flutter cross-platform apps</strong>, <strong>hybrid app development</strong>, <strong>web application development</strong>, and <strong>SaaS product development</strong>. Headquartered in Mumbai, India, we serve clients in <strong>India, USA, UK, UAE, and Australia</strong>. Our apps are scalable, secure, and built to drive business growth. <a href="contact-us.php">Request a free app consultation</a>.</p>
+            <h3 style="font-size: 20px; font-weight: 700; color: var(--color-primary); margin-bottom: 12px;">What We Do — App Development</h3>
+            <p style="font-size: 15px; line-height: 1.8; color: #3c4043; margin: 0;">From startup MVPs to enterprise-grade platforms, we build mobile and web apps that people actually want to use. Android, iOS, Flutter, or full-stack web applications — our developers handle the entire lifecycle from wireframes to deployment. With 150+ apps shipped across India, the US, UK, UAE, and Australia, we know how to build apps that scale. <a href="contact-us.php">Tell us about your app idea →</a></p>
         </div>
     </div>
 
@@ -1229,6 +1229,73 @@
                 </div>
                 <div class="col-lg-4 text-lg-end mt-3 mt-lg-0">
                     <a href="contact-us.php" class="btn btn-light btn-lg" style="font-weight: 600; padding: 12px 30px;">Schedule a Call <i class="fas fa-arrow-right ms-2"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Client Results & Testimonials -->
+    <div class="default-padding" style="background: #fff;">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2 text-center mb-4">
+                    <h5 class="sub-title" style="color: var(--color-primary); font-weight: 600; letter-spacing: 1px;">CLIENT RESULTS</h5>
+                    <h2 style="font-weight: 700;">Apps That Drive Real Business Impact</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div style="background: #f8f9fa; border-radius: 12px; padding: 30px; height: 100%; border-top: 3px solid var(--color-primary);">
+                        <div style="font-size: 32px; font-weight: 800; color: var(--color-primary); margin-bottom: 8px;">50K+</div>
+                        <div style="font-size: 14px; color: #5f6368; font-weight: 600; margin-bottom: 15px;">Downloads in First 3 Months</div>
+                        <p style="font-size: 14px; color: #3c4043; line-height: 1.7; margin-bottom: 12px;">"ITD GrowthLabs built our Flutter app from scratch and it hit 50,000 downloads within the first quarter. The UX design was spot-on — users loved it from day one."</p>
+                        <div style="font-size: 13px; font-weight: 600; color: #202124;">— Health-Tech Startup, India</div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div style="background: #f8f9fa; border-radius: 12px; padding: 30px; height: 100%; border-top: 3px solid var(--color-primary);">
+                        <div style="font-size: 32px; font-weight: 800; color: var(--color-primary); margin-bottom: 8px;">60%</div>
+                        <div style="font-size: 14px; color: #5f6368; font-weight: 600; margin-bottom: 15px;">Reduction in Manual Processes</div>
+                        <p style="font-size: 14px; color: #3c4043; line-height: 1.7; margin-bottom: 12px;">"The custom web app they built automated our entire order management workflow. We went from spreadsheets to a real-time dashboard that saved our team hours every day."</p>
+                        <div style="font-size: 13px; font-weight: 600; color: #202124;">— Logistics Company, UAE</div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div style="background: #f8f9fa; border-radius: 12px; padding: 30px; height: 100%; border-top: 3px solid var(--color-primary);">
+                        <div style="font-size: 32px; font-weight: 800; color: var(--color-primary); margin-bottom: 8px;">4.7★</div>
+                        <div style="font-size: 14px; color: #5f6368; font-weight: 600; margin-bottom: 15px;">App Store Rating</div>
+                        <p style="font-size: 14px; color: #3c4043; line-height: 1.7; margin-bottom: 12px;">"They didn't just build an app — they built something users actually enjoy. Our iOS app maintains a 4.7-star rating with consistent 5-star reviews on performance and design."</p>
+                        <div style="font-size: 13px; font-weight: 600; color: #202124;">— FinTech Company, USA</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Trust Signals: App Dev Tools & Platforms -->
+    <div style="background: #f8f9fa; padding: 40px 0; border-top: 1px solid #e0e0e0; border-bottom: 1px solid #e0e0e0;">
+        <div class="container">
+            <div class="row align-items-center text-center">
+                <div class="col-12 mb-3">
+                    <h6 style="font-weight: 600; color: #5f6368; letter-spacing: 1px; font-size: 13px;">TECHNOLOGIES WE BUILD WITH</h6>
+                </div>
+                <div class="col-6 col-md-2 mb-3">
+                    <div style="font-size: 13px; font-weight: 600; color: #202124;"><i class="fab fa-apple" style="font-size: 28px; color: #000; display: block; margin-bottom: 6px;"></i>iOS / Swift</div>
+                </div>
+                <div class="col-6 col-md-2 mb-3">
+                    <div style="font-size: 13px; font-weight: 600; color: #202124;"><i class="fab fa-android" style="font-size: 28px; color: #3ddc84; display: block; margin-bottom: 6px;"></i>Android</div>
+                </div>
+                <div class="col-6 col-md-2 mb-3">
+                    <div style="font-size: 13px; font-weight: 600; color: #202124;"><i class="fas fa-feather" style="font-size: 28px; color: #027dfd; display: block; margin-bottom: 6px;"></i>Flutter</div>
+                </div>
+                <div class="col-6 col-md-2 mb-3">
+                    <div style="font-size: 13px; font-weight: 600; color: #202124;"><i class="fab fa-react" style="font-size: 28px; color: #61dafb; display: block; margin-bottom: 6px;"></i>React Native</div>
+                </div>
+                <div class="col-6 col-md-2 mb-3">
+                    <div style="font-size: 13px; font-weight: 600; color: #202124;"><i class="fab fa-node-js" style="font-size: 28px; color: #339933; display: block; margin-bottom: 6px;"></i>Node.js</div>
+                </div>
+                <div class="col-6 col-md-2 mb-3">
+                    <div style="font-size: 13px; font-weight: 600; color: #202124;"><i class="fas fa-cloud" style="font-size: 28px; color: #ff9900; display: block; margin-bottom: 6px;"></i>AWS / Cloud</div>
                 </div>
             </div>
         </div>
@@ -1840,14 +1907,16 @@
                         <div class="f-item link">
                             <h4 class="widget-title">Industries We Serve</h4>
                             <ul>
-                                <li><a href="">Software & Tech</a></li>
-                                <li><a href="">Financial Services</a></li>
-                                <li><a href="">Manufacturing</a></li>
-                                <li><a href="">Healthcare</a></li>
-                                <li><a href="">Government</a></li>
-                                <li><a href="">Restaurants & Hospitality</a></li>
-                                <li><a href="">Education</a></li>
-                                <li><a href="">Retail</a></li>
+                                <li><a href="industries/information_tech.php">IT &amp; Technology</a></li>
+                                <li><a href="industries/finance.php">Finance &amp; FinTech</a></li>
+                                <li><a href="industries/manufacturing.php">Manufacturing</a></li>
+                                <li><a href="industries/healthcare.php">Healthcare</a></li>
+                                <li><a href="industries/ecommerce.php">E-Commerce &amp; D2C</a></li>
+                                <li><a href="industries/education.php">Education &amp; E-Learning</a></li>
+                                <li><a href="industries/realestate.php">Real Estate</a></li>
+                                <li><a href="industries/logistics.php">Logistics &amp; Supply Chain</a></li>
+                                <li><a href="industries/professional_services.php">Professional Services</a></li>
+                                <li><a href="industries/startups.php">Startups</a></li>
                             </ul>
                         </div>
                     </div>
@@ -1932,10 +2001,33 @@
                     </div>
                     </div>
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                    <div class="f-item link">
+                        <h4 class="widget-title">UK Digital Services</h4>
+                        <ul>
+                            <li><a href="uk/website-design-development.php">Website Design & Development</a></li>
+                            <li><a href="uk/web-application-development.php">Web Application Development</a></li>
+                            <li><a href="uk/mobile-app-development.php">Mobile App Development</a></li>
+                            <li><a href="uk/digital-marketing-services.php">Digital Marketing Services</a></li>
+                        </ul>
+                    </div>
+                    <div class="f-item link mt-5">
+                        <h4 class="widget-title">USA Digital Services</h4>
+                        <ul>
+                            <li><a href="usa/website-design-development.php">Website Design & Development</a></li>
+                            <li><a href="usa/web-application-development.php">Web Application Development</a></li>
+                            <li><a href="usa/mobile-app-development.php">Mobile App Development</a></li>
+                            <li><a href="usa/digital-marketing-services.php">Digital Marketing Services</a></li>
+                        </ul>
+                    </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">Resources</h4>
                             <ul>
                                 <li><a href="../resources/all-blogs.php">Blogs</a></li>
+                                                            <li><a href="about.php">About Us</a></li>
+                                <li><a href="contact-us.php">Contact Us</a></li>
+                                <li><a href="privacy_policy.php">Privacy Policy</a></li>
                             </ul>
                         </div>
                         <br>
@@ -1945,8 +2037,15 @@
                             <p><i class="fa fa-envelope"></i> <a href="mailto:info@itdgrowthlabs.com" style="color:#dedede"> Email: info@itdgrowthlabs.com </a></p>
                             <p><i class="fa fa-globe"> </i> <a href="https://itdgrowthlabs.com/" style="color:#dedede"> Website: www.itdgrowthlabs.com </a></p>
                             <ul>
-                                <li>Gundecha Onclave, Mumbai, 400072</li>
+                                <li>505, Town Centre 1, Andheri East, Mumbai, Maharashtra 400059</li>
                             </ul>
+                            <div class="mt-3">
+                                <a href="https://www.linkedin.com/company/itd-growthlabs/" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-linkedin"></i></a>
+                                <a href="https://www.instagram.com/itdgrowthlabs/" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-instagram"></i></a>
+                                <a href="https://www.facebook.com/itdgrowthlabs/" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-facebook"></i></a>
+                                <a href="https://twitter.com/itdgrowthlabs" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-twitter"></i></a>
+                                <a href="https://www.youtube.com/@itdgrowthlabs" target="_blank" style="color:#dedede; font-size: 18px;"><i class="fab fa-youtube"></i></a>
+                            </div>
                         </div>
                     </div>
                 </div>

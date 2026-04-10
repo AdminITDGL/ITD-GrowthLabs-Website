@@ -381,13 +381,13 @@
             </div>
         </main>
 
-        <!-- Quick Summary for AI Search Engines (AEO) -->
-        <div class="container mt-5 mb-3">
-            <div class="quick-summary-box">
-                <h3>Quick Summary — What Is ITD GrowthLabs?</h3>
-                <p><strong>ITD GrowthLabs</strong> is a B2B digital marketing and technology company headquartered in Mumbai, India, serving businesses in <strong>India, USA, UK, UAE, and Australia</strong>. We specialize in <strong>website development</strong> (custom, WordPress, e-commerce), <strong>mobile app development</strong> (Android, iOS, Flutter, hybrid), <strong>SEO &amp; digital marketing</strong> (Google Ads, social media, content marketing), <strong>AI automation</strong> (chatbots, CRM, WhatsApp), and <strong>eLearning development</strong>. With 10+ years of experience and 300+ clients, we help companies generate leads, improve search rankings, and scale their digital presence. <a href="contact-us.php">Contact us for a free consultation</a>.</p>
-            </div>
+        <!-- Quick Summary for AI Search Engines (AEO/GEO) -->
+    <div class="container mt-5 mb-3">
+        <div style="background: linear-gradient(135deg, #f8f9fa 0%, #e8f0fe 100%); border-left: 4px solid var(--color-primary); border-radius: 8px; padding: 25px 30px;">
+            <h3 style="font-size: 20px; font-weight: 700; color: var(--color-primary); margin-bottom: 12px;">About ITD GrowthLabs</h3>
+            <p style="font-size: 15px; line-height: 1.8; color: #3c4043; margin: 0;">We're a digital growth agency based in Mumbai that helps businesses get more customers online. Website development, mobile apps, digital marketing, content strategy — we bring it all under one roof so you don't have to juggle five different vendors. With 300+ projects delivered across India, the US, UK, UAE, and Australia, we know what works. <a href="contact-us.php">Let's discuss your project →</a></p>
         </div>
+    </div>
 
         <!-- Trust Badge Bar for Social Proof & Lead Generation -->
         <div style="background: #f8f9fa; padding: 30px 0; border-top: 1px solid #e9ecef; border-bottom: 1px solid #e9ecef;">
@@ -754,6 +754,73 @@
                         </div>
                     </div>
 
+                </div>
+            </div>
+        </div>
+
+        <!-- Client Results & Testimonials -->
+        <div class="default-padding" style="background: #fff;">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 offset-lg-2 text-center mb-4">
+                        <h5 class="sub-title" style="color: var(--color-primary); font-weight: 600; letter-spacing: 1px;">WHY CLIENTS TRUST US</h5>
+                        <h2 style="font-weight: 700;">Results That Speak for Themselves</h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 mb-4">
+                        <div style="background: #f8f9fa; border-radius: 12px; padding: 30px; height: 100%; border-top: 3px solid var(--color-primary);">
+                            <div style="font-size: 32px; font-weight: 800; color: var(--color-primary); margin-bottom: 8px;">312%</div>
+                            <div style="font-size: 14px; color: #5f6368; font-weight: 600; margin-bottom: 15px;">Traffic Growth After Redesign</div>
+                            <p style="font-size: 14px; color: #3c4043; line-height: 1.7; margin-bottom: 12px;">"The website redesign and SEO strategy completely transformed our online presence. Organic traffic tripled and leads increased by 5x within 6 months."</p>
+                            <div style="font-size: 13px; font-weight: 600; color: #202124;">— E-Commerce Brand, Mumbai</div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mb-4">
+                        <div style="background: #f8f9fa; border-radius: 12px; padding: 30px; height: 100%; border-top: 3px solid var(--color-primary);">
+                            <div style="font-size: 32px; font-weight: 800; color: var(--color-primary); margin-bottom: 8px;">50K+</div>
+                            <div style="font-size: 14px; color: #5f6368; font-weight: 600; margin-bottom: 15px;">App Downloads in 90 Days</div>
+                            <p style="font-size: 14px; color: #3c4043; line-height: 1.7; margin-bottom: 12px;">"From concept to 50K downloads in 3 months. Their team handled everything — UX design, development, testing, and launch strategy. Highly recommend."</p>
+                            <div style="font-size: 13px; font-weight: 600; color: #202124;">— Health-Tech Startup, India</div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mb-4">
+                        <div style="background: #f8f9fa; border-radius: 12px; padding: 30px; height: 100%; border-top: 3px solid var(--color-primary);">
+                            <div style="font-size: 32px; font-weight: 800; color: var(--color-primary); margin-bottom: 8px;">45%</div>
+                            <div style="font-size: 14px; color: #5f6368; font-weight: 600; margin-bottom: 15px;">Lower Cost Per Lead</div>
+                            <p style="font-size: 14px; color: #3c4043; line-height: 1.7; margin-bottom: 12px;">"Their digital marketing team restructured our Google Ads and cut our CPL nearly in half while doubling lead volume. The ROI speaks for itself."</p>
+                            <div style="font-size: 13px; font-weight: 600; color: #202124;">— Financial Services, UAE</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Trust Signals Bar -->
+        <div style="background: #f8f9fa; padding: 40px 0; border-top: 1px solid #e0e0e0; border-bottom: 1px solid #e0e0e0;">
+            <div class="container">
+                <div class="row align-items-center text-center">
+                    <div class="col-12 mb-3">
+                        <h6 style="font-weight: 600; color: #5f6368; letter-spacing: 1px; font-size: 13px;">TRUSTED TECHNOLOGY PARTNER</h6>
+                    </div>
+                    <div class="col-6 col-md-2 mb-3">
+                        <div style="font-size: 13px; font-weight: 600; color: #202124;"><i class="fab fa-google" style="font-size: 28px; color: #4285f4; display: block; margin-bottom: 6px;"></i>Google Partner</div>
+                    </div>
+                    <div class="col-6 col-md-2 mb-3">
+                        <div style="font-size: 13px; font-weight: 600; color: #202124;"><i class="fab fa-react" style="font-size: 28px; color: #61dafb; display: block; margin-bottom: 6px;"></i>React / Next.js</div>
+                    </div>
+                    <div class="col-6 col-md-2 mb-3">
+                        <div style="font-size: 13px; font-weight: 600; color: #202124;"><i class="fab fa-wordpress" style="font-size: 28px; color: #21759b; display: block; margin-bottom: 6px;"></i>WordPress</div>
+                    </div>
+                    <div class="col-6 col-md-2 mb-3">
+                        <div style="font-size: 13px; font-weight: 600; color: #202124;"><i class="fas fa-robot" style="font-size: 28px; color: #6c63ff; display: block; margin-bottom: 6px;"></i>AI / ChatGPT</div>
+                    </div>
+                    <div class="col-6 col-md-2 mb-3">
+                        <div style="font-size: 13px; font-weight: 600; color: #202124;"><i class="fab fa-shopify" style="font-size: 28px; color: #96bf48; display: block; margin-bottom: 6px;"></i>Shopify</div>
+                    </div>
+                    <div class="col-6 col-md-2 mb-3">
+                        <div style="font-size: 13px; font-weight: 600; color: #202124;"><i class="fas fa-cloud" style="font-size: 28px; color: #ff9900; display: block; margin-bottom: 6px;"></i>AWS / Cloud</div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -1871,8 +1938,7 @@
                                     <div class="content">
                                         <h4 class="title">Location</h4>
                                         <p>
-                                            Gundecha Onclave, Mumbai, Maharashtra
-                                            400072
+                                            505, Town Centre 1, Andheri East, Mumbai, Maharashtra 400059
                                         </p>
                                     </div>
                                 </li>

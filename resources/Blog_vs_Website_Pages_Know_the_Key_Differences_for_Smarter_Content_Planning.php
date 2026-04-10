@@ -584,14 +584,16 @@
                             <div class="f-item link">
                                 <h4 class="widget-title">Industries We Serve</h4>
                                 <ul>
-                                    <li><a href="">Software & Tech</a></li>
-                                    <li><a href="">Financial Services</a></li>
-                                    <li><a href="">Manufacturing</a></li>
-                                    <li><a href="">Healthcare</a></li>
-                                    <li><a href="">Government</a></li>
-                                    <li><a href="">Restaurants & Hospitality</a></li>
-                                    <li><a href="">Education</a></li>
-                                    <li><a href="">Retail</a></li>
+                                    <li><a href="../industries/information_tech.php">IT &amp; Technology</a></li>
+                                <li><a href="../industries/finance.php">Finance &amp; FinTech</a></li>
+                                <li><a href="../industries/manufacturing.php">Manufacturing</a></li>
+                                <li><a href="../industries/healthcare.php">Healthcare</a></li>
+                                <li><a href="../industries/ecommerce.php">E-Commerce &amp; D2C</a></li>
+                                <li><a href="../industries/education.php">Education &amp; E-Learning</a></li>
+                                <li><a href="../industries/realestate.php">Real Estate</a></li>
+                                <li><a href="../industries/logistics.php">Logistics &amp; Supply Chain</a></li>
+                                <li><a href="../industries/professional_services.php">Professional Services</a></li>
+                                <li><a href="../industries/startups.php">Startups</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -665,13 +667,16 @@
                                 <ul>
                                     <li><a href="../resources/all-blogs.php">Blogs</a></li>
 
-                                </ul>
+                                                                <li><a href="../about.php">About Us</a></li>
+                                <li><a href="../contact-us.php">Contact Us</a></li>
+                                <li><a href="../privacy_policy.php">Privacy Policy</a></li>
+                            </ul>
                             </div>
                             <br>
                             <div class="f-item contact">
                                 <h4 class="widget-title">Contact Us</h4>
                                 <ul>
-                                    <li>Gundecha Onclave, Mumbai, 400072</li>
+                                    <li>505, Town Centre 1, Andheri East, Mumbai, Maharashtra 400059</li>
                                     <li><a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a></li>
                                 </ul>
                             </div>
@@ -684,7 +689,7 @@
                         <p><i class="fa fa-envelope"></i> <a href="mailto:info@itdgrowthlabs.com" style="color:#dedede"> Email: info@itdgrowthlabs.com </a></p>
                         <p><i class="fa fa-globe"> </i> <a href="https://itdgrowthlabs.com/" style="color:#dedede"> Website: www.itdgrowthlabs.com </a></p>
                         <ul>
-                            <li>Gundecha Onclave, Mumbai, 400072</li>
+                            <li>505, Town Centre 1, Andheri East, Mumbai, Maharashtra 400059</li>
                             <!-- <li><a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a></li> -->
                         </ul>
                     </div>

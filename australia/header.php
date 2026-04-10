@@ -10,11 +10,11 @@
                    <span>Africa</span>
                </a>
                <a href="../uk/index.php" class="country-flag-item">
-                   <img src="../assets/img/uk.png" alt="UK Flag">
+                   <span class="flag-emoji" role="img" aria-label="UK Flag">&#127468;&#127463;</span>
                    <span>UK</span>
                </a>
                <a href="../usa/index.php" class="country-flag-item">
-                   <img src="../assets/img/usa.png" alt="USA Flag">
+                   <span class="flag-emoji" role="img" aria-label="USA Flag">&#127482;&#127480;</span>
                    <span>USA</span>
                </a>
            </div>

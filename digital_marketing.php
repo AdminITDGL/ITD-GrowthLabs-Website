@@ -845,11 +845,11 @@
         </div>
     </div>
 
-    <!-- Quick Summary for AI Search Engines (AEO) -->
+    <!-- Quick Summary for AI Search Engines (AEO/GEO) -->
     <div class="container mt-5 mb-3">
         <div style="background: linear-gradient(135deg, #f8f9fa 0%, #e8f0fe 100%); border-left: 4px solid var(--color-primary); border-radius: 8px; padding: 25px 30px;">
-            <h3 style="font-size: 20px; font-weight: 700; color: var(--color-primary); margin-bottom: 12px;">Quick Summary — Digital Marketing Services by ITD GrowthLabs</h3>
-            <p style="font-size: 15px; line-height: 1.8; color: #3c4043; margin: 0;"><strong>ITD GrowthLabs</strong> is a B2B digital marketing agency offering <strong>SEO services</strong>, <strong>Google Ads (PPC)</strong>, <strong>social media marketing</strong>, <strong>content marketing</strong>, <strong>LinkedIn advertising</strong>, <strong>Meta Ads management</strong>, and <strong>local SEO</strong>. Based in Mumbai, India, we serve clients across <strong>India, USA, UK, UAE, and Australia</strong>. Our data-driven strategies help businesses increase organic traffic, generate qualified leads, and improve conversion rates. With 10+ years of experience and 300+ clients, we deliver measurable ROI across all digital channels. <a href="contact-us.php">Request a free digital marketing audit</a>.</p>
+            <h3 style="font-size: 20px; font-weight: 700; color: var(--color-primary); margin-bottom: 12px;">What We Do — Digital Marketing</h3>
+            <p style="font-size: 15px; line-height: 1.8; color: #3c4043; margin: 0;">We run SEO, Google Ads, social media, and content campaigns that bring in real leads — not just traffic. Our clients typically see 2–3x organic growth within 6 months because we focus on what actually moves the needle: the right keywords, compelling content, and smart ad spend. We work with B2B companies across India, the US, UK, UAE, and Australia. <a href="contact-us.php">Request a free marketing audit →</a></p>
         </div>
     </div>
 
@@ -1230,6 +1230,73 @@
                 </div>
                 <div class="col-lg-4 text-lg-end mt-3 mt-lg-0">
                     <a href="contact-us.php" class="btn btn-light btn-lg" style="font-weight: 600; padding: 12px 30px;">Get a Free Audit <i class="fas fa-arrow-right ms-2"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Client Results & Testimonials -->
+    <div class="default-padding" style="background: #fff;">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2 text-center mb-4">
+                    <h5 class="sub-title" style="color: var(--color-primary); font-weight: 600; letter-spacing: 1px;">CLIENT RESULTS</h5>
+                    <h2 style="font-weight: 700;">Marketing That Delivers Measurable ROI</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div style="background: #f8f9fa; border-radius: 12px; padding: 30px; height: 100%; border-top: 3px solid var(--color-primary);">
+                        <div style="font-size: 32px; font-weight: 800; color: var(--color-primary); margin-bottom: 8px;">3.2x</div>
+                        <div style="font-size: 14px; color: #5f6368; font-weight: 600; margin-bottom: 15px;">Organic Traffic Growth</div>
+                        <p style="font-size: 14px; color: #3c4043; line-height: 1.7; margin-bottom: 12px;">"Within 6 months of working with ITD GrowthLabs, our organic traffic more than tripled. They fixed our SEO foundation and built a content strategy that keeps compounding."</p>
+                        <div style="font-size: 13px; font-weight: 600; color: #202124;">— SaaS Platform, India</div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div style="background: #f8f9fa; border-radius: 12px; padding: 30px; height: 100%; border-top: 3px solid var(--color-primary);">
+                        <div style="font-size: 32px; font-weight: 800; color: var(--color-primary); margin-bottom: 8px;">45%</div>
+                        <div style="font-size: 14px; color: #5f6368; font-weight: 600; margin-bottom: 15px;">Lower Cost Per Lead</div>
+                        <p style="font-size: 14px; color: #3c4043; line-height: 1.7; margin-bottom: 12px;">"Their Google Ads team restructured our campaigns and cut our CPL nearly in half while actually increasing lead volume. The data-driven approach made all the difference."</p>
+                        <div style="font-size: 13px; font-weight: 600; color: #202124;">— Financial Services Firm, UAE</div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div style="background: #f8f9fa; border-radius: 12px; padding: 30px; height: 100%; border-top: 3px solid var(--color-primary);">
+                        <div style="font-size: 32px; font-weight: 800; color: var(--color-primary); margin-bottom: 8px;">850%</div>
+                        <div style="font-size: 14px; color: #5f6368; font-weight: 600; margin-bottom: 15px;">Social Media Engagement Increase</div>
+                        <p style="font-size: 14px; color: #3c4043; line-height: 1.7; margin-bottom: 12px;">"We went from barely any social presence to 850% more engagement in 4 months. Their team handles content, design, and strategy — we just approve and watch it grow."</p>
+                        <div style="font-size: 13px; font-weight: 600; color: #202124;">— E-Commerce Brand, Australia</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Trust Signals: Marketing Tools & Certifications -->
+    <div style="background: #f8f9fa; padding: 40px 0; border-top: 1px solid #e0e0e0; border-bottom: 1px solid #e0e0e0;">
+        <div class="container">
+            <div class="row align-items-center text-center">
+                <div class="col-12 mb-3">
+                    <h6 style="font-weight: 600; color: #5f6368; letter-spacing: 1px; font-size: 13px;">PLATFORMS & TOOLS WE MANAGE</h6>
+                </div>
+                <div class="col-6 col-md-2 mb-3">
+                    <div style="font-size: 13px; font-weight: 600; color: #202124;"><i class="fab fa-google" style="font-size: 28px; color: #4285f4; display: block; margin-bottom: 6px;"></i>Google Ads</div>
+                </div>
+                <div class="col-6 col-md-2 mb-3">
+                    <div style="font-size: 13px; font-weight: 600; color: #202124;"><i class="fab fa-facebook" style="font-size: 28px; color: #1877f2; display: block; margin-bottom: 6px;"></i>Meta Ads</div>
+                </div>
+                <div class="col-6 col-md-2 mb-3">
+                    <div style="font-size: 13px; font-weight: 600; color: #202124;"><i class="fab fa-linkedin" style="font-size: 28px; color: #0a66c2; display: block; margin-bottom: 6px;"></i>LinkedIn Ads</div>
+                </div>
+                <div class="col-6 col-md-2 mb-3">
+                    <div style="font-size: 13px; font-weight: 600; color: #202124;"><i class="fas fa-chart-line" style="font-size: 28px; color: #e37400; display: block; margin-bottom: 6px;"></i>Analytics</div>
+                </div>
+                <div class="col-6 col-md-2 mb-3">
+                    <div style="font-size: 13px; font-weight: 600; color: #202124;"><i class="fas fa-search" style="font-size: 28px; color: #34a853; display: block; margin-bottom: 6px;"></i>SEO Tools</div>
+                </div>
+                <div class="col-6 col-md-2 mb-3">
+                    <div style="font-size: 13px; font-weight: 600; color: #202124;"><i class="fas fa-robot" style="font-size: 28px; color: #6c63ff; display: block; margin-bottom: 6px;"></i>AI/ChatGPT</div>
                 </div>
             </div>
         </div>
@@ -1759,14 +1826,16 @@
                         <div class="f-item link">
                             <h4 class="widget-title">Industries We Serve</h4>
                             <ul>
-                                <li><a href="">Software & Tech</a></li>
-                                <li><a href="">Financial Services</a></li>
-                                <li><a href="">Manufacturing</a></li>
-                                <li><a href="">Healthcare</a></li>
-                                <li><a href="">Government</a></li>
-                                <li><a href="">Restaurants & Hospitality</a></li>
-                                <li><a href="">Education</a></li>
-                                <li><a href="">Retail</a></li>
+                                <li><a href="industries/information_tech.php">IT &amp; Technology</a></li>
+                                <li><a href="industries/finance.php">Finance &amp; FinTech</a></li>
+                                <li><a href="industries/manufacturing.php">Manufacturing</a></li>
+                                <li><a href="industries/healthcare.php">Healthcare</a></li>
+                                <li><a href="industries/ecommerce.php">E-Commerce &amp; D2C</a></li>
+                                <li><a href="industries/education.php">Education &amp; E-Learning</a></li>
+                                <li><a href="industries/realestate.php">Real Estate</a></li>
+                                <li><a href="industries/logistics.php">Logistics &amp; Supply Chain</a></li>
+                                <li><a href="industries/professional_services.php">Professional Services</a></li>
+                                <li><a href="industries/startups.php">Startups</a></li>
                             </ul>
                         </div>
                     </div>
@@ -1851,10 +1920,33 @@
                     </div>
                     </div>
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                    <div class="f-item link">
+                        <h4 class="widget-title">UK Digital Services</h4>
+                        <ul>
+                            <li><a href="uk/website-design-development.php">Website Design & Development</a></li>
+                            <li><a href="uk/web-application-development.php">Web Application Development</a></li>
+                            <li><a href="uk/mobile-app-development.php">Mobile App Development</a></li>
+                            <li><a href="uk/digital-marketing-services.php">Digital Marketing Services</a></li>
+                        </ul>
+                    </div>
+                    <div class="f-item link mt-5">
+                        <h4 class="widget-title">USA Digital Services</h4>
+                        <ul>
+                            <li><a href="usa/website-design-development.php">Website Design & Development</a></li>
+                            <li><a href="usa/web-application-development.php">Web Application Development</a></li>
+                            <li><a href="usa/mobile-app-development.php">Mobile App Development</a></li>
+                            <li><a href="usa/digital-marketing-services.php">Digital Marketing Services</a></li>
+                        </ul>
+                    </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">Resources</h4>
                             <ul>
                                 <li><a href="../resources/all-blogs.php">Blogs</a></li>
+                                                            <li><a href="about.php">About Us</a></li>
+                                <li><a href="contact-us.php">Contact Us</a></li>
+                                <li><a href="privacy_policy.php">Privacy Policy</a></li>
                             </ul>
                         </div>
                         <br>
@@ -1864,8 +1956,15 @@
                             <p><i class="fa fa-envelope"></i> <a href="mailto:info@itdgrowthlabs.com" style="color:#dedede"> Email: info@itdgrowthlabs.com </a></p>
                             <p><i class="fa fa-globe"> </i> <a href="https://itdgrowthlabs.com/" style="color:#dedede"> Website: www.itdgrowthlabs.com </a></p>
                             <ul>
-                                <li>Gundecha Onclave, Mumbai, 400072</li>
+                                <li>505, Town Centre 1, Andheri East, Mumbai, Maharashtra 400059</li>
                             </ul>
+                            <div class="mt-3">
+                                <a href="https://www.linkedin.com/company/itd-growthlabs/" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-linkedin"></i></a>
+                                <a href="https://www.instagram.com/itdgrowthlabs/" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-instagram"></i></a>
+                                <a href="https://www.facebook.com/itdgrowthlabs/" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-facebook"></i></a>
+                                <a href="https://twitter.com/itdgrowthlabs" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-twitter"></i></a>
+                                <a href="https://www.youtube.com/@itdgrowthlabs" target="_blank" style="color:#dedede; font-size: 18px;"><i class="fab fa-youtube"></i></a>
+                            </div>
                         </div>
                     </div>
                 </div>

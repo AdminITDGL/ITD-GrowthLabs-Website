@@ -9687,6 +9687,12 @@ header {
 	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12);
 }
 
+.country-flag-item .flag-emoji {
+	font-size: 18px;
+	line-height: 1;
+	display: inline-block;
+}
+
 /* Navbar desktop */
 .navbar.validnavs {
 	background-color: #fff;

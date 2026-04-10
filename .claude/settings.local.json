@@ -71,7 +71,12 @@
       "Bash(grep -rL \"<h1\" services/*.php)",
       "WebFetch(domain:www.webskitters.com)",
       "Bash(python add_trust_cta.py)",
-      "Bash(rm add_trust_cta.py)"
+      "Bash(rm add_trust_cta.py)",
+      "Bash(grep -E \"\\\\.png$\")",
+      "Bash(python fix_all_footers.py)",
+      "Bash(python fix_remaining.py)",
+      "Bash(python fix_stragglers.py)",
+      "Bash(python fix_quick_summaries.py)"
     ]
   }
 }

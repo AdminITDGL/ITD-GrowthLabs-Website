@@ -841,7 +841,7 @@
                     </div>
                     <div class="col-tact-stye-one col-lg-5">
                         <div class="contact-form-style-one form-with-profile wow fadeInUp p-0" data-wow-delay="500ms" data-wow-duration="400ms">
-                            <div class="form-header-orange" style="background:url('../assets/img/usa.png') center/cover no-repeat;position:relative;">
+                            <div class="form-header-orange" style="background:linear-gradient(135deg, #3c3b6e 0%, #b22234 100%);position:relative;">
                                 <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.1);border-radius:inherit;"></div>
                                 <div class="profile-images-container" style="position:relative;z-index:1;">
                                     <img src="../assets/img/form-profile-image.png" alt="Expert" class="profile-main" draggable="false">
@@ -904,10 +904,11 @@
             </div>
         </div>
     </div>
+    <!-- Quick Summary for AI Search Engines (AEO/GEO) -->
     <div class="container mt-5 mb-3">
         <div style="background: linear-gradient(135deg, #f8f9fa 0%, #e8f0fe 100%); border-left: 4px solid var(--color-primary); border-radius: 8px; padding: 25px 30px;">
-            <h3 style="font-size: 20px; font-weight: 700; color: var(--color-primary); margin-bottom: 12px;">Quick Summary — ITD GrowthLabs USA</h3>
-            <p style="font-size: 15px; line-height: 1.8; color: #3c4043; margin: 0;"><strong>ITD GrowthLabs</strong> provides <strong>digital marketing, website development, app development, and SEO services in the USA</strong>. We serve businesses across <strong>New York, Los Angeles, Chicago, Houston, San Francisco, Seattle, and Boston</strong>. From custom websites and mobile apps to Google Ads and content marketing — we help American businesses grow online. <a href="../contact-us.php">Get a free consultation for your US business</a>.</p>
+            <h3 style="font-size: 20px; font-weight: 700; color: var(--color-primary); margin-bottom: 12px;">USA Digital Services</h3>
+            <p style="font-size: 15px; line-height: 1.8; color: #3c4043; margin: 0;">Looking for a reliable digital partner for your US-based business? We work with American companies across all 50 states — building websites, developing mobile apps, and running SEO and ad campaigns that deliver measurable ROI. Same quality as a Silicon Valley agency, at a fraction of the cost. <a href="../contact-us.php">Get started with a free consultation →</a></p>
         </div>
     </div>
     <div class="default-padding p-0">
@@ -1836,14 +1837,16 @@
                         <div class="f-item link">
                             <h4 class="widget-title">Industries We Serve</h4>
                             <ul>
-                                <li><a href="">Software & Tech</a></li>
-                                <li><a href="">Financial Services</a></li>
-                                <li><a href="">Manufacturing</a></li>
-                                <li><a href="">Healthcare</a></li>
-                                <li><a href="">Government</a></li>
-                                <li><a href="">Restaurants & Hospitality</a></li>
-                                <li><a href="">Education</a></li>
-                                <li><a href="">Retail</a></li>
+                                <li><a href="../industries/information_tech.php">IT &amp; Technology</a></li>
+                                <li><a href="../industries/finance.php">Finance &amp; FinTech</a></li>
+                                <li><a href="../industries/manufacturing.php">Manufacturing</a></li>
+                                <li><a href="../industries/healthcare.php">Healthcare</a></li>
+                                <li><a href="../industries/ecommerce.php">E-Commerce &amp; D2C</a></li>
+                                <li><a href="../industries/education.php">Education &amp; E-Learning</a></li>
+                                <li><a href="../industries/realestate.php">Real Estate</a></li>
+                                <li><a href="../industries/logistics.php">Logistics &amp; Supply Chain</a></li>
+                                <li><a href="../industries/professional_services.php">Professional Services</a></li>
+                                <li><a href="../industries/startups.php">Startups</a></li>
                             </ul>
                         </div>
                     </div>
@@ -1932,6 +1935,9 @@
                             <h4 class="widget-title">Resources</h4>
                             <ul>
                                 <li><a href="../resources/all-blogs.php">Blogs</a></li>
+                                                            <li><a href="../about.php">About Us</a></li>
+                                <li><a href="../contact-us.php">Contact Us</a></li>
+                                <li><a href="../privacy_policy.php">Privacy Policy</a></li>
                             </ul>
                         </div>
                         <br>
@@ -1941,8 +1947,15 @@
                             <p><i class="fa fa-envelope"></i> <a href="mailto:info@itdgrowthlabs.com" style="color:#dedede"> Email: info@itdgrowthlabs.com </a></p>
                             <p><i class="fa fa-globe"> </i> <a href="https://itdgrowthlabs.com/" style="color:#dedede"> Website: www.itdgrowthlabs.com </a></p>
                             <ul>
-                                <li>Gundecha Onclave, Mumbai, 400072</li>
+                                <li>505, Town Centre 1, Andheri East, Mumbai, Maharashtra 400059</li>
                             </ul>
+                            <div class="mt-3">
+                                <a href="https://www.linkedin.com/company/itd-growthlabs/" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-linkedin"></i></a>
+                                <a href="https://www.instagram.com/itdgrowthlabs/" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-instagram"></i></a>
+                                <a href="https://www.facebook.com/itdgrowthlabs/" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-facebook"></i></a>
+                                <a href="https://twitter.com/itdgrowthlabs" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-twitter"></i></a>
+                                <a href="https://www.youtube.com/@itdgrowthlabs" target="_blank" style="color:#dedede; font-size: 18px;"><i class="fab fa-youtube"></i></a>
+                            </div>
                         </div>
                     </div>
                 </div>

@@ -311,14 +311,16 @@
                                             <h6 class="title">Industries We Serve</h6>
                                             <div class="content">
                                                 <ul class="menu-col">
-                                                    <li><a href="">Software & Tech</a></li>
-                                                    <li><a href="">Financial Services</a></li>
-                                                    <li><a href="">Manufacturing</a></li>
-                                                    <li><a href="">Healthcare</a></li>
-                                                    <li><a href="">Government</a></li>
-                                                    <li><a href="">Restaurants & Hospitality</a></li>
-                                                    <li><a href="">Education</a></li>
-                                                    <li><a href="">Retail</a></li>
+                                                    <li><a href="../industries/information_tech.php">IT &amp; Technology</a></li>
+                                <li><a href="../industries/finance.php">Finance &amp; FinTech</a></li>
+                                <li><a href="../industries/manufacturing.php">Manufacturing</a></li>
+                                <li><a href="../industries/healthcare.php">Healthcare</a></li>
+                                <li><a href="../industries/ecommerce.php">E-Commerce &amp; D2C</a></li>
+                                <li><a href="../industries/education.php">Education &amp; E-Learning</a></li>
+                                <li><a href="../industries/realestate.php">Real Estate</a></li>
+                                <li><a href="../industries/logistics.php">Logistics &amp; Supply Chain</a></li>
+                                <li><a href="../industries/professional_services.php">Professional Services</a></li>
+                                <li><a href="../industries/startups.php">Startups</a></li>
                                                 </ul>
                                             </div>
                                         </div>

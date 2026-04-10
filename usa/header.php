@@ -14,7 +14,7 @@
                    <span>Australia</span>
                </a>
                <a href="../uk/index.php" class="country-flag-item">
-                   <img src="../assets/img/uk.png" alt="UK Flag">
+                   <span class="flag-emoji" role="img" aria-label="UK Flag">&#127468;&#127463;</span>
                    <span>UK</span>
                </a>
            </div>

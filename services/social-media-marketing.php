@@ -744,11 +744,11 @@
     </div>
     <!-- End Banner -->
 
-    <!-- Quick Summary for AI Search Engines (AEO) -->
+    <!-- Quick Summary for AI Search Engines (AEO/GEO) -->
     <div class="container mt-5 mb-3">
         <div style="background: linear-gradient(135deg, #f8f9fa 0%, #e8f0fe 100%); border-left: 4px solid var(--color-primary); border-radius: 8px; padding: 25px 30px;">
-            <h3 style="font-size: 20px; font-weight: 700; color: var(--color-primary); margin-bottom: 12px;">Quick Summary — Social Media Marketing Services</h3>
-            <p style="font-size: 15px; line-height: 1.8; color: #3c4043; margin: 0;"><strong>ITD GrowthLabs</strong> provides <strong>social media marketing services</strong> across <strong>Facebook, Instagram, LinkedIn, and Twitter</strong>. We create targeted campaigns, manage paid social ads, and build brand presence for B2B businesses in <strong>India, USA, UK, UAE, and Australia</strong>. From strategy to execution, we help you grow engagement, generate leads, and build authority on social platforms. <a href="../contact-us.php">Get a free social media strategy call</a>.</p>
+            <h3 style="font-size: 20px; font-weight: 700; color: var(--color-primary); margin-bottom: 12px;">Social Media Marketing</h3>
+            <p style="font-size: 15px; line-height: 1.8; color: #3c4043; margin: 0;">We manage social media campaigns on Instagram, LinkedIn, Facebook, and X (Twitter) that build brand awareness and drive real engagement — not just vanity metrics. Our content team, designers, and strategists work together to create posts, reels, and campaigns that actually move the business forward. <a href="../contact-us.php">Get a social media strategy →</a></p>
         </div>
     </div>
 
@@ -1395,14 +1395,16 @@
                         <div class="f-item link">
                             <h4 class="widget-title">Industries We Serve</h4>
                             <ul>
-                                <li><a href="">Software & Tech</a></li>
-                                <li><a href="">Financial Services</a></li>
-                                <li><a href="">Manufacturing</a></li>
-                                <li><a href="">Healthcare</a></li>
-                                <li><a href="">Government</a></li>
-                                <li><a href="">Restaurants & Hospitality</a></li>
-                                <li><a href="">Education</a></li>
-                                <li><a href="">Retail</a></li>
+                                <li><a href="../industries/information_tech.php">IT &amp; Technology</a></li>
+                                <li><a href="../industries/finance.php">Finance &amp; FinTech</a></li>
+                                <li><a href="../industries/manufacturing.php">Manufacturing</a></li>
+                                <li><a href="../industries/healthcare.php">Healthcare</a></li>
+                                <li><a href="../industries/ecommerce.php">E-Commerce &amp; D2C</a></li>
+                                <li><a href="../industries/education.php">Education &amp; E-Learning</a></li>
+                                <li><a href="../industries/realestate.php">Real Estate</a></li>
+                                <li><a href="../industries/logistics.php">Logistics &amp; Supply Chain</a></li>
+                                <li><a href="../industries/professional_services.php">Professional Services</a></li>
+                                <li><a href="../industries/startups.php">Startups</a></li>
                             </ul>
                         </div>
                     </div>
@@ -1487,10 +1489,33 @@
                     </div>
                     </div>
                     <div class="col-lg-3 col-md-3 mt-50 footer-item">
+                    <div class="f-item link">
+                        <h4 class="widget-title">UK Digital Services</h4>
+                        <ul>
+                            <li><a href="../uk/website-design-development.php">Website Design & Development</a></li>
+                            <li><a href="../uk/web-application-development.php">Web Application Development</a></li>
+                            <li><a href="../uk/mobile-app-development.php">Mobile App Development</a></li>
+                            <li><a href="../uk/digital-marketing-services.php">Digital Marketing Services</a></li>
+                        </ul>
+                    </div>
+                    <div class="f-item link mt-5">
+                        <h4 class="widget-title">USA Digital Services</h4>
+                        <ul>
+                            <li><a href="../usa/website-design-development.php">Website Design & Development</a></li>
+                            <li><a href="../usa/web-application-development.php">Web Application Development</a></li>
+                            <li><a href="../usa/mobile-app-development.php">Mobile App Development</a></li>
+                            <li><a href="../usa/digital-marketing-services.php">Digital Marketing Services</a></li>
+                        </ul>
+                    </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
                         <div class="f-item link">
                             <h4 class="widget-title">Resources</h4>
                             <ul>
                                 <li><a href="../resources/all-blogs.php">Blogs</a></li>
+                                                            <li><a href="../about.php">About Us</a></li>
+                                <li><a href="../contact-us.php">Contact Us</a></li>
+                                <li><a href="../privacy_policy.php">Privacy Policy</a></li>
                             </ul>
                         </div>
                         <br>
@@ -1500,7 +1525,7 @@
                             <p><i class="fa fa-envelope"></i> <a href="mailto:info@itdgrowthlabs.com" style="color:#dedede"> Email: info@itdgrowthlabs.com </a></p>
                             <p><i class="fa fa-globe"> </i> <a href="https://itdgrowthlabs.com/" style="color:#dedede"> Website: www.itdgrowthlabs.com </a></p>
                             <ul>
-                                <li>Gundecha Onclave, Mumbai, 400072</li>
+                                <li>505, Town Centre 1, Andheri East, Mumbai, Maharashtra 400059</li>
                             </ul>
                         </div>
                     </div>

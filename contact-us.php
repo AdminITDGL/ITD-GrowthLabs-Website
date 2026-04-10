@@ -171,7 +171,7 @@
                                 <div class="info">
                                     <h4 class="title">Location</h4>
                                     <p>
-                                        Gundecha Onclave, Mumbai, Maharashtra 400072
+                                        505, Town Centre 1, Andheri East, Mumbai, Maharashtra 400059
                                     </p>
                                 </div>
                             </li>
