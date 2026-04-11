@@ -82,10 +82,7 @@
         "email": "info@itdgrowthlabs.com",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "505, Town Centre 1, opposite Times Square, Mittal Industrial Estate, Marol, Andheri",
-            "addressLocality": "Mumbai",
-            "addressRegion": "Maharashtra",
-            "postalCode": "400059",
+            "streetAddress": "Andheri, Mumbai, India",
             "addressCountry": "IN"
         },
         "openingHours": "Mo-Sa 09:00-18:00",
@@ -171,7 +168,7 @@
                                 <div class="info">
                                     <h4 class="title">Location</h4>
                                     <p>
-                                        505, Town Centre 1, Andheri East, Mumbai, Maharashtra 400059
+                                        Andheri, Mumbai, India
                                     </p>
                                 </div>
                             </li>

@@ -662,7 +662,7 @@
                                 <div class="content">
                                     <h4 class="title">Location</h4>
                                     <p>
-                                        505, Town Centre 1, Andheri East, Mumbai, Maharashtra 400059
+                                        Andheri, Mumbai, India
                                     </p>
                                 </div>
                             </li>
@@ -974,7 +974,7 @@
                             <p><i class="fa fa-envelope"></i> <a href="mailto:info@itdgrowthlabs.com" style="color:#dedede"> Email: info@itdgrowthlabs.com </a></p>
                             <p><i class="fa fa-globe"> </i> <a href="https://itdgrowthlabs.com/" style="color:#dedede"> Website: www.itdgrowthlabs.com </a></p>
                             <ul>
-                                <li>505, Town Centre 1, Andheri East, Mumbai, Maharashtra 400059</li>
+                                <li>Andheri, Mumbai, India</li>
                                 <!-- <li><a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a></li> -->
                             </ul>
                         </div>
@@ -987,7 +987,7 @@
                         <p><i class="fa fa-envelope"></i> <a href="mailto:info@itdgrowthlabs.com" style="color:#dedede"> Email: info@itdgrowthlabs.com </a></p>
                         <p><i class="fa fa-globe"> </i> <a href="https://itdgrowthlabs.com/" style="color:#dedede"> Website: www.itdgrowthlabs.com </a></p>
                         <ul>
-                            <li>505, Town Centre 1, Andheri East, Mumbai, Maharashtra 400059</li>
+                            <li>Andheri, Mumbai, India</li>
                              <li><a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a></li> -->
                     </ul>
                 </div>

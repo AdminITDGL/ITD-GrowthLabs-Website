@@ -76,10 +76,7 @@
         "description": "Leading B2B digital marketing and tech company offering website development, app development, SEO, content writing, social media marketing, and AI automation services globally.",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "505, Town Centre 1, opposite Times Square, Mittal Industrial Estate, Marol, Andheri",
-            "addressLocality": "Mumbai",
-            "addressRegion": "Maharashtra",
-            "postalCode": "400059",
+            "streetAddress": "Andheri, Mumbai, India",
             "addressCountry": "IN"
         },
         "contactPoint": {
@@ -1938,7 +1935,7 @@
                                     <div class="content">
                                         <h4 class="title">Location</h4>
                                         <p>
-                                            505, Town Centre 1, Andheri East, Mumbai, Maharashtra 400059
+                                            Andheri, Mumbai, India
                                         </p>
                                     </div>
                                 </li>

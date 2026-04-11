@@ -76,7 +76,8 @@
       "Bash(python fix_all_footers.py)",
       "Bash(python fix_remaining.py)",
       "Bash(python fix_stragglers.py)",
-      "Bash(python fix_quick_summaries.py)"
+      "Bash(python fix_quick_summaries.py)",
+      "Bash(python fix_location_cta.py)"
     ]
   }
 }
