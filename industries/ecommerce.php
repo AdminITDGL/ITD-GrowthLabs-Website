@@ -633,6 +633,12 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What e-commerce platforms do you work with?","acceptedAnswer":{"@type":"Answer","text":"We work with Shopify, WooCommerce, Magento, custom-built platforms, and headless commerce solutions. We help businesses choose the right platform based on their product catalog size, budget, scalability needs, and integration requirements."}},{"@type":"Question","name":"How can digital marketing increase e-commerce sales?","acceptedAnswer":{"@type":"Answer","text":"E-commerce digital marketing combines SEO for organic product discovery, Google Shopping ads, social media advertising on Instagram and Facebook, email marketing for cart recovery, WhatsApp automation for order updates, and conversion rate optimization to maximize revenue."}},{"@type":"Question","name":"Do you build mobile commerce apps?","acceptedAnswer":{"@type":"Answer","text":"Yes, we build mobile commerce apps with product browsing, cart management, secure payment integration, push notifications for offers, order tracking, and seamless checkout experiences using Flutter and React Native for both iOS and Android."}}]}
     </script>
+    <link rel="alternate" hreflang="en-in" href="https://itdgrowthlabs.com/industries/ecommerce.php" />
+    <link rel="alternate" hreflang="en-us" href="https://itdgrowthlabs.com/industries/ecommerce.php" />
+    <link rel="alternate" hreflang="en-gb" href="https://itdgrowthlabs.com/industries/ecommerce.php" />
+    <link rel="alternate" hreflang="en-au" href="https://itdgrowthlabs.com/industries/ecommerce.php" />
+    <link rel="alternate" hreflang="en-ae" href="https://itdgrowthlabs.com/industries/ecommerce.php" />
+    <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/industries/ecommerce.php" />
 </head>
 
 <body>
@@ -1527,6 +1533,8 @@
         </div>
     </div>
     <!-- End FAQ -->
+<?php include(__DIR__ . "/../includes/engagement-tools.php"); ?>
+
 <!-- Start Footer
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">

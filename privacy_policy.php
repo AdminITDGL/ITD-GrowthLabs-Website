@@ -104,6 +104,12 @@
         }
     </style>
 
+    <link rel="alternate" hreflang="en-in" href="https://itdgrowthlabs.com/privacy_policy.php" />
+    <link rel="alternate" hreflang="en-us" href="https://itdgrowthlabs.com/privacy_policy.php" />
+    <link rel="alternate" hreflang="en-gb" href="https://itdgrowthlabs.com/privacy_policy.php" />
+    <link rel="alternate" hreflang="en-au" href="https://itdgrowthlabs.com/privacy_policy.php" />
+    <link rel="alternate" hreflang="en-ae" href="https://itdgrowthlabs.com/privacy_policy.php" />
+    <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/privacy_policy.php" />
 </head>
 
 <body>

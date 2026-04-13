@@ -1,0 +1,56 @@
+# ITD GrowthLabs - robots.txt
+# https://itdgrowthlabs.com
+
+User-agent: *
+Allow: /
+
+# Block form handlers and thank-you pages
+Disallow: /contactMail.php
+Disallow: /appDevelopmentFormMail.php
+Disallow: /leadGenFormMail.php
+Disallow: /socialMediaFormMail.php
+Disallow: /videoProductionFormMail.php
+Disallow: /websiteDesignFormMail.php
+Disallow: /thankyou.php
+Disallow: /appDevelopmentForm_thankyou.php
+Disallow: /leadGenForm_thankyou.php
+Disallow: /socialMediaForm_thankyou.php
+Disallow: /videoProductionForm_thankyou.php
+Disallow: /websiteDesignForm_thankyou.php
+Disallow: /coming-soon.php
+Disallow: /common-form.php
+
+# Block utility files
+Disallow: /includes/
+Disallow: /assets/css/
+Disallow: /assets/js/
+
+# Block duplicate header files
+Disallow: /usa/header.php
+Disallow: /uk/header.php
+Disallow: /uae/header.php
+Disallow: /australia/header.php
+Disallow: /africa/header.php
+Disallow: /resources/header.php
+
+# Sitemap
+Sitemap: https://itdgrowthlabs.com/sitemap.xml
+
+# AI Crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /

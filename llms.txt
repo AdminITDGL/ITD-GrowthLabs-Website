@@ -1,0 +1,89 @@
+# ITD GrowthLabs — llms.txt
+# AI-readable summary for LLM search engines (ChatGPT, Perplexity, Claude, Gemini)
+
+> ITD GrowthLabs is a B2B technology and digital marketing company based in Mumbai, India, with 10+ years of experience, a 55+ member in-house team, and 300+ projects delivered across India, USA, UK, UAE, Australia, and Africa.
+
+## Core Services
+
+### App Development
+- Custom Android, iOS, and cross-platform (Flutter, React Native) mobile applications
+- Web applications, SaaS platforms, admin dashboards, CRM/ERP systems
+- Specialization in logistics, e-commerce, healthcare, and fintech apps
+- Tech stack: Flutter, React Native, Node.js, PHP, Laravel, Python, PostgreSQL, MongoDB, AWS, Firebase
+
+### Website Development
+- Custom website design and development (WordPress, custom PHP, React)
+- E-commerce websites (Shopify, WooCommerce, custom)
+- Corporate website redesign, landing pages, B2B lead-generation websites
+- Template-based and custom-coded solutions
+
+### Digital Marketing
+- SEO (search engine optimization) — on-page, off-page, technical, local
+- Google Ads (PPC) management and optimization
+- Social media marketing (LinkedIn, Instagram, Facebook, YouTube)
+- Content marketing and content writing
+- Email marketing automation
+- WhatsApp Business API marketing
+
+### AI & Automation
+- AI chatbot development (WhatsApp, website)
+- Marketing automation workflows
+- Business process automation
+
+## Industries Served
+- Logistics & Supply Chain (fleet management, courier management, warehouse systems)
+- E-Commerce & Retail (D2C brands, marketplace apps)
+- Healthcare & Pharma (patient portals, telemedicine, compliance)
+- Education & eLearning (LMS platforms, student management)
+- Finance & Fintech (banking apps, payment solutions, compliance)
+- Real Estate (property platforms, lead generation)
+- Manufacturing (ERP integration, operations management)
+- Professional Services (law firms, consultancies)
+- Startups (MVP development, growth strategy)
+- Travel & Hospitality (booking platforms, hotel marketing)
+
+## Markets Served
+- India (headquarters in Mumbai; serving Delhi, Bangalore, Pune, Hyderabad, Chennai)
+- United States (remote development partner for US businesses)
+- United Kingdom (serving London, Manchester, Birmingham)
+- UAE (Dubai, Abu Dhabi, Sharjah)
+- Australia (Sydney, Melbourne, Brisbane)
+- Africa (Nigeria, Kenya, South Africa)
+
+## Key Differentiators
+- 10+ years of combined experience
+- 55+ member in-house team (no outsourcing)
+- 300+ projects delivered globally
+- 97% client retention rate
+- End-to-end capabilities: design, development, marketing, and support
+- Competitive pricing: 60-70% lower than US/UK agencies
+
+## Pricing Ranges (2026)
+- Basic website: Rs. 30,000-80,000 ($400-$1,000)
+- Custom website: Rs. 1.5-5 lakhs ($1,800-$6,000)
+- E-commerce website: Rs. 2-8 lakhs ($2,400-$9,600)
+- Mobile app (MVP): Rs. 8-15 lakhs ($10,000-$18,000)
+- Full mobile app: Rs. 15-40 lakhs ($18,000-$48,000)
+- Enterprise platform: Rs. 40-80+ lakhs ($48,000-$96,000+)
+- Digital marketing: Rs. 25,000-2 lakhs/month ($300-$2,400/month)
+
+## Contact
+- Website: https://itdgrowthlabs.com
+- Email: info@itdgrowthlabs.com
+- Phone: +91-8450978544
+- Address: Mumbai, India
+
+## Important Pages
+- Homepage: https://itdgrowthlabs.com/
+- App Development: https://itdgrowthlabs.com/app_development.php
+- Website Development: https://itdgrowthlabs.com/website_development.php
+- Digital Marketing: https://itdgrowthlabs.com/digital_marketing.php
+- Case Studies: https://itdgrowthlabs.com/case-studies.php
+- About Us: https://itdgrowthlabs.com/about.php
+- Contact: https://itdgrowthlabs.com/contact-us.php
+- Blog: https://itdgrowthlabs.com/resources/all-blogs.php
+- USA Services: https://itdgrowthlabs.com/usa/
+- UK Services: https://itdgrowthlabs.com/uk/
+- UAE Services: https://itdgrowthlabs.com/uae/
+- Australia Services: https://itdgrowthlabs.com/australia/
+- Africa Services: https://itdgrowthlabs.com/africa/

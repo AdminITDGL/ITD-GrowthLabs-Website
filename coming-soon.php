@@ -14,11 +14,12 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Dilabs - Creative Digital Agency Template">
+    <meta name="description" content="This page is coming soon — ITD GrowthLabs. We are working on something exciting. Stay tuned!">
+    <meta name="robots" content="noindex, nofollow">
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="./assets/img/favicon.png" type="image/x-icon">
     <!-- ========== Page Title ========== -->
-    <title>Dilabs - Creative Digital Agency Template</title>
+    <title>Coming Soon — ITD GrowthLabs</title>
 
     <!-- ========== Favicon Icon ========== -->
     <?php include("./includes/header_script.php") ?>

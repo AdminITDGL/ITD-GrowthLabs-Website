@@ -1773,7 +1773,9 @@
         </div>
     </div>
 
-    <!-- Start Footer
+    <?php include(__DIR__ . "/includes/engagement-tools.php"); ?>
+
+<!-- Start Footer
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
         <div class="container">

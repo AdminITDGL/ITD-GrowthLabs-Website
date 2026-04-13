@@ -629,6 +629,12 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do you build HIPAA-compliant healthcare websites?","acceptedAnswer":{"@type":"Answer","text":"Yes, we build healthcare websites and applications that follow HIPAA compliance guidelines, ensuring patient data security, encrypted communications, secure authentication, and proper data handling protocols."}},{"@type":"Question","name":"What healthcare apps can you develop?","acceptedAnswer":{"@type":"Answer","text":"We develop patient portals, telemedicine platforms, appointment booking systems, electronic health record (EHR) integrations, health monitoring apps, and pharmacy management applications for healthcare providers and organizations."}},{"@type":"Question","name":"How can digital marketing help healthcare businesses?","acceptedAnswer":{"@type":"Answer","text":"Healthcare digital marketing includes local SEO for clinics and hospitals, Google Ads for patient acquisition, content marketing for health education, social media engagement, and reputation management to build trust and attract new patients."}}]}
     </script>
+    <link rel="alternate" hreflang="en-in" href="https://itdgrowthlabs.com/industries/healthcare.php" />
+    <link rel="alternate" hreflang="en-us" href="https://itdgrowthlabs.com/industries/healthcare.php" />
+    <link rel="alternate" hreflang="en-gb" href="https://itdgrowthlabs.com/industries/healthcare.php" />
+    <link rel="alternate" hreflang="en-au" href="https://itdgrowthlabs.com/industries/healthcare.php" />
+    <link rel="alternate" hreflang="en-ae" href="https://itdgrowthlabs.com/industries/healthcare.php" />
+    <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/industries/healthcare.php" />
 </head>
 
 <body>
@@ -1513,6 +1519,8 @@
         </div>
     </div>
     <!-- End FAQ -->
+<?php include(__DIR__ . "/../includes/engagement-tools.php"); ?>
+
 <!-- Start Footer
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">

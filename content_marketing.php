@@ -616,6 +616,12 @@
             }
         }
     </style>
+    <link rel="alternate" hreflang="en-in" href="https://itdgrowthlabs.com/content_marketing.php" />
+    <link rel="alternate" hreflang="en-us" href="https://itdgrowthlabs.com/content_marketing.php" />
+    <link rel="alternate" hreflang="en-gb" href="https://itdgrowthlabs.com/content_marketing.php" />
+    <link rel="alternate" hreflang="en-au" href="https://itdgrowthlabs.com/content_marketing.php" />
+    <link rel="alternate" hreflang="en-ae" href="https://itdgrowthlabs.com/content_marketing.php" />
+    <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/content_marketing.php" />
 </head>
 
 <body>
@@ -1461,6 +1467,8 @@
         </div>
     </div>
     <!-- End FAQ -->
+<?php include(__DIR__ . "/includes/engagement-tools.php"); ?>
+
 <!-- Start Footer
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">

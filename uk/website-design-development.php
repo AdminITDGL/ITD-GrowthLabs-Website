@@ -619,6 +619,13 @@
             }
         }
     </style>
+    <link rel="alternate" hreflang="en-us" href="https://itdgrowthlabs.com/usa/website-design-development.php" />
+    <link rel="alternate" hreflang="en-gb" href="https://itdgrowthlabs.com/uk/website-design-development.php" />
+    <link rel="alternate" hreflang="en-ae" href="https://itdgrowthlabs.com/uae/website-design-development.php" />
+    <link rel="alternate" hreflang="en-au" href="https://itdgrowthlabs.com/australia/website-design-development.php" />
+    <link rel="alternate" hreflang="en" href="https://itdgrowthlabs.com/africa/website-design-development.php" />
+    <link rel="alternate" hreflang="en-in" href="https://itdgrowthlabs.com/website_development.php" />
+    <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/website_development.php" />
 </head>
 
 <body>
@@ -1344,6 +1351,8 @@
             </div>
         </div>
     </div>
+<?php include(__DIR__ . "/../includes/engagement-tools.php"); ?>
+
 <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
         <div class="container">
             <div class="f-items default-padding-bottom pt-70 pt-xs-0">

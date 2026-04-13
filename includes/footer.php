@@ -1,4 +1,6 @@
-<!-- Start Footer 
+<?php include(__DIR__ . "/engagement-tools.php"); ?>
+
+<!-- Start Footer
     ============================================= -->
 
 <!-- Start Footer  ============================================= -->
@@ -242,7 +244,9 @@
                         <h4 class="widget-title">Resources</h4>
                         <ul>
                             <li><a href="./resources/all-blogs.php">Blogs</a></li>
+                            <li><a href="case-studies.php">Case Studies</a></li>
                             <li><a href="about.php">About Us</a></li>
+                            <li><a href="pricing.php">Pricing</a></li>
                             <li><a href="contact-us.php">Contact Us</a></li>
                             <li><a href="privacy_policy.php">Privacy Policy</a></li>
                         </ul>

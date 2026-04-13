@@ -633,6 +633,12 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What digital solutions do real estate businesses need?","acceptedAnswer":{"@type":"Answer","text":"Real estate businesses need IDX/MLS-integrated listing websites, property search apps with map integration, CRM systems for lead management, virtual tour platforms, and digital marketing including local SEO, Google Ads, and social media marketing for property promotion."}},{"@type":"Question","name":"Can you build a property listing app?","acceptedAnswer":{"@type":"Answer","text":"Yes, we build custom real estate apps with advanced property search, map-based listings, virtual 3D tours, mortgage calculators, agent-matching features, push notifications for new listings, and lead management dashboards."}},{"@type":"Question","name":"How does SEO help real estate companies?","acceptedAnswer":{"@type":"Answer","text":"Real estate SEO helps rank for location-based property searches, neighborhood guides, and buyer/seller keywords. Local SEO drives leads from Google Maps, while content marketing builds authority through market reports and buying guides."}}]}
     </script>
+    <link rel="alternate" hreflang="en-in" href="https://itdgrowthlabs.com/industries/realestate.php" />
+    <link rel="alternate" hreflang="en-us" href="https://itdgrowthlabs.com/industries/realestate.php" />
+    <link rel="alternate" hreflang="en-gb" href="https://itdgrowthlabs.com/industries/realestate.php" />
+    <link rel="alternate" hreflang="en-au" href="https://itdgrowthlabs.com/industries/realestate.php" />
+    <link rel="alternate" hreflang="en-ae" href="https://itdgrowthlabs.com/industries/realestate.php" />
+    <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/industries/realestate.php" />
 </head>
 
 <body>
@@ -1527,6 +1533,8 @@
         </div>
     </div>
     <!-- End FAQ -->
+<?php include(__DIR__ . "/../includes/engagement-tools.php"); ?>
+
 <!-- Start Footer
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">

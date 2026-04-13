@@ -633,6 +633,12 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What startup services does ITD GrowthLabs offer?","acceptedAnswer":{"@type":"Answer","text":"We offer MVP development, mobile app development, web application development, investor pitch websites, growth marketing, SEO, social media marketing, and branding services. We work with early-stage startups through Series A+ companies across all industries."}},{"@type":"Question","name":"How quickly can you build a startup MVP?","acceptedAnswer":{"@type":"Answer","text":"We can build a functional MVP in 4-8 weeks depending on complexity. Our agile process focuses on core features first, allowing you to validate your idea, gather user feedback, and attract investors quickly while keeping development costs manageable."}},{"@type":"Question","name":"Do you offer equity-based partnerships with startups?","acceptedAnswer":{"@type":"Answer","text":"We primarily work on a project or retainer basis, but we're open to discussing equity-based partnerships for promising startups with strong founding teams and validated market opportunities. Contact us to discuss your specific situation."}}]}
     </script>
+    <link rel="alternate" hreflang="en-in" href="https://itdgrowthlabs.com/industries/startups.php" />
+    <link rel="alternate" hreflang="en-us" href="https://itdgrowthlabs.com/industries/startups.php" />
+    <link rel="alternate" hreflang="en-gb" href="https://itdgrowthlabs.com/industries/startups.php" />
+    <link rel="alternate" hreflang="en-au" href="https://itdgrowthlabs.com/industries/startups.php" />
+    <link rel="alternate" hreflang="en-ae" href="https://itdgrowthlabs.com/industries/startups.php" />
+    <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/industries/startups.php" />
 </head>
 
 <body>
@@ -1526,6 +1532,8 @@
         </div>
     </div>
     <!-- End FAQ -->
+<?php include(__DIR__ . "/../includes/engagement-tools.php"); ?>
+
 <!-- Start Footer
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">

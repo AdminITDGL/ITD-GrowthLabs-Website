@@ -90,16 +90,15 @@
                                     </div>
                                     <h1>Outsourcing vs In-House Development: Pros, Cons &amp; Real Cost Comparison</h1>
 
-                                    <h2>Overview</h2>
-                                    <p>Detailed comparison of outsourcing vs in-house software development. Cost, quality, speed, and management considerations. At <a href="../index.php">ITD GrowthLabs</a>, we have 10+ years of experience delivering app development solutions for businesses across India, the USA, UK, UAE, and Australia.</p><p>In this guide, we cover everything you need to know — from what to look for in a partner to realistic cost expectations and timelines.</p>
-
-                                    <h2>Key Considerations</h2>
-                                    <p>When evaluating app development options, focus on these factors:</p><ul><li><strong>Portfolio and case studies:</strong> Look for proven experience with projects similar to yours</li><li><strong>Technical expertise:</strong> Ensure the team has skills in the technologies your project requires</li><li><strong>Communication:</strong> Clear, consistent communication is essential, especially for remote teams</li><li><strong>Post-launch support:</strong> A reliable partner provides ongoing maintenance and optimization</li><li><strong>Pricing transparency:</strong> Detailed estimates with no hidden costs</li></ul>
-
-                                    <h2>Why Choose ITD GrowthLabs</h2>
-                                    <p><a href="../index.php">ITD GrowthLabs</a> delivers app development services with a focus on measurable results — more traffic, more leads, more revenue. With 300+ projects delivered and a 97% client retention rate, we are a trusted partner for businesses that take their digital presence seriously.</p><p><a href="../contact-us.php">Schedule a free consultation</a> to discuss your project and get a detailed proposal.</p>
-
-                                    <div style="background: linear-gradient(135deg, var(--color-primary) 0%, #1a237e 100%); border-radius: 12px; padding: 30px; margin: 30px 0;">
+                                                                        <h2>The Real Cost Comparison</h2>
+                                    <p>In-house development costs more than most companies realize. Beyond salaries, factor in:</p><ul><li><strong>Recruitment costs:</strong> Rs. 50,000-2 Lakhs per hire (recruiter fees, job postings, interview time)</li><li><strong>Onboarding:</strong> 3-6 months before a new developer is fully productive</li><li><strong>Benefits and overhead:</strong> Add 30-40% on top of salary for insurance, equipment, office space, and training</li><li><strong>Retention risk:</strong> If a key developer leaves, you lose months of knowledge and momentum</li></ul><p>Outsourcing to <a href="../app_development.php">ITD GrowthLabs</a> eliminates these costs. You pay for productive development time — nothing else.</p>
+                                    <h2>When In-House Development Makes Sense</h2>
+                                    <ul><li>Your product IS technology (you're a software company)</li><li>You need developers who deeply understand your domain over years</li><li>You have consistent, full-time work for 5+ developers</li><li>Proprietary technology that can't be shared with external teams</li></ul>
+                                    <h2>When Outsourcing Is the Better Choice</h2>
+                                    <ul><li>You need to build a product but technology isn't your core business</li><li>You need specialized skills (Flutter, AI, blockchain) for a defined period</li><li>Your project has a defined scope and timeline</li><li>You need to move fast — outsourcing gives you an instant team</li><li>Budget constraints make in-house hiring impractical</li></ul>
+                                    <h2>The Hybrid Model: Best of Both Worlds</h2>
+                                    <p>Many successful companies use a hybrid approach: a small in-house team for product strategy and critical systems, with an outsourced team handling development, testing, and maintenance.</p><p><a href="../contact-us.php">Discuss the right model for your project</a> with ITD GrowthLabs.</p>
+<div style="background: linear-gradient(135deg, var(--color-primary) 0%, #1a237e 100%); border-radius: 12px; padding: 30px; margin: 30px 0;">
                                         <h3 style="color: #fff; margin: 0 0 10px; font-size: 22px;">Get a Free Consultation</h3>
                                         <p style="color: rgba(255,255,255,0.9); margin: 0 0 15px; font-size: 15px;">Talk to our team about your project. We respond within 24 hours.</p>
                                         <a href="../contact-us.php" style="display: inline-block; background: #fff; color: var(--color-primary); padding: 12px 28px; border-radius: 6px; font-weight: 600; text-decoration: none;">Get a Free Consultation <i class="fas fa-arrow-right" style="margin-left: 8px;"></i></a>

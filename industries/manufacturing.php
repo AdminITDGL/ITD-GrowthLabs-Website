@@ -629,6 +629,12 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What digital services do manufacturing companies need?","acceptedAnswer":{"@type":"Answer","text":"Manufacturing companies benefit from product catalog websites, ERP-integrated web applications, supply chain management apps, B2B lead generation through SEO and LinkedIn marketing, content marketing for technical products, and digital transformation consulting."}},{"@type":"Question","name":"How can SEO help manufacturing businesses?","acceptedAnswer":{"@type":"Answer","text":"SEO helps manufacturing companies rank for industry-specific keywords, attract B2B buyers searching for suppliers, generate qualified leads, and establish authority in their niche through technical content, case studies, and optimized product pages."}},{"@type":"Question","name":"Do you build websites for manufacturing companies?","acceptedAnswer":{"@type":"Answer","text":"Yes, we build custom manufacturing websites with product catalogs, quote request forms, technical specification pages, distributor portals, and integrations with ERP and CRM systems. Our websites are optimized for B2B lead generation."}}]}
     </script>
+    <link rel="alternate" hreflang="en-in" href="https://itdgrowthlabs.com/industries/manufacturing.php" />
+    <link rel="alternate" hreflang="en-us" href="https://itdgrowthlabs.com/industries/manufacturing.php" />
+    <link rel="alternate" hreflang="en-gb" href="https://itdgrowthlabs.com/industries/manufacturing.php" />
+    <link rel="alternate" hreflang="en-au" href="https://itdgrowthlabs.com/industries/manufacturing.php" />
+    <link rel="alternate" hreflang="en-ae" href="https://itdgrowthlabs.com/industries/manufacturing.php" />
+    <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/industries/manufacturing.php" />
 </head>
 
 <body>
@@ -1522,6 +1528,8 @@
         </div>
     </div>
     <!-- End FAQ -->
+<?php include(__DIR__ . "/../includes/engagement-tools.php"); ?>
+
 <!-- Start Footer
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">

@@ -633,6 +633,12 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What digital solutions do professional services firms need?","acceptedAnswer":{"@type":"Answer","text":"Professional services firms need authority-building websites, client portals, case study showcases, SEO for expertise-based keywords, LinkedIn thought leadership, and content marketing that demonstrates domain expertise to attract high-value B2B clients."}},{"@type":"Question","name":"How can consulting firms generate leads online?","acceptedAnswer":{"@type":"Answer","text":"Consulting firms generate leads through thought leadership content, LinkedIn advertising, SEO for industry-specific problem keywords, webinar funnels, case study marketing, and Google Ads targeting businesses searching for consulting solutions."}},{"@type":"Question","name":"Do you build client portals for service firms?","acceptedAnswer":{"@type":"Answer","text":"Yes, we build secure client portals with project dashboards, document sharing, invoicing, messaging systems, and progress tracking. Our portals integrate with CRM systems and are designed for seamless client collaboration."}}]}
     </script>
+    <link rel="alternate" hreflang="en-in" href="https://itdgrowthlabs.com/industries/professional_services.php" />
+    <link rel="alternate" hreflang="en-us" href="https://itdgrowthlabs.com/industries/professional_services.php" />
+    <link rel="alternate" hreflang="en-gb" href="https://itdgrowthlabs.com/industries/professional_services.php" />
+    <link rel="alternate" hreflang="en-au" href="https://itdgrowthlabs.com/industries/professional_services.php" />
+    <link rel="alternate" hreflang="en-ae" href="https://itdgrowthlabs.com/industries/professional_services.php" />
+    <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/industries/professional_services.php" />
 </head>
 
 <body>
@@ -1526,6 +1532,8 @@
         </div>
     </div>
     <!-- End FAQ -->
+<?php include(__DIR__ . "/../includes/engagement-tools.php"); ?>
+
 <!-- Start Footer
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">

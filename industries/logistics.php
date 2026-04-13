@@ -633,6 +633,12 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What digital solutions does ITD GrowthLabs offer for logistics companies?","acceptedAnswer":{"@type":"Answer","text":"We offer fleet management apps, delivery tracking systems, route optimization software, warehouse management systems, custom logistics websites, and digital marketing services including SEO and Google Ads specifically for logistics and supply chain businesses."}},{"@type":"Question","name":"How can digital marketing help logistics companies grow?","acceptedAnswer":{"@type":"Answer","text":"Digital marketing helps logistics companies generate qualified leads through SEO for industry keywords, Google Ads targeting shippers and manufacturers, LinkedIn B2B campaigns, and content marketing that establishes thought leadership in supply chain management."}},{"@type":"Question","name":"Do you build custom logistics apps?","acceptedAnswer":{"@type":"Answer","text":"Yes, we build custom logistics applications including fleet tracking apps, driver management systems, delivery scheduling platforms, warehouse inventory systems, and freight management solutions using Flutter, React Native, and native iOS/Android development."}}]}
     </script>
+    <link rel="alternate" hreflang="en-in" href="https://itdgrowthlabs.com/industries/logistics.php" />
+    <link rel="alternate" hreflang="en-us" href="https://itdgrowthlabs.com/industries/logistics.php" />
+    <link rel="alternate" hreflang="en-gb" href="https://itdgrowthlabs.com/industries/logistics.php" />
+    <link rel="alternate" hreflang="en-au" href="https://itdgrowthlabs.com/industries/logistics.php" />
+    <link rel="alternate" hreflang="en-ae" href="https://itdgrowthlabs.com/industries/logistics.php" />
+    <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/industries/logistics.php" />
 </head>
 
 <body>
@@ -1526,6 +1532,8 @@
         </div>
     </div>
     <!-- End FAQ -->
+<?php include(__DIR__ . "/../includes/engagement-tools.php"); ?>
+
 <!-- Start Footer
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">

@@ -633,6 +633,12 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What EdTech solutions does ITD GrowthLabs offer?","acceptedAnswer":{"@type":"Answer","text":"We build learning management systems (LMS), eLearning mobile apps, student portals, virtual classroom platforms, assessment tools, and educational content delivery systems for schools, universities, coaching centers, and corporate training."}},{"@type":"Question","name":"Can you build a custom LMS platform?","acceptedAnswer":{"@type":"Answer","text":"Yes, we develop custom LMS platforms with course management, student progress tracking, live video integration, quiz/assessment engines, certificate generation, multi-language support, and mobile-responsive design."}},{"@type":"Question","name":"How can digital marketing help educational institutions?","acceptedAnswer":{"@type":"Answer","text":"Education marketing includes local SEO for student enrollment, Google Ads for course promotion, social media campaigns for brand awareness, content marketing through educational blogs, and lead generation funnels for admissions and registrations."}}]}
     </script>
+    <link rel="alternate" hreflang="en-in" href="https://itdgrowthlabs.com/industries/education.php" />
+    <link rel="alternate" hreflang="en-us" href="https://itdgrowthlabs.com/industries/education.php" />
+    <link rel="alternate" hreflang="en-gb" href="https://itdgrowthlabs.com/industries/education.php" />
+    <link rel="alternate" hreflang="en-au" href="https://itdgrowthlabs.com/industries/education.php" />
+    <link rel="alternate" hreflang="en-ae" href="https://itdgrowthlabs.com/industries/education.php" />
+    <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/industries/education.php" />
 </head>
 
 <body>
@@ -1527,6 +1533,8 @@
         </div>
     </div>
     <!-- End FAQ -->
+<?php include(__DIR__ . "/../includes/engagement-tools.php"); ?>
+
 <!-- Start Footer
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">

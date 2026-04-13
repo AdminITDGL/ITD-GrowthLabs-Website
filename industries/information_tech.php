@@ -633,6 +633,12 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What marketing services do SaaS companies need?","acceptedAnswer":{"@type":"Answer","text":"SaaS companies benefit from product-led content marketing, SEO for feature-based keywords, Google Ads for competitor and solution searches, LinkedIn advertising for B2B lead generation, technical blog content, and conversion-optimized landing pages with free trial funnels."}},{"@type":"Question","name":"Can you build SaaS product websites?","acceptedAnswer":{"@type":"Answer","text":"Yes, we build high-converting SaaS websites with feature showcase pages, pricing tables, customer testimonials, integration pages, documentation portals, blog platforms, and optimized signup flows designed to convert visitors into trial users."}},{"@type":"Question","name":"How do you generate leads for IT companies?","acceptedAnswer":{"@type":"Answer","text":"We use a multi-channel approach including SEO for technical keywords, LinkedIn outreach and advertising, Google Ads for solution searches, content marketing through whitepapers and case studies, and email marketing automation for lead nurturing."}}]}
     </script>
+    <link rel="alternate" hreflang="en-in" href="https://itdgrowthlabs.com/industries/information_tech.php" />
+    <link rel="alternate" hreflang="en-us" href="https://itdgrowthlabs.com/industries/information_tech.php" />
+    <link rel="alternate" hreflang="en-gb" href="https://itdgrowthlabs.com/industries/information_tech.php" />
+    <link rel="alternate" hreflang="en-au" href="https://itdgrowthlabs.com/industries/information_tech.php" />
+    <link rel="alternate" hreflang="en-ae" href="https://itdgrowthlabs.com/industries/information_tech.php" />
+    <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/industries/information_tech.php" />
 </head>
 
 <body>
@@ -1526,6 +1532,8 @@
         </div>
     </div>
     <!-- End FAQ -->
+<?php include(__DIR__ . "/../includes/engagement-tools.php"); ?>
+
 <!-- Start Footer
     ============================================= -->
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
