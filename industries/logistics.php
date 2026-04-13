@@ -25,8 +25,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <base href="../">
-    <meta name="description" content="IT solutions for logistics including fleet management apps, courier tracking, warehouse systems and digital marketing for logistics companies.">
-    <title>Logistics and Supply Chain IT Solutions | ITD GrowthLabs</title>
+    <meta name="description" content="Logistics app development company with proven case studies — courier booking apps, fleet management systems, delivery tracking platforms & warehouse management software. 5,000+ daily bookings achieved.">
+    <title>Logistics App Development Company India | Courier & Fleet Management Apps | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">

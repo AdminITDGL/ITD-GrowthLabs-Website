@@ -18,7 +18,7 @@
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="./assets/img/favicon.png" type="image/x-icon">
     <!-- ========== Page Title ========== -->
-    <title>Contact Us | GrowthLabs Digital Marketing Company</title>
+    <title>Contact Us | App Development & Technology Solutions | ITD GrowthLabs</title>
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17674012925"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -64,7 +64,7 @@
     </style>
 
     <link rel="canonical" href="https://itdgrowthlabs.com/contact-us.php" />
-    <meta property="og:title" content="Contact Us | ITD GrowthLabs Digital Marketing Company" />
+    <meta property="og:title" content="Contact Us | App Development & Technology Solutions | ITD GrowthLabs" />
     <meta property="og:description" content="Contact ITD GrowthLabs for website development, app development, digital marketing, and SEO services. Get a free consultation for your business growth." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://itdgrowthlabs.com/contact-us.php" />
@@ -161,9 +161,9 @@
                 <div class="col-tact-stye-one col-lg-5 offset-lg-1 mt--80 mt-md-50 mt-xs-50">
                     <div class="contact-style-one-info">
                         <div class="mb-40">
-                            <h2>Ready to grow your business online?</h2>
+                            <h2>Let's Build Your Next Digital Product</h2>
                             <p>
-                                We help with SEO, website development, eLearning, WhatsApp automation, digital tech solutions, and social media marketing.
+                                From logistics apps and SaaS platforms to custom web applications and AI-powered automation — we turn your ideas into scalable, revenue-generating technology solutions. 300+ projects delivered for businesses in India, USA, UK, UAE & Australia.
                             </p>
                             <p><i class="fa-solid fa-phone"></i> <a href="https://wa.me/918450978544" target="_blank" style="color:#6d6d6d">Phone:+91 8450978544</a></p>
                             <p><i class="fa fa-envelope"></i> <a href="mailto:info@itdgrowthlabs.com" style="color:#6d6d6d"> Email: info@itdgrowthlabs.com </a></p>

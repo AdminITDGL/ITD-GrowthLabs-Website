@@ -18,7 +18,7 @@
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="./assets/img/favicon.png" type="image/x-icon">
     <!-- ========== Page Title ========== -->
-    <title>Privacy Policy | GrowthLabs Digital Marketing Company</title>
+    <title>Privacy Policy | ITD GrowthLabs — Technology & App Development Company</title>
 
     <!-- ========== Header Script ========== -->
     <?php include("./includes/header_script.php") ?>

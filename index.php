@@ -25,12 +25,12 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="ITD GrowthLabs is a leading B2B digital marketing and tech company offering website development, app development, SEO, content writing, and AI automation services in India, Australia, UAE, UK & USA.">
-    <meta name="keywords" content="Digital Marketing Company, Digital Marketing Services, Content Writing Services, SEO Content Writing Services, Best Content Writing, Online Marketing Agency, Digital Strategy Services, Content Marketing Agency, Digital Advertising Services, Expert Content Writing Services.">
+    <meta name="description" content="ITD GrowthLabs — India's trusted technology partner for custom app development, logistics software, web applications, and AI-powered digital solutions. 300+ projects delivered across India, USA, UK, UAE & Australia.">
+    <meta name="keywords" content="app development company India, logistics app development, custom software development, web application development, mobile app development, Flutter app development, SaaS development, AI automation, digital solutions company, ITD GrowthLabs">
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="./assets/img/favicon.png" type="image/x-icon">
     <!-- ========== Page Title ========== -->
-    <title>Best B2B Digital Marketing & Website Development Company in India | ITD GrowthLabs</title>
+    <title>Custom App Development & Technology Solutions Company in India | ITD GrowthLabs</title>
 
     <!-- ========== Favicon Icon ========== -->
     <?php include("./includes/header_script.php") ?>
@@ -52,7 +52,7 @@
     <link rel="canonical" href="https://itdgrowthlabs.com/" />
 
     <!-- Open Graph Tags -->
-    <meta property="og:title" content="Best B2B Tech & Digital Marketing Company | Web, SEO & Content" />
+    <meta property="og:title" content="Custom App Development & Technology Solutions Company in India | ITD GrowthLabs" />
     <meta property="og:description" content="Leading B2B digital marketing and tech company offering website development, SEO, content writing, social media, video, and WhatsApp automation." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://itdgrowthlabs.com/" />
@@ -61,7 +61,7 @@
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Best B2B Tech & Digital Marketing Company | Web, SEO & Content" />
+    <meta name="twitter:title" content="Custom App Development & Technology Solutions Company in India | ITD GrowthLabs" />
     <meta name="twitter:description" content="Leading B2B digital marketing and tech company offering website development, SEO, content writing, social media, video, and WhatsApp automation." />
     <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
 
@@ -247,7 +247,7 @@
                     data-tracking-module="overviewhero">
                     <div class="ion-overview-hero__animated-items ion-overview-hero__animated-items--center"
                         data-overview-hero-animation="standard">
-                        <h1 class="glue-visually-hidden aria-headline">Best B2B Tech & Digital Marketing Company | Website Development, App Development & SEO Services</h1>
+                        <h1 class="glue-visually-hidden aria-headline">Custom App Development, Web Applications & Technology Solutions Company | ITD GrowthLabs India</h1>
                         <div class="ion-overview-hero__headlines-container">
                             <div class="ion-overview-hero__animating-headlines-wrapper" aria-hidden="true">
                                 <h2 class="ion-overview-hero__animating-headline glue-headline glue-font-weight-bold"><span

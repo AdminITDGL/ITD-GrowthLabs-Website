@@ -162,12 +162,11 @@
                            <a href="case-studies.php">Case Studies</a>
                        </li>
 
-                       <!-- RESOURCES -->
+                       <!-- COMPANY -->
                        <li class="dropdown">
                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Company</a>
                            <ul class="dropdown-menu">
                                <li><a href="about.php">About Us</a></li>
-                               <li><a href="pricing.php">Pricing</a></li>
                                <li><a href="resources/all-blogs.php">Blog</a></li>
                                <li><a href="contact-us.php">Contact Us</a></li>
                            </ul>

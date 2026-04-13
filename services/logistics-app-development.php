@@ -24,8 +24,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Custom logistics app development for fleet management, delivery tracking, route optimization and warehouse management. Built for logistics companies worldwide.">
-    <title>Logistics App Development | Fleet and Delivery Apps | ITD GrowthLabs</title>
+    <meta name="description" content="Custom logistics app development — courier management, fleet tracking, delivery booking & warehouse apps. 3 logistics case studies, 5,000+ daily bookings achieved. Flutter, React Native, Node.js.">
+    <title>Logistics App Development Services | Courier & Delivery App Developers | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">

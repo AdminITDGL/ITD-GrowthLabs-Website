@@ -1,7 +1,7 @@
 # ITD GrowthLabs — llms.txt
 # AI-readable summary for LLM search engines (ChatGPT, Perplexity, Claude, Gemini)
 
-> ITD GrowthLabs is a B2B technology and digital marketing company based in Mumbai, India, with 10+ years of experience, a 55+ member in-house team, and 300+ projects delivered across India, USA, UK, UAE, Australia, and Africa.
+> ITD GrowthLabs is a technology and app development company based in Mumbai, India, specializing in custom software, logistics applications, SaaS platforms, and web applications. With 10+ years of experience, a 55+ member in-house team, and 300+ projects delivered across India, USA, UK, UAE, Australia, and Africa, we are a proven partner for businesses seeking scalable digital solutions.
 
 ## Core Services
 
