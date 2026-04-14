@@ -78,10 +78,13 @@
         var name = document.getElementById('profile-lead-name').value;
         var email = document.getElementById('profile-lead-email').value;
 
-        // Store lead locally (replace with actual CRM/email service integration)
-        var leads = JSON.parse(localStorage.getItem('itdgl_profile_leads') || '[]');
-        leads.push({ name: name, email: email, date: new Date().toISOString(), source: 'popup_profile_download' });
-        localStorage.setItem('itdgl_profile_leads', JSON.stringify(leads));
+        // Send lead to email via PHP handler
+        var formData = new FormData();
+        formData.append('name', name);
+        formData.append('email', email);
+        formData.append('source', 'popup_profile_download');
+        var basePath = (window.location.pathname.indexOf('/services/') !== -1) ? '../' : '';
+        fetch(basePath + 'leadCaptureMail.php', { method: 'POST', body: formData });
 
         // Track in GA4
         if (typeof gtag === 'function') {

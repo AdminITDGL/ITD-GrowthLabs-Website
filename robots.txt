@@ -6,6 +6,7 @@ Allow: /
 
 # Block form handlers and thank-you pages
 Disallow: /contactMail.php
+Disallow: /leadCaptureMail.php
 Disallow: /appDevelopmentFormMail.php
 Disallow: /leadGenFormMail.php
 Disallow: /socialMediaFormMail.php
@@ -24,6 +25,8 @@ Disallow: /common-form.php
 Disallow: /includes/
 Disallow: /assets/css/
 Disallow: /assets/js/
+Disallow: /*.py$
+Disallow: /*.json$
 
 # Block duplicate header files
 Disallow: /usa/header.php
