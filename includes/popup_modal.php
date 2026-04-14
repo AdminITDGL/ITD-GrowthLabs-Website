@@ -1,22 +1,27 @@
 <style>
-    .btn-close:after {
-        display: none;
-    }
+    .btn-close:after { display: none; }
+    #profile-form-section input { width: 100%; padding: 10px 14px; border: 2px solid #e0e0e0; border-radius: 8px; font-size: 14px; outline: none; transition: border-color 0.3s; }
+    #profile-form-section input:focus { border-color: #1565c0; }
+    #profile-download-success { display: none; text-align: center; padding: 15px 0; }
 </style>
+
 <div class="modal fade" id="imagePopupModal" tabindex="-1" aria-labelledby="imagePopupModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content" style="background: #fff; border: none; position: relative; border-radius: 16px; overflow: hidden; box-shadow: 0 20px 60px rgba(0,0,0,0.3);">
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" style="position: absolute; top: 12px; right: 15px; z-index: 1051; background: #fff; border-radius: 50%; width: 36px; height: 36px; opacity: 1; box-shadow: 0 2px 8px rgba(0,0,0,0.15); padding: 8px; font-size: 18px; line-height: 1; display: flex; align-items: center; justify-content: center; border: none; cursor: pointer;">
                 <span style="color: #333; font-weight: bold;">&times;</span>
             </button>
+
             <!-- Banner Image -->
             <div style="width: 100%;">
                 <a href="<?php echo (strpos($_SERVER['PHP_SELF'], '/services/') !== false) ? '../contact-us.php' : 'contact-us.php'; ?>">
                     <img src="<?php echo (strpos($_SERVER['PHP_SELF'], '/services/') !== false) ? '../assets/img/BlackBlueBizBanner.jpg' : 'assets/img/BlackBlueBizBanner.jpg'; ?>" alt="ITD GrowthLabs — Custom App Development & Digital Solutions" class="img-fluid" style="width: 100%; height: auto; display: block;">
                 </a>
             </div>
-            <!-- CTA Buttons -->
+
+            <!-- CTA Buttons + Lead Capture -->
             <div style="padding: 20px 30px 24px; display: flex; flex-direction: column; gap: 10px;">
+                <!-- Primary CTAs -->
                 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
                     <a href="<?php echo (strpos($_SERVER['PHP_SELF'], '/services/') !== false) ? '../contact-us.php' : 'contact-us.php'; ?>" style="flex: 1; min-width: 200px; display: block; text-align: center; background: linear-gradient(135deg, #1565c0, #0d47a1); color: #fff; padding: 13px 20px; border-radius: 8px; font-weight: 600; font-size: 15px; text-decoration: none; transition: opacity 0.3s;" onmouseover="this.style.opacity='0.9'" onmouseout="this.style.opacity='1'">
                         Get a Free Consultation &#8594;
@@ -26,9 +31,29 @@
                         Chat on WhatsApp
                     </a>
                 </div>
-                <a href="<?php echo (strpos($_SERVER['PHP_SELF'], '/services/') !== false) ? '../assets/ITD-GrowthLabs-Company-Profile.pdf' : 'assets/ITD-GrowthLabs-Company-Profile.pdf'; ?>" download style="display: block; text-align: center; background: #f5f7fa; color: #1565c0; padding: 11px 20px; border-radius: 8px; font-weight: 600; font-size: 14px; text-decoration: none; border: 2px solid #e0e0e0; transition: all 0.3s;" onmouseover="this.style.borderColor='#1565c0';this.style.background='#e8f0fe'" onmouseout="this.style.borderColor='#e0e0e0';this.style.background='#f5f7fa'">
-                    &#128196; Download Our Company Profile (PDF)
-                </a>
+
+                <!-- Company Profile Lead Capture Form -->
+                <div id="profile-form-section" style="background: #f8f9fb; border: 2px solid #e8ecf1; border-radius: 10px; padding: 16px 18px;">
+                    <p style="margin: 0 0 10px; font-size: 14px; font-weight: 700; color: #1a237e;">
+                        &#128196; Download Our Company Profile
+                    </p>
+                    <form id="profile-download-form" onsubmit="return handleProfileDownload(event)" style="display: flex; flex-direction: column; gap: 8px;">
+                        <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+                            <input type="text" id="profile-lead-name" placeholder="Your Name" required style="flex: 1; min-width: 140px;">
+                            <input type="email" id="profile-lead-email" placeholder="Work Email" required style="flex: 1; min-width: 180px;">
+                        </div>
+                        <button type="submit" style="background: linear-gradient(135deg, #1565c0, #0d47a1); color: #fff; border: none; padding: 11px 20px; border-radius: 8px; font-weight: 600; font-size: 14px; cursor: pointer; transition: opacity 0.3s;" onmouseover="this.style.opacity='0.9'" onmouseout="this.style.opacity='1'">
+                            Download Company Profile (PDF) &#8595;
+                        </button>
+                    </form>
+                </div>
+                <div id="profile-download-success">
+                    <p style="color: #25D366; font-weight: 700; font-size: 15px; margin: 0 0 8px;">&#10003; Thank you! Your download is starting...</p>
+                    <a id="profile-download-link" href="<?php echo (strpos($_SERVER['PHP_SELF'], '/services/') !== false) ? '../assets/ITD-GrowthLabs-Company-Profile.pdf' : 'assets/ITD-GrowthLabs-Company-Profile.pdf'; ?>" download style="display: inline-block; background: #1565c0; color: #fff; padding: 10px 24px; border-radius: 8px; font-weight: 600; font-size: 14px; text-decoration: none;">
+                        Click here if download didn't start
+                    </a>
+                </div>
+
                 <p style="text-align: center; margin: 5px 0 0; font-size: 12px; color: #999;">
                     <strong style="color: #333;">300+ projects</strong> &bull; <strong style="color: #333;">97% client retention</strong> &bull; <strong style="color: #333;">10+ years experience</strong>
                 </p>
@@ -43,9 +68,37 @@
             backdrop: true,
             keyboard: true
         });
-        // Show modal after 10 seconds
         setTimeout(function() {
             popupModal.show();
         }, 10000);
     });
+
+    function handleProfileDownload(e) {
+        e.preventDefault();
+        var name = document.getElementById('profile-lead-name').value;
+        var email = document.getElementById('profile-lead-email').value;
+
+        // Store lead locally (replace with actual CRM/email service integration)
+        var leads = JSON.parse(localStorage.getItem('itdgl_profile_leads') || '[]');
+        leads.push({ name: name, email: email, date: new Date().toISOString(), source: 'popup_profile_download' });
+        localStorage.setItem('itdgl_profile_leads', JSON.stringify(leads));
+
+        // Track in GA4
+        if (typeof gtag === 'function') {
+            gtag('event', 'generate_lead', {
+                lead_source: 'company_profile_download',
+                email_domain: email.split('@')[1]
+            });
+        }
+
+        // Show success and trigger download
+        document.getElementById('profile-form-section').style.display = 'none';
+        document.getElementById('profile-download-success').style.display = 'block';
+
+        // Auto-trigger download
+        var link = document.getElementById('profile-download-link');
+        link.click();
+
+        return false;
+    }
 </script>

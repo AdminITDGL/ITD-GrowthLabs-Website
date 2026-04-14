@@ -132,6 +132,15 @@
     </script>
 
     <style>
+
+        @keyframes fadeInSimple {
+            from { opacity: 0; transform: translateY(15px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .about-stats-card, .value-card, .process-step, .team-role-item, .global-location, .info {
+            animation: fadeInSimple 0.5s ease forwards;
+        }
+
         .about-stats-card {
             background: #fff;
             border-radius: 12px;
@@ -256,10 +265,10 @@
                 <div class="row align-center">
                     <div class="banner-style-three col-lg-8 offset-lg-2 text-center">
                         <div class="information">
-                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
+                            <h1>
                                 About <span style="color: var(--color-primary);">ITD GrowthLabs</span>
                             </h1>
-                            <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
+                            <p>
                                 10+ years of building digital products and marketing strategies that drive real business growth. We are your technology and digital marketing partner.
                             </p>
                             <div class="breadcrumb-area text-center mt-3">
@@ -284,7 +293,7 @@
         <div class="container">
             <div class="row align-center">
                 <div class="col-lg-6">
-                    <div class="info wow fadeInLeft">
+                    <div class="info">
                         <h5 style="color: var(--color-primary); text-transform: uppercase; font-weight: 600; letter-spacing: 1px;">Our Story</h5>
                         <h2>From a Small Team to a Global Digital Agency</h2>
                         <p>
@@ -299,7 +308,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="info wow fadeInRight">
+                    <div class="info">
                         <h5 style="color: var(--color-primary); text-transform: uppercase; font-weight: 600; letter-spacing: 1px;">Our Mission</h5>
                         <h2>Why We Exist</h2>
                         <blockquote style="border-left: 4px solid var(--color-primary); padding: 20px 25px; background: #f9f9f9; border-radius: 8px; font-size: 1.15rem; font-style: italic; margin: 20px 0;">
@@ -330,37 +339,37 @@
             </div>
             <div class="row">
                 <div class="col-lg-2 col-md-4 col-6 mb-4">
-                    <div class="about-stats-card wow fadeInUp" data-wow-delay="100ms">
+                    <div class="about-stats-card">
                         <div class="counter-number">10+</div>
                         <p>Years Experience</p>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-6 mb-4">
-                    <div class="about-stats-card wow fadeInUp" data-wow-delay="200ms">
+                    <div class="about-stats-card">
                         <div class="counter-number">55+</div>
                         <p>Team Members</p>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-6 mb-4">
-                    <div class="about-stats-card wow fadeInUp" data-wow-delay="300ms">
+                    <div class="about-stats-card">
                         <div class="counter-number">300+</div>
                         <p>Projects Delivered</p>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-6 mb-4">
-                    <div class="about-stats-card wow fadeInUp" data-wow-delay="400ms">
+                    <div class="about-stats-card">
                         <div class="counter-number">97%</div>
                         <p>Client Retention</p>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-6 mb-4">
-                    <div class="about-stats-card wow fadeInUp" data-wow-delay="500ms">
+                    <div class="about-stats-card">
                         <div class="counter-number">6</div>
                         <p>Countries Served</p>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-6 mb-4">
-                    <div class="about-stats-card wow fadeInUp" data-wow-delay="600ms">
+                    <div class="about-stats-card">
                         <div class="counter-number">10+</div>
                         <p>Industries</p>
                     </div>
@@ -383,43 +392,43 @@
             </div>
             <div class="row">
                 <div class="col-lg-4 col-md-6 mb-4">
-                    <div class="team-role-item wow fadeInUp" data-wow-delay="100ms">
+                    <div class="team-role-item">
                         <i class="fas fa-palette"></i>
                         <span>UI/UX Designers</span>
                     </div>
-                    <div class="team-role-item wow fadeInUp" data-wow-delay="150ms">
+                    <div class="team-role-item">
                         <i class="fas fa-code"></i>
                         <span>Frontend & Backend Developers</span>
                     </div>
-                    <div class="team-role-item wow fadeInUp" data-wow-delay="200ms">
+                    <div class="team-role-item">
                         <i class="fas fa-mobile-alt"></i>
                         <span>Mobile App Developers (Flutter, React Native)</span>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 mb-4">
-                    <div class="team-role-item wow fadeInUp" data-wow-delay="250ms">
+                    <div class="team-role-item">
                         <i class="fas fa-tasks"></i>
                         <span>Project Managers</span>
                     </div>
-                    <div class="team-role-item wow fadeInUp" data-wow-delay="300ms">
+                    <div class="team-role-item">
                         <i class="fas fa-lightbulb"></i>
                         <span>Product Managers</span>
                     </div>
-                    <div class="team-role-item wow fadeInUp" data-wow-delay="350ms">
+                    <div class="team-role-item">
                         <i class="fas fa-bug"></i>
                         <span>QA Testers</span>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 mb-4">
-                    <div class="team-role-item wow fadeInUp" data-wow-delay="400ms">
+                    <div class="team-role-item">
                         <i class="fas fa-bullhorn"></i>
                         <span>Digital Marketing Specialists</span>
                     </div>
-                    <div class="team-role-item wow fadeInUp" data-wow-delay="450ms">
+                    <div class="team-role-item">
                         <i class="fas fa-pen-nib"></i>
                         <span>Content Writers</span>
                     </div>
-                    <div class="team-role-item wow fadeInUp" data-wow-delay="500ms">
+                    <div class="team-role-item">
                         <i class="fas fa-search"></i>
                         <span>SEO Specialists</span>
                     </div>
@@ -441,31 +450,31 @@
             </div>
             <div class="row">
                 <div class="col-lg-4 col-md-6 mb-4">
-                    <div class="value-card wow fadeInUp" data-wow-delay="100ms">
+                    <div class="value-card">
                         <h5><i class="fas fa-eye mr-2"></i> Transparency</h5>
                         <p>No hidden costs, no vague timelines. We share progress reports weekly, give you direct access to project dashboards, and communicate openly at every stage.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 mb-4">
-                    <div class="value-card wow fadeInUp" data-wow-delay="200ms">
+                    <div class="value-card">
                         <h5><i class="fas fa-award mr-2"></i> Quality Over Quantity</h5>
                         <p>We take on projects we can deliver exceptionally. Every line of code is reviewed, every design is tested, and every campaign is optimized for results.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 mb-4">
-                    <div class="value-card wow fadeInUp" data-wow-delay="300ms">
+                    <div class="value-card">
                         <h5><i class="fas fa-handshake mr-2"></i> Long-term Partnerships</h5>
                         <p>Our 97% client retention rate is not a coincidence. We invest in relationships, not transactions. Most of our clients have been with us for 3+ years.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 mb-4">
-                    <div class="value-card wow fadeInUp" data-wow-delay="400ms">
+                    <div class="value-card">
                         <h5><i class="fas fa-chart-bar mr-2"></i> Data-Driven Decisions</h5>
                         <p>Every recommendation we make is backed by data. From A/B testing to analytics dashboards, we let numbers guide strategy, not guesswork.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 mb-4">
-                    <div class="value-card wow fadeInUp" data-wow-delay="500ms">
+                    <div class="value-card">
                         <h5><i class="fas fa-graduation-cap mr-2"></i> Continuous Learning</h5>
                         <p>Technology evolves fast. Our team dedicates time every week to learning new frameworks, tools, and strategies to keep your projects ahead of the curve.</p>
                     </div>
@@ -488,42 +497,42 @@
             </div>
             <div class="row">
                 <div class="col-lg-2 col-md-4 col-6 mb-4">
-                    <div class="process-step wow fadeInUp" data-wow-delay="100ms">
+                    <div class="process-step">
                         <div class="step-number">1</div>
                         <h6>Requirement Understanding</h6>
                         <p class="small text-muted">We listen first. Deep discovery calls to understand your goals, users, and constraints.</p>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-6 mb-4">
-                    <div class="process-step wow fadeInUp" data-wow-delay="200ms">
+                    <div class="process-step">
                         <div class="step-number">2</div>
                         <h6>Solution Planning & Wireframing</h6>
                         <p class="small text-muted">Technical architecture, sitemap, user flows, and wireframes before a single pixel is designed.</p>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-6 mb-4">
-                    <div class="process-step wow fadeInUp" data-wow-delay="300ms">
+                    <div class="process-step">
                         <div class="step-number">3</div>
                         <h6>UI/UX Design</h6>
                         <p class="small text-muted">Pixel-perfect designs that balance aesthetics with usability and conversion optimization.</p>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-6 mb-4">
-                    <div class="process-step wow fadeInUp" data-wow-delay="400ms">
+                    <div class="process-step">
                         <div class="step-number">4</div>
                         <h6>Development & Integration</h6>
                         <p class="small text-muted">Clean, scalable code with API integrations, payment gateways, and third-party services.</p>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-6 mb-4">
-                    <div class="process-step wow fadeInUp" data-wow-delay="500ms">
+                    <div class="process-step">
                         <div class="step-number">5</div>
                         <h6>Testing & QA</h6>
                         <p class="small text-muted">Rigorous testing across devices, browsers, and edge cases. Nothing ships without QA sign-off.</p>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-6 mb-4">
-                    <div class="process-step wow fadeInUp" data-wow-delay="600ms">
+                    <div class="process-step">
                         <div class="step-number">6</div>
                         <h6>Deployment & Support</h6>
                         <p class="small text-muted">Smooth launch with 3 months of post-launch support, monitoring, and performance optimization.</p>
@@ -546,19 +555,19 @@
             </div>
             <div class="row text-center">
                 <div class="col-12">
-                    <span class="tech-badge wow fadeInUp" data-wow-delay="50ms">Flutter</span>
-                    <span class="tech-badge wow fadeInUp" data-wow-delay="100ms">React Native</span>
-                    <span class="tech-badge wow fadeInUp" data-wow-delay="150ms">React</span>
-                    <span class="tech-badge wow fadeInUp" data-wow-delay="200ms">Node.js</span>
-                    <span class="tech-badge wow fadeInUp" data-wow-delay="250ms">PHP</span>
-                    <span class="tech-badge wow fadeInUp" data-wow-delay="300ms">Laravel</span>
-                    <span class="tech-badge wow fadeInUp" data-wow-delay="350ms">Python</span>
-                    <span class="tech-badge wow fadeInUp" data-wow-delay="400ms">TypeScript</span>
-                    <span class="tech-badge wow fadeInUp" data-wow-delay="450ms">PostgreSQL</span>
-                    <span class="tech-badge wow fadeInUp" data-wow-delay="500ms">MongoDB</span>
-                    <span class="tech-badge wow fadeInUp" data-wow-delay="550ms">Firebase</span>
-                    <span class="tech-badge wow fadeInUp" data-wow-delay="600ms">AWS</span>
-                    <span class="tech-badge wow fadeInUp" data-wow-delay="650ms">Google Cloud</span>
+                    <span class="tech-badge">Flutter</span>
+                    <span class="tech-badge">React Native</span>
+                    <span class="tech-badge">React</span>
+                    <span class="tech-badge">Node.js</span>
+                    <span class="tech-badge">PHP</span>
+                    <span class="tech-badge">Laravel</span>
+                    <span class="tech-badge">Python</span>
+                    <span class="tech-badge">TypeScript</span>
+                    <span class="tech-badge">PostgreSQL</span>
+                    <span class="tech-badge">MongoDB</span>
+                    <span class="tech-badge">Firebase</span>
+                    <span class="tech-badge">AWS</span>
+                    <span class="tech-badge">Google Cloud</span>
                 </div>
             </div>
         </div>
@@ -578,42 +587,42 @@
             </div>
             <div class="row">
                 <div class="col-lg-2 col-md-4 col-6 mb-4">
-                    <div class="global-location wow fadeInUp" data-wow-delay="100ms">
+                    <div class="global-location">
                         <i class="fas fa-map-marker-alt"></i>
                         <h6>India</h6>
                         <p class="small text-muted">HQ - Mumbai</p>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-6 mb-4">
-                    <div class="global-location wow fadeInUp" data-wow-delay="200ms">
+                    <div class="global-location">
                         <i class="fas fa-map-marker-alt"></i>
                         <h6>USA</h6>
                         <p class="small text-muted">Remote Clients</p>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-6 mb-4">
-                    <div class="global-location wow fadeInUp" data-wow-delay="300ms">
+                    <div class="global-location">
                         <i class="fas fa-map-marker-alt"></i>
                         <h6>UK</h6>
                         <p class="small text-muted">Remote Clients</p>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-6 mb-4">
-                    <div class="global-location wow fadeInUp" data-wow-delay="400ms">
+                    <div class="global-location">
                         <i class="fas fa-map-marker-alt"></i>
                         <h6>UAE</h6>
                         <p class="small text-muted">Remote Clients</p>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-6 mb-4">
-                    <div class="global-location wow fadeInUp" data-wow-delay="500ms">
+                    <div class="global-location">
                         <i class="fas fa-map-marker-alt"></i>
                         <h6>Australia</h6>
                         <p class="small text-muted">Remote Clients</p>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-6 mb-4">
-                    <div class="global-location wow fadeInUp" data-wow-delay="600ms">
+                    <div class="global-location">
                         <i class="fas fa-map-marker-alt"></i>
                         <h6>Africa</h6>
                         <p class="small text-muted">Remote Clients</p>

@@ -147,6 +147,19 @@
             border: 1px solid #f0f0f0;
         }
 
+        
+        @keyframes fadeInSimple {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .case-study-card {
+            animation: fadeInSimple 0.6s ease forwards;
+        }
+        .case-study-card:nth-child(2) { animation-delay: 0.15s; }
+        .case-study-card:nth-child(3) { animation-delay: 0.3s; }
+        .case-study-card:nth-child(4) { animation-delay: 0.45s; }
+        .case-study-card:nth-child(5) { animation-delay: 0.6s; }
+
         .case-study-card:hover {
             box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15);
             transform: translateY(-5px);
@@ -453,7 +466,7 @@
         <div class="container">
 
             <!-- Case Study 1 -->
-            <div class="case-study-card wow fadeInUp" data-wow-delay="200ms">
+            <div class="case-study-card">
                 <div class="case-study-header">
                     <span class="case-study-number">01</span>
                     <span class="industry-tag"><i class="fas fa-truck"></i> Logistics</span>
@@ -510,7 +523,7 @@
             </div>
 
             <!-- Case Study 2 -->
-            <div class="case-study-card wow fadeInUp" data-wow-delay="200ms">
+            <div class="case-study-card">
                 <div class="case-study-header">
                     <span class="case-study-number">02</span>
                     <span class="industry-tag"><i class="fas fa-fish"></i> Food &amp; Delivery / Hyperlocal Marketplace</span>
@@ -567,7 +580,7 @@
             </div>
 
             <!-- Case Study 3 -->
-            <div class="case-study-card wow fadeInUp" data-wow-delay="200ms">
+            <div class="case-study-card">
                 <div class="case-study-header">
                     <span class="case-study-number">03</span>
                     <span class="industry-tag"><i class="fas fa-shipping-fast"></i> Logistics / SaaS</span>
@@ -625,7 +638,7 @@
             </div>
 
             <!-- Case Study 4 -->
-            <div class="case-study-card wow fadeInUp" data-wow-delay="200ms">
+            <div class="case-study-card">
                 <div class="case-study-header">
                     <span class="case-study-number">04</span>
                     <span class="industry-tag"><i class="fas fa-utensils"></i> Food &amp; Delivery</span>
@@ -682,7 +695,7 @@
             </div>
 
             <!-- Case Study 5 -->
-            <div class="case-study-card wow fadeInUp" data-wow-delay="200ms">
+            <div class="case-study-card">
                 <div class="case-study-header">
                     <span class="case-study-number">05</span>
                     <span class="industry-tag"><i class="fas fa-box"></i> Logistics</span>
