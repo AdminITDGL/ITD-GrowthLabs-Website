@@ -132,50 +132,82 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "How do you approach web development projects?",
+                "name": "How much does website development cost in India?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Our web development process begins with understanding your business goals. We design user-friendly, responsive websites with SEO best practices. From development to deployment, we ensure your website is optimized for performance and engagement."
+                    "text": "Website development cost in India ranges from ₹50,000 for basic business websites to ₹5-15 lakhs for custom web applications. At ITD GrowthLabs, we offer transparent pricing based on features, design complexity, and integrations. Contact us for a free consultation and detailed project estimate."
                 }
             },
             {
                 "@type": "Question",
-                "name": "What makes your SEO and content writing services effective?",
+                "name": "How much does mobile app development cost?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "We create high-quality, keyword-optimized content tailored to your audience. Our SEO strategies focus on on-page and technical SEO, ensuring higher search rankings and sustained organic traffic growth."
+                    "text": "Mobile app development costs typically range from ₹15-25 lakhs for an MVP, ₹30-60 lakhs for mid-range apps, and ₹60 lakhs to 1.2 crore for enterprise-grade apps. Timeline ranges from 3-12 months depending on complexity. We have delivered 300+ apps including logistics, SaaS, e-commerce, and marketplace platforms."
                 }
             },
             {
                 "@type": "Question",
-                "name": "How does WhatsApp marketing automation benefit businesses?",
+                "name": "How long does it take to develop a website or mobile app?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Our WhatsApp marketing automation services enable businesses to send personalized messages, automate customer interactions, and drive engagement efficiently. We integrate AI-driven chatbots for seamless communication and lead nurturing."
+                    "text": "A business website takes 3-6 weeks, a custom web application takes 2-4 months, and a mobile app takes 3-12 months depending on features. At ITD GrowthLabs, we follow Agile methodology with bi-weekly demos, ensuring transparent progress and on-time delivery."
                 }
             },
             {
                 "@type": "Question",
-                "name": "What is SEO content writing and why is it important for websites?",
+                "name": "What services does ITD GrowthLabs offer?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "SEO content writing is the process of creating keyword-optimized content that improves your website's visibility on search engines. It helps attract organic traffic, engage users, and increase conversions by aligning content with what your audience is searching for."
+                    "text": "ITD GrowthLabs is a technology and app development company offering custom website development, mobile app development (iOS, Android, Flutter, React Native), web application development, SaaS platforms, logistics applications, SEO and digital marketing, AI automation, and WhatsApp marketing. We have delivered 300+ projects across India, USA, UK, UAE, and Australia."
                 }
             },
             {
                 "@type": "Question",
-                "name": "How do your IT outsourcing services work?",
+                "name": "Do you provide SEO and digital marketing services along with website development?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "We offer flexible IT outsourcing solutions with dedicated teams that align with your tech goals. From development to maintenance, we ensure cost-effective scalability."
+                    "text": "Yes, we offer end-to-end digital marketing services including SEO, Google Ads, social media marketing, content marketing, email marketing, and conversion rate optimization. Our integrated approach ensures your website is not only beautifully designed but also ranks well on search engines and converts visitors into customers."
                 }
             },
             {
                 "@type": "Question",
-                "name": "What industries do you cater to with your eLearning solutions?",
+                "name": "Which technologies do you use for app and web development?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Our eLearning services support industries like software, technology, financial services, manufacturing, healthcare, government, restaurants and hospitality, education and retail—delivering custom training modules for employee onboarding, compliance, and upskilling."
+                    "text": "For web development we use React.js, Next.js, Angular, Vue.js, Node.js, Python Django, PHP Laravel, and WordPress. For mobile apps we use Flutter, React Native, Swift (iOS), and Kotlin (Android). We choose the best technology stack based on your project requirements, scalability needs, and budget."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Do you work with international clients outside India?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, we work with clients globally. We have dedicated regional pages and teams serving businesses in USA, UK, UAE, Australia, and Africa. US and UK clients typically save 60-70% on development costs while receiving quality comparable to local agencies. We adjust work hours to align with your timezone for smooth collaboration."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Will I own the source code and intellectual property of my app or website?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, 100%. After final payment, you own the complete source code, designs, databases, and all intellectual property. We provide full handover with documentation, repository access, deployment credentials, and training. This is standard practice at ITD GrowthLabs — no vendor lock-in, ever."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Do you offer post-launch support and maintenance?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, we offer 30-day free post-launch support for bug fixes, followed by flexible maintenance plans starting at ₹15,000/month. Our maintenance covers security updates, server monitoring, backups, performance optimization, and feature enhancements. You can choose monthly, quarterly, or annual plans based on your needs."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How do you ensure the quality and security of my website or app?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "We follow industry-best practices including code reviews, automated testing, manual QA, security audits, SSL encryption, secure authentication (OAuth, JWT), OWASP compliance, and regular vulnerability scanning. All projects go through multiple QA rounds before deployment, ensuring a bug-free and secure final product."
                 }
             }
         ]
@@ -1650,7 +1682,8 @@
                     <div class="col-lg-8 offset-lg-2 mb-4">
                         <div class="site-heading text-center">
                             <h5 class="sub-title">FAQs</h5>
-                            <h2 class="title">Frequently Asked Questions About Our Digital Services</h2>
+                            <h2 class="title">Frequently Asked Questions About Our Services</h2>
+                            <p>Answers to the most common questions about website development, mobile app development, and digital marketing services at ITD GrowthLabs.</p>
                         </div>
                     </div>
                 </div>
@@ -1658,115 +1691,138 @@
                     <div class="col-12">
                         <div class="faq-style-one">
                             <div class="accordion" id="faqAccordion">
+
                                 <div class="accordion-item">
                                     <h2 class="accordion-header" id="headingOne">
                                         <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                            How do you approach web development projects?
+                                            How much does website development cost in India?
                                         </button>
                                     </h2>
                                     <div id="collapseOne" class="accordion-collapse collapse show"
                                         aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                         <div class="accordion-body">
                                             <p>
-                                                Our web development process begins with understanding your business goals. We design user-friendly, responsive websites with SEO best practices. From development to deployment, we ensure your website is optimized for performance and engagement.
+                                                Website development cost in India typically ranges from <strong>₹50,000 for basic business websites</strong> to <strong>₹5-15 lakhs for custom web applications</strong>. At ITD GrowthLabs, we offer transparent pricing based on features, design complexity, integrations, and scale. <a href="contact-us.php">Contact us</a> for a free consultation and detailed project estimate.
                                             </p>
                                         </div>
                                     </div>
                                 </div>
+
                                 <div class="accordion-item">
                                     <h2 class="accordion-header" id="headingTwo">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                            What makes your SEO and content writing services effective?
+                                            How much does mobile app development cost?
                                         </button>
                                     </h2>
                                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                                         data-bs-parent="#faqAccordion">
                                         <div class="accordion-body">
                                             <p>
-                                                We create high-quality, keyword-optimized content tailored to your audience. Our SEO strategies focus on on-page and technical SEO, ensuring higher search rankings and sustained organic traffic growth.
+                                                Mobile app development costs vary by complexity: <strong>₹15-25 lakhs for an MVP</strong>, <strong>₹30-60 lakhs for mid-range apps</strong>, and <strong>₹60 lakhs to 1.2 crore for enterprise-grade apps</strong>. We have delivered 300+ apps including logistics platforms, SaaS, e-commerce, marketplaces, and fintech apps for clients across India, USA, UK, UAE, and Australia.
                                             </p>
                                         </div>
                                     </div>
                                 </div>
+
                                 <div class="accordion-item">
                                     <h2 class="accordion-header" id="headingThree">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                            data-bs-target="#collapseThree" aria-expanded="false"
-                                            aria-controls="collapseThree">
-                                            How does WhatsApp marketing automation benefit businesses?
+                                            data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                            How long does it take to develop a website or mobile app?
                                         </button>
                                     </h2>
                                     <div id="collapseThree" class="accordion-collapse collapse"
                                         aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                         <div class="accordion-body">
                                             <p>
-                                                Our WhatsApp marketing automation services enable businesses to send personalized messages, automate customer interactions, and drive engagement efficiently. We integrate AI-driven chatbots for seamless communication and lead nurturing.
+                                                A standard business website takes <strong>3-6 weeks</strong>, a custom web application takes <strong>2-4 months</strong>, and a full mobile app takes <strong>3-12 months</strong> depending on features and platforms. We follow Agile methodology with bi-weekly demos, ensuring transparent progress and on-time delivery.
                                             </p>
                                         </div>
                                     </div>
                                 </div>
+
                                 <div class="accordion-item">
                                     <h2 class="accordion-header" id="headingFour">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                            What is included in your SEO blog writing services?
+                                            What services does ITD GrowthLabs offer?
                                         </button>
                                     </h2>
                                     <div id="collapseFour" class="accordion-collapse collapse"
                                         aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
                                         <div class="accordion-body">
                                             <p>
-                                                Our SEO blog writing services include keyword research, content planning, engaging blog creation, and continuous optimization. We ensure your blogs rank well on search engines and provide valuable insights to your audience.
+                                                We are a full-service technology & app development company offering:
                                             </p>
+                                            <ul>
+                                                <li><strong>Website Development</strong> — Custom websites, WordPress, e-commerce, landing pages</li>
+                                                <li><strong>Mobile App Development</strong> — iOS, Android, Flutter, React Native</li>
+                                                <li><strong>Web Application Development</strong> — SaaS platforms, CRMs, ERPs, dashboards</li>
+                                                <li><strong>Digital Marketing</strong> — SEO, Google Ads, social media, content marketing</li>
+                                                <li><strong>AI & Automation</strong> — Chatbots, workflow automation, AI integrations</li>
+                                                <li><strong>WhatsApp Marketing</strong> — WhatsApp Business API, chatbot, automation</li>
+                                            </ul>
                                         </div>
                                     </div>
                                 </div>
+
                                 <div class="accordion-item">
                                     <h2 class="accordion-header" id="headingFive">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                            How do your video services enhance brand engagement?
+                                            Do you provide SEO and digital marketing services along with website development?
                                         </button>
                                     </h2>
                                     <div id="collapseFive" class="accordion-collapse collapse"
                                         aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
                                         <div class="accordion-body">
                                             <p>
-                                                We create high-quality explainer videos, promotional content, and brand storytelling videos to engage your audience. Our video production includes scripting, editing, animation, and optimization for digital platforms.
+                                                Yes. We offer end-to-end digital marketing services including <strong>SEO, Google Ads, social media marketing, content marketing, email marketing, and conversion rate optimization</strong>. Our integrated approach ensures your website is not only beautifully designed but also ranks well on search engines and converts visitors into paying customers.
                                             </p>
                                         </div>
                                     </div>
                                 </div>
+
                                 <div class="accordion-item">
                                     <h2 class="accordion-header" id="headingSix">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                                            What data services do you provide?
+                                            Which technologies do you use for app and web development?
                                         </button>
                                     </h2>
                                     <div id="collapseSix" class="accordion-collapse collapse"
                                         aria-labelledby="headingSix" data-bs-parent="#faqAccordion">
                                         <div class="accordion-body">
                                             <p>
-                                                We specialize in white-labeling and annotation services, including text and image annotation. These services help businesses enhance their AI models with accurate data labeling and categorization.
+                                                We work with modern, industry-standard technology stacks:
                                             </p>
+                                            <ul>
+                                                <li><strong>Web Frontend:</strong> React.js, Next.js, Angular, Vue.js, HTML5/CSS3</li>
+                                                <li><strong>Backend:</strong> Node.js, Python (Django/FastAPI), PHP (Laravel), Java Spring Boot</li>
+                                                <li><strong>Mobile:</strong> Flutter, React Native, Swift (iOS), Kotlin (Android)</li>
+                                                <li><strong>CMS:</strong> WordPress, Shopify, Strapi, Contentful</li>
+                                                <li><strong>Databases:</strong> MySQL, PostgreSQL, MongoDB, Firebase</li>
+                                                <li><strong>Cloud:</strong> AWS, Google Cloud, Azure, DigitalOcean</li>
+                                            </ul>
+                                            <p>We choose the best stack based on your project requirements, scalability needs, and budget.</p>
                                         </div>
                                     </div>
                                 </div>
+
                                 <div class="accordion-item">
                                     <h2 class="accordion-header" id="headingSeven">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-                                            What is website content, and why is it important?
+                                            Do you work with international clients outside India?
                                         </button>
                                     </h2>
                                     <div id="collapseSeven" class="accordion-collapse collapse"
                                         aria-labelledby="headingSeven" data-bs-parent="#faqAccordion">
                                         <div class="accordion-body">
                                             <p>
-                                                Website content includes all text, images, videos, and interactive elements that communicate your brand message. High-quality content improves SEO, engages visitors, and drives conversions.
+                                                Yes, absolutely. We work with clients globally and have dedicated regional teams serving businesses in <strong>USA, UK, UAE, Australia, and Africa</strong>. International clients typically save <strong>60-70% on development costs</strong> while receiving quality comparable to local agencies. We adjust our work hours to align with your timezone for smooth collaboration and daily standups.
                                             </p>
                                         </div>
                                     </div>
@@ -1776,14 +1832,14 @@
                                     <h2 class="accordion-header" id="headingEight">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
-                                            What is SEO content writing and why is it important for websites?
+                                            Will I own the source code and intellectual property of my app or website?
                                         </button>
                                     </h2>
                                     <div id="collapseEight" class="accordion-collapse collapse"
                                         aria-labelledby="headingEight" data-bs-parent="#faqAccordion">
                                         <div class="accordion-body">
                                             <p>
-                                                SEO content writing is the process of creating keyword-optimized content that improves your website’s visibility on search engines. It helps attract organic traffic, engage users, and increase conversions by aligning content with what your audience is searching for.
+                                                Yes — <strong>100% ownership</strong>. After final payment, you own the complete source code, designs, databases, and all intellectual property. We provide full handover with documentation, repository access, deployment credentials, and training for your team. This is our standard practice — <strong>no vendor lock-in, ever</strong>.
                                             </p>
                                         </div>
                                     </div>
@@ -1793,14 +1849,14 @@
                                     <h2 class="accordion-header" id="headingNine">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
-                                            How do blog writing services help with lead generation and SEO?
+                                            Do you offer post-launch support and maintenance?
                                         </button>
                                     </h2>
                                     <div id="collapseNine" class="accordion-collapse collapse"
                                         aria-labelledby="headingNine" data-bs-parent="#faqAccordion">
                                         <div class="accordion-body">
                                             <p>
-                                                Blog writing services help improve your SEO rankings by targeting long-tail keywords and answering audience questions. Regular blogs also drive traffic, build trust, and support lead generation through internal linking and call-to-actions.
+                                                Yes, we offer <strong>30-day free post-launch support</strong> for bug fixes, followed by flexible maintenance plans starting at <strong>₹15,000/month</strong>. Our maintenance covers security updates, server monitoring, backups, performance optimization, and feature enhancements. Choose monthly, quarterly, or annual plans based on your needs.
                                             </p>
                                         </div>
                                     </div>
@@ -1810,15 +1866,24 @@
                                     <h2 class="accordion-header" id="headingTen">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
-                                            What’s the difference between website content writing and SEO article writing?
+                                            How do you ensure the quality and security of my website or app?
                                         </button>
                                     </h2>
                                     <div id="collapseTen" class="accordion-collapse collapse"
                                         aria-labelledby="headingTen" data-bs-parent="#faqAccordion">
                                         <div class="accordion-body">
                                             <p>
-                                                Website content writing focuses on clear, persuasive copy for static pages like Home, About, and Services. SEO article writing targets specific keywords and topics to rank in search results and attract ongoing organic traffic.
+                                                Quality and security are core to our delivery process:
                                             </p>
+                                            <ul>
+                                                <li><strong>Code reviews</strong> by senior developers on every commit</li>
+                                                <li><strong>Automated testing</strong> — unit, integration, and E2E tests</li>
+                                                <li><strong>Manual QA</strong> — functional, usability, and regression testing</li>
+                                                <li><strong>Security audits</strong> — OWASP Top 10 compliance, vulnerability scans</li>
+                                                <li><strong>SSL encryption, secure authentication</strong> (OAuth, JWT, 2FA)</li>
+                                                <li><strong>Performance optimization</strong> — Core Web Vitals, caching, CDN</li>
+                                            </ul>
+                                            <p>All projects undergo multiple QA rounds before deployment, ensuring a bug-free and secure final product.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -1827,14 +1892,14 @@
                                     <h2 class="accordion-header" id="headingEle">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapseEle" aria-expanded="false" aria-controls="collapseEle">
-                                            Do you provide technical writing services for software or industrial companies?
+                                            Can you redesign or improve my existing website/app?
                                         </button>
                                     </h2>
                                     <div id="collapseEle" class="accordion-collapse collapse"
                                         aria-labelledby="headingEle" data-bs-parent="#faqAccordion">
                                         <div class="accordion-body">
                                             <p>
-                                                Yes, we offer technical writing services for IT, software, SaaS, and manufacturing industries. We simplify complex topics into clear, structured documents like user manuals, help guides, FAQs, and SOPs.
+                                                Absolutely. We offer <strong>website redesign, app modernization, performance optimization, and feature enhancement</strong> services. Our team audits your existing product, identifies improvement areas, and delivers a phased upgrade plan — often improving page speed, conversions, and SEO rankings significantly without starting from scratch.
                                             </p>
                                         </div>
                                     </div>
@@ -1844,66 +1909,22 @@
                                     <h2 class="accordion-header" id="headingTwel">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapseTwel" aria-expanded="false" aria-controls="collapseTwel">
-                                            Can I outsource content writing to your team for long-term projects?
+                                            How do I get started with a project at ITD GrowthLabs?
                                         </button>
                                     </h2>
                                     <div id="collapseTwel" class="accordion-collapse collapse"
                                         aria-labelledby="headingTwel" data-bs-parent="#faqAccordion">
                                         <div class="accordion-body">
                                             <p>
-                                                Absolutely. Our content team outsourcing service allows you to scale your content efforts with dedicated writers for blogs, product descriptions, White Papers, and SEO pages—fully managed and quality-checked.
+                                                Getting started is simple:
                                             </p>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingThirt">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                            data-bs-target="#collapseThirt" aria-expanded="false" aria-controls="collapseThirt">
-                                            How do your IT outsourcing services work?
-                                        </button>
-                                    </h2>
-                                    <div id="collapseThirt" class="accordion-collapse collapse"
-                                        aria-labelledby="headingThirt" data-bs-parent="#faqAccordion">
-                                        <div class="accordion-body">
-                                            <p>
-                                                We offer flexible IT outsourcing solutions with dedicated teams that align with your tech goals. From development to maintenance, we ensure cost-effective scalability.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingFout">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                            data-bs-target="#collapseFout" aria-expanded="false" aria-controls="collapseFout">
-                                            What industries do you cater to with your eLearning solutions?
-                                        </button>
-                                    </h2>
-                                    <div id="collapseFout" class="accordion-collapse collapse"
-                                        aria-labelledby="headingFout" data-bs-parent="#faqAccordion">
-                                        <div class="accordion-body">
-                                            <p>
-                                                Our eLearning services support industries like software, technology, financial services, manufacturing, healthcare, government, restaurants & hospitality, education and retail—delivering custom training modules for employee onboarding, compliance, and upskilling.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="Fift">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                            data-bs-target="#collapseFift" aria-expanded="false" aria-controls="collapseFift">
-                                            Can we request changes to better align with our brand voice?
-                                        </button>
-                                    </h2>
-                                    <div id="collapseFift" class="accordion-collapse collapse"
-                                        aria-labelledby="Fift" data-bs-parent="#faqAccordion">
-                                        <div class="accordion-body">
-                                            <p>
-                                                Absolutely. We collaborate closely with you to ensure every piece of content, design, or code reflects your brand's tone, style, and overall identity.
-                                            </p>
+                                            <ol>
+                                                <li><strong>Free Consultation</strong> — <a href="contact-us.php">Contact us</a> or book a call to discuss your project</li>
+                                                <li><strong>Requirement Analysis</strong> — We understand your goals, users, and technical needs</li>
+                                                <li><strong>Proposal & Estimate</strong> — You receive a detailed proposal with timeline, cost, and milestones</li>
+                                                <li><strong>Kickoff</strong> — After agreement, we start with design, sprints, and bi-weekly demos</li>
+                                                <li><strong>Launch & Support</strong> — Final QA, deployment, handover, and ongoing support</li>
+                                            </ol>
                                         </div>
                                     </div>
                                 </div>

@@ -6,11 +6,11 @@ use PHPMailer\PHPMailer\Exception;
 require __DIR__ . '/PHPMailer/src/Exception.php';
 require __DIR__ . '/PHPMailer/src/PHPMailer.php';
 require __DIR__ . '/PHPMailer/src/SMTP.php';
+require_once __DIR__ . '/includes/spam_protection.php';
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
-    if (!empty($_POST['username_hp'])) {
-        exit("Spam detected! Submission blocked.");
-    }
+    // Centralised bot / spam protection (honeypot + timestamp + content filter + rate-limit)
+    itdgl_verify_submission();
 
     $name = isset($_POST['name']) ? htmlspecialchars($_POST['name']) : '';
     $email = isset($_POST['email']) ? filter_var($_POST['email'], FILTER_SANITIZE_EMAIL) : '';

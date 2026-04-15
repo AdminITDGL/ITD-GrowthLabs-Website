@@ -56,6 +56,8 @@ function handleNewsletterSubmit(e) {
     formData.append('name', 'Newsletter Subscriber');
     formData.append('email', email);
     formData.append('source', 'newsletter_bar');
+    formData.append('form_ts', window.__itdglPageTs || Math.floor(Date.now()/1000));
+    formData.append('username_hp', '');
     var basePath = window.location.pathname.indexOf('/services/') !== -1 ? '../' : (window.location.pathname.indexOf('/resources/') !== -1 ? '../' : (window.location.pathname.match(/^\/(africa|australia|uae|uk|usa)\//) ? '../' : ''));
     fetch(basePath + 'leadCaptureMail.php', { method: 'POST', body: formData });
 
@@ -67,4 +69,98 @@ function handleNewsletterSubmit(e) {
     }
     return false;
 }
+</script>
+
+<!-- ITD GrowthLabs: Site-wide form bot protection (auto-inject honeypot + timestamp) -->
+<script>
+(function(){
+    // Page render timestamp — humans take ≥3s to fill a form, bots submit instantly.
+    window.__itdglPageTs = Math.floor(Date.now() / 1000);
+
+    // Only protect forms that submit to our mail handlers
+    var MAIL_HANDLERS = /(contactMail|appDevelopmentFormMail|leadGenFormMail|socialMediaFormMail|videoProductionFormMail|websiteDesignFormMail|leadCaptureMail)\.php/i;
+
+    function ensureHidden(form, name, value) {
+        var existing = form.querySelector('input[name="' + name + '"]');
+        if (existing) { if (value !== undefined) existing.value = value; return existing; }
+        var el = document.createElement('input');
+        el.type = 'hidden';
+        el.name = name;
+        if (value !== undefined) el.value = value;
+        form.appendChild(el);
+        return el;
+    }
+
+    function protectForm(form) {
+        if (!form || form.__itdglProtected) return;
+        var action = (form.getAttribute('action') || '') + ' ' + (form.getAttribute('data-action') || '');
+        // Protect if action points to a known handler, OR form has common handler class/id hint
+        var isHandlerForm = MAIL_HANDLERS.test(action) ||
+                            form.id === 'newsletter-form' ||
+                            form.classList.contains('contact-form') ||
+                            form.classList.contains('enquiry-form') ||
+                            form.classList.contains('lead-form');
+        // Fall back: treat ANY form with an email input as a candidate (safe – timestamp check is permissive)
+        if (!isHandlerForm && !form.querySelector('input[type="email"]')) return;
+
+        ensureHidden(form, 'form_ts', window.__itdglPageTs);
+
+        // Honeypot: hidden from humans via CSS + autocomplete=off + aria-hidden
+        var hp = ensureHidden(form, 'username_hp', '');
+        hp.type = 'text';
+        hp.setAttribute('autocomplete', 'off');
+        hp.setAttribute('tabindex', '-1');
+        hp.setAttribute('aria-hidden', 'true');
+        hp.style.cssText = 'position:absolute !important;left:-10000px !important;top:-10000px !important;width:1px !important;height:1px !important;opacity:0 !important;pointer-events:none !important;';
+
+        form.__itdglProtected = true;
+    }
+
+    function scanAndProtect() {
+        var forms = document.querySelectorAll('form');
+        for (var i = 0; i < forms.length; i++) protectForm(forms[i]);
+    }
+
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', scanAndProtect);
+    } else {
+        scanAndProtect();
+    }
+
+    // Catch dynamically-added forms (popup modals, AJAX-loaded forms)
+    if (typeof MutationObserver !== 'undefined') {
+        var mo = new MutationObserver(function(muts){
+            for (var i = 0; i < muts.length; i++) {
+                var m = muts[i];
+                if (m.addedNodes) {
+                    for (var j = 0; j < m.addedNodes.length; j++) {
+                        var n = m.addedNodes[j];
+                        if (n.nodeType === 1) {
+                            if (n.tagName === 'FORM') protectForm(n);
+                            var inner = n.querySelectorAll ? n.querySelectorAll('form') : [];
+                            for (var k = 0; k < inner.length; k++) protectForm(inner[k]);
+                        }
+                    }
+                }
+            }
+        });
+        mo.observe(document.documentElement, { childList: true, subtree: true });
+    }
+
+    // Also intercept native fetch() calls that send FormData to our mail handlers
+    // so programmatic submissions (like the newsletter one) auto-get honeypot + form_ts.
+    if (window.fetch) {
+        var origFetch = window.fetch;
+        window.fetch = function(input, init) {
+            try {
+                var url = typeof input === 'string' ? input : (input && input.url) || '';
+                if (MAIL_HANDLERS.test(url) && init && init.body && init.body instanceof FormData) {
+                    if (!init.body.has('form_ts')) init.body.append('form_ts', window.__itdglPageTs);
+                    if (!init.body.has('username_hp')) init.body.append('username_hp', '');
+                }
+            } catch(_) {}
+            return origFetch.apply(this, arguments);
+        };
+    }
+})();
 </script>
