@@ -7,16 +7,18 @@ require __DIR__ . '/PHPMailer/src/Exception.php';
 require __DIR__ . '/PHPMailer/src/PHPMailer.php';
 require __DIR__ . '/PHPMailer/src/SMTP.php';
 require_once __DIR__ . '/includes/spam_protection.php';
+require_once __DIR__ . '/includes/email_templates.php';
+
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     // Centralised bot / spam protection (honeypot + timestamp + content filter + rate-limit)
     itdgl_verify_submission();
 
-    $name = isset($_POST['name']) ? htmlspecialchars($_POST['name']) : '';
-    $email = isset($_POST['email']) ? filter_var($_POST['email'], FILTER_SANITIZE_EMAIL) : '';
-    $mobile = isset($_POST['mobile']) ? htmlspecialchars($_POST['mobile']) : '';
-    $service = isset($_POST['service']) ? htmlspecialchars($_POST['service']) : '';
-    $message = isset($_POST['message']) ? htmlspecialchars($_POST['message']) : '';
+    $name    = isset($_POST['name'])    ? htmlspecialchars($_POST['name'])                       : '';
+    $email   = isset($_POST['email'])   ? filter_var($_POST['email'], FILTER_SANITIZE_EMAIL)     : '';
+    $mobile  = isset($_POST['mobile'])  ? htmlspecialchars($_POST['mobile'])                     : '';
+    $service = isset($_POST['service']) ? htmlspecialchars($_POST['service'])                    : '';
+    $message = isset($_POST['message']) ? htmlspecialchars($_POST['message'])                    : '';
 
     $secretKey = "6Lcm0hosAAAAAO-sjX64qw9HYhBf-tpFkT_RUdqy";
     $response = $_POST['g-recaptcha-response'] ?? '';
@@ -28,42 +30,46 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         echo json_encode(['status' => 'error', 'message' => 'Captcha verification failed!']);
         exit;
     }
-    
+
     echo json_encode(['status' => 'success']);
     if (function_exists('fastcgi_finish_request')) fastcgi_finish_request();
 
     try {
         $mail = new PHPMailer(true);
         $mail->isSMTP();
-        $mail->Host = 'smtp.gmail.com';
-        $mail->SMTPAuth = true;
-        $mail->Username = 'info@itdgrowthlabs.com';
-        $mail->Password = 'qaze srft zxyy dfgy';
+        $mail->Host       = 'smtp.gmail.com';
+        $mail->SMTPAuth   = true;
+        $mail->Username   = 'info@itdgrowthlabs.com';
+        $mail->Password   = 'qaze srft zxyy dfgy';
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
-        $mail->Port = 587;
-        $mail->CharSet = 'UTF-8';
-        $mail->setFrom('info@itdgrowthlabs.com', 'ITD Growth Labs');
-        $mail->addAddress('info@itdgrowthlabs.com', 'ITD Growth Labs');
-        $mail->addAddress('kushal@itdservices.in', 'ITD Growth Labs');
+        $mail->Port       = 587;
+        $mail->CharSet    = 'UTF-8';
+
+        // ── 1. Internal notification to the team ──────────────────────────
+        $mail->setFrom('info@itdgrowthlabs.com', 'ITD GrowthLabs Website');
+        $mail->addAddress('info@itdgrowthlabs.com', 'ITD GrowthLabs');
+        $mail->addAddress('kushal@itdservices.in',  'ITD GrowthLabs');
         $mail->addReplyTo($email, $name);
         $mail->isHTML(true);
-        $mail->Subject = "New Enquiry Form Submission";
-        $mail->Body = "<p>Hi Team,</p><p>We have received a new enquiry through the website form with the following details:</p><ul><li><strong>Name:</strong> $name</li><li><strong>Email:</strong> $email</li><li><strong>Mobile:</strong> $mobile</li><li><strong>Service:</strong> $service</li><li><strong>Message:</strong> $message</li></ul><p><strong>Next Steps:</strong><br>Please call the client on the provided mobile number to understand their requirements and discuss further details.</p><p>Thanks,<br>Web Team</p>";
+        $mail->Subject = "New Enquiry: {$name}" . ($service ? " — {$service}" : '') . ($mobile ? " ({$mobile})" : '');
+        $mail->Body    = itdgl_internal_email(
+            'General Contact Enquiry',
+            ['Name' => $name, 'Email' => $email, 'Mobile' => $mobile, 'Service Interested In' => $service, 'Message' => $message],
+            $mobile
+        );
+
         if ($mail->send()) {
+            // ── 2. Confirmation email to the user ─────────────────────────
             $mail->clearAddresses();
+            $mail->clearReplyTos();
             $mail->addAddress($email, $name);
-            $mail->Subject = 'Thank You for Contacting ITD Growthlabs';
-            $mail->Body = "<p>Hello $name,</p><p>Thank you for contacting ITD Growthlabs for your technology and marketing solutions. One of our team members will get back to you soon.</p><p>In the meantime, feel free to explore our website to learn more about our services:<br>👉 <a href='https://itdgrowthlabs.com/' target='_blank'>https://itdgrowthlabs.com/</a></p><p>Best regards,<br>Team ITD Growthlabs</p>";
+            $mail->Subject = 'We\'ve Received Your Enquiry — ITD GrowthLabs';
+            $mail->Body    = itdgl_user_email($name, ['form_type' => 'contact', 'service' => $service]);
             $mail->send();
-            echo json_encode(['status' => 'success']);
-            exit;
         }
     } catch (Exception $e) {
-        error_log("Mailer Error: " . $e->getMessage());
-        echo json_encode([
-            'status' => 'error',
-            'message' => 'Mail sending failed: ' . $e->getMessage()
-        ]);
+        error_log("contactMail Error: " . $e->getMessage());
+        echo json_encode(['status' => 'error', 'message' => 'Mail sending failed: ' . $e->getMessage()]);
     }
 } else {
     echo json_encode(['status' => 'error', 'message' => 'Invalid Request']);

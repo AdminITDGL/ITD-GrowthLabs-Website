@@ -7,16 +7,18 @@ require __DIR__ . '/PHPMailer/src/Exception.php';
 require __DIR__ . '/PHPMailer/src/PHPMailer.php';
 require __DIR__ . '/PHPMailer/src/SMTP.php';
 require_once __DIR__ . '/includes/spam_protection.php';
+require_once __DIR__ . '/includes/email_templates.php';
+
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     // Centralised bot / spam protection (honeypot + timestamp + content filter + rate-limit)
     itdgl_verify_submission();
 
-    $full_name = isset($_POST['full_name']) ? htmlspecialchars($_POST['full_name']) : '';
-    $email = isset($_POST['email']) ? filter_var($_POST['email'], FILTER_SANITIZE_EMAIL) : '';
-    $phone = isset($_POST['phone']) ? htmlspecialchars($_POST['phone']) : '';
-    $budget = isset($_POST['budget']) ? htmlspecialchars($_POST['budget']) : '';
-    $requirement = isset($_POST['requirement']) ? htmlspecialchars($_POST['requirement']) : '';
+    $full_name   = isset($_POST['full_name'])   ? htmlspecialchars($_POST['full_name'])                   : '';
+    $email       = isset($_POST['email'])       ? filter_var($_POST['email'], FILTER_SANITIZE_EMAIL)       : '';
+    $phone       = isset($_POST['phone'])       ? htmlspecialchars($_POST['phone'])                        : '';
+    $budget      = isset($_POST['budget'])      ? htmlspecialchars($_POST['budget'])                       : '';
+    $requirement = isset($_POST['requirement']) ? htmlspecialchars($_POST['requirement'])                  : '';
 
     $secretKey = "6Lcm0hosAAAAAO-sjX64qw9HYhBf-tpFkT_RUdqy";
     $response = $_POST['g-recaptcha-response'] ?? '';
@@ -28,41 +30,46 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         echo json_encode(['status' => 'error', 'message' => 'Captcha verification failed!']);
         exit;
     }
-    
+
     echo json_encode(['status' => 'success']);
     if (function_exists('fastcgi_finish_request')) fastcgi_finish_request();
 
     try {
         $mail = new PHPMailer(true);
         $mail->isSMTP();
-        $mail->Host = 'smtp.gmail.com';
-        $mail->SMTPAuth = true;
-        $mail->Username = 'info@itdgrowthlabs.com';
-        $mail->Password = 'qaze srft zxyy dfgy';
+        $mail->Host       = 'smtp.gmail.com';
+        $mail->SMTPAuth   = true;
+        $mail->Username   = 'info@itdgrowthlabs.com';
+        $mail->Password   = 'qaze srft zxyy dfgy';
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
-        $mail->Port = 587;
-        $mail->CharSet = 'UTF-8';
-        $mail->setFrom('info@itdgrowthlabs.com', 'ITD Growth Labs');
-        $mail->addAddress('info@itdgrowthlabs.com', 'ITD Growth Labs');
+        $mail->Port       = 587;
+        $mail->CharSet    = 'UTF-8';
+
+        // ── 1. Internal notification to the team ──────────────────────────
+        $mail->setFrom('info@itdgrowthlabs.com', 'ITD GrowthLabs Website');
+        $mail->addAddress('info@itdgrowthlabs.com', 'ITD GrowthLabs');
+        $mail->addAddress('kushal@itdservices.in',  'ITD GrowthLabs');
         $mail->addReplyTo($email, $full_name);
         $mail->isHTML(true);
-        $mail->Subject = "New App Development Enquiry Form Submission";
-        $mail->Body = "<p>Hi Team,</p><p>We have received a new app development enquiry through the website form with the following details:</p><ul><li><strong>Full Name:</strong> $full_name</li><li><strong>Email:</strong> $email</li><li><strong>Phone:</strong> $phone</li><li><strong>Budget:</strong> $budget</li><li><strong>Requirement:</strong> $requirement</li></ul><p><strong>Next Steps:</strong><br>Please call the client on the provided mobile number to understand their requirements and discuss further details.</p><p>Thanks,<br>Web Team</p>";
+        $mail->Subject = "New App Dev Enquiry: {$full_name}" . ($phone ? " ({$phone})" : '') . ($budget ? " — Budget: {$budget}" : '');
+        $mail->Body    = itdgl_internal_email(
+            'App Development Enquiry',
+            ['Full Name' => $full_name, 'Email' => $email, 'Phone' => $phone, 'Budget' => $budget, 'Requirement' => $requirement],
+            $phone
+        );
+
         if ($mail->send()) {
+            // ── 2. Confirmation email to the user ─────────────────────────
             $mail->clearAddresses();
+            $mail->clearReplyTos();
             $mail->addAddress($email, $full_name);
-            $mail->Subject = 'Thank You for Contacting ITD Growthlabs - App Development';
-            $mail->Body = "<p>Hello $full_name,</p><p>Thank you for contacting ITD Growthlabs for your app development needs. One of our app development experts will get back to you soon to discuss your requirements.</p><p>In the meantime, feel free to explore our website to learn more about our services:<br>👉 <a href='https://itdgrowthlabs.com/' target='_blank'>https://itdgrowthlabs.com/</a></p><p>Best regards,<br>Team ITD Growthlabs</p>";
+            $mail->Subject = 'Your App Development Brief is With Our Team — ITD GrowthLabs';
+            $mail->Body    = itdgl_user_email($full_name, ['form_type' => 'app_development']);
             $mail->send();
-            echo json_encode(['status' => 'success']);
-            exit;
         }
     } catch (Exception $e) {
-        error_log("Mailer Error: " . $e->getMessage());
-        echo json_encode([
-            'status' => 'error',
-            'message' => 'Mail sending failed: ' . $e->getMessage()
-        ]);
+        error_log("appDevelopmentFormMail Error: " . $e->getMessage());
+        echo json_encode(['status' => 'error', 'message' => 'Mail sending failed: ' . $e->getMessage()]);
     }
 } else {
     echo json_encode(['status' => 'error', 'message' => 'Invalid Request']);

@@ -13,9 +13,9 @@
             </button>
 
             <!-- Banner Image -->
-            <div style="width: 100%;">
+            <div style="width: 100%; overflow: hidden; max-height: 180px;">
                 <a href="<?php echo (strpos($_SERVER['PHP_SELF'], '/services/') !== false) ? '../contact-us.php' : 'contact-us.php'; ?>">
-                    <img src="<?php echo (strpos($_SERVER['PHP_SELF'], '/services/') !== false) ? '../assets/img/BlackBlueBizBanner.jpg' : 'assets/img/BlackBlueBizBanner.jpg'; ?>" alt="ITD GrowthLabs — Custom App Development & Digital Solutions" class="img-fluid" style="width: 100%; height: auto; display: block;">
+                    <img src="<?php echo (strpos($_SERVER['PHP_SELF'], '/services/') !== false) ? '../assets/img/BlackBlueBizBanner.jpg' : 'assets/img/BlackBlueBizBanner.jpg'; ?>" alt="ITD GrowthLabs — Custom App Development & Digital Solutions" style="width: 100%; height: 180px; object-fit: cover; object-position: center top; display: block;">
                 </a>
             </div>
 
