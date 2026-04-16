@@ -42,6 +42,7 @@
                             <input type="text" id="profile-lead-name" placeholder="Your Name" required style="flex: 1; min-width: 140px;">
                             <input type="email" id="profile-lead-email" placeholder="Work Email" required style="flex: 1; min-width: 180px;">
                         </div>
+                        <input type="tel" id="profile-lead-mobile" placeholder="Mobile Number (e.g. +91 98765 43210)" required pattern="[\+]?[0-9\s\-]{7,18}" title="Enter a valid mobile number" style="width: 100; padding: 10px 14px; border: 2px solid #e0e0e0; border-radius: 8px; font-size: 14px; outline: none; transition: border-color 0.3s;">
                         <button type="submit" style="background: linear-gradient(135deg, #1565c0, #0d47a1); color: #fff; border: none; padding: 11px 20px; border-radius: 8px; font-weight: 600; font-size: 14px; cursor: pointer; transition: opacity 0.3s;" onmouseover="this.style.opacity='0.9'" onmouseout="this.style.opacity='1'">
                             Download Company Profile (PDF) &#8595;
                         </button>
@@ -77,13 +78,15 @@
         e.preventDefault();
         var name = document.getElementById('profile-lead-name').value;
         var email = document.getElementById('profile-lead-email').value;
+        var mobile = document.getElementById('profile-lead-mobile').value;
 
         // Send lead to email via PHP handler
         var formData = new FormData();
         formData.append('name', name);
         formData.append('email', email);
+        formData.append('mobile', mobile);
         formData.append('source', 'popup_profile_download');
-        var basePath = (window.location.pathname.indexOf('/services/') !== -1) ? '../' : '';
+        var basePath = (window.location.pathname.indexOf('/services/') !== -1 || window.location.pathname.indexOf('/resources/') !== -1 || window.location.pathname.match(/^\/(usa|uk|uae|australia|africa)\//)) ? '../' : '';
         fetch(basePath + 'leadCaptureMail.php', { method: 'POST', body: formData });
 
         // Track in GA4

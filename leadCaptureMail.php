@@ -15,6 +15,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     $name = isset($_POST['name']) ? htmlspecialchars($_POST['name']) : '';
     $email = isset($_POST['email']) ? filter_var($_POST['email'], FILTER_SANITIZE_EMAIL) : '';
+    $mobile = isset($_POST['mobile']) ? htmlspecialchars($_POST['mobile']) : '';
     $source = isset($_POST['source']) ? htmlspecialchars($_POST['source']) : 'unknown';
 
     if (empty($email) || !filter_var($email, FILTER_VALIDATE_EMAIL)) {
@@ -46,7 +47,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         elseif ($source === 'newsletter_bar') $sourceLabel = 'Newsletter Subscription';
         else $sourceLabel = ucwords(str_replace('_', ' ', $source));
 
-        $mail->Subject = "New Lead: $sourceLabel — $name";
+        $mail->Subject = "New Lead: $sourceLabel — $name" . ($mobile ? " ($mobile)" : "");
         $mail->Body = "
             <div style='font-family:Arial,sans-serif;max-width:600px;margin:0 auto;'>
                 <div style='background:#1565c0;color:#fff;padding:20px 25px;border-radius:8px 8px 0 0;'>
@@ -57,6 +58,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     <table style='width:100%;border-collapse:collapse;'>
                         <tr><td style='padding:8px 0;font-weight:bold;color:#333;width:100px;'>Name:</td><td style='padding:8px 0;color:#555;'>$name</td></tr>
                         <tr><td style='padding:8px 0;font-weight:bold;color:#333;'>Email:</td><td style='padding:8px 0;color:#555;'><a href='mailto:$email'>$email</a></td></tr>
+                        <tr><td style='padding:8px 0;font-weight:bold;color:#333;'>Mobile:</td><td style='padding:8px 0;color:#555;'>" . ($mobile ? "<a href='tel:$mobile'>$mobile</a>" : "—") . "</td></tr>
                         <tr><td style='padding:8px 0;font-weight:bold;color:#333;'>Source:</td><td style='padding:8px 0;color:#555;'>$sourceLabel</td></tr>
                         <tr><td style='padding:8px 0;font-weight:bold;color:#333;'>Date:</td><td style='padding:8px 0;color:#555;'>" . date('d M Y, h:i A') . " IST</td></tr>
                     </table>
