@@ -1,7 +1,7 @@
    <div class="country-flags-header">
        <div class="container">
            <div class="country-flags-container">
-               <a href="uae/index.php" class="country-flag-item">
+               <a href="../uae/index.php" class="country-flag-item">
                    <img src="../assets/img/uae.png" alt="UAE Flag">
                    <span>UAE</span>
                </a>
@@ -9,15 +9,15 @@
                    <img src="../assets/img/africa.png" alt="Africa Flag">
                    <span>Africa</span>
                </a>
-               <a href="australia/index.php" class="country-flag-item">
+               <a href="../australia/index.php" class="country-flag-item">
                    <img src="../assets/img/australia.png" alt="Australia Flag">
                    <span>Australia</span>
                </a>
-               <a href="uk/index.php" class="country-flag-item">
+               <a href="../uk/index.php" class="country-flag-item">
                    <span class="flag-emoji" role="img" aria-label="UK Flag">&#127468;&#127463;</span>
                    <span>UK</span>
                </a>
-               <a href="usa/index.php" class="country-flag-item">
+               <a href="../usa/index.php" class="country-flag-item">
                    <span class="flag-emoji" role="img" aria-label="USA Flag">&#127482;&#127480;</span>
                    <span>USA</span>
                </a>

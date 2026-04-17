@@ -595,21 +595,21 @@
                         <div class="f-item link">
                         <h4 class="widget-title">WhatsApp Marketing</h4>
                         <ul>
-                            <li><a href="whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
-                            <li><a href="whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
-                            <li><a href="whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
-                            <li><a href="whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
-                            <li><a href="whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flow</a></li>
+                            <li><a href="../whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
+                            <li><a href="../whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
+                            <li><a href="../whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
+                            <li><a href="../whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
+                            <li><a href="../whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flow</a></li>
                         </ul>
                     </div>
 
                     <div class="f-item link mt-5">
                         <h4 class="widget-title">UAE Digital Services</h4>
                         <ul>
-                            <li><a href="uae/website-design-development.php">Website Design & Development</a></li>
-                            <li><a href="uae/web-application-development.php">Web Application Development</a></li>
-                            <li><a href="uae/mobile-app-development.php">Mobile App Development</a></li>
-                            <li><a href="uae/digital-marketing-services.php">Digital Marketing Services</a></li>
+                            <li><a href="../uae/website-design-development.php">Website Design & Development</a></li>
+                            <li><a href="../uae/web-application-development.php">Web Application Development</a></li>
+                            <li><a href="../uae/mobile-app-development.php">Mobile App Development</a></li>
+                            <li><a href="../uae/digital-marketing-services.php">Digital Marketing Services</a></li>
                         </ul>
                     </div>
                     </div>
@@ -629,10 +629,10 @@
 <div class="f-item link mt-5">
                         <h4 class="widget-title">Africa Digital Services</h4>
                         <ul>
-                            <li><a href="africa/website-design-development.php">Website Design & Development</a></li>
-                            <li><a href="africa/web-application-development.php">Web Application Development</a></li>
-                            <li><a href="africa/mobile-app-development.php">Mobile App Development</a></li>
-                            <li><a href="africa/digital-marketing-services.php">Digital Marketing Services</a></li>
+                            <li><a href="../africa/website-design-development.php">Website Design & Development</a></li>
+                            <li><a href="../africa/web-application-development.php">Web Application Development</a></li>
+                            <li><a href="../africa/mobile-app-development.php">Mobile App Development</a></li>
+                            <li><a href="../africa/digital-marketing-services.php">Digital Marketing Services</a></li>
                         </ul>
                     </div>
                     </div>
@@ -650,10 +650,10 @@
                         <div class="f-item link mt-5">
                         <h4 class="widget-title">Australia Digital Services</h4>
                         <ul>
-                            <li><a href="australia/website-design-development.php">Website Design & Development</a></li>
-                            <li><a href="australia/web-application-development.php">Web Application Development</a></li>
-                            <li><a href="australia/mobile-app-development.php">Mobile App Development</a></li>
-                            <li><a href="australia/digital-marketing-services.php">Digital Marketing Services</a></li>
+                            <li><a href="../australia/website-design-development.php">Website Design & Development</a></li>
+                            <li><a href="../australia/web-application-development.php">Web Application Development</a></li>
+                            <li><a href="../australia/mobile-app-development.php">Mobile App Development</a></li>
+                            <li><a href="../australia/digital-marketing-services.php">Digital Marketing Services</a></li>
                         </ul>
                     </div>
                     </div>
