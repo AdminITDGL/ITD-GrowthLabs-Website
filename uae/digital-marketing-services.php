@@ -790,7 +790,7 @@
                                 We help UAE businesses generate leads, increase visibility, and grow revenue through data-driven digital marketing strategies.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Schedule a Meeting</a>
+                                <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Schedule a Meeting</a>
                             </div>
                         </div>
                     </div>
@@ -1273,7 +1273,7 @@
                         <p class="text-white">Partner with a results-driven digital marketing company in UAE that focuses on leads, conversions, and ROI.</p>
                         <p class="text-white mb-30">👉 Get a Free Digital Marketing Strategy Call</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Talk to a UAE Marketing Expert</a>
+                            <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Talk to a UAE Marketing Expert</a>
                         </div>
                     </div>
                 </div>

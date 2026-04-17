@@ -654,7 +654,7 @@
                                 Boost your online presence with professional SEO content writing. Our SEO content writing services deliver optimized, engaging, and search-friendly SEO content that improves rankings, attracts organic traffic, and supports consistent business growth.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Start Writing</a>
+                                <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Start Writing</a>
                             </div>
                         </div>
                     </div>
@@ -970,91 +970,91 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-bullseye fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic SEO Content Writing for businesses, focusing on keyword research, search intent analysis, and content planning to improve search rankings, brand visibility, and online ROI.</p>
-                        <h4><a href="contact-us.php">SEO Content Strategy</a></h4>
+                        <h4><a href="../contact-us.php">SEO Content Strategy</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Scalable SEO Content Writing services with structured content planning, editorial scheduling, audience research, and SEO-focused setup for maximum efficiency and performance.</p>
-                        <h4><a href="contact-us.php">Content Development Setup</a></h4>
+                        <h4><a href="../contact-us.php">Content Development Setup</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Professional SEO Content Writing ensuring content performs well on desktops, tablets, and mobile devices while maintaining strong search engine optimization.</p>
-                        <h4><a href="contact-us.php">Search & Multi-Device Optimization</a></h4>
+                        <h4><a href="../contact-us.php">Search & Multi-Device Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-search fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Flexible SEO Content Writing with optimized headings, meta descriptions, keyword placement, and A/B testing to boost visibility, engagement, and search performance.</p>
-                        <h4><a href="contact-us.php">Content & Keyword Optimization</a></h4>
+                        <h4><a href="../contact-us.php">Content & Keyword Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-star fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Conversion-focused SEO Content Writing designed around user intent and search behavior to improve relevance, engagement, and overall website performance.</p>
-                        <h4><a href="contact-us.php">Content Quality Enhancements</a></h4>
+                        <h4><a href="../contact-us.php">Content Quality Enhancements</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-sync-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Advanced SEO Content Writing strategies including regular content updates, keyword expansion, and internal linking to maintain rankings and drive consistent traffic.</p>
-                        <h4><a href="contact-us.php">Content Updates & Expansion</a></h4>
+                        <h4><a href="../contact-us.php">Content Updates & Expansion</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-chart-bar fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>High-performing SEO Content Writing with ongoing monitoring, analytics, and reporting to measure content impact and improve SEO results.</p>
-                        <h4><a href="contact-us.php">Performance Tracking & Analytics</a></h4>
+                        <h4><a href="../contact-us.php">Performance Tracking & Analytics</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-clipboard-check fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Modern SEO Content Writing upgrades for existing pages to improve structure, keyword usage, readability, and overall content effectiveness.</p>
-                        <h4><a href="contact-us.php">SEO Audit & Content Redesign</a></h4>
+                        <h4><a href="../contact-us.php">SEO Audit & Content Redesign</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-tools fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Reliable SEO Content Writing support with continuous updates, keyword improvements, reporting, and SEO strategy enhancements for sustained search growth.</p>
-                        <h4><a href="contact-us.php">Ongoing SEO Support & Optimization</a></h4>
+                        <h4><a href="../contact-us.php">Ongoing SEO Support & Optimization</a></h4>
                     </div>
                 </div>
             </div>
@@ -1139,7 +1139,7 @@
                         <h2 class="title text-white mb-30">Ready to Boost Your Rankings with SEO Content?</h2>
                         <p class="text-white">Work with a trusted SEO content writing agency for optimized content that drives organic traffic and conversions.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Let's Talk</a>
+                            <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Let's Talk</a>
                         </div>
                     </div>
                 </div>

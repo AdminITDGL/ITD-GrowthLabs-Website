@@ -288,7 +288,7 @@
                     <div class="attr-nav">
                         <ul>
                             <li class="button">
-                                <a href="contact-us.php">Book a Call</a>
+                                <a href="../contact-us.php">Book a Call</a>
                             </li>
                         </ul>
                     </div>
@@ -328,7 +328,7 @@
                                     <li>Offer 24/7 customer interaction</li>
                                 </ul>
                                 <div class="button" style="margin-top: 20px;">
-                                    <a class="btn btn-theme btn-md animation" href="contact-us.php">Let’s Talk</a>
+                                    <a class="btn btn-theme btn-md animation" href="../contact-us.php">Let’s Talk</a>
                                 </div>
                             </div>
                         </div>
@@ -462,7 +462,7 @@
                 </div>
             </div>
             <div class="button" style="margin-top: 20px;">
-                <a class="btn btn-theme btn-md animation" href="contact-us.php">Let’s Talk</a>
+                <a class="btn btn-theme btn-md animation" href="../contact-us.php">Let’s Talk</a>
             </div>
         </div>
     </div>
@@ -630,7 +630,7 @@
 
             </div>
             <div class="button" style="margin-top: 20px;text-align:center">
-                <a class="btn btn-theme btn-md animation" href="contact-us.php">Let’s Talk</a>
+                <a class="btn btn-theme btn-md animation" href="../contact-us.php">Let’s Talk</a>
             </div>
         </div>
     </div>

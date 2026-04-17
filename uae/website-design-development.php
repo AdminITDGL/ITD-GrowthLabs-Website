@@ -699,7 +699,7 @@
                                 We design and develop high-performance, SEO-friendly websites that help UAE businesses generate leads, build trust, and grow faster online.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Schedule a Meeting</a>
+                                <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Schedule a Meeting</a>
                             </div>
                         </div>
                     </div>
@@ -1369,7 +1369,7 @@
                         <p class="text-white">Partner with a trusted website design and development company in UAE that focuses on results, not just design.</p>
                         <p class="text-white mb-30">👉 Get a Free Website Consultation Today</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Talk to a UAE Web Expert</a>
+                            <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Talk to a UAE Web Expert</a>
                         </div>
                     </div>
                 </div>

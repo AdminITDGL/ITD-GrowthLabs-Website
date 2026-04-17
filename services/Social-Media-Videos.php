@@ -111,7 +111,7 @@
                                     <li>Drive audience action with clear CTAs</li>
                                 </ul>
                                 <div class="button" style="margin-top: 20px;">
-                                    <a class="btn btn-theme btn-md animation" href="contact-us.php">Let’s Talk</a>
+                                    <a class="btn btn-theme btn-md animation" href="../contact-us.php">Let’s Talk</a>
                                 </div>
                             </div>
                         </div>
@@ -245,7 +245,7 @@
                 </div>
             </div>
             <div class="button" style="margin-top: 20px;">
-                <a class="btn btn-theme btn-md animation" href="contact-us.php">Let’s Talk</a>
+                <a class="btn btn-theme btn-md animation" href="../contact-us.php">Let’s Talk</a>
             </div>
         </div>
     </div>
@@ -413,7 +413,7 @@
 
             </div>
             <div class="button" style="margin-top: 20px;text-align:center">
-                <a class="btn btn-theme btn-md animation" href="contact-us.php">Let’s Talk</a>
+                <a class="btn btn-theme btn-md animation" href="../contact-us.php">Let’s Talk</a>
             </div>
         </div>
     </div>
@@ -539,7 +539,7 @@
                     </div>
                     <br>
                     <div class="button" style="margin-top: 20px; text-align:center;">
-                        <a class="btn btn-theme btn-md animation" href="contact-us.php">Let’s Talk</a>
+                        <a class="btn btn-theme btn-md animation" href="../contact-us.php">Let’s Talk</a>
                     </div>
                 </div>
                 <div class="col-lg-5 offset-lg-1 about-style-three">

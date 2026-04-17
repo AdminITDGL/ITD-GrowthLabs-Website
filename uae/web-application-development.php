@@ -791,7 +791,7 @@
                                 We build secure, scalable, and performance-driven web applications that help UAE businesses automate operations, improve efficiency, and scale digitally.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Schedule a Meeting</a>
+                                <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Schedule a Meeting</a>
                             </div>
                         </div>
                     </div>
@@ -1510,7 +1510,7 @@
                         <p class="text-white">Partner with a trusted web application development company in UAE to transform your business digitally.</p>
                         <p class="text-white mb-30">👉 Get a Free Web App Consultation Today</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Talk to a UAE Web App Expert</a>
+                            <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Talk to a UAE Web App Expert</a>
                         </div>
                     </div>
                 </div>

@@ -654,7 +654,7 @@
                                 Enhance your brand visibility with professional SEO services. Our SEO strategies boost search rankings, attract targeted traffic, and increase conversions for growing businesses online.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Let’s Optimize Now</a>
+                                <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Let’s Optimize Now</a>
                             </div>
                         </div>
                     </div>
@@ -978,91 +978,91 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-file-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic SEO for businesses, focusing on optimized content, meta tags, headings, and keyword placement to improve search visibility.</p>
-                        <h4><a href="contact-us.php">On-Page SEO Optimization</a></h4>
+                        <h4><a href="../contact-us.php">On-Page SEO Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Scalable SEO services for enterprises with site audits, crawl optimization, structured data, and secure website architecture.</p>
-                        <h4><a href="contact-us.php">Technical SEO Solutions</a></h4>
+                        <h4><a href="../contact-us.php">Technical SEO Solutions</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Professional SEO ensuring websites perform smoothly across devices with fast loading speed and mobile-friendly layouts.</p>
-                        <h4><a href="contact-us.php">Mobile & Responsive SEO</a></h4>
+                        <h4><a href="../contact-us.php">Mobile & Responsive SEO</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-key fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Flexible SEO that integrates high-performing keywords, internal linking, and content strategies to boost organic traffic.</p>
-                        <h4><a href="contact-us.php">Keyword & Content Integration</a></h4>
+                        <h4><a href="../contact-us.php">Keyword & Content Integration</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-paint-brush fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Conversion-focused SEO designed around user behavior to improve engagement, reduce bounce rate, and increase dwell time.</p>
-                        <h4><a href="contact-us.php">UI/UX SEO Enhancement</a></h4>
+                        <h4><a href="../contact-us.php">UI/UX SEO Enhancement</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-link fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Advanced SEO with strategic backlinks, domain authority improvements, and off-page optimization for competitive search rankings.</p>
-                        <h4><a href="contact-us.php">Link Building & Authority</a></h4>
+                        <h4><a href="../contact-us.php">Link Building & Authority</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-chart-line fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>High-performing SEO services with analytics, site speed optimization, and continuous tracking to improve SERP positions.</p>
-                        <h4><a href="contact-us.php">Performance Monitoring</a></h4>
+                        <h4><a href="../contact-us.php">Performance Monitoring</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-clipboard-check fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Modern SEO upgrades for outdated sites to enhance structure, content relevance, and technical performance.</p>
-                        <h4><a href="contact-us.php">SEO Audit & Redesign</a></h4>
+                        <h4><a href="../contact-us.php">SEO Audit & Redesign</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-tools fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Reliable SEO support with regular updates, performance monitoring, reporting, and continuous optimization for long-term results.</p>
-                        <h4><a href="contact-us.php">Ongoing SEO Support</a></h4>
+                        <h4><a href="../contact-us.php">Ongoing SEO Support</a></h4>
                     </div>
                 </div>
             </div>
@@ -1348,7 +1348,7 @@
                         <h2 class="title text-white mb-30">Ready to Boost Your Search Rankings?</h2>
                         <p class="text-white">Work with a trusted SEO agency for expert search engine optimization that drives traffic and increases conversions.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Let's Talk</a>
+                            <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Let's Talk</a>
                         </div>
                     </div>
                 </div>

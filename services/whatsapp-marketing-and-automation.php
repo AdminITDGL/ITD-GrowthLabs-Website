@@ -652,7 +652,7 @@
                                 Improve engagement with WhatsApp automation and WhatsApp marketing automation. ITD GrowthLabs delivers scalable WhatsApp automation solutions for support, leads, and growth.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Start Automating</a>
+                                <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Start Automating</a>
                             </div>
                         </div>
                     </div>
@@ -968,91 +968,91 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-chart-line fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic WhatsApp automation and WhatsApp marketing automation for businesses, focusing on workflow planning, audience segmentation, and structured messaging to improve engagement, conversions, and ROI.</p>
-                        <h4><a href="contact-us.php">WhatsApp Automation Strategy</a></h4>
+                        <h4><a href="../contact-us.php">WhatsApp Automation Strategy</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Scalable WhatsApp automation services with workflow setup, chatbot configuration, user journey mapping, and platform-ready WhatsApp marketing automation for efficient communication experiences.</p>
-                        <h4><a href="contact-us.php">Automation Setup & Configuration</a></h4>
+                        <h4><a href="../contact-us.php">Automation Setup & Configuration</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Professional WhatsApp automation ensuring WhatsApp marketing automation performs smoothly across mobile and web platforms for consistent and accessible customer communication.</p>
-                        <h4><a href="contact-us.php">Multi-Device Communication Optimization</a></h4>
+                        <h4><a href="../contact-us.php">Multi-Device Communication Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-stream fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Flexible WhatsApp automation with optimized messaging flows, structured sequences, and automated responses to improve engagement, retention, and communication performance.</p>
-                        <h4><a href="contact-us.php">Workflow & Message Optimization</a></h4>
+                        <h4><a href="../contact-us.php">Workflow & Message Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-robot fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Conversion-focused WhatsApp automation designed around user behavior with smart chatbots, quick replies, and interactive flows to improve engagement and user experience.</p>
-                        <h4><a href="contact-us.php">Interactive Chatbot Enhancements</a></h4>
+                        <h4><a href="../contact-us.php">Interactive Chatbot Enhancements</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-expand-arrows-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Advanced WhatsApp automation and WhatsApp marketing automation strategies including workflow updates, campaign scaling, and feature upgrades to maintain efficiency and growth.</p>
-                        <h4><a href="contact-us.php">Automation Updates & Scaling</a></h4>
+                        <h4><a href="../contact-us.php">Automation Updates & Scaling</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-chart-bar fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>High-performing WhatsApp automation with analytics, reporting tools, and engagement tracking to evaluate user behavior and improve WhatsApp marketing automation effectiveness.</p>
-                        <h4><a href="contact-us.php">Performance Tracking & Analytics</a></h4>
+                        <h4><a href="../contact-us.php">Performance Tracking & Analytics</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-search fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Modern WhatsApp automation improvements for existing systems to enhance workflows, messaging clarity, engagement rates, and overall communication efficiency.</p>
-                        <h4><a href="contact-us.php">Automation Audit & Optimization</a></h4>
+                        <h4><a href="../contact-us.php">Automation Audit & Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-tools fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Reliable WhatsApp automation support with continuous updates, performance improvements, reporting, and strategy enhancements for long-term business success.</p>
-                        <h4><a href="contact-us.php">Ongoing Support & Optimization</a></h4>
+                        <h4><a href="../contact-us.php">Ongoing Support & Optimization</a></h4>
                     </div>
                 </div>
             </div>
@@ -1137,7 +1137,7 @@
                         <h2 class="title text-white mb-30">Ready to Automate Your WhatsApp Communication?</h2>
                         <p class="text-white">Work with a trusted WhatsApp automation company for scalable engagement and measurable business growth.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Let's Talk</a>
+                            <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Let's Talk</a>
                         </div>
                     </div>
                 </div>

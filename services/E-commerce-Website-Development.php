@@ -654,7 +654,7 @@
                                 Launch a high-converting online store with secure payment gateways, inventory management, mobile-first checkout, and SEO-optimized product pages. ITD GrowthLabs builds e-commerce websites on Shopify, WooCommerce, and custom platforms for businesses in India, USA, UK, UAE & Australia.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Get Started</a>
+                                <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Get Started</a>
                             </div>
                         </div>
                     </div>
@@ -970,91 +970,91 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-building fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic E-commerce Website Development for businesses, focusing on strong branding, secure systems, and seamless shopping experiences for modern online stores.</p>
-                        <h4><a href="contact-us.php">Custom Online Store Development</a></h4>
+                        <h4><a href="../contact-us.php">Custom Online Store Development</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-shopping-cart fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Scalable E-commerce Website Development with secure shopping cart systems, payment gateways, and optimized checkout flows for smooth online transactions.</p>
-                        <h4><a href="contact-us.php">Shopping Cart Integration</a></h4>
+                        <h4><a href="../contact-us.php">Shopping Cart Integration</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Professional E-commerce Website Development ensuring online stores perform smoothly across desktops, tablets, and mobile devices for better customer reach.</p>
-                        <h4><a href="contact-us.php">Responsive Store Design</a></h4>
+                        <h4><a href="../contact-us.php">Responsive Store Design</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fab fa-wordpress fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Flexible E-commerce Website Development that allows businesses to easily manage products, pricing, categories, and inventory without technical expertise.</p>
-                        <h4><a href="contact-us.php">Product Management Systems</a></h4>
+                        <h4><a href="../contact-us.php">Product Management Systems</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-paint-brush fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Conversion-focused E-commerce Website Development built around user behavior, creating intuitive store layouts that improve engagement and sales.</p>
-                        <h4><a href="contact-us.php">E-commerce UI/UX Design</a></h4>
+                        <h4><a href="../contact-us.php">E-commerce UI/UX Design</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-code fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Advanced E-commerce Website Development with custom features, scalable architecture, and integrations tailored to complex online business needs.</p>
-                        <h4><a href="contact-us.php">Custom Store Development</a></h4>
+                        <h4><a href="../contact-us.php">Custom Store Development</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-bullseye fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>High-converting E-commerce Website Development landing pages designed for marketing campaigns to capture leads and boost online revenue.</p>
-                        <h4><a href="contact-us.php">Landing Page for Online Sales</a></h4>
+                        <h4><a href="../contact-us.php">Landing Page for Online Sales</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-sync-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Modern E-commerce Website Development upgrades for outdated online stores to improve speed, SEO performance, and visual appeal.</p>
-                        <h4><a href="contact-us.php">E-commerce Website Redesign</a></h4>
+                        <h4><a href="../contact-us.php">E-commerce Website Redesign</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-tools fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Reliable E-commerce Website Development support with regular updates, security monitoring, backups, and performance optimization.</p>
-                        <h4><a href="contact-us.php">E-commerce Maintenance & Support</a></h4>
+                        <h4><a href="../contact-us.php">E-commerce Maintenance & Support</a></h4>
                     </div>
                 </div>
             </div>
@@ -1311,7 +1311,7 @@
                         <h2 class="title text-white mb-30">Ready to Build Your Website?</h2>
                         <p class="text-white">Work with a trusted business website development company for long-term success.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Let's Talk</a>
+                            <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Let's Talk</a>
                         </div>
                     </div>
                 </div>

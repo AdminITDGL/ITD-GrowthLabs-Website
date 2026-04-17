@@ -1338,7 +1338,7 @@
                         <h2 class="title text-white mb-30">Ready to Build Your App?</h2>
                         <p class="text-white">Work with a trusted mobile app development services in India team for long-term success.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Let's Talk</a>
+                            <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Let's Talk</a>
                         </div>
                     </div>
                 </div>

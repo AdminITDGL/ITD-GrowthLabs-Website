@@ -664,7 +664,7 @@
                                 Build secure banking portals, financial apps, and compliance-ready digital platforms that build customer trust. ITD GrowthLabs helps banks, NBFCs, insurance companies, and fintech startups grow with custom website development, mobile apps, and lead generation campaigns.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Get a Free Finance Consultation</a>
+                                <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Get a Free Finance Consultation</a>
                             </div>
                         </div>
                     </div>
@@ -1141,7 +1141,7 @@
                     <p style="color: rgba(255,255,255,0.85); margin: 8px 0 0; font-size: 16px;">Talk to our fintech experts — free 30-minute consultation.</p>
                 </div>
                 <div class="col-lg-4 text-lg-end mt-3 mt-lg-0">
-                    <a href="contact-us.php" class="btn btn-light btn-lg" style="font-weight: 600; padding: 12px 30px;">Schedule a Call <i class="fas fa-arrow-right ms-2"></i></a>
+                    <a href="../contact-us.php" class="btn btn-light btn-lg" style="font-weight: 600; padding: 12px 30px;">Schedule a Call <i class="fas fa-arrow-right ms-2"></i></a>
                 </div>
             </div>
         </div>

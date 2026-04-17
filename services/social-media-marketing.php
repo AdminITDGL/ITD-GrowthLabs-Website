@@ -674,7 +674,7 @@
                                 Drive engagement and grow your brand with expert social media marketing. Our social media strategies deliver targeted campaigns, optimized content, and data-driven results to boost online presence and measurable business growth.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Start Campaign</a>
+                                <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Start Campaign</a>
                             </div>
                         </div>
                     </div>
@@ -998,91 +998,91 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-chart-line fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic Social Media Marketing for businesses, focusing on platform targeting, content planning, and engagement strategies to improve brand reach and ROI.</p>
-                        <h4><a href="contact-us.php">Social Media Strategy</a></h4>
+                        <h4><a href="../contact-us.php">Social Media Strategy</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Scalable Social Media Marketing services with account configuration, content scheduling, audience segmentation, and secure platform setup for maximum efficiency.</p>
-                        <h4><a href="contact-us.php">Campaign Setup</a></h4>
+                        <h4><a href="../contact-us.php">Campaign Setup</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Professional Social Media Marketing ensuring posts and ads display correctly on mobile devices and across social platforms for higher engagement.</p>
-                        <h4><a href="contact-us.php">Mobile & Platform Ads</a></h4>
+                        <h4><a href="../contact-us.php">Mobile & Platform Ads</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-search-dollar fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Flexible Social Media Marketing with optimized posts, ad creatives, and A/B testing to boost clicks, shares, engagement, and conversions.</p>
-                        <h4><a href="contact-us.php">Content & Ad Optimization</a></h4>
+                        <h4><a href="../contact-us.php">Content & Ad Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-paint-brush fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Conversion-focused Social Media Marketing designed around user behavior to improve content relevance, engagement, and overall campaign performance.</p>
-                        <h4><a href="contact-us.php">Creative Enhancements</a></h4>
+                        <h4><a href="../contact-us.php">Creative Enhancements</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-retweet fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Advanced Social Media Marketing strategies including remarketing, dynamic content, and custom audience targeting to increase return on ad spend.</p>
-                        <h4><a href="contact-us.php">Remarketing & Retargeting</a></h4>
+                        <h4><a href="../contact-us.php">Remarketing & Retargeting</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-chart-bar fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>High-performing Social Media Marketing with regular monitoring, analytics, and reporting to enhance campaign results and ROI.</p>
-                        <h4><a href="contact-us.php">Performance Tracking & Analytics</a></h4>
+                        <h4><a href="../contact-us.php">Performance Tracking & Analytics</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-sync-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Modern Social Media Marketing upgrades for existing campaigns to improve content structure, targeting, and overall performance efficiency.</p>
-                        <h4><a href="contact-us.php">Campaign Audit & Redesign</a></h4>
+                        <h4><a href="../contact-us.php">Campaign Audit & Redesign</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-tools fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Reliable Social Media Marketing support with continuous updates, content optimization, reporting, and strategy improvements to maintain top campaign performance.</p>
-                        <h4><a href="contact-us.php">Ongoing Campaign Support</a></h4>
+                        <h4><a href="../contact-us.php">Ongoing Campaign Support</a></h4>
                     </div>
                 </div>
             </div>
@@ -1167,7 +1167,7 @@
                         <h2 class="title text-white mb-30">Ready to Launch Your Social Media Campaign?</h2>
                         <p class="text-white">Work with a trusted Social Media Marketing agency for engagement, brand visibility, and measurable results.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Let's Talk</a>
+                            <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Let's Talk</a>
                         </div>
                     </div>
                 </div>

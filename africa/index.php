@@ -838,7 +838,7 @@
                                 We provide website development, web applications, mobile apps, and digital marketing services across Africa—helping businesses scale in South Africa, Nigeria, Kenya, and beyond.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Get a Free Consultation</a>
+                                <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Get a Free Consultation</a>
                             </div>
                         </div>
                     </div>
@@ -1553,7 +1553,7 @@
                         <h2 class="title text-white mb-30">Looking for a Top Digital Solutions Company in Africa?</h2>
                         <p class="text-white">Partner with ITD GrowthLabs, a trusted digital growth partner for businesses across Africa.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Get a Free Consultation</a>
+                            <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Get a Free Consultation</a>
                         </div>
                     </div>
                 </div>

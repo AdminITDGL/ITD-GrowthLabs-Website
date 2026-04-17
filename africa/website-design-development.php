@@ -699,7 +699,7 @@
                                 We design and develop high-performance, SEO-friendly websites that help African businesses grow, generate leads, and compete globally.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Schedule a Meeting</a>
+                                <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Schedule a Meeting</a>
                             </div>
                         </div>
                     </div>
@@ -1457,7 +1457,7 @@
                         <p class="text-white">Partner with a top website design and development company in Africa that understands local markets and global standards.</p>
                         <p class="text-white mb-30">👉 Get a Free Website Consultation</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Talk to an Africa Web Expert</a>
+                            <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Talk to an Africa Web Expert</a>
                         </div>
                     </div>
                 </div>

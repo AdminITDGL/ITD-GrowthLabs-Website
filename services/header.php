@@ -75,8 +75,8 @@
                                                <li><a href="Custom-Website-Development.php">Custom Website Development</a></li>
                                                <li><a href="WordPress-Website-Development.php">WordPress Website Development</a></li>
                                                <li><a href="E-commerce-Website-Development.php">E-Commerce Website Development</a></li>
-                                               <li><a href="contact-us.php">Landing Page Design</a></li>
-                                               <li><a href="contact-us.php">Website Maintenance</a></li>
+                                               <li><a href="../contact-us.php">Landing Page Design</a></li>
+                                               <li><a href="../contact-us.php">Website Maintenance</a></li>
                                            </ul>
                                        </div>
 

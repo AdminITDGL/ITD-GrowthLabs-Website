@@ -650,7 +650,7 @@
                                 Boost results with AI marketing automation and AI-driven marketing automation. ITD GrowthLabs delivers scalable AI marketing automation solutions for campaigns, personalization, and growth.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Start Automating</a>
+                                <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Start Automating</a>
                             </div>
                         </div>
                     </div>
@@ -966,91 +966,91 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-bullseye fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic AI marketing automation and AI-driven marketing automation for businesses, focusing on campaign planning, audience targeting, and structured workflows to improve performance, engagement, and ROI.</p>
-                        <h4><a href="contact-us.php">AI Marketing Automation Strategy</a></h4>
+                        <h4><a href="../contact-us.php">AI Marketing Automation Strategy</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Scalable AI marketing automation services with campaign setup, system configuration, audience mapping, and platform-ready AI-driven marketing automation.</p>
-                        <h4><a href="contact-us.php">Campaign Setup & Configuration</a></h4>
+                        <h4><a href="../contact-us.php">Campaign Setup & Configuration</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-share-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Professional AI marketing automation ensuring AI-driven marketing automation performs across email, social, and web platforms for consistent engagement.</p>
-                        <h4><a href="contact-us.php">Multi-Channel Optimization</a></h4>
+                        <h4><a href="../contact-us.php">Multi-Channel Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-sync-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Flexible AI marketing automation with optimized campaigns, structured workflows, and automated processes to improve performance and conversions.</p>
-                        <h4><a href="contact-us.php">Campaign & Workflow Optimization</a></h4>
+                        <h4><a href="../contact-us.php">Campaign & Workflow Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-robot fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Conversion-focused AI marketing automation designed with smart targeting, automation triggers, and structured campaigns to improve engagement.</p>
-                        <h4><a href="contact-us.php">Intelligent Marketing Enhancements</a></h4>
+                        <h4><a href="../contact-us.php">Intelligent Marketing Enhancements</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-expand-arrows-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Advanced AI marketing automation and AI-driven marketing automation strategies including campaign updates, scaling, and feature upgrades.</p>
-                        <h4><a href="contact-us.php">Automation Updates & Scaling</a></h4>
+                        <h4><a href="../contact-us.php">Automation Updates & Scaling</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-chart-bar fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>High-performing AI marketing automation with analytics, reporting tools, and tracking to evaluate campaign effectiveness.</p>
-                        <h4><a href="contact-us.php">Performance Tracking & Analytics</a></h4>
+                        <h4><a href="../contact-us.php">Performance Tracking & Analytics</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-clipboard-check fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Modern AI marketing automation improvements for existing campaigns to enhance structure, clarity, and performance.</p>
-                        <h4><a href="contact-us.php">Campaign Audit & Optimization</a></h4>
+                        <h4><a href="../contact-us.php">Campaign Audit & Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-tools fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Reliable AI marketing automation support with continuous updates, performance improvements, and strategy enhancements.</p>
-                        <h4><a href="contact-us.php">Ongoing Support & Optimization</a></h4>
+                        <h4><a href="../contact-us.php">Ongoing Support & Optimization</a></h4>
                     </div>
                 </div>
             </div>
@@ -1135,7 +1135,7 @@
                         <h2 class="title text-white mb-30">Ready to Automate Your Marketing?</h2>
                         <p class="text-white">Work with a trusted AI marketing automation company for scalable, AI-driven campaigns that boost engagement and growth.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Let's Talk</a>
+                            <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Let's Talk</a>
                         </div>
                     </div>
                 </div>

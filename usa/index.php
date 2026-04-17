@@ -834,7 +834,7 @@
                                 We help American businesses grow through high-performance websites, custom applications, mobile apps, and result-driven digital marketing solutions.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Get a Free Consultation</a>
+                                <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Get a Free Consultation</a>
                             </div>
                         </div>
                     </div>
@@ -1633,7 +1633,7 @@
                         <h2 class="title text-white mb-30">Ready to Scale Your Business in the USA?</h2>
                         <p class="text-white">Partner with a top digital services company in the USA that delivers results, not just promises.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Get a Free Consultation</a>
+                            <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Get a Free Consultation</a>
                         </div>
                     </div>
                 </div>

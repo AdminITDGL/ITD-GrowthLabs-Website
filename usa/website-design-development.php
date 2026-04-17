@@ -699,7 +699,7 @@
                                 We design and develop fast, secure, and SEO-optimized websites that help American businesses generate leads, build trust, and grow online.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Get a Free Website Consultation</a>
+                                <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Get a Free Website Consultation</a>
                             </div>
                         </div>
                     </div>
@@ -1274,7 +1274,7 @@
                         <p class="text-white">Partner with a top website design and development company in the USA that delivers real business results.</p>
                         <p class="text-white mb-30">👉 Get a Free Website Consultation</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Talk to a USA Website Expert</a>
+                            <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Talk to a USA Website Expert</a>
                         </div>
                     </div>
                 </div>
