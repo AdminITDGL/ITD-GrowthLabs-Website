@@ -652,7 +652,7 @@
                                 Maximize your social media reach with professional Meta Ads Management. Our strategies deliver targeted engagement, optimized ad creatives, and data-driven campaigns to increase conversions and grow your business online.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Run Campaign</a>
+                                <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Run Campaign</a>
                             </div>
                         </div>
                     </div>
@@ -968,91 +968,91 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-chart-line fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic Meta Ads Management for businesses, focusing on audience targeting, ad copy optimization, and bidding strategies to improve campaign performance and ROI.</p>
-                        <h4><a href="contact-us.php">Meta Ads Strategy</a></h4>
+                        <h4><a href="../contact-us.php">Meta Ads Strategy</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Scalable Meta Ads Management services with account structure, conversion tracking, audience segmentation, and secure setup for maximum efficiency.</p>
-                        <h4><a href="contact-us.php">Technical Campaign Setup</a></h4>
+                        <h4><a href="../contact-us.php">Technical Campaign Setup</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Professional Meta Ads Management ensuring ads display correctly on mobile devices and across Meta platforms for higher reach.</p>
-                        <h4><a href="contact-us.php">Mobile & Social Ads</a></h4>
+                        <h4><a href="../contact-us.php">Mobile & Social Ads</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-search-dollar fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Flexible Meta Ads Management with targeted keywords, ad variations, and A/B testing to boost clicks, engagement, and conversions.</p>
-                        <h4><a href="contact-us.php">Keyword & Ad Optimization</a></h4>
+                        <h4><a href="../contact-us.php">Keyword & Ad Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-paint-brush fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Conversion-focused Meta Ads Management designed around user behavior to improve ad relevance, engagement, and overall campaign performance.</p>
-                        <h4><a href="contact-us.php">Creative Ad Enhancements</a></h4>
+                        <h4><a href="../contact-us.php">Creative Ad Enhancements</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-retweet fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Advanced Meta Ads Management strategies including retargeting, dynamic ads, and custom audience targeting to increase return on ad spend.</p>
-                        <h4><a href="contact-us.php">Remarketing & Retargeting</a></h4>
+                        <h4><a href="../contact-us.php">Remarketing & Retargeting</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-chart-bar fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>High-performing Meta Ads Management with regular monitoring, analytics, and reporting to enhance campaign results and ROI.</p>
-                        <h4><a href="contact-us.php">Performance Tracking & Analytics</a></h4>
+                        <h4><a href="../contact-us.php">Performance Tracking & Analytics</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-sync-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Modern Meta Ads Management upgrades for existing campaigns to improve ad structure, targeting, and overall campaign efficiency.</p>
-                        <h4><a href="contact-us.php">Campaign Audit & Redesign</a></h4>
+                        <h4><a href="../contact-us.php">Campaign Audit & Redesign</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-tools fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Reliable Meta Ads Management support with continuous updates, bid management, reporting, and optimization to maintain top campaign performance.</p>
-                        <h4><a href="contact-us.php">Ongoing Campaign Support</a></h4>
+                        <h4><a href="../contact-us.php">Ongoing Campaign Support</a></h4>
                     </div>
                 </div>
             </div>
@@ -1137,7 +1137,7 @@
                         <h2 class="title text-white mb-30">Ready to Launch Your Meta Ads Campaign?</h2>
                         <p class="text-white">Work with a trusted Meta Ads Management agency for targeted engagement and measurable ROI.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Let's Talk</a>
+                            <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Let's Talk</a>
                         </div>
                     </div>
                 </div>

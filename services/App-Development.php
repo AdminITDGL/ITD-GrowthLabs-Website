@@ -674,7 +674,7 @@
                                 Build scalable and high-performance mobile apps with expert Android app development. Our Android app development services deliver user-friendly, secure, and SEO-optimized mobile apps to boost engagement, performance, and business growth.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Build Your Android App</a>
+                                <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Build Your Android App</a>
                             </div>
                         </div>
                     </div>
@@ -931,91 +931,91 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-bullseye fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic Android app development for businesses, focusing on market research, feature planning, and user engagement strategies to improve app performance and ROI.</p>
-                        <h4><a href="contact-us.php">Android App Strategy</a></h4>
+                        <h4><a href="../contact-us.php">Android App Strategy</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Scalable Android app development services with architecture planning, framework selection, backend setup, and secure development for maximum efficiency.</p>
-                        <h4><a href="contact-us.php">App Development Setup</a></h4>
+                        <h4><a href="../contact-us.php">App Development Setup</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-tablet-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Professional Android app development ensuring apps run smoothly across multiple devices, screen sizes, and OS versions for better user experience.</p>
-                        <h4><a href="contact-us.php">Multi-Device Optimization</a></h4>
+                        <h4><a href="../contact-us.php">Multi-Device Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-pencil-ruler fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Flexible Android app development with intuitive UI/UX design, optimized navigation, and A/B testing to improve usability and engagement.</p>
-                        <h4><a href="contact-us.php">UI/UX Optimization</a></h4>
+                        <h4><a href="../contact-us.php">UI/UX Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-paint-brush fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Conversion-focused Android app development designed around user behavior to improve app functionality, engagement, and overall performance.</p>
-                        <h4><a href="contact-us.php">Feature Enhancements</a></h4>
+                        <h4><a href="../contact-us.php">Feature Enhancements</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-code fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Advanced Android app development strategies including regular updates, feature expansion, and performance improvements to support growth.</p>
-                        <h4><a href="contact-us.php">App Updates & Scaling</a></h4>
+                        <h4><a href="../contact-us.php">App Updates & Scaling</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-bullseye fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>High-performing Android app development with monitoring, analytics, and reporting to enhance app performance and ROI.</p>
-                        <h4><a href="contact-us.php">Performance Tracking & Analytics</a></h4>
+                        <h4><a href="../contact-us.php">Performance Tracking & Analytics</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-sync-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Modern Android app development upgrades for existing apps to improve speed, UI, security, and overall functionality.</p>
-                        <h4><a href="contact-us.php">App Audit & Upgrade</a></h4>
+                        <h4><a href="../contact-us.php">App Audit & Upgrade</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-tools fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Reliable Android app development support with continuous updates, performance improvements, and strategy enhancements for long-term success.</p>
-                        <h4><a href="contact-us.php">Ongoing Support & Optimization</a></h4>
+                        <h4><a href="../contact-us.php">Ongoing Support & Optimization</a></h4>
                     </div>
                 </div>
             </div>
@@ -1270,7 +1270,7 @@
                         <h2 class="title text-white mb-30">Ready to Build Your Website?</h2>
                         <p class="text-white">Work with a trusted business website development company for long-term success.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Let's Talk</a>
+                            <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Let's Talk</a>
                         </div>
                     </div>
                 </div>

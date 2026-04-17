@@ -662,7 +662,7 @@
                                 Build versatile apps with expert hybrid app development. Our hybrid app development delivers secure, scalable, and high-performance apps for both Android and iOS platforms.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Get Started</a>
+                                <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Get Started</a>
                             </div>
                         </div>
                     </div>
@@ -986,91 +986,91 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-building fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic Hybrid App Development for businesses, focusing on intuitive design, secure architecture, and smooth performance for cross-platform mobile applications.</p>
-                        <h4><a href="contact-us.php">Custom Hybrid App Development</a></h4>
+                        <h4><a href="../contact-us.php">Custom Hybrid App Development</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-shopping-cart fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Scalable Hybrid App Development solutions for enterprises with advanced features, integrations, and secure data management.</p>
-                        <h4><a href="contact-us.php">Enterprise Hybrid Applications</a></h4>
+                        <h4><a href="../contact-us.php">Enterprise Hybrid Applications</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Professional Hybrid App Development ensuring apps deliver smooth performance and consistent user experience across Android and iOS devices.</p>
-                        <h4><a href="contact-us.php">Responsive App UI Design</a></h4>
+                        <h4><a href="../contact-us.php">Responsive App UI Design</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fab fa-wordpress fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Flexible Hybrid App Development that integrates APIs, payment systems, notifications, and other essential app functionalities.</p>
-                        <h4><a href="contact-us.php">App Feature Integration</a></h4>
+                        <h4><a href="../contact-us.php">App Feature Integration</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-paint-brush fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Conversion-focused Hybrid App Development built around user behavior, creating intuitive interfaces that improve engagement and usability.</p>
-                        <h4><a href="contact-us.php">Hybrid App UI/UX Design</a></h4>
+                        <h4><a href="../contact-us.php">Hybrid App UI/UX Design</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-code fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Advanced Hybrid App Development with tailored features, scalable architecture, and technology integrations for complex app requirements.</p>
-                        <h4><a href="contact-us.php">Custom App Solutions</a></h4>
+                        <h4><a href="../contact-us.php">Custom App Solutions</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-bullseye fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>High-performing Hybrid App Development with optimized structure and design to support better visibility on both stores.</p>
-                        <h4><a href="contact-us.php">App Store & Play Store Optimization</a></h4>
+                        <h4><a href="../contact-us.php">App Store & Play Store Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-sync-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Modern Hybrid App Development upgrades for outdated applications to improve speed, usability, and visual appeal.</p>
-                        <h4><a href="contact-us.php">Hybrid App Redesign Services</a></h4>
+                        <h4><a href="../contact-us.php">Hybrid App Redesign Services</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-tools fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Reliable Hybrid App Development support with updates, bug fixes, monitoring, and performance optimization.</p>
-                        <h4><a href="contact-us.php">Hybrid App Maintenance & Support</a></h4>
+                        <h4><a href="../contact-us.php">Hybrid App Maintenance & Support</a></h4>
                     </div>
                 </div>
             </div>
@@ -1327,7 +1327,7 @@
                         <h2 class="title text-white mb-30">Ready to Build Your Website?</h2>
                         <p class="text-white">Work with a trusted business website development company for long-term success.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Let's Talk</a>
+                            <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Let's Talk</a>
                         </div>
                     </div>
                 </div>

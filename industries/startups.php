@@ -664,7 +664,7 @@
                                 Launch your MVP faster, build a strong online presence, and acquire your first customers. ITD GrowthLabs helps startups and early-stage companies with affordable website development, mobile apps, branding, and growth marketing campaigns.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Get a Free Startup Consultation</a>
+                                <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Get a Free Startup Consultation</a>
                             </div>
                         </div>
                     </div>
@@ -1061,11 +1061,11 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-paint-brush fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Brand identity design — logo, brand guidelines, pitch decks, and marketing collateral that attract investors and customers.</p>
-                        <h4><a href="contact-us.php">Branding &amp; Design</a></h4>
+                        <h4><a href="../contact-us.php">Branding &amp; Design</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
@@ -1141,7 +1141,7 @@
                     <p style="color: rgba(255,255,255,0.85); margin: 8px 0 0; font-size: 16px;">Get a free MVP consultation — from idea to launch.</p>
                 </div>
                 <div class="col-lg-4 text-lg-end mt-3 mt-lg-0">
-                    <a href="contact-us.php" class="btn btn-light btn-lg" style="font-weight: 600; padding: 12px 30px;">Schedule a Call <i class="fas fa-arrow-right ms-2"></i></a>
+                    <a href="../contact-us.php" class="btn btn-light btn-lg" style="font-weight: 600; padding: 12px 30px;">Schedule a Call <i class="fas fa-arrow-right ms-2"></i></a>
                 </div>
             </div>
         </div>

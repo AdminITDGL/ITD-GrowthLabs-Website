@@ -664,7 +664,7 @@
                                 Build professional tech company websites, SaaS platforms, and B2B marketing campaigns that generate leads. ITD GrowthLabs helps IT companies, SaaS startups, and technology firms grow with custom development, mobile apps, SEO, and performance marketing.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Get a Free IT Consultation</a>
+                                <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Get a Free IT Consultation</a>
                             </div>
                         </div>
                     </div>
@@ -1141,7 +1141,7 @@
                     <p style="color: rgba(255,255,255,0.85); margin: 8px 0 0; font-size: 16px;">Schedule a free B2B growth strategy call with our team.</p>
                 </div>
                 <div class="col-lg-4 text-lg-end mt-3 mt-lg-0">
-                    <a href="contact-us.php" class="btn btn-light btn-lg" style="font-weight: 600; padding: 12px 30px;">Schedule a Call <i class="fas fa-arrow-right ms-2"></i></a>
+                    <a href="../contact-us.php" class="btn btn-light btn-lg" style="font-weight: 600; padding: 12px 30px;">Schedule a Call <i class="fas fa-arrow-right ms-2"></i></a>
                 </div>
             </div>
         </div>

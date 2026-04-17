@@ -654,7 +654,7 @@
                                 Improve efficiency with CRM automation and customer relationship management automation. ITD GrowthLabs delivers scalable CRM automation solutions for sales, tracking, and growth.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Start Automating</a>
+                                <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Start Automating</a>
                             </div>
                         </div>
                     </div>
@@ -970,91 +970,91 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-bullseye fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic CRM automation and customer relationship management automation for businesses, focusing on customer workflows, pipeline management, and structured processes to improve efficiency, engagement, and ROI.</p>
-                        <h4><a href="contact-us.php">CRM Automation Strategy</a></h4>
+                        <h4><a href="../contact-us.php">CRM Automation Strategy</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Scalable CRM automation services with system setup, configuration, customer mapping, and platform-ready customer relationship management automation.</p>
-                        <h4><a href="contact-us.php">CRM Setup & Configuration</a></h4>
+                        <h4><a href="../contact-us.php">CRM Setup & Configuration</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Professional CRM automation ensuring customer relationship management automation performs across platforms for consistent and efficient operations.</p>
-                        <h4><a href="contact-us.php">Multi-Platform Optimization</a></h4>
+                        <h4><a href="../contact-us.php">Multi-Platform Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-stream fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Flexible CRM automation with optimized workflows, structured pipelines, and automated processes to improve efficiency and accuracy.</p>
-                        <h4><a href="contact-us.php">Workflow & Process Optimization</a></h4>
+                        <h4><a href="../contact-us.php">Workflow & Process Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-brain fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Conversion-focused CRM automation designed with smart workflows, automation triggers, and structured systems to improve performance.</p>
-                        <h4><a href="contact-us.php">Intelligent CRM Enhancements</a></h4>
+                        <h4><a href="../contact-us.php">Intelligent CRM Enhancements</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-sync-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Advanced CRM automation and customer relationship management automation strategies including updates, scaling, and feature upgrades.</p>
-                        <h4><a href="contact-us.php">Automation Updates & Scaling</a></h4>
+                        <h4><a href="../contact-us.php">Automation Updates & Scaling</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-chart-bar fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>High-performing CRM automation with analytics, reporting tools, and tracking to evaluate system effectiveness.</p>
-                        <h4><a href="contact-us.php">Performance Tracking & Analytics</a></h4>
+                        <h4><a href="../contact-us.php">Performance Tracking & Analytics</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-clipboard-check fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Modern CRM automation improvements for existing systems to enhance structure, clarity, and performance.</p>
-                        <h4><a href="contact-us.php">CRM Audit & Optimization</a></h4>
+                        <h4><a href="../contact-us.php">CRM Audit & Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-tools fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Reliable CRM automation support with continuous updates, performance improvements, and strategy enhancements.</p>
-                        <h4><a href="contact-us.php">Ongoing Support & Optimization</a></h4>
+                        <h4><a href="../contact-us.php">Ongoing Support & Optimization</a></h4>
                     </div>
                 </div>
             </div>
@@ -1139,7 +1139,7 @@
                         <h2 class="title text-white mb-30">Ready to Automate Your CRM?</h2>
                         <p class="text-white">Work with a trusted CRM automation company for scalable solutions that streamline sales, improve customer tracking, and drive measurable growth.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Let's Talk</a>
+                            <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Let's Talk</a>
                         </div>
                     </div>
                 </div>

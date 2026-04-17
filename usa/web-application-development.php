@@ -791,7 +791,7 @@
                                 We design and develop secure, scalable, and high-performance web applications that help American businesses automate operations and scale faster.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Get a Free Web App Consultation</a>
+                                <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Get a Free Web App Consultation</a>
                             </div>
                         </div>
                     </div>
@@ -1348,7 +1348,7 @@
                         <p class="text-white">Partner with a top web application development company in the USA that delivers secure, scalable, and future-ready solutions.</p>
                         <p class="text-white mb-30">👉 Get a Free Web App Consultation</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Talk to a USA Web App Expert</a>
+                            <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Talk to a USA Web App Expert</a>
                         </div>
                     </div>
                 </div>

@@ -789,8 +789,8 @@
                                 We help African businesses generate leads, increase visibility, and grow revenue through data-driven digital marketing strategies.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Get a Free Marketing Consultation</a>
-                                <a class="btn btn-theme btn-md animation ms-3" href="contact-us.php" target="_blank">Talk to a Digital Marketing Expert</a>
+                                <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Get a Free Marketing Consultation</a>
+                                <a class="btn btn-theme btn-md animation ms-3" href="../contact-us.php" target="_blank">Talk to a Digital Marketing Expert</a>
                             </div>
                         </div>
                     </div>
@@ -1319,7 +1319,7 @@
                         <p class="text-white">Partner with a top digital marketing services company in Africa that delivers measurable results.</p>
                         <p class="text-white mb-30">👉 Get a Free Digital Marketing Consultation</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Talk to an Africa Digital Marketing Expert</a>
+                            <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Talk to an Africa Digital Marketing Expert</a>
                         </div>
                     </div>
                 </div>

@@ -791,8 +791,8 @@
                                 We design and develop high-performance Android and iOS mobile applications that help African businesses grow, scale, and compete globally.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Get a Free App Consultation</a>
-                                <a class="btn btn-theme btn-md animation ms-3" href="contact-us.php" target="_blank">Talk to a Mobile App Expert</a>
+                                <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Get a Free App Consultation</a>
+                                <a class="btn btn-theme btn-md animation ms-3" href="../contact-us.php" target="_blank">Talk to a Mobile App Expert</a>
                             </div>
                         </div>
                     </div>
@@ -1590,7 +1590,7 @@
                         <p class="text-white">Partner with a top mobile app development company in Africa that delivers scalable and secure Android &amp; iOS solutions.</p>
                         <p class="text-white mb-30">👉 Get a Free Mobile App Consultation</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Talk to an Africa App Development Expert</a>
+                            <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Talk to an Africa App Development Expert</a>
                         </div>
                     </div>
                 </div>

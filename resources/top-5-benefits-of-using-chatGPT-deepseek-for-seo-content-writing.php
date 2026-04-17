@@ -131,7 +131,7 @@
                                     <h2>Why Choose GrowthLabs for SEO Content Writing?</h2>
                                     <p>At GrowthLabs, our expertise extends beyond content creation. We leverage cutting-edge AI tools like ChatGPT and DeepSeek to enhance our content strategies, ensuring that your SEO efforts are aligned with the latest market trends. With AI-powered insights and deep knowledge of the SEO landscape, GrowthLabs's team provides data-driven content strategies that drive measurable results. We use these tools to not only enhance the quality of your content but also to identify opportunities for greater visibility, higher rankings, and more conversions.</p>
 
-                                    <p>Ready to elevate your SEO content strategy? Let our experts help you achieve sustainable growth and success. <a href="contact-us.php" target="_blank">Schedule a free consultation</a> or visit <a href="https://www.itdGrowthLabs.com/" target="_blank">ITDGrowthLabs</a> for more information.</p>
+                                    <p>Ready to elevate your SEO content strategy? Let our experts help you achieve sustainable growth and success. <a href="../contact-us.php" target="_blank">Schedule a free consultation</a> or visit <a href="https://www.itdGrowthLabs.com/" target="_blank">ITDGrowthLabs</a> for more information.</p>
 
                                 </div>
                             </div>

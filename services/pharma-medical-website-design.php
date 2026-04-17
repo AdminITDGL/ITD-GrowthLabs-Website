@@ -350,7 +350,7 @@
                     <div class="attr-nav">
                         <ul>
                             <li class="button">
-                                <a href="contact-us.php">Book a Call</a>
+                                <a href="../contact-us.php">Book a Call</a>
                             </li>
                         </ul>
                     </div>
@@ -378,7 +378,7 @@
                                 Our medical company website solutions prioritize data privacy, regulatory compliance, and scientific accuracy.
                             </p>
                             <div class="button" style="margin-top: 20px;">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php">Let's Talk</a>
+                                <a class="btn btn-theme btn-md animation" href="../contact-us.php">Let's Talk</a>
                             </div>
                         </div>
                     </div>
@@ -581,7 +581,7 @@
                 <!-- End Single Item -->
             </div>
             <!-- <div class="button" style="margin-top: 20px; text-align: center;">
-                <a class="btn btn-theme btn-md animation" href="contact-us.php">Let's Talk</a>
+                <a class="btn btn-theme btn-md animation" href="../contact-us.php">Let's Talk</a>
             </div> -->
         </div>
     </div>

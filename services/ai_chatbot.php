@@ -650,7 +650,7 @@
                                 Boost engagement with AI chatbot automation and AI chatbot solutions. ITD GrowthLabs delivers scalable AI chatbot automation for support, lead generation, and business growth.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Start Automating</a>
+                                <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Start Automating</a>
                             </div>
                         </div>
                     </div>
@@ -966,91 +966,91 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-bullseye fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Strategic AI chatbot automation and AI chatbot solutions for businesses, focusing on conversation design, audience segmentation, and structured flows to improve engagement, conversions, and ROI.</p>
-                        <h4><a href="contact-us.php">AI Chatbot Automation Strategy</a></h4>
+                        <h4><a href="../contact-us.php">AI Chatbot Automation Strategy</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-cogs fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Scalable AI chatbot automation services with chatbot setup, workflow configuration, user journey mapping, and platform-ready AI chatbot solutions for efficient communication experiences.</p>
-                        <h4><a href="contact-us.php">Chatbot Setup & Configuration</a></h4>
+                        <h4><a href="../contact-us.php">Chatbot Setup & Configuration</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Professional AI chatbot automation ensuring AI chatbot solutions perform smoothly across mobile, web, and apps for consistent and accessible customer communication.</p>
-                        <h4><a href="contact-us.php">Multi-Platform Optimization</a></h4>
+                        <h4><a href="../contact-us.php">Multi-Platform Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-comments fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Flexible AI chatbot automation with optimized chat flows, structured conversations, and automated responses to improve engagement, retention, and communication performance.</p>
-                        <h4><a href="contact-us.php">Conversation & Flow Optimization</a></h4>
+                        <h4><a href="../contact-us.php">Conversation & Flow Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-robot fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Conversion-focused AI chatbot automation designed around user behavior with smart AI chatbots, quick replies, and interactive flows to improve engagement and user experience.</p>
-                        <h4><a href="contact-us.php">Intelligent Chatbot Enhancements</a></h4>
+                        <h4><a href="../contact-us.php">Intelligent Chatbot Enhancements</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-sync-alt fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Advanced AI chatbot automation and AI chatbot solutions strategies including workflow updates, chatbot scaling, and feature upgrades to maintain efficiency and growth.</p>
-                        <h4><a href="contact-us.php">Automation Updates & Scaling</a></h4>
+                        <h4><a href="../contact-us.php">Automation Updates & Scaling</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-chart-bar fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>High-performing AI chatbot automation with analytics, reporting tools, and engagement tracking to evaluate user behavior and improve AI chatbot solutions effectiveness.</p>
-                        <h4><a href="contact-us.php">Performance Tracking & Analytics</a></h4>
+                        <h4><a href="../contact-us.php">Performance Tracking & Analytics</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-clipboard-check fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Modern AI chatbot automation improvements for existing systems to enhance conversation flows, clarity, engagement rates, and overall communication efficiency.</p>
-                        <h4><a href="contact-us.php">Chatbot Audit & Optimization</a></h4>
+                        <h4><a href="../contact-us.php">Chatbot Audit & Optimization</a></h4>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                     <div class="services-style-one">
                         <i class="fas fa-tools fa-3x mb-3"></i>
-                        <a href="contact-us.php" class="btn-arrow">
+                        <a href="../contact-us.php" class="btn-arrow">
                             <i class="fas fa-long-arrow-right"></i>
                         </a>
                         <p>Reliable AI chatbot automation support with continuous updates, performance improvements, reporting, and strategy enhancements for long-term business success.</p>
-                        <h4><a href="contact-us.php">Ongoing Support & Optimization</a></h4>
+                        <h4><a href="../contact-us.php">Ongoing Support & Optimization</a></h4>
                     </div>
                 </div>
             </div>
@@ -1135,7 +1135,7 @@
                         <h2 class="title text-white mb-30">Ready to Start AI Chatbot Automation?</h2>
                         <p class="text-white">Work with a trusted AI chatbot automation company for scalable solutions that boost engagement, support, and business growth.</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Let's Talk</a>
+                            <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Let's Talk</a>
                         </div>
                     </div>
                 </div>

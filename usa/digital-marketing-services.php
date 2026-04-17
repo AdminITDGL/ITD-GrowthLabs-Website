@@ -789,7 +789,7 @@
                                 We help American businesses generate leads, increase online visibility, and grow revenue through data-driven digital marketing strategies.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Get a Free Marketing Consultation</a>
+                                <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Get a Free Marketing Consultation</a>
                             </div>
                         </div>
                     </div>
@@ -1307,7 +1307,7 @@
                         <p class="text-white">Partner with a top digital marketing services company in the USA focused on results, not just traffic.</p>
                         <p class="text-white mb-30">👉 Get a Free Digital Marketing Consultation</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Talk to a USA Digital Marketing Expert</a>
+                            <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Talk to a USA Digital Marketing Expert</a>
                         </div>
                     </div>
                 </div>

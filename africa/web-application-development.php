@@ -791,8 +791,8 @@
                                 We build secure, scalable, and high-performance web applications that help African businesses automate operations, improve efficiency, and scale faster.
                             </p>
                             <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Get a Free Web App Consultation</a>
-                                <a class="btn btn-theme btn-md animation ms-3" href="contact-us.php" target="_blank">Talk to a Web App Expert</a>
+                                <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Get a Free Web App Consultation</a>
+                                <a class="btn btn-theme btn-md animation ms-3" href="../contact-us.php" target="_blank">Talk to a Web App Expert</a>
                             </div>
                         </div>
                     </div>
@@ -1582,7 +1582,7 @@
                         <p class="text-white">Partner with a top web application development company in Africa that understands African markets and delivers global-quality solutions.</p>
                         <p class="text-white mb-30">👉 Get a Free Web App Consultation</p>
                         <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="contact-us.php" target="_blank">Talk to an Africa Web App Expert</a>
+                            <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Talk to an Africa Web App Expert</a>
                         </div>
                     </div>
                 </div>
