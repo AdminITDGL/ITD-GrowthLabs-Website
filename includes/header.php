@@ -156,6 +156,26 @@
                                <li><a href="industries/startups.php">Startups</a></li>
                            </ul>
                        </li>
+                       <!-- PRODUCTS -->
+                       <li class="dropdown">
+                           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Products</a>
+                           <ul class="dropdown-menu">
+                               <li>
+                                   <a href="products/courier-management-software.php">
+                                       <strong>Courier Management Software</strong><br>
+                                       <span style="font-size:12px;color:#888;">SaaS platform for courier &amp; logistics ops</span>
+                                   </a>
+                               </li>
+                               <li>
+                                   <a href="products/logistics-mobile-app.php">
+                                       <strong>Logistics Mobile App</strong><br>
+                                       <span style="font-size:12px;color:#888;">White-label branded delivery app</span>
+                                   </a>
+                               </li>
+                           </ul>
+                       </li>
+
+
 
                        <!-- CASE STUDIES -->
                        <li>
