@@ -1066,13 +1066,27 @@
     ============================================= -->
     <section class="cta-form-section">
         <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-8 text-center">
-                    <h2 class="section-title">Ready to Launch Your Own Delivery App?</h2>
-                    <p class="section-sub">Tell us about your business and we&rsquo;ll put together a custom proposal — including timeline, features, and pricing — within 48 hours.</p>
+            <div class="content">
+                <div class="row align-center">
+                    <div class="banner-style-three col-lg-7">
+                        <div class="information">
+                            <span class="badge-pill" style="display:inline-block;margin-bottom:1rem;">START YOUR PROJECT</span>
+                            <h2 class="section-title" style="color:#0e1a3a;">Ready to Launch Your Own Delivery App?</h2>
+                            <p class="section-sub">Tell us about your business and we&rsquo;ll put together a custom proposal — including timeline, features, and pricing — within 48 hours.</p>
+                            <ul style="list-style:none;padding:0;margin:1.5rem 0;">
+                                <li style="margin-bottom:10px;"><span style="color:#4f8ef7;font-weight:700;">&#10003;</span> Custom scoping for your exact logistics workflow</li>
+                                <li style="margin-bottom:10px;"><span style="color:#4f8ef7;font-weight:700;">&#10003;</span> Transparent pricing with no hidden costs</li>
+                                <li style="margin-bottom:10px;"><span style="color:#4f8ef7;font-weight:700;">&#10003;</span> Live walkthrough of reference deployments</li>
+                                <li style="margin-bottom:10px;"><span style="color:#4f8ef7;font-weight:700;">&#10003;</span> NDA available on request</li>
+                            </ul>
+                            <div class="button mt-4 mb-4">
+                                <a class="btn btn-theme btn-md animation" href="../contact-us.php">Talk to Our Logistics Team</a>
+                            </div>
+                        </div>
+                    </div>
+                    <?php include("../includes/consultation-form.php") ?>
                 </div>
             </div>
-            <?php include("../includes/consultation-form.php") ?>
         </div>
     </section>
     <!-- End CTA Form -->

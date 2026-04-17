@@ -67,15 +67,6 @@
       "description": "Complete courier management platform for logistics businesses — order management, real-time tracking, COD reconciliation, POD, and customer notifications.",
       "applicationCategory": "BusinessApplication",
       "operatingSystem": "Web, Android, iOS",
-      "offers": {
-        "@type": "Offer",
-        "priceCurrency": "INR",
-        "price": "8000",
-        "priceSpecification": {
-          "@type": "UnitPriceSpecification",
-          "priceType": "https://schema.org/RecurringCharge"
-        }
-      },
       "provider": {
         "@type": "Organization",
         "name": "ITD GrowthLabs",
@@ -524,12 +515,12 @@
                             <span class="stat-label">Years in Logistics</span>
                         </div>
                         <div class="cms-stat-item">
-                            <span class="stat-number">&#8377;0</span>
-                            <span class="stat-label">Setup for Annual Plans</span>
-                        </div>
-                        <div class="cms-stat-item">
                             <span class="stat-number">24/7</span>
                             <span class="stat-label">Support</span>
+                        </div>
+                        <div class="cms-stat-item">
+                            <span class="stat-number">5</span>
+                            <span class="stat-label">Countries Deployed</span>
                         </div>
                     </div>
                 </div>
@@ -761,73 +752,6 @@
     </section>
     <!-- End How It Works -->
 
-    <!-- =============================================
-         Section 6 — Pricing
-    ============================================= -->
-    <section style="background: #f8f9fb; padding: 80px 0;">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2 text-center">
-                    <div class="site-heading mb-50">
-                        <h5 class="sub-title">Pricing</h5>
-                        <h2 class="title">Transparent Pricing. No Hidden Costs.</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row g-4 justify-content-center">
-                <!-- Starter Plan -->
-                <div class="col-lg-5 col-md-10">
-                    <div class="pricing-card">
-                        <div class="plan-name">Starter</div>
-                        <p class="price-setup">One-time Setup: <strong>&#8377;75,000</strong></p>
-                        <div class="price-monthly">&#8377;8,000 <span>/ month</span></div>
-                        <hr class="price-divider">
-                        <ul>
-                            <li>Up to 500 shipments/day</li>
-                            <li>5 delivery agent accounts</li>
-                            <li>Order management</li>
-                            <li>Basic shipment tracking</li>
-                            <li>COD reconciliation reports</li>
-                            <li>SMS customer notifications</li>
-                            <li>Email support</li>
-                        </ul>
-                        <a href="../contact-us.php" class="btn btn-theme btn-md animation w-100">Get Started</a>
-                    </div>
-                </div>
-                <!-- Growth Plan -->
-                <div class="col-lg-5 col-md-10">
-                    <div class="pricing-card highlighted">
-                        <span class="recommended-badge">RECOMMENDED</span>
-                        <div class="plan-name">Growth</div>
-                        <p class="price-setup">One-time Setup: <strong>&#8377;1,50,000</strong></p>
-                        <div class="price-monthly">&#8377;20,000 <span>/ month</span></div>
-                        <hr class="price-divider">
-                        <ul>
-                            <li>Unlimited shipments</li>
-                            <li>Unlimited delivery agents</li>
-                            <li>All Starter features</li>
-                            <li>GPS live map tracking</li>
-                            <li>Client self-service portal</li>
-                            <li>POD with photo &amp; signature</li>
-                            <li>WhatsApp notifications</li>
-                            <li>Custom branding</li>
-                            <li>Phone + email support</li>
-                        </ul>
-                        <a href="../contact-us.php" class="btn btn-theme btn-md animation w-100">Book a Demo</a>
-                    </div>
-                </div>
-            </div>
-            <div class="row mt-4">
-                <div class="col-lg-8 offset-lg-2 text-center">
-                    <p style="color: #666; font-size: 0.95rem;">
-                        <i class="fa fa-info-circle" style="color: var(--color-primary, #4f8ef7);"></i>
-                        International pricing in USD/AED/GBP available. Setup fees waived on annual plans.
-                    </p>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End Pricing -->
 
     <!-- =============================================
          Section 7 — Why ITD GrowthLabs
@@ -989,14 +913,23 @@
     ============================================= -->
     <section class="demo-cta-section">
         <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2 text-center mb-4">
-                    <h2>See It in Action — Book Your Free Demo</h2>
-                    <p>Our logistics tech specialists will walk you through the platform live and answer all your questions.</p>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
+            <div class="content">
+                <div class="row align-center">
+                    <div class="banner-style-three col-lg-7">
+                        <div class="information">
+                            <h2 style="color:#ffffff;">See It in Action — Book Your Free Demo</h2>
+                            <p style="color:rgba(255,255,255,0.9);">Our logistics tech specialists will walk you through the platform live and answer every question you have about moving your operations onto our courier management software.</p>
+                            <ul style="list-style:none;padding:0;margin:1.5rem 0;color:#ffffff;">
+                                <li style="margin-bottom:10px;"><span style="color:#ffd54a;font-weight:700;">&#10003;</span> 30-minute live product walkthrough</li>
+                                <li style="margin-bottom:10px;"><span style="color:#ffd54a;font-weight:700;">&#10003;</span> Tailored to your daily shipment volume</li>
+                                <li style="margin-bottom:10px;"><span style="color:#ffd54a;font-weight:700;">&#10003;</span> Custom proposal within 48 hours</li>
+                                <li style="margin-bottom:10px;"><span style="color:#ffd54a;font-weight:700;">&#10003;</span> No obligation. No pushy sales tactics.</li>
+                            </ul>
+                            <div class="button mt-4 mb-4">
+                                <a class="btn btn-theme btn-md animation" href="../contact-us.php">Book a Free Demo</a>
+                            </div>
+                        </div>
+                    </div>
                     <?php include("../includes/consultation-form.php") ?>
                 </div>
             </div>
