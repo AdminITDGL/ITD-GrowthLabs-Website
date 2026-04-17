@@ -169,7 +169,7 @@
                                <li>
                                    <a href="products/logistics-mobile-app.php">
                                        <strong>Logistics Mobile App</strong><br>
-                                       <span style="font-size:12px;color:#888;">White-label branded delivery app</span>
+                                       <span style="font-size:12px;color:#888;">Custom-built delivery app for your brand</span>
                                    </a>
                                </li>
                            </ul>
