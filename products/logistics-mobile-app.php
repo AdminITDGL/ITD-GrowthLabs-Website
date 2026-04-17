@@ -24,8 +24,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="White-label logistics mobile app for D2C brands, courier companies and delivery startups. Launch your own branded delivery app in 4–6 weeks. Built on proven tech deployed for 200+ clients.">
-    <title>White-Label Logistics Mobile App for Brands | ITD GrowthLabs</title>
+    <meta name="description" content="Custom logistics mobile app development for courier companies, D2C brands and delivery startups. Get a fully branded Customer App, Delivery Partner App and Admin Dashboard — built on 200+ deployments of proven logistics expertise.">
+    <title>Custom Logistics Mobile App Development for Courier & Delivery Brands | ITD GrowthLabs</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/products/logistics-mobile-app.php">
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
@@ -63,8 +63,8 @@
     {
       "@context": "https://schema.org",
       "@type": "MobileApplication",
-      "name": "ITD Logistics White-Label Mobile App",
-      "description": "White-label logistics mobile app for D2C brands and courier companies. Customer tracking app, delivery partner app, and admin dashboard — fully branded and customizable.",
+      "name": "ITD Custom Logistics Mobile App",
+      "description": "Custom logistics mobile app development for courier companies and D2C brands. Customer tracking app, delivery partner app, and admin dashboard — fully built and tailored to your brand by ITD GrowthLabs.",
       "applicationCategory": "BusinessApplication",
       "operatingSystem": "Android, iOS",
       "offers": {
@@ -633,9 +633,9 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-10">
-                    <span class="badge-pill">White-Label Solution</span>
-                    <h1>Launch Your Own Branded Delivery App — Without Building From Scratch</h1>
-                    <p class="subhead">Get a complete logistics app ecosystem — customer tracking app, delivery partner app, and admin dashboard — all under your brand. Live in 4–6 weeks.</p>
+                    <span class="badge-pill">FOR COURIER &amp; LOGISTICS BRANDS</span>
+                    <h1>Your Own Branded Logistics App — Built From the Ground Up, Tailored to Your Business</h1>
+                    <p class="subhead">ITD GrowthLabs builds you a complete logistics app ecosystem — Customer App, Delivery Partner App, and Admin Dashboard — fully customized to your brand, your workflows, and your market.</p>
                     <div class="cta-group">
                         <a href="../contact-us.php" class="btn-primary-cta">Get a Free Quote &rarr;</a>
                         <a href="#whats-included" class="btn-outline-cta">See What&rsquo;s Included &darr;</a>
@@ -646,8 +646,8 @@
                             <span class="stat-label">in 1 Package</span>
                         </div>
                         <div class="stat-item">
-                            <span class="stat-val">4–6 Weeks</span>
-                            <span class="stat-label">Launch Timeline</span>
+                            <span class="stat-val">8–16 Weeks</span>
+                            <span class="stat-label">Typical Timeline</span>
                         </div>
                         <div class="stat-item">
                             <span class="stat-val">200+</span>
@@ -873,52 +873,53 @@
     <!-- End Features Deep Dive -->
 
     <!-- ============================================
-         Section 6: Why White-Label vs Build From Scratch
+         Section 6: Why Build With ITD
     ============================================= -->
     <section class="comparison-section">
         <div class="container">
             <div class="text-center">
-                <h2 class="section-title">Why White-Label Instead of Building From Scratch?</h2>
+                <h2 class="section-title">Why Build Your Logistics App With ITD GrowthLabs?</h2>
+                <p style="color:#555;max-width:680px;margin:0 auto 2rem;">We've spent years building logistics software for courier companies across India, UAE, Africa and beyond. That expertise goes into every app we build for you — faster, smarter, and right-fit for logistics from day one.</p>
             </div>
             <div class="table-responsive">
                 <table class="comparison-table">
                     <thead>
                         <tr>
                             <th></th>
-                            <th>&#9989; White-Label (ITD)</th>
-                            <th>Build From Scratch</th>
+                            <th>&#9989; Build with ITD GrowthLabs</th>
+                            <th>Generic Agency from Scratch</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
+                            <td>Logistics domain expertise</td>
+                            <td>&#9989; 200+ deployments of experience</td>
+                            <td>&#10060; Learns on your project</td>
+                        </tr>
+                        <tr>
                             <td>Timeline</td>
-                            <td>4–6 weeks</td>
-                            <td>9–18 months</td>
+                            <td>8–16 weeks (accelerated by reusable modules)</td>
+                            <td>12–24 months</td>
                         </tr>
                         <tr>
-                            <td>Cost</td>
-                            <td>Fraction of custom dev</td>
-                            <td>&#8377;50L–&#8377;2Cr+</td>
-                        </tr>
-                        <tr>
-                            <td>Proven at scale</td>
-                            <td>&#9989; 200+ clients</td>
-                            <td>&#10060; Unproven</td>
+                            <td>Cost efficiency</td>
+                            <td>Optimised — no reinventing the wheel</td>
+                            <td>&#8377;50L–&#8377;2Cr+ (full build)</td>
                         </tr>
                         <tr>
                             <td>Customization</td>
-                            <td>Full UI + features</td>
-                            <td>Full</td>
+                            <td>&#9989; 100% — UI, features, workflows, brand</td>
+                            <td>Full, but risky with no domain context</td>
+                        </tr>
+                        <tr>
+                            <td>Feature accuracy</td>
+                            <td>&#9989; Built for real logistics scenarios</td>
+                            <td>&#10060; Requires extensive discovery</td>
                         </tr>
                         <tr>
                             <td>Ongoing support</td>
-                            <td>&#9989; Included</td>
-                            <td>Depends on team</td>
-                        </tr>
-                        <tr>
-                            <td>Time to revenue</td>
-                            <td>Immediate</td>
-                            <td>Long gestation</td>
+                            <td>&#9989; 90-day post-launch support included</td>
+                            <td>Separate contract, extra cost</td>
                         </tr>
                     </tbody>
                 </table>
