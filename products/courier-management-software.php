@@ -313,90 +313,281 @@
             line-height: 1.65;
         }
 
-        /* Complete Operations Suite — Capability Groups */
-        .capability-group {
-            background: #fff;
-            border: 1px solid #e8edf4;
-            border-radius: 14px;
-            padding: 30px 28px;
-            margin-bottom: 24px;
-            height: 100%;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.03);
-            transition: box-shadow 0.25s, transform 0.25s;
+        /* ==========================================================
+           Complete Operations Suite — v2 redesign
+           Hero card (Operations) + 4-card row (supporting workflows)
+           ========================================================== */
+        .ops-suite {
+            background: linear-gradient(180deg, #fafbfd 0%, #eef4fc 100%);
+            padding: 90px 0;
         }
 
-        .capability-group:hover {
-            box-shadow: 0 10px 36px rgba(79,142,247,0.10);
-            transform: translateY(-2px);
+        .ops-suite .section-head {
+            text-align: center;
+            max-width: 820px;
+            margin: 0 auto 55px;
         }
 
-        .capability-group-header {
-            display: flex;
-            align-items: center;
-            gap: 14px;
-            margin-bottom: 20px;
-            padding-bottom: 16px;
-            border-bottom: 2px solid #eef3fb;
-        }
-
-        .capability-group-icon {
-            width: 46px;
-            height: 46px;
-            border-radius: 10px;
-            background: linear-gradient(135deg, #4f8ef7 0%, #7cb2ff 100%);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 1.4rem;
-            flex-shrink: 0;
-        }
-
-        .capability-group h4 {
-            font-size: 1.15rem;
+        .ops-suite .eyebrow {
+            display: inline-block;
+            font-size: 0.78rem;
             font-weight: 700;
-            color: #1a2a40;
+            color: #4f8ef7;
+            letter-spacing: 1.8px;
+            text-transform: uppercase;
+            background: rgba(79,142,247,0.1);
+            padding: 6px 16px;
+            border-radius: 30px;
+            margin-bottom: 18px;
+        }
+
+        .ops-suite h2 {
+            font-size: 2rem;
+            font-weight: 700;
+            color: #0d1b2a;
+            line-height: 1.3;
+            margin-bottom: 18px;
+        }
+
+        .ops-suite .lede {
+            font-size: 1rem;
+            color: #475569;
+            line-height: 1.7;
             margin: 0;
         }
 
-        .capability-list {
+        /* Stats bar above groups */
+        .ops-stats-bar {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            flex-wrap: wrap;
+            margin-bottom: 45px;
+            padding: 22px 30px;
+            background: #fff;
+            border-radius: 14px;
+            box-shadow: 0 4px 24px rgba(15,35,75,0.06);
+            max-width: 820px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .ops-stat {
+            text-align: center;
+            padding: 0 12px;
+        }
+
+        .ops-stat-num {
+            font-size: 1.7rem;
+            font-weight: 800;
+            color: #0d1b2a;
+            line-height: 1;
+            margin-bottom: 4px;
+        }
+
+        .ops-stat-num span {
+            color: #4f8ef7;
+        }
+
+        .ops-stat-label {
+            font-size: 0.82rem;
+            color: #64748b;
+            font-weight: 500;
+        }
+
+        /* Group card base */
+        .ops-card {
+            background: #fff;
+            border-radius: 16px;
+            padding: 30px 28px;
+            border: 1px solid #e8edf4;
+            box-shadow: 0 2px 12px rgba(15,35,75,0.04);
+            transition: transform 0.25s ease, box-shadow 0.25s ease;
+            height: 100%;
+        }
+
+        .ops-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 16px 42px rgba(15,35,75,0.08);
+        }
+
+        .ops-card-head {
+            display: flex;
+            align-items: center;
+            gap: 14px;
+            padding-bottom: 20px;
+            margin-bottom: 22px;
+            border-bottom: 1px solid #eef3fb;
+        }
+
+        .ops-card-icon {
+            width: 52px;
+            height: 52px;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #fff;
+            font-size: 1.35rem;
+            flex-shrink: 0;
+        }
+
+        /* Category-specific icon colors */
+        .ops-card-icon.c-ops      { background: linear-gradient(135deg, #3b82f6 0%, #60a5fa 100%); }
+        .ops-card-icon.c-finance  { background: linear-gradient(135deg, #10b981 0%, #34d399 100%); }
+        .ops-card-icon.c-mobile   { background: linear-gradient(135deg, #f59e0b 0%, #fbbf24 100%); }
+        .ops-card-icon.c-customer { background: linear-gradient(135deg, #8b5cf6 0%, #a78bfa 100%); }
+        .ops-card-icon.c-admin    { background: linear-gradient(135deg, #64748b 0%, #94a3b8 100%); }
+
+        .ops-card-head h3 {
+            font-size: 1.12rem;
+            font-weight: 700;
+            color: #0d1b2a;
+            margin: 0 0 3px;
+            line-height: 1.3;
+        }
+
+        .ops-card-count {
+            font-size: 0.75rem;
+            color: #64748b;
+            font-weight: 600;
+            letter-spacing: 0.8px;
+            text-transform: uppercase;
+        }
+
+        /* Hero card (Operations & Fulfilment) — items in 3 columns */
+        .ops-card.ops-hero {
+            padding: 36px 36px;
+        }
+
+        .ops-hero-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 0 32px;
+        }
+
+        @media (max-width: 767px) {
+            .ops-hero-grid { grid-template-columns: 1fr; }
+        }
+
+        @media (min-width: 768px) and (max-width: 991px) {
+            .ops-hero-grid { grid-template-columns: repeat(2, 1fr); gap: 0 24px; }
+        }
+
+        .ops-item {
+            padding: 14px 0;
+            border-bottom: 1px solid #f4f7fb;
+        }
+
+        .ops-item:last-child { border-bottom: none; }
+
+        .ops-hero-grid .ops-item:nth-last-child(-n+3) { border-bottom: none; }
+        @media (max-width: 991px) {
+            .ops-hero-grid .ops-item:nth-last-child(-n+3) { border-bottom: 1px solid #f4f7fb; }
+            .ops-hero-grid .ops-item:last-child { border-bottom: none; }
+        }
+
+        .ops-item-title {
+            font-size: 0.97rem;
+            font-weight: 600;
+            color: #0d1b2a;
+            margin-bottom: 4px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .ops-item-title::before {
+            content: "";
+            width: 6px;
+            height: 6px;
+            border-radius: 50%;
+            background: #4f8ef7;
+            flex-shrink: 0;
+        }
+
+        .ops-card.c-finance-card  .ops-item-title::before { background: #10b981; }
+        .ops-card.c-mobile-card   .ops-item-title::before { background: #f59e0b; }
+        .ops-card.c-customer-card .ops-item-title::before { background: #8b5cf6; }
+        .ops-card.c-admin-card    .ops-item-title::before { background: #64748b; }
+
+        .ops-item-desc {
+            font-size: 0.85rem;
+            color: #64748b;
+            line-height: 1.6;
+            margin: 0;
+            padding-left: 14px;
+        }
+
+        /* Supporting card list (single column) */
+        .ops-card-list {
             list-style: none;
             padding: 0;
             margin: 0;
         }
 
-        .capability-list li {
-            display: flex;
-            gap: 12px;
-            padding: 10px 0;
-            border-bottom: 1px dashed #eef3fb;
+        .ops-card-list li {
+            padding: 14px 0;
+            border-bottom: 1px solid #f4f7fb;
         }
 
-        .capability-list li:last-child {
+        .ops-card-list li:last-child {
             border-bottom: none;
             padding-bottom: 0;
         }
 
-        .capability-check {
-            color: #28a745;
-            font-weight: 700;
+        .ops-card-list li:first-child {
+            padding-top: 0;
+        }
+
+        /* Bottom CTA band */
+        .ops-suite-cta {
+            margin-top: 50px;
+            background: #fff;
+            border-radius: 16px;
+            padding: 34px 30px;
+            text-align: center;
+            border: 1px solid #e8edf4;
+            box-shadow: 0 2px 12px rgba(15,35,75,0.04);
+        }
+
+        .ops-suite-cta p {
             font-size: 1rem;
-            line-height: 1.5;
-            flex-shrink: 0;
-            width: 18px;
+            color: #475569;
+            line-height: 1.7;
+            margin: 0 0 20px;
+            max-width: 720px;
+            margin-left: auto;
+            margin-right: auto;
         }
 
-        .capability-text strong {
-            display: block;
-            font-size: 0.95rem;
-            color: #1a2a40;
-            font-weight: 700;
-            margin-bottom: 2px;
+        .ops-suite-cta .btn-walkthrough {
+            display: inline-block;
+            background: #4f8ef7;
+            color: #fff;
+            padding: 14px 34px;
+            border-radius: 8px;
+            font-weight: 600;
+            text-decoration: none;
+            font-size: 0.98rem;
+            transition: background 0.2s, transform 0.2s, box-shadow 0.2s;
+            box-shadow: 0 4px 14px rgba(79,142,247,0.35);
         }
 
-        .capability-text span {
-            font-size: 0.85rem;
-            color: #5d6b80;
-            line-height: 1.55;
+        .ops-suite-cta .btn-walkthrough:hover {
+            background: #2d6fd6;
+            color: #fff;
+            transform: translateY(-2px);
+            box-shadow: 0 8px 22px rgba(79,142,247,0.45);
+        }
+
+        @media (max-width: 767px) {
+            .ops-suite { padding: 60px 0; }
+            .ops-suite h2 { font-size: 1.55rem; }
+            .ops-card { padding: 24px 22px; }
+            .ops-card.ops-hero { padding: 28px 24px; }
+            .ops-stats-bar { gap: 20px; padding: 18px 20px; }
+            .ops-stat-num { font-size: 1.4rem; }
         }
 
         /* How It Works Steps */
@@ -778,159 +969,197 @@
     <!-- =============================================
          Section 3b — Complete Operations Suite (21 capabilities)
     ============================================= -->
-    <section id="operations-suite" style="background: #f4f8fe; padding: 90px 0;">
+    <section id="operations-suite" class="ops-suite">
         <div class="container">
-            <div class="row">
-                <div class="col-lg-9 offset-lg-1 text-center">
-                    <div class="site-heading mb-50">
-                        <h5 class="sub-title">Complete Operations Suite</h5>
-                        <h2 class="title">Every Capability Your Courier &amp; Logistics Business Needs — Built In</h2>
-                        <p style="font-size: 1rem; color: #4a5569; max-width: 820px; margin: 18px auto 0; line-height: 1.7;">
-                            Our Courier Management Software ships with <strong>21+ production-grade capabilities</strong> used every day by regional couriers, e-commerce fulfilment teams, and last-mile delivery operators. Nothing bolted on, nothing extra to buy — every feature below is part of the platform from day one.
-                        </p>
-                    </div>
+
+            <!-- Section Header -->
+            <div class="section-head">
+                <span class="eyebrow">Complete Operations Suite</span>
+                <h2>Every Capability Your Courier Business Needs — Built In</h2>
+                <p class="lede">
+                    Our Courier Management Software ships with <strong>21 production-grade capabilities</strong> across 5 core workflows. Used every day by regional couriers, e-commerce fulfilment teams, and last-mile delivery operators. Nothing bolted on, nothing extra to buy.
+                </p>
+            </div>
+
+            <!-- Stats bar -->
+            <div class="ops-stats-bar">
+                <div class="ops-stat">
+                    <div class="ops-stat-num"><span>21</span></div>
+                    <div class="ops-stat-label">Capabilities</div>
+                </div>
+                <div class="ops-stat">
+                    <div class="ops-stat-num"><span>5</span></div>
+                    <div class="ops-stat-label">Core Workflows</div>
+                </div>
+                <div class="ops-stat">
+                    <div class="ops-stat-num"><span>1</span></div>
+                    <div class="ops-stat-label">Unified Platform</div>
+                </div>
+                <div class="ops-stat">
+                    <div class="ops-stat-num"><span>0</span></div>
+                    <div class="ops-stat-label">Add-Ons Needed</div>
                 </div>
             </div>
 
+            <!-- Row 1: Operations & Fulfilment (hero, full width) -->
             <div class="row g-4">
-
-                <!-- Group 1: Operations & Fulfilment -->
-                <div class="col-lg-6">
-                    <div class="capability-group">
-                        <div class="capability-group-header">
-                            <div class="capability-group-icon">&#128230;</div>
-                            <h4>Operations &amp; Fulfilment</h4>
+                <div class="col-12">
+                    <div class="ops-card ops-hero">
+                        <div class="ops-card-head">
+                            <div class="ops-card-icon c-ops"><i class="fa-solid fa-truck-fast"></i></div>
+                            <div>
+                                <h3>Operations &amp; Fulfilment</h3>
+                                <span class="ops-card-count">9 Capabilities · Core Workflow</span>
+                            </div>
                         </div>
-                        <ul class="capability-list">
-                            <li>
-                                <span class="capability-check">&#10003;</span>
-                                <div class="capability-text"><strong>Pickup Scheduling</strong><span>Schedule single or recurring pickups by client, location, or time-slot — auto-assigned to the right agent.</span></div>
+                        <div class="ops-hero-grid">
+                            <div class="ops-item">
+                                <div class="ops-item-title">Pickup Scheduling</div>
+                                <p class="ops-item-desc">Schedule single or recurring pickups by client, location, or time-slot — auto-assigned to the right agent.</p>
+                            </div>
+                            <div class="ops-item">
+                                <div class="ops-item-title">Inbound Hub Scanning</div>
+                                <p class="ops-item-desc">Scan every parcel into the hub on arrival with barcode validation, exception flagging, and audit trail.</p>
+                            </div>
+                            <div class="ops-item">
+                                <div class="ops-item-title">Outgoing Manifest Creation</div>
+                                <p class="ops-item-desc">Generate printable manifests for every outbound vehicle or route in a single click, fully compliant.</p>
+                            </div>
+                            <div class="ops-item">
+                                <div class="ops-item-title">Branch-to-Hub Transfer Management</div>
+                                <p class="ops-item-desc">Move consignments between branches and hubs with live visibility and chain-of-custody tracking.</p>
+                            </div>
+                            <div class="ops-item">
+                                <div class="ops-item-title">Delivery Run Sheet Management</div>
+                                <p class="ops-item-desc">Create, assign, and close run sheets for each field agent — with sequence optimisation and proof capture.</p>
+                            </div>
+                            <div class="ops-item">
+                                <div class="ops-item-title">Delivery Status Updates</div>
+                                <p class="ops-item-desc">Status transitions at every stage — picked up, in-transit, out-for-delivery, delivered, RTO — logged automatically.</p>
+                            </div>
+                            <div class="ops-item">
+                                <div class="ops-item-title">Track &amp; Trace Services</div>
+                                <p class="ops-item-desc">End-to-end parcel tracking for ops, clients, and end-customers via web, SMS, WhatsApp, and API.</p>
+                            </div>
+                            <div class="ops-item">
+                                <div class="ops-item-title">Barcode Generation</div>
+                                <p class="ops-item-desc">Unique scannable barcodes for every consignment, supporting Code 128, QR, and custom formats.</p>
+                            </div>
+                            <div class="ops-item">
+                                <div class="ops-item-title">Label Creation</div>
+                                <p class="ops-item-desc">Print-ready shipping labels with your brand, client logo, route code, barcode, and delivery address.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Row 2: Four supporting workflow cards -->
+            <div class="row g-4 mt-2">
+
+                <!-- Finance & Billing -->
+                <div class="col-lg-3 col-md-6">
+                    <div class="ops-card c-finance-card">
+                        <div class="ops-card-head">
+                            <div class="ops-card-icon c-finance"><i class="fa-solid fa-file-invoice-dollar"></i></div>
+                            <div>
+                                <h3>Finance &amp; Billing</h3>
+                                <span class="ops-card-count">3 Capabilities</span>
+                            </div>
+                        </div>
+                        <ul class="ops-card-list">
+                            <li class="ops-item">
+                                <div class="ops-item-title">Customised Billing &amp; Invoicing</div>
+                                <p class="ops-item-desc">Rule-based billing — slab rates, fuel surcharges, volumetric weight, COD charges — auto-applied.</p>
                             </li>
-                            <li>
-                                <span class="capability-check">&#10003;</span>
-                                <div class="capability-text"><strong>Inbound Hub Scanning</strong><span>Scan every parcel into the hub on arrival with barcode validation, exception flagging, and audit trail.</span></div>
+                            <li class="ops-item">
+                                <div class="ops-item-title">Credit / Debit Note Generation</div>
+                                <p class="ops-item-desc">Issue credit and debit notes against invoices with full GST compliance and digital signatures.</p>
                             </li>
-                            <li>
-                                <span class="capability-check">&#10003;</span>
-                                <div class="capability-text"><strong>Outgoing Manifest Creation</strong><span>Generate printable manifests for every outbound vehicle or route in a single click, fully compliant.</span></div>
-                            </li>
-                            <li>
-                                <span class="capability-check">&#10003;</span>
-                                <div class="capability-text"><strong>Branch-to-Hub Transfer Management</strong><span>Move consignments between branches and hubs with live visibility and chain-of-custody tracking.</span></div>
-                            </li>
-                            <li>
-                                <span class="capability-check">&#10003;</span>
-                                <div class="capability-text"><strong>Delivery Run Sheet Management</strong><span>Create, assign, and close run sheets for each field agent — with sequence optimisation and proof capture.</span></div>
-                            </li>
-                            <li>
-                                <span class="capability-check">&#10003;</span>
-                                <div class="capability-text"><strong>Delivery Status Updates</strong><span>Status transitions at every stage — picked up, in-transit, out-for-delivery, delivered, RTO — logged automatically.</span></div>
-                            </li>
-                            <li>
-                                <span class="capability-check">&#10003;</span>
-                                <div class="capability-text"><strong>Track &amp; Trace Services</strong><span>End-to-end parcel tracking for ops, clients, and end-customers via web, SMS, WhatsApp, and API.</span></div>
-                            </li>
-                            <li>
-                                <span class="capability-check">&#10003;</span>
-                                <div class="capability-text"><strong>Barcode Generation</strong><span>Unique scannable barcodes for every consignment, supporting Code 128, QR, and custom formats.</span></div>
-                            </li>
-                            <li>
-                                <span class="capability-check">&#10003;</span>
-                                <div class="capability-text"><strong>Label Creation</strong><span>Print-ready shipping labels with your brand, client logo, route code, barcode, and delivery address.</span></div>
+                            <li class="ops-item">
+                                <div class="ops-item-title">Automatic Ledger Posting</div>
+                                <p class="ops-item-desc">Every transaction posts automatically to the correct client and vendor ledger — no double-entry work.</p>
                             </li>
                         </ul>
                     </div>
                 </div>
 
-                <!-- Group 2: Finance & Billing -->
-                <div class="col-lg-6">
-                    <div class="capability-group">
-                        <div class="capability-group-header">
-                            <div class="capability-group-icon">&#128181;</div>
-                            <h4>Finance &amp; Billing</h4>
+                <!-- Mobile & Real-Time -->
+                <div class="col-lg-3 col-md-6">
+                    <div class="ops-card c-mobile-card">
+                        <div class="ops-card-head">
+                            <div class="ops-card-icon c-mobile"><i class="fa-solid fa-mobile-screen-button"></i></div>
+                            <div>
+                                <h3>Mobile &amp; Real-Time</h3>
+                                <span class="ops-card-count">2 Capabilities</span>
+                            </div>
                         </div>
-                        <ul class="capability-list">
-                            <li>
-                                <span class="capability-check">&#10003;</span>
-                                <div class="capability-text"><strong>Customised Billing &amp; Invoicing</strong><span>Rule-based billing for every client — slab rates, fuel surcharges, volumetric weight, COD charges — auto-applied.</span></div>
+                        <ul class="ops-card-list">
+                            <li class="ops-item">
+                                <div class="ops-item-title">Mobile App for Operations</div>
+                                <p class="ops-item-desc">Native Android app for pickup agents, delivery executives, and hub staff — works offline, syncs instantly.</p>
                             </li>
-                            <li>
-                                <span class="capability-check">&#10003;</span>
-                                <div class="capability-text"><strong>Credit / Debit Note Generation</strong><span>Issue credit and debit notes against invoices with full GST compliance and digital signatures.</span></div>
-                            </li>
-                            <li>
-                                <span class="capability-check">&#10003;</span>
-                                <div class="capability-text"><strong>Automatic Ledger Posting</strong><span>Every transaction posts automatically to the correct client and vendor ledger — no double-entry work.</span></div>
-                            </li>
-                        </ul>
-                    </div>
-
-                    <!-- Group 3: Mobile & Real-Time -->
-                    <div class="capability-group">
-                        <div class="capability-group-header">
-                            <div class="capability-group-icon">&#128241;</div>
-                            <h4>Mobile &amp; Real-Time</h4>
-                        </div>
-                        <ul class="capability-list">
-                            <li>
-                                <span class="capability-check">&#10003;</span>
-                                <div class="capability-text"><strong>Mobile App for Operations</strong><span>Native Android app for pickup agents, delivery executives, and hub staff — works offline, syncs instantly.</span></div>
-                            </li>
-                            <li>
-                                <span class="capability-check">&#10003;</span>
-                                <div class="capability-text"><strong>Real-Time Notifications</strong><span>Push, SMS, WhatsApp, and email alerts at every status change for ops, clients, and customers.</span></div>
+                            <li class="ops-item">
+                                <div class="ops-item-title">Real-Time Notifications</div>
+                                <p class="ops-item-desc">Push, SMS, WhatsApp, and email alerts at every status change for ops, clients, and customers.</p>
                             </li>
                         </ul>
                     </div>
                 </div>
 
-                <!-- Group 4: Customer & Vendor Management -->
-                <div class="col-lg-6">
-                    <div class="capability-group">
-                        <div class="capability-group-header">
-                            <div class="capability-group-icon">&#128100;</div>
-                            <h4>Customer &amp; Vendor Management</h4>
+                <!-- Customer & Vendor Management -->
+                <div class="col-lg-3 col-md-6">
+                    <div class="ops-card c-customer-card">
+                        <div class="ops-card-head">
+                            <div class="ops-card-icon c-customer"><i class="fa-solid fa-users-gear"></i></div>
+                            <div>
+                                <h3>Customer &amp; Vendor</h3>
+                                <span class="ops-card-count">4 Capabilities</span>
+                            </div>
                         </div>
-                        <ul class="capability-list">
-                            <li>
-                                <span class="capability-check">&#10003;</span>
-                                <div class="capability-text"><strong>Customer Portal Access</strong><span>Self-serve login for your B2B clients — book shipments, download invoices, view analytics 24/7.</span></div>
+                        <ul class="ops-card-list">
+                            <li class="ops-item">
+                                <div class="ops-item-title">Customer Portal Access</div>
+                                <p class="ops-item-desc">Self-serve login for B2B clients — book shipments, download invoices, view analytics 24/7.</p>
                             </li>
-                            <li>
-                                <span class="capability-check">&#10003;</span>
-                                <div class="capability-text"><strong>KYC Upload Feature</strong><span>Customers and vendors upload GST, PAN, and identity documents directly — verified and stored securely.</span></div>
+                            <li class="ops-item">
+                                <div class="ops-item-title">KYC Upload Feature</div>
+                                <p class="ops-item-desc">Customers and vendors upload GST, PAN, and identity documents — verified and stored securely.</p>
                             </li>
-                            <li>
-                                <span class="capability-check">&#10003;</span>
-                                <div class="capability-text"><strong>Customer Control Management</strong><span>Set per-client credit limits, service restrictions, rate cards, and approval workflows.</span></div>
+                            <li class="ops-item">
+                                <div class="ops-item-title">Customer Control Management</div>
+                                <p class="ops-item-desc">Set per-client credit limits, service restrictions, rate cards, and approval workflows.</p>
                             </li>
-                            <li>
-                                <span class="capability-check">&#10003;</span>
-                                <div class="capability-text"><strong>Vendor Contract Management</strong><span>Manage franchise, fleet-vendor, and DA contracts — rate cards, expiry alerts, commission tracking.</span></div>
+                            <li class="ops-item">
+                                <div class="ops-item-title">Vendor Contract Management</div>
+                                <p class="ops-item-desc">Manage franchise, fleet-vendor, and DA contracts — rate cards, expiry alerts, commission tracking.</p>
                             </li>
                         </ul>
                     </div>
                 </div>
 
-                <!-- Group 5: Admin, Reporting & Controls -->
-                <div class="col-lg-6">
-                    <div class="capability-group">
-                        <div class="capability-group-header">
-                            <div class="capability-group-icon">&#9881;</div>
-                            <h4>Admin, Reporting &amp; Controls</h4>
+                <!-- Admin, Reporting & Controls -->
+                <div class="col-lg-3 col-md-6">
+                    <div class="ops-card c-admin-card">
+                        <div class="ops-card-head">
+                            <div class="ops-card-icon c-admin"><i class="fa-solid fa-sliders"></i></div>
+                            <div>
+                                <h3>Admin &amp; Controls</h3>
+                                <span class="ops-card-count">3 Capabilities</span>
+                            </div>
                         </div>
-                        <ul class="capability-list">
-                            <li>
-                                <span class="capability-check">&#10003;</span>
-                                <div class="capability-text"><strong>Custom Report Creation</strong><span>Drag-and-drop report builder — filter by client, route, agent, date, status. Export to Excel, PDF, CSV.</span></div>
+                        <ul class="ops-card-list">
+                            <li class="ops-item">
+                                <div class="ops-item-title">Custom Report Creation</div>
+                                <p class="ops-item-desc">Drag-and-drop report builder — filter by client, route, agent, date, status. Export to Excel, PDF, CSV.</p>
                             </li>
-                            <li>
-                                <span class="capability-check">&#10003;</span>
-                                <div class="capability-text"><strong>Ticket Management</strong><span>Internal and customer-raised tickets with priority, SLA, escalation, and closure tracking.</span></div>
+                            <li class="ops-item">
+                                <div class="ops-item-title">Ticket Management</div>
+                                <p class="ops-item-desc">Internal and customer-raised tickets with priority, SLA, escalation, and closure tracking.</p>
                             </li>
-                            <li>
-                                <span class="capability-check">&#10003;</span>
-                                <div class="capability-text"><strong>User Role Management</strong><span>Granular role-based access control — limit screens, actions, and data by designation or branch.</span></div>
+                            <li class="ops-item">
+                                <div class="ops-item-title">User Role Management</div>
+                                <p class="ops-item-desc">Granular role-based access control — limit screens, actions, and data by designation or branch.</p>
                             </li>
                         </ul>
                     </div>
@@ -938,14 +1167,14 @@
 
             </div>
 
-            <div class="row mt-5">
-                <div class="col-lg-10 offset-lg-1 text-center">
-                    <p style="font-size: 0.98rem; color: #4a5569; line-height: 1.7; margin-bottom: 20px;">
-                        Every capability above is <strong>configurable to your workflow</strong>. If you run a franchise network, a single-branch operation, a B2B 3PL, or a hyperlocal fleet — we tailor rules, screens, and reports to match how your team already works.
-                    </p>
-                    <a href="../contact-us.php" class="btn btn-md btn-theme effect" style="background: #4f8ef7; color: #fff; padding: 14px 34px; border-radius: 6px; font-weight: 600; text-decoration: none; display: inline-block;">Book a Free Walkthrough of All 21 Features</a>
-                </div>
+            <!-- Bottom CTA band -->
+            <div class="ops-suite-cta">
+                <p>
+                    Every capability above is <strong>configurable to your workflow</strong>. If you run a franchise network, a single-branch operation, a B2B 3PL, or a hyperlocal fleet — we tailor rules, screens, and reports to match how your team already works.
+                </p>
+                <a href="../contact-us.php" class="btn-walkthrough">Book a Free Walkthrough of All 21 Features</a>
             </div>
+
         </div>
     </section>
     <!-- End Complete Operations Suite -->
