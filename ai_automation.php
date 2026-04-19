@@ -736,22 +736,22 @@
                     <div class="brand-carousel">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
-                                <img src="assets/img/brand/we3scs.png">
+                                <img src="assets/img/brand/we3scs.png" alt="We3SCS Client Logo">
                             </div>
                             <div class="swiper-slide">
-                                <img src="assets/img/brand/caper.png">
+                                <img src="assets/img/brand/caper.png" alt="Caper Club Client Logo">
                             </div>
                             <div class="swiper-slide">
-                                <img src="assets/img/brand/pannest.png">
+                                <img src="assets/img/brand/pannest.png" alt="Pannest Client Logo">
                             </div>
                             <div class="swiper-slide">
-                                <img src="assets/img/brand/hilift.png">
+                                <img src="assets/img/brand/hilift.png" alt="Hilift Client Logo">
                             </div>
                             <div class="swiper-slide">
-                                <img src="assets/img/brand/daakiyawala.png">
+                                <img src="assets/img/brand/daakiyawala.png" alt="Daakiyawala Client Logo">
                             </div>
                             <div class="swiper-slide">
-                                <img src="assets/img/brand/cariesco.png">
+                                <img src="assets/img/brand/cariesco.png" alt="Cariesco Client Logo">
                             </div>
                         </div>
                     </div>

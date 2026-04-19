@@ -25,12 +25,12 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="ITD GrowthLabs — India's trusted technology partner for custom app development, logistics software, web applications, and AI-powered digital solutions. 300+ projects delivered across India, USA, UK, UAE & Australia.">
+    <meta name="description" content="ITD GrowthLabs builds custom apps, logistics software, websites & AI solutions for 300+ brands across India, USA, UK, UAE & Australia. Book a free call.">
     <meta name="keywords" content="app development company India, logistics app development, custom software development, web application development, mobile app development, Flutter app development, SaaS development, AI automation, digital solutions company, ITD GrowthLabs">
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="./assets/img/favicon.png" type="image/x-icon">
     <!-- ========== Page Title ========== -->
-    <title>Custom App Development & Technology Solutions Company in India | ITD GrowthLabs</title>
+    <title>Custom App & Software Development Company | ITD GrowthLabs</title>
 
     <!-- ========== Favicon Icon ========== -->
     <?php include("./includes/header_script.php") ?>
@@ -52,17 +52,18 @@
     <link rel="canonical" href="https://itdgrowthlabs.com/" />
 
     <!-- Open Graph Tags -->
-    <meta property="og:title" content="Custom App Development & Technology Solutions Company in India | ITD GrowthLabs" />
-    <meta property="og:description" content="Leading B2B digital marketing and tech company offering website development, SEO, content writing, social media, video, and WhatsApp automation." />
+    <meta property="og:title" content="Custom App & Software Development Company | ITD GrowthLabs" />
+    <meta property="og:description" content="Custom apps, logistics software, websites & AI solutions for 300+ brands across India, USA, UK, UAE & Australia. Book a free strategy call today." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://itdgrowthlabs.com/" />
     <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <meta property="og:image:alt" content="ITD GrowthLabs - Custom App and Software Development Company" />
     <meta property="og:site_name" content="ITD GrowthLabs" />
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Custom App Development & Technology Solutions Company in India | ITD GrowthLabs" />
-    <meta name="twitter:description" content="Leading B2B digital marketing and tech company offering website development, SEO, content writing, social media, video, and WhatsApp automation." />
+    <meta name="twitter:title" content="Custom App & Software Development Company | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Custom apps, logistics software, websites & AI solutions for 300+ brands across India, USA, UK, UAE & Australia. Book a free strategy call today." />
     <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
 
     <!-- Schema.org Organization -->
@@ -480,7 +481,7 @@
                                     <img src="assets/img/brand/3.png" alt="ITD GrowthLabs Client">
                                 </div>
                                 <!-- <div class="swiper-slide">
-                                <img src="assets/img/brand/12.png">
+                                <img src="assets/img/brand/12.png" alt="12 Client Logo">
                             </div> -->
                                 <div class="swiper-slide">
                                     <img src="assets/img/brand/4.png" alt="ITD GrowthLabs Client">

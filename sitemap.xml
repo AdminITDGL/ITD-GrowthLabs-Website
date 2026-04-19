@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://itdgrowthlabs.com/</loc>
-    <lastmod>2026-04-02</lastmod>
+    <lastmod>2026-04-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.00</priority>
   </url>
@@ -13,32 +13,38 @@
     <priority>0.80</priority>
   </url>
   <url>
+    <loc>https://itdgrowthlabs.com/pricing.php</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>https://itdgrowthlabs.com/digital_marketing.php</loc>
-    <lastmod>2026-04-02</lastmod>
+    <lastmod>2026-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.90</priority>
   </url>
   <url>
     <loc>https://itdgrowthlabs.com/website_development.php</loc>
-    <lastmod>2026-04-02</lastmod>
+    <lastmod>2026-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.90</priority>
   </url>
   <url>
     <loc>https://itdgrowthlabs.com/app_development.php</loc>
-    <lastmod>2026-04-02</lastmod>
+    <lastmod>2026-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.90</priority>
   </url>
   <url>
     <loc>https://itdgrowthlabs.com/content_marketing.php</loc>
-    <lastmod>2026-04-02</lastmod>
+    <lastmod>2026-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://itdgrowthlabs.com/ai_automation.php</loc>
-    <lastmod>2026-04-02</lastmod>
+    <lastmod>2026-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
@@ -230,7 +236,7 @@
   </url>
   <url>
     <loc>https://itdgrowthlabs.com/industries/logistics.php</loc>
-    <lastmod>2026-04-02</lastmod>
+    <lastmod>2026-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
@@ -260,7 +266,7 @@
   </url>
   <url>
     <loc>https://itdgrowthlabs.com/services/App-Development.php</loc>
-    <lastmod>2026-04-02</lastmod>
+    <lastmod>2026-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.70</priority>
   </url>
@@ -4437,13 +4443,13 @@
 
   <url>
     <loc>https://itdgrowthlabs.com/products/courier-management-software.php</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://itdgrowthlabs.com/products/logistics-mobile-app.php</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>

@@ -25,7 +25,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Custom Android app development for businesses. ITD GrowthLabs builds scalable, secure Android apps with native performance for startups and enterprises.">
-    <title>Android App Development Services | ITD GrowthLabs</title>
+    <title>Android App Development Company in India | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
@@ -704,22 +704,22 @@
                     <div class="brand-carousel">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
-                                <img src="../assets/img/brand/we3scs.png">
+                                <img src="../assets/img/brand/we3scs.png" alt="We3SCS Client Logo">
                             </div>
                             <div class="swiper-slide">
-                                <img src="../assets/img/brand/caper.png">
+                                <img src="../assets/img/brand/caper.png" alt="Caper Club Client Logo">
                             </div>
                             <div class="swiper-slide">
-                                <img src="../assets/img/brand/pannest.png">
+                                <img src="../assets/img/brand/pannest.png" alt="Pannest Client Logo">
                             </div>
                             <div class="swiper-slide">
-                                <img src="../assets/img/brand/hilift.png">
+                                <img src="../assets/img/brand/hilift.png" alt="Hilift Client Logo">
                             </div>
                             <div class="swiper-slide">
-                                <img src="../assets/img/brand/daakiyawala.png">
+                                <img src="../assets/img/brand/daakiyawala.png" alt="Daakiyawala Client Logo">
                             </div>
                             <div class="swiper-slide">
-                                <img src="../assets/img/brand/cariesco.png">
+                                <img src="../assets/img/brand/cariesco.png" alt="Cariesco Client Logo">
                             </div>
                         </div>
                     </div>

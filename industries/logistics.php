@@ -26,7 +26,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <base href="../">
     <meta name="description" content="Logistics app development company with proven case studies — courier booking apps, fleet management systems, delivery tracking platforms & warehouse management software. 5,000+ daily bookings achieved.">
-    <title>Logistics App Development Company India | Courier & Fleet Management Apps | ITD GrowthLabs</title>
+    <title>Logistics App Development Company India | ITD GrowthLabs</title>
     <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
@@ -785,22 +785,22 @@
                     <div class="brand-carousel">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
-                                <img src="assets/img/brand/we3scs.png">
+                                <img src="assets/img/brand/we3scs.png" alt="We3SCS Client Logo">
                             </div>
                             <div class="swiper-slide">
-                                <img src="assets/img/brand/caper.png">
+                                <img src="assets/img/brand/caper.png" alt="Caper Club Client Logo">
                             </div>
                             <div class="swiper-slide">
-                                <img src="assets/img/brand/pannest.png">
+                                <img src="assets/img/brand/pannest.png" alt="Pannest Client Logo">
                             </div>
                             <div class="swiper-slide">
-                                <img src="assets/img/brand/hilift.png">
+                                <img src="assets/img/brand/hilift.png" alt="Hilift Client Logo">
                             </div>
                             <div class="swiper-slide">
-                                <img src="assets/img/brand/daakiyawala.png">
+                                <img src="assets/img/brand/daakiyawala.png" alt="Daakiyawala Client Logo">
                             </div>
                             <div class="swiper-slide">
-                                <img src="assets/img/brand/cariesco.png">
+                                <img src="assets/img/brand/cariesco.png" alt="Cariesco Client Logo">
                             </div>
                         </div>
                     </div>
