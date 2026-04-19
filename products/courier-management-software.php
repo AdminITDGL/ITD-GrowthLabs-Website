@@ -24,7 +24,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Courier management software for logistics companies in India, UAE, Africa, USA & UK. Order tracking, COD reconciliation, dispatch, POD — built for 200+ courier businesses.">
+    <meta name="description" content="Courier management software with 21+ features — pickup, hub scanning, manifest, run sheets, billing, KYC, track & trace. Used by 200+ logistics brands.">
     <title>Courier Management Software for Logistics Companies | ITD GrowthLabs</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/products/courier-management-software.php">
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
@@ -64,9 +64,33 @@
       "@context": "https://schema.org",
       "@type": "SoftwareApplication",
       "name": "ITD Courier Management Software",
-      "description": "Complete courier management platform for logistics businesses — order management, real-time tracking, COD reconciliation, POD, and customer notifications.",
+      "description": "End-to-end courier and logistics management platform with 21+ capabilities including pickup scheduling, hub scanning, manifest creation, run sheet management, track & trace, customer portal, billing, invoicing, ledger posting, KYC, barcode and label generation.",
       "applicationCategory": "BusinessApplication",
+      "applicationSubCategory": "LogisticsSoftware",
       "operatingSystem": "Web, Android, iOS",
+      "featureList": [
+        "Pickup Scheduling",
+        "Inbound Hub Scanning",
+        "Outgoing Manifest Creation",
+        "Branch-to-Hub Transfer Management",
+        "Delivery Run Sheet Management",
+        "Delivery Status Updates",
+        "Mobile App for Operations",
+        "Custom Report Creation",
+        "Ticket Management",
+        "Customized Billing & Invoicing",
+        "Credit/Debit Note Generation",
+        "Automatic Ledger Posting",
+        "Customer Portal Access",
+        "KYC Upload Feature",
+        "User Role Management",
+        "Barcode Generation",
+        "Real-Time Notifications",
+        "Track & Trace Services",
+        "Vendor Contract Management",
+        "Customer Control Management",
+        "Label Creation"
+      ],
       "provider": {
         "@type": "Organization",
         "name": "ITD GrowthLabs",
@@ -287,6 +311,92 @@
             color: #555;
             margin: 0;
             line-height: 1.65;
+        }
+
+        /* Complete Operations Suite — Capability Groups */
+        .capability-group {
+            background: #fff;
+            border: 1px solid #e8edf4;
+            border-radius: 14px;
+            padding: 30px 28px;
+            margin-bottom: 24px;
+            height: 100%;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.03);
+            transition: box-shadow 0.25s, transform 0.25s;
+        }
+
+        .capability-group:hover {
+            box-shadow: 0 10px 36px rgba(79,142,247,0.10);
+            transform: translateY(-2px);
+        }
+
+        .capability-group-header {
+            display: flex;
+            align-items: center;
+            gap: 14px;
+            margin-bottom: 20px;
+            padding-bottom: 16px;
+            border-bottom: 2px solid #eef3fb;
+        }
+
+        .capability-group-icon {
+            width: 46px;
+            height: 46px;
+            border-radius: 10px;
+            background: linear-gradient(135deg, #4f8ef7 0%, #7cb2ff 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.4rem;
+            flex-shrink: 0;
+        }
+
+        .capability-group h4 {
+            font-size: 1.15rem;
+            font-weight: 700;
+            color: #1a2a40;
+            margin: 0;
+        }
+
+        .capability-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .capability-list li {
+            display: flex;
+            gap: 12px;
+            padding: 10px 0;
+            border-bottom: 1px dashed #eef3fb;
+        }
+
+        .capability-list li:last-child {
+            border-bottom: none;
+            padding-bottom: 0;
+        }
+
+        .capability-check {
+            color: #28a745;
+            font-weight: 700;
+            font-size: 1rem;
+            line-height: 1.5;
+            flex-shrink: 0;
+            width: 18px;
+        }
+
+        .capability-text strong {
+            display: block;
+            font-size: 0.95rem;
+            color: #1a2a40;
+            font-weight: 700;
+            margin-bottom: 2px;
+        }
+
+        .capability-text span {
+            font-size: 0.85rem;
+            color: #5d6b80;
+            line-height: 1.55;
         }
 
         /* How It Works Steps */
@@ -664,6 +774,181 @@
         </div>
     </section>
     <!-- End Features -->
+
+    <!-- =============================================
+         Section 3b — Complete Operations Suite (21 capabilities)
+    ============================================= -->
+    <section id="operations-suite" style="background: #f4f8fe; padding: 90px 0;">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-9 offset-lg-1 text-center">
+                    <div class="site-heading mb-50">
+                        <h5 class="sub-title">Complete Operations Suite</h5>
+                        <h2 class="title">Every Capability Your Courier &amp; Logistics Business Needs — Built In</h2>
+                        <p style="font-size: 1rem; color: #4a5569; max-width: 820px; margin: 18px auto 0; line-height: 1.7;">
+                            Our Courier Management Software ships with <strong>21+ production-grade capabilities</strong> used every day by regional couriers, e-commerce fulfilment teams, and last-mile delivery operators. Nothing bolted on, nothing extra to buy — every feature below is part of the platform from day one.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row g-4">
+
+                <!-- Group 1: Operations & Fulfilment -->
+                <div class="col-lg-6">
+                    <div class="capability-group">
+                        <div class="capability-group-header">
+                            <div class="capability-group-icon">&#128230;</div>
+                            <h4>Operations &amp; Fulfilment</h4>
+                        </div>
+                        <ul class="capability-list">
+                            <li>
+                                <span class="capability-check">&#10003;</span>
+                                <div class="capability-text"><strong>Pickup Scheduling</strong><span>Schedule single or recurring pickups by client, location, or time-slot — auto-assigned to the right agent.</span></div>
+                            </li>
+                            <li>
+                                <span class="capability-check">&#10003;</span>
+                                <div class="capability-text"><strong>Inbound Hub Scanning</strong><span>Scan every parcel into the hub on arrival with barcode validation, exception flagging, and audit trail.</span></div>
+                            </li>
+                            <li>
+                                <span class="capability-check">&#10003;</span>
+                                <div class="capability-text"><strong>Outgoing Manifest Creation</strong><span>Generate printable manifests for every outbound vehicle or route in a single click, fully compliant.</span></div>
+                            </li>
+                            <li>
+                                <span class="capability-check">&#10003;</span>
+                                <div class="capability-text"><strong>Branch-to-Hub Transfer Management</strong><span>Move consignments between branches and hubs with live visibility and chain-of-custody tracking.</span></div>
+                            </li>
+                            <li>
+                                <span class="capability-check">&#10003;</span>
+                                <div class="capability-text"><strong>Delivery Run Sheet Management</strong><span>Create, assign, and close run sheets for each field agent — with sequence optimisation and proof capture.</span></div>
+                            </li>
+                            <li>
+                                <span class="capability-check">&#10003;</span>
+                                <div class="capability-text"><strong>Delivery Status Updates</strong><span>Status transitions at every stage — picked up, in-transit, out-for-delivery, delivered, RTO — logged automatically.</span></div>
+                            </li>
+                            <li>
+                                <span class="capability-check">&#10003;</span>
+                                <div class="capability-text"><strong>Track &amp; Trace Services</strong><span>End-to-end parcel tracking for ops, clients, and end-customers via web, SMS, WhatsApp, and API.</span></div>
+                            </li>
+                            <li>
+                                <span class="capability-check">&#10003;</span>
+                                <div class="capability-text"><strong>Barcode Generation</strong><span>Unique scannable barcodes for every consignment, supporting Code 128, QR, and custom formats.</span></div>
+                            </li>
+                            <li>
+                                <span class="capability-check">&#10003;</span>
+                                <div class="capability-text"><strong>Label Creation</strong><span>Print-ready shipping labels with your brand, client logo, route code, barcode, and delivery address.</span></div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Group 2: Finance & Billing -->
+                <div class="col-lg-6">
+                    <div class="capability-group">
+                        <div class="capability-group-header">
+                            <div class="capability-group-icon">&#128181;</div>
+                            <h4>Finance &amp; Billing</h4>
+                        </div>
+                        <ul class="capability-list">
+                            <li>
+                                <span class="capability-check">&#10003;</span>
+                                <div class="capability-text"><strong>Customised Billing &amp; Invoicing</strong><span>Rule-based billing for every client — slab rates, fuel surcharges, volumetric weight, COD charges — auto-applied.</span></div>
+                            </li>
+                            <li>
+                                <span class="capability-check">&#10003;</span>
+                                <div class="capability-text"><strong>Credit / Debit Note Generation</strong><span>Issue credit and debit notes against invoices with full GST compliance and digital signatures.</span></div>
+                            </li>
+                            <li>
+                                <span class="capability-check">&#10003;</span>
+                                <div class="capability-text"><strong>Automatic Ledger Posting</strong><span>Every transaction posts automatically to the correct client and vendor ledger — no double-entry work.</span></div>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <!-- Group 3: Mobile & Real-Time -->
+                    <div class="capability-group">
+                        <div class="capability-group-header">
+                            <div class="capability-group-icon">&#128241;</div>
+                            <h4>Mobile &amp; Real-Time</h4>
+                        </div>
+                        <ul class="capability-list">
+                            <li>
+                                <span class="capability-check">&#10003;</span>
+                                <div class="capability-text"><strong>Mobile App for Operations</strong><span>Native Android app for pickup agents, delivery executives, and hub staff — works offline, syncs instantly.</span></div>
+                            </li>
+                            <li>
+                                <span class="capability-check">&#10003;</span>
+                                <div class="capability-text"><strong>Real-Time Notifications</strong><span>Push, SMS, WhatsApp, and email alerts at every status change for ops, clients, and customers.</span></div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Group 4: Customer & Vendor Management -->
+                <div class="col-lg-6">
+                    <div class="capability-group">
+                        <div class="capability-group-header">
+                            <div class="capability-group-icon">&#128100;</div>
+                            <h4>Customer &amp; Vendor Management</h4>
+                        </div>
+                        <ul class="capability-list">
+                            <li>
+                                <span class="capability-check">&#10003;</span>
+                                <div class="capability-text"><strong>Customer Portal Access</strong><span>Self-serve login for your B2B clients — book shipments, download invoices, view analytics 24/7.</span></div>
+                            </li>
+                            <li>
+                                <span class="capability-check">&#10003;</span>
+                                <div class="capability-text"><strong>KYC Upload Feature</strong><span>Customers and vendors upload GST, PAN, and identity documents directly — verified and stored securely.</span></div>
+                            </li>
+                            <li>
+                                <span class="capability-check">&#10003;</span>
+                                <div class="capability-text"><strong>Customer Control Management</strong><span>Set per-client credit limits, service restrictions, rate cards, and approval workflows.</span></div>
+                            </li>
+                            <li>
+                                <span class="capability-check">&#10003;</span>
+                                <div class="capability-text"><strong>Vendor Contract Management</strong><span>Manage franchise, fleet-vendor, and DA contracts — rate cards, expiry alerts, commission tracking.</span></div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Group 5: Admin, Reporting & Controls -->
+                <div class="col-lg-6">
+                    <div class="capability-group">
+                        <div class="capability-group-header">
+                            <div class="capability-group-icon">&#9881;</div>
+                            <h4>Admin, Reporting &amp; Controls</h4>
+                        </div>
+                        <ul class="capability-list">
+                            <li>
+                                <span class="capability-check">&#10003;</span>
+                                <div class="capability-text"><strong>Custom Report Creation</strong><span>Drag-and-drop report builder — filter by client, route, agent, date, status. Export to Excel, PDF, CSV.</span></div>
+                            </li>
+                            <li>
+                                <span class="capability-check">&#10003;</span>
+                                <div class="capability-text"><strong>Ticket Management</strong><span>Internal and customer-raised tickets with priority, SLA, escalation, and closure tracking.</span></div>
+                            </li>
+                            <li>
+                                <span class="capability-check">&#10003;</span>
+                                <div class="capability-text"><strong>User Role Management</strong><span>Granular role-based access control — limit screens, actions, and data by designation or branch.</span></div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="row mt-5">
+                <div class="col-lg-10 offset-lg-1 text-center">
+                    <p style="font-size: 0.98rem; color: #4a5569; line-height: 1.7; margin-bottom: 20px;">
+                        Every capability above is <strong>configurable to your workflow</strong>. If you run a franchise network, a single-branch operation, a B2B 3PL, or a hyperlocal fleet — we tailor rules, screens, and reports to match how your team already works.
+                    </p>
+                    <a href="../contact-us.php" class="btn btn-md btn-theme effect" style="background: #4f8ef7; color: #fff; padding: 14px 34px; border-radius: 6px; font-weight: 600; text-decoration: none; display: inline-block;">Book a Free Walkthrough of All 21 Features</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Complete Operations Suite -->
 
     <!-- =============================================
          Section 4 — Who It's For
