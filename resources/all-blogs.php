@@ -117,6 +117,121 @@
                                     </li>
                                 </ul>
                             </div>
+                            <h3 class="post-title"><a href="../resources/Website_Development_for_Logistics_and_Courier_Companies.php">Website Development for Logistics and Courier Companies — Lead Gen Playbook</a></h3>
+                            <a href="../resources/Website_Development_for_Logistics_and_Courier_Companies.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">ITD GrowthLabs</a>
+                                    </li>
+                                    <li>
+                                        April 2026
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/How_to_Write_Whitepapers_That_Convert_Your_Ultimate_Guide.php">How to Write Whitepapers That Convert — Your Ultimate Guide</a></h3>
+                            <a href="../resources/How_to_Write_Whitepapers_That_Convert_Your_Ultimate_Guide.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">ITD GrowthLabs</a>
+                                    </li>
+                                    <li>
+                                        April 2026
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/The_Power_of_Video_Why_It_Dominating_the_Future_of_Digital_Marketing.php">The Power of Video — Why It's Dominating the Future of Digital Marketing</a></h3>
+                            <a href="../resources/The_Power_of_Video_Why_It_Dominating_the_Future_of_Digital_Marketing.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">ITD GrowthLabs</a>
+                                    </li>
+                                    <li>
+                                        April 2026
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Mastering_Technical_Writing_B2B_Success_Stories_with_Impact..php">Mastering Technical Writing — B2B Success Stories with Impact</a></h3>
+                            <a href="../resources/Mastering_Technical_Writing_B2B_Success_Stories_with_Impact..php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">ITD GrowthLabs</a>
+                                    </li>
+                                    <li>
+                                        April 2026
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/eLearning_Best_Practices_for_Effective_Content_Development.php">eLearning Best Practices for Effective Content Development</a></h3>
+                            <a href="../resources/eLearning_Best_Practices_for_Effective_Content_Development.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">ITD GrowthLabs</a>
+                                    </li>
+                                    <li>
+                                        April 2026
+                                    </li>
+                                </ul>
+                            </div>
                             <h3 class="post-title"><a href="../resources/Logistics_App_Development_Cost_in_India_2026.php">Logistics App Development Cost in India 2026 — Complete Pricing Guide</a></h3>
                             <a href="../resources/Logistics_App_Development_Cost_in_India_2026.php" class="button-regular">
                                 Continue Reading <i class="fas fa-arrow-right"></i>
@@ -4297,9 +4412,9 @@
                                     </li>
                                 </ul>
                             </div>
-                            <h3 class="post-title"><a href="../resources/How_to_Create_Compliant_Content_for_Effective_eLearning.php">Microlearning in Corporate Training: Bite-Sized Learning That Works
+                            <h3 class="post-title"><a href="../resources/Microlearning_in_Corporate_Sized_Learning_That_Works.php">Microlearning in Corporate Training: Bite-Sized Learning That Works
                                 </a></h3>
-                            <a href="../resources/How_to_Create_Compliant_Content_for_Effective_eLearning.php" class="button-regular">
+                            <a href="../resources/Microlearning_in_Corporate_Sized_Learning_That_Works.php" class="button-regular">
                                 Continue Reading <i class="fas fa-arrow-right"></i>
                             </a>
                         </div>
