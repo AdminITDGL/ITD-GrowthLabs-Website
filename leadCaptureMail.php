@@ -11,13 +11,16 @@ require_once __DIR__ . '/includes/email_templates.php';
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
-    // Centralised bot / spam protection (honeypot + timestamp + content filter + rate-limit)
-    itdgl_verify_submission();
+    $source = isset($_POST['source']) ? htmlspecialchars($_POST['source']) : 'unknown';
+    $isNewsletter = ($source === 'newsletter_bar');
+
+    // Centralised bot / spam protection (honeypot + timestamp + content filter + rate-limit).
+    // Newsletter signups also get dedupe to block dot-abuse bot farms.
+    itdgl_verify_submission($isNewsletter ? ['dedupe' => true] : []);
 
     $name   = isset($_POST['name'])   ? htmlspecialchars($_POST['name'])                   : '';
     $email  = isset($_POST['email'])  ? filter_var($_POST['email'], FILTER_SANITIZE_EMAIL) : '';
     $mobile = isset($_POST['mobile']) ? htmlspecialchars($_POST['mobile'])                 : '';
-    $source = isset($_POST['source']) ? htmlspecialchars($_POST['source'])                 : 'unknown';
 
     if (empty($email) || !filter_var($email, FILTER_VALIDATE_EMAIL)) {
         echo json_encode(['status' => 'error', 'message' => 'Invalid email']);
@@ -27,14 +30,43 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     echo json_encode(['status' => 'success']);
     if (function_exists('fastcgi_finish_request')) fastcgi_finish_request();
 
-    $isDownload   = ($source === 'popup_profile_download');
-    $isNewsletter = ($source === 'newsletter_bar');
+    $isDownload = ($source === 'popup_profile_download');
 
     $sourceLabel = 'Unknown';
-    if ($isDownload)   $sourceLabel = 'Company Profile Download (Popup)';
+    if ($isDownload)       $sourceLabel = 'Company Profile Download (Popup)';
     elseif ($isNewsletter) $sourceLabel = 'Newsletter Subscription';
-    else $sourceLabel = ucwords(str_replace('_', ' ', $source));
+    else                   $sourceLabel = ucwords(str_replace('_', ' ', $source));
 
+    // ── Newsletter signups: log silently, DO NOT email the team ─────────────
+    // Prior behavior flooded the team inbox with bot signups. Newsletter subs
+    // now go to a dated CSV outside the web root that ops can pull via SSH.
+    // Location: sys_get_temp_dir()/itdgl_newsletter/subscribers_YYYY-MM.csv
+    if ($isNewsletter) {
+        try {
+            $logDir = sys_get_temp_dir() . DIRECTORY_SEPARATOR . 'itdgl_newsletter';
+            if (!is_dir($logDir)) @mkdir($logDir, 0755, true);
+            $csv = $logDir . DIRECTORY_SEPARATOR . 'subscribers_' . date('Y-m') . '.csv';
+            $isNew = !is_file($csv);
+            $fh = @fopen($csv, 'a');
+            if ($fh) {
+                if ($isNew) fputcsv($fh, ['timestamp_iso', 'email', 'name', 'ip', 'user_agent', 'referer']);
+                fputcsv($fh, [
+                    date('c'),
+                    $email,
+                    $name,
+                    itdgl_client_ip(),
+                    substr($_SERVER['HTTP_USER_AGENT'] ?? '', 0, 200),
+                    substr($_SERVER['HTTP_REFERER']    ?? '', 0, 200),
+                ]);
+                fclose($fh);
+            }
+        } catch (Exception $e) {
+            error_log("Newsletter log error: " . $e->getMessage());
+        }
+        exit;  // Done — no team email, no user confirmation (newsletter subs were already confirmed in UI)
+    }
+
+    // ── Real leads (download / contact / etc): email the team as before ─────
     try {
         $mail = new PHPMailer(true);
         $mail->isSMTP();
@@ -60,8 +92,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         );
         $mail->send();
 
-        // ── 2. Confirmation email to the user (skip for newsletter-only) ──
-        if (!empty($email) && !$isNewsletter) {
+        // ── 2. Confirmation email to the user ──
+        if (!empty($email)) {
             $mail->clearAddresses();
             $mail->clearReplyTos();
             $mail->addAddress($email, $name);
