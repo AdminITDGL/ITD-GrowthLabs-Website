@@ -101,18 +101,101 @@ if (!function_exists('itdgl_content_filter')) {
             }
         }
 
-        // 3. Email: block disposable / obviously fake
+        // 3. Email: block disposable / obviously fake / bot-pattern
         if (!empty($_POST['email'])) {
             $email = strtolower(trim((string)$_POST['email']));
             if (!filter_var($email, FILTER_VALIDATE_EMAIL)) itdgl_spam_fail('invalid_email');
             $badDomains = [
+                // Classic throwaway
                 'mailinator.com', 'tempmail.com', 'guerrillamail.com', '10minutemail.com',
                 'throwawaymail.com', 'yopmail.com', 'trashmail.com', 'sharklasers.com',
                 'getnada.com', 'fakeinbox.com', 'dispostable.com', 'mintemail.com',
+                // Extended set — frequent bot sources
+                'tempmailo.com', 'tempr.email', 'tempinbox.com', 'temp-mail.org',
+                'maildrop.cc', 'mailnesia.com', 'mytemp.email', 'mohmal.com',
+                'mailnator.com', 'spambox.us', 'trbvm.com', 'emailondeck.com',
+                'tempmail.net', 'tempmail.plus', 'tempmails.net', 'burnermail.io',
+                'mail7.io', 'mail.tm', 'getairmail.com', 'sendmail.pro',
+                'tempm.com', 'onemail.host', 'wegwerfmail.de', 'trashmail.de',
+                'nowmymail.com', 'yopmail.fr', 'grr.la', 'guerrillamail.net',
+                'spam4.me', 'mail-temp.com', 'emailfake.com', 'disposable.email',
+                'throwaway.email', 'tempmailaddress.com', 'anonymail.com', 'tempail.com',
             ];
             $domain = substr(strrchr($email, '@'), 1);
             if (in_array($domain, $badDomains, true)) itdgl_spam_fail('disposable_email');
+
+            // Bot-pattern Gmail detection: gmail normalizes dots + strips +tags.
+            // Legitimate Gmail addresses rarely have 4+ dots in local part; bots use dot-abuse
+            // to generate unlimited unique-looking aliases from the same mailbox.
+            // Pattern like "e.loh.ac.emo.017@gmail.com" is a dead giveaway.
+            if ($domain === 'gmail.com' || $domain === 'googlemail.com') {
+                $local = substr($email, 0, strpos($email, '@'));
+                $dotCount = substr_count($local, '.');
+                // 4+ dots = bot pattern
+                if ($dotCount >= 4) {
+                    itdgl_spam_fail('gmail_dot_abuse (' . $dotCount . ' dots in local part)');
+                }
+                // Short segments between dots + digit suffix is another classic bot signature
+                // e.g., "a.b.c.d.123@gmail.com" or "x.y.z.42@gmail.com"
+                if ($dotCount >= 3 && preg_match('/\.\d{2,}$/', $local)) {
+                    itdgl_spam_fail('gmail_bot_pattern (dots+digit-suffix)');
+                }
+            }
         }
+    }
+}
+
+if (!function_exists('itdgl_normalize_email')) {
+    /**
+     * Normalize an email for dedupe. Gmail ignores dots and +tags in local part.
+     * "e.loh.ac.emo.017@gmail.com" → "elohacemo017@gmail.com"
+     * "foo+anything@gmail.com" → "foo@gmail.com"
+     */
+    function itdgl_normalize_email(string $email): string {
+        $email = strtolower(trim($email));
+        $at = strrpos($email, '@');
+        if ($at === false) return $email;
+        $local  = substr($email, 0, $at);
+        $domain = substr($email, $at + 1);
+        // Strip +tag from all providers
+        $plus = strpos($local, '+');
+        if ($plus !== false) $local = substr($local, 0, $plus);
+        // Gmail/Googlemail: drop dots and treat googlemail.com == gmail.com
+        if ($domain === 'gmail.com' || $domain === 'googlemail.com') {
+            $local = str_replace('.', '', $local);
+            $domain = 'gmail.com';
+        }
+        return $local . '@' . $domain;
+    }
+}
+
+if (!function_exists('itdgl_email_dedupe_check')) {
+    /**
+     * Reject repeat signups from the same normalized mailbox within a window.
+     * Stores normalized emails in a rolling log; blocks duplicates within $windowSeconds.
+     */
+    function itdgl_email_dedupe_check(string $email, int $windowSeconds = 604800): void {
+        $norm = itdgl_normalize_email($email);
+        $dir = sys_get_temp_dir() . DIRECTORY_SEPARATOR . 'itdgl_emails';
+        if (!is_dir($dir)) @mkdir($dir, 0755, true);
+        $file = $dir . DIRECTORY_SEPARATOR . 'seen_' . date('Y-W') . '.log';
+
+        $now = time();
+        $seen = false;
+        if (is_file($file)) {
+            $raw = @file_get_contents($file);
+            if ($raw) {
+                foreach (explode("\n", trim($raw)) as $line) {
+                    $parts = explode("\t", $line, 2);
+                    if (count($parts) !== 2) continue;
+                    $t = (int)$parts[0];
+                    if (($now - $t) > $windowSeconds) continue;
+                    if ($parts[1] === $norm) { $seen = true; break; }
+                }
+            }
+        }
+        if ($seen) itdgl_spam_fail('duplicate_email (normalized=' . $norm . ')');
+        @file_put_contents($file, $now . "\t" . $norm . "\n", FILE_APPEND | LOCK_EX);
     }
 }
 
@@ -129,7 +212,9 @@ if (!function_exists('itdgl_timestamp_check')) {
     function itdgl_timestamp_check(int $minSeconds = 3, int $maxSeconds = 7200): void {
         // `form_ts` is rendered into the form as the unix timestamp the form was served.
         // Humans take ≥ 3s to fill a form; bots submit instantly.
-        if (empty($_POST['form_ts'])) return;   // tolerate missing (older cached forms)
+        // All our JS injects form_ts automatically; missing means either a bot posting
+        // direct to the handler or an ancient cached page — either way, suspicious.
+        if (empty($_POST['form_ts'])) itdgl_spam_fail('missing_form_ts');
         $ts = (int)$_POST['form_ts'];
         if ($ts <= 0) itdgl_spam_fail('invalid_form_ts');
         $age = time() - $ts;
@@ -141,11 +226,15 @@ if (!function_exists('itdgl_timestamp_check')) {
 if (!function_exists('itdgl_verify_submission')) {
     /**
      * Run all spam checks. Exits with JSON error on failure.
+     * Pass $opts['dedupe' => true] to also reject repeat signups from the same mailbox.
      */
-    function itdgl_verify_submission(): void {
+    function itdgl_verify_submission(array $opts = []): void {
         itdgl_honeypot_check();
         itdgl_timestamp_check();
         itdgl_content_filter();
         itdgl_rate_limit_check();
+        if (!empty($opts['dedupe']) && !empty($_POST['email'])) {
+            itdgl_email_dedupe_check((string)$_POST['email']);
+        }
     }
 }
