@@ -24,8 +24,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Explore real project results from ITD GrowthLabs. Our case studies showcase proven outcomes in app development, logistics platforms, SaaS solutions, and marketplace applications across India, USA, UK, UAE & Australia.">
-    <title>Case Studies — Real Project Results | ITD GrowthLabs</title>
+    <meta name="description" content="Real logistics app & SaaS case studies: 5,000+ daily bookings, 50,000+ monthly shipments, 70% manual work cut. See our courier, fleet, marketplace & CMS builds.">
+    <title>Logistics App & Courier Software Case Studies | ITD GrowthLabs</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/case-studies.php">
     <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
 
@@ -38,12 +38,16 @@
     <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/case-studies.php">
 
     <!-- Open Graph Tags -->
-    <meta property="og:title" content="Case Studies — Real Project Results | ITD GrowthLabs">
-    <meta property="og:description" content="Explore real project results from ITD GrowthLabs. Proven outcomes in app development, logistics platforms, SaaS solutions, and marketplace applications.">
+    <meta property="og:title" content="Logistics App & Courier Software Case Studies | ITD GrowthLabs">
+    <meta property="og:description" content="Real results: 5,000+ daily bookings, 50,000+ monthly shipments, 70% manual work cut. Explore courier, fleet, marketplace & CMS builds by ITD GrowthLabs.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://itdgrowthlabs.com/case-studies.php">
-    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/favicon.png">
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg">
+    <meta property="og:image:alt" content="ITD GrowthLabs logistics case studies">
     <meta property="og:site_name" content="ITD GrowthLabs">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Logistics App & Courier Software Case Studies | ITD GrowthLabs">
+    <meta name="twitter:description" content="Real results: 5,000+ daily bookings, 50,000+ monthly shipments, 70% manual work cut. See our logistics builds.">
 
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
@@ -80,16 +84,18 @@
     {
         "@context": "https://schema.org",
         "@type": "CollectionPage",
-        "name": "Case Studies — Real Project Results",
-        "description": "Explore real project results from ITD GrowthLabs. Our case studies showcase proven outcomes in app development, logistics platforms, SaaS solutions, and marketplace applications.",
+        "name": "Logistics App & Courier Software Case Studies",
+        "description": "Real project results from ITD GrowthLabs across logistics app development, courier management software, multi-vendor marketplaces, and SaaS platforms.",
         "url": "https://itdgrowthlabs.com/case-studies.php",
+        "inLanguage": "en",
+        "isPartOf": { "@type": "WebSite", "name": "ITD GrowthLabs", "url": "https://itdgrowthlabs.com" },
         "publisher": {
             "@type": "Organization",
             "name": "ITD GrowthLabs",
             "url": "https://itdgrowthlabs.com",
             "logo": {
                 "@type": "ImageObject",
-                "url": "https://itdgrowthlabs.com/assets/img/favicon.png"
+                "url": "https://itdgrowthlabs.com/assets/img/logo.jpg"
             },
             "address": {
                 "@type": "PostalAddress",
@@ -98,41 +104,115 @@
                 "addressCountry": "IN"
             }
         },
+        "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/" },
+                { "@type": "ListItem", "position": 2, "name": "Case Studies", "item": "https://itdgrowthlabs.com/case-studies.php" }
+            ]
+        },
         "mainEntity": {
             "@type": "ItemList",
+            "numberOfItems": 5,
             "itemListElement": [
                 {
-                    "@type": "ListItem",
+                    "@type": "CreativeWork",
                     "position": 1,
                     "name": "On-Demand Courier Booking & Delivery Application",
-                    "description": "Built a full-stack on-demand courier app achieving 5,000+ daily bookings within 6 months."
+                    "description": "Full-stack on-demand courier app with customer app, driver app, and admin dashboard — reached 5,000+ daily bookings and 200+ courier partners within 6 months.",
+                    "about": "Logistics app development",
+                    "url": "https://itdgrowthlabs.com/case-studies/on-demand-courier-booking-app.php"
                 },
                 {
-                    "@type": "ListItem",
+                    "@type": "CreativeWork",
                     "position": 2,
                     "name": "Online Fish Delivery & Marketplace Application",
-                    "description": "Multi-vendor marketplace app reaching 15,000+ registered customers in 4 months."
+                    "description": "Multi-vendor hyperlocal marketplace connecting customers to local fish markets — 15,000+ registered customers and 800+ daily peak orders in 4 months.",
+                    "about": "Hyperlocal marketplace development"
                 },
                 {
-                    "@type": "ListItem",
+                    "@type": "CreativeWork",
                     "position": 3,
-                    "name": "Smart Logistics Platform — Rate Comparison, Booking & Delivery Management",
-                    "description": "SaaS logistics platform processing 50,000+ shipments monthly with 20% cost savings."
+                    "name": "Smart Logistics SaaS Platform",
+                    "description": "Multi-carrier rate comparison and end-to-end shipment management SaaS with 15+ carrier integrations — processes 50,000+ shipments monthly with 20% average cost savings.",
+                    "about": "Logistics SaaS platform",
+                    "url": "https://itdgrowthlabs.com/case-studies/smart-logistics-saas-platform.php"
                 },
                 {
-                    "@type": "ListItem",
+                    "@type": "CreativeWork",
                     "position": 4,
                     "name": "Vendor & Operations Management System for Food Delivery",
-                    "description": "Centralized management portal handling 500+ vendors with 40% faster order processing."
+                    "description": "Centralized vendor and order management portal handling 500+ vendors with 40% faster order processing and 99.2% order accuracy.",
+                    "about": "Food delivery operations platform"
                 },
                 {
-                    "@type": "ListItem",
+                    "@type": "CreativeWork",
                     "position": 5,
                     "name": "Courier Management System (Web Application)",
-                    "description": "Web-based CMS achieving 70% reduction in manual data entry and zero billing errors."
+                    "description": "Web-based courier management system replacing Excel operations — 70% reduction in manual data entry, 3x faster invoicing, and zero billing errors.",
+                    "about": "Courier management software",
+                    "url": "https://itdgrowthlabs.com/case-studies/courier-management-system.php"
                 }
             ]
         }
+    }
+    </script>
+
+    <!-- FAQ Schema for AI citation -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "How long does it take to build a logistics or courier app?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "A production-grade logistics app with customer app, driver app, and admin dashboard typically takes 4-7 months depending on scope. MVPs with core booking and tracking flows can ship in 3-4 months. Our team averages 4-6 months for full delivery, including API integrations with courier partners, payment gateways, and mapping services."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Which industries does ITD GrowthLabs build software for?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Our deepest expertise is logistics and courier management (5,000+ daily bookings at scale), but we also build for hyperlocal marketplaces, food delivery, fintech, healthcare, SaaS, education, and D2C e-commerce. Over 300 projects across India, USA, UK, UAE, and Australia."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Do I own the source code and infrastructure after the project?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes. Clients receive full source code, IP assignment, and complete handover of infrastructure accounts (AWS, Firebase, app stores, payment gateways). We do not lock clients into proprietary licensing — every build is delivered as a transferable asset."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How much does a logistics app development project cost?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Logistics app costs in India typically range from INR 6-8 lakh for a focused MVP to INR 25-40 lakh for a full multi-app platform with driver app, customer app, admin panel, and API integrations. Pricing depends on feature depth, integrations, and team size. See our Courier Management Software product page for a fixed-scope option starting at INR 1.5 lakh."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Do you provide post-launch support and maintenance?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes. Every project includes 3 months of free bug-fix support, followed by optional monthly AMC packages covering infrastructure monitoring, security patches, minor feature additions, and performance optimization. Most logistics clients stay on AMC to keep pace with carrier API changes and OS updates."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How is customer and shipment data secured in your platforms?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "All our builds use HTTPS/TLS 1.2+, encrypted-at-rest databases, role-based access control, and audit logging. Payment integrations are PCI-DSS compliant via gateway providers (Razorpay, Stripe). For enterprise clients we add VPC deployment, IP whitelisting, and SOC 2-aligned operational procedures."
+                }
+            }
+        ]
     }
     </script>
 
@@ -425,6 +505,233 @@
                 font-size: 40px;
             }
         }
+
+        /* ── Trust bar, filter tabs, testimonials, process, FAQ ───────────── */
+        .cs-trust-bar {
+            background: #fff;
+            border-top: 1px solid #eef1f5;
+            border-bottom: 1px solid #eef1f5;
+            padding: 28px 0;
+        }
+        .cs-trust-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 20px;
+            text-align: center;
+        }
+        .cs-trust-item .cs-trust-num {
+            font-size: 30px;
+            font-weight: 800;
+            color: var(--color-primary);
+            line-height: 1;
+            display: block;
+            margin-bottom: 6px;
+        }
+        .cs-trust-item .cs-trust-label {
+            font-size: 13px;
+            color: #555;
+            font-weight: 500;
+            letter-spacing: 0.3px;
+        }
+        @media (max-width: 768px) {
+            .cs-trust-grid { grid-template-columns: repeat(2, 1fr); gap: 18px; }
+            .cs-trust-item .cs-trust-num { font-size: 24px; }
+        }
+
+        .cs-filter-bar {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin: 0 0 40px;
+            padding: 0;
+            list-style: none;
+        }
+        .cs-filter-btn {
+            background: #f5f7fa;
+            color: #333;
+            border: 1px solid #e8ecf1;
+            padding: 9px 22px;
+            border-radius: 30px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.25s ease;
+        }
+        .cs-filter-btn:hover {
+            border-color: var(--color-primary);
+            color: var(--color-primary);
+        }
+        .cs-filter-btn.is-active {
+            background: var(--color-primary);
+            color: #fff;
+            border-color: var(--color-primary);
+        }
+        .case-study-card.is-hidden { display: none; }
+
+        .cs-detail-link {
+            display: inline-block;
+            margin-left: 12px;
+            padding: 12px 24px;
+            border: 2px solid var(--color-primary);
+            color: var(--color-primary);
+            border-radius: 30px;
+            font-size: 14px;
+            font-weight: 600;
+            text-decoration: none;
+            transition: all 0.3s ease;
+        }
+        .cs-detail-link:hover {
+            background: var(--color-primary);
+            color: #fff;
+        }
+
+        .cs-section {
+            padding: 70px 0;
+            background: #fff;
+        }
+        .cs-section.alt { background: #f8fafc; }
+        .cs-section-head { text-align: center; max-width: 720px; margin: 0 auto 45px; }
+        .cs-section-eyebrow {
+            color: var(--color-primary);
+            font-size: 13px;
+            font-weight: 700;
+            letter-spacing: 1.5px;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+        }
+        .cs-section-title {
+            font-size: 32px;
+            font-weight: 800;
+            color: var(--color-heading);
+            margin-bottom: 14px;
+            line-height: 1.25;
+        }
+        .cs-section-sub { color: #555; font-size: 16px; line-height: 1.7; }
+
+        .cs-testimonial {
+            background: #fff;
+            border: 1px solid #eef1f5;
+            border-radius: 14px;
+            padding: 28px;
+            height: 100%;
+            box-shadow: 0 3px 15px rgba(0,0,0,0.04);
+            transition: transform .25s ease, box-shadow .25s ease;
+        }
+        .cs-testimonial:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+        }
+        .cs-testimonial-stars { color: #ffa800; margin-bottom: 12px; font-size: 14px; }
+        .cs-testimonial-quote {
+            color: #333;
+            font-size: 15px;
+            line-height: 1.75;
+            font-style: italic;
+            margin-bottom: 18px;
+        }
+        .cs-testimonial-author {
+            font-size: 14px;
+            font-weight: 700;
+            color: var(--color-heading);
+        }
+        .cs-testimonial-role {
+            font-size: 13px;
+            color: #777;
+            font-weight: 500;
+        }
+
+        .cs-process-grid {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 20px;
+            counter-reset: cs-step;
+        }
+        .cs-process-card {
+            background: #fff;
+            border: 1px solid #eef1f5;
+            border-radius: 14px;
+            padding: 28px 22px;
+            position: relative;
+            text-align: left;
+        }
+        .cs-process-card::before {
+            counter-increment: cs-step;
+            content: counter(cs-step, decimal-leading-zero);
+            position: absolute;
+            top: 18px;
+            right: 20px;
+            font-size: 32px;
+            font-weight: 800;
+            color: rgba(0,0,0,0.06);
+            line-height: 1;
+        }
+        .cs-process-icon {
+            width: 46px;
+            height: 46px;
+            border-radius: 10px;
+            background: linear-gradient(135deg, var(--color-primary), #e65100);
+            color: #fff;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 18px;
+            margin-bottom: 16px;
+        }
+        .cs-process-card h4 {
+            font-size: 16px;
+            font-weight: 700;
+            color: var(--color-heading);
+            margin-bottom: 8px;
+        }
+        .cs-process-card p {
+            font-size: 13.5px;
+            line-height: 1.65;
+            color: #555;
+            margin: 0;
+        }
+        @media (max-width: 992px) {
+            .cs-process-grid { grid-template-columns: repeat(2, 1fr); }
+        }
+        @media (max-width: 520px) {
+            .cs-process-grid { grid-template-columns: 1fr; }
+        }
+
+        .cs-faq-item {
+            background: #fff;
+            border: 1px solid #eef1f5;
+            border-radius: 12px;
+            margin-bottom: 14px;
+            overflow: hidden;
+        }
+        .cs-faq-q {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 26px;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: 700;
+            color: var(--color-heading);
+            user-select: none;
+            list-style: none;
+        }
+        .cs-faq-q::-webkit-details-marker { display: none; }
+        .cs-faq-q::after {
+            content: '+';
+            font-size: 22px;
+            font-weight: 400;
+            color: var(--color-primary);
+            transition: transform .25s ease;
+            margin-left: 18px;
+        }
+        .cs-faq-item[open] .cs-faq-q::after { content: '−'; }
+        .cs-faq-a {
+            padding: 0 26px 22px;
+            color: #444;
+            font-size: 15px;
+            line-height: 1.75;
+        }
     </style>
 </head>
 
@@ -460,13 +767,51 @@
     </div>
     <!-- End Hero Section -->
 
+    <!-- Trust Bar: aggregate stats across all projects -->
+    <section class="cs-trust-bar" aria-label="Trust indicators">
+        <div class="container">
+            <div class="cs-trust-grid">
+                <div class="cs-trust-item">
+                    <span class="cs-trust-num">300+</span>
+                    <span class="cs-trust-label">Projects Delivered</span>
+                </div>
+                <div class="cs-trust-item">
+                    <span class="cs-trust-num">50M+</span>
+                    <span class="cs-trust-label">Shipments Processed</span>
+                </div>
+                <div class="cs-trust-item">
+                    <span class="cs-trust-num">8+ yrs</span>
+                    <span class="cs-trust-label">Average Team Experience</span>
+                </div>
+                <div class="cs-trust-item">
+                    <span class="cs-trust-num">5 countries</span>
+                    <span class="cs-trust-label">IN · US · UK · UAE · AU</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- Start Case Studies Section
     ============================================= -->
     <div class="case-studies-area default-padding">
         <div class="container">
 
+            <div class="cs-section-head" style="margin-bottom:30px;">
+                <div class="cs-section-eyebrow">Featured projects</div>
+                <h2 class="cs-section-title">Case studies by industry</h2>
+                <p class="cs-section-sub">Filter by the industry closest to your business to see the results that matter most to you.</p>
+            </div>
+
+            <!-- Filter tabs -->
+            <ul class="cs-filter-bar" role="tablist" aria-label="Filter case studies by industry">
+                <li><button type="button" class="cs-filter-btn is-active" data-filter="all" aria-pressed="true">All case studies (5)</button></li>
+                <li><button type="button" class="cs-filter-btn" data-filter="logistics" aria-pressed="false">Logistics &amp; Courier (3)</button></li>
+                <li><button type="button" class="cs-filter-btn" data-filter="food" aria-pressed="false">Food &amp; Hyperlocal (2)</button></li>
+                <li><button type="button" class="cs-filter-btn" data-filter="saas" aria-pressed="false">SaaS (1)</button></li>
+            </ul>
+
             <!-- Case Study 1 -->
-            <div class="case-study-card">
+            <div class="case-study-card" data-category="logistics">
                 <div class="case-study-header">
                     <span class="case-study-number">01</span>
                     <span class="industry-tag"><i class="fas fa-truck"></i> Logistics</span>
@@ -519,11 +864,12 @@
                     </div>
 
                     <a href="contact-us.php" class="case-study-cta">Start a Similar Project <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                    <a href="case-studies/on-demand-courier-booking-app.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
                 </div>
             </div>
 
             <!-- Case Study 2 -->
-            <div class="case-study-card">
+            <div class="case-study-card" data-category="food">
                 <div class="case-study-header">
                     <span class="case-study-number">02</span>
                     <span class="industry-tag"><i class="fas fa-fish"></i> Food &amp; Delivery / Hyperlocal Marketplace</span>
@@ -580,7 +926,7 @@
             </div>
 
             <!-- Case Study 3 -->
-            <div class="case-study-card">
+            <div class="case-study-card" data-category="logistics saas">
                 <div class="case-study-header">
                     <span class="case-study-number">03</span>
                     <span class="industry-tag"><i class="fas fa-shipping-fast"></i> Logistics / SaaS</span>
@@ -634,11 +980,12 @@
                     </div>
 
                     <a href="contact-us.php" class="case-study-cta">Start a Similar Project <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                    <a href="case-studies/smart-logistics-saas-platform.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
                 </div>
             </div>
 
             <!-- Case Study 4 -->
-            <div class="case-study-card">
+            <div class="case-study-card" data-category="food">
                 <div class="case-study-header">
                     <span class="case-study-number">04</span>
                     <span class="industry-tag"><i class="fas fa-utensils"></i> Food &amp; Delivery</span>
@@ -695,7 +1042,7 @@
             </div>
 
             <!-- Case Study 5 -->
-            <div class="case-study-card">
+            <div class="case-study-card" data-category="logistics">
                 <div class="case-study-header">
                     <span class="case-study-number">05</span>
                     <span class="industry-tag"><i class="fas fa-box"></i> Logistics</span>
@@ -748,12 +1095,141 @@
                     </div>
 
                     <a href="contact-us.php" class="case-study-cta">Start a Similar Project <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                    <a href="case-studies/courier-management-system.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
                 </div>
             </div>
 
         </div>
     </div>
     <!-- End Case Studies Section -->
+
+    <!-- Start Testimonials Section
+    ============================================= -->
+    <section class="cs-section alt" aria-labelledby="cs-testimonials-title">
+        <div class="container">
+            <div class="cs-section-head">
+                <div class="cs-section-eyebrow">What clients say</div>
+                <h2 class="cs-section-title" id="cs-testimonials-title">Founders, ops leads, and CTOs we've shipped for</h2>
+                <p class="cs-section-sub">Short quotes from the people who used the platforms day to day.</p>
+            </div>
+            <div class="row">
+                <div class="col-lg-6 col-md-6 mb-4">
+                    <div class="cs-testimonial">
+                        <div class="cs-testimonial-stars"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></div>
+                        <p class="cs-testimonial-quote">"We went from spreadsheet chaos to running 5,000+ daily bookings on a single dashboard. Driver app dispatch alone saved us two full-time coordinators."</p>
+                        <div class="cs-testimonial-author">Operations Director</div>
+                        <div class="cs-testimonial-role">On-Demand Courier Platform · Mumbai</div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 mb-4">
+                    <div class="cs-testimonial">
+                        <div class="cs-testimonial-stars"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></div>
+                        <p class="cs-testimonial-quote">"The multi-carrier rate engine paid for the whole build within six months. Our customers save 18–22% on average and we don't have to babysit carrier APIs anymore."</p>
+                        <div class="cs-testimonial-author">Co-Founder &amp; CTO</div>
+                        <div class="cs-testimonial-role">Logistics SaaS Startup · Bangalore</div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 mb-4">
+                    <div class="cs-testimonial">
+                        <div class="cs-testimonial-stars"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></div>
+                        <p class="cs-testimonial-quote">"Billing used to be our #1 customer complaint. After switching to the new CMS, invoice errors went to zero and we generate MIS reports in minutes instead of days."</p>
+                        <div class="cs-testimonial-author">Finance Head</div>
+                        <div class="cs-testimonial-role">Regional Courier Company · India</div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 mb-4">
+                    <div class="cs-testimonial">
+                        <div class="cs-testimonial-stars"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></div>
+                        <p class="cs-testimonial-quote">"ITD's team shipped our hyperlocal marketplace faster than our internal estimates. Four months from wireframe to 15,000 registered users — they knew what to cut and what to build first."</p>
+                        <div class="cs-testimonial-author">Founder</div>
+                        <div class="cs-testimonial-role">Hyperlocal Seafood Marketplace · Kochi</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Testimonials Section -->
+
+    <!-- Start Delivery Process Section
+    ============================================= -->
+    <section class="cs-section" aria-labelledby="cs-process-title">
+        <div class="container">
+            <div class="cs-section-head">
+                <div class="cs-section-eyebrow">Our delivery process</div>
+                <h2 class="cs-section-title" id="cs-process-title">How every project ships</h2>
+                <p class="cs-section-sub">A 5-phase sequence refined over 300+ projects. Each phase has a clear exit criterion so the next one starts with the right inputs.</p>
+            </div>
+            <div class="cs-process-grid">
+                <div class="cs-process-card">
+                    <div class="cs-process-icon"><i class="fas fa-search"></i></div>
+                    <h4>1. Discovery</h4>
+                    <p>Goal workshop, user flow mapping, feature-scope freeze, and technology decisions. Exits with a signed-off BRD.</p>
+                </div>
+                <div class="cs-process-card">
+                    <div class="cs-process-icon"><i class="fas fa-pencil-ruler"></i></div>
+                    <h4>2. UX &amp; design</h4>
+                    <p>Wireframes, clickable prototypes, visual design system, and mobile/responsive breakpoints. Exits with client sign-off on every screen.</p>
+                </div>
+                <div class="cs-process-card">
+                    <div class="cs-process-icon"><i class="fas fa-code"></i></div>
+                    <h4>3. Engineering</h4>
+                    <p>Weekly sprints, demo calls, staging deploys. API-first build with automated tests. Exits with feature-complete staging build.</p>
+                </div>
+                <div class="cs-process-card">
+                    <div class="cs-process-icon"><i class="fas fa-vial"></i></div>
+                    <h4>4. QA &amp; launch</h4>
+                    <p>Device/browser matrix tests, load tests, payment gateway verification, app-store submission, production cutover. Exits with go-live sign-off.</p>
+                </div>
+                <div class="cs-process-card">
+                    <div class="cs-process-icon"><i class="fas fa-headset"></i></div>
+                    <h4>5. Support</h4>
+                    <p>3 months bug-fix cover free, then optional AMC for monitoring, security patches, and roadmap upgrades. Most logistics clients stay on AMC.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Delivery Process Section -->
+
+    <!-- Start FAQ Section
+    ============================================= -->
+    <section class="cs-section alt" aria-labelledby="cs-faq-title">
+        <div class="container">
+            <div class="cs-section-head">
+                <div class="cs-section-eyebrow">Frequently asked</div>
+                <h2 class="cs-section-title" id="cs-faq-title">Questions we get before a kickoff call</h2>
+                <p class="cs-section-sub">Answered from 300+ projects. If your question isn't here, drop us a line — we reply within one business day.</p>
+            </div>
+            <div class="row">
+                <div class="col-lg-10 offset-lg-1">
+                    <details class="cs-faq-item" open>
+                        <summary class="cs-faq-q">How long does it take to build a logistics or courier app?</summary>
+                        <div class="cs-faq-a">A production-grade logistics app with customer app, driver app, and admin dashboard typically takes 4–7 months depending on scope. MVPs with core booking and tracking flows can ship in 3–4 months. Our team averages 4–6 months for full delivery, including API integrations with courier partners, payment gateways, and mapping services.</div>
+                    </details>
+                    <details class="cs-faq-item">
+                        <summary class="cs-faq-q">Which industries does ITD GrowthLabs build software for?</summary>
+                        <div class="cs-faq-a">Our deepest expertise is logistics and courier management (5,000+ daily bookings at scale), but we also build for hyperlocal marketplaces, food delivery, fintech, healthcare, SaaS, education, and D2C e-commerce. Over 300 projects across India, USA, UK, UAE, and Australia.</div>
+                    </details>
+                    <details class="cs-faq-item">
+                        <summary class="cs-faq-q">Do I own the source code and infrastructure after the project?</summary>
+                        <div class="cs-faq-a">Yes. Clients receive full source code, IP assignment, and complete handover of infrastructure accounts (AWS, Firebase, app stores, payment gateways). We do not lock clients into proprietary licensing — every build is delivered as a transferable asset.</div>
+                    </details>
+                    <details class="cs-faq-item">
+                        <summary class="cs-faq-q">How much does a logistics app development project cost?</summary>
+                        <div class="cs-faq-a">Logistics app costs in India typically range from INR 6–8 lakh for a focused MVP to INR 25–40 lakh for a full multi-app platform with driver app, customer app, admin panel, and API integrations. Pricing depends on feature depth, integrations, and team size. See our <a href="products/courier-management-software.php">Courier Management Software</a> product page for a fixed-scope option starting at INR 1.5 lakh.</div>
+                    </details>
+                    <details class="cs-faq-item">
+                        <summary class="cs-faq-q">Do you provide post-launch support and maintenance?</summary>
+                        <div class="cs-faq-a">Yes. Every project includes 3 months of free bug-fix support, followed by optional monthly AMC packages covering infrastructure monitoring, security patches, minor feature additions, and performance optimization. Most logistics clients stay on AMC to keep pace with carrier API changes and OS updates.</div>
+                    </details>
+                    <details class="cs-faq-item">
+                        <summary class="cs-faq-q">How is customer and shipment data secured in your platforms?</summary>
+                        <div class="cs-faq-a">All our builds use HTTPS/TLS 1.2+, encrypted-at-rest databases, role-based access control, and audit logging. Payment integrations are PCI-DSS compliant via gateway providers (Razorpay, Stripe). For enterprise clients we add VPC deployment, IP whitelisting, and SOC 2-aligned operational procedures.</div>
+                    </details>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End FAQ Section -->
 
     <!-- Start Bottom CTA Section
     ============================================= -->
@@ -1077,6 +1553,37 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
     <script src="assets/js/custom.js"></script>
+
+    <!-- Case-studies filter -->
+    <script>
+    (function(){
+        var buttons = document.querySelectorAll('.cs-filter-btn');
+        var cards   = document.querySelectorAll('.case-study-card');
+        if (!buttons.length || !cards.length) return;
+
+        function applyFilter(filter) {
+            cards.forEach(function(card){
+                var cats = (card.getAttribute('data-category') || '').split(/\s+/);
+                var show = (filter === 'all') || cats.indexOf(filter) !== -1;
+                card.classList.toggle('is-hidden', !show);
+            });
+        }
+
+        buttons.forEach(function(btn){
+            btn.addEventListener('click', function(){
+                buttons.forEach(function(b){
+                    b.classList.remove('is-active');
+                    b.setAttribute('aria-pressed', 'false');
+                });
+                btn.classList.add('is-active');
+                btn.setAttribute('aria-pressed', 'true');
+                applyFilter(btn.getAttribute('data-filter'));
+            });
+        });
+    })();
+    </script>
+
+<?php include(__DIR__ . "/includes/popup_modal.php"); ?>
 
 </body>
 
