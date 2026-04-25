@@ -623,6 +623,7 @@
     <link rel="alternate" hreflang="en-gb" href="https://itdgrowthlabs.com/uk/digital-marketing-services.php" />
     <link rel="alternate" hreflang="en-au" href="https://itdgrowthlabs.com/australia/digital-marketing-services.php" />
     <link rel="alternate" hreflang="en-ae" href="https://itdgrowthlabs.com/uae/digital-marketing-services.php" />
+    <link rel="alternate" hreflang="en-za" href="https://itdgrowthlabs.com/africa/digital-marketing-services.php" />
     <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/digital_marketing.php" />
     <meta property="og:title" content="Digital Marketing Services in India | SEO, PPC & Social Media | ITD GrowthLabs" />
     <meta name="twitter:card" content="summary_large_image" />
