@@ -25,6 +25,7 @@ $itdgl_in_subdir = (
     strpos($itdgl_path, '/products/')     !== false ||
     strpos($itdgl_path, '/industries/')   !== false ||
     strpos($itdgl_path, '/case-studies/') !== false ||
+    strpos($itdgl_path, '/compare/')      !== false ||
     preg_match('#^/(usa|uk|uae|australia|africa)/#', $itdgl_path)
 );
 $itdgl_base = $itdgl_in_subdir ? '../' : '';
@@ -275,6 +276,43 @@ $itdgl_popups = [
         'stats'     => '14 hubs live &bull; 70% less manual entry &bull; Zero billing errors',
         'cta_label' => 'Book My Scoping Call &#8594;',
         'expert'    => 'Logistics Platform Engineer',
+    ],
+
+    // ---- COMPARISON pages — build-vs-buy decision support ----
+    'compare/shipsy-loginext-alternative.php' => [
+        'type'      => 'consultation',
+        'eyebrow'   => 'Build vs Buy — Free Strategy Call',
+        'headline'  => 'Stuck Between Shipsy / LogiNext and a Custom Build?',
+        'subcopy'   => 'Get a 30-min call with a senior logistics engineer. We\'ll look at your volume, workflow and contracts and give you an honest recommendation — even if it\'s "stay on SaaS." No slide deck.',
+        'source'    => 'popup_compare_shipsy_loginext',
+        'accent'    => '#ff6b00',
+        'stats'     => '50M+ shipments shipped &bull; 14 hubs live &bull; 10+ yrs',
+        'cta_label' => 'Book My Free Consultation &#8594;',
+        'expert'    => 'Senior Logistics Engineer',
+    ],
+    'compare/custom-vs-white-label-courier-software.php' => [
+        'type'      => 'consultation',
+        'eyebrow'   => 'Build vs Buy — Free Strategy Call',
+        'headline'  => 'Custom Build, White-Label, or Hybrid? Free 30-min Call',
+        'subcopy'   => 'Tell us your volume, workflow and 18-month plan. We\'ll show you the path with the lowest 5-year TCO — even if it\'s "go white-label first." No sales pitch.',
+        'source'    => 'popup_compare_custom_whitelabel',
+        'accent'    => '#ff6b00',
+        'stats'     => '50M+ shipments shipped &bull; 14 hubs live &bull; 10+ yrs',
+        'cta_label' => 'Book My Free Consultation &#8594;',
+        'expert'    => 'Senior Logistics Engineer',
+    ],
+
+    // ---- TEAM / AUTHORS page — direct discovery call ----
+    'team.php' => [
+        'type'      => 'consultation',
+        'eyebrow'   => 'Talk to a Senior Lead',
+        'headline'  => 'Routed to the Right Senior Lead — Free 30-min Call',
+        'subcopy'   => 'Tell us what you\'re scoping. We\'ll route the call to the senior engineer or strategist who runs that track. First reply within one business day.',
+        'source'    => 'popup_team_consultation',
+        'accent'    => '#ff6b00',
+        'stats'     => '55+ senior team &bull; 300+ projects &bull; 97% retention',
+        'cta_label' => 'Book My Discovery Call &#8594;',
+        'expert'    => 'Senior Solution Engineer',
     ],
 
     // ---- Default / fallback — existing generic Company Profile popup ----

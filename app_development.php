@@ -620,8 +620,9 @@
     <link rel="alternate" hreflang="en-in" href="https://itdgrowthlabs.com/app_development.php" />
     <link rel="alternate" hreflang="en-us" href="https://itdgrowthlabs.com/usa/mobile-app-development.php" />
     <link rel="alternate" hreflang="en-gb" href="https://itdgrowthlabs.com/uk/mobile-app-development.php" />
-    <link rel="alternate" hreflang="en-au" href="https://itdgrowthlabs.com/australia/mobile-app-development.PHP" />
+    <link rel="alternate" hreflang="en-au" href="https://itdgrowthlabs.com/australia/mobile-app-development.php" />
     <link rel="alternate" hreflang="en-ae" href="https://itdgrowthlabs.com/uae/mobile-app-development.php" />
+    <link rel="alternate" hreflang="en-za" href="https://itdgrowthlabs.com/africa/mobile-app-development.php" />
     <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/app_development.php" />
     <meta property="og:title" content="App Development Services in India | Custom Mobile & Web Apps | ITD GrowthLabs" />
     <meta name="twitter:card" content="summary_large_image" />
