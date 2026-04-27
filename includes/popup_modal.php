@@ -231,6 +231,17 @@ $itdgl_popups = [
         'cta_label' => 'Book a Free Demo &#8594;',
         'expert'    => 'Logistics Product Expert',
     ],
+    'products/multi-vendor-marketplace-app.php' => [
+        'type'      => 'consultation',
+        'eyebrow'   => 'Free Marketplace Strategy Call',
+        'headline'  => 'Plan Your Multi-Vendor Marketplace — Free 30-min Call',
+        'subcopy'   => 'Food, grocery, fish, pharmacy, hyperlocal or B2B aggregator? Get a fixed-scope quote, vertical-fit blueprint and timeline from a senior marketplace engineer.',
+        'source'    => 'popup_marketplace_consultation',
+        'accent'    => '#ff6b35',
+        'stats'     => '4 apps in package &bull; 8&ndash;14 wk launch &bull; 100% source-code ownership',
+        'cta_label' => 'Book My Marketplace Call &#8594;',
+        'expert'    => 'Senior Marketplace Engineer',
+    ],
 
     // ---- CASE STUDIES pages — "build something similar" consultation ----
     'case-studies.php' => [
@@ -366,15 +377,8 @@ $itdgl_banner_url  = $itdgl_base . 'assets/img/BlackBlueBizBanner.jpg';
                 <span style="color: #333; font-weight: bold;">&times;</span>
             </button>
 
-            <!-- Banner Image -->
-            <div style="width: 100%; overflow: hidden; max-height: 150px;">
-                <a href="<?php echo htmlspecialchars($itdgl_contact_url); ?>">
-                    <img src="<?php echo htmlspecialchars($itdgl_banner_url); ?>" alt="ITD GrowthLabs — Custom Apps, Websites &amp; Digital Solutions" style="width: 100%; height: 150px; object-fit: cover; object-position: center top; display: block;">
-                </a>
-            </div>
-
             <!-- Body -->
-            <div style="padding: 20px 30px 24px; display: flex; flex-direction: column; gap: 10px;">
+            <div style="padding: 48px 30px 24px; display: flex; flex-direction: column; gap: 10px;">
 
                 <?php if ($itdgl_cfg['eyebrow']): ?>
                     <span class="itdgl-popup-eyebrow"><?php echo $itdgl_cfg['eyebrow']; ?></span>
