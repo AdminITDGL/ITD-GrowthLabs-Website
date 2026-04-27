@@ -4,7 +4,7 @@
     ============================================= -->
 
 <!-- Start Footer  ============================================= -->
-<footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
+<footer class="bg-dark text-light" style="background-image: url(/assets/img/shape/5.png);">
     <div class="container">
         <div class="f-items default-padding-bottom pt-70 pt-xs-0">
             <div class="row">
@@ -14,11 +14,11 @@
                     <div class="f-item link">
                         <h4 class="widget-title">Core Tech Services</h4>
                         <ul>
-                            <li><a href="services/website-development-company.php" target="_blank">Website Design & Development</a></li>
-                            <li><a href="services/Template-Based-Website-Development.php" target="_blank">Template-Based Website Development</a></li>
-                            <li><a href="services/WordPress-Website-Development.php" target="_blank">WordPress Website Development</a></li>
-                            <li><a href="services/Custom-Website-Development.php" target="_blank">Custom Website Development</a></li>
-                            <li><a href="services/E-commerce-Website-Development.php" target="_blank">E-commerce Website Development</a></li>
+                            <li><a href="/services/website-development-company.php" target="_blank">Website Design & Development</a></li>
+                            <li><a href="/services/Template-Based-Website-Development.php" target="_blank">Template-Based Website Development</a></li>
+                            <li><a href="/services/WordPress-Website-Development.php" target="_blank">WordPress Website Development</a></li>
+                            <li><a href="/services/Custom-Website-Development.php" target="_blank">Custom Website Development</a></li>
+                            <li><a href="/services/E-commerce-Website-Development.php" target="_blank">E-commerce Website Development</a></li>
                         </ul>
                     </div>
                 </div>
@@ -26,11 +26,11 @@
                     <div class="f-item link">
                         <h4 class="widget-title">End-to-End Services</h4>
                         <ul>
-                            <li><a href="services/website-development-company.php" target="_blank">Website Design & Development</a></li>
-                            <li><a href="services/content-marketing-services.php" target="_blank">Content Marketing Services</a></li>
-                            <li><a href="services/seo-auditing-services.php" target="_blank">SEO Audit and Optimization</a></li>
-                            <li><a href="services/social-media-marketing.php" target="_blank">Social Media Marketing</a></li>
-                            <li><a href="services/google-search-ads-services.php" target="_blank">Google Search Ads</a></li>
+                            <li><a href="/services/website-development-company.php" target="_blank">Website Design & Development</a></li>
+                            <li><a href="/services/content-marketing-services.php" target="_blank">Content Marketing Services</a></li>
+                            <li><a href="/services/seo-auditing-services.php" target="_blank">SEO Audit and Optimization</a></li>
+                            <li><a href="/services/social-media-marketing.php" target="_blank">Social Media Marketing</a></li>
+                            <li><a href="/services/google-search-ads-services.php" target="_blank">Google Search Ads</a></li>
                         </ul>
                     </div>
                 </div>
@@ -38,9 +38,9 @@
                     <div class="f-item link">
                         <h4 class="widget-title">More Tech Solutions</h4>
                         <ul>
-                            <li><a href="services/App-Development.php" target="_blank">App Development</a></li>
-                            <li><a href="services/IT-Outsourcing-Services.php" target="_blank">IT Outsourcing Services</a></li>
-                            <li><a href="services/IT-Team-Outsourcing.php" target="_blank">IT Team Outsourcing</a></li>
+                            <li><a href="/services/App-Development.php" target="_blank">App Development</a></li>
+                            <li><a href="/services/IT-Outsourcing-Services.php" target="_blank">IT Outsourcing Services</a></li>
+                            <li><a href="/services/IT-Team-Outsourcing.php" target="_blank">IT Team Outsourcing</a></li>
                         </ul>
                     </div>
                 </div>
@@ -49,11 +49,11 @@
                     <div class="f-item link">
                         <h4 class="widget-title">SEO &amp; Content Writing</h4>
                         <ul>
-                            <li><a href="services/website-content-writing.php" target="_blank">Website Content Writing</a></li>
-                            <li><a href="services/seo-article-writing.php" target="_blank">SEO Article Writing</a></li>
-                            <li><a href="services/blog-writing-services.php" target="_blank">Blog Writing</a></li>
-                            <li><a href="services/case-study-writing-services.php" target="_blank">Case Study Writing</a></li>
-                            <li><a href="services/product-description-writing-services.php" target="_blank">Product Description</a></li>
+                            <li><a href="/services/website-content-writing.php" target="_blank">Website Content Writing</a></li>
+                            <li><a href="/services/seo-article-writing.php" target="_blank">SEO Article Writing</a></li>
+                            <li><a href="/services/blog-writing-services.php" target="_blank">Blog Writing</a></li>
+                            <li><a href="/services/case-study-writing-services.php" target="_blank">Case Study Writing</a></li>
+                            <li><a href="/services/product-description-writing-services.php" target="_blank">Product Description</a></li>
                         </ul>
                     </div>
                 </div>
@@ -61,10 +61,10 @@
                     <div class="f-item link">
                         <h4 class="widget-title">Specialized Content Services</h4>
                         <ul>
-                            <li><a href="services/content_writing_strategy.php" target="_blank">Content Writing & Strategy</a></li>
-                            <li><a href="services/technical-writing-services.php" target="_blank">Technical Writing Services</a></li>
-                            <li><a href="services/White-Papers-Case-Studies.php" target="_blank">White Papers & Case Studies</a></li>
-                            <li><a href="services/Content-Team-Outsourcing.php" target="_blank">Content Team Outsourcing</a></li>
+                            <li><a href="/services/content_writing_strategy.php" target="_blank">Content Writing & Strategy</a></li>
+                            <li><a href="/services/technical-writing-services.php" target="_blank">Technical Writing Services</a></li>
+                            <li><a href="/services/White-Papers-Case-Studies.php" target="_blank">White Papers & Case Studies</a></li>
+                            <li><a href="/services/Content-Team-Outsourcing.php" target="_blank">Content Team Outsourcing</a></li>
                         </ul>
                     </div>
                 </div>
@@ -72,10 +72,10 @@
                     <div class="f-item link">
                         <h4 class="widget-title">Industries We Serve</h4>
                         <ul>
-                            <li><a href="services/logistics-content-marketing.php" target="_blank">Logistics</a></li>
-                            <li><a href="services/Industries-We-Serve-Manufacturing.php" target="_blank">Manufacturing</a></li>
-                            <li><a href="services/Industries-We-Serve-Technology.php" target="_blank">Technology</a></li>
-                            <li><a href="services/ecommerce-content-services.php" target="_blank">E-commerce</a></li>
+                            <li><a href="/services/logistics-content-marketing.php" target="_blank">Logistics</a></li>
+                            <li><a href="/services/Industries-We-Serve-Manufacturing.php" target="_blank">Manufacturing</a></li>
+                            <li><a href="/services/Industries-We-Serve-Technology.php" target="_blank">Technology</a></li>
+                            <li><a href="/services/ecommerce-content-services.php" target="_blank">E-commerce</a></li>
                         </ul>
                     </div>
                 </div>
@@ -84,10 +84,10 @@
                     <div class="f-item link">
                         <h4 class="widget-title">Custom Solutions</h4>
                         <ul>
-                            <li><a href="services/Custom-eLearning-Development.php" target="_blank" style="text-transform: none;">Custom eLearning Development</a></li>
-                            <li><a href="services/Powerpoint-to-eLearning-Conversion.php" target="_blank" style="text-transform: none;">PowerPoint to eLearning Conversion</a></li>
-                            <li><a href="services/Mobile-Learn-Microlearning.php" target="_blank">Mobile Learning / Microlearning</a></li>
-                            <li><a href="services/Gamified-Learning-Modules.php" target="_blank">Gamified Learning Modules</a></li>
+                            <li><a href="/services/Custom-eLearning-Development.php" target="_blank" style="text-transform: none;">Custom eLearning Development</a></li>
+                            <li><a href="/services/Powerpoint-to-eLearning-Conversion.php" target="_blank" style="text-transform: none;">PowerPoint to eLearning Conversion</a></li>
+                            <li><a href="/services/Mobile-Learn-Microlearning.php" target="_blank">Mobile Learning / Microlearning</a></li>
+                            <li><a href="/services/Gamified-Learning-Modules.php" target="_blank">Gamified Learning Modules</a></li>
                         </ul>
                     </div>
                 </div>
@@ -95,14 +95,14 @@
                     <div class="f-item link">
                         <h4 class="widget-title">Use Cases</h4>
                         <ul>
-                            <li><a href="services/Employee-Onboarding.php" target="_blank">Employee Onboarding</a></li>
-                            <li><a href="services/Talent-Development.php" target="_blank">Talent Development</a></li>
-                            <li><a href="services/Compliance-Training.php" target="_blank">Compliance Training</a></li>
-                            <li><a href="services/Sales-Enablement.php" target="_blank">Sales Enablement</a></li>
-                            <li><a href="services/Customer-Education.php" target="_blank">Customer Education</a></li>
-                            <li><a href="services/Partner-Enablement.php" target="_blank">Partner Enablement</a></li>
-                            <li><a href="services/Frontline-Workforce-Training.php" target="_blank">Frontline Workforce Training</a></li>
-                            <li><a href="services/Member-Training.php" target="_blank">Member Training</a></li>
+                            <li><a href="/services/Employee-Onboarding.php" target="_blank">Employee Onboarding</a></li>
+                            <li><a href="/services/Talent-Development.php" target="_blank">Talent Development</a></li>
+                            <li><a href="/services/Compliance-Training.php" target="_blank">Compliance Training</a></li>
+                            <li><a href="/services/Sales-Enablement.php" target="_blank">Sales Enablement</a></li>
+                            <li><a href="/services/Customer-Education.php" target="_blank">Customer Education</a></li>
+                            <li><a href="/services/Partner-Enablement.php" target="_blank">Partner Enablement</a></li>
+                            <li><a href="/services/Frontline-Workforce-Training.php" target="_blank">Frontline Workforce Training</a></li>
+                            <li><a href="/services/Member-Training.php" target="_blank">Member Training</a></li>
                         </ul>
                     </div>
                 </div>
@@ -110,16 +110,16 @@
                     <div class="f-item link">
                         <h4 class="widget-title">Industries We Serve</h4>
                         <ul>
-                            <li><a href="industries/information_tech.php">IT &amp; Technology</a></li>
-                            <li><a href="industries/finance.php">Finance &amp; FinTech</a></li>
-                            <li><a href="industries/manufacturing.php">Manufacturing</a></li>
-                            <li><a href="industries/healthcare.php">Healthcare</a></li>
-                            <li><a href="industries/ecommerce.php">E-Commerce &amp; D2C</a></li>
-                            <li><a href="industries/education.php">Education &amp; E-Learning</a></li>
-                            <li><a href="industries/realestate.php">Real Estate</a></li>
-                            <li><a href="industries/logistics.php">Logistics &amp; Supply Chain</a></li>
-                            <li><a href="industries/professional_services.php">Professional Services</a></li>
-                            <li><a href="industries/startups.php">Startups</a></li>
+                            <li><a href="/industries/information_tech.php">IT &amp; Technology</a></li>
+                            <li><a href="/industries/finance.php">Finance &amp; FinTech</a></li>
+                            <li><a href="/industries/manufacturing.php">Manufacturing</a></li>
+                            <li><a href="/industries/healthcare.php">Healthcare</a></li>
+                            <li><a href="/industries/ecommerce.php">E-Commerce &amp; D2C</a></li>
+                            <li><a href="/industries/education.php">Education &amp; E-Learning</a></li>
+                            <li><a href="/industries/realestate.php">Real Estate</a></li>
+                            <li><a href="/industries/logistics.php">Logistics &amp; Supply Chain</a></li>
+                            <li><a href="/industries/professional_services.php">Professional Services</a></li>
+                            <li><a href="/industries/startups.php">Startups</a></li>
                         </ul>
                     </div>
                 </div>
@@ -130,14 +130,14 @@
                     <div class="f-item link">
                         <h4 class="widget-title">Video Services</h4>
                         <ul>
-                            <li><a href="./services/Explainer-Videos.php">Explainer Videos</a></li>
-                            <li><a href="./services/Demo-Videos.php">Demo Videos</a></li>
-                            <li><a href="./services/Video-Ads.php">Video Ads</a></li>
-                            <li><a href="./services/Social-Media-Videos.php">Social Media Videos</a></li>
-                            <li><a href="./services/Repurpose-Videos.php">Repurpose Videos</a></li>
-                            <li><a href="./services/Video-Editing.php">Video Editing</a></li>
-                            <li><a href="./services/How-To-Videos.php">How-to Videos</a></li>
-                            <li><a href="./services/Onboarding-Videos.php">Onboarding Videos</a></li>
+                            <li><a href="/services/Explainer-Videos.php">Explainer Videos</a></li>
+                            <li><a href="/services/Demo-Videos.php">Demo Videos</a></li>
+                            <li><a href="/services/Video-Ads.php">Video Ads</a></li>
+                            <li><a href="/services/Social-Media-Videos.php">Social Media Videos</a></li>
+                            <li><a href="/services/Repurpose-Videos.php">Repurpose Videos</a></li>
+                            <li><a href="/services/Video-Editing.php">Video Editing</a></li>
+                            <li><a href="/services/How-To-Videos.php">How-to Videos</a></li>
+                            <li><a href="/services/Onboarding-Videos.php">Onboarding Videos</a></li>
 
                         </ul>
                     </div>
@@ -149,21 +149,21 @@
                     <div class="f-item link">
                         <h4 class="widget-title">WhatsApp Marketing</h4>
                         <ul>
-                            <li><a href="whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
-                            <li><a href="whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
-                            <li><a href="whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
-                            <li><a href="whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
-                            <li><a href="whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flow</a></li>
+                            <li><a href="/whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
+                            <li><a href="/whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
+                            <li><a href="/whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
+                            <li><a href="/whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
+                            <li><a href="/whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flow</a></li>
                         </ul>
                     </div>
 
                     <div class="f-item link mt-5">
                         <h4 class="widget-title">UAE Digital Services</h4>
                         <ul>
-                            <li><a href="uae/website-design-development.php">Website Design & Development</a></li>
-                            <li><a href="uae/web-application-development.php">Web Application Development</a></li>
-                            <li><a href="uae/mobile-app-development.php">Mobile App Development</a></li>
-                            <li><a href="uae/digital-marketing-services.php">Digital Marketing Services</a></li>
+                            <li><a href="/uae/website-design-development.php">Website Design & Development</a></li>
+                            <li><a href="/uae/web-application-development.php">Web Application Development</a></li>
+                            <li><a href="/uae/mobile-app-development.php">Mobile App Development</a></li>
+                            <li><a href="/uae/digital-marketing-services.php">Digital Marketing Services</a></li>
                         </ul>
                     </div>
                 </div>
@@ -172,11 +172,11 @@
                     <div class="f-item link">
                         <h4 class="widget-title">Data Services</h4>
                         <ul>
-                            <li><a href="data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
-                            <li><a href="data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
-                            <li><a href="data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
-                            <li><a href="data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
-                            <li><a href="data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
+                            <li><a href="/data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
+                            <li><a href="/data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
+                            <li><a href="/data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
+                            <li><a href="/data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
+                            <li><a href="/data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
                         </ul>
                     </div>
 
@@ -184,10 +184,10 @@
                     <div class="f-item link mt-5">
                         <h4 class="widget-title">Africa Digital Services</h4>
                         <ul>
-                            <li><a href="africa/website-design-development.php">Website Design & Development</a></li>
-                            <li><a href="africa/web-application-development.php">Web Application Development</a></li>
-                            <li><a href="africa/mobile-app-development.php">Mobile App Development</a></li>
-                            <li><a href="africa/digital-marketing-services.php">Digital Marketing Services</a></li>
+                            <li><a href="/africa/website-design-development.php">Website Design & Development</a></li>
+                            <li><a href="/africa/web-application-development.php">Web Application Development</a></li>
+                            <li><a href="/africa/mobile-app-development.php">Mobile App Development</a></li>
+                            <li><a href="/africa/digital-marketing-services.php">Digital Marketing Services</a></li>
                         </ul>
                     </div>
 
@@ -197,19 +197,19 @@
                     <div class="f-item link">
                         <h4 class="widget-title">Data Annotation Services</h4>
                         <ul>
-                            <li><a href="data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
-                            <li><a href="data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
-                            <li><a href="data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
-                            <li><a href="data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
+                            <li><a href="/data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
+                            <li><a href="/data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
+                            <li><a href="/data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
+                            <li><a href="/data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
                         </ul>
                     </div>
                     <div class="f-item link mt-5">
                         <h4 class="widget-title">Australia Digital Services</h4>
                         <ul>
-                            <li><a href="australia/website-design-development.php">Website Design & Development</a></li>
-                            <li><a href="australia/web-application-development.php">Web Application Development</a></li>
-                            <li><a href="australia/mobile-app-development.php">Mobile App Development</a></li>
-                            <li><a href="australia/digital-marketing-services.php">Digital Marketing Services</a></li>
+                            <li><a href="/australia/website-design-development.php">Website Design & Development</a></li>
+                            <li><a href="/australia/web-application-development.php">Web Application Development</a></li>
+                            <li><a href="/australia/mobile-app-development.php">Mobile App Development</a></li>
+                            <li><a href="/australia/digital-marketing-services.php">Digital Marketing Services</a></li>
                         </ul>
                     </div>
                 </div>
@@ -222,19 +222,19 @@
                     <div class="f-item link">
                         <h4 class="widget-title">UK Digital Services</h4>
                         <ul>
-                            <li><a href="uk/website-design-development.php">Website Design & Development</a></li>
-                            <li><a href="uk/web-application-development.php">Web Application Development</a></li>
-                            <li><a href="uk/mobile-app-development.php">Mobile App Development</a></li>
-                            <li><a href="uk/digital-marketing-services.php">Digital Marketing Services</a></li>
+                            <li><a href="/uk/website-design-development.php">Website Design & Development</a></li>
+                            <li><a href="/uk/web-application-development.php">Web Application Development</a></li>
+                            <li><a href="/uk/mobile-app-development.php">Mobile App Development</a></li>
+                            <li><a href="/uk/digital-marketing-services.php">Digital Marketing Services</a></li>
                         </ul>
                     </div>
                     <div class="f-item link mt-5">
                         <h4 class="widget-title">USA Digital Services</h4>
                         <ul>
-                            <li><a href="usa/website-design-development.php">Website Design & Development</a></li>
-                            <li><a href="usa/web-application-development.php">Web Application Development</a></li>
-                            <li><a href="usa/mobile-app-development.php">Mobile App Development</a></li>
-                            <li><a href="usa/digital-marketing-services.php">Digital Marketing Services</a></li>
+                            <li><a href="/usa/website-design-development.php">Website Design & Development</a></li>
+                            <li><a href="/usa/web-application-development.php">Web Application Development</a></li>
+                            <li><a href="/usa/mobile-app-development.php">Mobile App Development</a></li>
+                            <li><a href="/usa/digital-marketing-services.php">Digital Marketing Services</a></li>
                         </ul>
                     </div>
                 </div>
@@ -243,11 +243,11 @@
                     <div class="f-item link">
                         <h4 class="widget-title">Resources</h4>
                         <ul>
-                            <li><a href="./resources/all-blogs.php">Blogs</a></li>
-                            <li><a href="case-studies.php">Case Studies</a></li>
-                            <li><a href="about.php">About Us</a></li>
-                            <li><a href="contact-us.php">Contact Us</a></li>
-                            <li><a href="privacy_policy.php">Privacy Policy</a></li>
+                            <li><a href="/resources/all-blogs.php">Blogs</a></li>
+                            <li><a href="/case-studies.php">Case Studies</a></li>
+                            <li><a href="/about.php">About Us</a></li>
+                            <li><a href="/contact-us.php">Contact Us</a></li>
+                            <li><a href="/privacy_policy.php">Privacy Policy</a></li>
                         </ul>
                     </div>
                     <br>

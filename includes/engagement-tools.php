@@ -58,8 +58,7 @@ function handleNewsletterSubmit(e) {
     formData.append('source', 'newsletter_bar');
     formData.append('form_ts', window.__itdglPageTs || Math.floor(Date.now()/1000));
     formData.append('username_hp', '');
-    var basePath = window.location.pathname.indexOf('/services/') !== -1 ? '../' : (window.location.pathname.indexOf('/resources/') !== -1 ? '../' : (window.location.pathname.match(/^\/(africa|australia|uae|uk|usa)\//) ? '../' : ''));
-    fetch(basePath + 'leadCaptureMail.php', { method: 'POST', body: formData });
+    fetch('/leadCaptureMail.php', { method: 'POST', body: formData });
 
     document.getElementById('newsletter-form').style.display = 'none';
     document.getElementById('newsletter-success').style.display = 'block';
