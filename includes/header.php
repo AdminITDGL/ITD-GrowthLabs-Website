@@ -14,11 +14,11 @@
                    <span>Australia</span>
                </a>
                <a href="uk/index.php" class="country-flag-item">
-                   <span class="flag-emoji" role="img" aria-label="UK Flag">&#127468;&#127463;</span>
+                   <img src="assets/img/uk.png" alt="UK Flag">
                    <span>UK</span>
                </a>
                <a href="usa/index.php" class="country-flag-item">
-                   <span class="flag-emoji" role="img" aria-label="USA Flag">&#127482;&#127480;</span>
+                   <img src="assets/img/usa.png" alt="USA Flag">
                    <span>USA</span>
                </a>
            </div>
@@ -170,6 +170,12 @@
                                    <a href="products/logistics-mobile-app.php">
                                        <strong>Logistics Mobile App</strong><br>
                                        <span style="font-size:12px;color:#888;">Custom-built delivery app for your brand</span>
+                                   </a>
+                               </li>
+                               <li>
+                                   <a href="products/multi-vendor-marketplace-app.php">
+                                       <strong>Multi-Vendor Marketplace App</strong><br>
+                                       <span style="font-size:12px;color:#888;">Food, grocery, fish, pharmacy, hyperlocal &amp; B2B</span>
                                    </a>
                                </li>
                            </ul>
