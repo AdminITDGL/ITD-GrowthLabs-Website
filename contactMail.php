@@ -8,6 +8,7 @@ require __DIR__ . '/PHPMailer/src/PHPMailer.php';
 require __DIR__ . '/PHPMailer/src/SMTP.php';
 require_once __DIR__ . '/includes/spam_protection.php';
 require_once __DIR__ . '/includes/email_templates.php';
+require_once __DIR__ . '/includes/lead_log.php';
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
@@ -19,6 +20,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $mobile  = isset($_POST['mobile'])  ? htmlspecialchars($_POST['mobile'])                     : '';
     $service = isset($_POST['service']) ? htmlspecialchars($_POST['service'])                    : '';
     $message = isset($_POST['message']) ? htmlspecialchars($_POST['message'])                    : '';
+
+    // STOPGAP: outbound SMTP is blocked from this droplet (see includes/lead_log.php).
+    // Persist every lead to a private CSV BEFORE attempting SMTP so nothing is lost
+    // if PHPMailer's connect() times out.
+    itdgl_log_lead('contactMail', compact('name', 'email', 'mobile', 'service', 'message'));
 
     $secretKey = "6Lcm0hosAAAAAO-sjX64qw9HYhBf-tpFkT_RUdqy";
     $response = $_POST['g-recaptcha-response'] ?? '';
@@ -68,8 +74,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $mail->send();
         }
     } catch (Exception $e) {
-        error_log("contactMail Error: " . $e->getMessage());
-        echo json_encode(['status' => 'error', 'message' => 'Mail sending failed: ' . $e->getMessage()]);
+        // Lead is already in /tmp/itdgl_leads/leads_YYYY-MM.csv from the call above,
+        // so nothing is lost. Surface the SMTP error clearly for log greppers.
+        itdgl_log_mail_failure('contactMail', $e->getMessage(), compact('name', 'email', 'mobile'));
+        // No echo here: success was already flushed via fastcgi_finish_request earlier.
     }
 } else {
     echo json_encode(['status' => 'error', 'message' => 'Invalid Request']);

@@ -8,6 +8,7 @@ require __DIR__ . '/PHPMailer/src/PHPMailer.php';
 require __DIR__ . '/PHPMailer/src/SMTP.php';
 require_once __DIR__ . '/includes/spam_protection.php';
 require_once __DIR__ . '/includes/email_templates.php';
+require_once __DIR__ . '/includes/lead_log.php';
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
@@ -20,6 +21,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $phone             = isset($_POST['phone'])             ? htmlspecialchars($_POST['phone'])                  : '';
     $preferred_platform = isset($_POST['preferred_platform']) ? htmlspecialchars($_POST['preferred_platform'])  : '';
     $message           = isset($_POST['message'])           ? htmlspecialchars($_POST['message'])                : '';
+
+    // STOPGAP: outbound SMTP is blocked from this droplet (see includes/lead_log.php)
+    itdgl_log_lead('socialMediaForm', compact('full_name', 'company_name', 'email', 'phone', 'preferred_platform', 'message'));
 
     $secretKey = "6Lcm0hosAAAAAO-sjX64qw9HYhBf-tpFkT_RUdqy";
     $response = $_POST['g-recaptcha-response'] ?? '';
@@ -69,8 +73,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $mail->send();
         }
     } catch (Exception $e) {
-        error_log("socialMediaFormMail Error: " . $e->getMessage());
-        echo json_encode(['status' => 'error', 'message' => 'Mail sending failed: ' . $e->getMessage()]);
+        itdgl_log_mail_failure('socialMediaForm', $e->getMessage(), ['name' => $full_name, 'email' => $email]);
     }
 } else {
     echo json_encode(['status' => 'error', 'message' => 'Invalid Request']);

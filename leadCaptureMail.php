@@ -8,6 +8,7 @@ require __DIR__ . '/PHPMailer/src/PHPMailer.php';
 require __DIR__ . '/PHPMailer/src/SMTP.php';
 require_once __DIR__ . '/includes/spam_protection.php';
 require_once __DIR__ . '/includes/email_templates.php';
+require_once __DIR__ . '/includes/lead_log.php';
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
@@ -91,6 +92,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         exit;
     }
 
+    // STOPGAP: outbound SMTP is blocked from this droplet (see includes/lead_log.php)
+    // Persist every download/popup lead to a private CSV BEFORE attempting SMTP.
+    itdgl_log_lead('leadCapture_' . $source, [
+        'name' => $name, 'email' => $email, 'mobile' => $mobile,
+        'source' => $source, 'source_label' => $sourceLabel,
+    ]);
+
     // ── Real leads (download / contact / etc): email the team as before ─────
     try {
         $mail = new PHPMailer(true);
@@ -133,7 +141,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
 
     } catch (Exception $e) {
-        error_log("leadCaptureMail Error: " . $e->getMessage());
+        itdgl_log_mail_failure('leadCapture_' . $source, $e->getMessage(), ['name' => $name, 'email' => $email]);
     }
 } else {
     echo json_encode(['status' => 'error', 'message' => 'Invalid Request']);

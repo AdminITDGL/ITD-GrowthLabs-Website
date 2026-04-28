@@ -8,6 +8,7 @@ require __DIR__ . '/PHPMailer/src/PHPMailer.php';
 require __DIR__ . '/PHPMailer/src/SMTP.php';
 require_once __DIR__ . '/includes/spam_protection.php';
 require_once __DIR__ . '/includes/email_templates.php';
+require_once __DIR__ . '/includes/lead_log.php';
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
@@ -19,6 +20,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $phone       = isset($_POST['phone'])       ? htmlspecialchars($_POST['phone'])                        : '';
     $budget      = isset($_POST['budget'])      ? htmlspecialchars($_POST['budget'])                       : '';
     $requirement = isset($_POST['requirement']) ? htmlspecialchars($_POST['requirement'])                  : '';
+
+    // STOPGAP: outbound SMTP is blocked from this droplet (see includes/lead_log.php)
+    itdgl_log_lead('appDevelopmentForm', compact('full_name', 'email', 'phone', 'budget', 'requirement'));
 
     $secretKey = "6Lcm0hosAAAAAO-sjX64qw9HYhBf-tpFkT_RUdqy";
     $response = $_POST['g-recaptcha-response'] ?? '';
@@ -68,8 +72,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $mail->send();
         }
     } catch (Exception $e) {
-        error_log("appDevelopmentFormMail Error: " . $e->getMessage());
-        echo json_encode(['status' => 'error', 'message' => 'Mail sending failed: ' . $e->getMessage()]);
+        // Lead persisted to /tmp/itdgl_leads/ above; surface SMTP error for log greppers
+        itdgl_log_mail_failure('appDevelopmentForm', $e->getMessage(), ['name' => $full_name, 'email' => $email]);
     }
 } else {
     echo json_encode(['status' => 'error', 'message' => 'Invalid Request']);
