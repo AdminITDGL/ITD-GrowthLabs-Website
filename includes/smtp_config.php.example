@@ -1,0 +1,33 @@
+<?php
+/**
+ * SMTP transport configuration for all form handlers.
+ *
+ * Why this lives outside git:
+ *   - GitHub Push Protection blocks commits that contain SMTP credentials.
+ *   - Rotating creds shouldn't require a code deploy.
+ *
+ * Setup on a new environment:
+ *   1. Copy this file:  cp includes/smtp_config.php.example includes/smtp_config.php
+ *   2. Fill in real creds below.
+ *   3. Verify outbound TCP to the SMTP host:port is open from this server.
+ *      (DigitalOcean droplets have outbound :25/:465/:587 BLOCKED to smtp.gmail.com.
+ *       Use a relay provider like Brevo, Mailgun, or Amazon SES instead.)
+ *   4. The file is gitignored — never commit it.
+ *
+ * Used by every *Mail.php handler in the repo.
+ */
+
+use PHPMailer\PHPMailer\PHPMailer;
+
+if (!function_exists('itdgl_configure_smtp')) {
+    function itdgl_configure_smtp(PHPMailer $mail) {
+        $mail->isSMTP();
+        $mail->Host       = 'REPLACE_WITH_SMTP_HOST';        // e.g. smtp-relay.brevo.com
+        $mail->SMTPAuth   = true;
+        $mail->Username   = 'REPLACE_WITH_SMTP_USERNAME';     // e.g. xxxxx@smtp-brevo.com
+        $mail->Password   = 'REPLACE_WITH_SMTP_PASSWORD';     // SMTP key / app password
+        $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
+        $mail->Port       = 587;
+        $mail->CharSet    = 'UTF-8';
+    }
+}

@@ -9,6 +9,7 @@ require __DIR__ . '/PHPMailer/src/SMTP.php';
 require_once __DIR__ . '/includes/spam_protection.php';
 require_once __DIR__ . '/includes/email_templates.php';
 require_once __DIR__ . '/includes/lead_log.php';
+require_once __DIR__ . '/includes/smtp_config.php';
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
@@ -71,14 +72,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         if (!empty($email)) {
             try {
                 $mail = new PHPMailer(true);
-                $mail->isSMTP();
-                $mail->Host       = 'smtp.gmail.com';
-                $mail->SMTPAuth   = true;
-                $mail->Username   = 'info@itdgrowthlabs.com';
-                $mail->Password   = 'qaze srft zxyy dfgy';
-                $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
-                $mail->Port       = 587;
-                $mail->CharSet    = 'UTF-8';
+                // SMTP transport configured in includes/smtp_config.php (gitignored).
+                itdgl_configure_smtp($mail);
                 $mail->setFrom('info@itdgrowthlabs.com', 'ITD GrowthLabs');
                 $mail->addAddress($email, $name ?: 'Subscriber');
                 $mail->isHTML(true);
@@ -102,14 +97,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // ── Real leads (download / contact / etc): email the team as before ─────
     try {
         $mail = new PHPMailer(true);
-        $mail->isSMTP();
-        $mail->Host       = 'smtp.gmail.com';
-        $mail->SMTPAuth   = true;
-        $mail->Username   = 'info@itdgrowthlabs.com';
-        $mail->Password   = 'qaze srft zxyy dfgy';
-        $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
-        $mail->Port       = 587;
-        $mail->CharSet    = 'UTF-8';
+        // SMTP transport configured in includes/smtp_config.php (gitignored).
+        itdgl_configure_smtp($mail);
 
         // ── 1. Internal notification to the team ──────────────────────────
         $mail->setFrom('info@itdgrowthlabs.com', 'ITD GrowthLabs Website');

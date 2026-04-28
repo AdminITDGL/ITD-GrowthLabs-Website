@@ -1,0 +1,11 @@
+# SMTP credentials — see includes/smtp_config.php.example
+includes/smtp_config.php
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Local lead-log staging (production lives in /tmp/itdgl_leads on droplet)
+tmp/itdgl_leads/
