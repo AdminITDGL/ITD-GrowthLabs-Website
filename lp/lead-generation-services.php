@@ -241,12 +241,17 @@
                                         <b>Get a Free Consultation</b>
                                     </h4>
                                 </div>
-                                <form id="contactMail">
+                                <form id="leadGenForm">
                                     <div class="row">
                                         <div class="col-lg-6">
                                             <div class="form-group">
                                                 <input type="hidden" name="username_hp">
-                                                <input type="text" name="name" class="form-control" placeholder="Full Name *" required="">
+                                                <input type="text" name="full_name" class="form-control" placeholder="Full Name *" required="">
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="form-group">
+                                                <input type="text" name="company_name" class="form-control" placeholder="Company Name *" required="">
                                             </div>
                                         </div>
                                         <div class="col-lg-6">
@@ -254,29 +259,44 @@
                                                 <input type="email" name="email" class="form-control" placeholder="Email ID *" required="">
                                             </div>
                                         </div>
-                                        <div class="col-lg-12">
+                                        <div class="col-lg-6">
                                             <div class="form-group">
-                                                <input type="text" name="mobile" class="form-control" placeholder="Mobile Number *" required="">
+                                                <input type="text" name="phone" class="form-control" placeholder="Phone Number *" required="">
                                             </div>
                                         </div>
-                                        <div class="col-lg-12">
+                                        <div class="col-lg-6">
                                             <div class="form-group">
-                                                <select name="service" class="form-control" required="">
-                                                    <option value="" disabled="" selected="">Service Interested In *</option>
-                                                    <option value="Technology Solutions (Website, App, AI, Database)">Technology Solutions (Website, App, AI, Database)</option>
-                                                    <option value="Digital Marketing (Social Media, Branding)">Digital Marketing (Social Media, Branding)</option>
-                                                    <option value="Lead Generation – Paid Ads (Meta, Google)">Lead Generation – Paid Ads (Meta, Google)</option>
-                                                    <option value="Content &amp; Creative Services (Writing, Video, Media)">Content &amp; Creative Services (Writing, Video, Media)</option>
+                                                <select name="target_industry" class="form-control" required="">
+                                                    <option value="" disabled="" selected="">Target Industry *</option>
+                                                    <option value="B2B / SaaS">B2B / SaaS</option>
+                                                    <option value="E-commerce / D2C">E-commerce / D2C</option>
+                                                    <option value="Real Estate">Real Estate</option>
+                                                    <option value="Healthcare">Healthcare</option>
+                                                    <option value="Education / EdTech">Education / EdTech</option>
+                                                    <option value="Finance / Fintech">Finance / Fintech</option>
+                                                    <option value="Logistics">Logistics</option>
+                                                    <option value="Other">Other</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="form-group">
+                                                <select name="ad_budget" class="form-control" required="">
+                                                    <option value="" disabled="" selected="">Monthly Ad Budget *</option>
+                                                    <option value="Under Rs 50,000">Under Rs 50,000</option>
+                                                    <option value="Rs 50,000 - 1,50,000">Rs 50,000 - 1,50,000</option>
+                                                    <option value="Rs 1,50,000 - 5,00,000">Rs 1,50,000 - 5,00,000</option>
+                                                    <option value="Rs 5,00,000+">Rs 5,00,000+</option>
                                                 </select>
                                             </div>
                                         </div>
                                         <div class="col-lg-12">
                                             <div class="form-group comments">
-                                                <textarea name="message" class="form-control" placeholder="Tell Us About Your Requirement *" required=""></textarea>
+                                                <textarea name="message" class="form-control" placeholder="Tell Us About Your Requirement / Campaign Goal *" required=""></textarea>
                                             </div>
                                         </div>
                                     </div>
-                                    <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response">
+                                    <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response-lgs">
                                     <div class="row">
                                         <div class="col-lg-12">
                                             <button type="submit" class="btn btn-primary w-100">

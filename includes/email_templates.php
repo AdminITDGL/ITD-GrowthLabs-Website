@@ -105,6 +105,7 @@ if (!function_exists('itdgl_user_email')) {
             'lead_generation'     => ['Your Lead Generation Brief is Received!',     'Our performance marketing team will study your goals and reach out within 24 hours.'],
             'video_production'    => ['Your Video Production Request is Logged!',    'Our creative production team will be in touch with you within 24 hours.'],
             'profile_download'    => ['Your Company Profile is on Its Way!',         'Thank you for your interest in ITD GrowthLabs. We\'d love to explore how we can help grow your business.'],
+            'newsletter'          => ['Welcome to the ITD GrowthLabs Newsletter!',   'You\'ll receive weekly insights on app development, web design, SEO, and digital marketing — actionable advice, no fluff.'],
             'contact'             => ['Thank You for Reaching Out!',                 'Our team has received your enquiry and will get back to you within 24 hours.'],
         ];
 

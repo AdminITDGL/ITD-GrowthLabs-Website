@@ -42,6 +42,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // now go to a dated CSV outside the web root that ops can pull via SSH.
     // Location: sys_get_temp_dir()/itdgl_newsletter/subscribers_YYYY-MM.csv
     if ($isNewsletter) {
+        // 1. Log to CSV (still no team email — see comment above re: bot flood)
         try {
             $logDir = sys_get_temp_dir() . DIRECTORY_SEPARATOR . 'itdgl_newsletter';
             if (!is_dir($logDir)) @mkdir($logDir, 0755, true);
@@ -63,7 +64,31 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         } catch (Exception $e) {
             error_log("Newsletter log error: " . $e->getMessage());
         }
-        exit;  // Done — no team email, no user confirmation (newsletter subs were already confirmed in UI)
+
+        // 2. Send a welcome email to the subscriber so they have proof of signup.
+        //    Anti-bot middleware (itdgl_verify_submission with dedupe) already ran above.
+        if (!empty($email)) {
+            try {
+                $mail = new PHPMailer(true);
+                $mail->isSMTP();
+                $mail->Host       = 'smtp.gmail.com';
+                $mail->SMTPAuth   = true;
+                $mail->Username   = 'info@itdgrowthlabs.com';
+                $mail->Password   = 'qaze srft zxyy dfgy';
+                $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
+                $mail->Port       = 587;
+                $mail->CharSet    = 'UTF-8';
+                $mail->setFrom('info@itdgrowthlabs.com', 'ITD GrowthLabs');
+                $mail->addAddress($email, $name ?: 'Subscriber');
+                $mail->isHTML(true);
+                $mail->Subject = 'Welcome to ITD GrowthLabs — You\'re Subscribed';
+                $mail->Body    = itdgl_user_email($name ?: 'there', ['form_type' => 'newsletter']);
+                $mail->send();
+            } catch (Exception $e) {
+                error_log("Newsletter welcome email error: " . $e->getMessage());
+            }
+        }
+        exit;
     }
 
     // ── Real leads (download / contact / etc): email the team as before ─────
