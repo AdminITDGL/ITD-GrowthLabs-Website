@@ -16,6 +16,7 @@
                                         <div class="col-lg-6">
                                             <div class="form-group">
                                                 <input type="hidden" name="username_hp">
+                                                <input type="hidden" name="form_ts" value="<?php echo time(); ?>">
                                                 <input type="text" name="name" class="form-control" placeholder="Full Name *" required="">
                                             </div>
                                         </div>

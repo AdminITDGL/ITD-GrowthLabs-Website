@@ -804,10 +804,16 @@
 
             <!-- Filter tabs -->
             <ul class="cs-filter-bar" role="tablist" aria-label="Filter case studies by industry">
-                <li><button type="button" class="cs-filter-btn is-active" data-filter="all" aria-pressed="true">All case studies (5)</button></li>
-                <li><button type="button" class="cs-filter-btn" data-filter="logistics" aria-pressed="false">Logistics &amp; Courier (3)</button></li>
-                <li><button type="button" class="cs-filter-btn" data-filter="food" aria-pressed="false">Food &amp; Hyperlocal (2)</button></li>
-                <li><button type="button" class="cs-filter-btn" data-filter="saas" aria-pressed="false">SaaS (1)</button></li>
+                <li><button type="button" class="cs-filter-btn is-active" data-filter="all" aria-pressed="true">All case studies (15)</button></li>
+                <li><button type="button" class="cs-filter-btn" data-filter="logistics" aria-pressed="false">Logistics &amp; Courier (4)</button></li>
+                <li><button type="button" class="cs-filter-btn" data-filter="food" aria-pressed="false">Food, Restaurant &amp; Hyperlocal (5)</button></li>
+                <li><button type="button" class="cs-filter-btn" data-filter="saas" aria-pressed="false">SaaS &amp; B2B (3)</button></li>
+                <li><button type="button" class="cs-filter-btn" data-filter="healthcare" aria-pressed="false">Healthcare (1)</button></li>
+                <li><button type="button" class="cs-filter-btn" data-filter="fintech" aria-pressed="false">Fintech &amp; NBFC (1)</button></li>
+                <li><button type="button" class="cs-filter-btn" data-filter="education" aria-pressed="false">Education (1)</button></li>
+                <li><button type="button" class="cs-filter-btn" data-filter="ecommerce" aria-pressed="false">E-Commerce &amp; D2C (1)</button></li>
+                <li><button type="button" class="cs-filter-btn" data-filter="realestate" aria-pressed="false">Real Estate (1)</button></li>
+                <li><button type="button" class="cs-filter-btn" data-filter="marketplace" aria-pressed="false">Marketplace (2)</button></li>
             </ul>
 
             <!-- Case Study 1 -->
@@ -922,6 +928,7 @@
                     </div>
 
                     <a href="contact-us.php" class="case-study-cta">Start a Similar Project <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                    <a href="case-studies/online-fish-delivery-marketplace-app.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
                 </div>
             </div>
 
@@ -1038,6 +1045,7 @@
                     </div>
 
                     <a href="contact-us.php" class="case-study-cta">Start a Similar Project <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                    <a href="case-studies/food-delivery-vendor-operations-system.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
                 </div>
             </div>
 
@@ -1096,6 +1104,436 @@
 
                     <a href="contact-us.php" class="case-study-cta">Start a Similar Project <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
                     <a href="case-studies/courier-management-system.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                </div>
+            </div>
+
+            <!-- Case Study 6: Multi-Vendor Marketplace App (food + grocery) -->
+            <div class="case-study-card" data-category="marketplace food ecommerce">
+                <div class="case-study-header">
+                    <span class="case-study-number">06</span>
+                    <span class="industry-tag"><i class="fas fa-store"></i> Marketplace · Food &amp; Grocery</span>
+                    <h3>Multi-Vendor Marketplace App for Food &amp; Grocery</h3>
+                </div>
+                <div class="case-study-body">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-exclamation-circle"></i> The Challenge</div>
+                            <p>A regional grocery brand was bleeding 22-28% per order to national aggregators. They needed their own multi-vendor marketplace — customer + vendor + rider apps + admin — to cut commissions and own the customer relationship.</p>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-lightbulb"></i> Our Solution</div>
+                            <p>Built a four-app marketplace on a single Laravel API: customer app (Flutter), vendor app (Flutter), rider app (Flutter), admin web (React). Configuration-first city onboarding. Inventory honesty system cut cancellations from 8% to 1.4%.</p>
+                        </div>
+                    </div>
+                    <div class="case-study-section-title"><i class="fas fa-code"></i> Tech Stack</div>
+                    <div class="mb-4">
+                        <span class="tech-badge">Flutter</span>
+                        <span class="tech-badge">Laravel 10</span>
+                        <span class="tech-badge">MySQL</span>
+                        <span class="tech-badge">Firebase RTDB</span>
+                        <span class="tech-badge">Razorpay</span>
+                        <span class="tech-badge">AWS</span>
+                    </div>
+                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> Results</div>
+                    <div class="results-grid">
+                        <div class="result-item"><span class="result-number">12,000+</span><span class="result-label">Monthly Active Users</span></div>
+                        <div class="result-item"><span class="result-number">320+</span><span class="result-label">Vendors Onboarded</span></div>
+                        <div class="result-item"><span class="result-number">850+</span><span class="result-label">Daily Orders</span></div>
+                        <div class="result-item"><span class="result-number">Zero</span><span class="result-label">Aggregator Commissions</span></div>
+                    </div>
+                    <div class="case-study-meta">
+                        <span><i class="fas fa-calendar-alt"></i> Timeline: 5 Months</span>
+                        <span><i class="fas fa-users"></i> Team: 9 + 1 PM + 2 Designers</span>
+                    </div>
+                    <a href="contact-us.php" class="case-study-cta">Start a Similar Project <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                    <a href="case-studies/multi-vendor-marketplace-app-food-grocery.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                </div>
+            </div>
+
+            <!-- Case Study 7: Telemedicine + HIPAA + ABDM -->
+            <div class="case-study-card" data-category="healthcare">
+                <div class="case-study-header">
+                    <span class="case-study-number">07</span>
+                    <span class="industry-tag"><i class="fas fa-stethoscope"></i> Healthcare · Telemedicine</span>
+                    <h3>Telemedicine App with HIPAA &amp; ABDM Compliance</h3>
+                </div>
+                <div class="case-study-body">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-exclamation-circle"></i> The Challenge</div>
+                            <p>A primary-care telehealth startup needed a platform that satisfied HIPAA (US) and ABDM (India) on day one — with FHIR-compliant EHR, doctor verification, and prescription credibility. Without ABDM, no pharmacy fulfilment.</p>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-lightbulb"></i> Our Solution</div>
+                            <p>Patient app + doctor app + EHR + compliance-aware data layer. ABDM HIE-CM consent flow modelled as 11-state machine. Zero compliance incidents in 12 months. Penetration-tested by CERT-In auditor.</p>
+                        </div>
+                    </div>
+                    <div class="case-study-section-title"><i class="fas fa-code"></i> Tech Stack</div>
+                    <div class="mb-4">
+                        <span class="tech-badge">React Native</span>
+                        <span class="tech-badge">NestJS</span>
+                        <span class="tech-badge">PostgreSQL</span>
+                        <span class="tech-badge">FHIR R4</span>
+                        <span class="tech-badge">AWS HIPAA</span>
+                        <span class="tech-badge">ABDM HIE-CM</span>
+                    </div>
+                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> Results</div>
+                    <div class="results-grid">
+                        <div class="result-item"><span class="result-number">80,000+</span><span class="result-label">Patient Records</span></div>
+                        <div class="result-item"><span class="result-number">14,000+</span><span class="result-label">Monthly Consults</span></div>
+                        <div class="result-item"><span class="result-number">320+</span><span class="result-label">Verified Doctors</span></div>
+                        <div class="result-item"><span class="result-number">100%</span><span class="result-label">ABDM-Compliant Rx</span></div>
+                    </div>
+                    <div class="case-study-meta">
+                        <span><i class="fas fa-calendar-alt"></i> Timeline: 9 Months</span>
+                        <span><i class="fas fa-users"></i> Team: 11 + 1 PM + 1 Compliance Lead</span>
+                    </div>
+                    <a href="contact-us.php" class="case-study-cta">Start a Similar Project <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                    <a href="case-studies/telemedicine-app-hipaa-abdm-compliant.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                </div>
+            </div>
+
+            <!-- Case Study 8: D2C E-Commerce App (Fashion) -->
+            <div class="case-study-card" data-category="ecommerce">
+                <div class="case-study-header">
+                    <span class="case-study-number">08</span>
+                    <span class="industry-tag"><i class="fas fa-tshirt"></i> E-Commerce · D2C</span>
+                    <h3>D2C E-Commerce Mobile App for a Fashion Brand</h3>
+                </div>
+                <div class="case-study-body">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-exclamation-circle"></i> The Challenge</div>
+                            <p>A D2C fashion brand was paying Meta Rs 1,400 per acquisition while ending up with 14% repeat-rate and a stagnant LTV. Marketplaces ate margin and customer data. They needed an owned-app channel that drove repeat without paid spend.</p>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-lightbulb"></i> Our Solution</div>
+                            <p>Flutter app on Shopify Storefront API + Klaviyo + WhatsApp engagement loop. Push-driven re-engagement, post-purchase WhatsApp flow, and a wardrobe-style profile that lifted repeat rate to 41%. Cut CAC 38% in five months.</p>
+                        </div>
+                    </div>
+                    <div class="case-study-section-title"><i class="fas fa-code"></i> Tech Stack</div>
+                    <div class="mb-4">
+                        <span class="tech-badge">Flutter</span>
+                        <span class="tech-badge">Node.js</span>
+                        <span class="tech-badge">Shopify Storefront API</span>
+                        <span class="tech-badge">Klaviyo</span>
+                        <span class="tech-badge">WhatsApp Cloud API</span>
+                        <span class="tech-badge">Razorpay</span>
+                    </div>
+                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> Results</div>
+                    <div class="results-grid">
+                        <div class="result-item"><span class="result-number">38%</span><span class="result-label">CAC Reduction</span></div>
+                        <div class="result-item"><span class="result-number">41%</span><span class="result-label">Repeat-Order Rate</span></div>
+                        <div class="result-item"><span class="result-number">Rs 4.2 Cr</span><span class="result-label">App-Driven GMV</span></div>
+                        <div class="result-item"><span class="result-number">4.8 &#9733;</span><span class="result-label">App Rating</span></div>
+                    </div>
+                    <div class="case-study-meta">
+                        <span><i class="fas fa-calendar-alt"></i> Timeline: 4 Months</span>
+                        <span><i class="fas fa-users"></i> Team: 6 + 1 PM + 1 Designer</span>
+                    </div>
+                    <a href="contact-us.php" class="case-study-cta">Start a Similar Project <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                    <a href="case-studies/d2c-ecommerce-mobile-app-fashion-brand.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                </div>
+            </div>
+
+            <!-- Case Study 9: Fleet Management SaaS (3PL Logistics) -->
+            <div class="case-study-card" data-category="logistics saas">
+                <div class="case-study-header">
+                    <span class="case-study-number">09</span>
+                    <span class="industry-tag"><i class="fas fa-truck-moving"></i> Logistics · 3PL · SaaS</span>
+                    <h3>Fleet Management SaaS for a 14-Hub 3PL</h3>
+                </div>
+                <div class="case-study-body">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-exclamation-circle"></i> The Challenge</div>
+                            <p>A 14-hub 3PL was running on a tangle of carrier portals, Excel and WhatsApp. Cost-per-delivery was creeping; lost shipments were eroding contracts. They needed a single platform spanning hub-to-hub, last-mile, fleet, and customer billing.</p>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-lightbulb"></i> Our Solution</div>
+                            <p>Custom SaaS with hub-ops console, driver app, customer portal, and a route-optimisation engine. Cut cost-per-delivery 22%, hit zero lost shipments in the first 90 days. NestJS + Postgres + Bull queues across 50,000+ monthly shipments.</p>
+                        </div>
+                    </div>
+                    <div class="case-study-section-title"><i class="fas fa-code"></i> Tech Stack</div>
+                    <div class="mb-4">
+                        <span class="tech-badge">NestJS</span>
+                        <span class="tech-badge">PostgreSQL</span>
+                        <span class="tech-badge">Bull MQ</span>
+                        <span class="tech-badge">Flutter</span>
+                        <span class="tech-badge">React</span>
+                        <span class="tech-badge">Google OR-Tools</span>
+                    </div>
+                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> Results</div>
+                    <div class="results-grid">
+                        <div class="result-item"><span class="result-number">22%</span><span class="result-label">Cost-Per-Delivery Cut</span></div>
+                        <div class="result-item"><span class="result-number">50,000+</span><span class="result-label">Monthly Shipments</span></div>
+                        <div class="result-item"><span class="result-number">Zero</span><span class="result-label">Lost Shipments (90-day)</span></div>
+                        <div class="result-item"><span class="result-number">14</span><span class="result-label">Hubs Live</span></div>
+                    </div>
+                    <div class="case-study-meta">
+                        <span><i class="fas fa-calendar-alt"></i> Timeline: 7 Months</span>
+                        <span><i class="fas fa-users"></i> Team: 9 + 1 PM</span>
+                    </div>
+                    <a href="contact-us.php" class="case-study-cta">Start a Similar Project <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                    <a href="case-studies/fleet-management-saas-3pl-logistics.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                </div>
+            </div>
+
+            <!-- Case Study 10: Cross-Border Courier Platform -->
+            <div class="case-study-card" data-category="logistics saas">
+                <div class="case-study-header">
+                    <span class="case-study-number">10</span>
+                    <span class="industry-tag"><i class="fas fa-globe-asia"></i> Logistics · Cross-Border</span>
+                    <h3>Cross-Border Courier Platform (India · UAE · UK)</h3>
+                </div>
+                <div class="case-study-body">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-exclamation-circle"></i> The Challenge</div>
+                            <p>A cross-border courier ran into 11% customs holds, 9% invoice disputes, six carriers with six APIs, and three currencies. Domestic platforms broke at every cross-border seam. They needed one platform with a customs rules engine and multi-PSP billing.</p>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-lightbulb"></i> Our Solution</div>
+                            <p>Single API surface across 6 carriers, a configurable customs rules engine, multi-currency invoicing on Stripe + Razorpay multi-PSP. Hit 99.4% on-time, 0.4% customs holds, 0.5% invoice disputes. India ↔ UAE ↔ UK live; Singapore in design.</p>
+                        </div>
+                    </div>
+                    <div class="case-study-section-title"><i class="fas fa-code"></i> Tech Stack</div>
+                    <div class="mb-4">
+                        <span class="tech-badge">NestJS</span>
+                        <span class="tech-badge">PostgreSQL</span>
+                        <span class="tech-badge">Stripe</span>
+                        <span class="tech-badge">Razorpay</span>
+                        <span class="tech-badge">React</span>
+                        <span class="tech-badge">AWS Multi-Region</span>
+                    </div>
+                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> Results</div>
+                    <div class="results-grid">
+                        <div class="result-item"><span class="result-number">99.4%</span><span class="result-label">On-Time Delivery</span></div>
+                        <div class="result-item"><span class="result-number">9,000+</span><span class="result-label">Monthly Shipments</span></div>
+                        <div class="result-item"><span class="result-number">0.4%</span><span class="result-label">Customs Holds (from 11%)</span></div>
+                        <div class="result-item"><span class="result-number">Rs 4.6 Cr</span><span class="result-label">Annual Revenue Recovered</span></div>
+                    </div>
+                    <div class="case-study-meta">
+                        <span><i class="fas fa-calendar-alt"></i> Timeline: 6 Months</span>
+                        <span><i class="fas fa-users"></i> Team: 8 + 1 PM</span>
+                    </div>
+                    <a href="contact-us.php" class="case-study-cta">Start a Similar Project <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                    <a href="case-studies/cross-border-courier-platform-saas.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                </div>
+            </div>
+
+            <!-- Case Study 11: Restaurant POS + Online Ordering -->
+            <div class="case-study-card" data-category="food">
+                <div class="case-study-header">
+                    <span class="case-study-number">11</span>
+                    <span class="industry-tag"><i class="fas fa-utensils"></i> Restaurant · POS</span>
+                    <h3>Restaurant POS &amp; Online Ordering Platform (14-Outlet QSR)</h3>
+                </div>
+                <div class="case-study-body">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-exclamation-circle"></i> The Challenge</div>
+                            <p>A 14-outlet QSR chain was leaking 25-28% of every order to aggregators. They needed an owned POS, customer ordering app, and kitchen display — to bring orders back to their channel and end the aggregator margin tax.</p>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-lightbulb"></i> Our Solution</div>
+                            <p>Customer app + POS terminal + kitchen display + admin web. ESC/POS direct printer integration, offline-tolerant POS with local-first SQLite, central master menu. Cut commissions 38%, saved Rs 1.4 Cr annually.</p>
+                        </div>
+                    </div>
+                    <div class="case-study-section-title"><i class="fas fa-code"></i> Tech Stack</div>
+                    <div class="mb-4">
+                        <span class="tech-badge">Flutter</span>
+                        <span class="tech-badge">NestJS</span>
+                        <span class="tech-badge">PostgreSQL</span>
+                        <span class="tech-badge">Redis</span>
+                        <span class="tech-badge">Razorpay</span>
+                        <span class="tech-badge">ESC/POS</span>
+                    </div>
+                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> Results</div>
+                    <div class="results-grid">
+                        <div class="result-item"><span class="result-number">38%</span><span class="result-label">Aggregator Commissions Cut</span></div>
+                        <div class="result-item"><span class="result-number">14</span><span class="result-label">Outlets Live</span></div>
+                        <div class="result-item"><span class="result-number">28%</span><span class="result-label">Repeat-Order Rate</span></div>
+                        <div class="result-item"><span class="result-number">Rs 1.4 Cr</span><span class="result-label">Annual Savings</span></div>
+                    </div>
+                    <div class="case-study-meta">
+                        <span><i class="fas fa-calendar-alt"></i> Timeline: 5 Months</span>
+                        <span><i class="fas fa-users"></i> Team: 7 + 1 PM + 1 Designer</span>
+                    </div>
+                    <a href="contact-us.php" class="case-study-cta">Start a Similar Project <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                    <a href="case-studies/restaurant-pos-online-ordering-platform.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                </div>
+            </div>
+
+            <!-- Case Study 12: Real-Estate CRM + WhatsApp -->
+            <div class="case-study-card" data-category="realestate">
+                <div class="case-study-header">
+                    <span class="case-study-number">12</span>
+                    <span class="industry-tag"><i class="fas fa-building"></i> Real Estate · CRM</span>
+                    <h3>Real-Estate CRM with WhatsApp Automation</h3>
+                </div>
+                <div class="case-study-body">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-exclamation-circle"></i> The Challenge</div>
+                            <p>A 9-property residential developer was burning Rs 800 per portal lead and converting 0.8% to site visits. Time-to-first-touch averaged 14 hours. Channel partners had no app, no visibility, no skin in the game.</p>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-lightbulb"></i> Our Solution</div>
+                            <p>CRM + sales-team app + channel-partner app + WhatsApp Cloud API engine. Multi-source lead ingestion, instant ack, drip nurture, partner self-service. Lifted site-visit conversion 4.2x; cut average response time to 48 seconds.</p>
+                        </div>
+                    </div>
+                    <div class="case-study-section-title"><i class="fas fa-code"></i> Tech Stack</div>
+                    <div class="mb-4">
+                        <span class="tech-badge">Laravel 10</span>
+                        <span class="tech-badge">PostgreSQL</span>
+                        <span class="tech-badge">React</span>
+                        <span class="tech-badge">React Native</span>
+                        <span class="tech-badge">WhatsApp Cloud API</span>
+                        <span class="tech-badge">Twilio</span>
+                    </div>
+                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> Results</div>
+                    <div class="results-grid">
+                        <div class="result-item"><span class="result-number">4.2x</span><span class="result-label">Site-Visit Conversion</span></div>
+                        <div class="result-item"><span class="result-number">28,000+</span><span class="result-label">Leads Managed</span></div>
+                        <div class="result-item"><span class="result-number">87%</span><span class="result-label">WhatsApp Open Rate</span></div>
+                        <div class="result-item"><span class="result-number">48 sec</span><span class="result-label">Avg First-Response</span></div>
+                    </div>
+                    <div class="case-study-meta">
+                        <span><i class="fas fa-calendar-alt"></i> Timeline: 5 Months</span>
+                        <span><i class="fas fa-users"></i> Team: 6 + 1 PM + 1 RevOps</span>
+                    </div>
+                    <a href="contact-us.php" class="case-study-cta">Start a Similar Project <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                    <a href="case-studies/real-estate-crm-whatsapp-automation.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                </div>
+            </div>
+
+            <!-- Case Study 13: NBFC Loan Origination -->
+            <div class="case-study-card" data-category="fintech">
+                <div class="case-study-header">
+                    <span class="case-study-number">13</span>
+                    <span class="industry-tag"><i class="fas fa-money-check-alt"></i> Fintech · NBFC</span>
+                    <h3>NBFC Loan Origination Platform — Same-Day Disbursal at Scale</h3>
+                </div>
+                <div class="case-study-body">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-exclamation-circle"></i> The Challenge</div>
+                            <p>An NBFC was disbursing personal loans on a 22-day TAT — competitive death in a sector where neo-banks promise same-day. Manual KYC, late bureau pulls, hard-coded policy, RBI digital-lending audit gaps. Nine-month deadline.</p>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-lightbulb"></i> Our Solution</div>
+                            <p>Borrower app + agent app + underwriting console + configurable rules engine + AA-orchestrated KYC/bureau. Java Spring core with immutable hash-chained audit trail. Compressed TAT to under 24h for 78% of loans. Zero RBI audit findings.</p>
+                        </div>
+                    </div>
+                    <div class="case-study-section-title"><i class="fas fa-code"></i> Tech Stack</div>
+                    <div class="mb-4">
+                        <span class="tech-badge">Java Spring Boot 3</span>
+                        <span class="tech-badge">PostgreSQL</span>
+                        <span class="tech-badge">Kafka</span>
+                        <span class="tech-badge">React Native</span>
+                        <span class="tech-badge">React</span>
+                        <span class="tech-badge">AWS Multi-Region</span>
+                    </div>
+                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> Results</div>
+                    <div class="results-grid">
+                        <div class="result-item"><span class="result-number">&lt;24h</span><span class="result-label">TAT for 78% of Loans</span></div>
+                        <div class="result-item"><span class="result-number">14,000+</span><span class="result-label">Monthly Applications</span></div>
+                        <div class="result-item"><span class="result-number">Rs 320 Cr</span><span class="result-label">Monthly Gross Disbursal</span></div>
+                        <div class="result-item"><span class="result-number">Zero</span><span class="result-label">RBI Audit Findings</span></div>
+                    </div>
+                    <div class="case-study-meta">
+                        <span><i class="fas fa-calendar-alt"></i> Timeline: 11 Months</span>
+                        <span><i class="fas fa-users"></i> Team: 13 + 1 PM + 2 Compliance</span>
+                    </div>
+                    <a href="contact-us.php" class="case-study-cta">Start a Similar Project <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                    <a href="case-studies/nbfc-loan-origination-dashboard-fintech.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                </div>
+            </div>
+
+            <!-- Case Study 14: EdTech LMS -->
+            <div class="case-study-card" data-category="education">
+                <div class="case-study-header">
+                    <span class="case-study-number">14</span>
+                    <span class="industry-tag"><i class="fas fa-graduation-cap"></i> EdTech · LMS</span>
+                    <h3>EdTech LMS with Live Classes (60,000 Students)</h3>
+                </div>
+                <div class="case-study-body">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-exclamation-circle"></i> The Challenge</div>
+                            <p>An EdTech startup was running on free Zoom + WhatsApp + Google Drive. The system fell over at 4,000 students. Parents had zero visibility. Mocks took 3-4 days to grade. They needed a real platform to capture the next admission cycle.</p>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-lightbulb"></i> Our Solution</div>
+                            <p>Student + teacher + parent + admin apps with self-hosted WebRTC SFU (mediasoup). HLS-streamed VOD, instant-grade mocks, parent visibility. Saved Rs 18L/month vs managed SFUs. 92% live class uptime at the student edge.</p>
+                        </div>
+                    </div>
+                    <div class="case-study-section-title"><i class="fas fa-code"></i> Tech Stack</div>
+                    <div class="mb-4">
+                        <span class="tech-badge">React Native</span>
+                        <span class="tech-badge">React</span>
+                        <span class="tech-badge">Node.js</span>
+                        <span class="tech-badge">mediasoup (WebRTC)</span>
+                        <span class="tech-badge">FFmpeg</span>
+                        <span class="tech-badge">AWS CloudFront</span>
+                    </div>
+                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> Results</div>
+                    <div class="results-grid">
+                        <div class="result-item"><span class="result-number">60,000+</span><span class="result-label">Active Students</span></div>
+                        <div class="result-item"><span class="result-number">220+</span><span class="result-label">Teachers Onboarded</span></div>
+                        <div class="result-item"><span class="result-number">92%</span><span class="result-label">Live Class Uptime</span></div>
+                        <div class="result-item"><span class="result-number">38%</span><span class="result-label">Cancellation Drop</span></div>
+                    </div>
+                    <div class="case-study-meta">
+                        <span><i class="fas fa-calendar-alt"></i> Timeline: 9 Months</span>
+                        <span><i class="fas fa-users"></i> Team: 10 + 1 PM + 1 Designer</span>
+                    </div>
+                    <a href="contact-us.php" class="case-study-cta">Start a Similar Project <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                    <a href="case-studies/edtech-lms-live-classes-platform.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                </div>
+            </div>
+
+            <!-- Case Study 15: SaaS Inventory + Restaurant Vendor Ops -->
+            <div class="case-study-card" data-category="saas">
+                <div class="case-study-header">
+                    <span class="case-study-number">15</span>
+                    <span class="industry-tag"><i class="fas fa-boxes"></i> SaaS · Multi-Tenant Retail</span>
+                    <h3>SaaS Inventory Management for 60+ Retail Stores</h3>
+                </div>
+                <div class="case-study-body">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-exclamation-circle"></i> The Challenge</div>
+                            <p>A retail chain wanted to productise their internal inventory tooling and resell it. The legacy app was hard-coded for one chain, single-tenant, deskbound. Onboarding new chains was a 6-week dev project — that is not a SaaS.</p>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-lightbulb"></i> Our Solution</div>
+                            <p>Multi-tenant rebuild with row-level org_id + RLS, configurable rules engine, Flutter scanner app (turns any phone into a scanner). 4 chains live, 60+ stores, 45% stockout reduction. Onboarding new chains: 3-5 days vs 6 weeks.</p>
+                        </div>
+                    </div>
+                    <div class="case-study-section-title"><i class="fas fa-code"></i> Tech Stack</div>
+                    <div class="mb-4">
+                        <span class="tech-badge">NestJS</span>
+                        <span class="tech-badge">PostgreSQL (RLS)</span>
+                        <span class="tech-badge">Redis</span>
+                        <span class="tech-badge">React</span>
+                        <span class="tech-badge">Flutter</span>
+                        <span class="tech-badge">AWS</span>
+                    </div>
+                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> Results</div>
+                    <div class="results-grid">
+                        <div class="result-item"><span class="result-number">60+</span><span class="result-label">Retail Stores Live</span></div>
+                        <div class="result-item"><span class="result-number">4</span><span class="result-label">Customer Chains</span></div>
+                        <div class="result-item"><span class="result-number">45%</span><span class="result-label">Stockout Reduction</span></div>
+                        <div class="result-item"><span class="result-number">3-5 days</span><span class="result-label">New Chain Onboarding</span></div>
+                    </div>
+                    <div class="case-study-meta">
+                        <span><i class="fas fa-calendar-alt"></i> Timeline: 7 Months</span>
+                        <span><i class="fas fa-users"></i> Team: 8 + 1 PM + 1 SaaS-PM</span>
+                    </div>
+                    <a href="contact-us.php" class="case-study-cta">Start a Similar Project <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                    <a href="case-studies/saas-inventory-management-retail-chains.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
                 </div>
             </div>
 
