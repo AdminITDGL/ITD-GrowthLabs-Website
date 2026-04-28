@@ -117,6 +117,226 @@
                                     </li>
                                 </ul>
                             </div>
+                            <h3 class="post-title"><a href="../resources/Transport_Management_System_TMS_Software_Development_Cost_India_2026.php">Transport Management System (TMS) Software Development Cost in India 2026 — Features, Modules &amp; Pricing</a></h3>
+                            <a href="../resources/Transport_Management_System_TMS_Software_Development_Cost_India_2026.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">ITD GrowthLabs</a>
+                                    </li>
+                                    <li>
+                                        April 2026
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Cold_Chain_Logistics_Technology_2026_IoT_WMS_Real_Time_Tracking.php">Cold Chain Logistics Technology in 2026 — IoT Sensors, Real-Time Tracking, WMS &amp; Compliance Guide</a></h3>
+                            <a href="../resources/Cold_Chain_Logistics_Technology_2026_IoT_WMS_Real_Time_Tracking.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">ITD GrowthLabs</a>
+                                    </li>
+                                    <li>
+                                        April 2026
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Container_Tracking_Shipping_Software_Development_Guide_2026.php">Container Tracking &amp; Shipping Software Development Guide 2026 — Cost, Features, EDI &amp; Multi-Modal</a></h3>
+                            <a href="../resources/Container_Tracking_Shipping_Software_Development_Guide_2026.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">ITD GrowthLabs</a>
+                                    </li>
+                                    <li>
+                                        April 2026
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Trucking_Driver_App_Development_Fleet_ELD_India_2026.php">Trucking &amp; Driver App Development 2026 — Fleet, ELD, Compliance &amp; Cost in India</a></h3>
+                            <a href="../resources/Trucking_Driver_App_Development_Fleet_ELD_India_2026.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">ITD GrowthLabs</a>
+                                    </li>
+                                    <li>
+                                        April 2026
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Insurance_App_Development_India_2026_InsurTech_IRDAI_Cost_Guide.php">Insurance App Development in India 2026 — InsurTech Cost, IRDAI Compliance &amp; Features</a></h3>
+                            <a href="../resources/Insurance_App_Development_India_2026_InsurTech_IRDAI_Cost_Guide.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">ITD GrowthLabs</a>
+                                    </li>
+                                    <li>
+                                        April 2026
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/EdTech_App_Development_Online_Learning_Live_Classes_LMS_Cost_India_2026.php">EdTech App Development 2026 — Online Learning, Live Classes &amp; LMS Cost in India</a></h3>
+                            <a href="../resources/EdTech_App_Development_Online_Learning_Live_Classes_LMS_Cost_India_2026.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">ITD GrowthLabs</a>
+                                    </li>
+                                    <li>
+                                        April 2026
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/App_Development_Company_in_Kolkata_2026_Cost_Top_Firms.php">App Development Company in Kolkata 2026 — Cost, Top Firms &amp; How to Choose</a></h3>
+                            <a href="../resources/App_Development_Company_in_Kolkata_2026_Cost_Top_Firms.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">ITD GrowthLabs</a>
+                                    </li>
+                                    <li>
+                                        April 2026
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Website_Development_Company_in_Chennai_2026_Pricing_Lead_Gen.php">Website Development Company in Chennai 2026 — Pricing, Top Vendors &amp; Lead-Gen Guide</a></h3>
+                            <a href="../resources/Website_Development_Company_in_Chennai_2026_Pricing_Lead_Gen.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">ITD GrowthLabs</a>
+                                    </li>
+                                    <li>
+                                        April 2026
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/App_Development_Company_in_Saudi_Arabia_Riyadh_2026_Vision_2030.php">App Development Company in Saudi Arabia / Riyadh 2026 — Vision 2030 Tech Partner Guide</a></h3>
+                            <a href="../resources/App_Development_Company_in_Saudi_Arabia_Riyadh_2026_Vision_2030.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">ITD GrowthLabs</a>
+                                    </li>
+                                    <li>
+                                        April 2026
+                                    </li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/App_Development_Company_in_Singapore_2026_Costs_India_Outsource.php">App Development Company in Singapore 2026 — Costs, Top Vendors &amp; Why Founders Outsource to India</a></h3>
+                            <a href="../resources/App_Development_Company_in_Singapore_2026_Costs_India_Outsource.php" class="button-regular">
+                                Continue Reading <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li>
+                                        <a href="#">ITD GrowthLabs</a>
+                                    </li>
+                                    <li>
+                                        April 2026
+                                    </li>
+                                </ul>
+                            </div>
                             <h3 class="post-title"><a href="../resources/Multi_Vendor_Marketplace_App_Development_Cost_India_2026.php">Multi-Vendor Marketplace App Development Cost in India 2026 — Complete Pricing Breakdown</a></h3>
                             <a href="../resources/Multi_Vendor_Marketplace_App_Development_Cost_India_2026.php" class="button-regular">
                                 Continue Reading <i class="fas fa-arrow-right"></i>
