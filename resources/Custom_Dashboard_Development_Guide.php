@@ -62,6 +62,10 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"BlogPosting","headline":"Custom Dashboard Development: Data Visualization for Business Intelligence","description":"Build custom dashboards with charts, KPIs, real-time data & drill-down analytics. Design & development guide by ITD GrowthLabs.","author":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"publisher":{"@type":"Organization","name":"ITD GrowthLabs","logo":{"@type":"ImageObject","url":"https://itdgrowthlabs.com/assets/img/logo.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://itdgrowthlabs.com/resources/Custom_Dashboard_Development_Guide.php"},"datePublished":"2026-03-12","articleSection":"Web Development"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Resources", "item": "https://itdgrowthlabs.com/resources/all-blogs.php"}, {"@type": "ListItem", "position": 3, "name": "Custom Dashboard Development: Data Visualization for Business Intelligence"}]}
+    </script>
 </head>
 
 <body>

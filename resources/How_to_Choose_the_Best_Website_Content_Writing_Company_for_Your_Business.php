@@ -78,6 +78,10 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"BlogPosting","headline":"How to Choose the Best Website Content Writing Company for Your Business","description":"Discover how to select the best content company in India for your business. Learn key factors to consider when choosing a website content agency and why ITD GrowthLabs stands out as your ideal partner","author":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"publisher":{"@type":"Organization","name":"ITD GrowthLabs","logo":{"@type":"ImageObject","url":"https://itdgrowthlabs.com/assets/img/logo.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://itdgrowthlabs.com/resources/How_to_Choose_the_Best_Website_Content_Writing_Company_for_Your_Business.php"},"articleSection":"Content Marketing"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Resources", "item": "https://itdgrowthlabs.com/resources/all-blogs.php"}, {"@type": "ListItem", "position": 3, "name": "How to Choose the Best Website Content Writing Company for Your Business"}]}
+    </script>
 </head>
 
 <body>

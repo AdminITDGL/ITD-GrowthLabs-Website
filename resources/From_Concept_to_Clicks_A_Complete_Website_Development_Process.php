@@ -78,6 +78,10 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"BlogPosting","headline":"Website Development Process: Step-by-Step Guide","description":"Explore the website development process from planning to launch. Understand web development stages and how ITD GrowthLabs can guide your digital journey.","author":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"publisher":{"@type":"Organization","name":"ITD GrowthLabs","logo":{"@type":"ImageObject","url":"https://itdgrowthlabs.com/assets/img/logo.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://itdgrowthlabs.com/resources/From_Concept_to_Clicks_A_Complete_Website_Development_Process.php"},"articleSection":"Website Development"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Resources", "item": "https://itdgrowthlabs.com/resources/all-blogs.php"}, {"@type": "ListItem", "position": 3, "name": "Website Development Process: Step-by-Step Guide"}]}
+    </script>
 </head>
 
 <body>

@@ -62,6 +62,10 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"BlogPosting","headline":"Setting Up an Offshore Development Center (ODC) in India","description":"Build your dedicated development team in India. ODC models, cost structure, legal framework & management best practices by ITD GrowthLabs.","author":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"publisher":{"@type":"Organization","name":"ITD GrowthLabs","logo":{"@type":"ImageObject","url":"https://itdgrowthlabs.com/assets/img/logo.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://itdgrowthlabs.com/resources/Offshore_Development_Center_India_Setup.php"},"datePublished":"2026-02-13","articleSection":"Industry & Location"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Resources", "item": "https://itdgrowthlabs.com/resources/all-blogs.php"}, {"@type": "ListItem", "position": 3, "name": "Setting Up an Offshore Development Center (ODC) in India"}]}
+    </script>
 </head>
 
 <body>

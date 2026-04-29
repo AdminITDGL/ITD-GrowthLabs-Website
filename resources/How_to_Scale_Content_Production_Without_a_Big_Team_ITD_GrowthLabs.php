@@ -60,6 +60,10 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"BlogPosting","headline":"How to Scale Content Production Without a Big Team","description":"Learn how SEO-friendly websites improve rankings and UX. Explore SEO web design and how ITD GrowthLabs enhances search-optimized development.","author":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"publisher":{"@type":"Organization","name":"ITD GrowthLabs","logo":{"@type":"ImageObject","url":"https://itdgrowthlabs.com/assets/img/logo.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://itdgrowthlabs.com/resources/How_to_Scale_Content_Production_Without_a_Big_Team_ITD_GrowthLabs.php"},"articleSection":"Content Marketing"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Resources", "item": "https://itdgrowthlabs.com/resources/all-blogs.php"}, {"@type": "ListItem", "position": 3, "name": "How to Scale Content Production Without a Big Team"}]}
+    </script>
 </head>
 
 <body>

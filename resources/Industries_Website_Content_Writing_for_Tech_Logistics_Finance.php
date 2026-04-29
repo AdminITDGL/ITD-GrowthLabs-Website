@@ -60,6 +60,10 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"BlogPosting","headline":"Industries We Serve: Website Content Writing for Tech, Logistics, Finance & More | ITD Growthlabs","description":"Explore ITD Growthlabs’ expert content services for technology, logistics, and finance sectors. From fintech content to logistics web content, we deliver precise, SEO-optimized industry content writin","author":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"publisher":{"@type":"Organization","name":"ITD GrowthLabs","logo":{"@type":"ImageObject","url":"https://itdgrowthlabs.com/assets/img/logo.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://itdgrowthlabs.com/resources/Industries_Website_Content_Writing_for_Tech_Logistics_Finance.php"},"articleSection":"Content Marketing"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Resources", "item": "https://itdgrowthlabs.com/resources/all-blogs.php"}, {"@type": "ListItem", "position": 3, "name": "Industries We Serve: Website Content Writing for Tech, Logistics, Finance & More"}]}
+    </script>
 </head>
 
 <body>

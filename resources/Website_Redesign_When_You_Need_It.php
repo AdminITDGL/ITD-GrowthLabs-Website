@@ -62,6 +62,10 @@
     <script type="application/ld+json">
     {"@context": "https://schema.org", "@type": "BlogPosting", "headline": "Website Redesign: When You Actually Need It (and When You Do Not)", "description": "Signs your website needs a redesign vs signs it just needs optimization. Save money by knowing the difference.", "datePublished": "2026-04-11", "dateModified": "2026-04-11", "author": {"@type": "Organization", "name": "ITD GrowthLabs", "url": "https://itdgrowthlabs.com"}, "publisher": {"@type": "Organization", "name": "ITD GrowthLabs", "logo": {"@type": "ImageObject", "url": "https://itdgrowthlabs.com/assets/img/logo.jpg"}}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://itdgrowthlabs.com/resources/Website_Redesign_When_You_Need_It.php"}, "articleSection": "Website Development"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Resources", "item": "https://itdgrowthlabs.com/resources/all-blogs.php"}, {"@type": "ListItem", "position": 3, "name": "Website Redesign: When You Actually Need It (and When You Do Not)"}]}
+    </script>
 </head>
 
 <body>

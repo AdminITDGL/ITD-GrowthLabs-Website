@@ -62,6 +62,10 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"BlogPosting","headline":"Custom CRM Development: Why Off-the-Shelf CRMs Fall Short","description":"Build a custom CRM tailored to your business workflow. Features, benefits & cost comparison with Salesforce, HubSpot. ITD GrowthLabs guide.","author":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"publisher":{"@type":"Organization","name":"ITD GrowthLabs","logo":{"@type":"ImageObject","url":"https://itdgrowthlabs.com/assets/img/logo.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://itdgrowthlabs.com/resources/Custom_CRM_Development_Guide.php"},"datePublished":"2026-01-16","articleSection":"App Development"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Resources", "item": "https://itdgrowthlabs.com/resources/all-blogs.php"}, {"@type": "ListItem", "position": 3, "name": "Custom CRM Development: Why Off-the-Shelf CRMs Fall Short"}]}
+    </script>
 </head>
 
 <body>

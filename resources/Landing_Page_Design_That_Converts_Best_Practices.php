@@ -62,6 +62,10 @@
     <script type="application/ld+json">
     {"@context": "https://schema.org", "@type": "BlogPosting", "headline": "Landing Page Design That Converts: Best Practices for 2026", "description": "Design landing pages that convert visitors into leads. Best practices for layout, copy, CTAs, and A/B testing from ITD GrowthLabs.", "datePublished": "2026-04-11", "dateModified": "2026-04-11", "author": {"@type": "Organization", "name": "ITD GrowthLabs", "url": "https://itdgrowthlabs.com"}, "publisher": {"@type": "Organization", "name": "ITD GrowthLabs", "logo": {"@type": "ImageObject", "url": "https://itdgrowthlabs.com/assets/img/logo.jpg"}}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://itdgrowthlabs.com/resources/Landing_Page_Design_That_Converts_Best_Practices.php"}, "articleSection": "Website Development"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Resources", "item": "https://itdgrowthlabs.com/resources/all-blogs.php"}, {"@type": "ListItem", "position": 3, "name": "Landing Page Design That Converts: Best Practices for 2026"}]}
+    </script>
 </head>
 
 <body>

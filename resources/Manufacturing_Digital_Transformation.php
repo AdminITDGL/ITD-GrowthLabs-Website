@@ -62,6 +62,10 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"BlogPosting","headline":"Digital Transformation for Manufacturing: Industry 4.0 Applications","description":"Implement Industry 4.0 with IoT, AI, automation & digital twins. Manufacturing technology modernization guide by ITD GrowthLabs.","author":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"publisher":{"@type":"Organization","name":"ITD GrowthLabs","logo":{"@type":"ImageObject","url":"https://itdgrowthlabs.com/assets/img/logo.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://itdgrowthlabs.com/resources/Manufacturing_Digital_Transformation.php"},"datePublished":"2026-02-17","articleSection":"Industry & Location"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Resources", "item": "https://itdgrowthlabs.com/resources/all-blogs.php"}, {"@type": "ListItem", "position": 3, "name": "Digital Transformation for Manufacturing: Industry 4.0 Applications"}]}
+    </script>
 </head>
 
 <body>

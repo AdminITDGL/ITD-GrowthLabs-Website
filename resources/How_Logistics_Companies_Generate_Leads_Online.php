@@ -62,6 +62,10 @@
     <script type="application/ld+json">
     {"@context": "https://schema.org", "@type": "BlogPosting", "headline": "How Logistics Companies Generate Leads Online — Proven Digital Strategies", "description": "Digital marketing strategies for logistics companies. SEO, content marketing, Google Ads, and LinkedIn tactics that drive B2B leads.", "datePublished": "2026-04-11", "dateModified": "2026-04-11", "author": {"@type": "Organization", "name": "ITD GrowthLabs", "url": "https://itdgrowthlabs.com"}, "publisher": {"@type": "Organization", "name": "ITD GrowthLabs", "logo": {"@type": "ImageObject", "url": "https://itdgrowthlabs.com/assets/img/logo.jpg"}}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://itdgrowthlabs.com/resources/How_Logistics_Companies_Generate_Leads_Online.php"}, "articleSection": "Digital Marketing"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Resources", "item": "https://itdgrowthlabs.com/resources/all-blogs.php"}, {"@type": "ListItem", "position": 3, "name": "How Logistics Companies Generate Leads Online"}]}
+    </script>
 </head>
 
 <body>

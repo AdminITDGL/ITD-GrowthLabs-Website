@@ -27,6 +27,18 @@
     <meta name="description" content="ITD GrowthLabs is a leading mobile app development company in the USA offering Android & iOS app development services in New York, Los Angeles, Chicago & San Francisco.">
     <meta name="keywords" content="Mobile app development company in the USA, Mobile app development services in the USA, Android app development company in the USA, iOS app development company in the USA, App developers in the USA, Mobile app developers in New York, Mobile app development company in Los Angeles, Custom mobile app development USA">
     <title>Top Mobile App Development Company in the USA | Android & iOS Apps</title>
+    <link rel="canonical" href="https://itdgrowthlabs.com/usa/mobile-app-development.php" />
+    <meta property="og:title" content="Top Mobile App Development Company in the USA | Android & iOS Apps" />
+    <meta property="og:description" content="ITD GrowthLabs is a leading mobile app development company in the USA offering Android & iOS app development services in New York, Los Angeles, Chicago & San Francisco." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/usa/mobile-app-development.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <meta property="og:site_name" content="ITD GrowthLabs" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Top Mobile App Development Company in the USA | Android & iOS Apps" />
+    <meta name="twitter:description" content="ITD GrowthLabs is a leading mobile app development company in the USA offering Android & iOS app development services in New York, Los Angeles, Chicago & San Francisco." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
@@ -718,6 +730,10 @@
     <link rel="alternate" hreflang="en-ae" href="https://itdgrowthlabs.com/uae/mobile-app-development.php" />
     <link rel="alternate" hreflang="en-za" href="https://itdgrowthlabs.com/africa/mobile-app-development.php" />
     <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/app_development.php" />
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "USA", "item": "https://itdgrowthlabs.com/usa/"}, {"@type": "ListItem", "position": 3, "name": "Top Mobile App Development Company in the USA"}]}
+    </script>
 </head>
 
 <body>

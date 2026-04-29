@@ -62,6 +62,10 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"BlogPosting","headline":"AI Ethics & Responsible AI: Building Trustworthy AI Systems","description":"Implement responsible AI with fairness, transparency, privacy & accountability frameworks. AI governance guide by ITD GrowthLabs.","author":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"publisher":{"@type":"Organization","name":"ITD GrowthLabs","logo":{"@type":"ImageObject","url":"https://itdgrowthlabs.com/assets/img/logo.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://itdgrowthlabs.com/resources/AI_Ethics_Responsible_AI_Business.php"},"datePublished":"2026-04-12","articleSection":"AI & Automation"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Resources", "item": "https://itdgrowthlabs.com/resources/all-blogs.php"}, {"@type": "ListItem", "position": 3, "name": "AI Ethics & Responsible AI: Building Trustworthy AI Systems"}]}
+    </script>
 </head>
 
 <body>

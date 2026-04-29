@@ -60,6 +60,10 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"BlogPosting","headline":"SEO Writing for B2B vs B2C: Key Differences & Strategies | ITD Growthlabs","description":"Discover the critical differences between B2B SEO content and B2C writing SEO. Learn how to tailor your business SEO writing strategy for each segment with insights from ITD Growthlabs.","author":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"publisher":{"@type":"Organization","name":"ITD GrowthLabs","logo":{"@type":"ImageObject","url":"https://itdgrowthlabs.com/assets/img/logo.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://itdgrowthlabs.com/resources/SEO_Writing_for_B2B_vs_B2C.php"},"articleSection":"SEO"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Resources", "item": "https://itdgrowthlabs.com/resources/all-blogs.php"}, {"@type": "ListItem", "position": 3, "name": "SEO Writing for B2B vs B2C: Key Differences & Strategies"}]}
+    </script>
 </head>
 
 <body>

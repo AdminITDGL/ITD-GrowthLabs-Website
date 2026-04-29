@@ -62,6 +62,10 @@
     <script type="application/ld+json">
     {"@context": "https://schema.org", "@type": "BlogPosting", "headline": "The Cost of NOT Having a Mobile App for Your Business", "description": "What your business loses without a mobile app. Customer engagement, revenue, and competitive advantage analysis.", "datePublished": "2026-04-11", "dateModified": "2026-04-11", "author": {"@type": "Organization", "name": "ITD GrowthLabs", "url": "https://itdgrowthlabs.com"}, "publisher": {"@type": "Organization", "name": "ITD GrowthLabs", "logo": {"@type": "ImageObject", "url": "https://itdgrowthlabs.com/assets/img/logo.jpg"}}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://itdgrowthlabs.com/resources/Cost_of_Not_Having_Mobile_App.php"}, "articleSection": "App Development"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Resources", "item": "https://itdgrowthlabs.com/resources/all-blogs.php"}, {"@type": "ListItem", "position": 3, "name": "The Cost of NOT Having a Mobile App for Your Business"}]}
+    </script>
 </head>
 
 <body>

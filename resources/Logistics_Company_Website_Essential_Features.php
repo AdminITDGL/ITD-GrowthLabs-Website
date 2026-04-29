@@ -62,6 +62,10 @@
     <script type="application/ld+json">
     {"@context": "https://schema.org", "@type": "BlogPosting", "headline": "Logistics Company Website: Essential Features for Lead Generation", "description": "What features does a logistics company website need to generate leads? Design, content, and conversion optimization guide.", "datePublished": "2026-04-11", "dateModified": "2026-04-11", "author": {"@type": "Organization", "name": "ITD GrowthLabs", "url": "https://itdgrowthlabs.com"}, "publisher": {"@type": "Organization", "name": "ITD GrowthLabs", "logo": {"@type": "ImageObject", "url": "https://itdgrowthlabs.com/assets/img/logo.jpg"}}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://itdgrowthlabs.com/resources/Logistics_Company_Website_Essential_Features.php"}, "articleSection": "Website Development"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Resources", "item": "https://itdgrowthlabs.com/resources/all-blogs.php"}, {"@type": "ListItem", "position": 3, "name": "Logistics Company Website: Essential Features for Lead Generation"}]}
+    </script>
 </head>
 
 <body>

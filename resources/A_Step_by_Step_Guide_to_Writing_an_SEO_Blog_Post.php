@@ -78,6 +78,10 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"BlogPosting","headline":"A Step-by-Step Guide to Writing an SEO Blog Post for 2025.","description":"Learn how to craft the perfect SEO blog post with our detailed step-by-step guide. From keyword research to optimization techniques, boost your rankings and drive traffic today.","author":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"publisher":{"@type":"Organization","name":"ITD GrowthLabs","logo":{"@type":"ImageObject","url":"https://itdgrowthlabs.com/assets/img/logo.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://itdgrowthlabs.com/resources/A_Step_by_Step_Guide_to_Writing_an_SEO_Blog_Post.php"},"articleSection":"SEO"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Resources", "item": "https://itdgrowthlabs.com/resources/all-blogs.php"}, {"@type": "ListItem", "position": 3, "name": "A Step-by-Step Guide to Writing an SEO Blog Post for 2025."}]}
+    </script>
 </head>
 
 <body>

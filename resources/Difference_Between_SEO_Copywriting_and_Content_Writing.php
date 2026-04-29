@@ -78,6 +78,10 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"BlogPosting","headline":"SEO Copywriting vs Content Writing: What’s the Real Difference?","description":"Explore the key differences between SEO copywriting and content writing. Learn how each impacts SEO, traffic, and conversions. Discover which type is right for your business with ITD GrowthLabs.","author":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"publisher":{"@type":"Organization","name":"ITD GrowthLabs","logo":{"@type":"ImageObject","url":"https://itdgrowthlabs.com/assets/img/logo.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://itdgrowthlabs.com/resources/Difference_Between_SEO_Copywriting_and_Content_Writing.php"},"articleSection":"SEO"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Resources", "item": "https://itdgrowthlabs.com/resources/all-blogs.php"}, {"@type": "ListItem", "position": 3, "name": "SEO Copywriting vs Content Writing: What’s the Real Difference?"}]}
+    </script>
 </head>
 
 <body>

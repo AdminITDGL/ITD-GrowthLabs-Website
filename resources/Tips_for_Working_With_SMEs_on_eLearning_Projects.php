@@ -64,6 +64,10 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"BlogPosting","headline":"Tips for Working with SMEs on eLearning Projects | Enhance Instructional Partnerships","description":"Learn effective strategies for working with SMEs on eLearning projects. Boost collaboration and instructional partnerships for better content creation with SMEs.","author":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"publisher":{"@type":"Organization","name":"ITD GrowthLabs","logo":{"@type":"ImageObject","url":"https://itdgrowthlabs.com/assets/img/logo.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://itdgrowthlabs.com/resources/Tips_for_Working_With_SMEs_on_eLearning_Projects.php"},"articleSection":"eLearning"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Resources", "item": "https://itdgrowthlabs.com/resources/all-blogs.php"}, {"@type": "ListItem", "position": 3, "name": "Tips for Working with SMEs on eLearning Projects"}]}
+    </script>
 </head>
 
 <body>

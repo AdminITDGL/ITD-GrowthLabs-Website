@@ -60,6 +60,10 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"BlogPosting","headline":"What is SEO Content Writing and Why is Search Engine Content Key?","description":"Discover the best SEO content tools, writing tools for SEO, content optimization software, and keyword tools that every marketer should leverage in 2025 to enhance content performance and search ranki","author":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"publisher":{"@type":"Organization","name":"ITD GrowthLabs","logo":{"@type":"ImageObject","url":"https://itdgrowthlabs.com/assets/img/logo.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://itdgrowthlabs.com/resources/what_is_seo_content_writing_and_why_is_search_engine_content_key.php"},"articleSection":"SEO"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Resources", "item": "https://itdgrowthlabs.com/resources/all-blogs.php"}, {"@type": "ListItem", "position": 3, "name": "What is SEO Content Writing and Why is Search Engine Content Key?"}]}
+    </script>
 </head>
 
 <body>

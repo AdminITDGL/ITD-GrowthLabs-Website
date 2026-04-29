@@ -75,6 +75,15 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Service","name":"How-to Video Production Services","description":"Create step-by-step how-to videos that educate, engage, and convert. Simplify complex processes with clear, brand-focused instructional videos.","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Video Production"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://itdgrowthlabs.com/app_development.php"}, {"@type": "ListItem", "position": 3, "name": "How-to Video Production Services"}]}
+    </script>
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="How-to Video Production Services | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Create step-by-step how-to videos that educate, engage, and convert. Simplify complex processes with clear, brand-focused instructional videos." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
 </head>
 
 <body>

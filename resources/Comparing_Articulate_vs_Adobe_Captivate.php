@@ -82,6 +82,10 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"BlogPosting","headline":"Comparing Articulate vs Adobe Captivate: Features & Performance | eLearning Tool Review","description":"Compare Articulate and Adobe Captivate with this detailed review. Learn the features, pros, and cons of both eLearning tools, and how they benefit course creators.","author":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"publisher":{"@type":"Organization","name":"ITD GrowthLabs","logo":{"@type":"ImageObject","url":"https://itdgrowthlabs.com/assets/img/logo.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://itdgrowthlabs.com/resources/Comparing_Articulate_vs_Adobe_Captivate.php"},"articleSection":"Business & Technology"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Resources", "item": "https://itdgrowthlabs.com/resources/all-blogs.php"}, {"@type": "ListItem", "position": 3, "name": "Comparing Articulate vs Adobe Captivate: Features & Performance"}]}
+    </script>
 </head>
 
 <body>

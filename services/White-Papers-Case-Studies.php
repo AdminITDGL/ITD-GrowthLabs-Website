@@ -80,6 +80,15 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Service","name":"White Paper Writing Services for B2B Companies","description":"Boost credibility with expert White Papers & case study writing. Drive trust, leads & SEO ranking with proven strategies that drive growth, performanc","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Digital Services"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://itdgrowthlabs.com/app_development.php"}, {"@type": "ListItem", "position": 3, "name": "White Paper Writing Services for B2B Companies"}]}
+    </script>
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="White Paper Writing Services for B2B Companies" />
+    <meta name="twitter:description" content="Boost credibility with expert White Papers & case study writing. Drive trust, leads & SEO ranking with proven strategies that drive growth, performance, and innovation." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
 </head>
 
 <body>

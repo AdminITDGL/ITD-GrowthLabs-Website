@@ -629,6 +629,10 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Service","name":"Local SEO Services for Businesses","description":"Professional Local SEO services to improve local search rankings and attract nearby audiences.","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Local SEO"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://itdgrowthlabs.com/app_development.php"}, {"@type": "ListItem", "position": 3, "name": "Local SEO Services"}]}
+    </script>
 </head>
 
 <body>

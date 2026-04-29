@@ -627,6 +627,15 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Service","name":"WhatsApp Automation Services","description":"Boost engagement with WhatsApp automation and WhatsApp marketing automation. ITD GrowthLabs offers scalable WhatsApp automation solutions for customer","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"WhatsApp Marketing"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://itdgrowthlabs.com/app_development.php"}, {"@type": "ListItem", "position": 3, "name": "WhatsApp Automation Services"}]}
+    </script>
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="WhatsApp Automation Services | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Boost engagement with WhatsApp automation and WhatsApp marketing automation. ITD GrowthLabs offers scalable WhatsApp automation solutions for customer support, lead generation, and business growth." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
 </head>
 
 <body>

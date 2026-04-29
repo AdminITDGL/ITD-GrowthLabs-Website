@@ -74,6 +74,15 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Service","name":"B2B Case Study Writing Services","description":"Case study writing for businesses. Expertly written case studies to establish and reinforce your brand as an industry leader.","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Content and SEO"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://itdgrowthlabs.com/app_development.php"}, {"@type": "ListItem", "position": 3, "name": "B2B Case Study Writing Services"}]}
+    </script>
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="B2B Case Study Writing Services" />
+    <meta name="twitter:description" content="Case study writing for businesses. Expertly written case studies to establish and reinforce your brand as an industry leader." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
 </head>
 
 <body>

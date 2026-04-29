@@ -635,6 +635,15 @@
     <link rel="alternate" hreflang="en-au" href="https://itdgrowthlabs.com/industries/healthcare.php" />
     <link rel="alternate" hreflang="en-ae" href="https://itdgrowthlabs.com/industries/healthcare.php" />
     <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/industries/healthcare.php" />
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Industries", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 3, "name": "Healthcare IT Solutions & Digital Marketing"}]}
+    </script>
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Healthcare Industry Digital Solutions | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Digital solutions for healthcare including HIPAA-compliant websites, patient portal apps, telemedicine platforms, and healthcare marketing services." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
 </head>
 
 <body>

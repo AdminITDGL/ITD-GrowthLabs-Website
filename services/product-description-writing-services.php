@@ -66,6 +66,15 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Service","name":"Product Description Writing","description":"SEO-optimized product description writing services for eCommerce stores","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Content Writing"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://itdgrowthlabs.com/app_development.php"}, {"@type": "ListItem", "position": 3, "name": "Product Description Writing for E-Commerce"}]}
+    </script>
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Product Description Writing for E-Commerce" />
+    <meta name="twitter:description" content="Looking for expert Product Description Writing Services for eCommerce? GrowthLabs offers high-quality, SEO-optimized product descriptions to enhance your online store's performance and boost sales." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
 </head>
 
 <body>

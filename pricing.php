@@ -277,6 +277,11 @@
             display: none;
         }
     </style>
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Pricing — Transparent Cost Estimates | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Get transparent pricing for website development, app development, and digital marketing services. No hidden costs. Free consultation available." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
 </head>
 
 <body>

@@ -27,6 +27,18 @@
     <meta name="description" content="ITD GrowthLabs is a leading mobile app development company in Australia offering Android & iOS app development services in Sydney, Melbourne, Brisbane & Perth.">
     <meta name="keywords" content="Mobile app development company in Australia, Mobile app development services in Australia, Android app development company in Australia, iOS app development company in Australia, App developers in Australia, Mobile app developers in Sydney, Mobile app development company in Melbourne, Custom mobile app development Australia">
     <title>Top Mobile App Development Company in Australia | Android & iOS Apps</title>
+    <link rel="canonical" href="https://itdgrowthlabs.com/australia/mobile-app-development.php" />
+    <meta property="og:title" content="Top Mobile App Development Company in Australia | Android & iOS Apps" />
+    <meta property="og:description" content="ITD GrowthLabs is a leading mobile app development company in Australia offering Android & iOS app development services in Sydney, Melbourne, Brisbane & Perth." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/australia/mobile-app-development.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <meta property="og:site_name" content="ITD GrowthLabs" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Top Mobile App Development Company in Australia | Android & iOS Apps" />
+    <meta name="twitter:description" content="ITD GrowthLabs is a leading mobile app development company in Australia offering Android & iOS app development services in Sydney, Melbourne, Brisbane & Perth." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
@@ -718,6 +730,10 @@
     <link rel="alternate" hreflang="en-ae" href="https://itdgrowthlabs.com/uae/mobile-app-development.php" />
     <link rel="alternate" hreflang="en-za" href="https://itdgrowthlabs.com/africa/mobile-app-development.php" />
     <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/app_development.php" />
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Australia", "item": "https://itdgrowthlabs.com/australia/"}, {"@type": "ListItem", "position": 3, "name": "Top Mobile App Development Company in Australia"}]}
+    </script>
 </head>
 
 <body>

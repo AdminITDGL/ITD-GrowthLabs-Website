@@ -64,6 +64,10 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"BlogPosting","headline":"Mobile-Friendly eLearning Design Strategies for Seamless Learning","description":"Enhance your mobile learning experience with responsive eLearning design strategies. Learn how to make your content mobile-ready and engaging with mobile LMS.","author":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"publisher":{"@type":"Organization","name":"ITD GrowthLabs","logo":{"@type":"ImageObject","url":"https://itdgrowthlabs.com/assets/img/logo.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://itdgrowthlabs.com/resources/Mobile_Friendly_eLearning_Design_Strategies_for_Seamless_Learning.php"},"articleSection":"eLearning"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Resources", "item": "https://itdgrowthlabs.com/resources/all-blogs.php"}, {"@type": "ListItem", "position": 3, "name": "Mobile-Friendly eLearning Design Strategies for Seamless Learning"}]}
+    </script>
 </head>
 
 <body>

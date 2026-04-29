@@ -615,6 +615,10 @@
             .comparison-table thead th, .comparison-table tbody td { padding: 10px 12px; }
         }
     </style>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Products", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 3, "name": "Custom Logistics Mobile App Development for Courier & Delivery Brands"}]}
+    </script>
 </head>
 
 <body>

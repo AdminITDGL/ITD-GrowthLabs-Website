@@ -60,6 +60,10 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"BlogPosting","headline":"SEO Content Strategy: How to Plan Your Blog Calendar for Maximum Impact","description":"Discover how to build an effective SEO content calendar with ITD Growthlabs. Learn strategies for SEO blog planning, content strategy for SEO, and SEO blog writing to boost your online visibility.","author":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"publisher":{"@type":"Organization","name":"ITD GrowthLabs","logo":{"@type":"ImageObject","url":"https://itdgrowthlabs.com/assets/img/logo.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://itdgrowthlabs.com/resources/SEO_Content_Strategy_How_to_Plan_Your_Blog_Calendar.php"},"articleSection":"SEO"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Resources", "item": "https://itdgrowthlabs.com/resources/all-blogs.php"}, {"@type": "ListItem", "position": 3, "name": "SEO Content Strategy: How to Plan Your Blog Calendar for Maximum Impact"}]}
+    </script>
 </head>
 
 <body>

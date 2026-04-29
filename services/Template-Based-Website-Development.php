@@ -82,6 +82,10 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Service","name":"Affordable Template Website Development for SMEs","description":"Launch your business online faster with affordable template-based website development.","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Template-Based Website Development"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://itdgrowthlabs.com/app_development.php"}, {"@type": "ListItem", "position": 3, "name": "Affordable Template Website Development for SMEs"}]}
+    </script>
 </head>
 
 <body>

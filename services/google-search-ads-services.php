@@ -627,6 +627,15 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Service","name":"Google Ads PPC Services for Businesses","description":"Drive instant traffic and boost sales with expert Google Ads PPC services. Our PPC campaigns optimize keywords, ads, and bidding strategies for maximu","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Digital Marketing"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://itdgrowthlabs.com/app_development.php"}, {"@type": "ListItem", "position": 3, "name": "Google Ads PPC Services for Businesses"}]}
+    </script>
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Google Ads PPC Services for Businesses | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Drive instant traffic and boost sales with expert Google Ads PPC services. Our PPC campaigns optimize keywords, ads, and bidding strategies for maximum ROI and measurable results." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
 </head>
 
 <body>

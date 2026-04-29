@@ -27,6 +27,11 @@
     <meta name="description" content="ITD GrowthLabs is a leading digital solutions company in Africa offering website development, mobile apps & digital marketing services across South Africa, Nigeria & Kenya.">
     <meta name="keywords" content="Website and app development company in Africa, digital marketing services Africa, website development South Africa, mobile app development Nigeria, digital solutions Kenya">
     <title>Top Website, App & Digital Marketing Company in Africa | ITD GrowthLabs</title>
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Top Website, App & Digital Marketing Company in Africa | ITD GrowthLabs" />
+    <meta name="twitter:description" content="ITD GrowthLabs is a leading digital solutions company in Africa offering website development, mobile apps & digital marketing services across South Africa, Nigeria & Kenya." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
@@ -769,6 +774,10 @@
         ],
         "serviceType": ["Website Development", "App Development", "Digital Marketing", "SEO Services"]
     }
+    </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Africa", "item": "https://itdgrowthlabs.com/africa/"}, {"@type": "ListItem", "position": 3, "name": "Top Website, App & Digital Marketing Company in Africa"}]}
     </script>
 </head>
 

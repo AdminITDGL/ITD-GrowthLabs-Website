@@ -625,6 +625,15 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Service","name":"Corporate Website Development Services","description":"Corporate website development helps companies build professional digital platforms with responsive design.","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Corporate Website Development"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://itdgrowthlabs.com/app_development.php"}, {"@type": "ListItem", "position": 3, "name": "Corporate Website Development Services"}]}
+    </script>
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Corporate Website Development Services | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Corporate website development helps companies build professional digital platforms with responsive website design and reliable website development services. Strong business website development improves online presence, brand credibility, and user experience." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
 </head>
 
 <body>

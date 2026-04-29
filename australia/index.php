@@ -27,6 +27,11 @@
     <meta name="description" content="ITD GrowthLabs is a leading digital services company in Australia offering website development, web apps, mobile apps & digital marketing across major cities.">
     <meta name="keywords" content="Digital services company in Australia, Digital agency in Australia, Web development company in Australia, Mobile app development company in Australia, Digital marketing services in Australia, IT services company in Australia">
     <title>Top Digital Services Company in Australia | Web, App & Marketing</title>
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Top Digital Services Company in Australia | Web, App & Marketing" />
+    <meta name="twitter:description" content="ITD GrowthLabs is a leading digital services company in Australia offering website development, web apps, mobile apps & digital marketing across major cities." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
@@ -765,6 +770,10 @@
         "areaServed": {"@type": "Country", "name": "Australia"},
         "serviceType": ["Website Development", "App Development", "Digital Marketing", "SEO Services"]
     }
+    </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Australia", "item": "https://itdgrowthlabs.com/australia/"}, {"@type": "ListItem", "position": 3, "name": "Top Digital Services Company in Australia"}]}
     </script>
 </head>
 

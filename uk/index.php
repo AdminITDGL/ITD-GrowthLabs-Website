@@ -27,6 +27,11 @@
     <meta name="description" content="ITD GrowthLabs is a leading digital services company in the UK offering website development, web apps, mobile apps & digital marketing across London, Manchester, Birmingham & more.">
     <meta name="keywords" content="Digital services company in UK, Digital agency in UK, Web development company in UK, Mobile app development company in UK, Digital marketing services in UK, IT services company in UK">
     <title>Top Digital Services Company in UK | Web, App & Marketing | ITD GrowthLabs</title>
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Top Digital Services Company in UK | Web, App & Marketing | ITD GrowthLabs" />
+    <meta name="twitter:description" content="ITD GrowthLabs is a leading digital services company in the UK offering website development, web apps, mobile apps & digital marketing across London, Manchester, Birmingham & more." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
@@ -765,6 +770,10 @@
         "areaServed": {"@type": "Country", "name": "United Kingdom"},
         "serviceType": ["Website Development", "App Development", "Digital Marketing", "SEO Services"]
     }
+    </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "UK", "item": "https://itdgrowthlabs.com/uk/"}, {"@type": "ListItem", "position": 3, "name": "Top Digital Services Company in UK"}]}
     </script>
 </head>
 

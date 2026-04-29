@@ -65,6 +65,10 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"BlogPosting","headline":"Top 5 Benefits of Using ChatGPT and DeepSeek for SEO Content Writing","description":"SEO content writing tools like ChatGPT for SEO and DeepSeek for SEO research can streamline content creation, improve keyword optimization, and enhance your SEO strategy.","author":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"publisher":{"@type":"Organization","name":"ITD GrowthLabs","logo":{"@type":"ImageObject","url":"https://itdgrowthlabs.com/assets/img/logo.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://itdgrowthlabs.com/resources/top-5-benefits-of-using-chatGPT-deepseek-for-seo-content-writing.php"},"articleSection":"SEO"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Resources", "item": "https://itdgrowthlabs.com/resources/all-blogs.php"}, {"@type": "ListItem", "position": 3, "name": "Top 5 Benefits of Using ChatGPT and DeepSeek for SEO Content Writing"}]}
+    </script>
 </head>
 
 <body>

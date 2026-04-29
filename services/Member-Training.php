@@ -75,6 +75,15 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Service","name":"Effective Member Training Solutions | eLearning Services","description":"Empower your members with engaging, flexible eLearning training programs. Boost knowledge, skill adoption, and participation with tailored learning pa","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"eLearning and Training"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://itdgrowthlabs.com/app_development.php"}, {"@type": "ListItem", "position": 3, "name": "Effective Member Training Solutions"}]}
+    </script>
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Effective Member Training Solutions | eLearning Services" />
+    <meta name="twitter:description" content="Empower your members with engaging, flexible eLearning training programs. Boost knowledge, skill adoption, and participation with tailored learning paths." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
 </head>
 
 <body>

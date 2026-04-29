@@ -60,6 +60,10 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"BlogPosting","headline":"How AI Chatbots Are Transforming WhatsApp Marketing","description":"AI chatbots are revolutionizing WhatsApp marketing by automating customer engagement, boosting sales, and enhancing support for businesses. Learn more.","author":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"publisher":{"@type":"Organization","name":"ITD GrowthLabs","logo":{"@type":"ImageObject","url":"https://itdgrowthlabs.com/assets/img/logo.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://itdgrowthlabs.com/resources/Revolutionizing_WhatsApp_Marketing_How_AI_Chatbots_Drive_Engagement_Sales.php"},"articleSection":"WhatsApp Marketing"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Resources", "item": "https://itdgrowthlabs.com/resources/all-blogs.php"}, {"@type": "ListItem", "position": 3, "name": "How AI Chatbots Are Transforming WhatsApp Marketing"}]}
+    </script>
 </head>
 
 <body>

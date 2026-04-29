@@ -26,6 +26,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="ITD GrowthLabs offers UAE-focused web design, web app, mobile app & content writing services. Build scalable digital solutions with expert support. Contact us!">
     <title>Best Website & Mobile App Development Company in UAE | ITD GrowthLabs</title>
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Best Website & Mobile App Development Company in UAE | ITD GrowthLabs" />
+    <meta name="twitter:description" content="ITD GrowthLabs offers UAE-focused web design, web app, mobile app & content writing services. Build scalable digital solutions with expert support. Contact us!" />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
@@ -648,6 +653,10 @@
         "areaServed": {"@type": "Country", "name": "United Arab Emirates"},
         "serviceType": ["Website Development", "App Development", "Digital Marketing", "SEO Services"]
     }
+    </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "UAE", "item": "https://itdgrowthlabs.com/uae/"}, {"@type": "ListItem", "position": 3, "name": "Best Website & Mobile App Development Company in UAE"}]}
     </script>
 </head>
 

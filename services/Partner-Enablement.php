@@ -627,6 +627,15 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Service","name":"AI Marketing Automation Services","description":"Boost growth with AI marketing automation and AI-driven marketing automation solutions. Automate campaigns, personalize customer journeys, and improve","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Digital Services"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://itdgrowthlabs.com/app_development.php"}, {"@type": "ListItem", "position": 3, "name": "AI Marketing Automation Services"}]}
+    </script>
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="AI Marketing Automation Services | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Boost growth with AI marketing automation and AI-driven marketing automation solutions. Automate campaigns, personalize customer journeys, and improve engagement with smarter marketing strategies." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
 </head>
 
 <body>

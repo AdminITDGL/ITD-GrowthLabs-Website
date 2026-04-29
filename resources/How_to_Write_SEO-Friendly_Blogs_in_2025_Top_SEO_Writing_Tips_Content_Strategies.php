@@ -60,6 +60,10 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"BlogPosting","headline":"How to Write SEO-Friendly Blogs in 2025: Top SEO Writing Tips & Content Strategies","description":"Master the art of writing SEO-friendly blogs in 2025. Explore the latest SEO writing tips, content strategies, and best practices to create blog posts that rank higher on Google and drive more traffic","author":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"publisher":{"@type":"Organization","name":"ITD GrowthLabs","logo":{"@type":"ImageObject","url":"https://itdgrowthlabs.com/assets/img/logo.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://itdgrowthlabs.com/resources/How_to_Write_SEO-Friendly_Blogs_in_2025_Top_SEO_Writing_Tips_Content_Strategies.php"},"articleSection":"SEO"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Resources", "item": "https://itdgrowthlabs.com/resources/all-blogs.php"}, {"@type": "ListItem", "position": 3, "name": "How to Write SEO-Friendly Blogs in 2025: Top SEO Writing Tips & Content Strategies"}]}
+    </script>
 </head>
 
 <body>

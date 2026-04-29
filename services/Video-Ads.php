@@ -75,6 +75,15 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Service","name":"Video Ad Production Services","description":"Create high-impact video ads that capture attention, drive engagement, and boost conversions across YouTube, social media, and digital campaigns.","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Video Production"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://itdgrowthlabs.com/app_development.php"}, {"@type": "ListItem", "position": 3, "name": "Video Ad Production Services"}]}
+    </script>
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Video Ad Production Services | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Create high-impact video ads that capture attention, drive engagement, and boost conversions across YouTube, social media, and digital campaigns." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
 </head>
 
 <body>

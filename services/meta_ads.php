@@ -627,6 +627,15 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Service","name":"Meta Ads Management Services for Businesses","description":"Boost your business with expert Meta Ads Management. ITD GrowthLabs delivers targeted ad campaigns, audience optimization, and measurable ROI to maxim","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Digital Marketing"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://itdgrowthlabs.com/app_development.php"}, {"@type": "ListItem", "position": 3, "name": "Meta Ads Management Services for Businesses"}]}
+    </script>
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Meta Ads Management Services for Businesses | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Boost your business with expert Meta Ads Management. ITD GrowthLabs delivers targeted ad campaigns, audience optimization, and measurable ROI to maximize brand visibility and conversions." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
 </head>
 
 <body>

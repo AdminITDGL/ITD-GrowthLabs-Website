@@ -247,6 +247,11 @@
             display: none;
         }
     </style>
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="About ITD GrowthLabs — 10+ Years of Digital Innovation" />
+    <meta name="twitter:description" content="Meet the team behind ITD GrowthLabs. 55+ professionals, 300+ projects, 97% client retention. Your trusted technology and digital marketing partner since 2014." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
 </head>
 
 <body>

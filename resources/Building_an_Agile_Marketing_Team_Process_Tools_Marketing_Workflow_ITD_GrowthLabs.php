@@ -78,6 +78,10 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"BlogPosting","headline":"Building an Agile Marketing Team: Process, Tools & Marketing Workflow","description":"Learn how SEO-friendly websites improve rankings and UX. Explore SEO web design and how ITD GrowthLabs enhances search-optimized development.","author":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"publisher":{"@type":"Organization","name":"ITD GrowthLabs","logo":{"@type":"ImageObject","url":"https://itdgrowthlabs.com/assets/img/logo.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://itdgrowthlabs.com/resources/Building_an_Agile_Marketing_Team_Process_Tools_Marketing_Workflow_ITD_GrowthLabs.php"},"articleSection":"Digital Marketing"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Resources", "item": "https://itdgrowthlabs.com/resources/all-blogs.php"}, {"@type": "ListItem", "position": 3, "name": "Building an Agile Marketing Team: Process, Tools & Marketing Workflow"}]}
+    </script>
 </head>
 
 <body>

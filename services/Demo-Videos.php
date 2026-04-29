@@ -75,6 +75,15 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Service","name":"Product Demo Videos Services","description":"Showcase your product features and benefits with engaging demo videos. Drive engagement, explain functionalities, and boost conversion rates effective","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Video Production"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://itdgrowthlabs.com/app_development.php"}, {"@type": "ListItem", "position": 3, "name": "Product Demo Videos Services"}]}
+    </script>
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Product Demo Videos Services | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Showcase your product features and benefits with engaging demo videos. Drive engagement, explain functionalities, and boost conversion rates effectively." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
 </head>
 
 <body>

@@ -26,6 +26,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="ITD GrowthLabs offers result-driven digital marketing services in UAE including SEO, PPC, social media & lead generation. Grow traffic & sales. Contact us today.">
     <title>Digital Marketing Services in UAE | SEO, PPC & Lead Generation – ITD GrowthLabs</title>
+    <link rel="canonical" href="https://itdgrowthlabs.com/uae/digital-marketing-services.php" />
+    <meta property="og:title" content="Digital Marketing Services in UAE | SEO, PPC & Lead Generation – ITD GrowthLabs" />
+    <meta property="og:description" content="ITD GrowthLabs offers result-driven digital marketing services in UAE including SEO, PPC, social media & lead generation. Grow traffic & sales. Contact us today." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/uae/digital-marketing-services.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <meta property="og:site_name" content="ITD GrowthLabs" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Digital Marketing Services in UAE | SEO, PPC & Lead Generation – ITD GrowthLabs" />
+    <meta name="twitter:description" content="ITD GrowthLabs offers result-driven digital marketing services in UAE including SEO, PPC, social media & lead generation. Grow traffic & sales. Contact us today." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
@@ -717,6 +729,10 @@
     <link rel="alternate" hreflang="en-ae" href="https://itdgrowthlabs.com/uae/digital-marketing-services.php" />
     <link rel="alternate" hreflang="en-za" href="https://itdgrowthlabs.com/africa/digital-marketing-services.php" />
     <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/digital_marketing.php" />
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "UAE", "item": "https://itdgrowthlabs.com/uae/"}, {"@type": "ListItem", "position": 3, "name": "Digital Marketing Services in UAE"}]}
+    </script>
 </head>
 
 <body>

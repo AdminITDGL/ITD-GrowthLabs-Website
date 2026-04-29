@@ -27,6 +27,18 @@
     <meta name="description" content="ITD GrowthLabs is a trusted web application development company in UAE delivering secure, scalable & custom web apps for businesses. Book a free consultation.">
     <meta name="keywords" content="Web application development company in UAE, Web app development services in UAE, Custom web application development UAE, Enterprise web application development UAE, Business web app developers UAE, Web-based application development UAE, SaaS application development UAE, Secure web application development UAE">
     <title>Web Application Development Company in UAE | Custom Web Apps – ITD GrowthLabs</title>
+    <link rel="canonical" href="https://itdgrowthlabs.com/uae/web-application-development.php" />
+    <meta property="og:title" content="Web Application Development Company in UAE | Custom Web Apps – ITD GrowthLabs" />
+    <meta property="og:description" content="ITD GrowthLabs is a trusted web application development company in UAE delivering secure, scalable & custom web apps for businesses. Book a free consultation." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/uae/web-application-development.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <meta property="og:site_name" content="ITD GrowthLabs" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Web Application Development Company in UAE | Custom Web Apps – ITD GrowthLabs" />
+    <meta name="twitter:description" content="ITD GrowthLabs is a trusted web application development company in UAE delivering secure, scalable & custom web apps for businesses. Book a free consultation." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
@@ -718,6 +730,10 @@
     <link rel="alternate" hreflang="en-ae" href="https://itdgrowthlabs.com/uae/web-application-development.php" />
     <link rel="alternate" hreflang="en-za" href="https://itdgrowthlabs.com/africa/web-application-development.php" />
     <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/website_development.php" />
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "UAE", "item": "https://itdgrowthlabs.com/uae/"}, {"@type": "ListItem", "position": 3, "name": "Web Application Development Company in UAE"}]}
+    </script>
 </head>
 
 <body>

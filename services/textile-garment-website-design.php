@@ -131,6 +131,15 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Service","name":"Textile & Garment Website Design Company","description":"Creative Website Design for the Global Textile & Fashion Industry. Transforming your Garment manufacturing prowess into a digital masterpiece.","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Website Development"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://itdgrowthlabs.com/app_development.php"}, {"@type": "ListItem", "position": 3, "name": "Textile & Garment Website Design Company"}]}
+    </script>
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Textile & Garment Website Design Company" />
+    <meta name="twitter:description" content="Creative Website Design for the Global Textile & Fashion Industry. Transforming your Garment manufacturing prowess into a digital masterpiece." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
 </head>
 
 <body>

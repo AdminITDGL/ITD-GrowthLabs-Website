@@ -75,6 +75,15 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Service","name":"Video Repurposing Services","description":"Transform long-form videos into multiple short, platform-ready clips. Boost reach, engagement, and content ROI across social media and digital platfor","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Video Production"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://itdgrowthlabs.com/app_development.php"}, {"@type": "ListItem", "position": 3, "name": "Video Repurposing Services"}]}
+    </script>
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Video Repurposing Services | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Transform long-form videos into multiple short, platform-ready clips. Boost reach, engagement, and content ROI across social media and digital platforms." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
 </head>
 
 <body>

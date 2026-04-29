@@ -79,6 +79,10 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"BlogPosting","headline":"Legal Web Content: Privacy Policy, Terms & Disclaimers Guide","description":"A detailed guide on writing legal web content like privacy policy, terms, and disclaimer content. Learn how ITD GrowthLabs helps ensure legal compliance.","author":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"publisher":{"@type":"Organization","name":"ITD GrowthLabs","logo":{"@type":"ImageObject","url":"https://itdgrowthlabs.com/assets/img/logo.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://itdgrowthlabs.com/resources/Essentia_Page_fo_You_Website_Privacy_Term_Disclaimers.php"},"articleSection":"Website Development"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Resources", "item": "https://itdgrowthlabs.com/resources/all-blogs.php"}, {"@type": "ListItem", "position": 3, "name": "Legal Web Content: Privacy Policy, Terms & Disclaimers Guide"}]}
+    </script>
 </head>
 
 <body>

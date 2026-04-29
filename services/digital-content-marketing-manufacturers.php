@@ -74,6 +74,15 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Service","name":"Digital Content Marketing for Manufacturing Companies","description":"Boost your manufacturing business with expert digital content marketing services. Drive engagement, increase brand authority, and grow your reach with","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Content and SEO"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://itdgrowthlabs.com/app_development.php"}, {"@type": "ListItem", "position": 3, "name": "Digital Content Marketing for Manufacturing Companies"}]}
+    </script>
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Digital Content Marketing for Manufacturing Companies" />
+    <meta name="twitter:description" content="Boost your manufacturing business with expert digital content marketing services. Drive engagement, increase brand authority, and grow your reach with tailored SEO-optimized strategies for the manufac" />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
 </head>
 
 <body>

@@ -78,6 +78,15 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Service","name":"Content Marketing in the Manufacturing industry","description":"Boost your manufacturing business with targeted content marketing services. Improve SEO rankings, build authority, and engage your audience effectivel","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Digital Services"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://itdgrowthlabs.com/app_development.php"}, {"@type": "ListItem", "position": 3, "name": "Content Marketing in the Manufacturing industry"}]}
+    </script>
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Content Marketing in the Manufacturing industry" />
+    <meta name="twitter:description" content="Boost your manufacturing business with targeted content marketing services. Improve SEO rankings, build authority, and engage your audience effectively." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
 </head>
 
 <body>

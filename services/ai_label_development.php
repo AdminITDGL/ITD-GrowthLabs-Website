@@ -625,6 +625,15 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Service","name":"AI Data Labelling","description":"High-quality AI data labelling for image, text, audio, and video datasets","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"AI & Data Services"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://itdgrowthlabs.com/app_development.php"}, {"@type": "ListItem", "position": 3, "name": "AI Data Labelling Services"}]}
+    </script>
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="AI Data Labelling Services | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Improve model accuracy with AI data labelling and data labeling services. High-quality AI data labelling for image, text, audio, and video datasets to enhance AI performance." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
 </head>
 
 <body>

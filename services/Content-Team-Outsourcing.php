@@ -78,6 +78,15 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Service","name":"Content Team Outsourcing","description":"Scalable content team outsourcing for SEO writing, social media, and content marketing","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Content Marketing"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://itdgrowthlabs.com/app_development.php"}, {"@type": "ListItem", "position": 3, "name": "Content Team Outsourcing Services for Businesses"}]}
+    </script>
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Content Team Outsourcing Services for Businesses" />
+    <meta name="twitter:description" content="Outsource your content needs for SEO writing, social media content creation, and content marketing strategy. Scalable, affordable &amp; ready to deploy solutions for high-quality content." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
 </head>
 
 <body>

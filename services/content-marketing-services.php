@@ -71,6 +71,15 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Service","name":"Content Marketing Services That Boost Traffic | Content Marketing","description":"Looking for expert Content Marketing Services to drive traffic and boost your brand","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Content and SEO"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://itdgrowthlabs.com/app_development.php"}, {"@type": "ListItem", "position": 3, "name": "Content Marketing Services That Boost Traffic"}]}
+    </script>
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Content Marketing Services That Boost Traffic | Content Marketing" />
+    <meta name="twitter:description" content="Looking for expert Content Marketing Services to drive traffic and boost your brand" />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
 </head>
 
 <body>

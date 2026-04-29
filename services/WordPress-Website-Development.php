@@ -629,6 +629,10 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Service","name":"WordPress Website Development Services","description":"Professional WordPress website development solutions to build fast, secure, and SEO-friendly websites.","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"WordPress Website Development"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://itdgrowthlabs.com/app_development.php"}, {"@type": "ListItem", "position": 3, "name": "WordPress Website Development Services"}]}
+    </script>
 </head>
 
 <body>

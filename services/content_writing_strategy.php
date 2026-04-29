@@ -74,6 +74,15 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Service","name":"Content Writing & Strategy Services | Content Writing Services","description":"Unlock growth with content that converts. From SEO blogs to website copy, we craft strategies & content that fuel engagement, traffic, and leads.","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Content and SEO"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://itdgrowthlabs.com/app_development.php"}, {"@type": "ListItem", "position": 3, "name": "Content Writing & Strategy Services"}]}
+    </script>
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Content Writing & Strategy Services | Content Writing Services" />
+    <meta name="twitter:description" content="Unlock growth with content that converts. From SEO blogs to website copy, we craft strategies & content that fuel engagement, traffic, and leads." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
 </head>
 
 <body>

@@ -627,6 +627,15 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Service","name":"Instructional Design Services for eLearning","description":"Enhance digital learning with expert instructional design services. Our instructional design solutions create structured, engaging, and learner-focuse","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"eLearning and Training"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://itdgrowthlabs.com/app_development.php"}, {"@type": "ListItem", "position": 3, "name": "Instructional Design Services for eLearning"}]}
+    </script>
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Instructional Design Services for eLearning | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Enhance digital learning with expert instructional design services. Our instructional design solutions create structured, engaging, and learner-focused training content that improves knowledge retenti" />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
 </head>
 
 <body>

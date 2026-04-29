@@ -76,6 +76,15 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Service","name":"IT Team Outsourcing","description":"Dedicated IT team outsourcing with developers, QA experts, designers, and project managers","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"IT Outsourcing"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://itdgrowthlabs.com/app_development.php"}, {"@type": "ListItem", "position": 3, "name": "Dedicated IT Team Outsourcing Services"}]}
+    </script>
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Dedicated IT Team Outsourcing Services" />
+    <meta name="twitter:description" content="Scale faster with expert IT teams on-demand. Get dedicated developers, QA experts, designers, project managers &amp; more tailored to your project needs." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
 </head>
 
 <body>

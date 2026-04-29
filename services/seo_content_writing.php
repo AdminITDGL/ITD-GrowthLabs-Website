@@ -629,6 +629,10 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Service","name":"SEO Content Writing Services","description":"Professional SEO content writing services that increase organic traffic and drive conversions.","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"SEO Content Writing"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://itdgrowthlabs.com/app_development.php"}, {"@type": "ListItem", "position": 3, "name": "SEO Content Writing Services"}]}
+    </script>
 </head>
 
 <body>

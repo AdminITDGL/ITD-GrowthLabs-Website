@@ -627,6 +627,15 @@
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Service","name":"LinkedIn Ads Services for Businesses","description":"Drive targeted B2B traffic with expert LinkedIn Ads management. Our LinkedIn Ads strategies optimize campaigns, improve engagement, and increase leads","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Digital Marketing"}
     </script>
+
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://itdgrowthlabs.com/app_development.php"}, {"@type": "ListItem", "position": 3, "name": "LinkedIn Ads Services for Businesses"}]}
+    </script>
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="LinkedIn Ads Services for Businesses | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Drive targeted B2B traffic with expert LinkedIn Ads management. Our LinkedIn Ads strategies optimize campaigns, improve engagement, and increase leads for measurable business growth." />
+    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
 </head>
 
 <body>
