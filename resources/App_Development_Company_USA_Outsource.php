@@ -142,20 +142,21 @@
                                 <ul>
                                     <li>
                                         <div class="info">
-                                            <a href="IT_Services_Company_UAE_Dubai.php">IT Services Company in UAE & Dubai: Custom Software & App Development</a>
+                                            <a href="IT_Services_Company_UAE_Dubai.php">IT Services Company in UAE &amp; Dubai: Custom Software &amp; App Development</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Education_Technology_India_eLearning.php">Education Technology in India: eLearning Platforms, LMS & EdTech Apps</a>
+                                            <a href="Education_Technology_India_eLearning.php">Education Technology in India: eLearning Platforms, LMS &amp; EdTech Apps</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Fintech_Landscape_India_2026.php">Fintech Landscape in India 2026: UPI, Digital Lending & Neo-Banking</a>
+                                            <a href="Fintech_Landscape_India_2026.php">Fintech Landscape in India 2026: UPI, Digital Lending &amp; Neo-Banking</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="7_App_Features_Every_Business_App_Must_Have_in_2026.php">7 App Features Every Business App Must Have in 2026</a></div></li>
+                                    <li><div class="info"><a href="App_Development_Company_Mumbai_2026.php">Top App Development Company in Mumbai: Why Choose ITD GrowthLabs</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

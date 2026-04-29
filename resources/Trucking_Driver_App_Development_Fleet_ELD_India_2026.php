@@ -149,6 +149,8 @@
                                     <li><div class="info"><a href="Logistics_Mobile_App_Development_Cost_India_2026.php">Logistics Mobile App Development Cost India 2026</a></div></li>
                                     <li><div class="info"><a href="Transport_Management_System_TMS_Software_Development_Cost_India_2026.php">TMS Software Development Cost India 2026</a></div></li>
                                     <li><div class="info"><a href="Last_Mile_Delivery_Technology_Trends_2026.php">Last-Mile Delivery Technology Trends 2026</a></div></li>
+                                    <li><div class="info"><a href="Cold_Chain_Logistics_Technology_2026_IoT_WMS_Real_Time_Tracking.php">Cold Chain Logistics Technology in 2026 — IoT Sensors, Real-Time…</a></div></li>
+                                    <li><div class="info"><a href="Container_Tracking_Shipping_Software_Development_Guide_2026.php">Container Tracking &amp; Shipping Software Development Guide 2026 —…</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

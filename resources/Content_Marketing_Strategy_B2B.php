@@ -142,7 +142,7 @@
                                 <ul>
                                     <li>
                                         <div class="info">
-                                            <a href="International_SEO_Strategy_Guide.php">International SEO Strategy: Rank in Multiple Countries & Languages</a>
+                                            <a href="International_SEO_Strategy_Guide.php">International SEO Strategy: Rank in Multiple Countries &amp; Languages</a>
                                         </div>
                                     </li>
                                     <li>
@@ -152,10 +152,11 @@
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Marketing_ROI_Measurement_Guide.php">Marketing ROI Measurement: Track, Attribute & Optimize Every Rupee Spent</a>
+                                            <a href="Marketing_ROI_Measurement_Guide.php">Marketing ROI Measurement: Track, Attribute &amp; Optimize Every Rupee Spent</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="Digital_Marketing_Trends_Middle_East_2026.php">Digital Marketing Trends in the Middle East for 2026</a></div></li>
+                                    <li><div class="info"><a href="Social_Media_Marketing_Strategy_2026.php">Social Media Marketing Strategy 2026: Platforms, Content &amp; Metrics</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

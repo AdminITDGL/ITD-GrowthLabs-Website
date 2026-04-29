@@ -142,7 +142,7 @@
                                 <ul>
                                     <li>
                                         <div class="info">
-                                            <a href="Marketing_ROI_Measurement_Guide.php">Marketing ROI Measurement: Track, Attribute & Optimize Every Rupee Spent</a>
+                                            <a href="Marketing_ROI_Measurement_Guide.php">Marketing ROI Measurement: Track, Attribute &amp; Optimize Every Rupee Spent</a>
                                         </div>
                                     </li>
                                     <li>
@@ -155,7 +155,8 @@
                                             <a href="Lead_Generation_Strategies_B2B.php">Lead Generation Strategies for B2B Companies in 2026</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="SEO_Audit_Checklist_2026.php">SEO Audit Checklist for 2026 — Complete Technical &amp; Content Review</a></div></li>
+                                    <li><div class="info"><a href="Technical_SEO_Checklist_2026_Core_Web_Vitals_Schema_JS_Rendering.php">Technical SEO Checklist 2026: Core Web Vitals, Schema, JS Rendering…</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

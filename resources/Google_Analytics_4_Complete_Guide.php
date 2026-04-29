@@ -142,12 +142,12 @@
                                 <ul>
                                     <li>
                                         <div class="info">
-                                            <a href="Marketing_ROI_Measurement_Guide.php">Marketing ROI Measurement: Track, Attribute & Optimize Every Rupee Spent</a>
+                                            <a href="Marketing_ROI_Measurement_Guide.php">Marketing ROI Measurement: Track, Attribute &amp; Optimize Every Rupee Spent</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Video_Marketing_Strategy_Business.php">Video Marketing Strategy: YouTube, Reels & Short-Form Content for Business</a>
+                                            <a href="Video_Marketing_Strategy_Business.php">Video Marketing Strategy: YouTube, Reels &amp; Short-Form Content for Business</a>
                                         </div>
                                     </li>
                                     <li>
@@ -155,7 +155,8 @@
                                             <a href="Email_Marketing_Automation_Guide.php">Email Marketing Automation: Nurture Leads and Drive Conversions</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="7_App_Features_Every_Business_App_Must_Have_in_2026.php">7 App Features Every Business App Must Have in 2026</a></div></li>
+                                    <li><div class="info"><a href="App_Development_Company_Mumbai_2026.php">Top App Development Company in Mumbai: Why Choose ITD GrowthLabs</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

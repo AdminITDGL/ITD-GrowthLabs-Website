@@ -147,15 +147,16 @@
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Ecommerce_App_Development_Complete_Guide.php">E-Commerce App Development: Features, Tech Stack & Cost in 2026</a>
+                                            <a href="Ecommerce_App_Development_Complete_Guide.php">E-Commerce App Development: Features, Tech Stack &amp; Cost in 2026</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="SaaS_Application_Development_Guide.php">SaaS Application Development: Complete Guide for Startups & Enterprises</a>
+                                            <a href="SaaS_Application_Development_Guide.php">SaaS Application Development: Complete Guide for Startups &amp; Enterprises</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="7_App_Features_Every_Business_App_Must_Have_in_2026.php">7 App Features Every Business App Must Have in 2026</a></div></li>
+                                    <li><div class="info"><a href="App_Development_Company_Mumbai_2026.php">Top App Development Company in Mumbai: Why Choose ITD GrowthLabs</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

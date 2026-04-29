@@ -147,7 +147,7 @@
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Courier_App_Development_Features_Cost.php">Courier App Development: Features, Cost & Process</a>
+                                            <a href="Courier_App_Development_Features_Cost.php">Courier App Development: Features, Cost &amp; Process</a>
                                         </div>
                                     </li>
                                     <li>
@@ -155,7 +155,8 @@
                                             <a href="IoT_App_Development_Business_Guide.php">IoT App Development for Business: Complete Guide</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="Cold_Chain_Logistics_Technology_2026_IoT_WMS_Real_Time_Tracking.php">Cold Chain Logistics Technology in 2026 — IoT Sensors, Real-Time…</a></div></li>
+                                    <li><div class="info"><a href="Container_Tracking_Shipping_Software_Development_Guide_2026.php">Container Tracking &amp; Shipping Software Development Guide 2026 —…</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

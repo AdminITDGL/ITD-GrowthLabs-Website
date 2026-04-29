@@ -147,7 +147,7 @@
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="AI_Customer_Service_Automation.php">AI in Customer Service: Chatbots, Ticket Routing & Self-Service Portals</a>
+                                            <a href="AI_Customer_Service_Automation.php">AI in Customer Service: Chatbots, Ticket Routing &amp; Self-Service Portals</a>
                                         </div>
                                     </li>
                                     <li>
@@ -155,7 +155,8 @@
                                             <a href="AI_Powered_SEO_Strategy_Guide.php">AI-Powered SEO: How Machine Learning Is Changing Search Optimization</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="AI_Search_Landscape_2026.php">AI Search Landscape 2026: Google AI Overviews, Perplexity &amp; Beyond</a></div></li>
+                                    <li><div class="info"><a href="GEO_vs_SEO_2026_Generative_Engine_Optimization_Guide.php">GEO vs SEO 2026: How Generative Engine Optimization Is Replacing…</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

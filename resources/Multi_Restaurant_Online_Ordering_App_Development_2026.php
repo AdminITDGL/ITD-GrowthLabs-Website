@@ -143,6 +143,8 @@
                                     <li><div class="info"><a href="Build_Swiggy_Zomato_Clone_Cost_Features_2026.php">Build a Swiggy / Zomato Clone in 2026</a></div></li>
                                     <li><div class="info"><a href="Hyperlocal_Delivery_App_Development_Cost_2026.php">Hyperlocal Delivery App Development Cost 2026</a></div></li>
                                     <li><div class="info"><a href="Multi_Vendor_Marketplace_App_Development_Cost_India_2026.php">Multi-Vendor Marketplace App Development Cost India 2026</a></div></li>
+                                    <li><div class="info"><a href="7_App_Features_Every_Business_App_Must_Have_in_2026.php">7 App Features Every Business App Must Have in 2026</a></div></li>
+                                    <li><div class="info"><a href="App_Development_Company_Mumbai_2026.php">Top App Development Company in Mumbai: Why Choose ITD GrowthLabs</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

@@ -147,15 +147,16 @@
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Wireframing_Prototyping_Guide.php">Wireframing & Prototyping: Design Before You Develop</a>
+                                            <a href="Wireframing_Prototyping_Guide.php">Wireframing &amp; Prototyping: Design Before You Develop</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Ecommerce_Website_Development_Guide.php">E-Commerce Website Development: Platform Selection, Features & Cost</a>
+                                            <a href="Ecommerce_Website_Development_Guide.php">E-Commerce Website Development: Platform Selection, Features &amp; Cost</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="Best_CMS_for_Business_Websites_2026.php">Best CMS for Business Websites in 2026 — Complete Comparison</a></div></li>
+                                    <li><div class="info"><a href="Corporate_Website_Redesign_Checklist_2026.php">Corporate Website Redesign Checklist for 2026</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

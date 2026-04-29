@@ -142,7 +142,7 @@
                                 <ul>
                                     <li>
                                         <div class="info">
-                                            <a href="Computer_Vision_Business_Applications.php">Computer Vision for Business: Quality Inspection, Security & Analytics</a>
+                                            <a href="Computer_Vision_Business_Applications.php">Computer Vision for Business: Quality Inspection, Security &amp; Analytics</a>
                                         </div>
                                     </li>
                                     <li>
@@ -155,7 +155,8 @@
                                             <a href="AI_Lead_Scoring_Sales_Automation.php">AI Lead Scoring: Prioritize High-Value Prospects Automatically</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="7_App_Features_Every_Business_App_Must_Have_in_2026.php">7 App Features Every Business App Must Have in 2026</a></div></li>
+                                    <li><div class="info"><a href="App_Development_Company_Mumbai_2026.php">Top App Development Company in Mumbai: Why Choose ITD GrowthLabs</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

@@ -147,7 +147,7 @@
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="API_Development_Integration_Guide.php">API Development & Integration: Building Connected Applications</a>
+                                            <a href="API_Development_Integration_Guide.php">API Development &amp; Integration: Building Connected Applications</a>
                                         </div>
                                     </li>
                                     <li>
@@ -155,7 +155,8 @@
                                             <a href="App_Scalability_Architecture_Design.php">App Scalability: Architecture Patterns for Growing Applications</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="App_Development_Cost_USA_vs_India_2026.php">App Development Cost USA vs India 2026: Real Numbers, Hidden Costs, and…</a></div></li>
+                                    <li><div class="info"><a href="Logistics_App_Development_Cost_in_India_2026.php">Logistics App Development Cost in India 2026 — Complete Pricing Guide</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

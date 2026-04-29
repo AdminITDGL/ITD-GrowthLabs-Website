@@ -142,12 +142,12 @@
                                 <ul>
                                     <li>
                                         <div class="info">
-                                            <a href="Computer_Vision_Business_Applications.php">Computer Vision for Business: Quality Inspection, Security & Analytics</a>
+                                            <a href="Computer_Vision_Business_Applications.php">Computer Vision for Business: Quality Inspection, Security &amp; Analytics</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="AI_Ethics_Responsible_AI_Business.php">AI Ethics & Responsible AI: Building Trustworthy AI Systems</a>
+                                            <a href="AI_Ethics_Responsible_AI_Business.php">AI Ethics &amp; Responsible AI: Building Trustworthy AI Systems</a>
                                         </div>
                                     </li>
                                     <li>
@@ -155,7 +155,8 @@
                                             <a href="Generative_Engine_Optimization_GEO_Guide.php">Generative Engine Optimization (GEO): Get Found by AI Search Engines</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="9_Best_AI_Writing_Tools_to_Boost_Your_Writing_in_2025.php">9 Best AI Writing Tools to Boost Your Writing in 2025</a></div></li>
+                                    <li><div class="info"><a href="5_Ways_WhatsApp_Automation_Reduces_Customer_Support_Costs.php">5 Ways WhatsApp Automation Reduces Customer Support Costs</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

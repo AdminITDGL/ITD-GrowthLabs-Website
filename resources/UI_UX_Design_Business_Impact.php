@@ -147,7 +147,7 @@
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Web_Security_SSL_HTTPS_Guide.php">Web Security: SSL, HTTPS & Protecting Your Website from Cyber Threats</a>
+                                            <a href="Web_Security_SSL_HTTPS_Guide.php">Web Security: SSL, HTTPS &amp; Protecting Your Website from Cyber Threats</a>
                                         </div>
                                     </li>
                                     <li>
@@ -155,7 +155,8 @@
                                             <a href="Corporate_Website_Design_Best_Practices.php">Corporate Website Design: Best Practices for B2B Companies</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="7_App_Features_Every_Business_App_Must_Have_in_2026.php">7 App Features Every Business App Must Have in 2026</a></div></li>
+                                    <li><div class="info"><a href="App_Development_Company_Mumbai_2026.php">Top App Development Company in Mumbai: Why Choose ITD GrowthLabs</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

@@ -142,7 +142,7 @@
                                 <ul>
                                     <li>
                                         <div class="info">
-                                            <a href="AI_Customer_Service_Automation.php">AI in Customer Service: Chatbots, Ticket Routing & Self-Service Portals</a>
+                                            <a href="AI_Customer_Service_Automation.php">AI in Customer Service: Chatbots, Ticket Routing &amp; Self-Service Portals</a>
                                         </div>
                                     </li>
                                     <li>
@@ -155,7 +155,8 @@
                                             <a href="AI_Content_Strategy_Quality_Scale.php">AI Content Strategy: Create Quality Content at Scale Without Losing Authenticity</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="SEO_Audit_Checklist_2026.php">SEO Audit Checklist for 2026 — Complete Technical &amp; Content Review</a></div></li>
+                                    <li><div class="info"><a href="SEO_Strategy_Small_Business_2026.php">SEO Strategy for Small Businesses in 2026: Rank Higher, Spend Less</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

@@ -145,6 +145,8 @@
                                     <li><div class="info"><a href="App_Development_Company_in_USA_2026_Hire_Guide.php">App Development Company in USA 2026</a></div></li>
                                     <li><div class="info"><a href="Software_Outsourcing_to_India_Complete_Guide_2026.php">Software Outsourcing to India — 2026 Guide</a></div></li>
                                     <li><div class="info"><a href="Technical_SEO_Checklist_2026_Core_Web_Vitals_Schema_JS_Rendering.php">Technical SEO Checklist 2026</a></div></li>
+                                    <li><div class="info"><a href="Best_CMS_for_Business_Websites_2026.php">Best CMS for Business Websites in 2026 — Complete Comparison</a></div></li>
+                                    <li><div class="info"><a href="Corporate_Website_Redesign_Checklist_2026.php">Corporate Website Redesign Checklist for 2026</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

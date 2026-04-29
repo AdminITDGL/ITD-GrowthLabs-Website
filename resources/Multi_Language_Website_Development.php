@@ -142,7 +142,7 @@
                                 <ul>
                                     <li>
                                         <div class="info">
-                                            <a href="Single_Page_Application_Development.php">Single Page Application (SPA) Development: React, Angular & Vue Compared</a>
+                                            <a href="Single_Page_Application_Development.php">Single Page Application (SPA) Development: React, Angular &amp; Vue Compared</a>
                                         </div>
                                     </li>
                                     <li>
@@ -155,7 +155,8 @@
                                             <a href="Headless_CMS_Development_Guide.php">Headless CMS Development: Decoupled Architecture for Modern Websites</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="Best_CMS_for_Business_Websites_2026.php">Best CMS for Business Websites in 2026 — Complete Comparison</a></div></li>
+                                    <li><div class="info"><a href="Corporate_Website_Redesign_Checklist_2026.php">Corporate Website Redesign Checklist for 2026</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

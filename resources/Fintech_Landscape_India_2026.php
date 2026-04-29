@@ -142,7 +142,7 @@
                                 <ul>
                                     <li>
                                         <div class="info">
-                                            <a href="App_Development_Company_Hyderabad.php">App Development Company in Hyderabad: Custom Software & Mobile Apps</a>
+                                            <a href="App_Development_Company_Hyderabad.php">App Development Company in Hyderabad: Custom Software &amp; Mobile Apps</a>
                                         </div>
                                     </li>
                                     <li>
@@ -155,7 +155,8 @@
                                             <a href="Offshore_Development_Center_India_Setup.php">Setting Up an Offshore Development Center (ODC) in India</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="Insurance_App_Development_India_2026_InsurTech_IRDAI_Cost_Guide.php">Insurance App Development in India 2026 — InsurTech Cost, IRDAI…</a></div></li>
+                                    <li><div class="info"><a href="AI_Fraud_Detection_Fintech.php">AI Fraud Detection in Fintech: Protect Transactions in Real-Time</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

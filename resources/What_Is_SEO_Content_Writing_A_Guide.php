@@ -269,19 +269,13 @@
                     <!-- Start Sidebar -->
                     <div class="sidebar col-xl-4 col-lg-5 col-md-12 mt-md-50 mt-xs-50">
                         <div class="sidebar-item recent-post">
-                            <h4 class="title">Recent Post</h4>
+                            <div class="title"><h4>Related Articles</h4></div>
                             <ul>
-                                <li>
-                                    <div class="thumb">
-                                        <a href="top-10-website-content-writing-agencies-in-India.php">
-                                            <img src="../assets/img/homepage5.png" alt="Website Content Writing">
-                                        </a>
-                                    </div>
-                                    <div class="info">
-                                        <a href="blog-single-with-sidebar.php">Top 10 Website Content Writing Agencies in India</a>
-                                    </div>
-                                </li>
-                                <!-- Add more recent posts here -->
+                                <li><div class="info"><a href="SEO_Audit_Checklist_2026.php">SEO Audit Checklist for 2026 — Complete Technical &amp; Content Review</a></div></li>
+                                <li><div class="info"><a href="SEO_Strategy_Small_Business_2026.php">SEO Strategy for Small Businesses in 2026: Rank Higher, Spend Less</a></div></li>
+                                <li><div class="info"><a href="Technical_SEO_Checklist_2026_Core_Web_Vitals_Schema_JS_Rendering.php">Technical SEO Checklist 2026: Core Web Vitals, Schema, JS Rendering…</a></div></li>
+                                <li><div class="info"><a href="Article_Writing_for_SEO_Best_SEO_Practices_2025_ITD_GrowthLabs.php">Article Writing for SEO: Best Practices in 2025</a></div></li>
+                                <li><div class="info"><a href="How_to_Write_SEO-Friendly_Blogs_in_2025_Top_SEO_Writing_Tips_Content_Strategies.php">How to Write SEO-Friendly Blogs in 2025: Top SEO Writing Tips &amp; Content…</a></div></li>
                             </ul>
                         </div>
 

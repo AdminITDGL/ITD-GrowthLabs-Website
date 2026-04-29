@@ -142,12 +142,12 @@
                                 <ul>
                                     <li>
                                         <div class="info">
-                                            <a href="Next_js_Website_Development_Guide.php">Next.js Website Development: SSR, SSG & Full-Stack React Applications</a>
+                                            <a href="Next_js_Website_Development_Guide.php">Next.js Website Development: SSR, SSG &amp; Full-Stack React Applications</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Form_Design_UX_Conversion.php">Form Design UX: Reduce Abandonment & Increase Submissions</a>
+                                            <a href="Form_Design_UX_Conversion.php">Form Design UX: Reduce Abandonment &amp; Increase Submissions</a>
                                         </div>
                                     </li>
                                     <li>
@@ -155,7 +155,8 @@
                                             <a href="Custom_Dashboard_Development_Guide.php">Custom Dashboard Development: Data Visualization for Business Intelligence</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="Best_CMS_for_Business_Websites_2026.php">Best CMS for Business Websites in 2026 — Complete Comparison</a></div></li>
+                                    <li><div class="info"><a href="Corporate_Website_Redesign_Checklist_2026.php">Corporate Website Redesign Checklist for 2026</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

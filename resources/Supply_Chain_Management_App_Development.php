@@ -147,15 +147,16 @@
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="DevOps_CI_CD_App_Development.php">DevOps & CI/CD in App Development: Faster Releases, Fewer Bugs</a>
+                                            <a href="DevOps_CI_CD_App_Development.php">DevOps &amp; CI/CD in App Development: Faster Releases, Fewer Bugs</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Fitness_Wellness_App_Development.php">Fitness & Wellness App Development: Features, Wearable Integration & Cost</a>
+                                            <a href="Fitness_Wellness_App_Development.php">Fitness &amp; Wellness App Development: Features, Wearable Integration &amp; Cost</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="Cold_Chain_Logistics_Technology_2026_IoT_WMS_Real_Time_Tracking.php">Cold Chain Logistics Technology in 2026 — IoT Sensors, Real-Time…</a></div></li>
+                                    <li><div class="info"><a href="Container_Tracking_Shipping_Software_Development_Guide_2026.php">Container Tracking &amp; Shipping Software Development Guide 2026 —…</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

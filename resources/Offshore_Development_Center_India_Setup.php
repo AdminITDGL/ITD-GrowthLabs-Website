@@ -142,7 +142,7 @@
                                 <ul>
                                     <li>
                                         <div class="info">
-                                            <a href="IT_Outsourcing_India_Benefits_Guide.php">IT Outsourcing to India: Benefits, Risks & How to Get It Right</a>
+                                            <a href="IT_Outsourcing_India_Benefits_Guide.php">IT Outsourcing to India: Benefits, Risks &amp; How to Get It Right</a>
                                         </div>
                                     </li>
                                     <li>
@@ -152,10 +152,11 @@
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Startup_Ecosystem_Mumbai_Technology.php">Mumbai Startup Ecosystem: Technology, Funding & Growth Opportunities</a>
+                                            <a href="Startup_Ecosystem_Mumbai_Technology.php">Mumbai Startup Ecosystem: Technology, Funding &amp; Growth Opportunities</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="App_Development_Cost_India_2026.php">App Development Cost in India 2026: Complete Pricing Breakdown</a></div></li>
+                                    <li><div class="info"><a href="App_Development_Cost_USA_vs_India_2026.php">App Development Cost USA vs India 2026: Real Numbers, Hidden Costs, and…</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

@@ -155,7 +155,8 @@
                                             <a href="App_Development_Company_Pune_Guide.php">App Development Company in Pune: Technology Hub of Maharashtra</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="Digital_Marketing_Trends_Middle_East_2026.php">Digital Marketing Trends in the Middle East for 2026</a></div></li>
+                                    <li><div class="info"><a href="Social_Media_Marketing_Strategy_2026.php">Social Media Marketing Strategy 2026: Platforms, Content &amp; Metrics</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

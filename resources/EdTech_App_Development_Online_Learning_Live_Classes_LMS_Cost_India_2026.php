@@ -149,6 +149,8 @@
                                     <li><div class="info"><a href="Multi_Vendor_Marketplace_App_Development_Cost_India_2026.php">Multi-Vendor Marketplace App Development Cost India 2026</a></div></li>
                                     <li><div class="info"><a href="How_to_Optimize_Content_for_AI_Search_ChatGPT_Perplexity_Claude_2026.php">How to Optimise Content for AI Search 2026</a></div></li>
                                     <li><div class="info"><a href="Software_Outsourcing_to_India_Complete_Guide_2026.php">Software Outsourcing to India — Complete 2026 Guide</a></div></li>
+                                    <li><div class="info"><a href="Tools_to_Create_eLearning_Content_in_2025.php">Tools to Create eLearning Content in 2025</a></div></li>
+                                    <li><div class="info"><a href="Accessibility_Guidelines_for_eLearning_Content.php">Accessibility Guidelines for eLearning Content</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

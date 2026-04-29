@@ -200,19 +200,13 @@
                     <!-- Start Sidebar -->
                     <div class="sidebar col-xl-4 col-lg-5 col-md-12 mt-md-50 mt-xs-50">
                         <div class="sidebar-item recent-post">
-                            <h4 class="title">Recent Post</h4>
+                            <div class="title"><h4>Related Articles</h4></div>
                             <ul>
-                                <li>
-                                    <div class="thumb">
-                                        <a href="top-10-website-content-writing-agencies-in-India.php">
-                                            <img src="../assets/img/homepage5.png" alt="Website Content Writing">
-                                        </a>
-                                    </div>
-                                    <div class="info">
-                                        <a href="blog-single-with-sidebar.php">Top 10 Website Content Writing Agencies in India</a>
-                                    </div>
-                                </li>
-                                <!-- Add more recent posts here -->
+                                <li><div class="info"><a href="Digital_Marketing_Trends_Middle_East_2026.php">Digital Marketing Trends in the Middle East for 2026</a></div></li>
+                                <li><div class="info"><a href="Social_Media_Marketing_Strategy_2026.php">Social Media Marketing Strategy 2026: Platforms, Content &amp; Metrics</a></div></li>
+                                <li><div class="info"><a href="10_Essential_Marketing_Tools_2025_for_Effective_Marketing_Teams_ITD_GrowthLabs.php">10 Essential Tools Every Marketing Team Should Use in 2025: Your…</a></div></li>
+                                <li><div class="info"><a href="2025_marketing_team_trends_strategy_shifts_to_watch_itd_growthlabs.php">2025 Trends That Will Redefine In-House Marketing Teams: Marketing Team…</a></div></li>
+                                <li><div class="info"><a href="B2B_Marketing_2025_Proven_Marketing_Tactics_That_Still_Work_ITD_GrowthLabs.php">B2B Marketing Team Tactics That Still Work in 2025: Proven Marketing…</a></div></li>
                             </ul>
                         </div>
 

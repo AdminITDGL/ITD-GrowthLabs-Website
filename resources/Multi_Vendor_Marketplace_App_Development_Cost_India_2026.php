@@ -145,6 +145,8 @@
                                     <li><div class="info"><a href="Build_Swiggy_Zomato_Clone_Cost_Features_2026.php">How to Build a Swiggy / Zomato Clone in 2026: Cost, Features, Tech Stack</a></div></li>
                                     <li><div class="info"><a href="Hyperlocal_Delivery_App_Development_Cost_2026.php">Hyperlocal Delivery App Development Cost &amp; Timeline (2026)</a></div></li>
                                     <li><div class="info"><a href="Build_Grocery_Delivery_App_Like_Blinkit_Zepto.php">Build a Grocery Delivery App Like Blinkit / Zepto: Complete Guide</a></div></li>
+                                    <li><div class="info"><a href="App_Development_Cost_India_2026.php">App Development Cost in India 2026: Complete Pricing Breakdown</a></div></li>
+                                    <li><div class="info"><a href="App_Development_Cost_USA_vs_India_2026.php">App Development Cost USA vs India 2026: Real Numbers, Hidden Costs, and…</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

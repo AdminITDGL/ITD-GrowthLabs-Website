@@ -155,7 +155,8 @@
                                             <a href="Answer_Engine_Optimization_AEO_Guide.php">Answer Engine Optimization (AEO): Become the Answer Google Chooses</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="GEO_vs_SEO_2026_Generative_Engine_Optimization_Guide.php">GEO vs SEO 2026: How Generative Engine Optimization Is Replacing…</a></div></li>
+                                    <li><div class="info"><a href="How_to_Optimize_Content_for_AI_Search_ChatGPT_Perplexity_Claude_2026.php">How to Optimise Content for AI Search in 2026 (ChatGPT, Claude,…</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

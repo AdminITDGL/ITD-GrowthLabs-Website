@@ -142,7 +142,7 @@
                                 <ul>
                                     <li>
                                         <div class="info">
-                                            <a href="Workflow_Automation_No_Code_Low_Code.php">Workflow Automation with No-Code & Low-Code Platforms</a>
+                                            <a href="Workflow_Automation_No_Code_Low_Code.php">Workflow Automation with No-Code &amp; Low-Code Platforms</a>
                                         </div>
                                     </li>
                                     <li>
@@ -152,10 +152,11 @@
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Natural_Language_Processing_Business_Apps.php">NLP in Business Applications: Sentiment Analysis, Chatbots & Text Mining</a>
+                                            <a href="Natural_Language_Processing_Business_Apps.php">NLP in Business Applications: Sentiment Analysis, Chatbots &amp; Text Mining</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="AI_Search_Landscape_2026.php">AI Search Landscape 2026: Google AI Overviews, Perplexity &amp; Beyond</a></div></li>
+                                    <li><div class="info"><a href="GEO_vs_SEO_2026_Generative_Engine_Optimization_Guide.php">GEO vs SEO 2026: How Generative Engine Optimization Is Replacing…</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

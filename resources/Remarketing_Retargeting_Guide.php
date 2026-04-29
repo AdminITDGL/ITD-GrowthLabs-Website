@@ -142,20 +142,21 @@
                                 <ul>
                                     <li>
                                         <div class="info">
-                                            <a href="Influencer_Marketing_B2B_Guide.php">Influencer Marketing for B2B: LinkedIn, Twitter & Industry Experts</a>
+                                            <a href="Influencer_Marketing_B2B_Guide.php">Influencer Marketing for B2B: LinkedIn, Twitter &amp; Industry Experts</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Video_Marketing_Strategy_Business.php">Video Marketing Strategy: YouTube, Reels & Short-Form Content for Business</a>
+                                            <a href="Video_Marketing_Strategy_Business.php">Video Marketing Strategy: YouTube, Reels &amp; Short-Form Content for Business</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Social_Media_Marketing_Strategy_2026.php">Social Media Marketing Strategy 2026: Platforms, Content & Metrics</a>
+                                            <a href="Social_Media_Marketing_Strategy_2026.php">Social Media Marketing Strategy 2026: Platforms, Content &amp; Metrics</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="Digital_Marketing_Trends_Middle_East_2026.php">Digital Marketing Trends in the Middle East for 2026</a></div></li>
+                                    <li><div class="info"><a href="10_Essential_Marketing_Tools_2025_for_Effective_Marketing_Teams_ITD_GrowthLabs.php">10 Essential Tools Every Marketing Team Should Use in 2025: Your…</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

@@ -143,6 +143,8 @@
                                     <li><div class="info"><a href="Multi_Vendor_Marketplace_App_Development_Cost_India_2026.php">Multi-Vendor Marketplace App Development Cost India 2026</a></div></li>
                                     <li><div class="info"><a href="Last_Mile_Delivery_Technology_Trends_2026.php">Last-Mile Delivery Technology Trends 2026</a></div></li>
                                     <li><div class="info"><a href="White_Label_vs_Custom_Courier_Software_2026.php">White-Label vs Custom Courier Software (2026)</a></div></li>
+                                    <li><div class="info"><a href="7_App_Features_Every_Business_App_Must_Have_in_2026.php">7 App Features Every Business App Must Have in 2026</a></div></li>
+                                    <li><div class="info"><a href="App_Development_Company_Mumbai_2026.php">Top App Development Company in Mumbai: Why Choose ITD GrowthLabs</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

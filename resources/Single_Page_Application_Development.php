@@ -147,15 +147,16 @@
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Website_Redesign_ROI_Guide.php">Website Redesign: When, Why & How to Redesign for Maximum ROI</a>
+                                            <a href="Website_Redesign_ROI_Guide.php">Website Redesign: When, Why &amp; How to Redesign for Maximum ROI</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Web_Application_Development_Guide_2026.php">Web Application Development: Technologies, Frameworks & Best Practices</a>
+                                            <a href="Web_Application_Development_Guide_2026.php">Web Application Development: Technologies, Frameworks &amp; Best Practices</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="7_App_Features_Every_Business_App_Must_Have_in_2026.php">7 App Features Every Business App Must Have in 2026</a></div></li>
+                                    <li><div class="info"><a href="App_Development_Company_Mumbai_2026.php">Top App Development Company in Mumbai: Why Choose ITD GrowthLabs</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

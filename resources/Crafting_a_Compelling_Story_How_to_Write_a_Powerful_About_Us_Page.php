@@ -382,21 +382,15 @@
                     <div class="sidebar col-xl-4 col-lg-5 col-md-12 mt-md-50 mt-xs-50">
                         <aside>
                             <div class="sidebar-item recent-post">
-                                <h4 class="title">Recent Post</h4>
-                                <ul>
-                                    <li>
-                                        <div class="thumb">
-                                            <a href="top-10-website-content-writing-agencies-in-India.php">
-                                                <img src="../assets/img/homepage5.png" alt="Website Content Writing">
-                                            </a>
-                                        </div>
-                                        <div class="info">
-                                            <a href="blog-single-with-sidebar.php">Top 10 Website Content Writing Agencies in India</a>
-                                        </div>
-                                    </li>
-                                    <!-- Add more recent posts here -->
-                                </ul>
-                            </div>
+                            <div class="title"><h4>Related Articles</h4></div>
+                            <ul>
+                                <li><div class="info"><a href="App_Development_Company_in_Saudi_Arabia_Riyadh_2026_Vision_2030.php">App Development Company in Saudi Arabia / Riyadh 2026 — Vision 2030…</a></div></li>
+                                <li><div class="info"><a href="App_Development_Company_in_UK_2026_Founder_Guide.php">App Development Company in UK 2026: London Rates, Manchester Studios,…</a></div></li>
+                                <li><div class="info"><a href="App_Development_Company_UK_What_to_Expect.php">App Development Company in UK — What to Expect in 2026</a></div></li>
+                                <li><div class="info"><a href="Digital_Marketing_UK_Businesses_India_Partner.php">Digital Marketing for UK Businesses: Why an India Partner Makes Sense</a></div></li>
+                                <li><div class="info"><a href="Digital_Transformation_Africa_Guide.php">Digital Transformation in Africa: Opportunities for Tech Companies</a></div></li>
+                            </ul>
+                        </div>
 
                             <div class="sidebar-item social-sidebar">
                                 <h4 class="title">Follow Us</h4>

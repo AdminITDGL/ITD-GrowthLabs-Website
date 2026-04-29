@@ -147,15 +147,16 @@
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Remarketing_Retargeting_Guide.php">Remarketing & Retargeting: Bring Back Lost Visitors and Convert Them</a>
+                                            <a href="Remarketing_Retargeting_Guide.php">Remarketing &amp; Retargeting: Bring Back Lost Visitors and Convert Them</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Influencer_Marketing_B2B_Guide.php">Influencer Marketing for B2B: LinkedIn, Twitter & Industry Experts</a>
+                                            <a href="Influencer_Marketing_B2B_Guide.php">Influencer Marketing for B2B: LinkedIn, Twitter &amp; Industry Experts</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="SEO_Audit_Checklist_2026.php">SEO Audit Checklist for 2026 — Complete Technical &amp; Content Review</a></div></li>
+                                    <li><div class="info"><a href="SEO_Strategy_Small_Business_2026.php">SEO Strategy for Small Businesses in 2026: Rank Higher, Spend Less</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

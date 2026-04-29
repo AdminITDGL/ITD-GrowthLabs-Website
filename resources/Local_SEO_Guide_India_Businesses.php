@@ -152,10 +152,11 @@
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Social_Media_Marketing_Strategy_2026.php">Social Media Marketing Strategy 2026: Platforms, Content & Metrics</a>
+                                            <a href="Social_Media_Marketing_Strategy_2026.php">Social Media Marketing Strategy 2026: Platforms, Content &amp; Metrics</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="SEO_Audit_Checklist_2026.php">SEO Audit Checklist for 2026 — Complete Technical &amp; Content Review</a></div></li>
+                                    <li><div class="info"><a href="Technical_SEO_Checklist_2026_Core_Web_Vitals_Schema_JS_Rendering.php">Technical SEO Checklist 2026: Core Web Vitals, Schema, JS Rendering…</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

@@ -142,7 +142,7 @@
                                 <ul>
                                     <li>
                                         <div class="info">
-                                            <a href="Competitor_Analysis_SEO_Marketing.php">Competitor Analysis for SEO & Digital Marketing: Spy, Learn, Win</a>
+                                            <a href="Competitor_Analysis_SEO_Marketing.php">Competitor Analysis for SEO &amp; Digital Marketing: Spy, Learn, Win</a>
                                         </div>
                                     </li>
                                     <li>
@@ -155,7 +155,8 @@
                                             <a href="Lead_Generation_Strategies_B2B.php">Lead Generation Strategies for B2B Companies in 2026</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="SEO_Audit_Checklist_2026.php">SEO Audit Checklist for 2026 — Complete Technical &amp; Content Review</a></div></li>
+                                    <li><div class="info"><a href="SEO_Strategy_Small_Business_2026.php">SEO Strategy for Small Businesses in 2026: Rank Higher, Spend Less</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

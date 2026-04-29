@@ -143,6 +143,8 @@
                                     <li><div class="info"><a href="Telemedicine_App_Development_Guide_2026.php">Telemedicine App Development Guide 2026</a></div></li>
                                     <li><div class="info"><a href="Healthcare_App_Development_Cost_India_HIPAA_ABDM_2026.php">Healthcare App Development Cost India HIPAA &amp; ABDM 2026</a></div></li>
                                     <li><div class="info"><a href="Pharmacy_Delivery_App_Development_1mg_PharmEasy_Style.php">Pharmacy Delivery App Development (1mg/PharmEasy-Style)</a></div></li>
+                                    <li><div class="info"><a href="7_App_Features_Every_Business_App_Must_Have_in_2026.php">7 App Features Every Business App Must Have in 2026</a></div></li>
+                                    <li><div class="info"><a href="App_Development_Company_Mumbai_2026.php">Top App Development Company in Mumbai: Why Choose ITD GrowthLabs</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

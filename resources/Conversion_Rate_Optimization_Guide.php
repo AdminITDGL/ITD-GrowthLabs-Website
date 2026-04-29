@@ -147,15 +147,16 @@
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Local_SEO_Guide_India_Businesses.php">Local SEO Guide for Indian Businesses: Dominate Google Maps & Local Search</a>
+                                            <a href="Local_SEO_Guide_India_Businesses.php">Local SEO Guide for Indian Businesses: Dominate Google Maps &amp; Local Search</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Schema_Markup_SEO_Guide.php">Schema Markup for SEO: Get Rich Snippets & Better Search Visibility</a>
+                                            <a href="Schema_Markup_SEO_Guide.php">Schema Markup for SEO: Get Rich Snippets &amp; Better Search Visibility</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="Digital_Marketing_Trends_Middle_East_2026.php">Digital Marketing Trends in the Middle East for 2026</a></div></li>
+                                    <li><div class="info"><a href="Social_Media_Marketing_Strategy_2026.php">Social Media Marketing Strategy 2026: Platforms, Content &amp; Metrics</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

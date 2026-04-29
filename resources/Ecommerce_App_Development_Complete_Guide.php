@@ -142,7 +142,7 @@
                                 <ul>
                                     <li>
                                         <div class="info">
-                                            <a href="Hotel_Travel_Booking_App_Development.php">Hotel & Travel Booking App Development: Features, APIs & Cost</a>
+                                            <a href="Hotel_Travel_Booking_App_Development.php">Hotel &amp; Travel Booking App Development: Features, APIs &amp; Cost</a>
                                         </div>
                                     </li>
                                     <li>
@@ -155,7 +155,8 @@
                                             <a href="Custom_Software_Development_vs_Off_the_Shelf.php">Custom Software Development vs Off-the-Shelf: Which Is Right for Your Business?</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="7_App_Features_Every_Business_App_Must_Have_in_2026.php">7 App Features Every Business App Must Have in 2026</a></div></li>
+                                    <li><div class="info"><a href="App_Development_Company_Mumbai_2026.php">Top App Development Company in Mumbai: Why Choose ITD GrowthLabs</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

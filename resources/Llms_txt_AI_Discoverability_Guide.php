@@ -142,12 +142,12 @@
                                 <ul>
                                     <li>
                                         <div class="info">
-                                            <a href="Data_Pipeline_ETL_Development.php">Data Pipeline & ETL Development: Move, Transform & Analyze Data at Scale</a>
+                                            <a href="Data_Pipeline_ETL_Development.php">Data Pipeline &amp; ETL Development: Move, Transform &amp; Analyze Data at Scale</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Natural_Language_Processing_Business_Apps.php">NLP in Business Applications: Sentiment Analysis, Chatbots & Text Mining</a>
+                                            <a href="Natural_Language_Processing_Business_Apps.php">NLP in Business Applications: Sentiment Analysis, Chatbots &amp; Text Mining</a>
                                         </div>
                                     </li>
                                     <li>
@@ -155,7 +155,8 @@
                                             <a href="AI_Pricing_Optimization_Ecommerce.php">AI Pricing Optimization: Dynamic Pricing Strategies for E-Commerce</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="Best_CMS_for_Business_Websites_2026.php">Best CMS for Business Websites in 2026 — Complete Comparison</a></div></li>
+                                    <li><div class="info"><a href="Corporate_Website_Redesign_Checklist_2026.php">Corporate Website Redesign Checklist for 2026</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

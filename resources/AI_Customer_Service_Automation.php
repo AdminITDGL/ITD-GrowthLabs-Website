@@ -147,7 +147,7 @@
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="AI_Search_Landscape_2026.php">AI Search Landscape 2026: Google AI Overviews, Perplexity & Beyond</a>
+                                            <a href="AI_Search_Landscape_2026.php">AI Search Landscape 2026: Google AI Overviews, Perplexity &amp; Beyond</a>
                                         </div>
                                     </li>
                                     <li>
@@ -155,7 +155,8 @@
                                             <a href="Generative_Engine_Optimization_GEO_Guide.php">Generative Engine Optimization (GEO): Get Found by AI Search Engines</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="AI_in_Business_Applications_2026.php">AI in Business: 20 Practical Applications for 2026</a></div></li>
+                                    <li><div class="info"><a href="9_Best_AI_Writing_Tools_to_Boost_Your_Writing_in_2025.php">9 Best AI Writing Tools to Boost Your Writing in 2025</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

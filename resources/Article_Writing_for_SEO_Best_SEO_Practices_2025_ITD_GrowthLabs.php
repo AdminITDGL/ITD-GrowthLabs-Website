@@ -339,7 +339,38 @@
                     </div>
                     <!-- Sidebar -->
                     <div class="sidebar col-xl-4 col-lg-5 col-md-12 mt-md-50 mt-xs-50">
-                        <!-- Sidebar intentionally left empty as per new template -->
+                        
+                        <aside>
+                            <div class="sidebar-item recent-post">
+                                <div class="title"><h4>Related Articles</h4></div>
+                                <ul>
+                                <li><div class="info"><a href="SEO_Audit_Checklist_2026.php">SEO Audit Checklist for 2026 — Complete Technical &amp; Content Review</a></div></li>
+                                <li><div class="info"><a href="SEO_Strategy_Small_Business_2026.php">SEO Strategy for Small Businesses in 2026: Rank Higher, Spend Less</a></div></li>
+                                <li><div class="info"><a href="Technical_SEO_Checklist_2026_Core_Web_Vitals_Schema_JS_Rendering.php">Technical SEO Checklist 2026: Core Web Vitals, Schema, JS Rendering…</a></div></li>
+                                <li><div class="info"><a href="How_to_Write_SEO-Friendly_Blogs_in_2025_Top_SEO_Writing_Tips_Content_Strategies.php">How to Write SEO-Friendly Blogs in 2025: Top SEO Writing Tips &amp; Content…</a></div></li>
+                                <li><div class="info"><a href="Writing_for_Google_SEO_Writing_Tips_That_Work_in_2025.php">Writing for Google: SEO Writing Tips That Work in 2025</a></div></li>
+                                </ul>
+                            </div>
+                            <div class="sidebar-item category">
+                                <div class="title"><h4>Categories</h4></div>
+                                <div class="sidebar-info">
+                                    <ul>
+                                        <li><a href="all-blogs.php">App Development</a></li>
+                                        <li><a href="all-blogs.php">Web Development</a></li>
+                                        <li><a href="all-blogs.php">Digital Marketing</a></li>
+                                        <li><a href="all-blogs.php">SEO &amp; Content</a></li>
+                                        <li><a href="all-blogs.php">AI &amp; Automation</a></li>
+                                        <li><a href="all-blogs.php">Logistics Technology</a></li>
+                                        <li><a href="all-blogs.php">Marketplace &amp; Hyperlocal</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="sidebar-item recent-post">
+                                <div class="title"><h4>Get a Free Quote</h4></div>
+                                <p style="padding: 10px 0;">Plan your project with a senior engineer in a 30-min call. No sales pitch.</p>
+                                <a href="../contact-us.php" style="display:inline-block;background:#ff5722;color:#fff;padding:10px 20px;border-radius:6px;text-decoration:none;font-weight:600;">Book a Free Call &rarr;</a>
+                            </div>
+                        </aside>
                     </div>
                     <!-- End Sidebar -->
                 </div>

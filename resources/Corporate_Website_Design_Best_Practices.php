@@ -142,12 +142,12 @@
                                 <ul>
                                     <li>
                                         <div class="info">
-                                            <a href="Form_Design_UX_Conversion.php">Form Design UX: Reduce Abandonment & Increase Submissions</a>
+                                            <a href="Form_Design_UX_Conversion.php">Form Design UX: Reduce Abandonment &amp; Increase Submissions</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Web_Application_Development_Guide_2026.php">Web Application Development: Technologies, Frameworks & Best Practices</a>
+                                            <a href="Web_Application_Development_Guide_2026.php">Web Application Development: Technologies, Frameworks &amp; Best Practices</a>
                                         </div>
                                     </li>
                                     <li>
@@ -155,7 +155,8 @@
                                             <a href="Landing_Page_Design_Conversion.php">Landing Page Design That Converts: 15 Proven Strategies</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="Best_CMS_for_Business_Websites_2026.php">Best CMS for Business Websites in 2026 — Complete Comparison</a></div></li>
+                                    <li><div class="info"><a href="Corporate_Website_Redesign_Checklist_2026.php">Corporate Website Redesign Checklist for 2026</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

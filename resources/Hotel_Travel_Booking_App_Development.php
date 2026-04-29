@@ -142,12 +142,12 @@
                                 <ul>
                                     <li>
                                         <div class="info">
-                                            <a href="Taxi_Ride_Hailing_App_Development.php">Taxi & Ride-Hailing App Development: Build Your Own Uber Alternative</a>
+                                            <a href="Taxi_Ride_Hailing_App_Development.php">Taxi &amp; Ride-Hailing App Development: Build Your Own Uber Alternative</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Education_App_Development_eLearning.php">Education App Development: eLearning Platforms, LMS & EdTech Solutions</a>
+                                            <a href="Education_App_Development_eLearning.php">Education App Development: eLearning Platforms, LMS &amp; EdTech Solutions</a>
                                         </div>
                                     </li>
                                     <li>
@@ -155,7 +155,8 @@
                                             <a href="Mobile_App_Security_Best_Practices.php">Mobile App Security: 10 Best Practices for 2026</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="7_App_Features_Every_Business_App_Must_Have_in_2026.php">7 App Features Every Business App Must Have in 2026</a></div></li>
+                                    <li><div class="info"><a href="App_Development_Company_Mumbai_2026.php">Top App Development Company in Mumbai: Why Choose ITD GrowthLabs</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

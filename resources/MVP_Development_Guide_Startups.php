@@ -142,7 +142,7 @@
                                 <ul>
                                     <li>
                                         <div class="info">
-                                            <a href="Restaurant_Food_Delivery_App_Development.php">Restaurant & Food Delivery App Development: Complete Guide</a>
+                                            <a href="Restaurant_Food_Delivery_App_Development.php">Restaurant &amp; Food Delivery App Development: Complete Guide</a>
                                         </div>
                                     </li>
                                     <li>
@@ -155,7 +155,8 @@
                                             <a href="Cross_Platform_App_Development_Flutter_React_Native.php">Cross-Platform App Development: Flutter vs React Native in 2026</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="7_App_Features_Every_Business_App_Must_Have_in_2026.php">7 App Features Every Business App Must Have in 2026</a></div></li>
+                                    <li><div class="info"><a href="App_Development_Company_Mumbai_2026.php">Top App Development Company in Mumbai: Why Choose ITD GrowthLabs</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

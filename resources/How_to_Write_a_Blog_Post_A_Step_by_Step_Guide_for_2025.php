@@ -210,21 +210,15 @@
                     <div class="sidebar col-xl-4 col-lg-5 col-md-12 mt-md-50 mt-xs-50">
                         <aside>
                             <div class="sidebar-item recent-post">
-                                <h4 class="title">Recent Post</h4>
-                                <ul>
-                                    <li>
-                                        <div class="thumb">
-                                            <a href="top-10-website-content-writing-agencies-in-India.php">
-                                                <img src="../assets/img/homepage5.png" alt="Website Content Writing">
-                                            </a>
-                                        </div>
-                                        <div class="info">
-                                            <a href="blog-single-with-sidebar.php">Top 10 Website Content Writing Agencies in India</a>
-                                        </div>
-                                    </li>
-                                    <!-- Add more recent posts here -->
-                                </ul>
-                            </div>
+                            <div class="title"><h4>Related Articles</h4></div>
+                            <ul>
+                                <li><div class="info"><a href="7_App_Features_Every_Business_App_Must_Have_in_2026.php">7 App Features Every Business App Must Have in 2026</a></div></li>
+                                <li><div class="info"><a href="App_Development_Company_Mumbai_2026.php">Top App Development Company in Mumbai: Why Choose ITD GrowthLabs</a></div></li>
+                                <li><div class="info"><a href="App_Development_Company_in_Kolkata_2026_Cost_Top_Firms.php">App Development Company in Kolkata 2026 — Cost, Top Firms &amp; How…</a></div></li>
+                                <li><div class="info"><a href="App_Development_Company_in_Singapore_2026_Costs_India_Outsource.php">App Development Company in Singapore 2026 — Costs, Top Vendors…</a></div></li>
+                                <li><div class="info"><a href="App_Development_Company_in_UAE_Dubai_2026.php">App Development Company in UAE / Dubai 2026: Local Rates, Free Zone…</a></div></li>
+                            </ul>
+                        </div>
 
                             <div class="sidebar-item social-sidebar">
                                 <h4 class="title">Follow Us</h4>

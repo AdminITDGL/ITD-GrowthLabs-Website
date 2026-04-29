@@ -147,6 +147,8 @@
                                     <li><div class="info"><a href="What_is_Answer_Engine_Optimization_AEO_Complete_Guide_2026.php">What is Answer Engine Optimization (AEO)?</a></div></li>
                                     <li><div class="info"><a href="GEO_vs_SEO_2026_Generative_Engine_Optimization_Guide.php">GEO vs SEO 2026</a></div></li>
                                     <li><div class="info"><a href="How_to_Optimize_Content_for_AI_Search_ChatGPT_Perplexity_Claude_2026.php">How to Optimise Content for AI Search 2026</a></div></li>
+                                    <li><div class="info"><a href="SEO_Audit_Checklist_2026.php">SEO Audit Checklist for 2026 — Complete Technical &amp; Content Review</a></div></li>
+                                    <li><div class="info"><a href="SEO_Strategy_Small_Business_2026.php">SEO Strategy for Small Businesses in 2026: Rank Higher, Spend Less</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

@@ -143,6 +143,8 @@
                                     <li><div class="info"><a href="GEO_vs_SEO_2026_Generative_Engine_Optimization_Guide.php">GEO vs SEO 2026</a></div></li>
                                     <li><div class="info"><a href="How_to_Optimize_Content_for_AI_Search_ChatGPT_Perplexity_Claude_2026.php">How to Optimise Content for AI Search 2026</a></div></li>
                                     <li><div class="info"><a href="Technical_SEO_Checklist_2026_Core_Web_Vitals_Schema_JS_Rendering.php">Technical SEO Checklist 2026</a></div></li>
+                                    <li><div class="info"><a href="AI_Search_Landscape_2026.php">AI Search Landscape 2026: Google AI Overviews, Perplexity &amp; Beyond</a></div></li>
+                                    <li><div class="info"><a href="Answer_Engine_Optimization_AEO_Guide.php">Answer Engine Optimization (AEO): Become the Answer Google Chooses</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

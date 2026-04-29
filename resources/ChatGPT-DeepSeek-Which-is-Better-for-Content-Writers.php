@@ -168,21 +168,15 @@
                     <div class="sidebar col-xl-4 col-lg-5 col-md-12 mt-md-50 mt-xs-50">
                         <aside>
                             <div class="sidebar-item recent-post">
-                                <h4 class="title">Recent Post</h4>
-                                <ul>
-                                    <li>
-                                        <div class="thumb">
-                                            <a href="chatgpt-vs-deepseek.html">
-                                                <img src="../assets/img/homepage5.png" alt="ChatGPT vs DeepSeek">
-                                            </a>
-                                        </div>
-                                        <div class="info">
-                                            <a href="https://itdgrowthlabs.com/resources/top-10-website-content-writing-agencies-in-India.php">Top 10 Website Content Writing Agencies in India</a>
-                                        </div>
-                                    </li>
-                                    <!-- Add more recent posts here -->
-                                </ul>
-                            </div>
+                            <div class="title"><h4>Related Articles</h4></div>
+                            <ul>
+                                <li><div class="info"><a href="AI_in_Business_Applications_2026.php">AI in Business: 20 Practical Applications for 2026</a></div></li>
+                                <li><div class="info"><a href="9_Best_AI_Writing_Tools_to_Boost_Your_Writing_in_2025.php">9 Best AI Writing Tools to Boost Your Writing in 2025</a></div></li>
+                                <li><div class="info"><a href="5_Ways_WhatsApp_Automation_Reduces_Customer_Support_Costs.php">5 Ways WhatsApp Automation Reduces Customer Support Costs</a></div></li>
+                                <li><div class="info"><a href="AI_Customer_Service_Automation.php">AI in Customer Service: Chatbots, Ticket Routing &amp; Self-Service Portals</a></div></li>
+                                <li><div class="info"><a href="AI_Ethics_Responsible_AI_Business.php">AI Ethics &amp; Responsible AI: Building Trustworthy AI Systems</a></div></li>
+                            </ul>
+                        </div>
 
                             <div class="sidebar-item social-sidebar">
                                 <h4 class="title">Follow Us</h4>

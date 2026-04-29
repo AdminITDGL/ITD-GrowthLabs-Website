@@ -202,19 +202,13 @@
                     <!-- Start Sidebar -->
                     <div class="sidebar col-xl-4 col-lg-5 col-md-12 mt-md-50 mt-xs-50">
                         <div class="sidebar-item recent-post">
-                            <h4 class="title">Recent Post</h4>
+                            <div class="title"><h4>Related Articles</h4></div>
                             <ul>
-                                <li>
-                                    <div class="thumb">
-                                        <a href="top-10-website-content-writing-agencies-in-India.php">
-                                            <img src="../assets/img/homepage5.png" alt="Website Content Writing">
-                                        </a>
-                                    </div>
-                                    <div class="info">
-                                        <a href="blog-single-with-sidebar.php">Top 10 Website Content Writing Agencies in India</a>
-                                    </div>
-                                </li>
-                                <!-- Add more recent posts here -->
+                                <li><div class="info"><a href="Best_CMS_for_Business_Websites_2026.php">Best CMS for Business Websites in 2026 — Complete Comparison</a></div></li>
+                                <li><div class="info"><a href="Corporate_Website_Redesign_Checklist_2026.php">Corporate Website Redesign Checklist for 2026</a></div></li>
+                                <li><div class="info"><a href="How_AI_Is_Changing_Website_Development_2026.php">How AI Is Changing Website Development in 2026</a></div></li>
+                                <li><div class="info"><a href="Responsive_Web_Design_Best_Practices_2026.php">Responsive Web Design Best Practices for 2026</a></div></li>
+                                <li><div class="info"><a href="Web_Application_Development_Guide_2026.php">Web Application Development: Technologies, Frameworks &amp; Best Practices</a></div></li>
                             </ul>
                         </div>
 

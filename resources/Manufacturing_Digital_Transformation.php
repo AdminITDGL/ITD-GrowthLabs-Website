@@ -142,7 +142,7 @@
                                 <ul>
                                     <li>
                                         <div class="info">
-                                            <a href="IT_Outsourcing_India_Benefits_Guide.php">IT Outsourcing to India: Benefits, Risks & How to Get It Right</a>
+                                            <a href="IT_Outsourcing_India_Benefits_Guide.php">IT Outsourcing to India: Benefits, Risks &amp; How to Get It Right</a>
                                         </div>
                                     </li>
                                     <li>
@@ -152,10 +152,11 @@
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Enterprise_Software_Development_India.php">Enterprise Software Development in India: ERP, CRM & Custom Platforms</a>
+                                            <a href="Enterprise_Software_Development_India.php">Enterprise Software Development in India: ERP, CRM &amp; Custom Platforms</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="7_App_Features_Every_Business_App_Must_Have_in_2026.php">7 App Features Every Business App Must Have in 2026</a></div></li>
+                                    <li><div class="info"><a href="App_Development_Company_Mumbai_2026.php">Top App Development Company in Mumbai: Why Choose ITD GrowthLabs</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

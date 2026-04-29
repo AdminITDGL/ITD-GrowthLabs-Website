@@ -145,6 +145,8 @@
                                     <li><div class="info"><a href="Healthcare_App_Development_Cost_India_HIPAA_ABDM_2026.php">Healthcare App Development Cost India 2026</a></div></li>
                                     <li><div class="info"><a href="Multi_Vendor_Marketplace_App_Development_Cost_India_2026.php">Multi-Vendor Marketplace App Development Cost India 2026</a></div></li>
                                     <li><div class="info"><a href="Software_Outsourcing_to_India_Complete_Guide_2026.php">Software Outsourcing to India — Complete 2026 Guide</a></div></li>
+                                    <li><div class="info"><a href="Fintech_Landscape_India_2026.php">Fintech Landscape in India 2026: UPI, Digital Lending &amp; Neo-Banking</a></div></li>
+                                    <li><div class="info"><a href="AI_Fraud_Detection_Fintech.php">AI Fraud Detection in Fintech: Protect Transactions in Real-Time</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

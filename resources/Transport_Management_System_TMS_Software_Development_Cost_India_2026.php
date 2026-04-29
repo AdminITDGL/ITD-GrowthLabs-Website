@@ -145,6 +145,8 @@
                                     <li><div class="info"><a href="Logistics_Mobile_App_Development_Cost_India_2026.php">Logistics Mobile App Development Cost India 2026</a></div></li>
                                     <li><div class="info"><a href="White_Label_vs_Custom_Courier_Software_2026.php">White-Label vs Custom Courier Software 2026</a></div></li>
                                     <li><div class="info"><a href="Last_Mile_Delivery_Technology_Trends_2026.php">Last-Mile Delivery Technology Trends 2026</a></div></li>
+                                    <li><div class="info"><a href="App_Development_Cost_India_2026.php">App Development Cost in India 2026: Complete Pricing Breakdown</a></div></li>
+                                    <li><div class="info"><a href="App_Development_Cost_USA_vs_India_2026.php">App Development Cost USA vs India 2026: Real Numbers, Hidden Costs, and…</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

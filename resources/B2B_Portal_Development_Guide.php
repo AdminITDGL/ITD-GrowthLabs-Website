@@ -142,12 +142,12 @@
                                 <ul>
                                     <li>
                                         <div class="info">
-                                            <a href="Event_Management_App_Development.php">Event Management App Development: Ticketing, Registration & Analytics</a>
+                                            <a href="Event_Management_App_Development.php">Event Management App Development: Ticketing, Registration &amp; Analytics</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Ecommerce_App_Development_Complete_Guide.php">E-Commerce App Development: Features, Tech Stack & Cost in 2026</a>
+                                            <a href="Ecommerce_App_Development_Complete_Guide.php">E-Commerce App Development: Features, Tech Stack &amp; Cost in 2026</a>
                                         </div>
                                     </li>
                                     <li>
@@ -155,7 +155,8 @@
                                             <a href="Mobile_App_Security_Best_Practices.php">Mobile App Security: 10 Best Practices for 2026</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="Best_CMS_for_Business_Websites_2026.php">Best CMS for Business Websites in 2026 — Complete Comparison</a></div></li>
+                                    <li><div class="info"><a href="Corporate_Website_Redesign_Checklist_2026.php">Corporate Website Redesign Checklist for 2026</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

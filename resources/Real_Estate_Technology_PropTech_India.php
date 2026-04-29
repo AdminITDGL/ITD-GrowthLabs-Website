@@ -142,7 +142,7 @@
                                 <ul>
                                     <li>
                                         <div class="info">
-                                            <a href="Startup_Ecosystem_Mumbai_Technology.php">Mumbai Startup Ecosystem: Technology, Funding & Growth Opportunities</a>
+                                            <a href="Startup_Ecosystem_Mumbai_Technology.php">Mumbai Startup Ecosystem: Technology, Funding &amp; Growth Opportunities</a>
                                         </div>
                                     </li>
                                     <li>
@@ -152,10 +152,11 @@
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Sustainability_Technology_Green_Apps.php">Sustainability Technology: Green Apps & Carbon Footprint Tracking</a>
+                                            <a href="Sustainability_Technology_Green_Apps.php">Sustainability Technology: Green Apps &amp; Carbon Footprint Tracking</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="7_App_Features_Every_Business_App_Must_Have_in_2026.php">7 App Features Every Business App Must Have in 2026</a></div></li>
+                                    <li><div class="info"><a href="App_Development_Company_Mumbai_2026.php">Top App Development Company in Mumbai: Why Choose ITD GrowthLabs</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

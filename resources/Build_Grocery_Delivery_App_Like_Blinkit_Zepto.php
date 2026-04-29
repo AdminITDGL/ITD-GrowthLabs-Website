@@ -143,6 +143,8 @@
                                     <li><div class="info"><a href="Hyperlocal_Delivery_App_Development_Cost_2026.php">Hyperlocal Delivery App Development Cost (2026)</a></div></li>
                                     <li><div class="info"><a href="Multi_Vendor_Marketplace_App_Development_Cost_India_2026.php">Multi-Vendor Marketplace App Development Cost India 2026</a></div></li>
                                     <li><div class="info"><a href="Build_Swiggy_Zomato_Clone_Cost_Features_2026.php">How to Build a Swiggy / Zomato Clone in 2026</a></div></li>
+                                    <li><div class="info"><a href="Cold_Chain_Logistics_Technology_2026_IoT_WMS_Real_Time_Tracking.php">Cold Chain Logistics Technology in 2026 — IoT Sensors, Real-Time…</a></div></li>
+                                    <li><div class="info"><a href="Container_Tracking_Shipping_Software_Development_Guide_2026.php">Container Tracking &amp; Shipping Software Development Guide 2026 —…</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

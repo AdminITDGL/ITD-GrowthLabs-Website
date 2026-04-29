@@ -142,7 +142,7 @@
                                 <ul>
                                     <li>
                                         <div class="info">
-                                            <a href="Sustainability_Technology_Green_Apps.php">Sustainability Technology: Green Apps & Carbon Footprint Tracking</a>
+                                            <a href="Sustainability_Technology_Green_Apps.php">Sustainability Technology: Green Apps &amp; Carbon Footprint Tracking</a>
                                         </div>
                                     </li>
                                     <li>
@@ -152,10 +152,11 @@
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Fintech_Landscape_India_2026.php">Fintech Landscape in India 2026: UPI, Digital Lending & Neo-Banking</a>
+                                            <a href="Fintech_Landscape_India_2026.php">Fintech Landscape in India 2026: UPI, Digital Lending &amp; Neo-Banking</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="App_Development_Cost_India_2026.php">App Development Cost in India 2026: Complete Pricing Breakdown</a></div></li>
+                                    <li><div class="info"><a href="App_Development_Cost_USA_vs_India_2026.php">App Development Cost USA vs India 2026: Real Numbers, Hidden Costs, and…</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

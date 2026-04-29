@@ -333,21 +333,15 @@
                     <div class="sidebar col-xl-4 col-lg-5 col-md-12 mt-md-50 mt-xs-50">
                         <aside>
                             <div class="sidebar-item recent-post">
-                                <h4 class="title">Recent Post</h4>
-                                <ul>
-                                    <li>
-                                        <div class="thumb">
-                                            <a href="how-to-use-chatgpt-and-deepseek-for-seo.html">
-                                                <img src="../assets/img/homepage5.png" alt="ChatGPT and DeepSeek for SEO">
-                                            </a>
-                                        </div>
-                                        <div class="info">
-                                            <a href="https://itdgrowthlabs.com/resources/top-10-website-content-writing-agencies-in-India.php">Top 10 Website Content Writing Agencies in India</a>
-                                        </div>
-                                    </li>
-                                    <!-- Add more recent posts here -->
-                                </ul>
-                            </div>
+                            <div class="title"><h4>Related Articles</h4></div>
+                            <ul>
+                                <li><div class="info"><a href="Fintech_Landscape_India_2026.php">Fintech Landscape in India 2026: UPI, Digital Lending &amp; Neo-Banking</a></div></li>
+                                <li><div class="info"><a href="Insurance_App_Development_India_2026_InsurTech_IRDAI_Cost_Guide.php">Insurance App Development in India 2026 — InsurTech Cost, IRDAI…</a></div></li>
+                                <li><div class="info"><a href="AI_Fraud_Detection_Fintech.php">AI Fraud Detection in Fintech: Protect Transactions in Real-Time</a></div></li>
+                                <li><div class="info"><a href="Payment_Gateway_Integration_Guide.php">Payment Gateway Integration: Complete Developer Guide for Indian Apps</a></div></li>
+                                <li><div class="info"><a href="7_App_Features_Every_Business_App_Must_Have_in_2026.php">7 App Features Every Business App Must Have in 2026</a></div></li>
+                            </ul>
+                        </div>
 
                             <div class="sidebar-item social-sidebar">
                                 <h4 class="title">Follow Us</h4>

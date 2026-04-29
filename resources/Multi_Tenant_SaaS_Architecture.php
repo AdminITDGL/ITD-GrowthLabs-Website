@@ -147,15 +147,16 @@
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Ecommerce_App_Development_Complete_Guide.php">E-Commerce App Development: Features, Tech Stack & Cost in 2026</a>
+                                            <a href="Ecommerce_App_Development_Complete_Guide.php">E-Commerce App Development: Features, Tech Stack &amp; Cost in 2026</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Booking_Appointment_App_Development.php">Booking & Appointment App Development: Features & Revenue Models</a>
+                                            <a href="Booking_Appointment_App_Development.php">Booking &amp; Appointment App Development: Features &amp; Revenue Models</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="7_App_Features_Every_Business_App_Must_Have_in_2026.php">7 App Features Every Business App Must Have in 2026</a></div></li>
+                                    <li><div class="info"><a href="App_Development_Company_Mumbai_2026.php">Top App Development Company in Mumbai: Why Choose ITD GrowthLabs</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

@@ -487,7 +487,40 @@
                             </div>
                         </div>
                     </div>
-                    <!-- Sidebar might be left as is or commented if not needed for this content rewrite -->
+                                        <!-- Sidebar -->
+                    <div class="sidebar col-xl-4 col-lg-5 col-md-12 mt-md-50 mt-xs-50">
+                        <aside>
+                            <div class="sidebar-item recent-post">
+                                <div class="title"><h4>Related Articles</h4></div>
+                                <ul>
+                                    <li><div class="info"><a href="Digital_Marketing_Trends_Middle_East_2026.php">Digital Marketing Trends in the Middle East for 2026</a></div></li>
+                                    <li><div class="info"><a href="Social_Media_Marketing_Strategy_2026.php">Social Media Marketing Strategy 2026: Platforms, Content &amp; Metrics</a></div></li>
+                                    <li><div class="info"><a href="10_Essential_Marketing_Tools_2025_for_Effective_Marketing_Teams_ITD_GrowthLabs.php">10 Essential Tools Every Marketing Team Should Use in 2025: Your…</a></div></li>
+                                    <li><div class="info"><a href="B2B_Marketing_2025_Proven_Marketing_Tactics_That_Still_Work_ITD_GrowthLabs.php">B2B Marketing Team Tactics That Still Work in 2025: Proven Marketing…</a></div></li>
+                                    <li><div class="info"><a href="Email_Marketing_Tips_Every_Mail_Marketing_Team_Should_Know_in_2025_ITD_GrowthLabs.php">Email Marketing Tips Every Team Should Know in 2025: Mastering the Mail…</a></div></li>
+                                </ul>
+                            </div>
+                            <div class="sidebar-item category">
+                                <div class="title"><h4>Categories</h4></div>
+                                <div class="sidebar-info">
+                                    <ul>
+                                        <li><a href="all-blogs.php">App Development</a></li>
+                                        <li><a href="all-blogs.php">Web Development</a></li>
+                                        <li><a href="all-blogs.php">Digital Marketing</a></li>
+                                        <li><a href="all-blogs.php">SEO &amp; Content</a></li>
+                                        <li><a href="all-blogs.php">AI &amp; Automation</a></li>
+                                        <li><a href="all-blogs.php">Logistics Technology</a></li>
+                                        <li><a href="all-blogs.php">Marketplace &amp; Hyperlocal</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="sidebar-item recent-post">
+                                <div class="title"><h4>Get a Free Quote</h4></div>
+                                <p style="padding: 10px 0;">Plan your project with a senior engineer in a 30-min call. No sales pitch.</p>
+                                <a href="../contact-us.php" style="display:inline-block;background:#ff5722;color:#fff;padding:10px 20px;border-radius:6px;text-decoration:none;font-weight:600;">Book a Free Call &rarr;</a>
+                            </div>
+                        </aside>
+                    </div>
                 </div>
             </div>
         </div>

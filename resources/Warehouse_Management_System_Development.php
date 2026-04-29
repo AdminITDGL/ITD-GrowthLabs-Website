@@ -142,12 +142,12 @@
                                 <ul>
                                     <li>
                                         <div class="info">
-                                            <a href="Fitness_Wellness_App_Development.php">Fitness & Wellness App Development: Features, Wearable Integration & Cost</a>
+                                            <a href="Fitness_Wellness_App_Development.php">Fitness &amp; Wellness App Development: Features, Wearable Integration &amp; Cost</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Cloud_Native_Application_Development.php">Cloud-Native Application Development: Microservices, Containers & Serverless</a>
+                                            <a href="Cloud_Native_Application_Development.php">Cloud-Native Application Development: Microservices, Containers &amp; Serverless</a>
                                         </div>
                                     </li>
                                     <li>
@@ -155,7 +155,8 @@
                                             <a href="Supply_Chain_Management_App_Development.php">Supply Chain Management App Development: End-to-End Visibility</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="Cold_Chain_Logistics_Technology_2026_IoT_WMS_Real_Time_Tracking.php">Cold Chain Logistics Technology in 2026 — IoT Sensors, Real-Time…</a></div></li>
+                                    <li><div class="info"><a href="Container_Tracking_Shipping_Software_Development_Guide_2026.php">Container Tracking &amp; Shipping Software Development Guide 2026 —…</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

@@ -155,7 +155,8 @@
                                             <a href="Startup_Technology_Partner_India.php">Choosing a Technology Partner for Your Startup in India</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="EdTech_App_Development_Online_Learning_Live_Classes_LMS_Cost_India_2026.php">EdTech App Development 2026 — Online Learning, Live Classes &amp;…</a></div></li>
+                                    <li><div class="info"><a href="Tools_to_Create_eLearning_Content_in_2025.php">Tools to Create eLearning Content in 2025</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

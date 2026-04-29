@@ -147,15 +147,16 @@
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Local_SEO_Guide_India_Businesses.php">Local SEO Guide for Indian Businesses: Dominate Google Maps & Local Search</a>
+                                            <a href="Local_SEO_Guide_India_Businesses.php">Local SEO Guide for Indian Businesses: Dominate Google Maps &amp; Local Search</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Video_Marketing_Strategy_Business.php">Video Marketing Strategy: YouTube, Reels & Short-Form Content for Business</a>
+                                            <a href="Video_Marketing_Strategy_Business.php">Video Marketing Strategy: YouTube, Reels &amp; Short-Form Content for Business</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="7_App_Features_Every_Business_App_Must_Have_in_2026.php">7 App Features Every Business App Must Have in 2026</a></div></li>
+                                    <li><div class="info"><a href="App_Development_Company_Mumbai_2026.php">Top App Development Company in Mumbai: Why Choose ITD GrowthLabs</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

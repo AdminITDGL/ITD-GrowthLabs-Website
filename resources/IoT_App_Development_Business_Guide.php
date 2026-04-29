@@ -142,20 +142,21 @@
                                 <ul>
                                     <li>
                                         <div class="info">
-                                            <a href="Event_Management_App_Development.php">Event Management App Development: Ticketing, Registration & Analytics</a>
+                                            <a href="Event_Management_App_Development.php">Event Management App Development: Ticketing, Registration &amp; Analytics</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Real_Estate_App_Development_Guide.php">Real Estate App Development: Property Listing, Virtual Tours & CRM</a>
+                                            <a href="Real_Estate_App_Development_Guide.php">Real Estate App Development: Property Listing, Virtual Tours &amp; CRM</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="SaaS_Application_Development_Guide.php">SaaS Application Development: Complete Guide for Startups & Enterprises</a>
+                                            <a href="SaaS_Application_Development_Guide.php">SaaS Application Development: Complete Guide for Startups &amp; Enterprises</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="7_App_Features_Every_Business_App_Must_Have_in_2026.php">7 App Features Every Business App Must Have in 2026</a></div></li>
+                                    <li><div class="info"><a href="App_Development_Company_Mumbai_2026.php">Top App Development Company in Mumbai: Why Choose ITD GrowthLabs</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

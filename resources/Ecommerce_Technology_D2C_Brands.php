@@ -142,12 +142,12 @@
                                 <ul>
                                     <li>
                                         <div class="info">
-                                            <a href="Healthcare_Technology_Solutions_India.php">Healthcare Technology Solutions in India: Telemedicine, EHR & Patient Apps</a>
+                                            <a href="Healthcare_Technology_Solutions_India.php">Healthcare Technology Solutions in India: Telemedicine, EHR &amp; Patient Apps</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="IT_Services_Company_UAE_Dubai.php">IT Services Company in UAE & Dubai: Custom Software & App Development</a>
+                                            <a href="IT_Services_Company_UAE_Dubai.php">IT Services Company in UAE &amp; Dubai: Custom Software &amp; App Development</a>
                                         </div>
                                     </li>
                                     <li>
@@ -155,7 +155,8 @@
                                             <a href="App_Development_Company_Delhi_NCR.php">App Development Company in Delhi NCR: Custom Software Solutions</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="7_App_Features_Every_Business_App_Must_Have_in_2026.php">7 App Features Every Business App Must Have in 2026</a></div></li>
+                                    <li><div class="info"><a href="App_Development_Company_Mumbai_2026.php">Top App Development Company in Mumbai: Why Choose ITD GrowthLabs</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

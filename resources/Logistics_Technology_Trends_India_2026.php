@@ -152,10 +152,11 @@
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Real_Estate_Technology_PropTech_India.php">Real Estate Technology (PropTech) in India: Listings, Virtual Tours & CRM</a>
+                                            <a href="Real_Estate_Technology_PropTech_India.php">Real Estate Technology (PropTech) in India: Listings, Virtual Tours &amp; CRM</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="App_Development_Cost_India_2026.php">App Development Cost in India 2026: Complete Pricing Breakdown</a></div></li>
+                                    <li><div class="info"><a href="App_Development_Cost_USA_vs_India_2026.php">App Development Cost USA vs India 2026: Real Numbers, Hidden Costs, and…</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

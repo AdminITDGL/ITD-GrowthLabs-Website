@@ -147,15 +147,16 @@
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Website_Maintenance_Plan_Guide.php">Website Maintenance Plan: Keep Your Site Secure, Fast & Updated</a>
+                                            <a href="Website_Maintenance_Plan_Guide.php">Website Maintenance Plan: Keep Your Site Secure, Fast &amp; Updated</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Web_Hosting_Selection_Guide.php">Web Hosting Guide: Shared, VPS, Cloud & Dedicated Hosting Compared</a>
+                                            <a href="Web_Hosting_Selection_Guide.php">Web Hosting Guide: Shared, VPS, Cloud &amp; Dedicated Hosting Compared</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="Best_CMS_for_Business_Websites_2026.php">Best CMS for Business Websites in 2026 — Complete Comparison</a></div></li>
+                                    <li><div class="info"><a href="Corporate_Website_Redesign_Checklist_2026.php">Corporate Website Redesign Checklist for 2026</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

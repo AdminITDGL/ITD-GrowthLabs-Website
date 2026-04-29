@@ -145,6 +145,8 @@
                                     <li><div class="info"><a href="App_Development_Company_in_UAE_Dubai_2026.php">App Development Company in UAE / Dubai 2026</a></div></li>
                                     <li><div class="info"><a href="App_Development_Company_in_USA_2026_Hire_Guide.php">App Development Company in USA 2026</a></div></li>
                                     <li><div class="info"><a href="Software_Outsourcing_to_India_Complete_Guide_2026.php">Software Outsourcing to India — 2026 Guide</a></div></li>
+                                    <li><div class="info"><a href="App_Development_Company_in_UK_2026_Founder_Guide.php">App Development Company in UK 2026: London Rates, Manchester Studios,…</a></div></li>
+                                    <li><div class="info"><a href="App_Development_Company_UK_What_to_Expect.php">App Development Company in UK — What to Expect in 2026</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

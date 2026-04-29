@@ -143,6 +143,8 @@
                                     <li><div class="info"><a href="App_Development_Cost_USA_vs_India_2026.php">App Development Cost: USA vs India 2026</a></div></li>
                                     <li><div class="info"><a href="Software_Outsourcing_to_India_Complete_Guide_2026.php">Software Outsourcing to India: Complete Guide 2026</a></div></li>
                                     <li><div class="info"><a href="App_Development_Company_in_UK_2026_Founder_Guide.php">App Development Company in UK 2026</a></div></li>
+                                    <li><div class="info"><a href="7_App_Features_Every_Business_App_Must_Have_in_2026.php">7 App Features Every Business App Must Have in 2026</a></div></li>
+                                    <li><div class="info"><a href="App_Development_Company_Mumbai_2026.php">Top App Development Company in Mumbai: Why Choose ITD GrowthLabs</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

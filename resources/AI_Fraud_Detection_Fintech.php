@@ -142,7 +142,7 @@
                                 <ul>
                                     <li>
                                         <div class="info">
-                                            <a href="Natural_Language_Processing_Business_Apps.php">NLP in Business Applications: Sentiment Analysis, Chatbots & Text Mining</a>
+                                            <a href="Natural_Language_Processing_Business_Apps.php">NLP in Business Applications: Sentiment Analysis, Chatbots &amp; Text Mining</a>
                                         </div>
                                     </li>
                                     <li>
@@ -155,7 +155,8 @@
                                             <a href="Recommendation_Engine_Development_Guide.php">Recommendation Engine Development: Personalize User Experiences</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="Fintech_Landscape_India_2026.php">Fintech Landscape in India 2026: UPI, Digital Lending &amp; Neo-Banking</a></div></li>
+                                    <li><div class="info"><a href="Insurance_App_Development_India_2026_InsurTech_IRDAI_Cost_Guide.php">Insurance App Development in India 2026 — InsurTech Cost, IRDAI…</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

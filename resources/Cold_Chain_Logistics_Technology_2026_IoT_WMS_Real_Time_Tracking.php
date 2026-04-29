@@ -145,6 +145,8 @@
                                     <li><div class="info"><a href="Logistics_Mobile_App_Development_Cost_India_2026.php">Logistics Mobile App Development Cost India 2026</a></div></li>
                                     <li><div class="info"><a href="Last_Mile_Delivery_Technology_Trends_2026.php">Last-Mile Delivery Technology Trends 2026</a></div></li>
                                     <li><div class="info"><a href="White_Label_vs_Custom_Courier_Software_2026.php">White-Label vs Custom Courier Software 2026</a></div></li>
+                                    <li><div class="info"><a href="Container_Tracking_Shipping_Software_Development_Guide_2026.php">Container Tracking &amp; Shipping Software Development Guide 2026 —…</a></div></li>
+                                    <li><div class="info"><a href="Fleet_Management_App_Development_Guide_2026.php">Fleet Management App Development: Complete Guide for 2026</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

@@ -142,12 +142,12 @@
                                 <ul>
                                     <li>
                                         <div class="info">
-                                            <a href="Web_Security_SSL_HTTPS_Guide.php">Web Security: SSL, HTTPS & Protecting Your Website from Cyber Threats</a>
+                                            <a href="Web_Security_SSL_HTTPS_Guide.php">Web Security: SSL, HTTPS &amp; Protecting Your Website from Cyber Threats</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Web_Analytics_Setup_Guide.php">Web Analytics Setup: GA4, GTM & Conversion Tracking Guide</a>
+                                            <a href="Web_Analytics_Setup_Guide.php">Web Analytics Setup: GA4, GTM &amp; Conversion Tracking Guide</a>
                                         </div>
                                     </li>
                                     <li>
@@ -155,7 +155,8 @@
                                             <a href="Corporate_Website_Design_Best_Practices.php">Corporate Website Design: Best Practices for B2B Companies</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="Best_CMS_for_Business_Websites_2026.php">Best CMS for Business Websites in 2026 — Complete Comparison</a></div></li>
+                                    <li><div class="info"><a href="Corporate_Website_Redesign_Checklist_2026.php">Corporate Website Redesign Checklist for 2026</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

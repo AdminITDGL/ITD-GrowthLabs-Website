@@ -147,7 +147,7 @@
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Competitor_Analysis_SEO_Marketing.php">Competitor Analysis for SEO & Digital Marketing: Spy, Learn, Win</a>
+                                            <a href="Competitor_Analysis_SEO_Marketing.php">Competitor Analysis for SEO &amp; Digital Marketing: Spy, Learn, Win</a>
                                         </div>
                                     </li>
                                     <li>
@@ -155,7 +155,8 @@
                                             <a href="Email_Marketing_Automation_Guide.php">Email Marketing Automation: Nurture Leads and Drive Conversions</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="SEO_Audit_Checklist_2026.php">SEO Audit Checklist for 2026 — Complete Technical &amp; Content Review</a></div></li>
+                                    <li><div class="info"><a href="Technical_SEO_Checklist_2026_Core_Web_Vitals_Schema_JS_Rendering.php">Technical SEO Checklist 2026: Core Web Vitals, Schema, JS Rendering…</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

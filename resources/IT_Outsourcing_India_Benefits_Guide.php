@@ -142,7 +142,7 @@
                                 <ul>
                                     <li>
                                         <div class="info">
-                                            <a href="Healthcare_Technology_Solutions_India.php">Healthcare Technology Solutions in India: Telemedicine, EHR & Patient Apps</a>
+                                            <a href="Healthcare_Technology_Solutions_India.php">Healthcare Technology Solutions in India: Telemedicine, EHR &amp; Patient Apps</a>
                                         </div>
                                     </li>
                                     <li>
@@ -152,10 +152,11 @@
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Education_Technology_India_eLearning.php">Education Technology in India: eLearning Platforms, LMS & EdTech Apps</a>
+                                            <a href="Education_Technology_India_eLearning.php">Education Technology in India: eLearning Platforms, LMS &amp; EdTech Apps</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="App_Development_Cost_India_2026.php">App Development Cost in India 2026: Complete Pricing Breakdown</a></div></li>
+                                    <li><div class="info"><a href="App_Development_Cost_USA_vs_India_2026.php">App Development Cost USA vs India 2026: Real Numbers, Hidden Costs, and…</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

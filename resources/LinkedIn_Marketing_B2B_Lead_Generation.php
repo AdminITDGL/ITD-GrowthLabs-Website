@@ -114,61 +114,15 @@
                     <div class="sidebar col-xl-4 col-lg-5 col-md-12 mt-md-50 mt-xs-50">
                         <aside>
                             <div class="sidebar-item recent-post">
-                                <h4 class="title">Recent Post</h4>
-                                <ul>
-                                    <li>
-                                        <div class="thumb">
-                                            <a href="Logistics_App_Development_Cost_in_India_2026.php">
-                                                <img src="../assets/img/homepage5.png" alt="Logistics App Development Cost in India 2026 — Complete Pricing Guide">
-                                            </a>
-                                        </div>
-                                        <div class="info">
-                                            <a href="Logistics_App_Development_Cost_in_India_2026.php">Logistics App Development Cost in India 2026 — Complete Pric...</a>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="thumb">
-                                            <a href="Courier_Management_Software_Features_Benefits_ROI.php">
-                                                <img src="../assets/img/homepage5.png" alt="Courier Management Software: Features, Benefits &amp; ROI for Your Business">
-                                            </a>
-                                        </div>
-                                        <div class="info">
-                                            <a href="Courier_Management_Software_Features_Benefits_ROI.php">Courier Management Software: Features, Benefits &amp; ROI for Yo...</a>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="thumb">
-                                            <a href="Fleet_Management_App_Development_Guide_2026.php">
-                                                <img src="../assets/img/homepage5.png" alt="Fleet Management App Development: Complete Guide for 2026">
-                                            </a>
-                                        </div>
-                                        <div class="info">
-                                            <a href="Fleet_Management_App_Development_Guide_2026.php">Fleet Management App Development: Complete Guide for 2026...</a>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="thumb">
-                                            <a href="How_to_Build_a_Delivery_Tracking_App_Complete_Guide.php">
-                                                <img src="../assets/img/homepage5.png" alt="How to Build a Delivery Tracking App — Step-by-Step Guide">
-                                            </a>
-                                        </div>
-                                        <div class="info">
-                                            <a href="How_to_Build_a_Delivery_Tracking_App_Complete_Guide.php">How to Build a Delivery Tracking App — Step-by-Step Guide...</a>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="thumb">
-                                            <a href="Best_Logistics_App_Development_Company_in_India.php">
-                                                <img src="../assets/img/homepage5.png" alt="Best Logistics App Development Company in India — How to Choose">
-                                            </a>
-                                        </div>
-                                        <div class="info">
-                                            <a href="Best_Logistics_App_Development_Company_in_India.php">Best Logistics App Development Company in India — How to Cho...</a>
-                                        </div>
-                                    </li>
-
-                                </ul>
-                            </div>
+                            <div class="title"><h4>Related Articles</h4></div>
+                            <ul>
+                                <li><div class="info"><a href="Digital_Marketing_Trends_Middle_East_2026.php">Digital Marketing Trends in the Middle East for 2026</a></div></li>
+                                <li><div class="info"><a href="Social_Media_Marketing_Strategy_2026.php">Social Media Marketing Strategy 2026: Platforms, Content &amp; Metrics</a></div></li>
+                                <li><div class="info"><a href="10_Essential_Marketing_Tools_2025_for_Effective_Marketing_Teams_ITD_GrowthLabs.php">10 Essential Tools Every Marketing Team Should Use in 2025: Your…</a></div></li>
+                                <li><div class="info"><a href="2025_marketing_team_trends_strategy_shifts_to_watch_itd_growthlabs.php">2025 Trends That Will Redefine In-House Marketing Teams: Marketing Team…</a></div></li>
+                                <li><div class="info"><a href="B2B_Marketing_2025_Proven_Marketing_Tactics_That_Still_Work_ITD_GrowthLabs.php">B2B Marketing Team Tactics That Still Work in 2025: Proven Marketing…</a></div></li>
+                            </ul>
+                        </div>
                             <div class="sidebar-item social-sidebar">
                                 <h4 class="title">Follow Us</h4>
                                 <div class="sidebar-info">

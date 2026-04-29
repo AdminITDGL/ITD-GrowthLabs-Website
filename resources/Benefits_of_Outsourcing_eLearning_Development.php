@@ -299,21 +299,15 @@
             <div class="sidebar col-xl-4 col-lg-5 col-md-12 mt-md-50 mt-xs-50">
                 <aside>
                     <div class="sidebar-item recent-post">
-                        <h4 class="title">Recent Post</h4>
-                        <ul>
-                            <li>
-                                <div class="thumb">
-                                    <a href="how-to-use-chatgpt-and-deepseek-for-seo.html">
-                                        <img src="../assets/img/homepage5.png" alt="ChatGPT and DeepSeek for SEO">
-                                    </a>
-                                </div>
-                                <div class="info">
-                                    <a href="https://itdgrowthlabs.com/resources/top-10-website-content-writing-agencies-in-India.php">Top 10 Website Content Writing Agencies in India</a>
-                                </div>
-                            </li>
-                            <!-- Add more recent posts here -->
-                        </ul>
-                    </div>
+                            <div class="title"><h4>Related Articles</h4></div>
+                            <ul>
+                                <li><div class="info"><a href="EdTech_App_Development_Online_Learning_Live_Classes_LMS_Cost_India_2026.php">EdTech App Development 2026 — Online Learning, Live Classes &amp;…</a></div></li>
+                                <li><div class="info"><a href="Tools_to_Create_eLearning_Content_in_2025.php">Tools to Create eLearning Content in 2025</a></div></li>
+                                <li><div class="info"><a href="Accessibility_Guidelines_for_eLearning_Content.php">Accessibility Guidelines for eLearning Content</a></div></li>
+                                <li><div class="info"><a href="Best_Practices_for_Writing_eLearning_Scripts.php">Best Practices for Writing eLearning Scripts Effectively</a></div></li>
+                                <li><div class="info"><a href="Building_ScenarioBased_eLearning_Courses.php">Building Scenario-Based eLearning Courses: Enhancing Immersive Training</a></div></li>
+                            </ul>
+                        </div>
 
                     <div class="sidebar-item social-sidebar">
                         <h4 class="title">Follow Us</h4>

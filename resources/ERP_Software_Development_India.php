@@ -142,7 +142,7 @@
                                 <ul>
                                     <li>
                                         <div class="info">
-                                            <a href="API_Development_Integration_Guide.php">API Development & Integration: Building Connected Applications</a>
+                                            <a href="API_Development_Integration_Guide.php">API Development &amp; Integration: Building Connected Applications</a>
                                         </div>
                                     </li>
                                     <li>
@@ -152,10 +152,11 @@
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Healthcare_App_Development_Guide.php">Healthcare App Development: HIPAA Compliance, Features & Cost</a>
+                                            <a href="Healthcare_App_Development_Guide.php">Healthcare App Development: HIPAA Compliance, Features &amp; Cost</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="7_App_Features_Every_Business_App_Must_Have_in_2026.php">7 App Features Every Business App Must Have in 2026</a></div></li>
+                                    <li><div class="info"><a href="App_Development_Company_Mumbai_2026.php">Top App Development Company in Mumbai: Why Choose ITD GrowthLabs</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

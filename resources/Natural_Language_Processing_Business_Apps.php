@@ -142,7 +142,7 @@
                                 <ul>
                                     <li>
                                         <div class="info">
-                                            <a href="Data_Pipeline_ETL_Development.php">Data Pipeline & ETL Development: Move, Transform & Analyze Data at Scale</a>
+                                            <a href="Data_Pipeline_ETL_Development.php">Data Pipeline &amp; ETL Development: Move, Transform &amp; Analyze Data at Scale</a>
                                         </div>
                                     </li>
                                     <li>
@@ -152,10 +152,11 @@
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Voice_Search_Optimization_Guide_2026.php">Voice Search Optimization: Prepare for Alexa, Siri & Google Assistant</a>
+                                            <a href="Voice_Search_Optimization_Guide_2026.php">Voice Search Optimization: Prepare for Alexa, Siri &amp; Google Assistant</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="AI_in_Business_Applications_2026.php">AI in Business: 20 Practical Applications for 2026</a></div></li>
+                                    <li><div class="info"><a href="9_Best_AI_Writing_Tools_to_Boost_Your_Writing_in_2025.php">9 Best AI Writing Tools to Boost Your Writing in 2025</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

@@ -147,7 +147,7 @@
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Ecommerce_Technology_D2C_Brands.php">E-Commerce Technology for D2C Brands: Platforms, Apps & Marketing</a>
+                                            <a href="Ecommerce_Technology_D2C_Brands.php">E-Commerce Technology for D2C Brands: Platforms, Apps &amp; Marketing</a>
                                         </div>
                                     </li>
                                     <li>
@@ -155,7 +155,8 @@
                                             <a href="App_Development_Company_Delhi_NCR.php">App Development Company in Delhi NCR: Custom Software Solutions</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="7_App_Features_Every_Business_App_Must_Have_in_2026.php">7 App Features Every Business App Must Have in 2026</a></div></li>
+                                    <li><div class="info"><a href="App_Development_Company_Mumbai_2026.php">Top App Development Company in Mumbai: Why Choose ITD GrowthLabs</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

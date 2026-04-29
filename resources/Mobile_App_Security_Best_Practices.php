@@ -142,12 +142,12 @@
                                 <ul>
                                     <li>
                                         <div class="info">
-                                            <a href="Warehouse_Management_System_Development.php">Warehouse Management System (WMS) Development: Features & Architecture</a>
+                                            <a href="Warehouse_Management_System_Development.php">Warehouse Management System (WMS) Development: Features &amp; Architecture</a>
                                         </div>
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="MVP_Development_Guide_Startups.php">MVP Development Guide for Startups: Build, Launch & Validate Fast</a>
+                                            <a href="MVP_Development_Guide_Startups.php">MVP Development Guide for Startups: Build, Launch &amp; Validate Fast</a>
                                         </div>
                                     </li>
                                     <li>
@@ -155,7 +155,8 @@
                                             <a href="How_to_Choose_Logistics_App_Development_Company.php">How to Choose a Logistics App Development Company</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="7_App_Features_Every_Business_App_Must_Have_in_2026.php">7 App Features Every Business App Must Have in 2026</a></div></li>
+                                    <li><div class="info"><a href="App_Development_Company_Mumbai_2026.php">Top App Development Company in Mumbai: Why Choose ITD GrowthLabs</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">

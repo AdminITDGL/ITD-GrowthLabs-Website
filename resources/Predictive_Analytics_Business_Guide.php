@@ -147,7 +147,7 @@
                                     </li>
                                     <li>
                                         <div class="info">
-                                            <a href="Workflow_Automation_No_Code_Low_Code.php">Workflow Automation with No-Code & Low-Code Platforms</a>
+                                            <a href="Workflow_Automation_No_Code_Low_Code.php">Workflow Automation with No-Code &amp; Low-Code Platforms</a>
                                         </div>
                                     </li>
                                     <li>
@@ -155,7 +155,8 @@
                                             <a href="RPA_Robotic_Process_Automation_Business.php">Robotic Process Automation (RPA) for Business: Automate Repetitive Tasks</a>
                                         </div>
                                     </li>
-
+                                    <li><div class="info"><a href="AI_in_Business_Applications_2026.php">AI in Business: 20 Practical Applications for 2026</a></div></li>
+                                    <li><div class="info"><a href="9_Best_AI_Writing_Tools_to_Boost_Your_Writing_in_2025.php">9 Best AI Writing Tools to Boost Your Writing in 2025</a></div></li>
                                 </ul>
                             </div>
                             <div class="sidebar-item category">
