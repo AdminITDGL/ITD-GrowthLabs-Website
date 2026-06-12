@@ -511,5 +511,7 @@
 
 <?php include(__DIR__ . "/../includes/footer.php"); ?>
 <?php include(__DIR__ . "/../includes/footer_script.php"); ?>
+
+<?php include(__DIR__ . "/../includes/popup_modal.php"); ?>
 </body>
 </html>
