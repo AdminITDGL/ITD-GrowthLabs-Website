@@ -384,6 +384,48 @@
     </div>
     <!-- End By the Numbers -->
 
+    <!-- Trust badges: third-party verification before leadership intro -->
+    <?php $tb_source = 'about'; include(__DIR__ . '/includes/trust-badges.php'); ?>
+
+    <!-- Leadership: named ownership of every engagement -->
+    <div class="leadership-area" style="padding:80px 0;background:linear-gradient(135deg,#fff8f1 0%,#fff 60%);">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2 text-center mb-5">
+                    <h5 style="color: var(--color-primary); text-transform: uppercase; font-weight: 600; letter-spacing: 1px;">Leadership</h5>
+                    <h2>Named ownership of every engagement.</h2>
+                    <p>Every serious client engagement we take on is personally scoped, kicked off and owned by our Business Head.</p>
+                </div>
+            </div>
+            <div class="row align-items-center" style="background:#fff;border:1px solid #f0e6d8;border-left:4px solid var(--color-primary);border-radius:14px;padding:34px 28px;max-width:920px;margin:0 auto;box-shadow:0 8px 32px rgba(255,107,0,0.08);">
+                <div class="col-md-3 text-center mb-3 mb-md-0">
+                    <div style="width:130px;height:130px;border-radius:50%;background:linear-gradient(135deg,#ff6b00,#e65100);color:#fff;display:inline-flex;align-items:center;justify-content:center;font-size:46px;font-weight:800;box-shadow:0 8px 22px rgba(255,107,0,0.25);"
+                         aria-label="Photo of Prashant Chaudhari, Business Head at ITD GrowthLabs">
+                        PC
+                    </div>
+                </div>
+                <div class="col-md-9">
+                    <h3 style="margin:0 0 4px;font-size:24px;font-weight:800;color:#0a1629;">Prashant Chaudhari</h3>
+                    <div style="font-size:14px;color:#555;margin-bottom:14px;font-weight:600;text-transform:uppercase;letter-spacing:0.5px;">Business Head &middot; ITD GrowthLabs</div>
+                    <p style="font-size:15px;line-height:1.75;color:#444;margin-bottom:16px;">
+                        Prashant is the named owner of every client engagement we run &mdash; from the first discovery call through scoping, kick-off and the long-term partnership. He personally decides which engagements we&rsquo;re the right partner for and which we&rsquo;re not. Currently leading our active builds for <a href="https://mindsynevolution.ai/" target="_blank" rel="noopener" style="color:var(--color-primary);font-weight:600;">Mindsyn Evolution</a> (quantum-era data platform), our logistics platform clients, and our lead-generation engagements across India, UAE, UK, US and Australia.
+                    </p>
+                    <div style="display:flex;gap:14px;flex-wrap:wrap;">
+                        <a href="https://www.linkedin.com/in/prashant-chaudhari03/" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:6px;font-size:14px;font-weight:600;color:#0a66c2;text-decoration:none;">
+                            <i class="fab fa-linkedin"></i> LinkedIn
+                        </a>
+                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call" data-source="about_prashant" style="display:inline-flex;align-items:center;gap:6px;font-size:14px;font-weight:700;color:#fff;background:var(--color-primary);padding:8px 18px;border-radius:24px;text-decoration:none;">
+                            <i class="fas fa-calendar-check"></i> Book a 30-min call with Prashant
+                        </a>
+                        <a href="team.php" style="display:inline-flex;align-items:center;gap:6px;font-size:14px;font-weight:600;color:#0a1629;text-decoration:none;">
+                            Meet the rest of the team &rarr;
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- Our Team Structure
     ============================================= -->
     <div class="team-area default-padding">

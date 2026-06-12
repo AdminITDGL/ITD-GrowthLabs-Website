@@ -148,7 +148,10 @@
     </div>
     <!-- End Breadcrumb -->
 
-    <!-- Start Contact Us 
+    <!-- Trust badges above the form: instant third-party verification -->
+    <?php $tb_source = 'contact'; include(__DIR__ . '/includes/trust-badges.php'); ?>
+
+    <!-- Start Contact Us
     ============================================= -->
     <div class="contact-area contact-page bg-gray overflow-hidden default-padding" style="background-image: url(assets/img/shape/map.png);">
         <div class="shape-right-bottom">

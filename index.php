@@ -433,9 +433,9 @@
                         <div class="row" style="gap:0;">
                             <div class="col-md-4 mb-3">
                                 <a href="case-studies/quantum-computing-mindsyn-evolution.php" style="display:block;text-decoration:none;background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);border-radius:12px;padding:24px;height:100%;transition:transform .25s, border-color .25s;" onmouseover="this.style.transform='translateY(-4px)';this.style.borderColor='rgba(196,181,253,0.5)'" onmouseout="this.style.transform='';this.style.borderColor='rgba(255,255,255,0.1)'">
-                                    <div style="display:inline-block;font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:#c4b5fd;font-weight:700;background:rgba(124,58,237,0.2);padding:4px 10px;border-radius:14px;margin-bottom:12px;"><i class="fas fa-atom" style="margin-right:5px;"></i>Quantum &amp; Deep Tech</div>
-                                    <h3 style="color:#fff;font-size:18px;font-weight:700;line-height:1.4;margin-bottom:10px;">Quantum Computing Application for Mindsyn Evolution</h3>
-                                    <p style="color:rgba(255,255,255,0.7);font-size:14px;line-height:1.65;margin-bottom:12px;">Production engineering around a quantum-classical hybrid pipeline — app surface, API gateway, orchestration. Live at mindsynevolution.ai.</p>
+                                    <div style="display:inline-block;font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:#c4b5fd;font-weight:700;background:rgba(124,58,237,0.2);padding:4px 10px;border-radius:14px;margin-bottom:12px;"><i class="fas fa-atom" style="margin-right:5px;"></i>Quantum &amp; Deep Tech &middot; Active</div>
+                                    <h3 style="color:#fff;font-size:18px;font-weight:700;line-height:1.4;margin-bottom:10px;">Quantum-era Data Platform for Mindsyn Evolution</h3>
+                                    <p style="color:rgba(255,255,255,0.7);font-size:14px;line-height:1.65;margin-bottom:12px;">A dedicated Python + DevOps team building the platform that executes and processes large datasets for the client. Active engagement &middot; mindsynevolution.ai.</p>
                                     <span style="color:#c4b5fd;font-size:13px;font-weight:600;">Read case study &rarr;</span>
                                 </a>
                             </div>
@@ -460,6 +460,9 @@
                 </section>
             </div>
         </main>
+
+        <!-- Trust badges (Clutch / DesignRush / LinkedIn / Mindsyn) -->
+        <?php $tb_source = 'home'; include(__DIR__ . '/includes/trust-badges.php'); ?>
 
         <!-- Quick Summary for AI Search Engines (AEO/GEO) -->
     <div class="container mt-5 mb-3">

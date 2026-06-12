@@ -793,6 +793,9 @@
 
     <!-- Start Case Studies Section
     ============================================= -->
+    <!-- Trust badges before the case-study grid -->
+    <?php $tb_source = 'case_studies_hub'; include(__DIR__ . '/includes/trust-badges.php'); ?>
+
     <div class="case-studies-area default-padding">
         <div class="container">
 
@@ -817,60 +820,60 @@
                 <li><button type="button" class="cs-filter-btn" data-filter="marketplace" aria-pressed="false">Marketplace (2)</button></li>
             </ul>
 
-            <!-- Case Study 1 — Mindsyn Evolution (Quantum) — FEATURED -->
+            <!-- Case Study 1 — Mindsyn Evolution (Quantum) — FEATURED (Active engagement) -->
             <div class="case-study-card" data-category="deeptech" style="border-top:4px solid #7c3aed;">
                 <div class="case-study-header" style="background:linear-gradient(135deg,#1a1240,#2c1670);color:#fff;">
                     <span class="case-study-number" style="color:#c4b5fd;">01</span>
-                    <span class="industry-tag" style="background:rgba(196,181,253,0.15);color:#ddd6fe;border:1px solid rgba(196,181,253,0.3);"><i class="fas fa-atom"></i> Deep Tech &middot; Quantum</span>
-                    <h3 style="color:#fff;">Quantum Computing Application for Mindsyn Evolution</h3>
+                    <span class="industry-tag" style="background:rgba(196,181,253,0.15);color:#ddd6fe;border:1px solid rgba(196,181,253,0.3);"><i class="fas fa-atom"></i> Deep Tech &middot; Active Build</span>
+                    <h3 style="color:#fff;">Quantum-era Data Platform for Mindsyn Evolution</h3>
                 </div>
                 <div class="case-study-body">
                     <div class="row">
                         <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-exclamation-circle"></i> The Challenge</div>
-                            <p>A deep-tech R&amp;D firm had a working quantum-classical hybrid pipeline running in research notebooks &mdash; but no production application surface around it. Without that, the research had no path to becoming a usable product that customers, investors, or partners could actually log into and run.</p>
+                            <div class="case-study-section-title"><i class="fas fa-exclamation-circle"></i> The Work</div>
+                            <p>Mindsyn Evolution is a deep-tech firm operating at the frontier of quantum-era data processing. We are their engineering partner, building the platform designed to execute and process the client&rsquo;s large datasets &mdash; pipelines, infrastructure, observability and roadmap engineering, week after week.</p>
                         </div>
                         <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-lightbulb"></i> Our Solution</div>
-                            <p>We built the production engineering layer around the research: web application, authentication and tenant isolation, a stable versioned API gateway, the quantum-classical execution bridge, observability, and deployment. We did <em>not</em> touch the algorithms &mdash; that's client IP. We made sure everything around them works in production.</p>
+                            <div class="case-study-section-title"><i class="fas fa-lightbulb"></i> Our Engagement</div>
+                            <p>A dedicated build pod with deep expertise in <strong>Python development</strong>, <strong>DevOps</strong> and the related stack that runs data-scale platforms in production. Active engagement &mdash; the team owns the codebase, the infrastructure, and the shared roadmap, end to end.</p>
                         </div>
                     </div>
 
-                    <div class="case-study-section-title"><i class="fas fa-code"></i> Tech Stack</div>
+                    <div class="case-study-section-title"><i class="fas fa-code"></i> Stack &amp; Disciplines</div>
                     <div class="mb-4">
-                        <span class="tech-badge">Modern JS Frontend</span>
-                        <span class="tech-badge">Python Backend</span>
-                        <span class="tech-badge">REST + Queued APIs</span>
-                        <span class="tech-badge">OAuth / JWT</span>
-                        <span class="tech-badge">PostgreSQL</span>
-                        <span class="tech-badge">Redis</span>
+                        <span class="tech-badge">Python</span>
+                        <span class="tech-badge">DevOps &amp; Infrastructure</span>
+                        <span class="tech-badge">Data Pipelines</span>
+                        <span class="tech-badge">Queued / Batched Processing</span>
                         <span class="tech-badge">Containerised Deploy</span>
-                        <span class="tech-badge">Quantum SDK Integration</span>
+                        <span class="tech-badge">CI/CD</span>
+                        <span class="tech-badge">Observability</span>
+                        <span class="tech-badge">Cloud Infrastructure</span>
                     </div>
 
-                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> Outcomes</div>
+                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> Engagement signals</div>
                     <div class="results-grid">
                         <div class="result-item">
-                            <span class="result-number">Live</span>
-                            <span class="result-label">In production at mindsynevolution.ai</span>
+                            <span class="result-number">Active</span>
+                            <span class="result-label">Build in progress at mindsynevolution.ai</span>
                         </div>
                         <div class="result-item">
-                            <span class="result-number">Hybrid</span>
-                            <span class="result-label">Quantum + classical orchestration</span>
+                            <span class="result-number">Large Datasets</span>
+                            <span class="result-label">Execute &amp; process at scale</span>
                         </div>
                         <div class="result-item">
-                            <span class="result-number">End-to-end</span>
-                            <span class="result-label">UX &rarr; API &rarr; compute layer</span>
+                            <span class="result-number">Python + DevOps</span>
+                            <span class="result-label">Dedicated specialist team</span>
                         </div>
                         <div class="result-item">
-                            <span class="result-number">Long-term</span>
-                            <span class="result-label">Ongoing AMC + roadmap</span>
+                            <span class="result-number">Roadmap Partner</span>
+                            <span class="result-label">Long-term build engagement</span>
                         </div>
                     </div>
 
                     <div class="case-study-meta">
-                        <span><i class="fas fa-link"></i> Live: <a href="https://mindsynevolution.ai/" target="_blank" rel="noopener" style="color:#7c3aed;">mindsynevolution.ai</a></span>
-                        <span><i class="fas fa-users"></i> Engagement: Ongoing</span>
+                        <span><i class="fas fa-link"></i> Client: <a href="https://mindsynevolution.ai/" target="_blank" rel="noopener" style="color:#7c3aed;">mindsynevolution.ai</a></span>
+                        <span><i class="fas fa-users"></i> Engagement: Active</span>
                     </div>
                     <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call case-study-cta" data-source="case_study_hub_mindsyn">Building a deep-tech product? Book a Call <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
                     <a href="case-studies/quantum-computing-mindsyn-evolution.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>

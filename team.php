@@ -87,6 +87,15 @@
       "employee": [
         {
           "@type": "Person",
+          "name": "Prashant Chaudhari",
+          "jobTitle": "Business Head",
+          "url": "https://www.linkedin.com/in/prashant-chaudhari03/",
+          "sameAs": ["https://www.linkedin.com/in/prashant-chaudhari03/"],
+          "worksFor": { "@type": "Organization", "name": "ITD GrowthLabs" },
+          "knowsAbout": ["B2B technology engagements", "Client partnership", "Solution scoping", "Engagement design", "Logistics technology", "Custom software engagements", "Lead generation systems"]
+        },
+        {
+          "@type": "Person",
           "name": "Senior Logistics Engineer",
           "jobTitle": "Senior Logistics Platform Engineer",
           "worksFor": { "@type": "Organization", "name": "ITD GrowthLabs" },
@@ -218,9 +227,9 @@
             <a href="index.php">Home</a><span class="sep">/</span>
             <span class="now">Team &amp; Authors</span>
         </div>
-        <span class="tm-eyebrow"><i class="fas fa-users" style="margin-right:6px;"></i>Senior team since 2014</span>
+        <span class="tm-eyebrow"><i class="fas fa-users" style="margin-right:6px;"></i>Senior team since 2014 &middot; Led by Prashant Chaudhari</span>
         <h1 class="tm-title">The People Behind Every ITD GrowthLabs Project</h1>
-        <p class="tm-subtitle">Our case studies, comparison guides and engagement decks aren't ghost-written. They're written by the senior engineers and strategists who actually do the work &mdash; the same people you'll meet on a discovery call. Here's who they are, what they specialise in, and how to reach them.</p>
+        <p class="tm-subtitle">Our case studies, comparison guides and engagement decks aren't ghost-written. They're written by the people who actually do the work &mdash; led by Business Head <a href="https://www.linkedin.com/in/prashant-chaudhari03/" target="_blank" rel="noopener" style="color:#fff;border-bottom:1px dashed rgba(255,255,255,0.5);">Prashant Chaudhari</a>, who personally scopes and steers every engagement. Here's the leadership pod, what they specialise in, and how to reach them directly.</p>
         <div class="tm-trust-bar">
             <div class="tm-trust-cell"><div class="v">55+</div><div class="l">Senior team</div></div>
             <div class="tm-trust-cell"><div class="v">10+</div><div class="l">Years operating</div></div>
@@ -237,9 +246,58 @@
             <div class="col-lg-10 offset-lg-1">
 
                 <div class="tm-section">
-                    <h2>How we structure expertise</h2>
-                    <p>ITD GrowthLabs runs as a senior-led studio. Every engagement &mdash; whether it's a Rs 65-lakh courier platform build, a 6-month SEO retainer, or a 2-week landing-page sprint &mdash; is led by a senior practitioner from one of the six tracks below. Each lead is supported by a small, focused pod of mid-level engineers, designers and analysts.</p>
-                    <p>This page profiles the senior leads themselves. They're the authors of our case studies, the engineers in your kick-off calls, and the people on the other end of the AMC retainer once the build ships. Where individual names are not yet listed publicly, contact requests go directly to the named lead via the form on the contact page.</p>
+                    <h2>Leadership</h2>
+                    <p>Every engagement starts &mdash; and stays &mdash; with named leadership. Our Business Head personally scopes every engagement, sits in on the kick-off call, and is accountable for the relationship end to end. Below the leadership pod is the senior practitioner track that ships the work.</p>
+                </div>
+
+                <!-- ============================================================ -->
+                <!-- LEADERSHIP CARD: Prashant Chaudhari — Business Head           -->
+                <!-- ============================================================ -->
+                <article class="tm-card" id="prashant-chaudhari"
+                         itemscope itemtype="https://schema.org/Person"
+                         style="border:2px solid var(--tm-primary);background:linear-gradient(135deg,#fff8f1 0%,#fff 60%);margin-bottom:30px;padding:32px;">
+                    <div style="display:flex;gap:24px;flex-wrap:wrap;align-items:flex-start;">
+                        <!-- Photo placeholder: initials avatar until a real headshot is uploaded to assets/img/team/prashant-chaudhari.jpg -->
+                        <div style="flex:0 0 110px;width:110px;height:110px;border-radius:50%;background:linear-gradient(135deg,#ff6b00,#e65100);color:#fff;display:flex;align-items:center;justify-content:center;font-size:38px;font-weight:800;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;box-shadow:0 8px 22px rgba(255,107,0,0.25);"
+                             aria-label="Photo of Prashant Chaudhari, Business Head at ITD GrowthLabs"
+                             itemprop="image">
+                            PC
+                        </div>
+                        <div style="flex:1;min-width:240px;">
+                            <span class="role" style="background:var(--tm-primary);color:#fff;font-weight:800;">Leadership &middot; Business Head</span>
+                            <h3 itemprop="name" style="margin-top:8px;">Prashant Chaudhari</h3>
+                            <div class="title" itemprop="jobTitle">Business Head &mdash; ITD GrowthLabs</div>
+                            <p class="bio" itemprop="description">
+                                Prashant is the Business Head at ITD GrowthLabs and the named owner of every client engagement we run &mdash; from the first discovery call through scoping, kick-off, build, and the long-term AMC relationship. He personally scopes the engagements we take on, decides which projects we&rsquo;re the right partner for and which we&rsquo;re not, and is the escalation path on every account. If you contact us about a serious engagement, you will hear back from Prashant or someone he has directly handed off to.
+                            </p>
+                            <p class="bio" itemprop="description">
+                                Domains he&rsquo;s personally led recent engagements in include logistics and courier platforms, custom software builds for deep-tech and AI clients (including our active quantum-era data platform build for <a href="https://mindsynevolution.ai/" target="_blank" rel="noopener" style="color:var(--tm-primary);">Mindsyn Evolution</a>), B2B SaaS engineering pods, and full-stack lead-generation systems for both B2B and B2C operators across India, the UK, the US, the UAE, Australia and Africa.
+                            </p>
+                            <div class="meta">
+                                <div class="meta-row"><strong>Role</strong>Business Head &middot; engagement owner</div>
+                                <div class="meta-row"><strong>Focus</strong>Scoping, partnership, accountability</div>
+                                <div class="meta-row"><strong>Currently leading</strong>Mindsyn Evolution quantum-era data platform, logistics platform clients, lead-gen engagements</div>
+                                <div class="meta-row"><strong>Operating since</strong>2014 with ITD GrowthLabs</div>
+                            </div>
+                            <div class="links">
+                                <a href="https://www.linkedin.com/in/prashant-chaudhari03/" target="_blank" rel="noopener" itemprop="sameAs">
+                                    <i class="fab fa-linkedin" style="margin-right:5px;"></i>LinkedIn profile
+                                </a>
+                                <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call" data-source="team_prashant">
+                                    <i class="fas fa-calendar-check" style="margin-right:5px;"></i>Book a 30-min call with Prashant
+                                </a>
+                                <a href="mailto:info@itdgrowthlabs.com?subject=Engagement%20enquiry%20-%20attention%20Prashant%20Chaudhari">
+                                    <i class="fas fa-envelope" style="margin-right:5px;"></i>Email
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+
+                <div class="tm-section" style="margin-top:40px;">
+                    <h2>How we structure delivery expertise</h2>
+                    <p>Beneath the leadership pod, ITD GrowthLabs runs as a senior-led studio. Every build engagement is led by a senior practitioner from one of the six tracks below. Each lead is supported by a small, focused pod of mid-level engineers, designers and analysts.</p>
+                    <p>The senior leads are the authors of our case studies, the engineers in your kick-off calls, and the people on the other end of the AMC retainer once the build ships. Where an individual lead is not yet listed publicly by name, contact requests are routed to them via Prashant.</p>
                 </div>
 
                 <div class="tm-grid">
