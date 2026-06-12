@@ -422,38 +422,85 @@
                     </div>
                 </section>
 
-                <!-- FEATURED ENGAGEMENTS STRIP — production proof, not marketing copy -->
-                <section style="background:linear-gradient(135deg,#0b0820 0%,#1a1240 50%,#2c1670 100%);padding:50px 0;color:#fff;">
+                <!-- WHAT WE FOCUS ON — 3 Ready-to-Deploy Apps + 5 Core Services -->
+                <section style="background:linear-gradient(135deg,#0b0820 0%,#1a1240 50%,#2c1670 100%);padding:60px 0 50px;color:#fff;">
                     <div class="container">
-                        <div style="text-align:center;margin-bottom:30px;">
-                            <span style="display:inline-block;font-size:11px;letter-spacing:2px;text-transform:uppercase;color:#c4b5fd;font-weight:700;background:rgba(124,58,237,0.18);padding:5px 14px;border-radius:20px;border:1px solid rgba(196,181,253,0.35);">Featured engagements</span>
-                            <h2 style="color:#fff;font-size:30px;font-weight:800;margin-top:18px;margin-bottom:8px;">From quantum computing to courier networks — real production work.</h2>
-                            <p style="color:rgba(255,255,255,0.75);font-size:15px;max-width:680px;margin:0 auto;">We&rsquo;re the team behind live products at the deep end of the engineering spectrum. A few we can point at:</p>
+                        <div style="text-align:center;margin-bottom:32px;">
+                            <span style="display:inline-block;font-size:11px;letter-spacing:2px;text-transform:uppercase;color:#c4b5fd;font-weight:700;background:rgba(124,58,237,0.18);padding:5px 14px;border-radius:20px;border:1px solid rgba(196,181,253,0.35);">What we focus on</span>
+                            <h2 style="color:#fff;font-size:32px;font-weight:800;margin-top:18px;margin-bottom:8px;">Ready-to-deploy apps + the services to build, scale &amp; market them.</h2>
+                            <p style="color:rgba(255,255,255,0.75);font-size:15px;max-width:720px;margin:0 auto;">Three productised apps you can deploy fast, and five services we&rsquo;ve scaled across 300+ engagements. No long menu &mdash; just what we&rsquo;re genuinely the right partner for.</p>
                         </div>
-                        <div class="row" style="gap:0;">
-                            <div class="col-md-4 mb-3">
-                                <a href="case-studies/quantum-computing-mindsyn-evolution.php" style="display:block;text-decoration:none;background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);border-radius:12px;padding:24px;height:100%;transition:transform .25s, border-color .25s;" onmouseover="this.style.transform='translateY(-4px)';this.style.borderColor='rgba(196,181,253,0.5)'" onmouseout="this.style.transform='';this.style.borderColor='rgba(255,255,255,0.1)'">
-                                    <div style="display:inline-block;font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:#c4b5fd;font-weight:700;background:rgba(124,58,237,0.2);padding:4px 10px;border-radius:14px;margin-bottom:12px;"><i class="fas fa-atom" style="margin-right:5px;"></i>Quantum &amp; Deep Tech &middot; Active</div>
-                                    <h3 style="color:#fff;font-size:18px;font-weight:700;line-height:1.4;margin-bottom:10px;">Quantum-era Data Platform for Mindsyn Evolution</h3>
-                                    <p style="color:rgba(255,255,255,0.7);font-size:14px;line-height:1.65;margin-bottom:12px;">A dedicated Python + DevOps team building the platform that executes and processes large datasets for the client. Active engagement &middot; mindsynevolution.ai.</p>
-                                    <span style="color:#c4b5fd;font-size:13px;font-weight:600;">Read case study &rarr;</span>
-                                </a>
+
+                        <!-- ROW 1: 3 READY-TO-DEPLOY APPS -->
+                        <div style="margin-bottom:14px;">
+                            <h4 style="font-size:12px;font-weight:800;letter-spacing:2px;text-transform:uppercase;color:#ffd9b8;margin-bottom:14px;"><i class="fas fa-rocket" style="margin-right:6px;"></i>Apps &mdash; ready to deploy</h4>
+                            <div class="row" style="gap:0;">
+                                <div class="col-md-4 mb-3">
+                                    <a href="products/courier-management-software.php" style="display:block;text-decoration:none;background:rgba(255,255,255,0.06);border:1px solid rgba(255,176,102,0.22);border-radius:12px;padding:22px;height:100%;transition:transform .25s, border-color .25s;" onmouseover="this.style.transform='translateY(-4px)';this.style.borderColor='rgba(255,176,102,0.6)'" onmouseout="this.style.transform='';this.style.borderColor='rgba(255,176,102,0.22)'">
+                                        <div style="display:inline-block;font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:#ffd9b8;font-weight:700;background:rgba(255,107,0,0.2);padding:4px 10px;border-radius:14px;margin-bottom:12px;"><i class="fas fa-truck" style="margin-right:5px;"></i>Logistics SaaS</div>
+                                        <h3 style="color:#fff;font-size:17px;font-weight:700;line-height:1.4;margin-bottom:8px;">Courier Management Software</h3>
+                                        <p style="color:rgba(255,255,255,0.7);font-size:13.5px;line-height:1.65;margin-bottom:12px;">Ready-to-deploy SaaS for courier &amp; logistics operations. 21+ modules &mdash; pickup, hub, manifest, billing, tracking. Live across 14 hubs.</p>
+                                        <span style="color:#ffd9b8;font-size:13px;font-weight:600;">Book a demo &rarr;</span>
+                                    </a>
+                                </div>
+                                <div class="col-md-4 mb-3">
+                                    <a href="products/logistics-mobile-app.php" style="display:block;text-decoration:none;background:rgba(255,255,255,0.06);border:1px solid rgba(255,176,102,0.22);border-radius:12px;padding:22px;height:100%;transition:transform .25s, border-color .25s;" onmouseover="this.style.transform='translateY(-4px)';this.style.borderColor='rgba(255,176,102,0.6)'" onmouseout="this.style.transform='';this.style.borderColor='rgba(255,176,102,0.22)'">
+                                        <div style="display:inline-block;font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:#ffd9b8;font-weight:700;background:rgba(255,107,0,0.2);padding:4px 10px;border-radius:14px;margin-bottom:12px;"><i class="fas fa-mobile-screen" style="margin-right:5px;"></i>Mobile App</div>
+                                        <h3 style="color:#fff;font-size:17px;font-weight:700;line-height:1.4;margin-bottom:8px;">Custom Logistics Mobile App</h3>
+                                        <p style="color:rgba(255,255,255,0.7);font-size:13.5px;line-height:1.65;margin-bottom:12px;">Branded delivery + field-ops app for your logistics business. Pickup, hub in-scan, run-sheet, POD, COD. iOS, Android, Flutter.</p>
+                                        <span style="color:#ffd9b8;font-size:13px;font-weight:600;">See the app &rarr;</span>
+                                    </a>
+                                </div>
+                                <div class="col-md-4 mb-3">
+                                    <a href="products/multi-vendor-marketplace-app.php" style="display:block;text-decoration:none;background:rgba(255,255,255,0.06);border:1px solid rgba(255,176,102,0.22);border-radius:12px;padding:22px;height:100%;transition:transform .25s, border-color .25s;" onmouseover="this.style.transform='translateY(-4px)';this.style.borderColor='rgba(255,176,102,0.6)'" onmouseout="this.style.transform='';this.style.borderColor='rgba(255,176,102,0.22)'">
+                                        <div style="display:inline-block;font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:#ffd9b8;font-weight:700;background:rgba(255,107,0,0.2);padding:4px 10px;border-radius:14px;margin-bottom:12px;"><i class="fas fa-store" style="margin-right:5px;"></i>Marketplace</div>
+                                        <h3 style="color:#fff;font-size:17px;font-weight:700;line-height:1.4;margin-bottom:8px;">Multi-Vendor Marketplace App</h3>
+                                        <p style="color:rgba(255,255,255,0.7);font-size:13.5px;line-height:1.65;margin-bottom:12px;">For any business &mdash; food, grocery, pharmacy, B2B, hyperlocal. 4-app suite, 8&ndash;14 wk launch, 100% source-code ownership.</p>
+                                        <span style="color:#ffd9b8;font-size:13px;font-weight:600;">See the marketplace &rarr;</span>
+                                    </a>
+                                </div>
                             </div>
-                            <div class="col-md-4 mb-3">
-                                <a href="case-studies/courier-management-system.php" style="display:block;text-decoration:none;background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);border-radius:12px;padding:24px;height:100%;transition:transform .25s, border-color .25s;" onmouseover="this.style.transform='translateY(-4px)';this.style.borderColor='rgba(255,176,102,0.5)'" onmouseout="this.style.transform='';this.style.borderColor='rgba(255,255,255,0.1)'">
-                                    <div style="display:inline-block;font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:#ffd9b8;font-weight:700;background:rgba(255,107,0,0.18);padding:4px 10px;border-radius:14px;margin-bottom:12px;"><i class="fas fa-truck" style="margin-right:5px;"></i>Logistics</div>
-                                    <h3 style="color:#fff;font-size:18px;font-weight:700;line-height:1.4;margin-bottom:10px;">Courier Management System &mdash; 14 hubs, 35 staff, 0 billing errors</h3>
-                                    <p style="color:rgba(255,255,255,0.7);font-size:14px;line-height:1.65;margin-bottom:12px;">Replaced Excel + WhatsApp with a real CMS &mdash; pickup, hub, manifest, line-haul, delivery, billing, tracking. 70% less manual data entry.</p>
-                                    <span style="color:#ffd9b8;font-size:13px;font-weight:600;">Read case study &rarr;</span>
-                                </a>
-                            </div>
-                            <div class="col-md-4 mb-3">
-                                <a href="services/ready-to-buy-lead-generation.php" style="display:block;text-decoration:none;background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);border-radius:12px;padding:24px;height:100%;transition:transform .25s, border-color .25s;" onmouseover="this.style.transform='translateY(-4px)';this.style.borderColor='rgba(34,197,94,0.5)'" onmouseout="this.style.transform='';this.style.borderColor='rgba(255,255,255,0.1)'">
-                                    <div style="display:inline-block;font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:#bbf7d0;font-weight:700;background:rgba(34,197,94,0.18);padding:4px 10px;border-radius:14px;margin-bottom:12px;"><i class="fas fa-bullseye" style="margin-right:5px;"></i>Lead Generation</div>
-                                    <h3 style="color:#fff;font-size:18px;font-weight:700;line-height:1.4;margin-bottom:10px;">Ready-to-Buy Lead Generation &mdash; AI-driven, fully managed</h3>
-                                    <p style="color:rgba(255,255,255,0.7);font-size:14px;line-height:1.65;margin-bottom:12px;">Dedicated, qualified, intent-scored leads delivered monthly to your Sheet or dashboard. Quality over quantity. No junk fills.</p>
-                                    <span style="color:#bbf7d0;font-size:13px;font-weight:600;">See the system &rarr;</span>
-                                </a>
+                        </div>
+
+                        <!-- ROW 2: 5 CORE SERVICES -->
+                        <div style="margin-top:18px;">
+                            <h4 style="font-size:12px;font-weight:800;letter-spacing:2px;text-transform:uppercase;color:#c4b5fd;margin-bottom:14px;"><i class="fas fa-gears" style="margin-right:6px;"></i>Services we deliver</h4>
+                            <div class="row" style="gap:0;">
+                                <div class="col-md col-6 mb-3">
+                                    <a href="website_development.php" style="display:block;text-decoration:none;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.1);border-radius:10px;padding:18px 16px;height:100%;text-align:center;transition:transform .2s, border-color .2s;" onmouseover="this.style.transform='translateY(-3px)';this.style.borderColor='rgba(196,181,253,0.4)'" onmouseout="this.style.transform='';this.style.borderColor='rgba(255,255,255,0.1)'">
+                                        <i class="fas fa-globe" style="font-size:24px;color:#c4b5fd;margin-bottom:10px;"></i>
+                                        <h5 style="color:#fff;font-size:14.5px;font-weight:700;margin:0 0 4px;">Website Development</h5>
+                                        <p style="color:rgba(255,255,255,0.55);font-size:12.5px;margin:0;">Custom, SEO-ready, fast</p>
+                                    </a>
+                                </div>
+                                <div class="col-md col-6 mb-3">
+                                    <a href="services/App-Development.php" style="display:block;text-decoration:none;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.1);border-radius:10px;padding:18px 16px;height:100%;text-align:center;transition:transform .2s, border-color .2s;" onmouseover="this.style.transform='translateY(-3px)';this.style.borderColor='rgba(196,181,253,0.4)'" onmouseout="this.style.transform='';this.style.borderColor='rgba(255,255,255,0.1)'">
+                                        <i class="fas fa-mobile-screen-button" style="font-size:24px;color:#c4b5fd;margin-bottom:10px;"></i>
+                                        <h5 style="color:#fff;font-size:14.5px;font-weight:700;margin:0 0 4px;">Custom Mobile App</h5>
+                                        <p style="color:rgba(255,255,255,0.55);font-size:12.5px;margin:0;">iOS / Android / Flutter</p>
+                                    </a>
+                                </div>
+                                <div class="col-md col-6 mb-3">
+                                    <a href="services/web_app_development.php" style="display:block;text-decoration:none;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.1);border-radius:10px;padding:18px 16px;height:100%;text-align:center;transition:transform .2s, border-color .2s;" onmouseover="this.style.transform='translateY(-3px)';this.style.borderColor='rgba(196,181,253,0.4)'" onmouseout="this.style.transform='';this.style.borderColor='rgba(255,255,255,0.1)'">
+                                        <i class="fas fa-window-restore" style="font-size:24px;color:#c4b5fd;margin-bottom:10px;"></i>
+                                        <h5 style="color:#fff;font-size:14.5px;font-weight:700;margin:0 0 4px;">Custom Web App</h5>
+                                        <p style="color:rgba(255,255,255,0.55);font-size:12.5px;margin:0;">SaaS, portals, dashboards</p>
+                                    </a>
+                                </div>
+                                <div class="col-md col-6 mb-3">
+                                    <a href="services/saas_developement.php" style="display:block;text-decoration:none;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.1);border-radius:10px;padding:18px 16px;height:100%;text-align:center;transition:transform .2s, border-color .2s;" onmouseover="this.style.transform='translateY(-3px)';this.style.borderColor='rgba(196,181,253,0.4)'" onmouseout="this.style.transform='';this.style.borderColor='rgba(255,255,255,0.1)'">
+                                        <i class="fas fa-server" style="font-size:24px;color:#c4b5fd;margin-bottom:10px;"></i>
+                                        <h5 style="color:#fff;font-size:14.5px;font-weight:700;margin:0 0 4px;">SaaS Development</h5>
+                                        <p style="color:rgba(255,255,255,0.55);font-size:12.5px;margin:0;">Multi-tenant, scalable</p>
+                                    </a>
+                                </div>
+                                <div class="col-md col-12 mb-3">
+                                    <a href="digital_marketing.php" style="display:block;text-decoration:none;background:rgba(34,197,94,0.08);border:1px solid rgba(34,197,94,0.3);border-radius:10px;padding:18px 16px;height:100%;text-align:center;transition:transform .2s, border-color .2s;" onmouseover="this.style.transform='translateY(-3px)';this.style.borderColor='rgba(34,197,94,0.7)'" onmouseout="this.style.transform='';this.style.borderColor='rgba(34,197,94,0.3)'">
+                                        <i class="fas fa-bullseye" style="font-size:24px;color:#bbf7d0;margin-bottom:10px;"></i>
+                                        <h5 style="color:#fff;font-size:14.5px;font-weight:700;margin:0 0 4px;">Digital Marketing</h5>
+                                        <p style="color:rgba(255,255,255,0.55);font-size:12.5px;margin:0;">Lead-gen, SEO, Ads, Social</p>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -461,7 +508,7 @@
             </div>
         </main>
 
-        <!-- Trust badges (Clutch / DesignRush / LinkedIn / Mindsyn) -->
+        <!-- Trust badges (Clutch / DesignRush / LinkedIn / the client) -->
         <?php $tb_source = 'home'; include(__DIR__ . '/includes/trust-badges.php'); ?>
 
         <!-- Quick Summary for AI Search Engines (AEO/GEO) -->

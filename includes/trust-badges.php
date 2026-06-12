@@ -54,14 +54,14 @@ $tb_compact = isset($tb_compact) ? (bool)$tb_compact : false;
                 </div>
             </a>
 
-            <a class="tb-card" href="https://mindsynevolution.ai/" target="_blank" rel="noopener nofollow"
-               onclick="if(typeof gtag==='function')gtag('event','trust_click',{platform:'mindsyn',source:'<?php echo htmlspecialchars($tb_source ?? 'unknown', ENT_QUOTES); ?>'});">
-                <div class="tb-card-logo" style="background:linear-gradient(135deg,#1a1240,#2c1670);">
-                    <i class="fas fa-atom" style="color:#c4b5fd;font-size:28px;"></i>
+            <a class="tb-card js-book-call" href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank" rel="noopener"
+               onclick="if(typeof gtag==='function')gtag('event','trust_click',{platform:'calendly',source:'<?php echo htmlspecialchars($tb_source ?? 'unknown', ENT_QUOTES); ?>'});">
+                <div class="tb-card-logo" style="background:linear-gradient(135deg,#0d47a1,#1565c0);">
+                    <i class="fas fa-calendar-check" style="color:#fff;font-size:24px;"></i>
                 </div>
                 <div class="tb-card-body">
-                    <div class="tb-label">Live deep-tech engagement</div>
-                    <div class="tb-meta">Mindsyn Evolution &middot; quantum-era data platform &rarr;</div>
+                    <div class="tb-label">Book a 30-min Call</div>
+                    <div class="tb-meta">Talk to our Business Head, Prashant &rarr;</div>
                 </div>
             </a>
         </div>

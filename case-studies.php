@@ -820,18 +820,18 @@
                 <li><button type="button" class="cs-filter-btn" data-filter="marketplace" aria-pressed="false">Marketplace (2)</button></li>
             </ul>
 
-            <!-- Case Study 1 — Mindsyn Evolution (Quantum) — FEATURED (Active engagement) -->
+            <!-- Case Study 1 — Quantum-Era Data Platform (deep-tech R&D client, NDA) — FEATURED -->
             <div class="case-study-card" data-category="deeptech" style="border-top:4px solid #7c3aed;">
                 <div class="case-study-header" style="background:linear-gradient(135deg,#1a1240,#2c1670);color:#fff;">
                     <span class="case-study-number" style="color:#c4b5fd;">01</span>
                     <span class="industry-tag" style="background:rgba(196,181,253,0.15);color:#ddd6fe;border:1px solid rgba(196,181,253,0.3);"><i class="fas fa-atom"></i> Deep Tech &middot; Active Build</span>
-                    <h3 style="color:#fff;">Quantum-era Data Platform for Mindsyn Evolution</h3>
+                    <h3 style="color:#fff;">Quantum-Era Data Platform for a Deep-Tech R&amp;D Client</h3>
                 </div>
                 <div class="case-study-body">
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="case-study-section-title"><i class="fas fa-exclamation-circle"></i> The Work</div>
-                            <p>Mindsyn Evolution is a deep-tech firm operating at the frontier of quantum-era data processing. We are their engineering partner, building the platform designed to execute and process the client&rsquo;s large datasets &mdash; pipelines, infrastructure, observability and roadmap engineering, week after week.</p>
+                            <p>A deep-tech R&amp;D firm (client identity withheld under NDA) operating at the frontier of quantum-era data processing. We are their engineering partner, building the platform designed to execute and process the client&rsquo;s large datasets &mdash; pipelines, infrastructure, observability and roadmap engineering, week after week.</p>
                         </div>
                         <div class="col-lg-6">
                             <div class="case-study-section-title"><i class="fas fa-lightbulb"></i> Our Engagement</div>
@@ -855,7 +855,7 @@
                     <div class="results-grid">
                         <div class="result-item">
                             <span class="result-number">Active</span>
-                            <span class="result-label">Build in progress at mindsynevolution.ai</span>
+                            <span class="result-label">Build in progress at a deep-tech client</span>
                         </div>
                         <div class="result-item">
                             <span class="result-number">Large Datasets</span>
@@ -872,11 +872,11 @@
                     </div>
 
                     <div class="case-study-meta">
-                        <span><i class="fas fa-link"></i> Client: <a href="https://mindsynevolution.ai/" target="_blank" rel="noopener" style="color:#7c3aed;">mindsynevolution.ai</a></span>
+                        <span><i class="fas fa-link"></i> Client: a deep-tech client</span>
                         <span><i class="fas fa-users"></i> Engagement: Active</span>
                     </div>
-                    <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call case-study-cta" data-source="case_study_hub_mindsyn">Building a deep-tech product? Book a Call <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                    <a href="case-studies/quantum-computing-mindsyn-evolution.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                    <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call case-study-cta" data-source="case_study_hub_the client">Building a deep-tech product? Book a Call <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                    <a href="case-studies/quantum-era-data-platform.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
                 </div>
             </div>
 

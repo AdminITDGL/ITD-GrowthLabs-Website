@@ -32,12 +32,17 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     echo json_encode(['status' => 'success']);
     if (function_exists('fastcgi_finish_request')) fastcgi_finish_request();
 
-    $isDownload = ($source === 'popup_profile_download');
+    $isDownload          = ($source === 'popup_profile_download');
+    $isMarketingDownload = ($source === 'popup_marketing_brochure_download');
 
     $sourceLabel = 'Unknown';
-    if ($isDownload)       $sourceLabel = 'Company Profile Download (Popup)';
-    elseif ($isNewsletter) $sourceLabel = 'Newsletter Subscription';
-    else                   $sourceLabel = ucwords(str_replace('_', ' ', $source));
+    if ($isMarketingDownload) $sourceLabel = 'Marketing Profile Download (Popup)';
+    elseif ($isDownload)      $sourceLabel = 'Company Profile Download (Popup)';
+    elseif ($isNewsletter)    $sourceLabel = 'Newsletter Subscription';
+    else                      $sourceLabel = ucwords(str_replace('_', ' ', $source));
+
+    // Treat marketing-brochure downloads as a download for the user confirmation flow.
+    $isDownload = $isDownload || $isMarketingDownload;
 
     // ── Newsletter signups: log silently, DO NOT email the team ─────────────
     // Prior behavior flooded the team inbox with bot signups. Newsletter subs

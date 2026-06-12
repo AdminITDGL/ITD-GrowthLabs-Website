@@ -271,12 +271,12 @@
                                 Prashant is the Business Head at ITD GrowthLabs and the named owner of every client engagement we run &mdash; from the first discovery call through scoping, kick-off, build, and the long-term AMC relationship. He personally scopes the engagements we take on, decides which projects we&rsquo;re the right partner for and which we&rsquo;re not, and is the escalation path on every account. If you contact us about a serious engagement, you will hear back from Prashant or someone he has directly handed off to.
                             </p>
                             <p class="bio" itemprop="description">
-                                Domains he&rsquo;s personally led recent engagements in include logistics and courier platforms, custom software builds for deep-tech and AI clients (including our active quantum-era data platform build for <a href="https://mindsynevolution.ai/" target="_blank" rel="noopener" style="color:var(--tm-primary);">Mindsyn Evolution</a>), B2B SaaS engineering pods, and full-stack lead-generation systems for both B2B and B2C operators across India, the UK, the US, the UAE, Australia and Africa.
+                                Domains he&rsquo;s personally led recent engagements in include logistics and courier platforms, custom software builds for deep-tech and AI clients (including an active quantum-era data platform build for a deep-tech R&amp;D client, under NDA), B2B SaaS engineering pods, and full-stack lead-generation systems for both B2B and B2C operators across India, the UK, the US, the UAE, Australia and Africa.
                             </p>
                             <div class="meta">
                                 <div class="meta-row"><strong>Role</strong>Business Head &middot; engagement owner</div>
                                 <div class="meta-row"><strong>Focus</strong>Scoping, partnership, accountability</div>
-                                <div class="meta-row"><strong>Currently leading</strong>Mindsyn Evolution quantum-era data platform, logistics platform clients, lead-gen engagements</div>
+                                <div class="meta-row"><strong>Currently leading</strong>Quantum-era data platform build (deep-tech R&amp;D client, NDA), logistics platform clients, lead-gen engagements</div>
                                 <div class="meta-row"><strong>Operating since</strong>2014 with ITD GrowthLabs</div>
                             </div>
                             <div class="links">
