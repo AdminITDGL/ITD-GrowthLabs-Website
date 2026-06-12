@@ -24,9 +24,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="ITD GrowthLabs is a leading mobile app development company in the USA offering Android & iOS app development services in New York, Los Angeles, Chicago & San Francisco.">
+    <meta name="description" content="iOS, Android & Flutter apps for US businesses — engineering team in India, project management in your timezone, US-compliant data handling. 200+ apps delivered. Free 30-min consultation.">
     <meta name="keywords" content="Mobile app development company in the USA, Mobile app development services in the USA, Android app development company in the USA, iOS app development company in the USA, App developers in the USA, Mobile app developers in New York, Mobile app development company in Los Angeles, Custom mobile app development USA">
-    <title>Top Mobile App Development Company in the USA | Android & iOS Apps</title>
+    <title>Mobile App Development Company for US Businesses 2026 — 40-60% Lower Cost, Same Quality | ITD GrowthLabs</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/usa/mobile-app-development.php" />
     <meta property="og:title" content="Top Mobile App Development Company in the USA | Android & iOS Apps" />
     <meta property="og:description" content="ITD GrowthLabs is a leading mobile app development company in the USA offering Android & iOS app development services in New York, Los Angeles, Chicago & San Francisco." />

@@ -24,9 +24,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="ITD GrowthLabs is a leading mobile app development company in UAE offering Android & iOS app development for startups & enterprises. Get a free consultation.">
+    <meta name="description" content="Custom mobile apps for UAE businesses — UAE PASS integration, Arabic + English, AED pricing transparency, local data residency. 200+ apps delivered. Book a free 30-min consultation in Dubai time.">
     <meta name="keywords" content="Mobile app development company in UAE, Android app development company in UAE, iOS app development company in UAE, Mobile application development services UAE, Custom mobile app development UAE, App developers in UAE, Enterprise mobile app development UAE, Flutter app development UAE">
-    <title>Mobile App Development Company in UAE | Android & iOS App Developers – ITD GrowthLabs</title>
+    <title>Mobile App Development Company in UAE / Dubai 2026 — iOS, Android, Flutter | ITD GrowthLabs</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/uae/mobile-app-development.php" />
     <meta property="og:title" content="Mobile App Development Company in UAE | Android & iOS App Developers – ITD GrowthLabs" />
     <meta property="og:description" content="ITD GrowthLabs is a leading mobile app development company in UAE offering Android & iOS app development for startups & enterprises. Get a free consultation." />

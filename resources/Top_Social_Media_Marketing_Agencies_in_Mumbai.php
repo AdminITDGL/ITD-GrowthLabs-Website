@@ -6,12 +6,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Discover the best SEO content tools, writing tools for SEO, content optimization software, and keyword tools that every marketer should leverage in 2025 to enhance content performance and search rankings.">
+    <meta name="description" content="A real comparison of the leading social media marketing agencies in Mumbai — pricing tiers, who they fit, who they don't, and the 5 questions to ask before signing. Updated for 2026.">
     <meta name=" keywords" content="Digital Marketing Company, Digital Marketing Services, Content Writing Services, SEO Content Writing Services, Best Content Writing, Online Marketing Agency, Digital Strategy Services, Content Marketing Agency, Digital Advertising Services, Expert Content Writing Services.">
 
     <!-- ========== Page Title ========== -->
-    <title>Top 10 Social Media Marketing Agencies in Mumbai 
-    </title>
+    <title>Top Social Media Marketing Agencies in Mumbai 2026 — Honest Comparison &amp; How to Choose | ITD GrowthLabs</title>
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">

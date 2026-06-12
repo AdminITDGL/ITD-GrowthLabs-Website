@@ -24,9 +24,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="ITD GrowthLabs is a leading mobile app development company in the UK offering Android & iOS app development services in London, Manchester, Birmingham & Leeds.">
+    <meta name="description" content="iOS / Android / Flutter apps for UK businesses — GDPR-compliant data handling, GMT-aligned project management, fixed-quote pricing in GBP. 200+ apps delivered.">
     <meta name="keywords" content="Mobile app development company in Australia, Mobile app development services in Australia, Android app development company in Australia, iOS app development company in Australia, App developers in Australia, Mobile app developers in Sydney, Mobile app development company in Melbourne, Custom mobile app development Australia">
-    <title>Top Mobile App Development Company in Australia | Android & iOS Apps</title>
+    <title>Mobile App Development Company for UK Businesses 2026 — GDPR-Compliant Delivery | ITD GrowthLabs</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/uk/mobile-app-development.php" />
     <meta property="og:title" content="Top Mobile App Development Company in Australia | Android & iOS Apps" />
     <meta property="og:description" content="ITD GrowthLabs is a leading mobile app development company in the UK offering Android & iOS app development services in London, Manchester, Birmingham & Leeds." />

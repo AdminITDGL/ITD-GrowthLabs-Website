@@ -24,8 +24,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="ITD GrowthLabs is a leading website design and development company in Australia offering custom, SEO-optimised websites for businesses across major cities.">
-    <title>Top Website Design & Development Company in Australia | ITD GrowthLabs</title>
+    <meta name="description" content="Custom websites for AU brands — built for speed (Core Web Vitals), Google rankings, and lead capture. Fixed-quote pricing, AEDT support. Free 30-min website audit.">
+    <title>Website Design & Development for Australian Businesses 2026 — Conversion-Focused | ITD GrowthLabs</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/australia/website-design-development.php" />
     <meta property="og:title" content="Top Website Design & Development Company in Australia | ITD GrowthLabs" />
     <meta property="og:description" content="ITD GrowthLabs is a leading website design and development company in Australia offering custom, SEO-optimised websites for businesses across major cities." />

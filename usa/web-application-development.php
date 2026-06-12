@@ -24,9 +24,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="ITD GrowthLabs is a leading web application development company in the USA delivering secure, scalable custom web apps for startups & enterprises.">
+    <meta name="description" content="Production web applications for US companies — Next.js, TypeScript, Python, AWS. EST/PST-aligned PM, US data-handling compliance. Book a 30-min architecture call.">
     <meta name="keywords" content="Web application development company in the USA, Web application development services in the USA, Custom web app development USA, Web app developers in the USA, Web application development company in New York, Web app development company in Los Angeles, Enterprise web application development USA">
-    <title>Top Web Application Development Company in the USA | ITD GrowthLabs</title>
+    <title>Custom Web Application Development for US Businesses 2026 — SaaS, B2B Portals | ITD GrowthLabs</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/usa/web-application-development.php" />
     <meta property="og:title" content="Top Web Application Development Company in the USA | ITD GrowthLabs" />
     <meta property="og:description" content="ITD GrowthLabs is a leading web application development company in the USA delivering secure, scalable custom web apps for startups & enterprises." />

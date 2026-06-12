@@ -24,9 +24,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="ITD GrowthLabs is a trusted web application development company in UAE delivering secure, scalable & custom web apps for businesses. Book a free consultation.">
+    <meta name="description" content="Production-grade web apps for UAE businesses — multi-tenant SaaS, B2B portals, supplier dashboards. UAE PASS, Arabic UX, AED pricing. Free 30-min architecture call (Dubai time).">
     <meta name="keywords" content="Web application development company in UAE, Web app development services in UAE, Custom web application development UAE, Enterprise web application development UAE, Business web app developers UAE, Web-based application development UAE, SaaS application development UAE, Secure web application development UAE">
-    <title>Web Application Development Company in UAE | Custom Web Apps – ITD GrowthLabs</title>
+    <title>Web Application Development in UAE / Dubai 2026 — SaaS, Portals, Internal Tools | ITD GrowthLabs</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/uae/web-application-development.php" />
     <meta property="og:title" content="Web Application Development Company in UAE | Custom Web Apps – ITD GrowthLabs" />
     <meta property="og:description" content="ITD GrowthLabs is a trusted web application development company in UAE delivering secure, scalable & custom web apps for businesses. Book a free consultation." />

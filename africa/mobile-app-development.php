@@ -24,9 +24,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="ITD GrowthLabs is a leading mobile app development company in Africa offering Android & iOS app development services in South Africa, Nigeria & Kenya.">
+    <meta name="description" content="iOS, Android & Flutter apps for African businesses — offline-first patterns, M-Pesa / Flutterwave / Paystack integrations, low-bandwidth UX, USD pricing. Book a free 30-min call.">
     <meta name="keywords" content="Mobile app development company in Africa, Mobile app development services in Africa, Android app development company in Africa, iOS app development company in Africa, Mobile app developers in South Africa, App development company in Nigeria, Mobile app development services in Kenya">
-    <title>Top Mobile App Development Company in Africa | Android & iOS Apps</title>
+    <title>Mobile App Development Company for African Businesses 2026 — Low-Cost, Offline-First | ITD GrowthLabs</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/africa/mobile-app-development.php" />
     <meta property="og:title" content="Top Mobile App Development Company in Africa | Android & iOS Apps" />
     <meta property="og:description" content="ITD GrowthLabs is a leading mobile app development company in Africa offering Android & iOS app development services in South Africa, Nigeria & Kenya." />

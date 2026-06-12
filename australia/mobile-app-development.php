@@ -24,9 +24,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="ITD GrowthLabs is a leading mobile app development company in Australia offering Android & iOS app development services in Sydney, Melbourne, Brisbane & Perth.">
+    <meta name="description" content="iOS & Android app development for Australian startups and SMBs — 40-60% lower cost than Sydney/Melbourne agencies, AEDT business-hours support, AU-compliant data residency options. Free 30-min build review.">
     <meta name="keywords" content="Mobile app development company in Australia, Mobile app development services in Australia, Android app development company in Australia, iOS app development company in Australia, App developers in Australia, Mobile app developers in Sydney, Mobile app development company in Melbourne, Custom mobile app development Australia">
-    <title>Top Mobile App Development Company in Australia | Android & iOS Apps</title>
+    <title>Mobile App Development for Australian Businesses 2026 — Built in India, Delivered Local | ITD GrowthLabs</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/australia/mobile-app-development.php" />
     <meta property="og:title" content="Top Mobile App Development Company in Australia | Android & iOS Apps" />
     <meta property="og:description" content="ITD GrowthLabs is a leading mobile app development company in Australia offering Android & iOS app development services in Sydney, Melbourne, Brisbane & Perth." />

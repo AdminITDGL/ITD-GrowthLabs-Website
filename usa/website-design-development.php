@@ -24,8 +24,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="ITD GrowthLabs is a leading website design and development company in the USA offering custom, SEO-optimized websites for businesses across major cities.">
-    <title>Top Website Design & Development Company in the USA | ITD GrowthLabs</title>
+    <meta name="description" content="Custom websites for US companies — Core Web Vitals, SEO-ready, lead capture. Fixed-quote, EST/PST support, US data residency options. Free 30-min website audit.">
+    <title>Website Design & Development for US Businesses 2026 — Conversion-Focused | ITD GrowthLabs</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/usa/website-design-development.php" />
     <meta property="og:title" content="Top Website Design & Development Company in the USA | ITD GrowthLabs" />
     <meta property="og:description" content="ITD GrowthLabs is a leading website design and development company in the USA offering custom, SEO-optimized websites for businesses across major cities." />

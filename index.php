@@ -397,14 +397,63 @@
                         </div>
                     </div>
                     <div class="glue-page ion-overview-hero__description-container">
-                        <div class="ion-overview-hero__description glue-body--large glue-text-center " style="margin-bottom: 20px !important;">
-                            We help B2B companies grow with custom websites, mobile apps, SEO, digital marketing, and AI automation — serving clients in India, USA, UK, UAE & Australia.
+                        <div class="ion-overview-hero__description glue-body--large glue-text-center " style="margin-bottom: 22px !important;">
+                            We&rsquo;re the production engineering and lead-generation partner for businesses that need to <strong>actually ship and grow</strong> — courier &amp; logistics software, custom apps and web platforms, deep-tech engineering, and ready-to-buy lead systems. Live for clients in India, USA, UK, UAE, Australia &amp; Africa.
                         </div>
                         <div class="ion-overview-hero__cta-container">
-                            <div class="ion-button__container ion-button__container--centered">
-                                <a class="ion-button glue-button glue-button--high-emphasis"
-                                    href="contact-us.php"
-                                    >Get a Free Consultation</a>
+                            <div class="ion-button__container ion-button__container--centered" style="display:flex;gap:14px;flex-wrap:wrap;justify-content:center;">
+                                <a class="ion-button glue-button glue-button--high-emphasis js-book-call"
+                                    href="https://calendly.com/itdgrowthlabs-info/30min"
+                                    data-source="home_hero_primary"
+                                    style="display:inline-flex;align-items:center;gap:10px;">
+                                    <i class="fas fa-calendar-check"></i> Book a Free 30-min Call
+                                </a>
+                                <a class="ion-button glue-button"
+                                    href="case-studies.php"
+                                    style="background:transparent;color:#1a73e8;border:2px solid #1a73e8;display:inline-flex;align-items:center;gap:10px;">
+                                    See Our Work &rarr;
+                                </a>
+                            </div>
+                            <p style="text-align:center;margin-top:14px;font-size:13px;color:#5f6368;">
+                                <i class="fas fa-circle" style="font-size:7px;color:#22c55e;vertical-align:middle;margin-right:6px;"></i>
+                                Free 30 minutes &middot; Written follow-up within 24 business hours &middot; No sales pitch
+                            </p>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- FEATURED ENGAGEMENTS STRIP — production proof, not marketing copy -->
+                <section style="background:linear-gradient(135deg,#0b0820 0%,#1a1240 50%,#2c1670 100%);padding:50px 0;color:#fff;">
+                    <div class="container">
+                        <div style="text-align:center;margin-bottom:30px;">
+                            <span style="display:inline-block;font-size:11px;letter-spacing:2px;text-transform:uppercase;color:#c4b5fd;font-weight:700;background:rgba(124,58,237,0.18);padding:5px 14px;border-radius:20px;border:1px solid rgba(196,181,253,0.35);">Featured engagements</span>
+                            <h2 style="color:#fff;font-size:30px;font-weight:800;margin-top:18px;margin-bottom:8px;">From quantum computing to courier networks — real production work.</h2>
+                            <p style="color:rgba(255,255,255,0.75);font-size:15px;max-width:680px;margin:0 auto;">We&rsquo;re the team behind live products at the deep end of the engineering spectrum. A few we can point at:</p>
+                        </div>
+                        <div class="row" style="gap:0;">
+                            <div class="col-md-4 mb-3">
+                                <a href="case-studies/quantum-computing-mindsyn-evolution.php" style="display:block;text-decoration:none;background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);border-radius:12px;padding:24px;height:100%;transition:transform .25s, border-color .25s;" onmouseover="this.style.transform='translateY(-4px)';this.style.borderColor='rgba(196,181,253,0.5)'" onmouseout="this.style.transform='';this.style.borderColor='rgba(255,255,255,0.1)'">
+                                    <div style="display:inline-block;font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:#c4b5fd;font-weight:700;background:rgba(124,58,237,0.2);padding:4px 10px;border-radius:14px;margin-bottom:12px;"><i class="fas fa-atom" style="margin-right:5px;"></i>Quantum &amp; Deep Tech</div>
+                                    <h3 style="color:#fff;font-size:18px;font-weight:700;line-height:1.4;margin-bottom:10px;">Quantum Computing Application for Mindsyn Evolution</h3>
+                                    <p style="color:rgba(255,255,255,0.7);font-size:14px;line-height:1.65;margin-bottom:12px;">Production engineering around a quantum-classical hybrid pipeline — app surface, API gateway, orchestration. Live at mindsynevolution.ai.</p>
+                                    <span style="color:#c4b5fd;font-size:13px;font-weight:600;">Read case study &rarr;</span>
+                                </a>
+                            </div>
+                            <div class="col-md-4 mb-3">
+                                <a href="case-studies/courier-management-system.php" style="display:block;text-decoration:none;background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);border-radius:12px;padding:24px;height:100%;transition:transform .25s, border-color .25s;" onmouseover="this.style.transform='translateY(-4px)';this.style.borderColor='rgba(255,176,102,0.5)'" onmouseout="this.style.transform='';this.style.borderColor='rgba(255,255,255,0.1)'">
+                                    <div style="display:inline-block;font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:#ffd9b8;font-weight:700;background:rgba(255,107,0,0.18);padding:4px 10px;border-radius:14px;margin-bottom:12px;"><i class="fas fa-truck" style="margin-right:5px;"></i>Logistics</div>
+                                    <h3 style="color:#fff;font-size:18px;font-weight:700;line-height:1.4;margin-bottom:10px;">Courier Management System &mdash; 14 hubs, 35 staff, 0 billing errors</h3>
+                                    <p style="color:rgba(255,255,255,0.7);font-size:14px;line-height:1.65;margin-bottom:12px;">Replaced Excel + WhatsApp with a real CMS &mdash; pickup, hub, manifest, line-haul, delivery, billing, tracking. 70% less manual data entry.</p>
+                                    <span style="color:#ffd9b8;font-size:13px;font-weight:600;">Read case study &rarr;</span>
+                                </a>
+                            </div>
+                            <div class="col-md-4 mb-3">
+                                <a href="services/ready-to-buy-lead-generation.php" style="display:block;text-decoration:none;background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);border-radius:12px;padding:24px;height:100%;transition:transform .25s, border-color .25s;" onmouseover="this.style.transform='translateY(-4px)';this.style.borderColor='rgba(34,197,94,0.5)'" onmouseout="this.style.transform='';this.style.borderColor='rgba(255,255,255,0.1)'">
+                                    <div style="display:inline-block;font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:#bbf7d0;font-weight:700;background:rgba(34,197,94,0.18);padding:4px 10px;border-radius:14px;margin-bottom:12px;"><i class="fas fa-bullseye" style="margin-right:5px;"></i>Lead Generation</div>
+                                    <h3 style="color:#fff;font-size:18px;font-weight:700;line-height:1.4;margin-bottom:10px;">Ready-to-Buy Lead Generation &mdash; AI-driven, fully managed</h3>
+                                    <p style="color:rgba(255,255,255,0.7);font-size:14px;line-height:1.65;margin-bottom:12px;">Dedicated, qualified, intent-scored leads delivered monthly to your Sheet or dashboard. Quality over quantity. No junk fills.</p>
+                                    <span style="color:#bbf7d0;font-size:13px;font-weight:600;">See the system &rarr;</span>
+                                </a>
                             </div>
                         </div>
                     </div>

@@ -159,6 +159,27 @@
 
                 <div class="col-tact-stye-one col-lg-6">
                     <div class="contact-form-style-one">
+                        <!-- Booking-first CTA: cuts friction for high-intent visitors -->
+                        <div style="background:linear-gradient(135deg,#0d47a1,#1565c0);color:#fff;padding:24px 26px;border-radius:14px;margin-bottom:24px;box-shadow:0 8px 22px rgba(13,71,161,0.18);">
+                            <div style="display:flex;align-items:center;gap:12px;margin-bottom:10px;">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="3"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+                                <h3 style="margin:0;color:#fff;font-size:20px;font-weight:700;">Skip the form — talk to a senior strategist</h3>
+                            </div>
+                            <p style="margin:0 0 16px;color:rgba(255,255,255,0.92);font-size:14px;line-height:1.55;">
+                                Free 30-minute consultation. We'll review your project, scope a realistic build plan, and tell you straight whether we're the right fit — no sales pitch.
+                            </p>
+                            <a href="https://calendly.com/itdgrowthlabs-info/30min"
+                               class="js-book-call"
+                               data-source="contact_us_top"
+                               style="display:inline-block;background:#fff;color:#0d47a1;padding:12px 24px;border-radius:30px;font-weight:700;text-decoration:none;font-size:14px;letter-spacing:0.2px;">
+                                Book a Free 30-min Call &rarr;
+                            </a>
+                        </div>
+
+                        <p style="margin:0 0 18px;font-size:13px;color:#666;line-height:1.5;">
+                            <strong style="color:#0d47a1;">Prefer to send details?</strong> Use the form below — every enquiry gets a written reply within 24 business hours, from a human who will lead your project, not a sales rep.
+                        </p>
+
                         <?php include("./common-form.php") ?>
                     </div>
                 </div>
@@ -196,7 +217,6 @@
         </div>
     </div>
     <!-- End Contact -->
-<script type="text/javascript" src='contact-us.php' async></script>
 <?php include("./includes/footer.php") ?>
     <?php include("./includes/footer_script.php") ?>
     <script src="https://www.google.com/recaptcha/api.js?render=6Lcm0hosAAAAAPFeuKRDfgGF4Ajr9bcCCbD7LR-3"></script>

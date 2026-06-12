@@ -6,12 +6,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Explore essential technical writing templates, documentation formats, and SOP templates with writing samples. Ideal for pros and beginners alike.">
+    <meta name="description" content="Battle-tested technical writing templates for SOPs, API docs, user manuals, troubleshooting guides, release notes &amp; more — with downloadable examples and the structure rules behind them.">
     <meta name=" keywords" content="Digital Marketing Company, Digital Marketing Services, Content Writing Services, SEO Content Writing Services, Best Content Writing, Online Marketing Agency, Digital Strategy Services, Content Marketing Agency, Digital Advertising Services, Expert Content Writing Services.">
 
     <!-- ========== Page Title ========== -->
-    <title> Technical Writing Templates & Documentation Format Guide
-    </title>
+    <title>Technical Writing Templates That Actually Work in 2026 — Free Downloads &amp; Examples | ITD GrowthLabs</title>
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">

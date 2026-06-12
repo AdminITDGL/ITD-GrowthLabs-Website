@@ -24,9 +24,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="ITD GrowthLabs is a leading web application development company in the UK delivering secure, scalable custom web apps for startups & enterprises.">
+    <meta name="description" content="SaaS, B2B portals, custom dashboards for UK companies — TypeScript / Python / AWS, GDPR by default. GMT project management. Free 30-min scoping call.">
     <meta name="keywords" content="Web application development company in Australia, Web application development services in Australia, Custom web app development Australia, Web app developers in Australia, Web application development company in Sydney, Web app development company in Melbourne, Enterprise web application development Australia">
-    <title>Top Web Application Development Company in Australia | ITD GrowthLabs</title>
+    <title>Custom Web Application Development for UK Businesses 2026 — GDPR-Compliant SaaS &amp; B2B Portals | ITD GrowthLabs</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/uk/web-application-development.php" />
     <meta property="og:title" content="Top Web Application Development Company in Australia | ITD GrowthLabs" />
     <meta property="og:description" content="ITD GrowthLabs is a leading web application development company in the UK delivering secure, scalable custom web apps for startups & enterprises." />

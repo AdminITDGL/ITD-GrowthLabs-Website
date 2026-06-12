@@ -24,8 +24,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="ITD GrowthLabs offers result-driven digital marketing services in UAE including SEO, PPC, social media & lead generation. Grow traffic & sales. Contact us today.">
-    <title>Digital Marketing Services in UAE | SEO, PPC & Lead Generation – ITD GrowthLabs</title>
+    <meta name="description" content="Performance marketing for UAE businesses — Google.ae SEO, GCC-targeted ads, content in Arabic + English. AED reporting. Book a 30-min growth call in Dubai time.">
+    <title>Digital Marketing Services in UAE / Dubai 2026 — SEO, Performance Ads | ITD GrowthLabs</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/uae/digital-marketing-services.php" />
     <meta property="og:title" content="Digital Marketing Services in UAE | SEO, PPC & Lead Generation – ITD GrowthLabs" />
     <meta property="og:description" content="ITD GrowthLabs offers result-driven digital marketing services in UAE including SEO, PPC, social media & lead generation. Grow traffic & sales. Contact us today." />

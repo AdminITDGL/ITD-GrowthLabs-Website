@@ -23,8 +23,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="ITD GrowthLabs is a leading digital marketing company in the USA offering SEO, PPC, social media & lead generation services across major cities.">
-    <title>Top Digital Marketing Services Company in the USA | ITD GrowthLabs</title>
+    <meta name="description" content="Lead-generation marketing for US SMBs and SaaS — search-intent SEO, Google Ads, content marketing. EST/PST account management. Book a 30-min growth review.">
+    <title>Digital Marketing Services for US Businesses 2026 — SEO, Ads, Content | ITD GrowthLabs</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/usa/digital-marketing-services.php" />
     <meta property="og:title" content="Top Digital Marketing Services Company in the USA | ITD GrowthLabs" />
     <meta property="og:description" content="ITD GrowthLabs is a leading digital marketing company in the USA offering SEO, PPC, social media & lead generation services across major cities." />

@@ -24,8 +24,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="ITD GrowthLabs offers UAE-focused web design, web app, mobile app & content writing services. Build scalable digital solutions with expert support. Contact us!">
-    <title>Best Website & Mobile App Development Company in UAE | ITD GrowthLabs</title>
+    <meta name="description" content="Bilingual (Arabic + English) websites for UAE brands — built for Google.ae, fast on Etisalat / du networks, AED pricing. Fixed-quote, no surprise costs. Book a 30-min website audit.">
+    <title>Website Design & Development in UAE / Dubai 2026 — Bilingual, Conversion-Focused | ITD GrowthLabs</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/uae/website-design-development.php" />
     <meta property="og:title" content="Best Website & Mobile App Development Company in UAE | ITD GrowthLabs" />
     <meta property="og:description" content="ITD GrowthLabs offers UAE-focused web design, web app, mobile app & content writing services. Build scalable digital solutions with expert support. Contact us!" />

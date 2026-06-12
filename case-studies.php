@@ -804,7 +804,8 @@
 
             <!-- Filter tabs -->
             <ul class="cs-filter-bar" role="tablist" aria-label="Filter case studies by industry">
-                <li><button type="button" class="cs-filter-btn is-active" data-filter="all" aria-pressed="true">All case studies (15)</button></li>
+                <li><button type="button" class="cs-filter-btn is-active" data-filter="all" aria-pressed="true">All case studies (16)</button></li>
+                <li><button type="button" class="cs-filter-btn" data-filter="deeptech" aria-pressed="false">Deep Tech &amp; Quantum (1)</button></li>
                 <li><button type="button" class="cs-filter-btn" data-filter="logistics" aria-pressed="false">Logistics &amp; Courier (4)</button></li>
                 <li><button type="button" class="cs-filter-btn" data-filter="food" aria-pressed="false">Food, Restaurant &amp; Hyperlocal (5)</button></li>
                 <li><button type="button" class="cs-filter-btn" data-filter="saas" aria-pressed="false">SaaS &amp; B2B (3)</button></li>
@@ -816,10 +817,70 @@
                 <li><button type="button" class="cs-filter-btn" data-filter="marketplace" aria-pressed="false">Marketplace (2)</button></li>
             </ul>
 
-            <!-- Case Study 1 -->
+            <!-- Case Study 1 — Mindsyn Evolution (Quantum) — FEATURED -->
+            <div class="case-study-card" data-category="deeptech" style="border-top:4px solid #7c3aed;">
+                <div class="case-study-header" style="background:linear-gradient(135deg,#1a1240,#2c1670);color:#fff;">
+                    <span class="case-study-number" style="color:#c4b5fd;">01</span>
+                    <span class="industry-tag" style="background:rgba(196,181,253,0.15);color:#ddd6fe;border:1px solid rgba(196,181,253,0.3);"><i class="fas fa-atom"></i> Deep Tech &middot; Quantum</span>
+                    <h3 style="color:#fff;">Quantum Computing Application for Mindsyn Evolution</h3>
+                </div>
+                <div class="case-study-body">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-exclamation-circle"></i> The Challenge</div>
+                            <p>A deep-tech R&amp;D firm had a working quantum-classical hybrid pipeline running in research notebooks &mdash; but no production application surface around it. Without that, the research had no path to becoming a usable product that customers, investors, or partners could actually log into and run.</p>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-lightbulb"></i> Our Solution</div>
+                            <p>We built the production engineering layer around the research: web application, authentication and tenant isolation, a stable versioned API gateway, the quantum-classical execution bridge, observability, and deployment. We did <em>not</em> touch the algorithms &mdash; that's client IP. We made sure everything around them works in production.</p>
+                        </div>
+                    </div>
+
+                    <div class="case-study-section-title"><i class="fas fa-code"></i> Tech Stack</div>
+                    <div class="mb-4">
+                        <span class="tech-badge">Modern JS Frontend</span>
+                        <span class="tech-badge">Python Backend</span>
+                        <span class="tech-badge">REST + Queued APIs</span>
+                        <span class="tech-badge">OAuth / JWT</span>
+                        <span class="tech-badge">PostgreSQL</span>
+                        <span class="tech-badge">Redis</span>
+                        <span class="tech-badge">Containerised Deploy</span>
+                        <span class="tech-badge">Quantum SDK Integration</span>
+                    </div>
+
+                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> Outcomes</div>
+                    <div class="results-grid">
+                        <div class="result-item">
+                            <span class="result-number">Live</span>
+                            <span class="result-label">In production at mindsynevolution.ai</span>
+                        </div>
+                        <div class="result-item">
+                            <span class="result-number">Hybrid</span>
+                            <span class="result-label">Quantum + classical orchestration</span>
+                        </div>
+                        <div class="result-item">
+                            <span class="result-number">End-to-end</span>
+                            <span class="result-label">UX &rarr; API &rarr; compute layer</span>
+                        </div>
+                        <div class="result-item">
+                            <span class="result-number">Long-term</span>
+                            <span class="result-label">Ongoing AMC + roadmap</span>
+                        </div>
+                    </div>
+
+                    <div class="case-study-meta">
+                        <span><i class="fas fa-link"></i> Live: <a href="https://mindsynevolution.ai/" target="_blank" rel="noopener" style="color:#7c3aed;">mindsynevolution.ai</a></span>
+                        <span><i class="fas fa-users"></i> Engagement: Ongoing</span>
+                    </div>
+                    <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call case-study-cta" data-source="case_study_hub_mindsyn">Building a deep-tech product? Book a Call <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                    <a href="case-studies/quantum-computing-mindsyn-evolution.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                </div>
+            </div>
+
+            <!-- Case Study 2 -->
             <div class="case-study-card" data-category="logistics">
                 <div class="case-study-header">
-                    <span class="case-study-number">01</span>
+                    <span class="case-study-number">02</span>
                     <span class="industry-tag"><i class="fas fa-truck"></i> Logistics</span>
                     <h3>On-Demand Courier Booking &amp; Delivery Application</h3>
                 </div>
@@ -877,7 +938,7 @@
             <!-- Case Study 2 -->
             <div class="case-study-card" data-category="food">
                 <div class="case-study-header">
-                    <span class="case-study-number">02</span>
+                    <span class="case-study-number">03</span>
                     <span class="industry-tag"><i class="fas fa-fish"></i> Food &amp; Delivery / Hyperlocal Marketplace</span>
                     <h3>Online Fish Delivery &amp; Marketplace Application</h3>
                 </div>
@@ -935,7 +996,7 @@
             <!-- Case Study 3 -->
             <div class="case-study-card" data-category="logistics saas">
                 <div class="case-study-header">
-                    <span class="case-study-number">03</span>
+                    <span class="case-study-number">04</span>
                     <span class="industry-tag"><i class="fas fa-shipping-fast"></i> Logistics / SaaS</span>
                     <h3>Smart Logistics Platform — Rate Comparison, Booking &amp; End-to-End Delivery Management</h3>
                 </div>
@@ -994,7 +1055,7 @@
             <!-- Case Study 4 -->
             <div class="case-study-card" data-category="food">
                 <div class="case-study-header">
-                    <span class="case-study-number">04</span>
+                    <span class="case-study-number">05</span>
                     <span class="industry-tag"><i class="fas fa-utensils"></i> Food &amp; Delivery</span>
                     <h3>Vendor &amp; Operations Management System for Food Delivery</h3>
                 </div>
@@ -1052,7 +1113,7 @@
             <!-- Case Study 5 -->
             <div class="case-study-card" data-category="logistics">
                 <div class="case-study-header">
-                    <span class="case-study-number">05</span>
+                    <span class="case-study-number">06</span>
                     <span class="industry-tag"><i class="fas fa-box"></i> Logistics</span>
                     <h3>Courier Management System (Web Application)</h3>
                 </div>
@@ -1110,7 +1171,7 @@
             <!-- Case Study 6: Multi-Vendor Marketplace App (food + grocery) -->
             <div class="case-study-card" data-category="marketplace food ecommerce">
                 <div class="case-study-header">
-                    <span class="case-study-number">06</span>
+                    <span class="case-study-number">07</span>
                     <span class="industry-tag"><i class="fas fa-store"></i> Marketplace · Food &amp; Grocery</span>
                     <h3>Multi-Vendor Marketplace App for Food &amp; Grocery</h3>
                 </div>
@@ -1153,7 +1214,7 @@
             <!-- Case Study 7: Telemedicine + HIPAA + ABDM -->
             <div class="case-study-card" data-category="healthcare">
                 <div class="case-study-header">
-                    <span class="case-study-number">07</span>
+                    <span class="case-study-number">08</span>
                     <span class="industry-tag"><i class="fas fa-stethoscope"></i> Healthcare · Telemedicine</span>
                     <h3>Telemedicine App with HIPAA &amp; ABDM Compliance</h3>
                 </div>
@@ -1196,7 +1257,7 @@
             <!-- Case Study 8: D2C E-Commerce App (Fashion) -->
             <div class="case-study-card" data-category="ecommerce">
                 <div class="case-study-header">
-                    <span class="case-study-number">08</span>
+                    <span class="case-study-number">09</span>
                     <span class="industry-tag"><i class="fas fa-tshirt"></i> E-Commerce · D2C</span>
                     <h3>D2C E-Commerce Mobile App for a Fashion Brand</h3>
                 </div>
@@ -1239,7 +1300,7 @@
             <!-- Case Study 9: Fleet Management SaaS (3PL Logistics) -->
             <div class="case-study-card" data-category="logistics saas">
                 <div class="case-study-header">
-                    <span class="case-study-number">09</span>
+                    <span class="case-study-number">10</span>
                     <span class="industry-tag"><i class="fas fa-truck-moving"></i> Logistics · 3PL · SaaS</span>
                     <h3>Fleet Management SaaS for a 14-Hub 3PL</h3>
                 </div>
@@ -1282,7 +1343,7 @@
             <!-- Case Study 10: Cross-Border Courier Platform -->
             <div class="case-study-card" data-category="logistics saas">
                 <div class="case-study-header">
-                    <span class="case-study-number">10</span>
+                    <span class="case-study-number">11</span>
                     <span class="industry-tag"><i class="fas fa-globe-asia"></i> Logistics · Cross-Border</span>
                     <h3>Cross-Border Courier Platform (India · UAE · UK)</h3>
                 </div>
@@ -1325,7 +1386,7 @@
             <!-- Case Study 11: Restaurant POS + Online Ordering -->
             <div class="case-study-card" data-category="food">
                 <div class="case-study-header">
-                    <span class="case-study-number">11</span>
+                    <span class="case-study-number">12</span>
                     <span class="industry-tag"><i class="fas fa-utensils"></i> Restaurant · POS</span>
                     <h3>Restaurant POS &amp; Online Ordering Platform (14-Outlet QSR)</h3>
                 </div>
@@ -1368,7 +1429,7 @@
             <!-- Case Study 12: Real-Estate CRM + WhatsApp -->
             <div class="case-study-card" data-category="realestate">
                 <div class="case-study-header">
-                    <span class="case-study-number">12</span>
+                    <span class="case-study-number">13</span>
                     <span class="industry-tag"><i class="fas fa-building"></i> Real Estate · CRM</span>
                     <h3>Real-Estate CRM with WhatsApp Automation</h3>
                 </div>
@@ -1411,7 +1472,7 @@
             <!-- Case Study 13: NBFC Loan Origination -->
             <div class="case-study-card" data-category="fintech">
                 <div class="case-study-header">
-                    <span class="case-study-number">13</span>
+                    <span class="case-study-number">14</span>
                     <span class="industry-tag"><i class="fas fa-money-check-alt"></i> Fintech · NBFC</span>
                     <h3>NBFC Loan Origination Platform — Same-Day Disbursal at Scale</h3>
                 </div>
@@ -1454,7 +1515,7 @@
             <!-- Case Study 14: EdTech LMS -->
             <div class="case-study-card" data-category="education">
                 <div class="case-study-header">
-                    <span class="case-study-number">14</span>
+                    <span class="case-study-number">15</span>
                     <span class="industry-tag"><i class="fas fa-graduation-cap"></i> EdTech · LMS</span>
                     <h3>EdTech LMS with Live Classes (60,000 Students)</h3>
                 </div>
@@ -1497,7 +1558,7 @@
             <!-- Case Study 15: SaaS Inventory + Restaurant Vendor Ops -->
             <div class="case-study-card" data-category="saas">
                 <div class="case-study-header">
-                    <span class="case-study-number">15</span>
+                    <span class="case-study-number">16</span>
                     <span class="industry-tag"><i class="fas fa-boxes"></i> SaaS · Multi-Tenant Retail</span>
                     <h3>SaaS Inventory Management for 60+ Retail Stores</h3>
                 </div>

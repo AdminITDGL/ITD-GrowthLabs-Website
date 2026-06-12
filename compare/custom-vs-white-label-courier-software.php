@@ -18,8 +18,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Custom vs white-label courier software: when a ready-made platform ships fastest, when a custom build pays off, and a 5-year TCO breakdown for both. An honest build-vs-buy framework for logistics operators.">
-    <title>Custom vs White-Label Courier Software: Honest Build-vs-Buy Comparison | ITD GrowthLabs</title>
+    <meta name="description" content="White-label or custom courier software in 2026? 4-8 weeks vs 4-7 months to launch, 5-year TCO numbers, a clear decision framework, and the hybrid path that fits 70% of growing courier networks. Honest answer in 10 minutes.">
+    <title>White-Label Courier Software vs Custom Build (2026): Cost, TCO &amp; Time to Launch | ITD GrowthLabs</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/compare/custom-vs-white-label-courier-software.php">
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
 
@@ -245,9 +245,24 @@
             <a href="../case-studies.php">Compare</a><span class="sep">/</span>
             <span class="now">Custom vs White-Label Courier Software</span>
         </div>
-        <span class="cmp-eyebrow"><i class="fas fa-scale-balanced" style="margin-right:6px;"></i>Build vs Buy &middot; Courier Software</span>
-        <h1 class="cmp-title">Custom vs White-Label Courier Software: When Each One Actually Wins</h1>
-        <p class="cmp-subtitle">White-label platforms get you live in weeks. Custom builds get you an asset you own. Both are right answers for different operators &mdash; this is the framework we use to figure out which one fits, with 5-year TCO numbers, a trade-off matrix, and the "start white-label, migrate to custom" path that works for most growing networks.</p>
+        <span class="cmp-eyebrow"><i class="fas fa-scale-balanced" style="margin-right:6px;"></i>2026 Decision Guide &middot; Courier Software</span>
+        <h1 class="cmp-title">White-Label vs Custom Courier Software in 2026 &mdash; Which One Actually Fits Your Operation?</h1>
+        <p class="cmp-subtitle">White-label gets you live in <strong>4&ndash;8 weeks</strong>. Custom builds take <strong>4&ndash;7 months</strong> but you own the code, schema and roadmap. We build both. This is the framework we use with operators to figure out which one fits &mdash; with 5-year TCO numbers, a trade-off matrix, and the "start white-label, migrate to custom" path that works for ~70% of growing courier networks.</p>
+        <div style="margin-top:28px;display:flex;flex-wrap:wrap;gap:12px;">
+            <a href="https://calendly.com/itdgrowthlabs-info/30min"
+               class="js-book-call"
+               data-source="compare_courier_hero"
+               style="display:inline-flex;align-items:center;gap:8px;background:#ff6b00;color:#fff;padding:14px 24px;border-radius:30px;font-weight:700;text-decoration:none;font-size:15px;box-shadow:0 4px 14px rgba(255,107,0,0.35);">
+                <i class="fas fa-calendar-check"></i> Book a 30-min Build-vs-Buy Call
+            </a>
+            <a href="#decision-framework"
+               style="display:inline-flex;align-items:center;gap:8px;background:transparent;color:#fff;border:2px solid rgba(255,255,255,0.4);padding:12px 24px;border-radius:30px;font-weight:700;text-decoration:none;font-size:15px;">
+                Jump to the Decision Framework &darr;
+            </a>
+        </div>
+        <p style="margin-top:18px;font-size:13px;color:rgba(255,255,255,0.65);">
+            Used by courier networks running <strong>500&ndash;500,000 shipments/month</strong> &middot; Honest framework, no sales pitch
+        </p>
     </div>
 </section>
 
@@ -278,7 +293,7 @@
                     <p>The honest truth: most operators don't need the build path. White-label is the right answer for the majority. It becomes the wrong answer at a specific volume and differentiation threshold &mdash; which is what the rest of this page maps out.</p>
                 </div>
 
-                <div class="cmp-block">
+                <div class="cmp-block" id="decision-framework">
                     <h2>When each path wins</h2>
                     <div class="cmp-pick-grid">
                         <div class="cmp-pick-card win-wl">

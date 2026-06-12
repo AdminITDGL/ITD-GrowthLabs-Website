@@ -14,12 +14,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Discover essential insights into ecommerce website design and online store development. Learn platform tips and shopping cart site strategies to boost your digital sales with ITD Growthlabs.">
+    <meta name="description" content="What e-commerce website development actually costs in 2026, platform trade-offs (Shopify / WooCommerce / custom), realistic timelines, and the conversion checklist that separates stores that sell from stores that just exist.">
     <meta name=" keywords" content="Digital Marketing Company, Digital Marketing Services, Content Writing Services, SEO Content Writing Services, Best Content Writing, Online Marketing Agency, Digital Strategy Services, Content Marketing Agency, Digital Advertising Services, Expert Content Writing Services.">
 
     <!-- ========== Page Title ========== -->
-    <title>Ecommerce Website Development: What You Need to Know | ITD Growthlabs
-    </title>
+    <title>E-commerce Website Development in 2026 — Costs, Platforms, Timeline &amp; Lead-Gen Checklist | ITD GrowthLabs</title>
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">

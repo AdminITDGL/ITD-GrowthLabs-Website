@@ -18,8 +18,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Shipsy &amp; LogiNext alternative: an honest side-by-side of when aggregator SaaS wins vs when a custom-built courier platform makes more sense. 3-year TCO, ownership, customisation, lock-in \u2014 all laid out.">
-    <title>Shipsy &amp; LogiNext Alternative: Custom Courier Software Compared | ITD GrowthLabs</title>
+    <meta name="description" content="Looking past Shipsy or LogiNext for your courier operation? Why operators above 25K shipments/month are commissioning custom courier software instead — feature comparison, TCO and migration plan.">
+    <title>Shipsy &amp; LogiNext Alternative for Couriers 2026 — Custom-Built Courier Software That Scales | ITD GrowthLabs</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/compare/shipsy-loginext-alternative.php">
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
 
