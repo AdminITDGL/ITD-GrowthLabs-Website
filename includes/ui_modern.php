@@ -548,6 +548,82 @@ function itdgl_render_faq_accordion($faqs, $emit_schema = true) {
 
 
 // ---------------------------------------------------------------------
+// Industry chips — appears on every industry page (cross-linking)
+// Pass current slug to exclude it from the grid.
+// ---------------------------------------------------------------------
+function itdgl_render_industry_chips($current_slug = '') {
+    itdgl_render_modern_styles();
+    $industries = [
+        'logistics'             => ['icon'=>'fas fa-truck',          'lbl'=>'Logistics &amp; Supply Chain'],
+        'ecommerce'             => ['icon'=>'fas fa-cart-shopping',  'lbl'=>'E-commerce &amp; D2C'],
+        'information_tech'      => ['icon'=>'fas fa-laptop-code',    'lbl'=>'IT &amp; SaaS'],
+        'finance'               => ['icon'=>'fas fa-coins',          'lbl'=>'Finance &amp; FinTech'],
+        'healthcare'            => ['icon'=>'fas fa-hospital',       'lbl'=>'Healthcare'],
+        'manufacturing'         => ['icon'=>'fas fa-industry',       'lbl'=>'Manufacturing'],
+        'education'             => ['icon'=>'fas fa-graduation-cap', 'lbl'=>'Education &amp; EdTech'],
+        'realestate'            => ['icon'=>'fas fa-house-chimney',  'lbl'=>'Real Estate'],
+        'professional_services' => ['icon'=>'fas fa-briefcase',      'lbl'=>'Professional Services'],
+        'startups'              => ['icon'=>'fas fa-rocket',         'lbl'=>'Startups'],
+    ];
+    ?>
+    <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:14px;">
+    <?php foreach ($industries as $slug => $i):
+        $is_current = ($slug === $current_slug);
+        if ($is_current) continue;
+    ?>
+        <a href="/industries/<?php echo $slug; ?>.php" style="background:#fff;border:1px solid var(--md-border);border-radius:10px;padding:18px 14px;text-align:center;text-decoration:none;color:var(--md-heading);transition:transform .2s, border-color .2s, box-shadow .2s;display:block;" onmouseover="this.style.transform='translateY(-3px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
+            <i class="<?php echo $i['icon']; ?>" style="font-size:22px;color:var(--md-orange);margin-bottom:8px;"></i>
+            <div style="font-size:13.5px;font-weight:600;color:var(--md-heading);line-height:1.3;"><?php echo $i['lbl']; ?></div>
+        </a>
+    <?php endforeach; ?>
+    </div>
+    <?php
+}
+
+
+// ---------------------------------------------------------------------
+// Service chips — cross-linking for service hubs
+// ---------------------------------------------------------------------
+function itdgl_render_service_chips($current_slug = '') {
+    itdgl_render_modern_styles();
+    $services = [
+        'website_development'        => ['icon'=>'fas fa-globe',                'lbl'=>'Website Development', 'sub'=>'Custom, SEO-ready, fast'],
+        'app_development'            => ['icon'=>'fas fa-mobile-screen-button', 'lbl'=>'App &amp; Software Development', 'sub'=>'Mobile, Web, SaaS'],
+        'digital_marketing'          => ['icon'=>'fas fa-bullseye',             'lbl'=>'Digital Marketing', 'sub'=>'Lead-gen, SEO, Ads, Social'],
+    ];
+    $products = [
+        'products/courier-management-software'  => ['icon'=>'fas fa-truck', 'lbl'=>'Courier Management Software', 'sub'=>'Ready-to-deploy SaaS'],
+        'products/logistics-mobile-app'         => ['icon'=>'fas fa-mobile-screen', 'lbl'=>'Custom Logistics Mobile App', 'sub'=>'Branded delivery app'],
+        'products/multi-vendor-marketplace-app' => ['icon'=>'fas fa-store', 'lbl'=>'Multi-Vendor Marketplace App', 'sub'=>'Any vertical &middot; 8&ndash;14 wk'],
+    ];
+    ?>
+    <h4 style="font-size:12px;font-weight:800;letter-spacing:2px;text-transform:uppercase;color:var(--md-orange);margin-bottom:14px;text-align:center;">Services</h4>
+    <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-bottom:24px;">
+    <?php foreach ($services as $slug => $s):
+        if ($slug === $current_slug) continue;
+    ?>
+        <a href="/<?php echo $slug; ?>.php" style="background:#fff;border:1px solid var(--md-border);border-radius:12px;padding:22px;text-align:center;text-decoration:none;color:var(--md-heading);transition:transform .25s, border-color .25s, box-shadow .25s;display:block;" onmouseover="this.style.transform='translateY(-4px)';this.style.borderColor='var(--md-primary)';this.style.boxShadow='var(--md-card-shadow-h)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
+            <i class="<?php echo $s['icon']; ?>" style="font-size:28px;color:var(--md-primary);margin-bottom:12px;"></i>
+            <div style="font-size:15.5px;font-weight:700;color:var(--md-heading);margin-bottom:4px;"><?php echo $s['lbl']; ?></div>
+            <div style="font-size:13px;color:var(--md-muted);"><?php echo $s['sub']; ?></div>
+        </a>
+    <?php endforeach; ?>
+    </div>
+    <h4 style="font-size:12px;font-weight:800;letter-spacing:2px;text-transform:uppercase;color:var(--md-orange);margin:30px 0 14px;text-align:center;">Ready-to-Deploy Apps</h4>
+    <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:14px;">
+    <?php foreach ($products as $slug => $p): ?>
+        <a href="/<?php echo $slug; ?>.php" style="background:#fff;border:1px solid var(--md-border);border-radius:12px;padding:22px;text-align:center;text-decoration:none;color:var(--md-heading);transition:transform .25s, border-color .25s, box-shadow .25s;display:block;" onmouseover="this.style.transform='translateY(-4px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow-h)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
+            <i class="<?php echo $p['icon']; ?>" style="font-size:28px;color:var(--md-orange);margin-bottom:12px;"></i>
+            <div style="font-size:15.5px;font-weight:700;color:var(--md-heading);margin-bottom:4px;"><?php echo $p['lbl']; ?></div>
+            <div style="font-size:13px;color:var(--md-muted);"><?php echo $p['sub']; ?></div>
+        </a>
+    <?php endforeach; ?>
+    </div>
+    <?php
+}
+
+
+// ---------------------------------------------------------------------
 // Final CTA
 // ---------------------------------------------------------------------
 function itdgl_render_final_cta($cfg) {

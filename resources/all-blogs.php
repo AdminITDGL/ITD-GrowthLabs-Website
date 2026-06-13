@@ -111,6 +111,39 @@
                 <div class="col-lg-4 col-md-6 mb-50">
                     <div class="blog-style-one">
                         <div class="info">
+                            <div class="meta"><ul><li><a href="#">ITD GrowthLabs</a></li><li>April 2026</li></ul></div>
+                            <h3 class="post-title"><a href="../resources/Digital_Marketing_Agency_in_Mumbai_2026_Honest_Comparison.php">Digital Marketing Agency in Mumbai 2026 &mdash; Honest Comparison &amp; How to Pick the Right One</a></h3>
+                            <a href="../resources/Digital_Marketing_Agency_in_Mumbai_2026_Honest_Comparison.php" class="button-regular">Continue Reading <i class="fas fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta"><ul><li><a href="#">ITD GrowthLabs</a></li><li>April 2026</li></ul></div>
+                            <h3 class="post-title"><a href="../resources/Website_Development_Cost_in_India_2026_Honest_Pricing_Guide.php">Website Development Cost in India 2026 &mdash; Honest Pricing Guide (Real Ranges, Hidden Costs)</a></h3>
+                            <a href="../resources/Website_Development_Cost_in_India_2026_Honest_Pricing_Guide.php" class="button-regular">Continue Reading <i class="fas fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta"><ul><li><a href="#">ITD GrowthLabs</a></li><li>April 2026</li></ul></div>
+                            <h3 class="post-title"><a href="../resources/Best_Digital_Marketing_Agencies_in_India_2026_Honest_Rankings.php">Best Digital Marketing Agencies in India 2026 &mdash; Honest Rankings, Pricing &amp; How to Choose</a></h3>
+                            <a href="../resources/Best_Digital_Marketing_Agencies_in_India_2026_Honest_Rankings.php" class="button-regular">Continue Reading <i class="fas fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
                             <div class="meta">
                                 <ul>
                                     <li><a href="#">Prashant Chaudhari</a></li>

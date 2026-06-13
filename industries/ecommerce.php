@@ -159,6 +159,14 @@
         </div>
     </section>
 
+    <!-- OTHER INDUSTRIES -->
+    <section class="md-sec">
+        <div class="container">
+            <?php itdgl_render_section_head('Other industries we work in', 'Specialised <span class="accent">across verticals</span>.'); ?>
+            <?php itdgl_render_industry_chips('ecommerce'); ?>
+        </div>
+    </section>
+
     <?php itdgl_render_final_cta([
         'head'    => 'Scoping a D2C build or growth play?',
         'sub'     => 'Free 30-min call. We&rsquo;ll talk through your category, current funnel, and what we&rsquo;d build &mdash; then send a fixed-scope quote within 48 hours. No sales pitch.',

@@ -2,637 +2,25 @@
 <html lang="en">
 
 <head>
-    <!-- Google Tag Manager -->
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-M4XDB2GZ');
-    </script>
-    <!-- End Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-M4XDB2GZ');</script>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <base href="../">
-    <meta name="description" content="Boost your startup's growth with end-to-end solutions, including business strategy, operations support, funding guidance, and scalable growth strategies.">
-    <title>Startup IT Solutions | MVP and App Development | ITD GrowthLabs</title>
-    <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
-    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
-    <link href="assets/css/font-awesome.min.css" rel="stylesheet">
-    <link href="assets/css/themify-icons.css" rel="stylesheet">
-    <link href="assets/css/elegant-icons.css" rel="stylesheet">
-    <link href="assets/css/flaticon-set.css" rel="stylesheet">
-    <link href="assets/css/magnific-popup.css" rel="stylesheet">
-    <link href="assets/css/swiper-bundle.min.css" rel="stylesheet">
-    <link href="assets/css/animate.css" rel="stylesheet">
-    <link href="assets/css/validnavs.css" rel="stylesheet">
-    <link href="assets/css/helper.css" rel="stylesheet">
-    <link href="assets/css/unit-test.css" rel="stylesheet">
-    <link href="assets/css/style.css" rel="stylesheet">
-    <script src="https://www.google.com/recaptcha/api.js?render=6Lcm0hosAAAAAPFeuKRDfgGF4Ajr9bcCCbD7LR-3"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17674012925"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-        gtag('config', 'AW-17674012925');
-    </script>
-    <script>
-        gtag('config', 'AW-17674012925/L6w9CJf84rIbEP2R0OtB', {
-            'phone_conversion_number': '84509 78544'
-        });
-    </script>
-    <style>
-        #showMessage,
-        #showMessage_wdd {
-            display: none;
-            margin-top: 15px;
-            font-weight: bold;
-            transition: opacity 0.5s;
-        }
-
-        .success_msg {
-            color: green;
-        }
-
-        .error_msg {
-            color: red;
-        }
-
-        .services-style-one {
-            height: 100%;
-        }
-
-        .services-style-one i {
-            color: var(--color-primary);
-        }
-
-        .banner-style-three h2 strong::after {
-            display: none;
-        }
-
-        .icon_circle {
-            width: 80px;
-            height: 80px;
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-            cursor: pointer;
-        }
-
-        .icon_circle:hover {
-            transform: scale(1.1);
-            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
-        }
-
-        .icon_circle_block p {
-            font-size: 14px;
-            font-weight: 600;
-            text-transform: uppercase;
-            color: #000;
-        }
-    </style>
-    <style>
-        .form-with-profile {
-            background: #fff;
-            border-radius: 15px;
-            overflow: hidden;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
-        }
-
-        .form-header-orange {
-            background: var(--color-primary);
-            position: relative;
-            text-align: center;
-        }
-
-        .profile-images-container {
-            position: relative;
-            margin-bottom: 10px;
-            padding-top: 5px;
-        }
-
-        .profile-main {
-            width: 60%;
-            height: auto;
-            display: block;
-            object-fit: cover;
-            margin: auto;
-        }
-
-        .fun-fact {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-        }
-
-        .fun-fact .counter {
-            justify-content: center;
-            width: 100%;
-        }
-
-        .fun-fact h4 {
-            margin-top: 10px;
-            margin-bottom: 0;
-        }
-    </style>
-
-    <style>
-        .tech-categories .nav-pills {
-            display: flex;
-        }
-
-        .tech-categories .nav-pills .nav-link {
-            background: #f5f5f5;
-            color: var(--color-heading);
-            border-radius: 30px;
-            padding: 10px 20px;
-            font-weight: 500;
-            transition: all .3s;
-            border: none
-        }
-
-        .tech-categories .nav-pills .nav-link:hover {
-            background: #e0e0e0;
-            color: #fff;
-        }
-
-        .tech-categories .nav-pills .nav-link.active {
-            background: var(--color-heading);
-            color: #fff
-        }
-
-        .tech-stack-item {
-            text-align: center;
-            padding: 30px 15px;
-            background: #fff;
-            border-radius: 12px;
-            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
-            transition: all .3s;
-            height: 100%
-        }
-
-        .tech-stack-item:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1)
-        }
-
-        .tech-stack-item h5 {
-            margin-top: 15px;
-            font-size: 16px;
-            font-weight: 600;
-            color: var(--color-heading)
-        }
-
-        @media (max-width:767px) {
-            .tech-categories .nav-pills {
-                flex-direction: column;
-                gap: 10px
-            }
-
-            .tech-categories .nav-pills .nav-link {
-                width: 100%
-            }
-        }
-    </style>
-
-    <style>
-        .why-choose-card {
-            background: #fff;
-            border-radius: 12px;
-            padding: 35px 25px;
-            text-align: center;
-            transition: all 0.3s ease;
-            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
-            height: 100%;
-        }
-
-        .why-choose-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
-        }
-
-        .why-choose-card .icon-wrapper {
-            width: 70px;
-            height: 70px;
-            margin: 0 auto 20px;
-            background: var(--color-primary);
-            border-radius: 12px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            transition: all 0.3s ease;
-        }
-
-        .why-choose-card:hover .icon-wrapper {
-            background: var(--color-primary);
-            opacity: 0.9;
-        }
-
-        .why-choose-card .icon-wrapper i {
-            font-size: 32px;
-            color: #fff;
-        }
-
-        .why-choose-card h4 {
-            font-size: 20px;
-            font-weight: 600;
-            margin-bottom: 12px;
-            color: var(--color-heading);
-        }
-
-        .why-choose-card p {
-            color: var(--color-paragraph);
-            line-height: 1.7;
-            margin: 0;
-            font-size: 15px;
-        }
-
-        @media (max-width: 768px) {
-            .why-choose-card {
-                padding: 30px 20px;
-            }
-
-            .why-choose-card .icon-wrapper {
-                width: 60px;
-                height: 60px;
-            }
-
-            .why-choose-card .icon-wrapper i {
-                font-size: 28px;
-            }
-
-            .why-choose-card h4 {
-                font-size: 18px;
-            }
-        }
-    </style>
-    <style>
-        .process-track {
-            padding: 40px 0
-        }
-
-        .process-row {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            flex-wrap: nowrap;
-            gap: 15px
-        }
-
-        .process-hexagon {
-            position: relative;
-            width: 180px;
-            height: 200px;
-            flex-shrink: 0
-        }
-
-        .process-hexagon::before {
-            content: '';
-            position: absolute;
-            width: 100%;
-            height: 100%;
-            background: var(--color-primary);
-            clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
-            transition: all .3s
-        }
-
-        .process-hexagon:hover::before {
-            background: #000;
-            transform: scale(1.05)
-        }
-
-        .hexagon-content {
-            position: relative;
-            z-index: 1;
-            height: 100%;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            padding: 20px 15px;
-            text-align: center
-        }
-
-        .step-number {
-            position: absolute;
-            top: -8px;
-            right: 10px;
-            width: 32px;
-            height: 32px;
-            background: #fff;
-            color: var(--color-primary);
-            border: 2px solid var(--color-primary);
-            border-radius: 50%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-weight: 700;
-            font-size: 13px;
-            z-index: 2
-        }
-
-        .process-hexagon:hover .step-number {
-            background: var(--color-primary);
-            color: #fff
-        }
-
-        .hexagon-content i {
-            font-size: 36px;
-            color: #fff;
-            margin-bottom: 12px;
-            transition: all .3s
-        }
-
-        .hexagon-content h5 {
-            font-size: 18px;
-            font-weight: 700;
-            margin-bottom: 8px;
-            color: #fff;
-            text-transform: uppercase;
-            transition: all .3s
-        }
-
-        .hexagon-content p {
-            font-size: 13px;
-            color: #fff;
-            margin: 0;
-            line-height: 1.5;
-            transition: all .3s
-        }
-
-        .process-hexagon:hover .hexagon-content i,
-        .process-hexagon:hover .hexagon-content h5 {
-            color: var(--color-primary)
-        }
-
-        .process-hexagon:hover .hexagon-content p {
-            color: #fff;
-        }
-
-        .process-connector {
-            text-align: center;
-            color: var(--color-primary);
-            font-size: 24px;
-            opacity: .6;
-            flex-shrink: 0;
-            margin: 0 5px
-        }
-
-        @media (max-width:1199px) {
-            .process-hexagon {
-                width: 160px;
-                height: 180px
-            }
-
-            .hexagon-content i {
-                font-size: 32px
-            }
-
-            .hexagon-content h5 {
-                font-size: 16px
-            }
-
-            .hexagon-content p {
-                font-size: 12px
-            }
-        }
-
-        @media (max-width:991px) {
-            .process-track {
-                overflow-x: auto;
-                padding: 30px 0
-            }
-
-            .process-row {
-                min-width: 1100px;
-                justify-content: flex-start
-            }
-
-            .process-hexagon {
-                width: 150px;
-                height: 170px
-            }
-
-            .hexagon-content {
-                padding: 15px 10px
-            }
-
-            .hexagon-content i {
-                font-size: 28px;
-                margin-bottom: 10px
-            }
-
-            .hexagon-content h5 {
-                font-size: 15px
-            }
-
-            .hexagon-content p {
-                font-size: 11px
-            }
-
-            .process-connector {
-                font-size: 20px
-            }
-        }
-
-        @media (max-width:767px) {
-            .process-row {
-                min-width: 1000px
-            }
-
-            .process-hexagon {
-                width: 140px;
-                height: 160px
-            }
-
-            .hexagon-content i {
-                font-size: 24px;
-                margin-bottom: 8px
-            }
-
-            .hexagon-content h5 {
-                font-size: 14px
-            }
-
-            .hexagon-content p {
-                font-size: 10px
-            }
-
-            .process-connector {
-                font-size: 18px
-            }
-        }
-    </style>
-
-    <style>
-        .industry-carousel-wrapper {
-            position: relative;
-        }
-
-        .industry-carousel {
-            overflow: hidden;
-        }
-
-        .industry-card {
-            position: relative;
-            height: 350px;
-            border-radius: 15px;
-            overflow: hidden;
-            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
-            transition: all 0.3s ease;
-        }
-
-        .industry-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
-        }
-
-        .industry-bg {
-            position: absolute;
-            width: 100%;
-            height: 100%;
-            opacity: 0.7;
-            filter: grayscale(30%);
-        }
-
-        .industry-overlay {
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            padding: 25px;
-            z-index: 2;
-            display: flex;
-            align-items: center;
-            gap: 12px;
-        }
-
-        .industry-overlay i {
-            font-size: 32px;
-            color: #fff;
-            filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
-        }
-
-        .industry-overlay span {
-            font-size: 20px;
-            font-weight: 600;
-            color: #fff;
-            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
-        }
-
-        .industry-nav {
-            display: flex;
-            justify-content: center;
-            gap: 15px;
-            margin-top: 30px;
-        }
-
-        .industry-nav-prev,
-        .industry-nav-next {
-            width: 50px;
-            height: 50px;
-            background: #fff;
-            border: 2px solid var(--color-primary);
-            border-radius: 50%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            cursor: pointer;
-            transition: all 0.3s ease;
-            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-        }
-
-        .industry-nav-prev:hover,
-        .industry-nav-next:hover {
-            background: var(--color-primary);
-            border-color: var(--color-primary);
-            transform: scale(1.1);
-        }
-
-        .industry-nav-prev i,
-        .industry-nav-next i {
-            font-size: 18px;
-            color: #333;
-        }
-
-        .industry-nav-prev:hover i,
-        .industry-nav-next:hover i {
-            color: #fff;
-        }
-
-        @media (max-width: 991px) {
-            .industry-card {
-                height: 300px;
-            }
-
-            .industry-overlay {
-                padding: 20px;
-            }
-
-            .industry-overlay i {
-                font-size: 28px;
-            }
-
-            .industry-overlay span {
-                font-size: 18px;
-            }
-        }
-
-        @media (max-width: 767px) {
-            .industry-card {
-                height: 250px;
-            }
-
-            .industry-overlay {
-                padding: 15px;
-                gap: 10px;
-            }
-
-            .industry-overlay i {
-                font-size: 24px;
-            }
-
-            .industry-overlay span {
-                font-size: 16px;
-            }
-
-            .industry-nav-prev,
-            .industry-nav-next {
-                width: 45px;
-                height: 45px;
-            }
-        }
-    </style>
+    <meta name="description" content="Engineering and growth partner for startups. MVPs in weeks, conversion-engineered websites, Ready-to-Buy lead gen, founder-friendly engagement. From idea to PMF to scale.">
+    <title>Software &amp; Marketing for Startups &mdash; MVP, Build-Measure-Learn, Growth | ITD GrowthLabs</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/industries/startups.php" />
-    <meta property="og:title" content="Startup Digital Solutions | MVP, Apps & Growth Marketing | ITD GrowthLabs" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Startup IT Solutions | MVP and App Development | ITD GrowthLabs" />
-    <meta name="twitter:description" content="Technology partner for startups offering MVP development, mobile apps, websites, SEO and digital marketing. Launch and scale with ITD GrowthLabs." />
-    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
-    <meta property="og:description" content="Digital solutions for startups including MVP development, app development, growth marketing, and investor-ready websites to scale your startup." />
+    <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
+
+    <meta property="og:title" content="Software &amp; Marketing for Startups &mdash; MVP, Build-Measure-Learn, Growth | ITD GrowthLabs" />
+    <meta property="og:description" content="Engineering and growth partner for startups. MVPs in weeks, conversion-engineered websites, Ready-to-Buy lead gen, founder-friendly engagement. From idea to PMF to scale." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://itdgrowthlabs.com/industries/startups.php" />
     <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
-    <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"Service","name":"Startup Digital Solutions","description":"MVP development, app development, and growth marketing for startups and emerging businesses.","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Startup Solutions"}
-    </script>
-    <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What startup services does ITD GrowthLabs offer?","acceptedAnswer":{"@type":"Answer","text":"We offer MVP development, mobile app development, web application development, investor pitch websites, growth marketing, SEO, social media marketing, and branding services. We work with early-stage startups through Series A+ companies across all industries."}},{"@type":"Question","name":"How quickly can you build a startup MVP?","acceptedAnswer":{"@type":"Answer","text":"We can build a functional MVP in 4-8 weeks depending on complexity. Our agile process focuses on core features first, allowing you to validate your idea, gather user feedback, and attract investors quickly while keeping development costs manageable."}},{"@type":"Question","name":"Do you offer equity-based partnerships with startups?","acceptedAnswer":{"@type":"Answer","text":"We primarily work on a project or retainer basis, but we're open to discussing equity-based partnerships for promising startups with strong founding teams and validated market opportunities. Contact us to discuss your specific situation."}}]}
-    </script>
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Software &amp; Marketing for Startups &mdash; MVP, Build-Measure-Learn, Growth | ITD GrowthLabs" />
+    <meta name="twitter:description" content="Engineering and growth partner for startups. MVPs in weeks, conversion-engineered websites, Ready-to-Buy lead gen, founder-friendly engagement. From idea to PMF to scale." />
+
     <link rel="alternate" hreflang="en-in" href="https://itdgrowthlabs.com/industries/startups.php" />
     <link rel="alternate" hreflang="en-us" href="https://itdgrowthlabs.com/industries/startups.php" />
     <link rel="alternate" hreflang="en-gb" href="https://itdgrowthlabs.com/industries/startups.php" />
@@ -640,1217 +28,191 @@
     <link rel="alternate" hreflang="en-ae" href="https://itdgrowthlabs.com/industries/startups.php" />
     <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/industries/startups.php" />
 
-    <script type="application/ld+json">
-    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Industries", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 3, "name": "Startup IT Solutions"}]}
-    </script>
+    <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
+    <link href="../assets/css/themify-icons.css" rel="stylesheet">
+    <link href="../assets/css/elegant-icons.css" rel="stylesheet">
+    <link href="../assets/css/flaticon-set.css" rel="stylesheet">
+    <link href="../assets/css/magnific-popup.css" rel="stylesheet">
+    <link href="../assets/css/swiper-bundle.min.css" rel="stylesheet">
+    <link href="../assets/css/animate.css" rel="stylesheet">
+    <link href="../assets/css/validnavs.css" rel="stylesheet">
+    <link href="../assets/css/helper.css" rel="stylesheet">
+    <link href="../assets/css/unit-test.css" rel="stylesheet">
+    <link href="../assets/css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17674012925"></script>
+    <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','AW-17674012925');</script>
+
+    <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Service", "name": "Startups", "serviceType": "Industry-Specific Software Development", "description": "Engineering and growth partner for startups. MVPs in weeks, conversion-engineered websites, Ready-to-Buy lead gen, founder-friendly engagement. From idea to PMF to scale.", "provider": {"@type": "Organization", "name": "ITD GrowthLabs", "url": "https://itdgrowthlabs.com", "logo": "https://itdgrowthlabs.com/assets/img/logo.jpg"}, "areaServed": ["India", "United States", "United Kingdom", "United Arab Emirates", "Australia", "Africa"], "offers": {"@type": "Offer", "availability": "https://schema.org/InStock", "url": "https://itdgrowthlabs.com/industries/startups.php"}}</script>
+    <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Industries", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 3, "name": "Startups", "item": "https://itdgrowthlabs.com/industries/startups.php"}]}</script>
 </head>
 
 <body>
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4XDB2GZ"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
-   
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4XDB2GZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
     <?php include(__DIR__ . "/../includes/header.php"); ?>
+    <?php require_once(__DIR__ . "/../includes/ui_modern.php"); ?>
 
-    <!-- Start Banner
-    ============================================= -->
-    <div class="banner-style-three-area overflow-hidden pt-100 pb-100" style="background-image: url(assets/img/shape/banner-3.jpg);">
+    <?php itdgl_render_modern_hero([
+        'crumbs'  => [['label'=>'Home','url'=>'/'], ['label'=>'Industries','url'=>'#'], ['label'=>'Startups']],
+        'eyebrow' => '<span class="pulse"></span>Founder-friendly engagement',
+        'pulse'   => true,
+        'title'   => 'The build &amp; growth partner for <span class="accent">startups</span> from idea to scale.',
+        'sub'     => 'MVP in weeks, conversion-engineered websites, Ready-to-Buy lead-gen, founder-friendly engagement model. We&rsquo;ve shipped product for 50+ Indian + global startups across pre-seed to Series B.',
+        'primary' => ['url'=>'https://calendly.com/itdgrowthlabs-info/30min', 'label'=>'Book Free Startup Call', 'icon'=>'fas fa-calendar-check', 'js_book_call'=>true, 'source'=>'industry_startups_hero'],
+        'secondary'=>['url'=>'/resources/Custom_SaaS_Development_Cost_India_2026_Multi_Tenant_Stack_Pricing.php', 'label'=>'See SaaS Cost Guide', 'icon'=>'fas fa-table'],
+        'pills'   => [
+            ['icon'=>'fas fa-bolt', 'text'=>'MVP in 6&ndash;10 weeks'],
+            ['icon'=>'fas fa-handshake', 'text'=>'Founder-friendly engagement'],
+            ['icon'=>'fas fa-globe', 'text'=>'India + global founders served'],
+        ],
+        'stats'   => [
+            ['num'=>'50+', 'lbl'=>'Startups served'],
+            ['num'=>'6&ndash;10 wk', 'lbl'=>'MVP timeline'],
+            ['num'=>'100%', 'lbl'=>'Code ownership'],
+            ['num'=>'48 hr', 'lbl'=>'Quote turnaround'],
+        ],
+    ]); ?>
+
+    <!-- PAIN POINTS -->
+    <section class="md-sec">
         <div class="container">
-            <div class="content">
-                <div class="row align-center">
-                    <div class="banner-style-three col-lg-7">
-                        <div class="information">
-                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
-                                <span style="color: var(--color-primary);">Startup</span> Website, App &amp; Digital Marketing Solutions
-                            </h1>
-                            <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
-                                Launch your MVP faster, build a strong online presence, and acquire your first customers. ITD GrowthLabs helps startups and early-stage companies with affordable website development, mobile apps, branding, and growth marketing campaigns.
-                            </p>
-                            <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Get a Free Startup Consultation</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-tact-stye-one col-lg-5">
-                        <div class="contact-form-style-one form-with-profile wow fadeInUp p-0" data-wow-delay="500ms" data-wow-duration="400ms">
-                            <div class="form-header-orange">
-                                <div class="profile-images-container">
-                                    <img src="assets/img/form-profile-image.png" alt="Expert" class="profile-main" oncontextmenu="return false;" draggable="false" ondragstart="return false;">
-                                </div>
-                            </div>
-                            <div class="form-content p-3">
-                                <div class="information">
-                                    <h4 class="wow fadeInUp mb-30 text-center" data-wow-delay="500ms" data-wow-duration="400ms" style="visibility: visible; animation-duration: 400ms; animation-delay: 500ms; animation-name: fadeInUp;">
-                                        <b>Get a Free Consultation</b>
-                                    </h4>
-                                </div>
-                                <form id="contactMail">
-                                    <div class="row g-2">
-                                        <div class="col-lg-6 col-md-6">
-                                            <div class="form-group">
-                                                <input type="hidden" name="username_hp">
-                                                <input type="text" name="name" class="form-control" placeholder="Full Name *" required="">
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-6 col-md-6">
-                                            <div class="form-group">
-                                                <input type="email" name="email" class="form-control" placeholder="Email ID *" required="">
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-12">
-                                            <div class="form-group">
-                                                <input type="text" name="mobile" class="form-control" placeholder="Mobile Number *" required="">
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-12">
-                                            <div class="form-group">
-                                                <select name="service" class="form-control" required="">
-                                                    <option value="" disabled="" selected="">Service Interested In *</option>
-                                                    <option value="Technology Solutions (Website, App, AI, Database)">Technology Solutions (Website, App, AI, Database)</option>
-                                                    <option value="Digital Marketing (Social Media, Branding)">Digital Marketing (Social Media, Branding)</option>
-                                                    <option value="Lead Generation – Paid Ads (Meta, Google)">Lead Generation – Paid Ads (Meta, Google)</option>
-                                                    <option value="Content &amp; Creative Services (Writing, Video, Media)">Content &amp; Creative Services (Writing, Video, Media)</option>
-                                                </select>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-12">
-                                            <div class="form-group comments">
-                                                <textarea name="message" class="form-control" placeholder="Tell Us About Your Requirement *" required=""></textarea>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response">
-                                    <div class="row">
-                                        <div class="col-lg-12">
-                                            <button type="submit" class="btn btn-primary w-100">
-                                                <i class="fa fa-paper-plane"></i> Submit Now
-                                            </button>
-                                        </div>
-                                    </div>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <?php itdgl_render_section_head(
+                'Where we&rsquo;ve helped',
+                'Six problems we solve <span class="accent">on repeat</span> in Startups.',
+                'Startups need a partner who ships fast, tells you the truth, and doesn&rsquo;t sell you scale you don&rsquo;t need yet. We say no to bad-fit work.'
+            ); ?>
+            <?php itdgl_render_outcome_grid([
+                ['icon'=>'fas fa-rocket', 'title'=>'MVP in weeks, not quarters', 'desc'=>'6–10 weeks for a launchable MVP (mobile, web, or SaaS). Real product, real users, not a prototype.'],
+                ['icon'=>'fas fa-bullseye', 'title'=>'Conversion-engineered websites', 'desc'=>'Pre-launch / launch-week website built for waitlist, beta sign-ups, fundraise outreach. Live in 2–4 weeks.'],
+                ['icon'=>'fas fa-magnifying-glass-chart', 'title'=>'Ready-to-Buy lead gen', 'desc'=>'For B2B startups past PMF — AI-driven, multi-platform, fully managed lead-gen system for the first 100 paying customers.'],
+                ['icon'=>'fas fa-server', 'title'=>'SaaS that scales', 'desc'=>'For startups building SaaS — multi-tenant from day 1, the architecture that handles 10x without rewrite.'],
+                ['icon'=>'fas fa-handshake', 'title'=>'Founder-friendly engagement', 'desc'=>'Fixed-quote MVPs, milestone-based payment, 100% source-code ownership. No T&amp;M traps. No vendor lock-in.'],
+                ['icon'=>'fas fa-comments', 'title'=>'Honest no when right', 'desc'=>'If no-code is the right call, we&rsquo;ll say so. If you should hire in-house instead, we&rsquo;ll say so. We say no to bad-fit work.'],
+            ]); ?>
         </div>
-    </div>
-    <!-- End Banner -->
+    </section>
 
-        <!-- Trust Badge Bar -->
-    <div style="background: #f8f9fa; border-bottom: 1px solid #e0e0e0; padding: 20px 0;">
+    <!-- SERVICES + PRODUCTS -->
+    <section class="md-sec alt">
         <div class="container">
-            <div class="row text-center">
-                <div class="col-6 col-md-3 mb-2 mb-md-0">
-                    <div style="font-size: 28px; font-weight: 800; color: var(--color-primary);">300+</div>
-                    <div style="font-size: 13px; color: #5f6368; font-weight: 500;">Projects Delivered</div>
-                </div>
-                <div class="col-6 col-md-3 mb-2 mb-md-0">
-                    <div style="font-size: 28px; font-weight: 800; color: var(--color-primary);">10+</div>
-                    <div style="font-size: 13px; color: #5f6368; font-weight: 500;">Years of Experience</div>
-                </div>
-                <div class="col-6 col-md-3">
-                    <div style="font-size: 28px; font-weight: 800; color: var(--color-primary);">5</div>
-                    <div style="font-size: 13px; color: #5f6368; font-weight: 500;">Countries Served</div>
-                </div>
-                <div class="col-6 col-md-3">
-                    <div style="font-size: 28px; font-weight: 800; color: var(--color-primary);">97%</div>
-                    <div style="font-size: 13px; color: #5f6368; font-weight: 500;">Client Retention</div>
-                </div>
+            <?php itdgl_render_section_head(
+                'What we build for Startups',
+                '<span class="accent">Apps + services</span> built for this vertical.'
+            ); ?>
+            <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px;">
+                <a href="/services/saas_developement.php" style="background:#fff;border:1px solid var(--md-border);border-radius:14px;padding:24px;text-decoration:none;color:var(--md-heading);transition:transform .25s, box-shadow .25s, border-color .25s;display:block;height:100%;" onmouseover="this.style.transform='translateY(-4px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow-h)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
+                    <span style="display:inline-block;font-size:10px;letter-spacing:1.2px;text-transform:uppercase;color:var(--md-orange);font-weight:800;background:rgba(255,107,0,0.10);padding:3px 9px;border-radius:12px;margin-bottom:12px;">Service</span>
+                    <div style="width:48px;height:48px;border-radius:12px;background:linear-gradient(135deg,#fff3e6,#ffe2c4);color:var(--md-orange-dark);display:flex;align-items:center;justify-content:center;font-size:22px;margin-bottom:14px;"><i class="fas fa-server"></i></div>
+                    <h4 style="font-size:17px;font-weight:700;margin:0 0 8px;color:var(--md-heading);line-height:1.3;">SaaS MVP</h4>
+                    <p style="font-size:14px;line-height:1.6;color:var(--md-body);margin:0 0 12px;">Multi-tenant SaaS MVP in 3–4 months. ₹14L–₹28L band. 100% code ownership.</p>
+                    <span style="font-size:13.5px;color:var(--md-primary);font-weight:700;">Learn more &rarr;</span>
+                </a>
+                <a href="/services/App-Development.php" style="background:#fff;border:1px solid var(--md-border);border-radius:14px;padding:24px;text-decoration:none;color:var(--md-heading);transition:transform .25s, box-shadow .25s, border-color .25s;display:block;height:100%;" onmouseover="this.style.transform='translateY(-4px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow-h)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
+                    <span style="display:inline-block;font-size:10px;letter-spacing:1.2px;text-transform:uppercase;color:var(--md-orange);font-weight:800;background:rgba(255,107,0,0.10);padding:3px 9px;border-radius:12px;margin-bottom:12px;">Service</span>
+                    <div style="width:48px;height:48px;border-radius:12px;background:linear-gradient(135deg,#fff3e6,#ffe2c4);color:var(--md-orange-dark);display:flex;align-items:center;justify-content:center;font-size:22px;margin-bottom:14px;"><i class="fas fa-mobile-screen-button"></i></div>
+                    <h4 style="font-size:17px;font-weight:700;margin:0 0 8px;color:var(--md-heading);line-height:1.3;">Mobile App MVP</h4>
+                    <p style="font-size:14px;line-height:1.6;color:var(--md-body);margin:0 0 12px;">iOS + Android MVP in 6–10 weeks (single platform) or 3–4 months (both).</p>
+                    <span style="font-size:13.5px;color:var(--md-primary);font-weight:700;">Learn more &rarr;</span>
+                </a>
+                <a href="/services/web_app_development.php" style="background:#fff;border:1px solid var(--md-border);border-radius:14px;padding:24px;text-decoration:none;color:var(--md-heading);transition:transform .25s, box-shadow .25s, border-color .25s;display:block;height:100%;" onmouseover="this.style.transform='translateY(-4px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow-h)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
+                    <span style="display:inline-block;font-size:10px;letter-spacing:1.2px;text-transform:uppercase;color:var(--md-orange);font-weight:800;background:rgba(255,107,0,0.10);padding:3px 9px;border-radius:12px;margin-bottom:12px;">Service</span>
+                    <div style="width:48px;height:48px;border-radius:12px;background:linear-gradient(135deg,#fff3e6,#ffe2c4);color:var(--md-orange-dark);display:flex;align-items:center;justify-content:center;font-size:22px;margin-bottom:14px;"><i class="fas fa-window-restore"></i></div>
+                    <h4 style="font-size:17px;font-weight:700;margin:0 0 8px;color:var(--md-heading);line-height:1.3;">Web App MVP</h4>
+                    <p style="font-size:14px;line-height:1.6;color:var(--md-body);margin:0 0 12px;">Launchable web app in 10–16 weeks. Auth, billing, core workflow, admin.</p>
+                    <span style="font-size:13.5px;color:var(--md-primary);font-weight:700;">Learn more &rarr;</span>
+                </a>
+                <a href="/services/website-development-company.php" style="background:#fff;border:1px solid var(--md-border);border-radius:14px;padding:24px;text-decoration:none;color:var(--md-heading);transition:transform .25s, box-shadow .25s, border-color .25s;display:block;height:100%;" onmouseover="this.style.transform='translateY(-4px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow-h)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
+                    <span style="display:inline-block;font-size:10px;letter-spacing:1.2px;text-transform:uppercase;color:var(--md-orange);font-weight:800;background:rgba(255,107,0,0.10);padding:3px 9px;border-radius:12px;margin-bottom:12px;">Service</span>
+                    <div style="width:48px;height:48px;border-radius:12px;background:linear-gradient(135deg,#fff3e6,#ffe2c4);color:var(--md-orange-dark);display:flex;align-items:center;justify-content:center;font-size:22px;margin-bottom:14px;"><i class="fas fa-globe"></i></div>
+                    <h4 style="font-size:17px;font-weight:700;margin:0 0 8px;color:var(--md-heading);line-height:1.3;">Pre-Launch Websites</h4>
+                    <p style="font-size:14px;line-height:1.6;color:var(--md-body);margin:0 0 12px;">Conversion-engineered pre-launch site in 2–4 weeks for waitlist + fundraise.</p>
+                    <span style="font-size:13.5px;color:var(--md-primary);font-weight:700;">Learn more &rarr;</span>
+                </a>
+                <a href="/services/ready-to-buy-lead-generation.php" style="background:#fff;border:1px solid var(--md-border);border-radius:14px;padding:24px;text-decoration:none;color:var(--md-heading);transition:transform .25s, box-shadow .25s, border-color .25s;display:block;height:100%;" onmouseover="this.style.transform='translateY(-4px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow-h)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
+                    <span style="display:inline-block;font-size:10px;letter-spacing:1.2px;text-transform:uppercase;color:var(--md-orange);font-weight:800;background:rgba(255,107,0,0.10);padding:3px 9px;border-radius:12px;margin-bottom:12px;">Service</span>
+                    <div style="width:48px;height:48px;border-radius:12px;background:linear-gradient(135deg,#fff3e6,#ffe2c4);color:var(--md-orange-dark);display:flex;align-items:center;justify-content:center;font-size:22px;margin-bottom:14px;"><i class="fas fa-bullseye"></i></div>
+                    <h4 style="font-size:17px;font-weight:700;margin:0 0 8px;color:var(--md-heading);line-height:1.3;">Ready-to-Buy Lead Gen</h4>
+                    <p style="font-size:14px;line-height:1.6;color:var(--md-body);margin:0 0 12px;">AI-driven lead-gen for B2B startups past PMF. First 100 paying customers.</p>
+                    <span style="font-size:13.5px;color:var(--md-primary);font-weight:700;">Learn more &rarr;</span>
+                </a>
+                <a href="/resources/App_Development_Cost_USA_vs_India_2026_Honest_Comparison.php" style="background:#fff;border:1px solid var(--md-border);border-radius:14px;padding:24px;text-decoration:none;color:var(--md-heading);transition:transform .25s, box-shadow .25s, border-color .25s;display:block;height:100%;" onmouseover="this.style.transform='translateY(-4px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow-h)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
+                    <span style="display:inline-block;font-size:10px;letter-spacing:1.2px;text-transform:uppercase;color:var(--md-orange);font-weight:800;background:rgba(255,107,0,0.10);padding:3px 9px;border-radius:12px;margin-bottom:12px;">Cost guide</span>
+                    <div style="width:48px;height:48px;border-radius:12px;background:linear-gradient(135deg,#fff3e6,#ffe2c4);color:var(--md-orange-dark);display:flex;align-items:center;justify-content:center;font-size:22px;margin-bottom:14px;"><i class="fas fa-table"></i></div>
+                    <h4 style="font-size:17px;font-weight:700;margin:0 0 8px;color:var(--md-heading);line-height:1.3;">App Cost: USA vs India</h4>
+                    <p style="font-size:14px;line-height:1.6;color:var(--md-body);margin:0 0 12px;">For US/UK/AU founders weighing local agencies vs India studio. Honest math.</p>
+                    <span style="font-size:13.5px;color:var(--md-primary);font-weight:700;">Learn more &rarr;</span>
+                </a>
             </div>
         </div>
-    </div>
+    </section>
 
-    <!-- Quick Summary for AI Search Engines (AEO/GEO) -->
-    <div class="container mt-5 mb-3">
-        <div style="background: linear-gradient(135deg, #f8f9fa 0%, #e8f0fe 100%); border-left: 4px solid var(--color-primary); border-radius: 8px; padding: 25px 30px;">
-            <h3 style="font-size: 20px; font-weight: 700; color: var(--color-primary); margin-bottom: 12px;">Startup Digital Solutions</h3>
-            <p style="font-size: 15px; line-height: 1.8; color: #3c4043; margin: 0;">We've helped 50+ startups go from idea to launch with MVP development, investor-ready websites, and growth marketing that actually scales. We understand startup budgets and timelines, and we move fast without cutting corners. Seed-funded or Series A, we'll meet you where you are. <a href="../contact-us.php">Let's build your startup →</a></p>
-        </div>
-    </div>
-
-    <!-- Start Clients/Partners
-    ============================================= -->
-    <div class="brand-style-one bg-gradient pt-3 pb-3 pt-5 pb-5">
+    <!-- CASE STUDIES -->
+    <section class="md-sec">
         <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center">
-                        <h5 class="sub-title">Clients. Partners. Growth Stories.</h5>
-                        <h2 class="title text-white">We're Trusted By 300+ Businesses</h2>
-                    </div>
-                </div>
+            <?php itdgl_render_section_head('Related case studies', '<span class="accent">Real builds</span>, real metrics.'); ?>
+            <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:18px;">
+                <a href="/case-studies/d2c-ecommerce-mobile-app-fashion-brand.php" style="background:#fff;border:1px solid var(--md-border);border-radius:12px;padding:24px 26px;text-decoration:none;color:var(--md-heading);display:block;transition:transform .25s, border-color .25s, box-shadow .25s;" onmouseover="this.style.transform='translateY(-3px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
+                    <div style="display:inline-block;font-size:10px;letter-spacing:1.2px;text-transform:uppercase;color:var(--md-orange);font-weight:800;background:rgba(255,107,0,0.10);padding:3px 9px;border-radius:12px;margin-bottom:10px;"><i class="fas fa-rocket" style="margin-right:5px;"></i>Startups</div>
+                    <h4 style="font-size:17px;font-weight:700;color:var(--md-heading);margin:0 0 10px;line-height:1.35;">D2C Native App for Fashion Startup</h4>
+                    <p style="font-size:13.5px;color:var(--md-muted);margin:0 0 14px;">Loyalty · Push retention · Branded experience</p>
+                    <span style="font-size:13.5px;color:var(--md-primary);font-weight:700;">Read the case study &rarr;</span>
+                </a>
+                <a href="/case-studies/multi-vendor-marketplace-app-food-grocery.php" style="background:#fff;border:1px solid var(--md-border);border-radius:12px;padding:24px 26px;text-decoration:none;color:var(--md-heading);display:block;transition:transform .25s, border-color .25s, box-shadow .25s;" onmouseover="this.style.transform='translateY(-3px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
+                    <div style="display:inline-block;font-size:10px;letter-spacing:1.2px;text-transform:uppercase;color:var(--md-orange);font-weight:800;background:rgba(255,107,0,0.10);padding:3px 9px;border-radius:12px;margin-bottom:10px;"><i class="fas fa-rocket" style="margin-right:5px;"></i>Startups</div>
+                    <h4 style="font-size:17px;font-weight:700;color:var(--md-heading);margin:0 0 10px;line-height:1.35;">Marketplace Launch for Startup</h4>
+                    <p style="font-size:13.5px;color:var(--md-muted);margin:0 0 14px;">4-app suite · 14 weeks · 100% code ownership</p>
+                    <span style="font-size:13.5px;color:var(--md-primary);font-weight:700;">Read the case study &rarr;</span>
+                </a>
+                <a href="/case-studies/smart-logistics-saas-platform.php" style="background:#fff;border:1px solid var(--md-border);border-radius:12px;padding:24px 26px;text-decoration:none;color:var(--md-heading);display:block;transition:transform .25s, border-color .25s, box-shadow .25s;" onmouseover="this.style.transform='translateY(-3px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
+                    <div style="display:inline-block;font-size:10px;letter-spacing:1.2px;text-transform:uppercase;color:var(--md-orange);font-weight:800;background:rgba(255,107,0,0.10);padding:3px 9px;border-radius:12px;margin-bottom:10px;"><i class="fas fa-rocket" style="margin-right:5px;"></i>Startups</div>
+                    <h4 style="font-size:17px;font-weight:700;color:var(--md-heading);margin:0 0 10px;line-height:1.35;">Multi-Carrier Logistics SaaS</h4>
+                    <p style="font-size:13.5px;color:var(--md-muted);margin:0 0 14px;">50K+ shipments/mo · Multi-tenant · Series A</p>
+                    <span style="font-size:13.5px;color:var(--md-primary);font-weight:700;">Read the case study &rarr;</span>
+                </a>
+                <a href="/case-studies/nbfc-loan-origination-dashboard-fintech.php" style="background:#fff;border:1px solid var(--md-border);border-radius:12px;padding:24px 26px;text-decoration:none;color:var(--md-heading);display:block;transition:transform .25s, border-color .25s, box-shadow .25s;" onmouseover="this.style.transform='translateY(-3px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
+                    <div style="display:inline-block;font-size:10px;letter-spacing:1.2px;text-transform:uppercase;color:var(--md-orange);font-weight:800;background:rgba(255,107,0,0.10);padding:3px 9px;border-radius:12px;margin-bottom:10px;"><i class="fas fa-rocket" style="margin-right:5px;"></i>Startups</div>
+                    <h4 style="font-size:17px;font-weight:700;color:var(--md-heading);margin:0 0 10px;line-height:1.35;">FinTech Lending Startup MVP</h4>
+                    <p style="font-size:13.5px;color:var(--md-muted);margin:0 0 14px;">Borrower app · LMS · Live in 5 months</p>
+                    <span style="font-size:13.5px;color:var(--md-primary);font-weight:700;">Read the case study &rarr;</span>
+                </a>
             </div>
         </div>
-        <div class="container-fill">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="brand-carousel">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <img src="assets/img/brand/we3scs.png" alt="We3SCS Client Logo">
-                            </div>
-                            <div class="swiper-slide">
-                                <img src="assets/img/brand/caper.png" alt="Caper Club Client Logo">
-                            </div>
-                            <div class="swiper-slide">
-                                <img src="assets/img/brand/pannest.png" alt="Pannest Client Logo">
-                            </div>
-                            <div class="swiper-slide">
-                                <img src="assets/img/brand/hilift.png" alt="Hilift Client Logo">
-                            </div>
-                            <div class="swiper-slide">
-                                <img src="assets/img/brand/daakiyawala.png" alt="Daakiyawala Client Logo">
-                            </div>
-                            <div class="swiper-slide">
-                                <img src="assets/img/brand/cariesco.png" alt="Cariesco Client Logo">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Clients/Partners -->
+    </section>
 
-    <!-- Start Track Record
-    ============================================= -->
-    <div class="default-padding">
+    <!-- FAQ -->
+    <section class="md-sec alt-warm">
         <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center">
-                        <h5 class="sub-title">Our Track Record</h5>
-                        <h2 class="title">Creating Measurable Impact, Every Single Time</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
-                    <div class="fun-fact text-center">
-                        <div class="counter" style="color:var(--color-primary)">
-                            <span class="timer" data-to="10" data-speed="2000">10</span><span>+</span>
-                        </div>
-                        <h4>Years of Experience</h4>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
-                    <div class="fun-fact text-center">
-                        <div class="counter" style="color:var(--color-primary)">
-                            <span class="timer" data-to="100" data-speed="2000">100</span><span>+</span>
-                        </div>
-                        <h4>Website Experts</h4>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
-                    <div class="fun-fact text-center">
-                        <div class="counter" style="color:var(--color-primary)">
-                            <span class="timer" data-to="50" data-speed="2000">50</span><span>+</span>
-                        </div>
-                        <h4>Websites Delivered</h4>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
-                    <div class="fun-fact text-center">
-                        <div class="counter" style="color:var(--color-primary)">
-                            <span class="timer" data-to="97" data-speed="2000">97</span><span>%</span>
-                        </div>
-                        <h4>Client Retention</h4>
-                    </div>
-                </div>
-            </div>
+            <?php itdgl_render_section_head('FAQs', '<span class="accent">Common questions</span> we get from startups operators.'); ?>
+            <?php itdgl_render_faq_accordion([
+                'Can you build an MVP in 6 weeks?' => 'Yes — single-platform mobile MVP (6–10 weeks) or pre-launch website (2–4 weeks). For more ambitious MVPs (multi-tenant SaaS, marketplace, full B2B platform) we&rsquo;re talking 3–4 months minimum. We&rsquo;ll tell you which bucket your idea fits before quoting.',
+                'What&rsquo;s your engagement model for early-stage startups?' => 'Fixed-quote, milestone-based payment, 100% source-code ownership written into the SOW. No T&amp;M traps. No vendor lock-in. Discovery call → 48-hour quote → kick-off → 2-week sprints with weekly demos. You can leave anytime with the full codebase.',
+                'When should I use no-code instead of custom build?' => 'When you&rsquo;re validating a pre-PMF idea, under 5K users, under $200K ARR, and your workflow isn&rsquo;t the IP — Bubble, Webflow, Glide, Softr have gotten genuinely good in 2026. We&rsquo;ll tell you when no-code is the right call. The migration to custom in year 2 is well-understood and we do that work too.',
+                'Do you work with international startups (US, UK, AU)?' => 'Yes — about 40% of our startup engagements are US, UK, Australia or UAE-based founders. Time-zone aligned PM (EST / GMT / AEDT / GST). India studio rates for senior-led quality. See our /resources/App_Development_Cost_USA_vs_India_2026_Honest_Comparison.php for the cost math.',
+                'Can you help with the first 100 paying customers after launch?' => 'Yes — that&rsquo;s exactly what our Ready-to-Buy Lead Generation service is built for. AI-driven, multi-platform, fully managed lead-gen system for B2B startups past PMF. Quality over quantity. We deliver qualified buyers, not raw form fills.',
+                'Will you sign a strict NDA before discovery?' => 'Yes — we sign mutual NDAs at the start of every engagement involving any client information. Standard mNDA available; happy to sign yours if you have a specific template.',
+            ]); ?>
         </div>
-    </div>
-    <!-- End Track Record -->
+    </section>
 
-    <!-- Start Why Choose Us
-    ============================================= -->
-    <div class="default-padding bg-gray">
+    <!-- OTHER INDUSTRIES -->
+    <section class="md-sec">
         <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center">
-                        <h5 class="sub-title">WHY CHOOSE ITD GROWTHLABS FOR STARTUPS</h5>
-                        <h2 class="title">Trusted Startup Technology &amp; Growth Partner in India</h2>
-                        <p class="mt-30">
-                            ITD GrowthLabs helps startups launch faster with affordable MVP development, scalable websites, mobile apps, and data-driven growth marketing strategies.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="row" style="display: flex; flex-wrap: wrap;">
-                                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="why-choose-card">
-                        <div class="icon-wrapper">
-                            <i class="fas fa-rocket"></i>
-                        </div>
-                        <h4>MVP &amp; Product Development</h4>
-                        <p>Launch your minimum viable product fast with lean development, rapid prototyping, and iterative testing to validate your business idea.</p>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="why-choose-card">
-                        <div class="icon-wrapper">
-                            <i class="fas fa-laptop-code"></i>
-                        </div>
-                        <h4>Startup Websites &amp; Landing Pages</h4>
-                        <p>High-converting startup websites and landing pages with clear value propositions, investor sections, and lead capture for early users.</p>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="why-choose-card">
-                        <div class="icon-wrapper">
-                            <i class="fas fa-mobile-alt"></i>
-                        </div>
-                        <h4>Mobile App Development</h4>
-                        <p>Build your startup's mobile app — Android, iOS, or cross-platform — with a focus on user experience, scalability, and fast time-to-market.</p>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="why-choose-card">
-                        <div class="icon-wrapper">
-                            <i class="fas fa-bullhorn"></i>
-                        </div>
-                        <h4>Growth Marketing &amp; User Acquisition</h4>
-                        <p>Performance marketing campaigns on Google and Meta to acquire your first 1,000 users, optimize CAC, and build traction for fundraising.</p>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="why-choose-card">
-                        <div class="icon-wrapper">
-                            <i class="fas fa-paint-brush"></i>
-                        </div>
-                        <h4>Brand Identity &amp; Design</h4>
-                        <p>Logo design, brand guidelines, pitch deck design, and visual identity that helps your startup stand out and attract investors.</p>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="why-choose-card">
-                        <div class="icon-wrapper">
-                            <i class="fas fa-chart-line"></i>
-                        </div>
-                        <h4>Analytics &amp; Growth Metrics</h4>
-                        <p>Set up analytics, track key metrics (CAC, LTV, churn), and build data-driven growth loops to scale your startup.</p>
-                    </div>
-                </div>
-</div>
-    </div>
-    <div class="default-padding bg-white">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center">
-                        <h5 class="sub-title">OUR DEVELOPMENT PROCESS</h5>
-                        <h2 class="title">From Idea to Launch</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="process-track">
-                <div class="process-row">
-                    <div class="process-hexagon">
-                        <div class="hexagon-content">
-                            <div class="step-number">01</div><i class="fas fa-search"></i>
-                                    <h5>DISCOVER</h5>
-                                    <p>Market Research</p>
-                        </div>
-                    </div>
-                    <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
-                    <div class="process-hexagon">
-                        <div class="hexagon-content">
-                            <div class="step-number">02</div><i class="fas fa-pencil-ruler"></i>
-                                    <h5>DESIGN</h5>
-                                    <p>Business Planning</p>
-                        </div>
-                    </div>
-                    <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
-                    <div class="process-hexagon">
-                        <div class="hexagon-content">
-                            <div class="step-number">03</div><i class="fas fa-code"></i>
-                                    <h5>DEVELOP</h5>
-                                    <p>Product &amp; Service Setup</p>
-                        </div>
-                    </div>
-                    <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
-                    <div class="process-hexagon">
-                        <div class="hexagon-content">
-                            <div class="step-number">04</div><i class="fas fa-bug"></i>
-                                    <h5>TEST</h5>
-                                    <p>Validation &amp; Feedback</p>
-                        </div>
-                    </div>
-                    <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
-                    <div class="process-hexagon">
-                        <div class="hexagon-content">
-                            <div class="step-number">05</div><i class="fas fa-rocket"></i>
-                                    <h5>LAUNCH</h5>
-                                    <p>Go to Market</p>
-                        </div>
-                    </div>
-                    <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
-                    <div class="process-hexagon">
-                        <div class="hexagon-content">
-                            <div class="step-number">06</div><i class="fas fa-headset"></i>
-                                    <h5>SUPPORT</h5>
-                                    <p>Scaling &amp; Growth Management</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <?php itdgl_render_section_head('Other industries we work in', 'Specialised <span class="accent">across verticals</span>.'); ?>
+            <?php itdgl_render_industry_chips('startups'); ?>
         </div>
-    </div>
-    <div class="default-padding box-layout overflow-hidden bottom-less services-style-one-area bg-gray bg-cover" style="background-image: url(assets/img/shape/banner-2.jpg);">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center">
-                        <h5 class="sub-title">OUR STARTUP DIGITAL SERVICES</h5>
-                        <h2 class="title">Complete Startup Website, App &amp; Marketing Solutions</h2>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row" style="display: flex; flex-wrap: wrap;">
-                                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-one">
-                        <i class="fas fa-rocket fa-3x mb-3"></i>
-                        <a href="app_development.php" class="btn-arrow">
-                            <i class="fas fa-long-arrow-right"></i>
-                        </a>
-                        <p>MVP development with lean methodology — validate your idea, build core features, and launch in weeks, not months.</p>
-                        <h4><a href="app_development.php">MVP Development</a></h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-one">
-                        <i class="fas fa-laptop-code fa-3x mb-3"></i>
-                        <a href="website_development.php" class="btn-arrow">
-                            <i class="fas fa-long-arrow-right"></i>
-                        </a>
-                        <p>Startup websites and landing pages with clear messaging, user signup flows, and conversion-optimized design.</p>
-                        <h4><a href="website_development.php">Startup Website Development</a></h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-one">
-                        <i class="fas fa-mobile-alt fa-3x mb-3"></i>
-                        <a href="app_development.php" class="btn-arrow">
-                            <i class="fas fa-long-arrow-right"></i>
-                        </a>
-                        <p>Mobile app development for startups — Android, iOS, and cross-platform apps built for scalability and user retention.</p>
-                        <h4><a href="app_development.php">Startup Mobile Apps</a></h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-one">
-                        <i class="fas fa-search-plus fa-3x mb-3"></i>
-                        <a href="digital_marketing.php" class="btn-arrow">
-                            <i class="fas fa-long-arrow-right"></i>
-                        </a>
-                        <p>Startup SEO to build organic traffic from day one — content strategy, technical SEO, and keyword targeting for your niche.</p>
-                        <h4><a href="digital_marketing.php">Startup SEO Services</a></h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-one">
-                        <i class="fas fa-ad fa-3x mb-3"></i>
-                        <a href="digital_marketing.php" class="btn-arrow">
-                            <i class="fas fa-long-arrow-right"></i>
-                        </a>
-                        <p>Growth marketing with Google Ads, Meta Ads, and product-led campaigns to acquire your first customers efficiently.</p>
-                        <h4><a href="digital_marketing.php">User Acquisition Campaigns</a></h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-one">
-                        <i class="fas fa-paint-brush fa-3x mb-3"></i>
-                        <a href="../contact-us.php" class="btn-arrow">
-                            <i class="fas fa-long-arrow-right"></i>
-                        </a>
-                        <p>Brand identity design — logo, brand guidelines, pitch decks, and marketing collateral that attract investors and customers.</p>
-                        <h4><a href="../contact-us.php">Branding &amp; Design</a></h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-one">
-                        <i class="fas fa-share-alt fa-3x mb-3"></i>
-                        <a href="digital_marketing.php" class="btn-arrow">
-                            <i class="fas fa-long-arrow-right"></i>
-                        </a>
-                        <p>Social media marketing for startups — product launches, founder stories, community building, and viral content strategies.</p>
-                        <h4><a href="digital_marketing.php">Startup Social Media</a></h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-one">
-                        <i class="fas fa-envelope-open-text fa-3x mb-3"></i>
-                        <a href="digital_marketing.php" class="btn-arrow">
-                            <i class="fas fa-long-arrow-right"></i>
-                        </a>
-                        <p>Email marketing for user onboarding, product updates, drip campaigns, and customer retention sequences.</p>
-                        <h4><a href="digital_marketing.php">Email &amp; Lifecycle Marketing</a></h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-one">
-                        <i class="fas fa-code fa-3x mb-3"></i>
-                        <a href="app_development.php" class="btn-arrow">
-                            <i class="fas fa-long-arrow-right"></i>
-                        </a>
-                        <p>API development, third-party integrations, and custom backend systems to support your product's core functionality.</p>
-                        <h4><a href="app_development.php">API &amp; Backend Development</a></h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-one">
-                        <i class="fas fa-file-alt fa-3x mb-3"></i>
-                        <a href="website_development.php" class="btn-arrow">
-                            <i class="fas fa-long-arrow-right"></i>
-                        </a>
-                        <p>SaaS landing pages with pricing tables, feature comparisons, testimonials, and free trial signup flows.</p>
-                        <h4><a href="website_development.php">SaaS Landing Pages</a></h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-one">
-                        <i class="fas fa-chart-bar fa-3x mb-3"></i>
-                        <a href="app_development.php" class="btn-arrow">
-                            <i class="fas fa-long-arrow-right"></i>
-                        </a>
-                        <p>Analytics dashboards and admin panels for tracking user behavior, product metrics, and business KPIs.</p>
-                        <h4><a href="app_development.php">Analytics &amp; Admin Dashboards</a></h4>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="services-style-one">
-                        <i class="fas fa-handshake fa-3x mb-3"></i>
-                        <a href="digital_marketing.php" class="btn-arrow">
-                            <i class="fas fa-long-arrow-right"></i>
-                        </a>
-                        <p>Content marketing for startups — blog articles, case studies, and thought leadership to build authority in your niche.</p>
-                        <h4><a href="digital_marketing.php">Startup Content Marketing</a></h4>
-                    </div>
-                </div>
-</div>
-        </div>
-    </div>
+    </section>
 
-    <!-- Mid-Page CTA Banner -->
-    <div style="background: linear-gradient(135deg, var(--color-primary) 0%, #1a237e 100%); padding: 40px 0;">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-8">
-                    <h3 style="color: #fff; margin: 0; font-size: 24px;">Ready to Launch Your Startup Idea Into a Product?</h3>
-                    <p style="color: rgba(255,255,255,0.85); margin: 8px 0 0; font-size: 16px;">Get a free MVP consultation — from idea to launch.</p>
-                </div>
-                <div class="col-lg-4 text-lg-end mt-3 mt-lg-0">
-                    <a href="../contact-us.php" class="btn btn-light btn-lg" style="font-weight: 600; padding: 12px 30px;">Schedule a Call <i class="fas fa-arrow-right ms-2"></i></a>
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php itdgl_render_final_cta([
+        'head'    => 'Founder? Let&rsquo;s talk.',
+        'sub'     => 'Free 30-min call with a senior engineer. We&rsquo;ll talk through your idea, the right stack and timeline, and tell you straight whether we&rsquo;re the right partner &mdash; even if the honest answer is &ldquo;use no-code for 6 more months.&rdquo;',
+        'primary' => ['url'=>'https://calendly.com/itdgrowthlabs-info/30min', 'label'=>'Book a 30-min Call', 'icon'=>'fas fa-calendar-check', 'source'=>'industry_startups_final'],
+        'secondary'=>['url'=>'https://wa.me/918450978544?text=Hi%20ITD%20GrowthLabs%2C%20I%27d%20like%20to%20discuss%20a%20startups%20project.', 'label'=>'WhatsApp Us', 'icon'=>'fab fa-whatsapp', 'target'=>'_blank'],
+    ]); ?>
 
-    <!-- Start Technology Stack
-    ============================================= -->
-    <div class="default-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center">
-                        <h5 class="sub-title">SMART TECH CHOICES</h5>
-                        <h2 class="title">Technology Behind Our Startup Solutions</h2>
-                        <p class="mt-30">We use modern, scalable frameworks and cloud infrastructure to build products that grow with your startup.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="tech-categories mb-50">
-                <ul class="nav nav-pills justify-content-center gap-3 flex-wrap" id="techTabs" role="tablist">
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-link active" id="frontend-tab" data-bs-toggle="pill" data-bs-target="#frontend" type="button" role="tab">Frontend</button>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="backend-tab" data-bs-toggle="pill" data-bs-target="#backend" type="button" role="tab">Backend</button>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="databases-tab" data-bs-toggle="pill" data-bs-target="#databases" type="button" role="tab">CMS</button>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="cloud-tab" data-bs-toggle="pill" data-bs-target="#cloud" type="button" role="tab">Security</button>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="integrations-tab" data-bs-toggle="pill" data-bs-target="#integrations" type="button" role="tab">Integrations</button>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="analytics-tab" data-bs-toggle="pill" data-bs-target="#analytics" type="button" role="tab">Audit &amp; Analytics</button>
-                    </li>
-                </ul>
-            </div>
-            <div class="tab-content" id="techTabsContent">
-                <div class="tab-pane fade show active" id="frontend" role="tabpanel">
-                    <div class="row justify-content-center">
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-swift fa-3x mb-3" style="color: #fa7343;"></i>
-                                <h5>Swift</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-android fa-3x mb-3" style="color: #3ddc84;"></i>
-                                <h5>Kotlin</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-react fa-3x mb-3" style="color: #61dafb;"></i>
-                                <h5>React Native</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-google fa-3x mb-3" style="color: #02569b;"></i>
-                                <h5>Flutter</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-mobile-alt fa-3x mb-3" style="color: #3880ff;"></i>
-                                <h5>Ionic</h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="tab-pane fade" id="backend" role="tabpanel">
-                    <div class="row justify-content-center">
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-node-js fa-3x mb-3" style="color: #339933;"></i>
-                                <h5>Node.js</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-microsoft fa-3x mb-3" style="color: #512bd4;"></i>
-                                <h5>.NET</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-laravel fa-3x mb-3" style="color: #ff2d20;"></i>
-                                <h5>Laravel</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-python fa-3x mb-3" style="color: #3776ab;"></i>
-                                <h5>Django</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-java fa-3x mb-3" style="color: #ed8b00;"></i>
-                                <h5>Spring Boot</h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="tab-pane fade" id="databases" role="tabpanel">
-                    <div class="row justify-content-center">
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-database fa-3x mb-3" style="color: #00758f;"></i>
-                                <h5>WordPress</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-database fa-3x mb-3" style="color: #336791;"></i>
-                                <h5>PostgreSQL</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-leaf fa-3x mb-3" style="color: #47a248;"></i>
-                                <h5>MongoDB</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-google fa-3x mb-3" style="color: #ffca28;"></i>
-                                <h5>Strapi</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-database fa-3x mb-3" style="color: #003b57;"></i>
-                                <h5>MySQL</h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="tab-pane fade" id="cloud" role="tabpanel">
-                    <div class="row justify-content-center">
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-aws fa-3x mb-3" style="color: #ff9900;"></i>
-                                <h5>Security</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-cloud fa-3x mb-3" style="color: #4285f4;"></i>
-                                <h5>Encryption</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-microsoft fa-3x mb-3" style="color: #00a4ef;"></i>
-                                <h5>Secure Authentication</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-docker fa-3x mb-3" style="color: #2496ed;"></i>
-                                <h5>Access Control</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-cube fa-3x mb-3" style="color: #326ce5;"></i>
-                                <h5>Vulnerability Protection</h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="tab-pane fade" id="integrations" role="tabpanel">
-                    <div class="row justify-content-center">
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-code fa-3x mb-3" style="color: #ff6b6b;"></i>
-                                <h5>APIs</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-project-diagram fa-3x mb-3" style="color: #e10098;"></i>
-                                <h5>GraphQL</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-credit-card fa-3x mb-3" style="color: #635bff;"></i>
-                                <h5>Stripe</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-building fa-3x mb-3" style="color: #00a1f1;"></i>
-                                <h5>SEO</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-comment-dots fa-3x mb-3" style="color: #ff6fb1;"></i>
-                                <h5>HubSpot</h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="tab-pane fade" id="analytics" role="tabpanel">
-                    <div class="row justify-content-center">
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-vial fa-3x mb-3" style="color: #43b02a;"></i>
-                                <h5>Lighthouse</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-mobile-alt fa-3x mb-3" style="color: #5c6bc0;"></i>
-                                <h5>GA4</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-tachometer-alt fa-3x mb-3" style="color: #d22128;"></i>
-                                <h5>Hotjar</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-google fa-3x mb-3" style="color: #f4b400;"></i>
-                                <h5>Sentry</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-exclamation-triangle fa-3x mb-3" style="color: #ff6f00;"></i>
-                                <h5>SEMrush</h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            const industryCarousel = new Swiper('.industry-carousel', {
-                slidesPerView: 1,
-                spaceBetween: 20,
-                loop: true,
-                autoplay: {
-                    delay: 3000,
-                    disableOnInteraction: false
-                },
-                navigation: {
-                    nextEl: '.industry-nav-next',
-                    prevEl: '.industry-nav-prev'
-                },
-                breakpoints: {
-                    576: {
-                        slidesPerView: 2,
-                        spaceBetween: 20
-                    },
-                    768: {
-                        slidesPerView: 3,
-                        spaceBetween: 25
-                    },
-                    992: {
-                        slidesPerView: 4,
-                        spaceBetween: 30
-                    }
-                }
-            });
-        });
-    </script>
-
-    <!-- Start Call to Action
-    ============================================= -->
-    <div class="default-padding bg-gradient bg-cover shadow dark" style="background-image: url(assets/img/shape/banner-2.jpg);">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center text-light mt-0">
-                        <h2 class="title text-white mb-30">Ready to Launch Your Startup?</h2>
-                        <p class="text-white">From MVP development and mobile apps to growth marketing — get a free consultation with our startup technology experts.</p>
-                        <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Let's Talk</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Call to Action -->
-    <div class="knowledge-hub-area overflow-hidden default-padding pb-0">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center">
-                        <h5 class="sub-title">FAQ's</h5>
-                        <h2 class="title">Frequently Asked Questions</h2>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="faq-style-one">
-                        <div class="accordion" id="faqAccordion">
-                            <!-- FAQ 1 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingOne">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        How quickly can you build an MVP?
-                                    </button>
-                                </h2>
-                                <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        We can build a functional MVP in 4-8 weeks depending on complexity. We use lean methodology — start with core features, validate with real users, and iterate based on feedback to reduce time and cost.
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ 2 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingTwo">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        How much does it cost to build a startup website?
-                                    </button>
-                                </h2>
-                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        Startup websites and landing pages start from INR 15,000-50,000 for simple sites. MVP web apps range from INR 1-3 lakhs depending on features and integrations. We offer flexible packages for early-stage startups.
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ 3 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingThree">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Can you help with both development and marketing?
-                                    </button>
-                                </h2>
-                                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        Yes, that is our strength. We handle full-stack development (website, app, backend) AND growth marketing (SEO, paid ads, social media, content) — so you get a single partner for your entire digital strategy.
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ 4 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingFour">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Do you work with funded and bootstrapped startups?
-                                    </button>
-                                </h2>
-                                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        Yes, we work with both. For bootstrapped startups, we offer lean packages focused on MVP and essential marketing. For funded startups, we scale up with dedicated teams and comprehensive growth strategies.
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- FAQ 5 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingFive">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Do you help with pitch deck design?
-                                    </button>
-                                </h2>
-                                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        Yes, we design investor-ready pitch decks, brand identity kits, and marketing collateral that help startups present their vision clearly and attract funding.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End FAQ -->
-<?php include(__DIR__ . "/../includes/engagement-tools.php"); ?>
-
-<!-- Start Footer
-    ============================================= -->
-    <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
-        <div class="container">
-            <div class="f-items default-padding-bottom pt-70 pt-xs-0">
-                <div class="row">
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Core Tech Services</h4>
-                            <ul>
-                                <li><a href="../services/website-development-company.php" target="_blank">Website Design & Development</a></li>
-                                <li><a href="../services/Template-Based-Website-Development.php" target="_blank">Template-Based Website Development</a></li>
-                                <li><a href="../services/WordPress-Website-Development.php" target="_blank">WordPress Website Development</a></li>
-                                <li><a href="../services/Custom-Website-Development.php" target="_blank">Custom Website Development</a></li>
-                                <li><a href="../services/E-commerce-Website-Development.php" target="_blank">E-commerce Website Development</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">End-to-End Services</h4>
-                            <ul>
-                                <li><a href="../services/website-development-company.php" target="_blank">Website Design & Development</a></li>
-                                <li><a href="../services/content-marketing-services.php" target="_blank">Content Marketing Services</a></li>
-                                <li><a href="../services/seo-auditing-services.php" target="_blank">SEO Audit and Optimization</a></li>
-                                <li><a href="../services/social-media-marketing.php" target="_blank">Social Media Marketing</a></li>
-                                <li><a href="../services/google-search-ads-services.php" target="_blank">Google Search Ads</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">More Tech Solutions</h4>
-                            <ul>
-                                <li><a href="../services/App-Development.php" target="_blank">App Development</a></li>
-                                <li><a href="../services/IT-Outsourcing-Services.php" target="_blank">IT Outsourcing Services</a></li>
-                                <li><a href="../services/IT-Team-Outsourcing.php" target="_blank">IT Team Outsourcing</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">SEO &amp; Content Writing</h4>
-                            <ul>
-                                <li><a href="../services/website-content-writing.php" target="_blank">Website Content Writing</a></li>
-                                <li><a href="../services/seo-article-writing.php" target="_blank">SEO Article Writing</a></li>
-                                <li><a href="../services/blog-writing-services.php" target="_blank">Blog Writing</a></li>
-                                <li><a href="../services/case-study-writing-services.php" target="_blank">Case Study Writing</a></li>
-                                <li><a href="../services/product-description-writing-services.php" target="_blank">Product Description</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Specialized Content Services</h4>
-                            <ul>
-                                <li><a href="../services/content_writing_strategy.php" target="_blank">Content Writing & Strategy</a></li>
-                                <li><a href="../services/technical-writing-services.php" target="_blank">Technical Writing Services</a></li>
-                                <li><a href="../services/White-Papers-Case-Studies.php" target="_blank">White Papers & Case Studies</a></li>
-                                <li><a href="../services/Content-Team-Outsourcing.php" target="_blank">Content Team Outsourcing</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Industries We Serve</h4>
-                            <ul>
-                                <li><a href="../services/logistics-content-marketing.php" target="_blank">Logistics</a></li>
-                                <li><a href="../services/Industries-We-Serve-Manufacturing.php" target="_blank">Manufacturing</a></li>
-                                <li><a href="../services/Industries-We-Serve-Technology.php" target="_blank">Technology</a></li>
-                                <li><a href="../services/ecommerce-content-services.php" target="_blank">E-commerce</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Content Services</h4>
-                            <ul>
-                                <li><a href="../services/website-content-writing.php">Website Content Writing</a></li>
-                                <li><a href="../services/seo-article-writing.php">SEO Article Writing</a></li>
-                                <li><a href="../services/blog-writing-services.php">Blog Writing</a></li>
-                                <li><a href="../services/case-study-writing-services.php">Case Study Writing</a></li>
-                                <li><a href="../services/product-description-writing-services.php">Product Description</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">End-to-End Services</h4>
-                            <ul>
-                                <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
-                                <li><a href="../services/content-marketing-services.php">Content Marketing Services</a></li>
-                                <li><a href="../services/seo-auditing-services.php">SEO Audit and Optimization</a></li>
-                                <li><a href="../services/social-media-marketing.php">Social Media Marketing</a></li>
-                                <li><a href="../services/google-search-ads-services.php">Google Search Ads</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Custom Solutions</h4>
-                            <ul>
-                                <li><a href="../services/Custom-eLearning-Development.php" target="_blank" style="text-transform: none;">Custom eLearning Development</a></li>
-                                <li><a href="../services/Powerpoint-to-eLearning-Conversion.php" target="_blank" style="text-transform: none;">PowerPoint to eLearning Conversion</a></li>
-                                <li><a href="../services/Mobile-Learn-Microlearning.php" target="_blank">Mobile Learning / Microlearning</a></li>
-                                <li><a href="../services/Gamified-Learning-Modules.php" target="_blank">Gamified Learning Modules</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Use Cases</h4>
-                            <ul>
-                                <li><a href="../services/Employee-Onboarding.php" target="_blank">Employee Onboarding</a></li>
-                                <li><a href="../services/Talent-Development.php" target="_blank">Talent Development</a></li>
-                                <li><a href="../services/Compliance-Training.php" target="_blank">Compliance Training</a></li>
-                                <li><a href="../services/Sales-Enablement.php" target="_blank">Sales Enablement</a></li>
-                                <li><a href="../services/Customer-Education.php" target="_blank">Customer Education</a></li>
-                                <li><a href="../services/Partner-Enablement.php" target="_blank">Partner Enablement</a></li>
-                                <li><a href="../services/Frontline-Workforce-Training.php" target="_blank">Frontline Workforce Training</a></li>
-                                <li><a href="../services/Member-Training.php" target="_blank">Member Training</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Industries We Serve</h4>
-                            <ul>
-                                <li><a href="../industries/information_tech.php">IT &amp; Technology</a></li>
-                                <li><a href="../industries/finance.php">Finance &amp; FinTech</a></li>
-                                <li><a href="industries/manufacturing.php">Manufacturing</a></li>
-                                <li><a href="industries/healthcare.php">Healthcare</a></li>
-                                <li><a href="industries/professional_services.php">Professional Services</a></li>
-                                <li><a href="industries/startups.php">Startups</a></li>
-                                <li><a href="industries/education.php">Education</a></li>
-                                <li><a href="../industries/startups.php">Startups</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Video Services</h4>
-                            <ul>
-                                <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
-                                <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
-                                <li><a href="../services/Video-Ads.php">Video Ads</a></li>
-                                <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
-                                <li><a href="../services/Repurpose-Videos.php">Repurpose Videos</a></li>
-                                <li><a href="../services/Video-Editing.php">Video Editing</a></li>
-                                <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
-                                <li><a href="../services/Onboarding-Videos.php">Onboarding Videos</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                        <h4 class="widget-title">WhatsApp Marketing</h4>
-                        <ul>
-                            <li><a href="../whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
-                            <li><a href="../whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
-                            <li><a href="../whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
-                            <li><a href="../whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
-                            <li><a href="../whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flow</a></li>
-                        </ul>
-                    </div>
-
-                    <div class="f-item link mt-5">
-                        <h4 class="widget-title">UAE Digital Services</h4>
-                        <ul>
-                            <li><a href="../uae/website-design-development.php">Website Design & Development</a></li>
-                            <li><a href="../uae/web-application-development.php">Web Application Development</a></li>
-                            <li><a href="../uae/mobile-app-development.php">Mobile App Development</a></li>
-                            <li><a href="../uae/digital-marketing-services.php">Digital Marketing Services</a></li>
-                        </ul>
-                    </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                        <h4 class="widget-title">Data Services</h4>
-                        <ul>
-                            <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
-                            <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
-                            <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
-                            <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
-                            <li><a href="../data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
-                        </ul>
-                    </div>
-
-
-                    <div class="f-item link mt-5">
-                        <h4 class="widget-title">Africa Digital Services</h4>
-                        <ul>
-                            <li><a href="../africa/website-design-development.php">Website Design & Development</a></li>
-                            <li><a href="../africa/web-application-development.php">Web Application Development</a></li>
-                            <li><a href="../africa/mobile-app-development.php">Mobile App Development</a></li>
-                            <li><a href="../africa/digital-marketing-services.php">Digital Marketing Services</a></li>
-                        </ul>
-                    </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Data Annotation Services</h4>
-                            <ul>
-                                <li><a href="../data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
-                                <li><a href="../data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
-                                <li><a href="../data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
-                                <li><a href="../data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
-                            </ul>
-                        </div>
-                        <div class="f-item link mt-5">
-                        <h4 class="widget-title">Australia Digital Services</h4>
-                        <ul>
-                            <li><a href="../australia/website-design-development.php">Website Design & Development</a></li>
-                            <li><a href="../australia/web-application-development.php">Web Application Development</a></li>
-                            <li><a href="../australia/mobile-app-development.php">Mobile App Development</a></li>
-                            <li><a href="../australia/digital-marketing-services.php">Digital Marketing Services</a></li>
-                        </ul>
-                    </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                    <div class="f-item link">
-                        <h4 class="widget-title">UK Digital Services</h4>
-                        <ul>
-                            <li><a href="../uk/website-design-development.php">Website Design & Development</a></li>
-                            <li><a href="../uk/web-application-development.php">Web Application Development</a></li>
-                            <li><a href="../uk/mobile-app-development.php">Mobile App Development</a></li>
-                            <li><a href="../uk/digital-marketing-services.php">Digital Marketing Services</a></li>
-                        </ul>
-                    </div>
-                    <div class="f-item link mt-5">
-                        <h4 class="widget-title">USA Digital Services</h4>
-                        <ul>
-                            <li><a href="../usa/website-design-development.php">Website Design & Development</a></li>
-                            <li><a href="../usa/web-application-development.php">Web Application Development</a></li>
-                            <li><a href="../usa/mobile-app-development.php">Mobile App Development</a></li>
-                            <li><a href="../usa/digital-marketing-services.php">Digital Marketing Services</a></li>
-                        </ul>
-                    </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Resources</h4>
-                            <ul>
-                                <li><a href="../resources/all-blogs.php">Blogs</a></li>
-                                                            <li><a href="../about.php">About Us</a></li>
-                                <li><a href="../contact-us.php">Contact Us</a></li>
-                                <li><a href="../privacy_policy.php">Privacy Policy</a></li>
-                            </ul>
-                        </div>
-                        <br>
-                        <div class="f-item contact">
-                            <h4 class="widget-title">Contact Us</h4>
-                            <p><i class="fa-solid fa-phone"></i> <a href="https://wa.me/918450978544" target="_blank" style="color:#dedede">Phone:+91 8450978544</a></p>
-                            <p><i class="fa fa-envelope"></i> <a href="mailto:info@itdgrowthlabs.com" style="color:#dedede"> Email: info@itdgrowthlabs.com </a></p>
-                            <p><i class="fa fa-globe"> </i> <a href="https://itdgrowthlabs.com/" style="color:#dedede"> Website: www.itdgrowthlabs.com </a></p>
-                            <ul>
-                                <li>Andheri, Mumbai, India</li>
-                            </ul>
-                            <div class="mt-3">
-                                <a href="https://www.linkedin.com/company/itd-growthlabs/" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-linkedin"></i></a>
-                                <a href="https://www.instagram.com/itdgrowthlabs/" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-instagram"></i></a>
-                                <a href="https://www.facebook.com/itdgrowthlabs/" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-facebook"></i></a>
-                                <a href="https://twitter.com/itdgrowthlabs" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-twitter"></i></a>
-                                <a href="https://www.youtube.com/@itdgrowthlabs" target="_blank" style="color:#dedede; font-size: 18px;"><i class="fab fa-youtube"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="footer-bottom bg-dark text-light text-center">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <p>Copyright &copy; 2026 ITD GrowthLabs All Rights Reserved</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-    <script src="assets/js/jquery-3.6.0.min.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/jquery.appear.js"></script>
-    <script src="assets/js/jquery.easing.min.js"></script>
-    <script src="assets/js/jquery.magnific-popup.min.js"></script>
-    <script src="assets/js/modernizr.custom.13711.js"></script>
-    <script src="assets/js/swiper-bundle.min.js"></script>
-    <script src="assets/js/wow.min.js"></script>
-    <script src="assets/js/progress-bar.min.js"></script>
-    <script src="assets/js/circle-progress.js"></script>
-    <script src="assets/js/isotope.pkgd.min.js"></script>
-    <script src="assets/js/imagesloaded.pkgd.min.js"></script>
-    <!-- <script src="assets/js/jquery.nice-select.min.js"></script> -->
-    <script src="assets/js/count-to.js"></script>
-    <script src="assets/js/jquery.scrolla.min.js"></script>
-    <script src="assets/js/YTPlayer.min.js"></script>
-    <script src="assets/js/TweenMax.min.js"></script>
-    <script src="assets/js/validnavs.js"></script>
-    <script src="assets/js/main.js"></script>
-<script type="text/javascript">
-        window.onload = function() {
-            Calendly.initBadgeWidget({
-                url: 'contact-us.php',
-                text: 'Schedule time with me',
-                color: '#0069ff',
-                textColor: '#ffffff'
-            });
-        }
-    </script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
-    <script src="assets/js/custom.js"></script>
-
+    <?php include(__DIR__ . "/../includes/footer.php"); ?>
+    <?php include(__DIR__ . "/../includes/footer_script.php"); ?>
+    <?php include(__DIR__ . "/../includes/popup_modal.php"); ?>
 </body>
-
 </html>

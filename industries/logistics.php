@@ -163,6 +163,14 @@
         </div>
     </section>
 
+    <!-- OTHER INDUSTRIES -->
+    <section class="md-sec">
+        <div class="container">
+            <?php itdgl_render_section_head('Other industries we work in', 'Specialised <span class="accent">across verticals</span>.'); ?>
+            <?php itdgl_render_industry_chips('logistics'); ?>
+        </div>
+    </section>
+
     <?php itdgl_render_final_cta([
         'head'    => 'Talk to a senior logistics engineer.',
         'sub'     => 'Free 30-min call. We&rsquo;ll walk through your operation, the build-vs-buy math, and send a fixed-scope quote within 48 hours. Same engineer on the call as the build.',
