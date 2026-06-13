@@ -27,20 +27,41 @@ function itdgl_render_modern_styles() {
 ?>
 <style>
 :root {
-    /* ITD GrowthLabs brand palette */
-    --md-primary:        #1e40af;       /* rich blue — wordmark blue */
+    /* ITD GrowthLabs brand palette — Blue + Orange + Red + Black */
+    --md-primary:        #1e40af;       /* rich brand blue */
     --md-primary-dark:   #1e3a8a;       /* deep indigo */
-    --md-accent:         #3b82f6;       /* bright blue — inner-arrow accent */
-    --md-purple:         #4338ca;       /* indigo-purple */
-    --md-purple-light:   #6366f1;       /* lighter purple for hover */
+    --md-blue-light:     #3b82f6;       /* bright blue */
+    --md-blue-soft:      #60a5fa;       /* light blue (hero accent text) */
+
+    --md-orange:         #ff6b00;       /* brand orange — energy / secondary CTA */
+    --md-orange-dark:    #d95800;       /* hover state */
+    --md-orange-soft:    #ffd9b8;       /* light orange tint */
+
+    --md-red:            #ef4444;       /* brand red — highlights / urgency */
+    --md-red-dark:       #dc2626;
+    --md-red-soft:       #fee2e2;
+
+    --md-purple:         #4338ca;       /* indigo-purple — gradient stop */
+    --md-purple-light:   #6366f1;
+
+    --md-black:          #0a0a0a;       /* deep black — high contrast */
     --md-heading:        #0f172a;
     --md-body:           #475569;
     --md-muted:          #64748b;
     --md-border:         #e2e8f0;
-    --md-soft:           #eff6ff;       /* soft blue-tinted bg */
+    --md-soft:           #f8fafc;       /* neutral soft bg */
+    --md-soft-blue:      #eff6ff;       /* blue-tinted bg */
+    --md-soft-warm:      #fff8f1;       /* warm-tinted bg */
+
     --md-success:        #16a34a;
-    --md-card-shadow:    0 4px 16px rgba(30,64,175,0.08);
-    --md-card-shadow-h:  0 14px 36px rgba(30,64,175,0.14);
+    --md-card-shadow:    0 4px 16px rgba(15,23,42,0.06);
+    --md-card-shadow-h:  0 14px 36px rgba(15,23,42,0.12);
+
+    /* Reusable gradient tokens */
+    --md-grad-primary:   linear-gradient(135deg, #1e40af 0%, #4338ca 100%);
+    --md-grad-energy:    linear-gradient(135deg, #ff6b00 0%, #ef4444 100%);
+    --md-grad-vibrant:   linear-gradient(135deg, #1e40af 0%, #4338ca 50%, #ff6b00 100%);
+    --md-grad-dark:      linear-gradient(135deg, #0f172a 0%, #1e1b4b 50%, #1e293b 100%);
 }
 
 /* HERO --------------------------------------------------------------- */
@@ -72,22 +93,22 @@ function itdgl_render_modern_styles() {
 .md-hero__eyebrow {
     display: inline-flex; align-items: center; gap: 8px;
     padding: 6px 14px;
-    background: rgba(99,102,241,0.18);
-    color: #c7d2fe;
-    border: 1px solid rgba(99,102,241,0.42);
+    background: rgba(255,107,0,0.18);
+    color: #ffd9b8;
+    border: 1px solid rgba(255,107,0,0.40);
     border-radius: 30px;
     font-size: 11.5px; font-weight: 700;
     letter-spacing: 1.4px; text-transform: uppercase;
     margin-bottom: 20px;
 }
 .md-hero__eyebrow .pulse {
-    width: 8px; height: 8px; background: #93c5fd; border-radius: 50%;
-    box-shadow: 0 0 0 4px rgba(147,197,253,0.30);
+    width: 8px; height: 8px; background: #ffb066; border-radius: 50%;
+    box-shadow: 0 0 0 4px rgba(255,176,102,0.30);
     animation: mdPulse 2s infinite;
 }
 @keyframes mdPulse {
-    0%,100% { box-shadow: 0 0 0 4px rgba(147,197,253,0.30); }
-    50%     { box-shadow: 0 0 0 8px rgba(147,197,253,0); }
+    0%,100% { box-shadow: 0 0 0 4px rgba(255,176,102,0.30); }
+    50%     { box-shadow: 0 0 0 8px rgba(255,176,102,0); }
 }
 .md-hero h1 {
     font-size: 48px; font-weight: 800; line-height: 1.14;
@@ -139,7 +160,7 @@ function itdgl_render_modern_styles() {
 }
 .md-trust-pills { display: flex; gap: 22px; flex-wrap: wrap; color: rgba(255,255,255,0.7); font-size: 13.5px; }
 .md-trust-pills span { display: inline-flex; align-items: center; gap: 8px; }
-.md-trust-pills i { color: #60a5fa; }
+.md-trust-pills i { color: #ff9550; }
 
 /* HERO STATS BAR ----------------------------------------------------- */
 .md-hero-stats {
@@ -166,11 +187,17 @@ function itdgl_render_modern_styles() {
 
 /* SECTIONS ----------------------------------------------------------- */
 .md-sec { padding: 80px 0; }
-.md-sec.alt { background: var(--md-soft); }
+.md-sec.alt { background: var(--md-soft-blue); }
+.md-sec.alt-warm { background: var(--md-soft-warm); }
+.md-sec.dark { background: var(--md-grad-dark); color: #ffffff; }
+.md-sec.dark .md-sec-eyebrow { color: #ffd9b8; }
+.md-sec.dark h2 { color: #ffffff; }
+.md-sec.dark h2 .accent { color: #ffb066; }
+.md-sec.dark .md-sec-head p { color: rgba(255,255,255,0.78); }
 .md-sec-head { text-align: center; max-width: 760px; margin: 0 auto 50px; }
 .md-sec-eyebrow {
     font-size: 12px; letter-spacing: 2px; text-transform: uppercase;
-    color: var(--md-primary); font-weight: 800;
+    color: var(--md-orange); font-weight: 800;
     margin-bottom: 14px; display: block;
 }
 .md-sec h2 {
@@ -178,7 +205,7 @@ function itdgl_render_modern_styles() {
     color: var(--md-heading);
     margin: 0 0 16px; line-height: 1.2;
 }
-.md-sec h2 .accent { color: var(--md-primary); }
+.md-sec h2 .accent { color: var(--md-orange); }
 .md-sec-head p {
     font-size: 17px; color: var(--md-body);
     line-height: 1.7; margin: 0;
@@ -197,17 +224,17 @@ function itdgl_render_modern_styles() {
 .md-process__card:hover {
     transform: translateY(-4px);
     box-shadow: var(--md-card-shadow-h);
-    border-color: rgba(59,130,246,0.32);
+    border-color: rgba(255,107,0,0.32);
 }
 .md-process__num {
     position: absolute; top: -14px; left: 22px;
     width: 36px; height: 36px;
     border-radius: 10px;
-    background: linear-gradient(135deg, var(--md-primary) 0%, var(--md-purple) 100%);
+    background: var(--md-grad-energy);   /* orange → red — energy moments */
     color: #fff;
     display: flex; align-items: center; justify-content: center;
     font-weight: 800; font-size: 15px;
-    box-shadow: 0 4px 12px rgba(30,64,175,0.30);
+    box-shadow: 0 4px 12px rgba(255,107,0,0.32);
 }
 .md-process__card h4 {
     margin: 14px 0 10px;
@@ -236,8 +263,8 @@ function itdgl_render_modern_styles() {
 .md-outcomes__icon {
     width: 54px; height: 54px;
     border-radius: 12px;
-    background: linear-gradient(135deg, #dbeafe, #e0e7ff);
-    color: var(--md-primary);
+    background: linear-gradient(135deg, #fff3e6 0%, #ffe2c4 100%);
+    color: var(--md-orange-dark);
     display: flex; align-items: center; justify-content: center;
     font-size: 22px;
     margin-bottom: 18px;

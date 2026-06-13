@@ -92,15 +92,22 @@
 
     <?php itdgl_render_modern_hero([
         'crumbs'  => [['label'=>'Home','url'=>'/'], ['label'=>'Contact']],
-        'eyebrow' => 'Let&rsquo;s talk',
-        'title'   => 'Talk to <span class="accent">Prashant</span>, our Business Head &mdash; not a sales rep.',
-        'sub'     => 'Three ways to reach us &mdash; pick the one that fits. We reply to every enquiry within 24 business hours, from a human who will own your engagement, not a bot.',
+        'eyebrow' => '<span class="pulse"></span>Talk to our team',
+        'pulse'   => true,
+        'title'   => 'Talk to the <span class="accent">team</span> behind 300+ shipped projects.',
+        'sub'     => 'Four ways to reach our senior engineers, strategists and designers. Every enquiry is routed to the right specialist and replied to within 24 business hours &mdash; no bots, no SDRs, no sales scripts.',
         'primary' => ['url'=>'https://calendly.com/itdgrowthlabs-info/30min', 'label'=>'Book Free 30-min Call', 'icon'=>'fas fa-calendar-check', 'js_book_call'=>true, 'source'=>'contact_hero_primary'],
         'secondary'=>['url'=>'https://wa.me/918450978544?text=Hi%20ITD%20GrowthLabs%2C%20I%27d%20like%20to%20discuss%20a%20project.', 'label'=>'WhatsApp Us', 'icon'=>'fab fa-whatsapp', 'target'=>'_blank'],
         'pills'   => [
             ['icon'=>'fas fa-bolt', 'text'=>'Reply within 24 business hours'],
-            ['icon'=>'fas fa-user-tie', 'text'=>'From a human, not a sales rep'],
-            ['icon'=>'fas fa-globe', 'text'=>'Time-zone aligned (IN / EST / GMT / AEDT / GST)'],
+            ['icon'=>'fas fa-people-group', 'text'=>'Routed to the right senior specialist'],
+            ['icon'=>'fas fa-globe', 'text'=>'Time-zone aligned globally (IN / EST / GMT / AEDT / GST)'],
+        ],
+        'stats'   => [
+            ['num'=>'55+', 'lbl'=>'Senior team'],
+            ['num'=>'300+', 'lbl'=>'Projects shipped'],
+            ['num'=>'97%', 'lbl'=>'Client retention'],
+            ['num'=>'24 hr', 'lbl'=>'Reply window'],
         ],
     ]); ?>
 
@@ -124,10 +131,10 @@
                         <h3><i class="fas fa-bolt" style="color:var(--md-primary);margin-right:8px;"></i>Faster paths</h3>
 
                         <a href="https://calendly.com/itdgrowthlabs-info/30min" class="ct-alt-card js-book-call" data-source="contact_alt_calendly">
-                            <div class="ct-alt-card__icon" style="background:linear-gradient(135deg,#1565c0,#0d47a1);"><i class="fas fa-calendar-check"></i></div>
+                            <div class="ct-alt-card__icon" style="background:linear-gradient(135deg,#1e40af,#4338ca);"><i class="fas fa-calendar-check"></i></div>
                             <div class="ct-alt-card__body">
-                                <div class="ct-alt-card__title">Book a 30-min call (free)</div>
-                                <div class="ct-alt-card__meta">Calendar slot, no form. Talk straight to Prashant.</div>
+                                <div class="ct-alt-card__title">Book a 30-min strategy call</div>
+                                <div class="ct-alt-card__meta">Pick a calendar slot. Routed to the right senior lead.</div>
                             </div>
                             <div class="ct-alt-card__arrow">&rarr;</div>
                         </a>
@@ -142,19 +149,19 @@
                         </a>
 
                         <a href="mailto:info@itdgrowthlabs.com?subject=Project%20enquiry" class="ct-alt-card">
-                            <div class="ct-alt-card__icon" style="background:linear-gradient(135deg,#1e40af,#4338ca);"><i class="fas fa-envelope"></i></div>
+                            <div class="ct-alt-card__icon" style="background:linear-gradient(135deg,#ff6b00,#ef4444);"><i class="fas fa-envelope"></i></div>
                             <div class="ct-alt-card__body">
-                                <div class="ct-alt-card__title">Email Prashant</div>
+                                <div class="ct-alt-card__title">Email the team</div>
                                 <div class="ct-alt-card__meta">info@itdgrowthlabs.com &middot; 24-hr reply</div>
                             </div>
                             <div class="ct-alt-card__arrow">&rarr;</div>
                         </a>
 
-                        <a href="https://www.linkedin.com/in/prashant-chaudhari03/" target="_blank" rel="noopener" class="ct-alt-card">
+                        <a href="https://www.linkedin.com/company/itd-growthlabs/" target="_blank" rel="noopener" class="ct-alt-card">
                             <div class="ct-alt-card__icon" style="background:#0a66c2;"><i class="fab fa-linkedin-in"></i></div>
                             <div class="ct-alt-card__body">
-                                <div class="ct-alt-card__title">Connect on LinkedIn</div>
-                                <div class="ct-alt-card__meta">Prashant Chaudhari, Business Head</div>
+                                <div class="ct-alt-card__title">Follow ITD GrowthLabs</div>
+                                <div class="ct-alt-card__meta">Company LinkedIn &middot; team, posts, project updates</div>
                             </div>
                             <div class="ct-alt-card__arrow">&rarr;</div>
                         </a>
@@ -167,6 +174,30 @@
                         </div>
                     </div>
                 </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- TEAM YOU'LL WORK WITH -->
+    <section class="md-sec alt-warm">
+        <div class="container">
+            <?php itdgl_render_section_head(
+                'Who you&rsquo;ll talk to',
+                'A <span class="accent">senior team</span> &mdash; not a sales desk.',
+                'Every enquiry is routed to the right senior specialist based on what you&rsquo;re scoping. You&rsquo;ll be on a call with the engineer or strategist who would actually lead your engagement &mdash; not a BD person who hands you off after signing.'
+            ); ?>
+            <?php itdgl_render_outcome_grid([
+                ['icon'=>'fas fa-truck', 'title'=>'Senior Logistics Engineers', 'desc'=>'For courier, fleet, last-mile, TMS scoping. 50M+ shipments and 14+ hubs of production experience between them.'],
+                ['icon'=>'fas fa-mobile-screen-button', 'title'=>'Senior App Engineers', 'desc'=>'For iOS, Android, Flutter, React Native and cross-platform builds. 200+ apps shipped, 4.6&starf; average store rating.'],
+                ['icon'=>'fas fa-globe', 'title'=>'Senior Web &amp; SaaS Engineers', 'desc'=>'For custom websites, B2B portals, multi-tenant SaaS, headless storefronts. Next.js, Node, Python, Laravel stacks.'],
+                ['icon'=>'fas fa-bullseye', 'title'=>'Senior Marketing Strategists', 'desc'=>'For SEO, paid, content, lead-gen engagements. Rs 8Cr+ ad spend managed, 500+ SEO projects delivered.'],
+                ['icon'=>'fas fa-user-tie', 'title'=>'Senior Solution Engineers', 'desc'=>'For ambiguous &ldquo;we&rsquo;re-not-sure-what-we-need&rdquo; scoping calls. They&rsquo;ll diagnose, recommend, and route you to the right pod.'],
+                ['icon'=>'fas fa-handshake', 'title'=>'Business Head &mdash; Engagement Owner', 'desc'=>'Owns the relationship and is the escalation path on every engagement. Sits in on kick-off and quarterly reviews.'],
+            ]); ?>
+            <div style="text-align:center;margin-top:36px;">
+                <a href="/team.php" style="display:inline-flex;align-items:center;gap:8px;color:var(--md-primary);font-weight:700;text-decoration:none;font-size:15px;">
+                    <i class="fas fa-users"></i> See the full team and credentials &rarr;
+                </a>
             </div>
         </div>
     </section>
