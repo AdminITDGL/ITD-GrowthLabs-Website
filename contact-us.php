@@ -148,9 +148,6 @@
     </div>
     <!-- End Breadcrumb -->
 
-    <!-- Trust badges above the form: instant third-party verification -->
-    <?php $tb_source = 'contact'; include(__DIR__ . '/includes/trust-badges.php'); ?>
-
     <!-- Start Contact Us
     ============================================= -->
     <div class="contact-area contact-page bg-gray overflow-hidden default-padding" style="background-image: url(assets/img/shape/map.png);">
@@ -220,6 +217,10 @@
         </div>
     </div>
     <!-- End Contact -->
+
+    <!-- Third-party verification (below the form so the form is the primary CTA) -->
+    <?php $tb_source = 'contact'; include(__DIR__ . '/includes/trust-badges.php'); ?>
+
 <?php include("./includes/footer.php") ?>
     <?php include("./includes/footer_script.php") ?>
     <script src="https://www.google.com/recaptcha/api.js?render=6Lcm0hosAAAAAPFeuKRDfgGF4Ajr9bcCCbD7LR-3"></script>

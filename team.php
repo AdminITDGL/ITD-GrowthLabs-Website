@@ -162,8 +162,9 @@
         .tm-crumb .sep { color: rgba(255,255,255,0.35); margin: 0 8px; }
         .tm-crumb .now { color: var(--tm-primary); font-weight: 600; }
         .tm-eyebrow { display: inline-block; padding: 6px 14px; background: rgba(255,107,0,0.15); color: var(--tm-primary); border: 1px solid rgba(255,107,0,0.3); border-radius: 30px; font-size: 12px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 18px; }
-        .tm-title { font-size: 42px; font-weight: 800; line-height: 1.2; margin-bottom: 18px; }
-        .tm-subtitle { font-size: 17px; line-height: 1.8; opacity: 0.88; max-width: 760px; }
+        .tm-title { font-size: 42px; font-weight: 800; line-height: 1.2; margin-bottom: 18px; color: #ffffff !important; }
+        .tm-subtitle { font-size: 17px; line-height: 1.8; opacity: 0.88; max-width: 760px; color: #ffffff; }
+        .tm-hero h1, .tm-hero h2, .tm-hero h3, .tm-hero p, .tm-hero a:not(.tb-card *) { color: #ffffff; }
 
         .tm-trust-bar { display: grid; grid-template-columns: repeat(4, 1fr); gap: 18px; max-width: 900px; margin-top: 36px; }
         .tm-trust-cell { background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.12); border-radius: 12px; padding: 18px; text-align: center; }
