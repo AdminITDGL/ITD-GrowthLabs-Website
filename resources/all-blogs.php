@@ -113,6 +113,54 @@
                         <div class="info">
                             <div class="meta">
                                 <ul>
+                                    <li><a href="#">Prashant Chaudhari</a></li>
+                                    <li>April 2026</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/App_Development_Cost_USA_vs_India_2026_Honest_Comparison.php">App Development Cost: USA vs India 2026 &mdash; Honest Breakdown (Real Numbers, Hidden Costs)</a></h3>
+                            <a href="../resources/App_Development_Cost_USA_vs_India_2026_Honest_Comparison.php" class="button-regular">Continue Reading <i class="fas fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">Prashant Chaudhari</a></li>
+                                    <li>April 2026</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Shiprocket_vs_Shipway_vs_Custom_Courier_Software_2026_Comparison.php">Shiprocket vs Shipway vs Custom Courier Software 2026 &mdash; Honest Cost &amp; Feature Comparison</a></h3>
+                            <a href="../resources/Shiprocket_vs_Shipway_vs_Custom_Courier_Software_2026_Comparison.php" class="button-regular">Continue Reading <i class="fas fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
+                                    <li><a href="#">Prashant Chaudhari</a></li>
+                                    <li>April 2026</li>
+                                </ul>
+                            </div>
+                            <h3 class="post-title"><a href="../resources/Logistics_App_Development_Cost_India_2026_TMS_Fleet_LastMile.php">Logistics App Development Cost in India 2026 &mdash; TMS, Fleet, Last-Mile (Realistic Pricing)</a></h3>
+                            <a href="../resources/Logistics_App_Development_Cost_India_2026_TMS_Fleet_LastMile.php" class="button-regular">Continue Reading <i class="fas fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+                <!-- Single Item -->
+                <div class="col-lg-4 col-md-6 mb-50">
+                    <div class="blog-style-one">
+                        <div class="info">
+                            <div class="meta">
+                                <ul>
                                     <li>
                                         <a href="#">ITD GrowthLabs</a>
                                     </li>
