@@ -26,7 +26,7 @@
 .bofu-top-cta {
     background: linear-gradient(135deg, #fff8f1 0%, #ffffff 100%);
     border: 1px solid rgba(255, 107, 0, 0.22);
-    border-left: 4px solid #ff6b00;
+    border-left: 4px solid #1e40af;
     border-radius: 12px;
     padding: 14px 18px;
     margin: 0 0 26px;
@@ -41,7 +41,7 @@
     width: 52px;
     height: 52px;
     border-radius: 50%;
-    background: linear-gradient(135deg, #ff6b00, #4338ca);
+    background: linear-gradient(135deg, #1e40af, #4338ca);
     color: #ffffff;
     display: flex;
     align-items: center;
