@@ -109,8 +109,9 @@
         .cs-crumb .sep { color: rgba(255,255,255,0.35); margin: 0 8px; }
         .cs-crumb .now { color: #c4b5fd; font-weight: 600; }
         .cs-eyebrow { display: inline-block; padding: 6px 14px; background: rgba(124,58,237,0.18); color: #ddd6fe; border: 1px solid rgba(196,181,253,0.4); border-radius: 30px; font-size: 12px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 18px; }
-        .cs-title { font-size: 44px; font-weight: 800; line-height: 1.18; margin-bottom: 18px; }
-        .cs-subtitle { font-size: 17px; line-height: 1.8; opacity: 0.88; max-width: 760px; }
+        .cs-hero h1, .cs-hero .cs-title { color: #ffffff !important; }
+        .cs-title { color: #ffffff !important; font-size: 44px; font-weight: 800; line-height: 1.18; margin-bottom: 18px; }
+        .cs-subtitle { color: rgba(255,255,255,0.92); font-size: 17px; line-height: 1.8; opacity: 0.88; max-width: 760px; }
         .cs-hero-client { display: flex; align-items: center; gap: 14px; margin-top: 26px; padding: 14px 18px; background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; max-width: 520px; }
         .cs-hero-client .badge-dot { width: 10px; height: 10px; background: #22c55e; border-radius: 50%; box-shadow: 0 0 0 4px rgba(34,197,94,0.18); }
         .cs-hero-client .cl-l { font-size: 12px; letter-spacing: 1.5px; text-transform: uppercase; color: rgba(255,255,255,0.5); }
@@ -173,7 +174,7 @@
         .cs-related-card a:hover { text-decoration: underline; }
 
         @media (max-width: 768px) {
-            .cs-title { font-size: 30px; }
+            .cs-title { color: #ffffff !important; font-size: 30px; }
             .cs-hero { padding: 90px 0 60px; }
         }
     </style>

@@ -128,8 +128,9 @@
         .cs-crumb .sep { color: rgba(255,255,255,0.35); margin: 0 8px; }
         .cs-crumb .now { color: var(--cs-primary); font-weight: 600; }
         .cs-eyebrow { display: inline-block; padding: 6px 14px; background: rgba(255,107,0,0.15); color: var(--cs-primary); border: 1px solid rgba(255,107,0,0.3); border-radius: 30px; font-size: 12px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 18px; }
-        .cs-title { font-size: 42px; font-weight: 800; line-height: 1.2; margin-bottom: 18px; }
-        .cs-subtitle { font-size: 17px; line-height: 1.8; opacity: 0.88; max-width: 720px; }
+        .cs-hero h1, .cs-hero .cs-title { color: #ffffff !important; }
+        .cs-title { color: #ffffff !important; font-size: 42px; font-weight: 800; line-height: 1.2; margin-bottom: 18px; }
+        .cs-subtitle { color: rgba(255,255,255,0.92); font-size: 17px; line-height: 1.8; opacity: 0.88; max-width: 720px; }
 
         .cs-kpi-bar { background: #fff; padding: 28px 0; border-bottom: 1px solid #eef1f5; }
         .cs-kpi-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center; }
@@ -181,7 +182,7 @@
         .cs-related-card a:hover { text-decoration: underline; }
 
         @media (max-width: 768px) {
-            .cs-title { font-size: 30px; }
+            .cs-title { color: #ffffff !important; font-size: 30px; }
             .cs-hero { padding: 90px 0 60px; }
         }
     </style>
