@@ -93,6 +93,12 @@
                                         </ul>
                                     </div>
                                     <h1>Logistics Company Website: Essential Features for Lead Generation</h1>
+                                    <!-- BOFU callout (auto-injected for PageRank flow) -->
+                                    <div style="background:#fff8f1;border-left:4px solid #ff6b00;padding:14px 18px;margin:22px 0;border-radius:8px;font-size:14.5px;line-height:1.65;color:#1a1a2e;">
+                                        <i class="fas fa-bullseye" style="color:#ff6b00;margin-right:8px;"></i>
+                                        <strong style="color:#0a1629;">Planning a logistics, fleet or TMS app build?</strong> Read our deeper buyer-stage guide: <a href="Logistics_App_Development_Cost_India_2026_TMS_Fleet_LastMile.php" style="color:#b45309;font-weight:700;text-decoration:underline;">Logistics App Development Cost in India 2026 &mdash; TMS, Fleet, Last-Mile (Realistic Pricing)</a>.
+                                    </div>
+
 
                                     <h2>Why Most Logistics Websites Fail</h2>
                                     <p>Logistics company websites are often an afterthought — outdated designs, vague service descriptions, and no clear call to action. In a competitive market, your website is often the first impression a potential client gets. If it looks like it was built in 2015, prospects will assume your operations are equally outdated.</p>

@@ -79,6 +79,12 @@
                                     <h1>Transport Management System (TMS) Software Development Cost in India 2026 — Features, Modules &amp; Pricing</h1>
 
                                     <p>If you run a transportation business — a 3PL, a fleet operator, a freight forwarder, or a manufacturer with in-house logistics — you've probably outgrown spreadsheets, WhatsApp groups and the entry-level TMS modules bolted onto your accounting software. The next step is a <strong>custom Transport Management System (TMS)</strong> that owns route planning, dispatch, freight billing, customer portals and BI in one system. This 2026 guide covers what a real TMS includes, how Indian engineering studios price the build, and what to budget for ongoing operations. We've shipped TMS modules across our <a href='../products/courier-management-software.php'>courier management software</a> and <a href='../products/logistics-mobile-app.php'>logistics mobile app</a> stack — this guide is the playbook we hand to clients on day one.</p>
+                                    <!-- BOFU callout (auto-injected for PageRank flow) -->
+                                    <div style="background:#fff8f1;border-left:4px solid #ff6b00;padding:14px 18px;margin:22px 0;border-radius:8px;font-size:14.5px;line-height:1.65;color:#1a1a2e;">
+                                        <i class="fas fa-bullseye" style="color:#ff6b00;margin-right:8px;"></i>
+                                        <strong style="color:#0a1629;">Planning a logistics, fleet or TMS app build?</strong> Read our deeper buyer-stage guide: <a href="Logistics_App_Development_Cost_India_2026_TMS_Fleet_LastMile.php" style="color:#b45309;font-weight:700;text-decoration:underline;">Logistics App Development Cost in India 2026 &mdash; TMS, Fleet, Last-Mile (Realistic Pricing)</a>.
+                                    </div>
+
 
                                     <h2>TL;DR — TMS Software Cost in India 2026</h2>
 

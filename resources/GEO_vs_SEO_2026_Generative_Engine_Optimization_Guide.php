@@ -79,6 +79,12 @@
                                     <h1>GEO vs SEO 2026: How Generative Engine Optimization Is Replacing Traditional Search</h1>
 
                                     <p>Generative Engine Optimization (GEO) is the broader successor to SEO in 2026. Where SEO targeted Google's blue-link results, GEO targets <strong>visibility inside AI-generated answers</strong> across ChatGPT, Claude, Perplexity, Gemini, Google AI Overviews and Microsoft Copilot. AI search now drives 22&ndash;30% of informational queries (per Similarweb 2025) and that share is growing. This guide covers how GEO differs from SEO, what ranking signals matter, what content patterns win, and how to retrofit your existing SEO investment for the GEO era. ITD GrowthLabs runs <a href='../services/seo-auditing-services.php'>SEO + GEO retrofits</a> for B2B and SaaS clients.</p>
+                                    <!-- BOFU callout (auto-injected for PageRank flow) -->
+                                    <div style="background:#fff8f1;border-left:4px solid #ff6b00;padding:14px 18px;margin:22px 0;border-radius:8px;font-size:14.5px;line-height:1.65;color:#1a1a2e;">
+                                        <i class="fas fa-bullseye" style="color:#ff6b00;margin-right:8px;"></i>
+                                        <strong style="color:#0a1629;">Comparing US, UK or Australian agencies against India studios?</strong> Read our deeper buyer-stage guide: <a href="App_Development_Cost_USA_vs_India_2026_Honest_Comparison.php" style="color:#b45309;font-weight:700;text-decoration:underline;">App Development Cost: USA vs India 2026 &mdash; Honest Breakdown</a>.
+                                    </div>
+
 
                                     <h2>What Is Generative Engine Optimization?</h2>
 

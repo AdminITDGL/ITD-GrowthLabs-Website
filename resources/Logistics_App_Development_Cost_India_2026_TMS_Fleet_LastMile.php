@@ -90,6 +90,9 @@
                                         </ul>
                                     </div>
 
+                                    <?php include(__DIR__ . "/../includes/bofu_top_cta.php"); ?>
+
+
                                     <h1>Logistics App Development Cost in India 2026 &mdash; TMS, Fleet, Last-Mile (Realistic Pricing)</h1>
 
                                     <p><strong>Short answer:</strong> a Growth-tier logistics mobile app &mdash; driver app + dispatch dashboard + customer tracking &mdash; costs <strong>&#8377;18L&ndash;&#8377;35L</strong> ($21K&ndash;$42K) in India in 2026 with a 3&ndash;4 month timeline. Below that range is either an MVP or a body-shop quote; above it is enterprise scope with ERP / e-way bill / IoT integration. The biggest cost drivers are <em>real-time tracking, route optimisation, and integration with your existing carrier or ERP stack</em> &mdash; in that order.</p><p>This is the cost guide we hand to logistics operators &mdash; 3PLs, fleet companies, couriers, last-mile players &mdash; planning their first or next custom app. Real ranges, what each module actually costs to build, and the hidden costs nobody quotes upfront. From a team that has shipped <a href='../products/courier-management-software.php'>productised courier CMS</a> and <a href='../products/logistics-mobile-app.php'>logistics mobile apps</a> handling 50M+ shipments.</p>

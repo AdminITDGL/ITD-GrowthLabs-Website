@@ -93,6 +93,12 @@
                                         </ul>
                                     </div>
                                     <h1>How to Choose a Digital Marketing Company in India — Decision Guide</h1>
+                                    <!-- BOFU callout (auto-injected for PageRank flow) -->
+                                    <div style="background:#fff8f1;border-left:4px solid #ff6b00;padding:14px 18px;margin:22px 0;border-radius:8px;font-size:14.5px;line-height:1.65;color:#1a1a2e;">
+                                        <i class="fas fa-bullseye" style="color:#ff6b00;margin-right:8px;"></i>
+                                        <strong style="color:#0a1629;">Comparing US, UK or Australian agencies against India studios?</strong> Read our deeper buyer-stage guide: <a href="App_Development_Cost_USA_vs_India_2026_Honest_Comparison.php" style="color:#b45309;font-weight:700;text-decoration:underline;">App Development Cost: USA vs India 2026 &mdash; Honest Breakdown</a>.
+                                    </div>
+
 
                                     <h2>Questions to Ask Before Hiring</h2>
                                     <p>Before signing with any digital marketing company, ask these questions:</p><ol><li>Can you show case studies from my industry with specific results?</li><li>Who will manage my account — a senior strategist or a junior executive?</li><li>Do I own my ad accounts and analytics access?</li><li>What is your reporting frequency and format?</li><li>What is your client retention rate?</li><li>How do you define success, and how is it measured?</li><li>What is the minimum contract length?</li><li>Can I speak with 2-3 current clients as references?</li></ol>

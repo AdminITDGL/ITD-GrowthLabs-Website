@@ -92,6 +92,12 @@
                                     <p>
                                         As we approach 2026, the landscape of social media marketing in India is poised for significant transformation. With the rapid evolution of technology, changing consumer behaviors, and the increasing importance of digital presence, businesses must adapt to stay competitive. In this dynamic environment, ITD GrowthLabs, a leading social media marketing agency in Mumbai, is at the forefront, shaping the future of digital marketing strategies.
                                     </p>
+                                    <!-- BOFU callout (auto-injected for PageRank flow) -->
+                                    <div style="background:#fff8f1;border-left:4px solid #ff6b00;padding:14px 18px;margin:22px 0;border-radius:8px;font-size:14.5px;line-height:1.65;color:#1a1a2e;">
+                                        <i class="fas fa-bullseye" style="color:#ff6b00;margin-right:8px;"></i>
+                                        <strong style="color:#0a1629;">Comparing US, UK or Australian agencies against India studios?</strong> Read our deeper buyer-stage guide: <a href="App_Development_Cost_USA_vs_India_2026_Honest_Comparison.php" style="color:#b45309;font-weight:700;text-decoration:underline;">App Development Cost: USA vs India 2026 &mdash; Honest Breakdown</a>.
+                                    </div>
+
 
                                     <h2>AI-Powered Personalization</h2>
                                     <p>

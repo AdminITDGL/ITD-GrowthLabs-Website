@@ -93,6 +93,12 @@
                                         </ul>
                                     </div>
                                     <h1>Hospitality Industry Digital Marketing — Hotels, Resorts &amp; Travel</h1>
+                                    <!-- BOFU callout (auto-injected for PageRank flow) -->
+                                    <div style="background:#fff8f1;border-left:4px solid #ff6b00;padding:14px 18px;margin:22px 0;border-radius:8px;font-size:14.5px;line-height:1.65;color:#1a1a2e;">
+                                        <i class="fas fa-bullseye" style="color:#ff6b00;margin-right:8px;"></i>
+                                        <strong style="color:#0a1629;">Comparing US, UK or Australian agencies against India studios?</strong> Read our deeper buyer-stage guide: <a href="App_Development_Cost_USA_vs_India_2026_Honest_Comparison.php" style="color:#b45309;font-weight:700;text-decoration:underline;">App Development Cost: USA vs India 2026 &mdash; Honest Breakdown</a>.
+                                    </div>
+
 
                                     <h2>Reducing OTA Dependency Through Digital Marketing</h2>
                                     <p>Hotels pay 15-25% commission to OTAs like Booking.com, MakeMyTrip, and Agoda. Every direct booking saves that commission. Here is how to drive direct bookings:</p><ul><li><strong>Website booking engine:</strong> A seamless booking experience on your own website</li><li><strong>Google Hotel Ads:</strong> Appear directly in Google search with your rates and availability</li><li><strong>SEO:</strong> Rank for "hotels in [destination]" and "best resorts near [city]"</li><li><strong>Email marketing:</strong> Build a guest database and send personalized offers for repeat visits</li><li><strong>Social media:</strong> Instagram and YouTube showcasing property experiences</li><li><strong>Loyalty program:</strong> Reward guests who book directly</li></ul><p><a href="../contact-us.php">ITD GrowthLabs</a> helps hospitality businesses increase direct bookings. <a href="../contact-us.php">Get started</a>.</p>

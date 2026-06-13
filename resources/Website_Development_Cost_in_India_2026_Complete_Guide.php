@@ -93,6 +93,12 @@
                                         </ul>
                                     </div>
                                     <h1>Website Development Cost in India 2026 — Complete Pricing Guide</h1>
+                                    <!-- BOFU callout (auto-injected for PageRank flow) -->
+                                    <div style="background:#fff8f1;border-left:4px solid #ff6b00;padding:14px 18px;margin:22px 0;border-radius:8px;font-size:14.5px;line-height:1.65;color:#1a1a2e;">
+                                        <i class="fas fa-bullseye" style="color:#ff6b00;margin-right:8px;"></i>
+                                        <strong style="color:#0a1629;">Scoping a custom web application for a SaaS startup?</strong> Read our deeper buyer-stage guide: <a href="Custom_Web_Application_Development_for_SaaS_Startups_2026_Stack_Cost_Timeline.php" style="color:#b45309;font-weight:700;text-decoration:underline;">Custom Web App Development for SaaS Startups 2026 &mdash; Stack, Cost &amp; Timeline</a>.
+                                    </div>
+
 
                                     <h2>Average Website Development Costs in India</h2>
                                     <p>Website development costs in India vary widely based on complexity, features, and the development approach. Here is a realistic breakdown for 2026:</p><ul><li><strong>Basic business website (5-10 pages):</strong> Rs. 25,000-80,000</li><li><strong>WordPress website with custom theme:</strong> Rs. 50,000-2,00,000</li><li><strong>E-commerce website (Shopify/WooCommerce):</strong> Rs. 1,00,000-5,00,000</li><li><strong>Custom-coded website (React/Next.js):</strong> Rs. 2,00,000-10,00,000</li><li><strong>Enterprise web application:</strong> Rs. 5,00,000-25,00,000+</li></ul><p>At <a href="../website_development.php">ITD GrowthLabs</a>, we provide transparent pricing with no hidden costs. Every project starts with a detailed scope document and fixed-price quote.</p>

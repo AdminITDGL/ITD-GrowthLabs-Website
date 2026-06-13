@@ -79,6 +79,12 @@
                                     <h1>Software Outsourcing to India: Complete Guide for 2026</h1>
 
                                     <p>India delivered $250B+ of IT exports in 2025 and is on track for $300B+ in 2026. For a US, UK, UAE or Australian founder, choosing the right Indian software partner is one of the highest-leverage decisions of the project. Get it right and you ship 3&ndash;5&times; faster per dollar. Get it wrong and you waste 6 months before realising the gap. This guide is the playbook we wish more first-time clients had read before calling us. ITD GrowthLabs is one of <a href='../app_development.php'>India's app development studios</a> &mdash; this guide is vendor-agnostic in advice, even where it points back to us as one option.</p>
+                                    <!-- BOFU callout (auto-injected for PageRank flow) -->
+                                    <div style="background:#fff8f1;border-left:4px solid #ff6b00;padding:14px 18px;margin:22px 0;border-radius:8px;font-size:14.5px;line-height:1.65;color:#1a1a2e;">
+                                        <i class="fas fa-bullseye" style="color:#ff6b00;margin-right:8px;"></i>
+                                        <strong style="color:#0a1629;">Comparing US, UK or Australian agencies against India studios?</strong> Read our deeper buyer-stage guide: <a href="App_Development_Cost_USA_vs_India_2026_Honest_Comparison.php" style="color:#b45309;font-weight:700;text-decoration:underline;">App Development Cost: USA vs India 2026 &mdash; Honest Breakdown</a>.
+                                    </div>
+
 
                                     <h2>Why India Won the Outsourcing Race (and Where the Limits Are)</h2>
 

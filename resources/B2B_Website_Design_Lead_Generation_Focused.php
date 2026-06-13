@@ -93,6 +93,12 @@
                                         </ul>
                                     </div>
                                     <h1>B2B Website Design: How to Build a Lead Generation Machine</h1>
+                                    <!-- BOFU callout (auto-injected for PageRank flow) -->
+                                    <div style="background:#fff8f1;border-left:4px solid #ff6b00;padding:14px 18px;margin:22px 0;border-radius:8px;font-size:14.5px;line-height:1.65;color:#1a1a2e;">
+                                        <i class="fas fa-bullseye" style="color:#ff6b00;margin-right:8px;"></i>
+                                        <strong style="color:#0a1629;">Scoping a custom web application for a SaaS startup?</strong> Read our deeper buyer-stage guide: <a href="Custom_Web_Application_Development_for_SaaS_Startups_2026_Stack_Cost_Timeline.php" style="color:#b45309;font-weight:700;text-decoration:underline;">Custom Web App Development for SaaS Startups 2026 &mdash; Stack, Cost &amp; Timeline</a>.
+                                    </div>
+
 
                                     <h2>Why Most B2B Websites Fail at Lead Generation</h2>
                                     <p>Most B2B websites are digital brochures — they describe services but do not give visitors a reason to take action. The result is traffic without conversions. Common mistakes include:</p><ul><li>No clear value proposition on the homepage</li><li>Vague CTAs like "Learn More" instead of specific actions</li><li>Missing trust signals (no case studies, testimonials, or certifications)</li><li>Content that talks about the company instead of the customer's problem</li><li>No lead magnets or low-commitment conversion paths</li></ul>

@@ -93,6 +93,12 @@
                                         </ul>
                                     </div>
                                     <h1>How Logistics Companies Generate Leads Online — Proven Digital Strategies</h1>
+                                    <!-- BOFU callout (auto-injected for PageRank flow) -->
+                                    <div style="background:#fff8f1;border-left:4px solid #ff6b00;padding:14px 18px;margin:22px 0;border-radius:8px;font-size:14.5px;line-height:1.65;color:#1a1a2e;">
+                                        <i class="fas fa-bullseye" style="color:#ff6b00;margin-right:8px;"></i>
+                                        <strong style="color:#0a1629;">Planning a logistics, fleet or TMS app build?</strong> Read our deeper buyer-stage guide: <a href="Logistics_App_Development_Cost_India_2026_TMS_Fleet_LastMile.php" style="color:#b45309;font-weight:700;text-decoration:underline;">Logistics App Development Cost in India 2026 &mdash; TMS, Fleet, Last-Mile (Realistic Pricing)</a>.
+                                    </div>
+
 
                                     <h2>Digital Marketing Channels for Logistics</h2>
                                     <p>Logistics is a B2B industry with long sales cycles and high-value contracts. The right digital marketing strategy can fill your pipeline with qualified leads. Here are the channels that work:</p><ul><li><strong>SEO:</strong> Rank for searches like "freight forwarding company in Mumbai" or "cold chain logistics India"</li><li><strong>Google Ads:</strong> Target high-intent keywords for immediate lead generation</li><li><strong>LinkedIn:</strong> Publish thought leadership content and run targeted ads to supply chain managers</li><li><strong>Content marketing:</strong> Blog posts, whitepapers, and case studies that demonstrate expertise</li><li><strong>Email marketing:</strong> Nurture leads with industry insights and service updates</li></ul>

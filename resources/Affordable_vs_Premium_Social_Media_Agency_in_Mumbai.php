@@ -116,6 +116,12 @@
                                     <p>
                                         In today’s fast-moving digital landscape, social media presence isn’t optional, it’s essential. But for businesses in Mumbai trying to pick a social media agency, one recurring dilemma arises: should you go for an affordable agency or invest in a premium one? Each has pros and cons. The key is identifying which fits your stage, goals, and budget. In this discussion, we’ll explore that divide, and show why ITD GrowthLabs emerges as a standout choice among social media agencies in Mumbai.
                                     </p>
+                                    <!-- BOFU callout (auto-injected for PageRank flow) -->
+                                    <div style="background:#fff8f1;border-left:4px solid #ff6b00;padding:14px 18px;margin:22px 0;border-radius:8px;font-size:14.5px;line-height:1.65;color:#1a1a2e;">
+                                        <i class="fas fa-bullseye" style="color:#ff6b00;margin-right:8px;"></i>
+                                        <strong style="color:#0a1629;">Comparing US, UK or Australian agencies against India studios?</strong> Read our deeper buyer-stage guide: <a href="App_Development_Cost_USA_vs_India_2026_Honest_Comparison.php" style="color:#b45309;font-weight:700;text-decoration:underline;">App Development Cost: USA vs India 2026 &mdash; Honest Breakdown</a>.
+                                    </div>
+
 
                                     <h2>Understanding the Difference: Affordable vs Premium</h2>
                                     <p>

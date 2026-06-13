@@ -79,6 +79,12 @@
                                     <h1>What Is Answer Engine Optimization (AEO)? The Complete 2026 Guide</h1>
 
                                     <p><strong>Answer Engine Optimization (AEO)</strong> is the discipline of structuring your content so that ChatGPT, Claude, Perplexity, Gemini and Google's AI Overviews <em>cite your site as the source</em> when a user asks a question. It's the natural successor to SEO &mdash; users increasingly query AI engines instead of searching Google manually, and being cited (with brand attribution) is the new ranking. This guide is the complete 2026 playbook: what AEO is, how it differs from SEO, the schema patterns that work, the content structure AI engines prefer, and how to measure citation lift. ITD GrowthLabs runs <a href='../services/seo-auditing-services.php'>full-funnel SEO + AEO + GEO retrofits</a> for B2B clients.</p>
+                                    <!-- BOFU callout (auto-injected for PageRank flow) -->
+                                    <div style="background:#fff8f1;border-left:4px solid #ff6b00;padding:14px 18px;margin:22px 0;border-radius:8px;font-size:14.5px;line-height:1.65;color:#1a1a2e;">
+                                        <i class="fas fa-bullseye" style="color:#ff6b00;margin-right:8px;"></i>
+                                        <strong style="color:#0a1629;">Comparing US, UK or Australian agencies against India studios?</strong> Read our deeper buyer-stage guide: <a href="App_Development_Cost_USA_vs_India_2026_Honest_Comparison.php" style="color:#b45309;font-weight:700;text-decoration:underline;">App Development Cost: USA vs India 2026 &mdash; Honest Breakdown</a>.
+                                    </div>
+
 
                                     <h2>What AEO Actually Means in 2026</h2>
 

@@ -93,6 +93,12 @@
                                         </ul>
                                     </div>
                                     <h1>Custom Warehouse Management App Development — Features, Cost &amp; Process</h1>
+                                    <!-- BOFU callout (auto-injected for PageRank flow) -->
+                                    <div style="background:#fff8f1;border-left:4px solid #ff6b00;padding:14px 18px;margin:22px 0;border-radius:8px;font-size:14.5px;line-height:1.65;color:#1a1a2e;">
+                                        <i class="fas fa-bullseye" style="color:#ff6b00;margin-right:8px;"></i>
+                                        <strong style="color:#0a1629;">Planning a logistics, fleet or TMS app build?</strong> Read our deeper buyer-stage guide: <a href="Logistics_App_Development_Cost_India_2026_TMS_Fleet_LastMile.php" style="color:#b45309;font-weight:700;text-decoration:underline;">Logistics App Development Cost in India 2026 &mdash; TMS, Fleet, Last-Mile (Realistic Pricing)</a>.
+                                    </div>
+
 
                                     <h2>Why Custom Warehouse Management Software</h2>
                                     <p>Generic warehouse management systems (WMS) often come with features you do not need, lack features you do need, and charge per-user licensing fees that scale painfully. A custom warehouse management app, built around your specific workflows, pays for itself through efficiency gains and eliminated licensing costs.</p><p><a href="../app_development.php">ITD GrowthLabs</a> builds warehouse management solutions that handle everything from receiving and putaway to picking, packing, shipping, and returns.</p>

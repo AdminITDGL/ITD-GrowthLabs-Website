@@ -79,6 +79,12 @@
                                     <h1>B2B Wholesale Marketplace App Development 2026: Build the Next Udaan, Reliance JioMart Partner or Faire</h1>
 
                                     <p>B2B wholesale e-commerce in India hit $40B+ GMV in 2025 (Udaan, JioMart Partner, ElasticRun, Bizongo all shipping at scale), yet the market is still &lt;15% digitised. There's a clear opportunity to build a B2B wholesale marketplace serving a regional or vertical niche that incumbents underserve. This guide covers the architecture, credit and invoicing logic, route-to-market planning, and the differences from B2C marketplace builds. ITD GrowthLabs has shipped B2B marketplaces using our <a href='../products/multi-vendor-marketplace-app.php'>multi-vendor marketplace platform</a> for clients in apparel, FMCG, electronics distribution and packaged food.</p>
+                                    <!-- BOFU callout (auto-injected for PageRank flow) -->
+                                    <div style="background:#fff8f1;border-left:4px solid #ff6b00;padding:14px 18px;margin:22px 0;border-radius:8px;font-size:14.5px;line-height:1.65;color:#1a1a2e;">
+                                        <i class="fas fa-bullseye" style="color:#ff6b00;margin-right:8px;"></i>
+                                        <strong style="color:#0a1629;">Planning a multi-vendor marketplace launch?</strong> Read our deeper buyer-stage guide: <a href="Multi_Vendor_Marketplace_App_Development_2026_Food_vs_Grocery_vs_Pharmacy_vs_Hyperlocal.php" style="color:#b45309;font-weight:700;text-decoration:underline;">Multi-Vendor Marketplace App Development 2026 &mdash; Food vs Grocery vs Pharmacy vs Hyperlocal</a>.
+                                    </div>
+
 
                                     <h2>How B2B Marketplace Differs From B2C</h2>
 

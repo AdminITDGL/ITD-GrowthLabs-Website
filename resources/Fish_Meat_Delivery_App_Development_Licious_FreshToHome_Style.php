@@ -79,6 +79,12 @@
                                     <h1>Fish &amp; Meat Delivery App Development (Licious / FreshToHome Style): 2026 Guide</h1>
 
                                     <p>Online fish &amp; meat delivery is one of India's fastest-growing D2C verticals — Licious crossed unicorn status, FreshToHome serves 14+ cities, and dozens of regional brands (Captain Fresh, Zappfresh, Fipola) are scaling in their respective metros. The category looks like grocery from the outside, but the engineering and operations are fundamentally different: cold chain at every step, weight-based pricing, fresh-cut customisation, and inventory that spoils within 24 hours. This guide breaks down what it takes to build one in 2026.</p>
+                                    <!-- BOFU callout (auto-injected for PageRank flow) -->
+                                    <div style="background:#fff8f1;border-left:4px solid #ff6b00;padding:14px 18px;margin:22px 0;border-radius:8px;font-size:14.5px;line-height:1.65;color:#1a1a2e;">
+                                        <i class="fas fa-bullseye" style="color:#ff6b00;margin-right:8px;"></i>
+                                        <strong style="color:#0a1629;">Planning a logistics, fleet or TMS app build?</strong> Read our deeper buyer-stage guide: <a href="Logistics_App_Development_Cost_India_2026_TMS_Fleet_LastMile.php" style="color:#b45309;font-weight:700;text-decoration:underline;">Logistics App Development Cost in India 2026 &mdash; TMS, Fleet, Last-Mile (Realistic Pricing)</a>.
+                                    </div>
+
 
                                     <h2>Why Fish &amp; Meat Apps Are Different from Grocery</h2>
 

@@ -79,6 +79,12 @@
                                     <h1>App Development Company in UK 2026: London Rates, Manchester Studios, and the India Partner Option</h1>
 
                                     <p>UK founders evaluating an <strong>app development company in 2026</strong> face a sharper budget squeeze than ever. London-based agencies have raised rates 18&ndash;25% since 2023 (post-Brexit talent supply shock), while clients still benchmark against pre-2020 prices. Manchester, Bristol and Leeds studios are 30&ndash;40% cheaper than London but still 2&ndash;3&times; an Indian partner. This guide covers what UK clients actually pay, GDPR considerations when offshoring, and how to vet a partner. Disclosure: we are an Indian <a href='../app_development.php'>app development studio</a> serving 30+ UK clients across fintech, logistics, e-commerce and healthcare.</p>
+                                    <!-- BOFU callout (auto-injected for PageRank flow) -->
+                                    <div style="background:#fff8f1;border-left:4px solid #ff6b00;padding:14px 18px;margin:22px 0;border-radius:8px;font-size:14.5px;line-height:1.65;color:#1a1a2e;">
+                                        <i class="fas fa-bullseye" style="color:#ff6b00;margin-right:8px;"></i>
+                                        <strong style="color:#0a1629;">Comparing US, UK or Australian agencies against India studios?</strong> Read our deeper buyer-stage guide: <a href="App_Development_Cost_USA_vs_India_2026_Honest_Comparison.php" style="color:#b45309;font-weight:700;text-decoration:underline;">App Development Cost: USA vs India 2026 &mdash; Honest Breakdown</a>.
+                                    </div>
+
 
                                     <h2>UK App Dev Cost Reality Check 2026</h2>
 

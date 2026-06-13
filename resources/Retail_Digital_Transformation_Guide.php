@@ -93,6 +93,12 @@
                                         </ul>
                                     </div>
                                     <h1>Retail Digital Transformation: From Brick-and-Mortar to Omnichannel</h1>
+                                    <!-- BOFU callout (auto-injected for PageRank flow) -->
+                                    <div style="background:#fff8f1;border-left:4px solid #ff6b00;padding:14px 18px;margin:22px 0;border-radius:8px;font-size:14.5px;line-height:1.65;color:#1a1a2e;">
+                                        <i class="fas fa-bullseye" style="color:#ff6b00;margin-right:8px;"></i>
+                                        <strong style="color:#0a1629;">Comparing US, UK or Australian agencies against India studios?</strong> Read our deeper buyer-stage guide: <a href="App_Development_Cost_USA_vs_India_2026_Honest_Comparison.php" style="color:#b45309;font-weight:700;text-decoration:underline;">App Development Cost: USA vs India 2026 &mdash; Honest Breakdown</a>.
+                                    </div>
+
 
                                     <h2>Digital Transformation Roadmap for Retail</h2>
                                     <ol><li><strong>E-commerce website:</strong> Launch an online store that complements your physical locations</li><li><strong>Mobile app:</strong> Loyalty programs, push notifications, and mobile ordering</li><li><strong>Inventory sync:</strong> Real-time inventory across online and offline channels</li><li><strong>Customer data platform:</strong> Unified customer profiles across all touchpoints</li><li><strong>Digital marketing:</strong> Google Shopping, Instagram Shopping, and local SEO</li><li><strong>Analytics:</strong> Track customer behavior across channels for better decisions</li></ol><p><a href="../industries/ecommerce.php">ITD GrowthLabs</a> helps retail businesses go digital. <a href="../contact-us.php">Start your transformation</a>.</p>

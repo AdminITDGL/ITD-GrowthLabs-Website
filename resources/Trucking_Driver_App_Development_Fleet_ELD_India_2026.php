@@ -79,6 +79,12 @@
                                     <h1>Trucking &amp;amp; Driver App Development 2026 — Fleet, ELD, Compliance &amp;amp; Cost in India</h1>
 
                                     <p>Trucking apps in 2026 are no longer a tracker bolted onto a dispatcher's screen. The operators winning share are the ones whose drivers <em>actually use</em> the app — for earnings, e-POD, FASTag balance, fuel-card top-ups, ELD compliance and roadside support. If your driver is opening the app 8+ times a shift, you've won. If they're avoiding it, you've built dispatcher-ware. This guide covers the modules, the cost, the compliance stack (Indian e-way bill, US ELD/HOS, EU tachograph) and the design patterns that decide whether your fleet adopts your app or ignores it. (See parallel coverage in our <a href='../products/logistics-mobile-app.php'>logistics mobile app</a> hub.)</p>
+                                    <!-- BOFU callout (auto-injected for PageRank flow) -->
+                                    <div style="background:#fff8f1;border-left:4px solid #ff6b00;padding:14px 18px;margin:22px 0;border-radius:8px;font-size:14.5px;line-height:1.65;color:#1a1a2e;">
+                                        <i class="fas fa-bullseye" style="color:#ff6b00;margin-right:8px;"></i>
+                                        <strong style="color:#0a1629;">Planning a logistics, fleet or TMS app build?</strong> Read our deeper buyer-stage guide: <a href="Logistics_App_Development_Cost_India_2026_TMS_Fleet_LastMile.php" style="color:#b45309;font-weight:700;text-decoration:underline;">Logistics App Development Cost in India 2026 &mdash; TMS, Fleet, Last-Mile (Realistic Pricing)</a>.
+                                    </div>
+
 
                                     <h2>TL;DR — Trucking &amp; Driver App Cost</h2>
 

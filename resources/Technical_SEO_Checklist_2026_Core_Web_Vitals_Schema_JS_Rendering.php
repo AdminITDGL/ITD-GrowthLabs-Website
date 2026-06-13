@@ -79,6 +79,12 @@
                                     <h1>Technical SEO Checklist 2026: Core Web Vitals, Schema, JS Rendering &amp; INP</h1>
 
                                     <p>Technical SEO in 2026 is no longer just about <code>robots.txt</code> and sitemap.xml. With INP (Interaction to Next Paint) replacing FID as a Core Web Vital, JavaScript-heavy SPAs needing pre-rendering for AI engines, and structured data driving both Google rich results and AI citations, the surface area has grown. This checklist is what we run on every audit at <a href='../services/seo-auditing-services.php'>ITD GrowthLabs SEO audits</a>. Treat it as a self-serve scorecard &mdash; fix the failures and you'll outrank 80% of competitors who haven't updated their tech-SEO playbook since 2022.</p>
+                                    <!-- BOFU callout (auto-injected for PageRank flow) -->
+                                    <div style="background:#fff8f1;border-left:4px solid #ff6b00;padding:14px 18px;margin:22px 0;border-radius:8px;font-size:14.5px;line-height:1.65;color:#1a1a2e;">
+                                        <i class="fas fa-bullseye" style="color:#ff6b00;margin-right:8px;"></i>
+                                        <strong style="color:#0a1629;">Comparing US, UK or Australian agencies against India studios?</strong> Read our deeper buyer-stage guide: <a href="App_Development_Cost_USA_vs_India_2026_Honest_Comparison.php" style="color:#b45309;font-weight:700;text-decoration:underline;">App Development Cost: USA vs India 2026 &mdash; Honest Breakdown</a>.
+                                    </div>
+
 
                                     <h2>Core Web Vitals 2026: LCP, INP, CLS</h2>
 

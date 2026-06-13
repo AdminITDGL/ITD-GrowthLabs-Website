@@ -79,6 +79,12 @@
                                     <h1>Liquor / Alcohol Delivery App Development 2026: Build a Drizly, Hipbar or HipBar-Style Platform</h1>
 
                                     <p>Liquor delivery hit $9B GMV in the USA in 2025 (Drizly + Instacart + DoorDash) and is one of the most regulated, highest-margin marketplace verticals to build for. India's market is fragmented by state (West Bengal, Maharashtra, Odisha, Karnataka allow it; Gujarat, Bihar prohibit it). UAE is licensed-only, permit-required. This guide covers the regulatory architecture, age-verification tech, licensed-zone geofencing, payment quirks, and cost breakdown. We've shipped liquor delivery apps using our <a href='../products/multi-vendor-marketplace-app.php'>marketplace platform</a> for licensed retailer chains.</p>
+                                    <!-- BOFU callout (auto-injected for PageRank flow) -->
+                                    <div style="background:#fff8f1;border-left:4px solid #ff6b00;padding:14px 18px;margin:22px 0;border-radius:8px;font-size:14.5px;line-height:1.65;color:#1a1a2e;">
+                                        <i class="fas fa-bullseye" style="color:#ff6b00;margin-right:8px;"></i>
+                                        <strong style="color:#0a1629;">Planning a logistics, fleet or TMS app build?</strong> Read our deeper buyer-stage guide: <a href="Logistics_App_Development_Cost_India_2026_TMS_Fleet_LastMile.php" style="color:#b45309;font-weight:700;text-decoration:underline;">Logistics App Development Cost in India 2026 &mdash; TMS, Fleet, Last-Mile (Realistic Pricing)</a>.
+                                    </div>
+
 
                                     <h2>Legal &amp; Regulatory Reality Check</h2>
 

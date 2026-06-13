@@ -90,6 +90,12 @@
                                             <li><i class="fas fa-calendar-alt"></i> 17 May, 2025</li>
                                         </ul>
                                     </div>
+                                    <!-- BOFU callout (auto-injected for PageRank flow) -->
+                                    <div style="background:#fff8f1;border-left:4px solid #ff6b00;padding:14px 18px;margin:22px 0;border-radius:8px;font-size:14.5px;line-height:1.65;color:#1a1a2e;">
+                                        <i class="fas fa-bullseye" style="color:#ff6b00;margin-right:8px;"></i>
+                                        <strong style="color:#0a1629;">Comparing US, UK or Australian agencies against India studios?</strong> Read our deeper buyer-stage guide: <a href="App_Development_Cost_USA_vs_India_2026_Honest_Comparison.php" style="color:#b45309;font-weight:700;text-decoration:underline;">App Development Cost: USA vs India 2026 &mdash; Honest Breakdown</a>.
+                                    </div>
+
                                     <h2>Introduction</h2>
                                     <p>If you've ever read a software manual, a product guide, or an instruction booklet, you've come across technical writing. But what is technical writing exactly? It is the art and science of breaking down complex information into clear, concise, and usable documentation for a specific audience. For those stepping into this niche, beginner technical writing can seem overwhelming. From understanding technical concepts to structuring technical documentation, the learning curve is steep—but manageable with the right guidance.</p>
                                     <p>This guide will help you understand the fundamentals of writing for tech, what skills you need, and how to build your career in this rewarding field. Whether you're a student, a career switcher, or a writer looking to niche down, this blog is your go-to resource. With the support of companies like ITD GrowthLabs, breaking into technical writing has never been more accessible.</p>

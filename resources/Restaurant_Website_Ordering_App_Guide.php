@@ -93,6 +93,12 @@
                                         </ul>
                                     </div>
                                     <h1>Restaurant Website and Online Ordering App — Complete Guide</h1>
+                                    <!-- BOFU callout (auto-injected for PageRank flow) -->
+                                    <div style="background:#fff8f1;border-left:4px solid #ff6b00;padding:14px 18px;margin:22px 0;border-radius:8px;font-size:14.5px;line-height:1.65;color:#1a1a2e;">
+                                        <i class="fas fa-bullseye" style="color:#ff6b00;margin-right:8px;"></i>
+                                        <strong style="color:#0a1629;">Planning a multi-vendor marketplace launch?</strong> Read our deeper buyer-stage guide: <a href="Multi_Vendor_Marketplace_App_Development_2026_Food_vs_Grocery_vs_Pharmacy_vs_Hyperlocal.php" style="color:#b45309;font-weight:700;text-decoration:underline;">Multi-Vendor Marketplace App Development 2026 &mdash; Food vs Grocery vs Pharmacy vs Hyperlocal</a>.
+                                    </div>
+
 
                                     <h2>What Your Restaurant Website Needs</h2>
                                     <ul><li>Online menu with photos, descriptions, and prices</li><li>Online ordering system integrated with your kitchen workflow</li><li>Table reservation booking</li><li>Google Maps integration with directions</li><li>Customer reviews and testimonials</li><li>Photo gallery of food, ambiance, and events</li><li>WhatsApp ordering for quick, familiar ordering</li><li>Mobile-first design (most restaurant searches are on mobile)</li></ul><p><a href="../website_development.php">ITD GrowthLabs</a> builds restaurant websites and ordering apps. <a href="../contact-us.php">Get started</a>.</p>

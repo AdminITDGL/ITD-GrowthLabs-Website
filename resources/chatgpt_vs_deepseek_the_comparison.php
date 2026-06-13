@@ -165,6 +165,12 @@
                                     </p>
 
                                     <p>They use the personal data provided for many different purposes, such as to provide analyze and maintain their service, to improve and develop their services, to communicate with the users, to prevent fraud, illegal activity, or misuses of their services, and to protect the security of their system and to comply with legal obligations and to protect the rights, privacy, safety or property of their users, OpenAI or third parties.</p>
+                                    <!-- BOFU callout (auto-injected for PageRank flow) -->
+                                    <div style="background:#fff8f1;border-left:4px solid #ff6b00;padding:14px 18px;margin:22px 0;border-radius:8px;font-size:14.5px;line-height:1.65;color:#1a1a2e;">
+                                        <i class="fas fa-bullseye" style="color:#ff6b00;margin-right:8px;"></i>
+                                        <strong style="color:#0a1629;">Comparing US, UK or Australian agencies against India studios?</strong> Read our deeper buyer-stage guide: <a href="App_Development_Cost_USA_vs_India_2026_Honest_Comparison.php" style="color:#b45309;font-weight:700;text-decoration:underline;">App Development Cost: USA vs India 2026 &mdash; Honest Breakdown</a>.
+                                    </div>
+
 
                                     <h2>DeepSeek</h2>
 

@@ -79,6 +79,12 @@
                                     <h1>Last-Mile Delivery Technology Trends 2026: What&#x27;s Actually Working in India</h1>
 
                                     <p>Last-mile delivery in India 2026 is undergoing its third major reset since 2020. The first wave digitised manifests; the second introduced rider apps and live tracking; the third — happening now — is driven by AI route optimisation, EV fleet integration, and customer SLA expectations that drop with every Blinkit delivery promise. This guide cuts past vendor marketing to what's actually deployed and working in Indian last-mile operations in 2026.</p>
+                                    <!-- BOFU callout (auto-injected for PageRank flow) -->
+                                    <div style="background:#fff8f1;border-left:4px solid #ff6b00;padding:14px 18px;margin:22px 0;border-radius:8px;font-size:14.5px;line-height:1.65;color:#1a1a2e;">
+                                        <i class="fas fa-bullseye" style="color:#ff6b00;margin-right:8px;"></i>
+                                        <strong style="color:#0a1629;">Planning a logistics, fleet or TMS app build?</strong> Read our deeper buyer-stage guide: <a href="Logistics_App_Development_Cost_India_2026_TMS_Fleet_LastMile.php" style="color:#b45309;font-weight:700;text-decoration:underline;">Logistics App Development Cost in India 2026 &mdash; TMS, Fleet, Last-Mile (Realistic Pricing)</a>.
+                                    </div>
+
 
                                     <h2>Trend #1: AI Route Optimisation Becomes Table-Stakes</h2>
 

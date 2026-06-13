@@ -93,6 +93,12 @@
                                         </ul>
                                     </div>
                                     <h1>Startup Digital Strategy on a Budget — What to Prioritize</h1>
+                                    <!-- BOFU callout (auto-injected for PageRank flow) -->
+                                    <div style="background:#fff8f1;border-left:4px solid #ff6b00;padding:14px 18px;margin:22px 0;border-radius:8px;font-size:14.5px;line-height:1.65;color:#1a1a2e;">
+                                        <i class="fas fa-bullseye" style="color:#ff6b00;margin-right:8px;"></i>
+                                        <strong style="color:#0a1629;">Comparing US, UK or Australian agencies against India studios?</strong> Read our deeper buyer-stage guide: <a href="App_Development_Cost_USA_vs_India_2026_Honest_Comparison.php" style="color:#b45309;font-weight:700;text-decoration:underline;">App Development Cost: USA vs India 2026 &mdash; Honest Breakdown</a>.
+                                    </div>
+
 
                                     <h2>Priority Stack for Startups</h2>
                                     <ol><li><strong>Lean website (Week 1-3):</strong> A clean 5-page site that explains what you do and captures leads. Rs. 30,000-80,000.</li><li><strong>Google Business Profile (Week 1):</strong> Free. Essential for local visibility.</li><li><strong>LinkedIn presence (Ongoing):</strong> Founder posts 3x/week. Free. Builds authority and generates B2B leads.</li><li><strong>Google Ads for validation (Month 2):</strong> Rs. 20,000/month to test messaging and demand. Kill what doesn't work fast.</li><li><strong>SEO and content (Month 3+):</strong> Start a blog targeting the exact questions your buyers ask.</li><li><strong>Email capture and nurture (Month 3+):</strong> Lead magnet on your site, automated follow-up sequence.</li></ol><p>Skip everything else until you have product-market fit and revenue. <a href="../industries/startups.php">ITD GrowthLabs</a> offers startup packages designed for lean budgets. <a href="../contact-us.php">Talk to us</a>.</p>

@@ -79,6 +79,12 @@
                                     <h1>How to Build a Swiggy / Zomato Clone in 2026: Cost, Features, Tech Stack</h1>
 
                                     <p>&#8220;How do I build a Swiggy clone?&#8221; is one of the top three founder questions our marketplace team handles every quarter. The honest answer is that you don't want a literal clone — you want the proven Swiggy/Zomato architecture applied to <em>your</em> wedge: a city Swiggy ignores, a cuisine niche, a B2B restaurant supply play, or a regional cloud-kitchen brand. This guide is the 2026 build playbook: features, stack, cost, timeline, and pitfalls.</p>
+                                    <!-- BOFU callout (auto-injected for PageRank flow) -->
+                                    <div style="background:#fff8f1;border-left:4px solid #ff6b00;padding:14px 18px;margin:22px 0;border-radius:8px;font-size:14.5px;line-height:1.65;color:#1a1a2e;">
+                                        <i class="fas fa-bullseye" style="color:#ff6b00;margin-right:8px;"></i>
+                                        <strong style="color:#0a1629;">Comparing US, UK or Australian agencies against India studios?</strong> Read our deeper buyer-stage guide: <a href="App_Development_Cost_USA_vs_India_2026_Honest_Comparison.php" style="color:#b45309;font-weight:700;text-decoration:underline;">App Development Cost: USA vs India 2026 &mdash; Honest Breakdown</a>.
+                                    </div>
+
 
                                     <h2>TL;DR — What a Modern Swiggy / Zomato Clone Looks Like</h2>
 

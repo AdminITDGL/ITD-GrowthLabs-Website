@@ -93,6 +93,12 @@
                                         </ul>
                                     </div>
                                     <h1>Courier Management Software: Features, Benefits &amp; ROI for Your Business</h1>
+                                    <!-- BOFU callout (auto-injected for PageRank flow) -->
+                                    <div style="background:#fff8f1;border-left:4px solid #ff6b00;padding:14px 18px;margin:22px 0;border-radius:8px;font-size:14.5px;line-height:1.65;color:#1a1a2e;">
+                                        <i class="fas fa-bullseye" style="color:#ff6b00;margin-right:8px;"></i>
+                                        <strong style="color:#0a1629;">Planning a logistics, fleet or TMS app build?</strong> Read our deeper buyer-stage guide: <a href="Logistics_App_Development_Cost_India_2026_TMS_Fleet_LastMile.php" style="color:#b45309;font-weight:700;text-decoration:underline;">Logistics App Development Cost in India 2026 &mdash; TMS, Fleet, Last-Mile (Realistic Pricing)</a>.
+                                    </div>
+
 
                                     <h2>What Is Courier Management Software?</h2>
                                     <p>Courier management software is a digital platform that automates and optimizes the entire delivery lifecycle — from order booking and dispatch to route planning, tracking, proof of delivery, and billing. For courier and logistics companies handling hundreds or thousands of daily deliveries, this software is the difference between profitable operations and chaos.</p><p>At <a href="../index.php">ITD GrowthLabs</a>, we build custom courier management systems tailored to how your business actually operates — not generic off-the-shelf solutions that force you to adapt.</p>

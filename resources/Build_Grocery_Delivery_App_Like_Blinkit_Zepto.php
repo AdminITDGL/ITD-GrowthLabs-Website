@@ -79,6 +79,12 @@
                                     <h1>Build a Grocery Delivery App Like Blinkit / Zepto: Complete Guide (2026)</h1>
 
                                     <p>Quick-commerce grocery — the Blinkit / Zepto / Swiggy Instamart pattern — became one of India's most competitive consumer-tech categories in 2024–2025. Building a clone requires more than &#8220;a customer app and a few APIs.&#8221; It needs an inventory engine, a picker workflow, a dispatch algorithm, and a dark store operating model. This guide is the engineering and commercial blueprint we use at ITD GrowthLabs to ship grocery apps for clients across India, the UAE and Africa.</p>
+                                    <!-- BOFU callout (auto-injected for PageRank flow) -->
+                                    <div style="background:#fff8f1;border-left:4px solid #ff6b00;padding:14px 18px;margin:22px 0;border-radius:8px;font-size:14.5px;line-height:1.65;color:#1a1a2e;">
+                                        <i class="fas fa-bullseye" style="color:#ff6b00;margin-right:8px;"></i>
+                                        <strong style="color:#0a1629;">Planning a multi-vendor marketplace launch?</strong> Read our deeper buyer-stage guide: <a href="Multi_Vendor_Marketplace_App_Development_2026_Food_vs_Grocery_vs_Pharmacy_vs_Hyperlocal.php" style="color:#b45309;font-weight:700;text-decoration:underline;">Multi-Vendor Marketplace App Development 2026 &mdash; Food vs Grocery vs Pharmacy vs Hyperlocal</a>.
+                                    </div>
+
 
                                     <h2>What a Real Quick-Commerce Grocery App Includes</h2>
 

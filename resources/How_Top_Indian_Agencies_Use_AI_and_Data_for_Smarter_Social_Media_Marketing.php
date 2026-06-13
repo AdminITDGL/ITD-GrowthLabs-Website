@@ -93,6 +93,12 @@
                                     <p>
                                         In the rapidly evolving digital landscape, businesses are increasingly turning to artificial intelligence (AI) and data-driven strategies to enhance their social media marketing efforts. Indian agencies, in particular, are at the forefront of this transformation, leveraging advanced technologies to craft smarter, more effective campaigns. Among these, ITD GrowthLabs stands out as a premier growth marketing agency, offering cutting-edge solutions that integrate AI and data analytics to drive business success.
                                     </p>
+                                    <!-- BOFU callout (auto-injected for PageRank flow) -->
+                                    <div style="background:#fff8f1;border-left:4px solid #ff6b00;padding:14px 18px;margin:22px 0;border-radius:8px;font-size:14.5px;line-height:1.65;color:#1a1a2e;">
+                                        <i class="fas fa-bullseye" style="color:#ff6b00;margin-right:8px;"></i>
+                                        <strong style="color:#0a1629;">Comparing US, UK or Australian agencies against India studios?</strong> Read our deeper buyer-stage guide: <a href="App_Development_Cost_USA_vs_India_2026_Honest_Comparison.php" style="color:#b45309;font-weight:700;text-decoration:underline;">App Development Cost: USA vs India 2026 &mdash; Honest Breakdown</a>.
+                                    </div>
+
 
                                     <h2>The Rise of AI in Social Media Marketing</h2>
                                     <p>

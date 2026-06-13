@@ -79,6 +79,12 @@
                                     <h1>Container Tracking &amp;amp; Shipping Software Development Guide 2026 — Cost, Features, EDI &amp;amp; Multi-Modal Architecture</h1>
 
                                     <p>Container tracking has gone from a Yantian or Mundra terminal phone call to a real-time API stream in 2026. The freight forwarders, NVOCCs and large shippers winning the market are running container visibility platforms that pull from carrier APIs, EDI 315/322 messages, terminal operating systems and AIS data — and stitch them into one container lifecycle view their customers can track on a phone. This guide covers what a real container tracking platform looks like, what it costs to build, and the integrations that determine whether you ship in 4 months or get stuck for a year. (For warehouse-side operations see our <a href='../products/courier-management-software.php'>courier management software</a> and <a href='../products/logistics-mobile-app.php'>logistics mobile app</a>.)</p>
+                                    <!-- BOFU callout (auto-injected for PageRank flow) -->
+                                    <div style="background:#fff8f1;border-left:4px solid #ff6b00;padding:14px 18px;margin:22px 0;border-radius:8px;font-size:14.5px;line-height:1.65;color:#1a1a2e;">
+                                        <i class="fas fa-bullseye" style="color:#ff6b00;margin-right:8px;"></i>
+                                        <strong style="color:#0a1629;">Planning a logistics, fleet or TMS app build?</strong> Read our deeper buyer-stage guide: <a href="Logistics_App_Development_Cost_India_2026_TMS_Fleet_LastMile.php" style="color:#b45309;font-weight:700;text-decoration:underline;">Logistics App Development Cost in India 2026 &mdash; TMS, Fleet, Last-Mile (Realistic Pricing)</a>.
+                                    </div>
+
 
                                     <h2>Why Build vs Use Project44 / FourKites / Vizion</h2>
 
