@@ -3,92 +3,15 @@
 
 <head>
     <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-M4XDB2GZ');</script>
-    <!-- End Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-M4XDB2GZ');</script>
 
-    <!-- ========== Meta Tags ========== -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Contact ITD GrowthLabs for website development, app development, digital marketing, and SEO services. Get a free consultation for your business growth.">
-    <!-- ========== Favicon Icon ========== -->
-    <link rel="shortcut icon" href="./assets/img/favicon.png" type="image/x-icon">
-    <!-- ========== Page Title ========== -->
-    <title>Contact Us | App Development & Technology Solutions | ITD GrowthLabs</title>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17674012925"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-
-        gtag('config', 'AW-17674012925');
-    </script>
-    <script>
-        gtag('config', 'AW-17674012925/L6w9CJf84rIbEP2R0OtB', {
-            'phone_conversion_number': '84509 78544'
-        });
-    </script>
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17674012925"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'AW-17674012925');
-    </script>
-
-    <?php include("./includes/header_script.php") ?>
-    <style>
-        #showMessage {
-            display: none;
-            margin-top: 15px;
-            font-weight: bold;
-            transition: opacity 0.5s;
-        }
-
-        #showMessage.success_msg {
-            color: green;
-        }
-
-        #showMessage.error_msg {
-            color: red;
-        }
-    </style>
-
+    <meta name="description" content="Talk to Prashant Chaudhari, our Business Head. Free 30-min strategy call, WhatsApp, or written reply within 24 business hours. App development, SaaS, custom software, digital marketing and lead-gen across India, USA, UK, UAE &amp; Australia.">
+    <title>Contact ITD GrowthLabs &mdash; Free 30-min Strategy Call with Our Business Head</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/contact-us.php" />
-    <meta property="og:title" content="Contact Us | App Development & Technology Solutions | ITD GrowthLabs" />
-    <meta property="og:description" content="Contact ITD GrowthLabs for website development, app development, digital marketing, and SEO services. Get a free consultation for your business growth." />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://itdgrowthlabs.com/contact-us.php" />
-    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
-
-    <!-- LocalBusiness Schema -->
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "LocalBusiness",
-        "name": "ITD GrowthLabs",
-        "image": "https://itdgrowthlabs.com/assets/img/logo.jpg",
-        "url": "https://itdgrowthlabs.com",
-        "telephone": "+91-8450978544",
-        "email": "info@itdgrowthlabs.com",
-        "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Andheri, Mumbai, India",
-            "addressCountry": "IN"
-        },
-        "openingHours": "Mo-Sa 09:00-18:00",
-        "priceRange": "$$"
-    }
-    </script>
+    <link rel="shortcut icon" href="./assets/img/favicon.png" type="image/x-icon">
 
     <link rel="alternate" hreflang="en-in" href="https://itdgrowthlabs.com/contact-us.php" />
     <link rel="alternate" hreflang="en-us" href="https://itdgrowthlabs.com/contact-us.php" />
@@ -97,133 +20,163 @@
     <link rel="alternate" hreflang="en-ae" href="https://itdgrowthlabs.com/contact-us.php" />
     <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/contact-us.php" />
 
+    <meta property="og:title" content="Contact ITD GrowthLabs &mdash; Free 30-min Strategy Call with Our Business Head" />
+    <meta property="og:description" content="Talk to Prashant Chaudhari, our Business Head. Free 30-min strategy call, WhatsApp, or written reply within 24 business hours." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/contact-us.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Contact Us | App Development & Technology Solutions | ITD GrowthLabs" />
-    <meta name="twitter:description" content="Contact ITD GrowthLabs for website development, app development, digital marketing, and SEO services. Get a free consultation for your business growth." />
-    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <meta name="twitter:title" content="Contact ITD GrowthLabs &mdash; Free 30-min Strategy Call with Our Business Head" />
+    <meta name="twitter:description" content="Talk to Prashant Chaudhari, our Business Head. Free 30-min call, WhatsApp, or written reply." />
+
+    <link href="./assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="./assets/css/font-awesome.min.css" rel="stylesheet">
+    <link href="./assets/css/themify-icons.css" rel="stylesheet">
+    <link href="./assets/css/elegant-icons.css" rel="stylesheet">
+    <link href="./assets/css/flaticon-set.css" rel="stylesheet">
+    <link href="./assets/css/magnific-popup.css" rel="stylesheet">
+    <link href="./assets/css/swiper-bundle.min.css" rel="stylesheet">
+    <link href="./assets/css/animate.css" rel="stylesheet">
+    <link href="./assets/css/validnavs.css" rel="stylesheet">
+    <link href="./assets/css/helper.css" rel="stylesheet">
+    <link href="./assets/css/unit-test.css" rel="stylesheet">
+    <link href="./assets/css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17674012925"></script>
+    <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','AW-17674012925');</script>
+    <script src="https://www.google.com/recaptcha/api.js?render=6Lcm0hosAAAAAPFeuKRDfgGF4Ajr9bcCCbD7LR-3"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
+
+    <!-- LocalBusiness Schema -->
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"LocalBusiness","name":"ITD GrowthLabs","image":"https://itdgrowthlabs.com/assets/img/logo.jpg","url":"https://itdgrowthlabs.com","telephone":"+91-8450978544","email":"info@itdgrowthlabs.com","address":{"@type":"PostalAddress","streetAddress":"Andheri, Mumbai, India","addressCountry":"IN"},"openingHours":"Mo-Sa 09:00-18:00","priceRange":"$$"}
+    </script>
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://itdgrowthlabs.com/"},{"@type":"ListItem","position":2,"name":"Contact","item":"https://itdgrowthlabs.com/contact-us.php"}]}
+    </script>
+
+    <style>
+        #showMessage { display: none; margin-top: 15px; font-weight: bold; transition: opacity 0.5s; }
+        #showMessage.success_msg { color: green; }
+        #showMessage.error_msg { color: red; }
+        .ct-form-wrap { background: #fff; border-radius: 16px; box-shadow: 0 14px 40px rgba(15,23,42,0.10); padding: 36px; border: 1px solid var(--md-border); }
+        .ct-form-wrap h2 { font-size: 22px; font-weight: 800; color: var(--md-heading); margin: 0 0 6px; }
+        .ct-form-wrap .promise { font-size: 13.5px; color: var(--md-muted); margin: 0 0 22px; line-height: 1.55; }
+        .ct-form-wrap .form-control { border: 2px solid #e8ecf1; padding: 12px 14px; font-size: 14.5px; border-radius: 8px; transition: border-color .2s; }
+        .ct-form-wrap .form-control:focus { border-color: var(--md-primary); outline: none; box-shadow: 0 0 0 3px rgba(255,107,0,0.10); }
+        .ct-form-wrap .btn-primary { background: linear-gradient(135deg, var(--md-primary), var(--md-primary-dark)); border: none; padding: 14px; font-weight: 700; font-size: 15px; letter-spacing: 0.3px; border-radius: 8px; box-shadow: 0 6px 18px rgba(255,107,0,0.25); }
+        .ct-form-wrap .btn-primary:hover { background: var(--md-primary-dark); transform: translateY(-1px); box-shadow: 0 10px 26px rgba(255,107,0,0.38); }
+        .ct-alt-paths { background: linear-gradient(135deg, #fff8f1 0%, #fff 100%); border: 1px solid rgba(255,107,0,0.18); border-radius: 16px; padding: 32px; height: 100%; }
+        .ct-alt-paths h3 { font-size: 18px; font-weight: 800; color: var(--md-heading); margin: 0 0 18px; }
+        .ct-alt-card { background: #fff; border: 1px solid var(--md-border); border-radius: 12px; padding: 18px 20px; margin-bottom: 14px; display: flex; align-items: center; gap: 14px; text-decoration: none; color: var(--md-heading); transition: transform .2s, box-shadow .2s, border-color .2s; }
+        .ct-alt-card:hover { transform: translateX(4px); border-color: var(--md-primary); box-shadow: var(--md-card-shadow); color: var(--md-heading); }
+        .ct-alt-card__icon { flex: 0 0 44px; width: 44px; height: 44px; border-radius: 12px; display: flex; align-items: center; justify-content: center; font-size: 18px; color: #fff; }
+        .ct-alt-card__body { flex: 1; min-width: 0; }
+        .ct-alt-card__title { font-size: 15px; font-weight: 700; color: var(--md-heading); margin: 0 0 2px; }
+        .ct-alt-card__meta  { font-size: 13px; color: var(--md-muted); }
+        .ct-alt-card__arrow { color: var(--md-primary); font-weight: 700; font-size: 20px; }
+        .ct-office { background: #f8fafc; border-radius: 12px; padding: 18px 20px; margin-top: 18px; font-size: 13.5px; color: var(--md-body); line-height: 1.7; }
+        .ct-office strong { color: var(--md-heading); display: block; font-size: 14px; margin-bottom: 6px; }
+        @media (max-width: 992px) {
+            .ct-form-wrap, .ct-alt-paths { padding: 28px 22px; }
+            .ct-alt-paths { margin-top: 22px; }
+        }
+    </style>
 </head>
 
 <body>
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4XDB2GZ"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
-     
-    <noscript>
-        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4XDB2GZ"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe>
-    </noscript>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4XDB2GZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-    <!-- Preloader Start -->
-    <!-- <div class="se-pre-con"></div> -->
-    <!-- Preloader Ends -->
+    <?php include("./includes/header.php"); ?>
+    <?php require_once(__DIR__ . "/includes/ui_modern.php"); ?>
 
-    <!-- Header 
-    ============================================= -->
-    <?php include("./includes/header.php") ?>
-    <!-- End Header -->
+    <?php itdgl_render_modern_hero([
+        'crumbs'  => [['label'=>'Home','url'=>'/'], ['label'=>'Contact']],
+        'eyebrow' => 'Let&rsquo;s talk',
+        'title'   => 'Talk to <span class="accent">Prashant</span>, our Business Head &mdash; not a sales rep.',
+        'sub'     => 'Three ways to reach us &mdash; pick the one that fits. We reply to every enquiry within 24 business hours, from a human who will own your engagement, not a bot.',
+        'primary' => ['url'=>'https://calendly.com/itdgrowthlabs-info/30min', 'label'=>'Book Free 30-min Call', 'icon'=>'fas fa-calendar-check', 'js_book_call'=>true, 'source'=>'contact_hero_primary'],
+        'secondary'=>['url'=>'https://wa.me/918450978544?text=Hi%20ITD%20GrowthLabs%2C%20I%27d%20like%20to%20discuss%20a%20project.', 'label'=>'WhatsApp Us', 'icon'=>'fab fa-whatsapp', 'target'=>'_blank'],
+        'pills'   => [
+            ['icon'=>'fas fa-bolt', 'text'=>'Reply within 24 business hours'],
+            ['icon'=>'fas fa-user-tie', 'text'=>'From a human, not a sales rep'],
+            ['icon'=>'fas fa-globe', 'text'=>'Time-zone aligned (IN / EST / GMT / AEDT / GST)'],
+        ],
+    ]); ?>
 
-
-    <!-- Start Breadcrumb 
-    ============================================= -->
-    <div class="breadcrumb-area bg-gray bg-cover" style="background-image: url(assets/img/shape/banner-3.jpg);">
+    <!-- THREE CONTACT PATHS -->
+    <section class="md-sec">
         <div class="container">
-            <div class="breadcrumb-item">
-                <div class="breadcrum-shape">
-                    <img src="assets/img/shape/16.png" alt="Image Not Found">
-                </div>
-                <div class="row">
-                    <div class="col-lg-8">
-                        <nav aria-label="breadcrumb">
-                            <ol class="breadcrumb">
-                                <li><a href="#"><i class="fas fa-home"></i> Home</a></li>
-                                <li class="active">Contact</li>
-                            </ol>
-                        </nav>
-                        <h1>Get in touch with us</h1>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Breadcrumb -->
-
-    <!-- Start Contact Us
-    ============================================= -->
-    <div class="contact-area contact-page bg-gray overflow-hidden default-padding" style="background-image: url(assets/img/shape/map.png);">
-        <div class="shape-right-bottom">
-            <img src="assets/img/shape/18.png" alt="Shape">
-        </div>
-        <div class="container">
-            <div class="row align-center">
-
-                <div class="col-tact-stye-one col-lg-6">
-                    <div class="contact-form-style-one">
-                        <!-- Booking-first CTA: cuts friction for high-intent visitors -->
-                        <div style="background:linear-gradient(135deg,#0d47a1,#1565c0);color:#fff;padding:24px 26px;border-radius:14px;margin-bottom:24px;box-shadow:0 8px 22px rgba(13,71,161,0.18);">
-                            <div style="display:flex;align-items:center;gap:12px;margin-bottom:10px;">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="3"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
-                                <h3 style="margin:0;color:#fff;font-size:20px;font-weight:700;">Skip the form — talk to a senior strategist</h3>
-                            </div>
-                            <p style="margin:0 0 16px;color:rgba(255,255,255,0.92);font-size:14px;line-height:1.55;">
-                                Free 30-minute consultation. We'll review your project, scope a realistic build plan, and tell you straight whether we're the right fit — no sales pitch.
-                            </p>
-                            <a href="https://calendly.com/itdgrowthlabs-info/30min"
-                               class="js-book-call"
-                               data-source="contact_us_top"
-                               style="display:inline-block;background:#fff;color:#0d47a1;padding:12px 24px;border-radius:30px;font-weight:700;text-decoration:none;font-size:14px;letter-spacing:0.2px;">
-                                Book a Free 30-min Call &rarr;
-                            </a>
-                        </div>
-
-                        <p style="margin:0 0 18px;font-size:13px;color:#666;line-height:1.5;">
-                            <strong style="color:#0d47a1;">Prefer to send details?</strong> Use the form below — every enquiry gets a written reply within 24 business hours, from a human who will lead your project, not a sales rep.
-                        </p>
-
+            <div class="row" style="align-items:stretch;">
+                <!-- LEFT: form (primary) -->
+                <div class="col-lg-7 mb-4 mb-lg-0">
+                    <div class="ct-form-wrap">
+                        <h2>Tell us about your project</h2>
+                        <p class="promise">Use the form for written details. Every enquiry gets a reply within 24 business hours from a human who will lead your engagement. Prefer to talk? Use one of the paths on the right.</p>
                         <?php include("./common-form.php") ?>
+                        <div id="showMessage"></div>
                     </div>
                 </div>
 
-                <div class="col-tact-stye-one col-lg-5 offset-lg-1 mt--80 mt-md-50 mt-xs-50">
-                    <div class="contact-style-one-info">
-                        <div class="mb-40">
-                            <h2>Let's Build Your Next Digital Product</h2>
-                            <p>
-                                From logistics apps and SaaS platforms to custom web applications and AI-powered automation — we turn your ideas into scalable, revenue-generating technology solutions. 300+ projects delivered for businesses in India, USA, UK, UAE & Australia.
-                            </p>
-                            <p><i class="fa-solid fa-phone"></i> <a href="https://wa.me/918450978544" target="_blank" style="color:#6d6d6d">Phone:+91 8450978544</a></p>
-                            <p><i class="fa fa-envelope"></i> <a href="mailto:info@itdgrowthlabs.com" style="color:#6d6d6d"> Email: info@itdgrowthlabs.com </a></p>
-                            <p><i class="fa fa-globe"> </i> <a href="https://itdgrowthlabs.com/" style="color:#6d6d6d"> Website: www.itdgrowthlabs.com </a></p>
+                <!-- RIGHT: alternate paths + office -->
+                <div class="col-lg-5">
+                    <div class="ct-alt-paths">
+                        <h3><i class="fas fa-bolt" style="color:var(--md-primary);margin-right:8px;"></i>Faster paths</h3>
+
+                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="ct-alt-card js-book-call" data-source="contact_alt_calendly">
+                            <div class="ct-alt-card__icon" style="background:linear-gradient(135deg,#1565c0,#0d47a1);"><i class="fas fa-calendar-check"></i></div>
+                            <div class="ct-alt-card__body">
+                                <div class="ct-alt-card__title">Book a 30-min call (free)</div>
+                                <div class="ct-alt-card__meta">Calendar slot, no form. Talk straight to Prashant.</div>
+                            </div>
+                            <div class="ct-alt-card__arrow">&rarr;</div>
+                        </a>
+
+                        <a href="https://wa.me/918450978544?text=Hi%20ITD%20GrowthLabs%2C%20I%27d%20like%20to%20discuss%20a%20project." target="_blank" rel="noopener" class="ct-alt-card">
+                            <div class="ct-alt-card__icon" style="background:#25D366;"><i class="fab fa-whatsapp"></i></div>
+                            <div class="ct-alt-card__body">
+                                <div class="ct-alt-card__title">WhatsApp us</div>
+                                <div class="ct-alt-card__meta">Quick questions, fastest reply path.</div>
+                            </div>
+                            <div class="ct-alt-card__arrow">&rarr;</div>
+                        </a>
+
+                        <a href="mailto:info@itdgrowthlabs.com?subject=Project%20enquiry" class="ct-alt-card">
+                            <div class="ct-alt-card__icon" style="background:linear-gradient(135deg,#ff6b00,#d95800);"><i class="fas fa-envelope"></i></div>
+                            <div class="ct-alt-card__body">
+                                <div class="ct-alt-card__title">Email Prashant</div>
+                                <div class="ct-alt-card__meta">info@itdgrowthlabs.com &middot; 24-hr reply</div>
+                            </div>
+                            <div class="ct-alt-card__arrow">&rarr;</div>
+                        </a>
+
+                        <a href="https://www.linkedin.com/in/prashant-chaudhari03/" target="_blank" rel="noopener" class="ct-alt-card">
+                            <div class="ct-alt-card__icon" style="background:#0a66c2;"><i class="fab fa-linkedin-in"></i></div>
+                            <div class="ct-alt-card__body">
+                                <div class="ct-alt-card__title">Connect on LinkedIn</div>
+                                <div class="ct-alt-card__meta">Prashant Chaudhari, Business Head</div>
+                            </div>
+                            <div class="ct-alt-card__arrow">&rarr;</div>
+                        </a>
+
+                        <div class="ct-office">
+                            <strong><i class="fas fa-location-dot" style="color:var(--md-primary);margin-right:6px;"></i>Mumbai HQ</strong>
+                            Andheri, Mumbai, India<br>
+                            Working hours: Mon&ndash;Sat 9:00 &mdash; 18:00 IST<br>
+                            <span style="display:inline-block;margin-top:6px;color:var(--md-muted);">Aligned coverage: IST / EST / GMT / AEDT / GST</span>
                         </div>
-                        <ul class="contact-address">
-                            <li class="wow fadeInUp" data-wow-delay="300ms">
-                                <div class="info">
-                                    <h4 class="title">Location</h4>
-                                    <p>
-                                        Andheri, Mumbai, India
-                                    </p>
-                                </div>
-                            </li>
-                            <li class="wow fadeInUp" data-wow-delay="500ms">
-                                <div class="info">
-                                    <h4 class="title">Official Email</h4>
-                                    <a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs</a>
-                                </div>
-                            </li>
-                        </ul>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <!-- End Contact -->
+    </section>
 
-    <!-- Third-party verification (below the form so the form is the primary CTA) -->
+    <!-- THIRD-PARTY VERIFICATION -->
     <?php $tb_source = 'contact'; include(__DIR__ . '/includes/trust-badges.php'); ?>
 
-<?php include("./includes/footer.php") ?>
+    <?php include("./includes/footer.php") ?>
     <?php include("./includes/footer_script.php") ?>
-    <script src="https://www.google.com/recaptcha/api.js?render=6Lcm0hosAAAAAPFeuKRDfgGF4Ajr9bcCCbD7LR-3"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
     <script src="assets/js/custom.js"></script>
+</body>
+</html>
