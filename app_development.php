@@ -97,7 +97,7 @@
                     ['url'=>'/products/courier-management-software.php', 'icon'=>'fas fa-boxes-stacked', 'title'=>'Ready-to-Deploy Apps', 'desc'=>'Courier CMS, Logistics Mobile App, Multi-Vendor Marketplace. 60% faster launch than custom.'],
                 ] as $svc): ?>
                 <a href="<?php echo $svc['url']; ?>" style="background:#fff;border:1px solid var(--md-border);border-radius:14px;padding:28px 24px;text-decoration:none;color:var(--md-heading);transition:transform .25s, box-shadow .25s, border-color .25s;display:block;height:100%;" onmouseover="this.style.transform='translateY(-4px)';this.style.borderColor='var(--md-primary)';this.style.boxShadow='var(--md-card-shadow-h)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
-                    <div style="width:50px;height:50px;border-radius:12px;background:linear-gradient(135deg,#fff3e6,#ffe2c4);color:var(--md-primary-dark);display:flex;align-items:center;justify-content:center;font-size:22px;margin-bottom:16px;"><i class="<?php echo $svc['icon']; ?>"></i></div>
+                    <div style="width:50px;height:50px;border-radius:12px;background:linear-gradient(135deg,#dbeafe,#e0e7ff);color:var(--md-primary-dark);display:flex;align-items:center;justify-content:center;font-size:22px;margin-bottom:16px;"><i class="<?php echo $svc['icon']; ?>"></i></div>
                     <h4 style="font-size:18px;font-weight:700;margin:0 0 10px;color:var(--md-heading);"><?php echo $svc['title']; ?></h4>
                     <p style="font-size:14.5px;line-height:1.65;color:var(--md-body);margin:0 0 12px;"><?php echo $svc['desc']; ?></p>
                     <span style="font-size:13.5px;color:var(--md-primary);font-weight:700;">Learn more &rarr;</span>
@@ -175,9 +175,9 @@
                     ['url'=>'/resources/Logistics_App_Development_Cost_India_2026_TMS_Fleet_LastMile.php', 'title'=>'Logistics App Development Cost in India 2026 &mdash; TMS, Fleet, Last-Mile', 'tag'=>'Cost'],
                 ] as $r): ?>
                 <a href="<?php echo $r['url']; ?>" style="background:#fff;border:1px solid var(--md-border);border-radius:12px;padding:20px 24px;text-decoration:none;color:var(--md-heading);display:flex;align-items:center;gap:16px;transition:transform .2s, border-color .2s, box-shadow .2s;" onmouseover="this.style.transform='translateX(4px)';this.style.borderColor='var(--md-primary)';this.style.boxShadow='var(--md-card-shadow)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
-                    <div style="flex:0 0 50px;width:50px;height:50px;border-radius:12px;background:linear-gradient(135deg,#fff3e6,#ffe2c4);color:var(--md-primary-dark);display:flex;align-items:center;justify-content:center;font-size:18px;"><i class="fas fa-book-open"></i></div>
+                    <div style="flex:0 0 50px;width:50px;height:50px;border-radius:12px;background:linear-gradient(135deg,#dbeafe,#e0e7ff);color:var(--md-primary-dark);display:flex;align-items:center;justify-content:center;font-size:18px;"><i class="fas fa-book-open"></i></div>
                     <div style="flex:1;">
-                        <span style="display:inline-block;font-size:10px;letter-spacing:1.2px;text-transform:uppercase;color:var(--md-primary);font-weight:800;background:rgba(255,107,0,0.10);padding:3px 8px;border-radius:12px;margin-bottom:6px;"><?php echo $r['tag']; ?></span>
+                        <span style="display:inline-block;font-size:10px;letter-spacing:1.2px;text-transform:uppercase;color:var(--md-primary);font-weight:800;background:rgba(30,64,175,0.10);padding:3px 8px;border-radius:12px;margin-bottom:6px;"><?php echo $r['tag']; ?></span>
                         <div style="font-size:15.5px;font-weight:700;line-height:1.4;color:var(--md-heading);"><?php echo $r['title']; ?></div>
                     </div>
                     <div style="color:var(--md-primary);font-size:20px;">&rarr;</div>

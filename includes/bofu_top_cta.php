@@ -41,7 +41,7 @@
     width: 52px;
     height: 52px;
     border-radius: 50%;
-    background: linear-gradient(135deg, #ff6b00, #e65100);
+    background: linear-gradient(135deg, #ff6b00, #4338ca);
     color: #ffffff;
     display: flex;
     align-items: center;
@@ -54,7 +54,7 @@
 .bofu-top-cta__body { flex: 1; min-width: 220px; }
 .bofu-top-cta__eyebrow {
     font-size: 11px;
-    color: #b45309;
+    color: #4338ca;
     font-weight: 800;
     letter-spacing: 1.2px;
     text-transform: uppercase;
@@ -68,7 +68,7 @@
 }
 .bofu-top-cta__headline strong { color: #0a1629; font-weight: 800; }
 .bofu-top-cta__btn {
-    background: #ff6b00;
+    background: #1e40af;
     color: #ffffff !important;
     padding: 11px 22px;
     border-radius: 8px;
@@ -80,7 +80,7 @@
     box-shadow: 0 4px 12px rgba(255, 107, 0, 0.28);
 }
 .bofu-top-cta__btn:hover {
-    background: #e65100;
+    background: #4338ca;
     transform: translateY(-1px);
     box-shadow: 0 6px 16px rgba(255, 107, 0, 0.42);
     color: #ffffff !important;

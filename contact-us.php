@@ -63,10 +63,10 @@
         .ct-form-wrap h2 { font-size: 22px; font-weight: 800; color: var(--md-heading); margin: 0 0 6px; }
         .ct-form-wrap .promise { font-size: 13.5px; color: var(--md-muted); margin: 0 0 22px; line-height: 1.55; }
         .ct-form-wrap .form-control { border: 2px solid #e8ecf1; padding: 12px 14px; font-size: 14.5px; border-radius: 8px; transition: border-color .2s; }
-        .ct-form-wrap .form-control:focus { border-color: var(--md-primary); outline: none; box-shadow: 0 0 0 3px rgba(255,107,0,0.10); }
-        .ct-form-wrap .btn-primary { background: linear-gradient(135deg, var(--md-primary), var(--md-primary-dark)); border: none; padding: 14px; font-weight: 700; font-size: 15px; letter-spacing: 0.3px; border-radius: 8px; box-shadow: 0 6px 18px rgba(255,107,0,0.25); }
+        .ct-form-wrap .form-control:focus { border-color: var(--md-primary); outline: none; box-shadow: 0 0 0 3px rgba(30,64,175,0.10); }
+        .ct-form-wrap .btn-primary { background: linear-gradient(135deg, var(--md-primary), var(--md-primary-dark)); border: none; padding: 14px; font-weight: 700; font-size: 15px; letter-spacing: 0.3px; border-radius: 8px; box-shadow: 0 6px 18px rgba(30,64,175,0.25); }
         .ct-form-wrap .btn-primary:hover { background: var(--md-primary-dark); transform: translateY(-1px); box-shadow: 0 10px 26px rgba(255,107,0,0.38); }
-        .ct-alt-paths { background: linear-gradient(135deg, #fff8f1 0%, #fff 100%); border: 1px solid rgba(255,107,0,0.18); border-radius: 16px; padding: 32px; height: 100%; }
+        .ct-alt-paths { background: linear-gradient(135deg, #fff8f1 0%, #fff 100%); border: 1px solid rgba(30,64,175,0.18); border-radius: 16px; padding: 32px; height: 100%; }
         .ct-alt-paths h3 { font-size: 18px; font-weight: 800; color: var(--md-heading); margin: 0 0 18px; }
         .ct-alt-card { background: #fff; border: 1px solid var(--md-border); border-radius: 12px; padding: 18px 20px; margin-bottom: 14px; display: flex; align-items: center; gap: 14px; text-decoration: none; color: var(--md-heading); transition: transform .2s, box-shadow .2s, border-color .2s; }
         .ct-alt-card:hover { transform: translateX(4px); border-color: var(--md-primary); box-shadow: var(--md-card-shadow); color: var(--md-heading); }
@@ -142,7 +142,7 @@
                         </a>
 
                         <a href="mailto:info@itdgrowthlabs.com?subject=Project%20enquiry" class="ct-alt-card">
-                            <div class="ct-alt-card__icon" style="background:linear-gradient(135deg,#ff6b00,#d95800);"><i class="fas fa-envelope"></i></div>
+                            <div class="ct-alt-card__icon" style="background:linear-gradient(135deg,#1e40af,#4338ca);"><i class="fas fa-envelope"></i></div>
                             <div class="ct-alt-card__body">
                                 <div class="ct-alt-card__title">Email Prashant</div>
                                 <div class="ct-alt-card__meta">info@itdgrowthlabs.com &middot; 24-hr reply</div>

@@ -27,18 +27,20 @@ function itdgl_render_modern_styles() {
 ?>
 <style>
 :root {
-    --md-primary:        #ff6b00;
-    --md-primary-dark:   #d95800;
+    /* ITD GrowthLabs brand palette */
+    --md-primary:        #1e40af;       /* rich blue — wordmark blue */
+    --md-primary-dark:   #1e3a8a;       /* deep indigo */
+    --md-accent:         #3b82f6;       /* bright blue — inner-arrow accent */
+    --md-purple:         #4338ca;       /* indigo-purple */
+    --md-purple-light:   #6366f1;       /* lighter purple for hover */
     --md-heading:        #0f172a;
     --md-body:           #475569;
     --md-muted:          #64748b;
-    --md-border:         #e8ecf1;
-    --md-soft:           #fff8f1;
-    --md-blue:           #0d47a1;
-    --md-blue-light:     #1565c0;
+    --md-border:         #e2e8f0;
+    --md-soft:           #eff6ff;       /* soft blue-tinted bg */
     --md-success:        #16a34a;
-    --md-card-shadow:    0 4px 16px rgba(15,23,42,0.06);
-    --md-card-shadow-h:  0 14px 36px rgba(15,23,42,0.10);
+    --md-card-shadow:    0 4px 16px rgba(30,64,175,0.08);
+    --md-card-shadow-h:  0 14px 36px rgba(30,64,175,0.14);
 }
 
 /* HERO --------------------------------------------------------------- */
@@ -46,8 +48,9 @@ function itdgl_render_modern_styles() {
     position: relative;
     overflow: hidden;
     padding: 110px 0 70px;
-    background: radial-gradient(900px 500px at 80% 0%, rgba(255,107,0,0.12), transparent 70%),
-                linear-gradient(135deg, #0d1b2a 0%, #16213e 50%, #1a1a2e 100%);
+    background: radial-gradient(900px 500px at 80% 0%, rgba(99,102,241,0.22), transparent 70%),
+                radial-gradient(700px 400px at 10% 100%, rgba(59,130,246,0.18), transparent 70%),
+                linear-gradient(135deg, #0f172a 0%, #1e1b4b 45%, #1e293b 100%);
     color: #fff;
 }
 .md-hero::before {
@@ -69,22 +72,22 @@ function itdgl_render_modern_styles() {
 .md-hero__eyebrow {
     display: inline-flex; align-items: center; gap: 8px;
     padding: 6px 14px;
-    background: rgba(255,107,0,0.15);
-    color: #ffd9b8;
-    border: 1px solid rgba(255,107,0,0.35);
+    background: rgba(99,102,241,0.18);
+    color: #c7d2fe;
+    border: 1px solid rgba(99,102,241,0.42);
     border-radius: 30px;
     font-size: 11.5px; font-weight: 700;
     letter-spacing: 1.4px; text-transform: uppercase;
     margin-bottom: 20px;
 }
 .md-hero__eyebrow .pulse {
-    width: 8px; height: 8px; background: #ffb066; border-radius: 50%;
-    box-shadow: 0 0 0 4px rgba(255,176,102,0.25);
+    width: 8px; height: 8px; background: #93c5fd; border-radius: 50%;
+    box-shadow: 0 0 0 4px rgba(147,197,253,0.30);
     animation: mdPulse 2s infinite;
 }
 @keyframes mdPulse {
-    0%,100% { box-shadow: 0 0 0 4px rgba(255,176,102,0.25); }
-    50%     { box-shadow: 0 0 0 8px rgba(255,176,102,0); }
+    0%,100% { box-shadow: 0 0 0 4px rgba(147,197,253,0.30); }
+    50%     { box-shadow: 0 0 0 8px rgba(147,197,253,0); }
 }
 .md-hero h1 {
     font-size: 48px; font-weight: 800; line-height: 1.14;
@@ -92,7 +95,7 @@ function itdgl_render_modern_styles() {
     margin: 0 0 18px;
     max-width: 920px;
 }
-.md-hero h1 .accent { color: #ff9550; }
+.md-hero h1 .accent { color: #60a5fa; }
 .md-hero__sub {
     font-size: 18px; line-height: 1.7;
     color: rgba(255,255,255,0.85);
@@ -101,20 +104,20 @@ function itdgl_render_modern_styles() {
 }
 .md-hero__ctas { display: flex; gap: 14px; flex-wrap: wrap; margin-bottom: 30px; }
 .md-cta-primary {
-    background: linear-gradient(135deg, #ff6b00, #ff8a2b);
+    background: linear-gradient(135deg, #1e40af 0%, #4338ca 100%);
     color: #fff !important;
     padding: 15px 28px;
     border-radius: 8px;
     font-weight: 700;
     text-decoration: none;
     font-size: 15px;
-    box-shadow: 0 6px 20px rgba(255,107,0,0.35);
+    box-shadow: 0 6px 20px rgba(30,64,175,0.42);
     transition: transform .25s, box-shadow .25s;
     display: inline-flex; align-items: center; gap: 9px;
 }
 .md-cta-primary:hover {
     transform: translateY(-2px);
-    box-shadow: 0 10px 28px rgba(255,107,0,0.5);
+    box-shadow: 0 12px 32px rgba(67,56,202,0.55);
     color: #fff !important;
 }
 .md-cta-secondary {
@@ -136,7 +139,7 @@ function itdgl_render_modern_styles() {
 }
 .md-trust-pills { display: flex; gap: 22px; flex-wrap: wrap; color: rgba(255,255,255,0.7); font-size: 13.5px; }
 .md-trust-pills span { display: inline-flex; align-items: center; gap: 8px; }
-.md-trust-pills i { color: #ff9550; }
+.md-trust-pills i { color: #60a5fa; }
 
 /* HERO STATS BAR ----------------------------------------------------- */
 .md-hero-stats {
@@ -194,16 +197,17 @@ function itdgl_render_modern_styles() {
 .md-process__card:hover {
     transform: translateY(-4px);
     box-shadow: var(--md-card-shadow-h);
-    border-color: rgba(255,107,0,0.25);
+    border-color: rgba(59,130,246,0.32);
 }
 .md-process__num {
     position: absolute; top: -14px; left: 22px;
     width: 36px; height: 36px;
     border-radius: 10px;
-    background: linear-gradient(135deg, var(--md-primary), var(--md-primary-dark));
+    background: linear-gradient(135deg, var(--md-primary) 0%, var(--md-purple) 100%);
     color: #fff;
     display: flex; align-items: center; justify-content: center;
     font-weight: 800; font-size: 15px;
+    box-shadow: 0 4px 12px rgba(30,64,175,0.30);
 }
 .md-process__card h4 {
     margin: 14px 0 10px;
@@ -232,8 +236,8 @@ function itdgl_render_modern_styles() {
 .md-outcomes__icon {
     width: 54px; height: 54px;
     border-radius: 12px;
-    background: linear-gradient(135deg, #fff3e6, #ffe2c4);
-    color: var(--md-primary-dark);
+    background: linear-gradient(135deg, #dbeafe, #e0e7ff);
+    color: var(--md-primary);
     display: flex; align-items: center; justify-content: center;
     font-size: 22px;
     margin-bottom: 18px;
@@ -282,7 +286,7 @@ function itdgl_render_modern_styles() {
 
 /* FINAL CTA ---------------------------------------------------------- */
 .md-final-cta {
-    background: linear-gradient(135deg, var(--md-primary) 0%, var(--md-primary-dark) 100%);
+    background: linear-gradient(135deg, var(--md-primary) 0%, var(--md-purple) 60%, var(--md-purple-light) 100%);
     padding: 70px 0;
     color: #fff;
     text-align: center;
@@ -300,11 +304,11 @@ function itdgl_render_modern_styles() {
 }
 .md-final-cta .md-cta-primary {
     background: #fff;
-    color: var(--md-primary-dark) !important;
+    color: var(--md-primary) !important;
     box-shadow: 0 8px 24px rgba(0,0,0,0.18);
 }
 .md-final-cta .md-cta-primary:hover {
-    color: var(--md-primary-dark) !important;
+    color: var(--md-primary) !important;
     transform: translateY(-2px);
     box-shadow: 0 12px 32px rgba(0,0,0,0.28);
 }
