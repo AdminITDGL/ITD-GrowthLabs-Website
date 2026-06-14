@@ -710,9 +710,21 @@ $itdgl_banner_url  = $itdgl_base . 'assets/img/BlackBlueBizBanner.jpg';
             backdrop: true,
             keyboard: true
         });
+        // Per-page delay: 25s on home (less intrusive for first-time visitors),
+        // 10s elsewhere. Override via $itdgl_popup_delay_ms on the calling page.
+        var delayMs = <?php
+            $itdgl_default_delay = 10000;
+            if (!empty($itdgl_popup_delay_ms) && is_numeric($itdgl_popup_delay_ms)) {
+                echo (int)$itdgl_popup_delay_ms;
+            } elseif (in_array($itdgl_key, ['index.php', '', 'home.php'], true)) {
+                echo 25000;
+            } else {
+                echo $itdgl_default_delay;
+            }
+        ?>;
         setTimeout(function() {
             popupModal.show();
-        }, 10000);
+        }, delayMs);
     });
 
     function handleProfileDownload(e) {

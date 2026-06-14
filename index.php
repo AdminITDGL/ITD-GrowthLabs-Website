@@ -132,20 +132,20 @@
     <?php require_once(__DIR__ . "/includes/ui_modern.php"); ?>
 
     <!-- ============================================================
-         HERO — centered, team-led positioning
+         HERO — three buyer-type positioning (websites / apps / marketing)
          ============================================================ -->
     <?php itdgl_render_modern_hero([
-        'eyebrow' => '<span class="pulse"></span>Senior practitioner team &middot; 12+ yrs avg experience &middot; 300+ projects shipped',
+        'eyebrow' => '<span class="pulse"></span>Websites &middot; Mobile &amp; Web Apps &middot; Digital Marketing',
         'pulse'   => true,
-        'title'   => 'We build the <span class="accent" id="hero-rotator">custom apps</span> that scale serious B2B &amp; D2C companies.',
-        'sub'     => 'Custom mobile apps, SaaS platforms, web applications, websites and AI-driven lead generation &mdash; delivered by a senior practitioner team for 300+ businesses across 6 countries.',
+        'title'   => 'Websites, apps &amp; <span class="accent" id="hero-rotator">marketing</span><br>for serious businesses.',
+        'sub'     => 'A senior-led India studio building <strong>websites</strong>, <strong>mobile &amp; web applications</strong>, and <strong>digital marketing</strong> for 300+ businesses across 6 countries. One team for everything you need to launch, grow and scale online.',
         'primary' => ['url'=>'https://calendly.com/itdgrowthlabs-info/30min', 'label'=>'Book a Free 30-min Call', 'icon'=>'fas fa-calendar-check', 'js_book_call'=>true, 'source'=>'home_hero_calendly'],
         'secondary'=>['url'=>'/case-studies.php', 'label'=>'See Our Work', 'icon'=>'fas fa-folder-open'],
         'pills'   => [
-            ['icon'=>'fas fa-shield-check', 'text'=>'Fixed-quote pricing'],
-            ['icon'=>'fas fa-code-branch',   'text'=>'100% code ownership'],
-            ['icon'=>'fas fa-globe',         'text'=>'6-country delivery'],
-            ['icon'=>'fas fa-bolt',          'text'=>'48-hr quote turnaround'],
+            ['icon'=>'fas fa-globe',         'text'=>'Websites that convert'],
+            ['icon'=>'fas fa-mobile-screen', 'text'=>'Mobile &amp; web apps'],
+            ['icon'=>'fas fa-bullseye',      'text'=>'Marketing that grows revenue'],
+            ['icon'=>'fas fa-shield-check',  'text'=>'Fixed-quote &middot; 100% code ownership'],
         ],
         'stats'   => [
             ['num'=>'300+', 'lbl'=>'Projects delivered'],
@@ -156,9 +156,9 @@
     ]); ?>
 
     <script>
-    // Hero rotator animation — cycles the accent word in the centered hero
+    // Hero rotator — cycles the three buyer-type accent words
     (function () {
-        var words = ['custom apps', 'SaaS platforms', 'logistics software', 'lead-gen systems', 'D2C websites', 'multi-vendor marketplaces'];
+        var words = ['marketing', 'mobile apps', 'web applications', 'websites', 'lead generation'];
         var i = 0;
         var el = document.getElementById('hero-rotator');
         if (!el) return;
@@ -178,54 +178,53 @@
          CLIENT LOGOS — real brands (more available under NDA)
          ============================================================ -->
     <style>
-    .itd-clients { background: #fff; padding: 50px 0; border-bottom: 1px solid var(--md-border); }
-    .itd-clients__head { text-align:center; margin-bottom: 30px; }
+    .itd-clients { background: #fff; padding: 56px 0; border-bottom: 1px solid var(--md-border); }
+    .itd-clients__head { text-align:center; margin-bottom: 34px; }
     .itd-clients__eyebrow { display:inline-block; font-size: 11px; letter-spacing: 2px; text-transform: uppercase; color: var(--md-orange); font-weight: 800; background: rgba(255,107,0,0.08); padding: 5px 14px; border-radius: 18px; }
-    .itd-clients__title { font-size: 18px; font-weight: 700; color: var(--md-heading); margin: 10px 0 0; letter-spacing: -0.2px; }
+    .itd-clients__title { font-size: 20px; font-weight: 700; color: var(--md-heading); margin: 12px 0 0; letter-spacing: -0.2px; }
     .itd-clients__title .hl { color: var(--md-primary); }
-    .itd-clients__title .sub { color: var(--md-muted); font-weight: 500; font-size: 14.5px; }
+    .itd-clients__title .sub { color: var(--md-muted); font-weight: 500; font-size: 15px; }
     .itd-clients__grid {
         display: grid;
         grid-template-columns: repeat(4, 1fr);
-        gap: 16px;
+        gap: 18px;
         align-items: stretch;
     }
     .itd-client-card {
         background: #fff;
         border: 1px solid var(--md-border);
-        border-radius: 12px;
-        padding: 22px 18px;
+        border-radius: 14px;
+        padding: 18px 16px;
         display: flex;
         align-items: center;
         justify-content: center;
-        min-height: 110px;
-        transition: transform .25s, border-color .25s, box-shadow .25s, filter .25s, opacity .25s;
-        filter: grayscale(0.85);
-        opacity: 0.78;
+        min-height: 140px;
+        transition: transform .25s, border-color .25s, box-shadow .25s;
     }
     .itd-client-card:hover {
         transform: translateY(-3px);
         border-color: var(--md-orange);
-        box-shadow: var(--md-card-shadow);
-        filter: grayscale(0);
-        opacity: 1;
+        box-shadow: var(--md-card-shadow-h);
     }
     .itd-client-card img {
         max-width: 100%;
-        max-height: 68px;
+        max-height: 108px;
         width: auto;
         height: auto;
         object-fit: contain;
         display: block;
     }
-    .itd-clients__foot { text-align:center; font-size: 12.5px; color: var(--md-muted); margin: 26px 0 0; }
+    .itd-clients__foot { text-align:center; font-size: 13px; color: var(--md-muted); margin: 30px 0 0; }
     .itd-clients__foot i { color: var(--md-orange); margin-right: 4px; }
 
-    @media (max-width: 768px) {
+    @media (max-width: 991px) {
+        .itd-clients__grid { grid-template-columns: repeat(3, 1fr); }
+    }
+    @media (max-width: 640px) {
         .itd-clients { padding: 40px 0; }
         .itd-clients__grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
-        .itd-client-card { min-height: 90px; padding: 16px 12px; }
-        .itd-client-card img { max-height: 50px; }
+        .itd-client-card { min-height: 110px; padding: 14px 10px; }
+        .itd-client-card img { max-height: 84px; }
     }
     </style>
     <section class="itd-clients">
@@ -706,28 +705,28 @@
     </section>
 
     <!-- ============================================================
-         READY-TO-BUY LEAD GENERATION FLAGSHIP (dark section)
+         DIGITAL MARKETING FLAGSHIP (dark section)
          ============================================================ -->
     <section class="md-sec dark">
         <div class="container">
             <div class="row" style="align-items:center;">
                 <div class="col-lg-7 mb-4 mb-lg-0">
-                    <span style="display:inline-block;font-size:11px;letter-spacing:2px;text-transform:uppercase;color:#ffd9b8;background:rgba(255,107,0,0.18);padding:5px 14px;border-radius:18px;border:1px solid rgba(255,107,0,0.4);font-weight:800;margin-bottom:18px;"><i class="fas fa-bolt" style="margin-right:5px;"></i>Flagship Offering</span>
-                    <h2 style="color:#fff;font-size:34px;font-weight:800;line-height:1.2;margin:0 0 16px;">Ready-to-Buy Lead Generation &mdash; <span style="color:#ffb066;">AI-driven, fully managed.</span></h2>
-                    <p style="color:rgba(255,255,255,0.85);font-size:17px;line-height:1.7;margin-bottom:22px;">Most marketing agencies sell clicks and form fills. We sell qualified, high-intent leads delivered to your Google Sheet or dashboard in real time. AI-filtered for intent, budget and fit. Multi-platform reach. No junk. No tire-kickers. Built for B2B and D2C operators who want predictable, accountable lead flow &mdash; not vanity metrics.</p>
+                    <span style="display:inline-block;font-size:11px;letter-spacing:2px;text-transform:uppercase;color:#ffd9b8;background:rgba(255,107,0,0.18);padding:5px 14px;border-radius:18px;border:1px solid rgba(255,107,0,0.4);font-weight:800;margin-bottom:18px;"><i class="fas fa-bullseye" style="margin-right:5px;"></i>Marketing &amp; Lead Generation</span>
+                    <h2 style="color:#fff;font-size:34px;font-weight:800;line-height:1.2;margin:0 0 16px;">Digital marketing that <span style="color:#ffb066;">actually grows revenue.</span></h2>
+                    <p style="color:rgba(255,255,255,0.85);font-size:17px;line-height:1.7;margin-bottom:22px;">Performance marketing, SEO, content, social, email, conversion engineering &mdash; under one roof, with one named owner. We don&rsquo;t sell campaigns. We sell <strong>qualified, high-intent leads</strong> delivered to your CRM or Google Sheet in real time. AI-filtered for intent, budget and fit. Built for B2B and D2C operators who want predictable, accountable growth &mdash; not vanity metrics.</p>
                     <div style="display:flex;gap:14px;flex-wrap:wrap;">
-                        <a href="/services/ready-to-buy-lead-generation.php" class="md-cta-primary"><i class="fas fa-arrow-right"></i> See the system</a>
-                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="md-cta-secondary js-book-call" data-source="home_rtb" target="_blank" rel="noopener"><i class="fas fa-calendar-check"></i> Book a Call</a>
+                        <a href="/digital_marketing.php" class="md-cta-primary"><i class="fas fa-arrow-right"></i> See marketing services</a>
+                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="md-cta-secondary js-book-call" data-source="home_marketing" target="_blank" rel="noopener"><i class="fas fa-calendar-check"></i> Book a Call</a>
                     </div>
                 </div>
                 <div class="col-lg-5">
                     <div style="background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);border-radius:14px;padding:30px;">
-                        <h4 style="color:#ffd9b8;font-size:13px;font-weight:800;letter-spacing:1.6px;text-transform:uppercase;margin:0 0 18px;">What you get</h4>
+                        <h4 style="color:#ffd9b8;font-size:13px;font-weight:800;letter-spacing:1.6px;text-transform:uppercase;margin:0 0 18px;">What we run for you</h4>
                         <?php foreach ([
-                            ['fas fa-bullseye',   'Niche + location targeting',     'Sharply targeted reach &mdash; not generic awareness'],
-                            ['fas fa-rocket',     'Conversion-engineered landings', 'Purpose-built pages per niche and per location'],
-                            ['fas fa-brain',      'AI-driven lead scoring',         'Intent, qualifier, budget and fit filtered'],
-                            ['fas fa-table',      'Real-time Sheet / dashboard',    'Leads arrive the moment they qualify'],
+                            ['fas fa-bullseye',   'Performance ads',             'Google &amp; Meta &mdash; ROAS-tracked, AI-optimised'],
+                            ['fas fa-magnifying-glass', 'SEO + content',         'Technical SEO + topical clusters + AI-assisted writing'],
+                            ['fas fa-rocket',     'Conversion-engineered pages', 'Purpose-built landings per niche &amp; per location'],
+                            ['fas fa-brain',      'AI lead scoring &amp; CRM',   'Intent + budget + fit filtered, delivered to HubSpot / Sheets'],
                         ] as $p): ?>
                         <div style="display:flex;gap:14px;margin-bottom:16px;align-items:flex-start;">
                             <div style="flex:0 0 40px;width:40px;height:40px;border-radius:10px;background:linear-gradient(135deg,#ff6b00,#ef4444);color:#fff;display:flex;align-items:center;justify-content:center;font-size:16px;"><i class="<?php echo $p[0]; ?>"></i></div>

@@ -129,7 +129,7 @@
                 <span style="display:inline-block;font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--md-orange);font-weight:800;background:rgba(255,107,0,0.08);padding:5px 14px;border-radius:18px;">Trusted by</span>
                 <h3 style="font-size:18px;font-weight:700;color:var(--md-heading);margin:10px 0 0;letter-spacing:-0.2px;">Brands shipping on our stack &mdash; <span style="color:var(--md-muted);font-weight:500;font-size:14.5px;">many more under NDA</span></h3>
             </div>
-            <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:16px;align-items:stretch;">
+            <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:18px;align-items:stretch;">
                 <?php foreach ([
                     ['file'=>'mindsyn.png',            'alt'=>'MindSyn'],
                     ['file'=>'courierdost.png',        'alt'=>'CourierDost'],
@@ -140,8 +140,8 @@
                     ['file'=>'technocrats.png',        'alt'=>'Technocrats (ISO 9001:2015)'],
                     ['file'=>'m-four-development.png', 'alt'=>'M Four Development'],
                 ] as $c): ?>
-                <div style="background:#fff;border:1px solid var(--md-border);border-radius:12px;padding:22px 18px;display:flex;align-items:center;justify-content:center;min-height:110px;transition:transform .25s,border-color .25s,box-shadow .25s,filter .25s,opacity .25s;filter:grayscale(0.85);opacity:0.78;" onmouseover="this.style.transform='translateY(-3px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow)';this.style.filter='grayscale(0)';this.style.opacity='1'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow='';this.style.filter='grayscale(0.85)';this.style.opacity='0.78'">
-                    <img src="/assets/img/clients/<?php echo $c['file']; ?>" alt="<?php echo htmlspecialchars($c['alt']); ?>" loading="lazy" decoding="async" width="200" height="100" style="max-width:100%;max-height:68px;width:auto;height:auto;object-fit:contain;display:block;">
+                <div style="background:#fff;border:1px solid var(--md-border);border-radius:14px;padding:18px 16px;display:flex;align-items:center;justify-content:center;min-height:140px;transition:transform .25s,border-color .25s,box-shadow .25s;" onmouseover="this.style.transform='translateY(-3px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow-h)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
+                    <img src="/assets/img/clients/<?php echo $c['file']; ?>" alt="<?php echo htmlspecialchars($c['alt']); ?>" loading="lazy" decoding="async" width="200" height="100" style="max-width:100%;max-height:108px;width:auto;height:auto;object-fit:contain;display:block;">
                 </div>
                 <?php endforeach; ?>
             </div>
