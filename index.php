@@ -132,191 +132,43 @@
     <?php require_once(__DIR__ . "/includes/ui_modern.php"); ?>
 
     <!-- ============================================================
-         HERO — split layout: messaging left, lead-form right
+         HERO — centered, team-led positioning
          ============================================================ -->
-    <?php itdgl_render_modern_styles(); ?>
-    <style>
-    .hsh { padding: 90px 0 60px; }
-    .hsh-grid { display: grid; grid-template-columns: 1.15fr 1fr; gap: 50px; align-items: center; position: relative; z-index: 2; }
-    .hsh-left h1 { font-size: 44px; font-weight: 800; line-height: 1.14; color: #fff !important; margin: 0 0 18px; max-width: 620px; }
-    .hsh-left h1 .accent { color: #ff9550; }
-    .hsh-left p.sub { font-size: 16.5px; line-height: 1.7; color: rgba(255,255,255,0.85); max-width: 580px; margin: 0 0 26px; }
-    .hsh-ctas { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 28px; }
-    .hsh-pills { display: flex; gap: 18px; flex-wrap: wrap; font-size: 13px; color: rgba(255,255,255,0.7); }
-    .hsh-pills span { display: inline-flex; align-items: center; gap: 7px; }
-    .hsh-pills i { color: #ff9550; font-size: 12px; }
-
-    /* Form card */
-    .hsh-form-card {
-        background: #ffffff;
-        border-radius: 18px;
-        padding: 30px;
-        box-shadow: 0 24px 60px rgba(15,23,42,0.32);
-        border: 1px solid rgba(255,255,255,0.08);
-        position: relative;
-    }
-    .hsh-form-card::before {
-        content: ''; position: absolute; top: -3px; left: -3px; right: -3px; height: 6px;
-        background: linear-gradient(90deg, #ff6b00 0%, #ef4444 50%, #4338ca 100%);
-        border-radius: 18px 18px 0 0;
-    }
-    .hsh-form-card h2 { font-size: 21px; font-weight: 800; color: #0f172a; margin: 0 0 4px; }
-    .hsh-form-card .form-promise { font-size: 13px; color: #64748b; margin: 0 0 18px; line-height: 1.5; }
-    .hsh-form-card .form-promise strong { color: #ff6b00; }
-    .hsh-field { margin-bottom: 12px; }
-    .hsh-field label { display: block; font-size: 12px; font-weight: 700; color: #475569; margin-bottom: 5px; letter-spacing: 0.2px; text-transform: uppercase; }
-    .hsh-field input, .hsh-field select {
-        width: 100%; padding: 12px 14px; border: 2px solid #e2e8f0; border-radius: 8px;
-        font-size: 14.5px; outline: none; background: #f8fafc; color: #0f172a;
-        transition: border-color .2s, box-shadow .2s, background .2s;
-        font-family: inherit;
-    }
-    .hsh-field input:focus, .hsh-field select:focus {
-        border-color: #1e40af; box-shadow: 0 0 0 4px rgba(30,64,175,0.10); background: #fff;
-    }
-    .hsh-submit {
-        width: 100%; background: linear-gradient(135deg, #ff6b00 0%, #ef4444 100%);
-        color: #fff; border: none; padding: 13px 20px; border-radius: 8px;
-        font-size: 15px; font-weight: 800; cursor: pointer;
-        box-shadow: 0 6px 20px rgba(255,107,0,0.30);
-        transition: transform .2s, box-shadow .2s;
-        margin-top: 6px;
-    }
-    .hsh-submit:hover { transform: translateY(-2px); box-shadow: 0 12px 30px rgba(255,107,0,0.45); }
-    .hsh-microcopy { display: flex; gap: 14px; flex-wrap: wrap; font-size: 11.5px; color: #64748b; margin-top: 12px; justify-content: center; }
-    .hsh-microcopy span { display: inline-flex; align-items: center; gap: 5px; }
-    .hsh-microcopy i { color: #16a34a; font-size: 11px; }
-    .hsh-success { display: none; text-align: center; padding: 18px 0; }
-    .hsh-success p.h { color: #16a34a; font-weight: 800; font-size: 17px; margin: 0 0 8px; }
-    .hsh-success p.s { color: #475569; font-size: 14px; line-height: 1.55; margin: 0 0 14px; }
-    .hsh-success a.wa { display: inline-flex; align-items: center; gap: 6px; color: #25D366; font-weight: 700; text-decoration: none; font-size: 14px; }
-
-    @media (max-width: 991px) {
-        .hsh { padding: 70px 0 50px; }
-        .hsh-grid { grid-template-columns: 1fr; gap: 32px; }
-        .hsh-left h1 { font-size: 32px; }
-        .hsh-form-card { padding: 24px 22px; }
-    }
-    @media (max-width: 576px) {
-        .hsh { padding: 56px 0 40px; }
-        .hsh-left h1 { font-size: 26px; }
-        .hsh-pills { font-size: 12.5px; gap: 12px; }
-        .hsh-microcopy { font-size: 10.5px; }
-    }
-    </style>
-
-    <section class="md-hero hsh">
-        <div class="container">
-            <div class="hsh-grid">
-                <!-- LEFT: messaging -->
-                <div class="hsh-left">
-                    <span class="md-hero__eyebrow"><span class="pulse"></span>Senior team &middot; 12+ yrs avg experience &middot; Backed by 8-yr parent group</span>
-                    <h1>We build the <span class="accent" id="hero-rotator">custom apps</span><br>that scale serious B2B &amp; D2C companies.</h1>
-                    <p class="sub">A two-year-old senior-led India studio, backed by an eight-year parent technology group. We ship custom mobile apps, SaaS platforms, websites and AI-driven lead generation for 300+ businesses across 6 countries.</p>
-                    <div class="hsh-ctas">
-                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="md-cta-primary js-book-call" data-source="home_hero_calendly"><i class="fas fa-calendar-check"></i> Book a Free 30-min Call</a>
-                        <a href="/case-studies.php" class="md-cta-secondary"><i class="fas fa-folder-open"></i> See Our Work</a>
-                    </div>
-                    <div class="hsh-pills">
-                        <span><i class="fas fa-shield-check"></i> Fixed-quote pricing</span>
-                        <span><i class="fas fa-code-branch"></i> 100% code ownership</span>
-                        <span><i class="fas fa-globe"></i> 6-country delivery</span>
-                        <span><i class="fas fa-bolt"></i> 48-hr quote turnaround</span>
-                    </div>
-                </div>
-
-                <!-- RIGHT: inline lead-capture form -->
-                <div class="hsh-right">
-                    <div class="hsh-form-card">
-                        <h2><i class="fas fa-paper-plane" style="color:#ff6b00;margin-right:6px;"></i>Get a free quote in 48 hours</h2>
-                        <p class="form-promise"><strong>No SDRs, no scripts.</strong> A senior engineer or strategist replies within 24 business hours with a written fixed-scope quote.</p>
-
-                        <form id="hsh-form" onsubmit="return hshSubmit(event)" autocomplete="on">
-                            <div class="hsh-field">
-                                <label for="hsh-name">Your name *</label>
-                                <input type="text" id="hsh-name" name="name" required autocomplete="name" placeholder="Jane Doe">
-                            </div>
-                            <div class="hsh-field">
-                                <label for="hsh-email">Work email *</label>
-                                <input type="email" id="hsh-email" name="email" required autocomplete="email" placeholder="jane@yourcompany.com">
-                            </div>
-                            <div class="hsh-field">
-                                <label for="hsh-mobile">WhatsApp / mobile *</label>
-                                <input type="tel" id="hsh-mobile" name="mobile" required pattern="[\+]?[0-9\s\-]{7,18}" autocomplete="tel" placeholder="+91 98765 43210">
-                            </div>
-                            <div class="hsh-field">
-                                <label for="hsh-service">What can we help with? *</label>
-                                <select id="hsh-service" name="service" required>
-                                    <option value="">Select one</option>
-                                    <option value="Custom Mobile App Development">Custom Mobile App Development</option>
-                                    <option value="Custom Web Application">Custom Web Application</option>
-                                    <option value="SaaS Platform Development">SaaS Platform Development</option>
-                                    <option value="Website Development">Website Development</option>
-                                    <option value="Digital Marketing &amp; Lead Generation">Digital Marketing &amp; Lead Generation</option>
-                                    <option value="Courier Management Software">Courier Management Software (Product)</option>
-                                    <option value="Logistics Mobile App">Logistics Mobile App (Product)</option>
-                                    <option value="Multi-Vendor Marketplace App">Multi-Vendor Marketplace App (Product)</option>
-                                    <option value="Not sure — discovery call">Not sure &mdash; discovery call</option>
-                                </select>
-                            </div>
-                            <input type="text" name="username_hp" tabindex="-1" autocomplete="off" style="position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden;">
-                            <input type="hidden" name="form_ts" value="<?php echo time(); ?>">
-                            <input type="hidden" name="source" value="home_hero_form">
-                            <button type="submit" class="hsh-submit">Get My Free Quote in 48 Hours &rarr;</button>
-                            <div class="hsh-microcopy">
-                                <span><i class="fas fa-lock"></i> Private &mdash; never shared</span>
-                                <span><i class="fas fa-bolt"></i> Reply in 24 hrs</span>
-                                <span><i class="fas fa-ban"></i> No spam ever</span>
-                            </div>
-                        </form>
-
-                        <div class="hsh-success" id="hsh-success">
-                            <p class="h"><i class="fas fa-check-circle"></i> Thanks &mdash; reply within 24 hours.</p>
-                            <p class="s">A senior engineer or strategist will email you directly with a fixed-scope quote and next steps. For anything urgent:</p>
-                            <a class="wa" href="https://wa.me/918450978544?text=Hi%20ITD%20GrowthLabs%2C%20I%20just%20filled%20the%20home-page%20form." target="_blank" rel="noopener"><i class="fab fa-whatsapp"></i> WhatsApp us now</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    <?php itdgl_render_modern_hero([
+        'eyebrow' => '<span class="pulse"></span>Senior practitioner team &middot; 12+ yrs avg experience &middot; 300+ projects shipped',
+        'pulse'   => true,
+        'title'   => 'We build the <span class="accent" id="hero-rotator">custom apps</span> that scale serious B2B &amp; D2C companies.',
+        'sub'     => 'Custom mobile apps, SaaS platforms, web applications, websites and AI-driven lead generation &mdash; delivered by a senior practitioner team for 300+ businesses across 6 countries.',
+        'primary' => ['url'=>'https://calendly.com/itdgrowthlabs-info/30min', 'label'=>'Book a Free 30-min Call', 'icon'=>'fas fa-calendar-check', 'js_book_call'=>true, 'source'=>'home_hero_calendly'],
+        'secondary'=>['url'=>'/case-studies.php', 'label'=>'See Our Work', 'icon'=>'fas fa-folder-open'],
+        'pills'   => [
+            ['icon'=>'fas fa-shield-check', 'text'=>'Fixed-quote pricing'],
+            ['icon'=>'fas fa-code-branch',   'text'=>'100% code ownership'],
+            ['icon'=>'fas fa-globe',         'text'=>'6-country delivery'],
+            ['icon'=>'fas fa-bolt',          'text'=>'48-hr quote turnaround'],
+        ],
+        'stats'   => [
+            ['num'=>'300+', 'lbl'=>'Projects delivered'],
+            ['num'=>'55+',  'lbl'=>'Senior practitioners'],
+            ['num'=>'97%',  'lbl'=>'Client retention'],
+            ['num'=>'10+',  'lbl'=>'Industries served'],
+        ],
+    ]); ?>
 
     <script>
-    // Hero rotator animation
+    // Hero rotator animation — cycles the accent word in the centered hero
     (function () {
         var words = ['custom apps', 'SaaS platforms', 'logistics software', 'lead-gen systems', 'D2C websites', 'multi-vendor marketplaces'];
         var i = 0;
         var el = document.getElementById('hero-rotator');
         if (!el) return;
+        el.style.transition = 'opacity .2s ease';
         setInterval(function () {
             i = (i + 1) % words.length;
             el.style.opacity = 0;
             setTimeout(function () { el.textContent = words[i]; el.style.opacity = 1; }, 220);
         }, 2400);
-        el.style.transition = 'opacity .2s ease';
     })();
-
-    // Hero form submit
-    function hshSubmit(e) {
-        e.preventDefault();
-        var form = document.getElementById('hsh-form');
-        var fd = new FormData(form);
-        // Fire-and-forget POST
-        fetch('/leadCaptureMail.php', { method: 'POST', body: fd })
-            .catch(function () {});
-        // Track
-        if (typeof gtag === 'function') {
-            gtag('event', 'generate_lead', {
-                lead_source: 'home_hero_form',
-                lead_type:   'consultation',
-                service:     fd.get('service') || '',
-                email_domain: (fd.get('email') || '').split('@')[1] || ''
-            });
-        }
-        form.style.display = 'none';
-        document.getElementById('hsh-success').style.display = 'block';
-        return false;
-    }
     </script>
 
     <!-- Trust badges -->
@@ -444,9 +296,9 @@
                     ); ?>
                 </div>
                 <div class="col-lg-7" style="font-size:16px;line-height:1.85;color:var(--md-body);">
-                    <p>ITD GrowthLabs is a two-year-old senior-led India studio, backed by an eight-year parent technology group. Our team averages <strong>12+ years of in-category experience</strong> &mdash; engineers and strategists who shipped at scale in logistics, fintech, SaaS, D2C and AI before joining us. Across the group we have delivered 300+ engagements for B2B and D2C companies in India, USA, UK, UAE, Australia and Africa, with a 97% client retention rate and an average engagement length north of 22 months.</p>
-                    <p>The studio is organised into focused practice pods: logistics platforms, web &amp; SaaS engineering, mobile apps, multi-vendor marketplaces, and digital marketing. Every engagement is led by a senior practitioner &mdash; not a mid-level account manager and not an offshore rotation. The model is younger; the engineers are not.</p>
-                    <p style="margin-bottom:0;">Led by our Business Head <a href="https://www.linkedin.com/in/prashant-chaudhari03/" target="_blank" rel="noopener" style="color:var(--md-primary);font-weight:700;border-bottom:1px dashed var(--md-primary);text-decoration:none;">Prashant Chaudhari</a>, who personally scopes every engagement and remains the named owner of the relationship from kickoff through long-term roadmap. <a href="/about.php" style="color:var(--md-orange);font-weight:700;text-decoration:none;">Read the full story &rarr;</a></p>
+                    <p>ITD GrowthLabs is a senior-led India technology studio backed by an established parent technology group. Our 55+ practitioner team averages <strong>12+ years of in-category experience</strong> &mdash; engineers and strategists who shipped at scale in logistics, fintech, SaaS, D2C and AI before joining us. Across the group we have delivered <strong>300+ engagements</strong> for B2B and D2C companies in India, USA, UK, UAE, Australia and Africa, with a <strong>97% client retention rate</strong> and an average engagement length north of 22 months.</p>
+                    <p>The studio is organised into focused practice pods: logistics platforms, web &amp; SaaS engineering, mobile apps, multi-vendor marketplaces, and digital marketing. Every engagement is led by a senior practitioner &mdash; not a mid-level account manager and not an offshore rotation. You get the same named senior owner from kickoff through long-term roadmap.</p>
+                    <p style="margin-bottom:0;">Capabilities span custom software, AI-driven automation, performance marketing and technology consulting &mdash; built around outcomes our clients can measure, not deliverables they have to inspect. <a href="/about.php" style="color:var(--md-orange);font-weight:700;text-decoration:none;">Read the full story &rarr;</a></p>
                 </div>
             </div>
         </div>
@@ -671,7 +523,7 @@
                 'From the first phone call to the AMC retainer 12 months later &mdash; this is exactly what happens, in what order, and what you receive at each milestone.'
             ); ?>
             <?php itdgl_render_process_steps([
-                ['title'=>'Discovery (30 min)', 'desc'=>'Free 30-min call with Prashant or the senior lead for your track. We listen, ask hard questions, and tell you straight whether we&rsquo;re the right partner.'],
+                ['title'=>'Discovery (30 min)', 'desc'=>'Free 30-min call with the senior practice lead for your track. We listen, ask hard questions, and tell you straight whether we&rsquo;re the right partner.'],
                 ['title'=>'Fixed quote (48 hrs)', 'desc'=>'Written scope, milestone schedule, fixed price. Module-by-module breakdown. No T&amp;M traps. You see the line items before signing.'],
                 ['title'=>'Architecture sign-off', 'desc'=>'Stack, schema, integrations agreed before code. Wireframes and design sign-off for visual work. No surprises in week 6.'],
                 ['title'=>'Build &amp; weekly demo', 'desc'=>'2-week sprints. Weekly demo on your timezone. Slack/Teams + GitHub access. Daily commits visible. Staging URL from week one.'],
@@ -961,7 +813,7 @@
             ); ?>
             <?php itdgl_render_faq_accordion([
                 'What is ITD GrowthLabs and what do you do?' =>
-                  'ITD GrowthLabs is a two-year-old senior-led India studio, backed by an eight-year parent technology group. Our 55+ person team averages 12+ years of in-category experience and has shipped 300+ projects across India, USA, UK, UAE, Australia and Africa with a 97% client retention rate. We build custom mobile apps, SaaS platforms, websites and AI-driven lead generation systems for B2B and D2C companies. Our flagship offerings are: three ready-to-deploy app products (Courier Management Software, Custom Logistics Mobile App, Multi-Vendor Marketplace App) plus five core services (Website Development, Custom Mobile App Development, Custom Web Application Development, SaaS Development, Digital Marketing).',
+                  'ITD GrowthLabs is a senior-led India technology studio backed by an established parent technology group. Our 55+ practitioner team averages 12+ years of in-category experience and has shipped 300+ projects across India, USA, UK, UAE, Australia and Africa with a 97% client retention rate. We build custom mobile apps, SaaS platforms, websites and AI-driven lead generation systems for B2B and D2C companies. Our flagship offerings are: three ready-to-deploy app products (Courier Management Software, Custom Logistics Mobile App, Multi-Vendor Marketplace App) plus five core services (Website Development, Custom Mobile App Development, Custom Web Application Development, SaaS Development, Digital Marketing).',
 
                 'Who are your typical clients?' =>
                   'Three buyer profiles: (1) growth-stage Indian businesses scaling from ₹3Cr to ₹100Cr+ revenue who need real software infrastructure to replace Excel and WhatsApp ops; (2) US, UK, Australian and UAE companies looking for senior India studio quality at 30–60% lower cost than local agencies; (3) deep-tech / SaaS founders who need a dedicated engineering pod with continuity rather than staff-augmentation rotation. Across all three, the common thread is teams that want senior practitioners on every engagement and accountable outcomes — not deliverables.',

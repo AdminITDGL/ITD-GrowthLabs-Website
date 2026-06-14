@@ -134,12 +134,21 @@ img { max-width: 100%; height: auto; }
         color: #94a3b8;
     }
     #navbar-menu .navbar-nav > li.dropdown.is-open > a::after { transform: rotate(180deg); }
-    /* Dropdown menu reveal — accordion style on mobile */
-    #navbar-menu .dropdown-menu { display: none; position: static; box-shadow: none; padding: 0 0 8px; background: #f8fafc; border: none; }
-    #navbar-menu .dropdown.is-open .dropdown-menu { display: block; }
+    /* Dropdown menu reveal — accordion style on mobile.
+       Use !important to win against validnavs.js inline display: none. */
+    #navbar-menu .dropdown-menu { display: none !important; position: static !important; box-shadow: none; padding: 0 0 8px; background: #f8fafc; border: none; opacity: 1 !important; visibility: visible !important; transform: none !important; float: none !important; width: 100%; min-width: 0; }
+    #navbar-menu .dropdown.is-open > .dropdown-menu { display: block !important; }
     /* Megamenu collapses cleanly on mobile */
     #navbar-menu .megamenu-content { padding: 0; }
     #navbar-menu .megamenu-content .row { display: block; margin: 0; }
+    #navbar-menu .megamenu-content .col-menu,
+    #navbar-menu .megamenu-content [class*="col-"] { float: none; width: 100% !important; max-width: 100%; }
+    /* Dropdown caret on right edge */
+    #navbar-menu .navbar-nav > li.dropdown > a { position: relative; padding-right: 44px !important; }
+    #navbar-menu .navbar-nav > li.dropdown > a::after {
+        position: absolute; right: 16px; top: 50%; transform: translateY(-50%); margin-left: 0;
+    }
+    #navbar-menu .navbar-nav > li.dropdown.is-open > a::after { transform: translateY(-50%) rotate(180deg); }
 }
 </style>
 
@@ -174,9 +183,15 @@ img { max-width: 100%; height: auto; }
         var menu   = document.getElementById('navbar-menu');
         if (!toggle || !menu) return;
 
+        // Inline display setter — overrides validnavs.js fadeOut residue
+        function setInlineDisplay(el, val) {
+            if (el && el.style) el.style.setProperty('display', val, 'important');
+        }
+
         toggle.addEventListener('click', function (e) {
             e.preventDefault();
             menu.classList.toggle('is-open');
+            setInlineDisplay(menu, menu.classList.contains('is-open') ? 'block' : 'none');
             toggle.setAttribute('aria-expanded', menu.classList.contains('is-open'));
         });
 
@@ -184,19 +199,30 @@ img { max-width: 100%; height: auto; }
         // 3. Mobile dropdown accordion — tap parent toggles its dropdown,
         //    other open dropdowns close (single-open behaviour).
         //    Only fires under 992 px so desktop hover behaviour is untouched.
+        //    On mobile a "Services" parent is normally a trigger, not a link,
+        //    so always intercept the click and toggle the submenu. If the user
+        //    wants the parent's destination we expose it as a "Services overview"
+        //    link inside the submenu instead.
         // ============================================================
         menu.querySelectorAll('li.dropdown > a').forEach(function (parent) {
             parent.addEventListener('click', function (e) {
-                if (window.innerWidth >= 992) return; // desktop = let original handler work
+                if (window.innerWidth >= 992) return; // desktop = let validnavs hover handler work
                 var li = parent.parentElement;
-                // Only intercept if this is a dropdown trigger (href="#")
-                if (parent.getAttribute('href') !== '#') return;
                 e.preventDefault();
-                // Close other open dropdowns at the same level
+                e.stopPropagation();
+                // Close other open dropdowns at the same level (accordion behaviour)
                 var siblings = li.parentElement.querySelectorAll(':scope > li.dropdown.is-open');
-                siblings.forEach(function (s) { if (s !== li) s.classList.remove('is-open'); });
+                siblings.forEach(function (s) {
+                    if (s !== li) {
+                        s.classList.remove('is-open');
+                        var sm = s.querySelector(':scope > .dropdown-menu');
+                        setInlineDisplay(sm, 'none');
+                    }
+                });
                 li.classList.toggle('is-open');
-            });
+                var submenu = li.querySelector(':scope > .dropdown-menu');
+                setInlineDisplay(submenu, li.classList.contains('is-open') ? 'block' : 'none');
+            }, true /* capture — beat validnavs */);
         });
 
         // ============================================================
@@ -206,9 +232,12 @@ img { max-width: 100%; height: auto; }
             link.addEventListener('click', function () {
                 if (window.innerWidth >= 992) return;
                 var href = link.getAttribute('href') || '';
-                // Don't close on dropdown openers
-                if (href === '#' || href === '') return;
+                // Don't close on dropdown openers (href="#" or empty)
+                if (href === '#' || href === '' || href.charAt(0) === '#') return;
+                // Don't close on dropdown-toggle parents (handled above)
+                if (link.classList.contains('dropdown-toggle')) return;
                 menu.classList.remove('is-open');
+                setInlineDisplay(menu, 'none');
                 toggle.setAttribute('aria-expanded', 'false');
             });
         });
@@ -222,12 +251,36 @@ img { max-width: 100%; height: auto; }
             resizeTimer = setTimeout(function () {
                 if (window.innerWidth >= 992) {
                     menu.classList.remove('is-open');
+                    menu.style.removeProperty('display');
                     menu.querySelectorAll('li.dropdown.is-open').forEach(function (li) {
                         li.classList.remove('is-open');
+                        var sm = li.querySelector(':scope > .dropdown-menu');
+                        if (sm) sm.style.removeProperty('display');
                     });
                 }
             }, 150);
         });
+
+        // ============================================================
+        // 6. Watchdog — if validnavs.js or another script re-hides an open
+        //    dropdown after our toggle fires, re-apply our state on the next
+        //    frame. Targeted at the megamenu only so we don't fight the
+        //    desktop fade animation.
+        // ============================================================
+        var mo = new MutationObserver(function (mutations) {
+            if (window.innerWidth >= 992) return;
+            mutations.forEach(function (m) {
+                if (m.type !== 'attributes' || m.attributeName !== 'style') return;
+                var el = m.target;
+                if (!el.classList || !el.classList.contains('dropdown-menu')) return;
+                var li = el.closest('li.dropdown');
+                if (!li || !li.classList.contains('is-open')) return;
+                if (el.style.display === 'none' || el.style.display === '') {
+                    el.style.setProperty('display', 'block', 'important');
+                }
+            });
+        });
+        mo.observe(menu, { subtree: true, attributes: true, attributeFilter: ['style'] });
     }
 
     if (document.readyState === 'loading') {

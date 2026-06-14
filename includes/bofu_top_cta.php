@@ -10,13 +10,14 @@
  */
 ?>
 <div class="bofu-top-cta">
-    <div class="bofu-top-cta__avatar" aria-hidden="true">PC</div>
+    <div class="bofu-top-cta__avatar" aria-hidden="true"><i class="fas fa-headset"></i></div>
     <div class="bofu-top-cta__body">
-        <div class="bofu-top-cta__eyebrow">Skip the read &middot; Talk directly</div>
-        <div class="bofu-top-cta__headline">Free 30-min strategy call with <strong>Prashant Chaudhari</strong>, our Business Head &mdash; no sales pitch.</div>
+        <div class="bofu-top-cta__eyebrow">Skip the read &middot; Talk to our team</div>
+        <div class="bofu-top-cta__headline">Free 30-min strategy call with a <strong>senior practice lead</strong> &mdash; no sales pitch, no SDRs.</div>
     </div>
     <a href="https://calendly.com/itdgrowthlabs-info/30min"
        class="bofu-top-cta__btn js-book-call"
+       target="_blank" rel="noopener"
        data-source="blog_bofu_top_cta">
         Book Free Call <span aria-hidden="true">&rarr;</span>
     </a>
@@ -41,14 +42,12 @@
     width: 52px;
     height: 52px;
     border-radius: 50%;
-    background: linear-gradient(135deg, #1e40af, #4338ca);
+    background: linear-gradient(135deg, #ff6b00, #ef4444);
     color: #ffffff;
     display: flex;
     align-items: center;
     justify-content: center;
-    font-weight: 800;
-    font-size: 18px;
-    letter-spacing: 0.5px;
+    font-size: 20px;
     box-shadow: 0 4px 12px rgba(255, 107, 0, 0.28);
 }
 .bofu-top-cta__body { flex: 1; min-width: 220px; }
