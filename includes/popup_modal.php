@@ -441,84 +441,252 @@ $itdgl_contact_url = $itdgl_base . 'contact-us.php';
 $itdgl_banner_url  = $itdgl_base . 'assets/img/BlackBlueBizBanner.jpg';
 ?>
 <style>
-    /* Keep legacy selectors; scope new ones under #imagePopupModal so we don't leak styles. */
-    .btn-close:after { display: none; }
-    #imagePopupModal .itdgl-popup-eyebrow { display: inline-block; padding: 4px 12px; background: rgba(30,64,175,0.1); color: <?php echo htmlspecialchars($itdgl_cfg['accent']); ?>; border: 1px solid rgba(30,64,175,0.25); border-radius: 20px; font-size: 11px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 8px; }
-    #imagePopupModal .itdgl-popup-headline { margin: 0 0 6px; font-size: 19px; font-weight: 800; color: #0a1629; line-height: 1.25; }
-    #imagePopupModal .itdgl-popup-subcopy  { margin: 0 0 12px; font-size: 13.5px; line-height: 1.55; color: #4a5568; }
-    #profile-form-section input { width: 100%; padding: 10px 14px; border: 2px solid #e0e0e0; border-radius: 8px; font-size: 14px; outline: none; transition: border-color 0.3s; }
-    #profile-form-section input:focus { border-color: <?php echo htmlspecialchars($itdgl_cfg['accent']); ?>; }
-    #profile-download-success { display: none; text-align: center; padding: 15px 0; }
-    #imagePopupModal .itdgl-popup-primary-btn { background: linear-gradient(135deg, <?php echo htmlspecialchars($itdgl_cfg['accent']); ?>, #0d47a1); color: #fff; border: none; padding: 11px 20px; border-radius: 8px; font-weight: 600; font-size: 14px; cursor: pointer; transition: opacity 0.3s; width: 100%; }
-    #imagePopupModal .itdgl-popup-primary-btn:hover { opacity: 0.92; }
+/* ============================================================
+   ITD GrowthLabs — Modern Popup (2026 redesign)
+   Two-column split layout, brand-gradient hero strip on the left
+   with eyebrow + headline + sub + trust pills, conversion-engineered
+   form on the right with WhatsApp + Calendly fast paths.
+   Mobile: stacks vertically, form first.
+   ============================================================ */
+#imagePopupModal { --ip-accent: <?php echo htmlspecialchars($itdgl_cfg['accent']); ?>; }
+#imagePopupModal .modal-dialog { max-width: 920px; }
+#imagePopupModal .modal-content { background: #fff; border: none; border-radius: 18px; overflow: hidden; box-shadow: 0 32px 80px rgba(15,23,42,0.32); }
+.itdgl-popup-wrap { display: grid; grid-template-columns: 1.05fr 1fr; min-height: 460px; }
+
+/* LEFT — pitch column with brand gradient */
+.itdgl-popup-pitch {
+    position: relative;
+    background:
+        radial-gradient(700px 380px at 80% 0%, rgba(255,107,0,0.20), transparent 70%),
+        linear-gradient(135deg, #0f172a 0%, #1e1b4b 50%, #1e293b 100%);
+    color: #fff;
+    padding: 40px 36px;
+    display: flex; flex-direction: column;
+    overflow: hidden;
+}
+.itdgl-popup-pitch::before {
+    content: ''; position: absolute; inset: 0;
+    background-image:
+        linear-gradient(rgba(255,255,255,0.04) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255,255,255,0.04) 1px, transparent 1px);
+    background-size: 40px 40px;
+    opacity: 0.5; pointer-events: none;
+}
+.itdgl-popup-pitch > * { position: relative; z-index: 1; }
+.itdgl-popup-eyebrow {
+    display: inline-flex; align-items: center; gap: 6px;
+    padding: 6px 14px;
+    background: rgba(255,107,0,0.18);
+    border: 1px solid rgba(255,107,0,0.40);
+    color: #ffd9b8;
+    border-radius: 30px;
+    font-size: 10.5px; font-weight: 800;
+    letter-spacing: 1.4px; text-transform: uppercase;
+    margin-bottom: 18px; width: fit-content;
+}
+.itdgl-popup-pitch h3 {
+    margin: 0 0 12px; color: #fff;
+    font-size: 26px; font-weight: 800; line-height: 1.2;
+}
+.itdgl-popup-pitch h3 .accent { color: #ff9550; }
+.itdgl-popup-pitch p.itdgl-popup-subcopy {
+    margin: 0 0 22px;
+    font-size: 14.5px; line-height: 1.65;
+    color: rgba(255,255,255,0.86);
+}
+.itdgl-popup-trust { margin-top: auto; padding-top: 18px; }
+.itdgl-popup-trust-row {
+    display: flex; flex-wrap: wrap; gap: 14px;
+    font-size: 12.5px; color: rgba(255,255,255,0.75);
+}
+.itdgl-popup-trust-row span { display: inline-flex; align-items: center; gap: 6px; }
+.itdgl-popup-trust-row i { color: #ff9550; }
+
+/* Alt-CTA chips (WhatsApp + Contact Us) inside pitch column */
+.itdgl-popup-alt-ctas { display: flex; gap: 10px; flex-wrap: wrap; margin: 4px 0 18px; }
+.itdgl-popup-alt-ctas a {
+    flex: 1; min-width: 140px;
+    display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+    padding: 11px 16px; border-radius: 8px;
+    font-size: 13.5px; font-weight: 700;
+    text-decoration: none;
+    transition: transform .2s ease, box-shadow .2s ease;
+}
+.itdgl-popup-alt-ctas a:hover { transform: translateY(-2px); }
+.itdgl-popup-alt-ctas a.wa { background: #25D366; color: #fff !important; box-shadow: 0 4px 12px rgba(37,211,102,0.30); }
+.itdgl-popup-alt-ctas a.wa:hover { background: #1da856; box-shadow: 0 8px 20px rgba(37,211,102,0.45); }
+.itdgl-popup-alt-ctas a.contact { background: rgba(255,255,255,0.08); color: #fff !important; border: 1px solid rgba(255,255,255,0.25); }
+.itdgl-popup-alt-ctas a.contact:hover { background: rgba(255,255,255,0.16); }
+
+/* RIGHT — form column */
+.itdgl-popup-form-col {
+    background: #fff; padding: 40px 36px;
+    display: flex; flex-direction: column; gap: 14px;
+    position: relative;
+}
+.itdgl-popup-form-col h4 {
+    margin: 0 0 4px;
+    font-size: 18px; font-weight: 800; color: #0f172a;
+    letter-spacing: -0.2px;
+}
+.itdgl-popup-form-col p.form-promise {
+    margin: 0 0 16px; font-size: 13px; color: #64748b; line-height: 1.5;
+}
+.itdgl-popup-form-col p.form-promise strong { color: var(--ip-accent); }
+#profile-form-section { background: transparent; border: none; padding: 0; }
+#profile-form-section input {
+    width: 100%; padding: 13px 14px;
+    border: 2px solid #e2e8f0; border-radius: 8px;
+    font-size: 15px; outline: none;
+    transition: border-color .25s ease, box-shadow .25s ease;
+    background: #f8fafc; color: #0f172a;
+}
+#profile-form-section input:focus {
+    border-color: var(--ip-accent);
+    box-shadow: 0 0 0 4px rgba(30,64,175,0.10);
+    background: #ffffff;
+}
+#profile-form-section input::placeholder { color: #94a3b8; }
+#imagePopupModal .itdgl-popup-primary-btn {
+    background: linear-gradient(135deg, #ff6b00 0%, #ef4444 100%);
+    color: #fff; border: none; padding: 14px 22px; border-radius: 8px;
+    font-weight: 800; font-size: 15px; letter-spacing: 0.2px;
+    cursor: pointer; width: 100%;
+    box-shadow: 0 6px 20px rgba(255,107,0,0.30);
+    transition: transform .2s ease, box-shadow .2s ease;
+}
+#imagePopupModal .itdgl-popup-primary-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 30px rgba(255,107,0,0.45);
+}
+
+/* Soft promises below form */
+.itdgl-popup-microcopy {
+    display: flex; flex-wrap: wrap; gap: 10px 16px;
+    font-size: 11.5px; color: #64748b;
+    margin-top: 6px;
+}
+.itdgl-popup-microcopy span { display: inline-flex; align-items: center; gap: 5px; }
+.itdgl-popup-microcopy i { color: #16a34a; font-size: 11px; }
+
+/* Success states */
+#profile-download-success { display: none; text-align: center; padding: 18px 0 0; }
+#profile-download-success p.success-headline { color: #16a34a; font-weight: 800; font-size: 17px; margin: 0 0 8px; }
+#profile-download-success p.success-sub { color: #475569; font-size: 14px; line-height: 1.6; margin: 0; }
+#profile-download-link {
+    display: inline-block; margin-top: 14px;
+    background: linear-gradient(135deg, #ff6b00 0%, #ef4444 100%);
+    color: #fff !important; padding: 11px 24px; border-radius: 8px;
+    font-weight: 700; font-size: 14px; text-decoration: none;
+    box-shadow: 0 6px 18px rgba(255,107,0,0.30);
+}
+
+/* Close button */
+#imagePopupModal .ip-close {
+    position: absolute; top: 14px; right: 16px; z-index: 10;
+    width: 36px; height: 36px; border-radius: 50%;
+    background: rgba(255,255,255,0.95); border: none;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 22px; line-height: 1; color: #475569;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.18);
+    cursor: pointer; transition: transform .2s ease;
+}
+#imagePopupModal .ip-close:hover { transform: scale(1.08); color: #0f172a; }
+.btn-close:after { display: none; }
+
+/* MOBILE — stack vertically, form first */
+@media (max-width: 768px) {
+    #imagePopupModal .modal-dialog { max-width: 100%; margin: 12px; }
+    .itdgl-popup-wrap { grid-template-columns: 1fr; min-height: 0; }
+    .itdgl-popup-pitch { padding: 28px 24px 24px; order: 2; }
+    .itdgl-popup-pitch h3 { font-size: 21px; }
+    .itdgl-popup-pitch p.itdgl-popup-subcopy { font-size: 14px; margin-bottom: 16px; }
+    .itdgl-popup-form-col { padding: 28px 24px 22px; order: 1; }
+    .itdgl-popup-trust { padding-top: 8px; }
+}
 </style>
 
 <div class="modal fade" id="imagePopupModal" tabindex="-1" aria-labelledby="imagePopupModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg">
-        <div class="modal-content" style="background: #fff; border: none; position: relative; border-radius: 16px; overflow: hidden; box-shadow: 0 20px 60px rgba(0,0,0,0.3);">
-            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" style="position: absolute; top: 12px; right: 15px; z-index: 1051; background: #fff; border-radius: 50%; width: 36px; height: 36px; opacity: 1; box-shadow: 0 2px 8px rgba(0,0,0,0.15); padding: 8px; font-size: 18px; line-height: 1; display: flex; align-items: center; justify-content: center; border: none; cursor: pointer;">
-                <span style="color: #333; font-weight: bold;">&times;</span>
-            </button>
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <button type="button" class="ip-close" data-bs-dismiss="modal" aria-label="Close">&times;</button>
 
-            <!-- Body -->
-            <div style="padding: 48px 30px 24px; display: flex; flex-direction: column; gap: 10px;">
+            <div class="itdgl-popup-wrap">
+                <!-- LEFT — pitch column with brand gradient -->
+                <div class="itdgl-popup-pitch">
+                    <?php if ($itdgl_cfg['eyebrow']): ?>
+                        <span class="itdgl-popup-eyebrow"><i class="fas fa-bolt" style="font-size:9px;"></i> <?php echo $itdgl_cfg['eyebrow']; ?></span>
+                    <?php endif; ?>
+                    <h3><?php echo $itdgl_cfg['headline']; ?></h3>
+                    <?php if ($itdgl_cfg['subcopy']): ?>
+                        <p class="itdgl-popup-subcopy"><?php echo $itdgl_cfg['subcopy']; ?></p>
+                    <?php endif; ?>
 
-                <?php if ($itdgl_cfg['eyebrow']): ?>
-                    <span class="itdgl-popup-eyebrow"><?php echo $itdgl_cfg['eyebrow']; ?></span>
-                <?php endif; ?>
-                <h3 class="itdgl-popup-headline"><?php echo $itdgl_cfg['headline']; ?></h3>
-                <?php if ($itdgl_cfg['subcopy']): ?>
-                    <p class="itdgl-popup-subcopy"><?php echo $itdgl_cfg['subcopy']; ?></p>
-                <?php endif; ?>
+                    <div class="itdgl-popup-alt-ctas">
+                        <a class="wa" href="https://wa.me/918450978544?text=Hi%20ITD%20GrowthLabs%2C%20I%27d%20like%20to%20discuss%20a%20project." target="_blank" rel="noopener" onclick="if(typeof gtag==='function')gtag('event','whatsapp_open',{source:'popup'});">
+                            <i class="fab fa-whatsapp" style="font-size:16px;"></i> WhatsApp
+                        </a>
+                        <a class="contact" href="<?php echo htmlspecialchars($itdgl_contact_url); ?>">
+                            <i class="fas fa-envelope" style="font-size:13px;"></i> Contact form
+                        </a>
+                    </div>
 
-                <!-- Primary CTAs -->
-                <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-                    <a href="<?php echo htmlspecialchars($itdgl_contact_url); ?>" style="flex: 1; min-width: 200px; display: block; text-align: center; background: linear-gradient(135deg, <?php echo htmlspecialchars($itdgl_cfg['accent']); ?>, #0d47a1); color: #fff; padding: 12px 18px; border-radius: 8px; font-weight: 600; font-size: 14px; text-decoration: none; transition: opacity 0.3s;" onmouseover="this.style.opacity='0.9'" onmouseout="this.style.opacity='1'">
-                        Get a Free Consultation &#8594;
-                    </a>
-                    <a href="https://wa.me/918450978544?text=Hi%20ITD%20GrowthLabs%2C%20I%27d%20like%20to%20discuss%20a%20project." target="_blank" rel="noopener" style="flex: 1; min-width: 200px; display: block; text-align: center; background: #25D366; color: #fff; padding: 12px 18px; border-radius: 8px; font-weight: 600; font-size: 14px; text-decoration: none; transition: opacity 0.3s;" onmouseover="this.style.opacity='0.9'" onmouseout="this.style.opacity='1'">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="white" style="vertical-align: middle; margin-right: 6px;"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
-                        Chat on WhatsApp
-                    </a>
+                    <div class="itdgl-popup-trust">
+                        <div class="itdgl-popup-trust-row">
+                            <span><i class="fas fa-shield-check"></i> Senior team since 2014</span>
+                            <span><i class="fas fa-globe"></i> 6-country delivery</span>
+                            <span><i class="fas fa-handshake"></i> 97% retention</span>
+                        </div>
+                        <p style="margin:14px 0 0;font-size:12px;color:rgba(255,255,255,0.55);"><?php echo $itdgl_cfg['stats']; ?></p>
+                    </div>
                 </div>
 
-                <!-- Lead Capture Form -->
-                <div id="profile-form-section" style="background: #f8f9fb; border: 2px solid #e8ecf1; border-radius: 10px; padding: 14px 16px;">
-                    <p style="margin: 0 0 8px; font-size: 13px; font-weight: 700; color: <?php echo htmlspecialchars($itdgl_cfg['accent']); ?>;">
+                <!-- RIGHT — form column -->
+                <div class="itdgl-popup-form-col">
+                    <h4>
                         <?php if ($itdgl_cfg['type'] === 'pdf'): ?>
-                            &#128196; <?php echo htmlspecialchars($itdgl_cfg['headline']); ?>
+                            <i class="fas fa-file-pdf" style="color:var(--ip-accent);margin-right:6px;"></i> Get the PDF
                         <?php else: ?>
-                            &#128222; Get a call back from a <?php echo htmlspecialchars($itdgl_cfg['expert']); ?> within 24 hours
+                            <i class="fas fa-phone-volume" style="color:var(--ip-accent);margin-right:6px;"></i> Talk to a senior expert
+                        <?php endif; ?>
+                    </h4>
+                    <p class="form-promise">
+                        <?php if ($itdgl_cfg['type'] === 'pdf'): ?>
+                            <strong>Instant download.</strong> Drop your details and the PDF starts immediately.
+                        <?php else: ?>
+                            <strong>24-hour reply window.</strong> We&rsquo;ll route you to a <?php echo htmlspecialchars($itdgl_cfg['expert']); ?> &mdash; no SDRs, no scripts.
                         <?php endif; ?>
                     </p>
-                    <form id="profile-download-form" onsubmit="return handleProfileDownload(event)" style="display: flex; flex-direction: column; gap: 8px;">
-                        <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-                            <input type="text" id="profile-lead-name" placeholder="Your Name" required style="flex: 1; min-width: 140px;">
-                            <input type="email" id="profile-lead-email" placeholder="Work Email" required style="flex: 1; min-width: 180px;">
+
+                    <div id="profile-form-section">
+                        <form id="profile-download-form" onsubmit="return handleProfileDownload(event)" style="display:flex;flex-direction:column;gap:12px;">
+                            <input type="text"   id="profile-lead-name"   placeholder="Your name *" required autocomplete="name">
+                            <input type="email"  id="profile-lead-email"  placeholder="Work email *" required autocomplete="email">
+                            <input type="tel"    id="profile-lead-mobile" placeholder="Mobile / WhatsApp (e.g. +91 98765 43210) *" required pattern="[\+]?[0-9\s\-]{7,18}" autocomplete="tel">
+                            <input type="text" name="username_hp" tabindex="-1" autocomplete="off" style="position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden;">
+                            <input type="hidden" name="form_ts" id="itdgl-popup-ts" value="<?php echo time(); ?>">
+                            <button type="submit" class="itdgl-popup-primary-btn"><?php echo $itdgl_cfg['cta_label']; ?></button>
+                        </form>
+                        <div class="itdgl-popup-microcopy">
+                            <span><i class="fas fa-lock"></i> Private &mdash; we never share</span>
+                            <span><i class="fas fa-bolt"></i> Reply in 24 hrs</span>
+                            <span><i class="fas fa-ban"></i> No spam ever</span>
                         </div>
-                        <input type="tel" id="profile-lead-mobile" placeholder="Mobile Number (e.g. +91 98765 43210)" required pattern="[\+]?[0-9\s\-]{7,18}" title="Enter a valid mobile number">
-                        <!-- Honeypot + timestamp for spam protection -->
-                        <input type="text" name="username_hp" tabindex="-1" autocomplete="off" style="position:absolute; left:-9999px; top:auto; width:1px; height:1px; overflow:hidden;">
-                        <input type="hidden" name="form_ts" id="itdgl-popup-ts" value="<?php echo time(); ?>">
-                        <button type="submit" class="itdgl-popup-primary-btn"><?php echo $itdgl_cfg['cta_label']; ?></button>
-                    </form>
-                </div>
+                    </div>
 
-                <div id="profile-download-success">
-                    <?php if ($itdgl_cfg['type'] === 'pdf'): ?>
-                        <p style="color: #25D366; font-weight: 700; font-size: 15px; margin: 0 0 8px;">&#10003; Thank you! Your download is starting...</p>
-                        <a id="profile-download-link" href="<?php echo htmlspecialchars($itdgl_pdf_url); ?>" download style="display: inline-block; background: <?php echo htmlspecialchars($itdgl_cfg['accent']); ?>; color: #fff; padding: 10px 24px; border-radius: 8px; font-weight: 600; font-size: 14px; text-decoration: none;">
-                            Click here if download didn't start
-                        </a>
-                    <?php else: ?>
-                        <p style="color: #25D366; font-weight: 700; font-size: 16px; margin: 0 0 8px;">&#10003; Thanks — we'll call you within 24 hours.</p>
-                        <p style="color: #555; font-size: 13.5px; margin: 0; line-height: 1.5;">A <?php echo htmlspecialchars($itdgl_cfg['expert']); ?> from our team will be in touch. For anything urgent, <a href="https://wa.me/918450978544" target="_blank" rel="noopener" style="color: <?php echo htmlspecialchars($itdgl_cfg['accent']); ?>; font-weight: 600;">WhatsApp us</a>.</p>
-                    <?php endif; ?>
+                    <div id="profile-download-success">
+                        <?php if ($itdgl_cfg['type'] === 'pdf'): ?>
+                            <p class="success-headline"><i class="fas fa-check-circle"></i> Download starting&hellip;</p>
+                            <p class="success-sub">Check your email for the link too &mdash; we&rsquo;ve sent a copy in case you need it later.</p>
+                            <a id="profile-download-link" href="<?php echo htmlspecialchars($itdgl_pdf_url); ?>" download>
+                                <i class="fas fa-arrow-down" style="margin-right:6px;"></i> If download didn&rsquo;t start, click here
+                            </a>
+                        <?php else: ?>
+                            <p class="success-headline"><i class="fas fa-check-circle"></i> We&rsquo;ll be in touch within 24 hours.</p>
+                            <p class="success-sub">A <?php echo htmlspecialchars($itdgl_cfg['expert']); ?> will reply directly. For anything urgent, <a href="https://wa.me/918450978544" target="_blank" rel="noopener" style="color:var(--ip-accent);font-weight:700;text-decoration:none;">WhatsApp us</a> instead.</p>
+                        <?php endif; ?>
+                    </div>
                 </div>
-
-                <p style="text-align: center; margin: 2px 0 0; font-size: 12px; color: #999;">
-                    <?php echo $itdgl_cfg['stats']; ?>
-                </p>
             </div>
         </div>
     </div>

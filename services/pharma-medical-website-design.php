@@ -1,42 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <!-- Google Tag Manager -->
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-M4XDB2GZ');
-    </script>
-    <!-- End Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-M4XDB2GZ');</script>
 
-    <!-- ========== Meta Tags ========== -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Compliance Ready Pharma Website Design. Our medical company website solutions prioritize data privacy, regulatory compliance, and scientific accuracy.">
-    <meta name="keywords" content="Medical, Pharma, Company, Website, Design, Healthcare, Pharma Website Design, Medical Company Website, Healthcare Website Development">
-
-    <!-- ========== Page Title ========== -->
-    <title>Pharma & Medical Website Development Company
-    </title>
-
-
-    <!-- ========== Favicon Icon ========== -->
+    <title>Pharma & Medical Website Development Company</title>
+    <link rel="canonical" href="https://itdgrowthlabs.com/services/pharma-medical-website-design.php" />
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
 
-    <!-- ========== Start Stylesheet ========== -->
+    <meta property="og:title" content="Pharma & Medical Website Development Company" />
+    <meta property="og:description" content="Compliance Ready Pharma Website Design. Our medical company website solutions prioritize data privacy, regulatory compliance, and scientific accuracy." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/services/pharma-medical-website-design.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Pharma & Medical Website Development Company" />
+    <meta name="twitter:description" content="Compliance Ready Pharma Website Design. Our medical company website solutions prioritize data privacy, regulatory compliance, and scientific accuracy." />
+
+    <link rel="alternate" hreflang="en-in" href="https://itdgrowthlabs.com/services/pharma-medical-website-design.php" />
+    <link rel="alternate" hreflang="en-us" href="https://itdgrowthlabs.com/services/pharma-medical-website-design.php" />
+    <link rel="alternate" hreflang="en-gb" href="https://itdgrowthlabs.com/services/pharma-medical-website-design.php" />
+    <link rel="alternate" hreflang="en-au" href="https://itdgrowthlabs.com/services/pharma-medical-website-design.php" />
+    <link rel="alternate" hreflang="en-ae" href="https://itdgrowthlabs.com/services/pharma-medical-website-design.php" />
+    <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/services/pharma-medical-website-design.php" />
+
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
     <link href="../assets/css/themify-icons.css" rel="stylesheet">
@@ -49,756 +39,127 @@
     <link href="../assets/css/helper.css" rel="stylesheet">
     <link href="../assets/css/unit-test.css" rel="stylesheet">
     <link href="../assets/css/style.css" rel="stylesheet">
-    <!-- ========== End Stylesheet ========== -->
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZR348BRLFX"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-        gtag('config', 'G-ZR348BRLFX');
-    </script>
-
-    <!-- Google tag (gtag.js) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17674012925"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
+    <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','AW-17674012925');</script>
 
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-
-        gtag('config', 'AW-17674012925');
-    </script>
-    <style>
-        .form-with-profile {
-            background: #fff;
-            border-radius: 15px;
-            overflow: hidden;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
-        }
-
-        .form-header-orange {
-            background: var(--color-primary);
-            position: relative;
-            text-align: center;
-        }
-
-        .profile-images-container {
-            position: relative;
-            margin-bottom: 10px;
-            padding-top: 5px;
-        }
-
-        .profile-main {
-            width: 60%;
-            height: auto;
-            display: block;
-            object-fit: cover;
-            margin: auto;
-        }
-
-        .fun-fact {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-        }
-
-        .fun-fact .counter {
-            justify-content: center;
-            width: 100%;
-        }
-
-        .fun-fact h4 {
-            margin-top: 10px;
-            margin-bottom: 0;
-        }
-    </style>
-
-
-    <!-- SEO Optimization -->
-    <link rel="canonical" href="https://itdgrowthlabs.com/services/pharma-medical-website-design.php" />
-    <meta property="og:title" content="Pharma & Medical Website Development Company" />
-    <meta property="og:description" content="Compliance Ready Pharma Website Design. Our medical company website solutions prioritize data privacy, regulatory compliance, and scientific accuracy." />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://itdgrowthlabs.com/services/pharma-medical-website-design.php" />
-    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
-    <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"Service","name":"Pharma & Medical Website Development Company","description":"Compliance Ready Pharma Website Design. Our medical company website solutions prioritize data privacy, regulatory compliance, and scientific accuracy.","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com"},"areaServed":["India","Australia","UAE","UK","USA"],"serviceType":"Website Development"}
-    </script>
-
-    <script type="application/ld+json">
-    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://itdgrowthlabs.com/app_development.php"}, {"@type": "ListItem", "position": 3, "name": "Pharma & Medical Website Development Company"}]}
-    </script>
-
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Pharma & Medical Website Development Company" />
-    <meta name="twitter:description" content="Compliance Ready Pharma Website Design. Our medical company website solutions prioritize data privacy, regulatory compliance, and scientific accuracy." />
-    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Service", "name": "Pharma Medical Website Design", "description": "Compliance Ready Pharma Website Design. Our medical company website solutions prioritize data privacy, regulatory compliance, and scientific accuracy.", "provider": {"@type": "Organization", "name": "ITD GrowthLabs", "url": "https://itdgrowthlabs.com", "logo": "https://itdgrowthlabs.com/assets/img/logo.jpg"}, "areaServed": ["India", "United States", "United Kingdom", "United Arab Emirates", "Australia", "Africa"], "offers": {"@type": "Offer", "availability": "https://schema.org/InStock", "url": "https://itdgrowthlabs.com/services/pharma-medical-website-design.php"}}</script>
+    <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Website Development", "item": "https://itdgrowthlabs.com/website_development.php"}, {"@type": "ListItem", "position": 3, "name": "Pharma Medical Website Design", "item": "https://itdgrowthlabs.com/services/pharma-medical-website-design.php"}]}</script>
 </head>
-
 <body>
-<?php require_once __DIR__ . '/contact-url.php'; ?>
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4XDB2GZ"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
-    
-    <header>
-        <!-- Start Navigation -->
-        <nav class="navbar mobile-sidenav navbar-default validnavs dark on menu-center no-full">
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4XDB2GZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-            <!-- Start Top Search -->
-            <div class="top-search">
-                <div class="container">
-                    <form action="#">
-                        <div class="input-group">
-                            <span class="input-group-addon"><i class="fa fa-search"></i></span>
-                            <input type="text" class="form-control" placeholder="Search">
-                            <span class="input-group-addon close-search"><i class="fa fa-times"></i></span>
-                        </div>
-                    </form>
-                </div>
-            </div>
-            <!-- End Top Search -->
+    <?php include(__DIR__ . "/../includes/header.php"); ?>
+    <?php require_once(__DIR__ . "/../includes/ui_modern.php"); ?>
 
-            <div class="container d-flex justify-content-between align-items-center">
-                <!-- Start Header Navigation -->
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
-                        <i class="fa fa-bars"></i>
-                    </button>
-                    <a class="navbar-brand" href="../index.php">
-                        <img src="../assets/img/logo.jpg" class="logo" alt="Logo">
-                    </a>
-                </div>
-                <!-- End Header Navigation -->
+    <?php itdgl_render_modern_hero([
+        'crumbs'  => [['label'=>'Home','url'=>'/'], ['label'=>'Website Development','url'=>'/website_development.php'], ['label'=>'Pharma Medical Website Design']],
+        'eyebrow' => '<span class="pulse"></span>Senior-led delivery &middot; 300+ projects shipped',
+        'pulse'   => true,
+        'title'   => '<span class="accent">Pharma Medical Website Design</span> by ITD GrowthLabs.',
+        'sub'     => 'Compliance Ready Pharma Website Design. Our medical company website solutions prioritize data privacy, regulatory compliance, and scientific accuracy.',
+        'primary' => ['url'=>'https://calendly.com/itdgrowthlabs-info/30min', 'label'=>'Book Free 30-min Call', 'icon'=>'fas fa-calendar-check', 'js_book_call'=>true, 'source'=>'service_pharma_medical_website_design_hero'],
+        'secondary'=>['url'=>'/website_development.php', 'label'=>'Back to Website Development', 'icon'=>'fas fa-arrow-left'],
+        'pills'   => [
+            ['icon'=>'fas fa-shield-check', 'text'=>'Fixed quote in 48 hours'],
+            ['icon'=>'fas fa-handshake',     'text'=>'Senior-led, outcomes-accountable'],
+            ['icon'=>'fas fa-globe',         'text'=>'IN, US, UK, UAE, AU, AF delivery'],
+        ],
+        'stats'   => [
+            ['num'=>'300+', 'lbl'=>'Projects shipped'],
+            ['num'=>'55+',  'lbl'=>'Senior team'],
+            ['num'=>'10+',  'lbl'=>'Years operating'],
+            ['num'=>'48 hr', 'lbl'=>'Quote turnaround'],
+        ],
+    ]); ?>
 
-                <!-- Collect the nav links, forms, and other content for toggling -->
-                <div class="collapse navbar-collapse" id="navbar-menu">
-                    <img src="../assets/img/logo.jpg" alt="Logo">
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
-                        <i class="fa fa-times"></i>
-                    </button>
-                    <ul class="nav navbar-nav navbar-center" data-in="fadeInDown" data-out="fadeOutUp">
-
-                        <li class="dropdown megamenu-fw">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tech Services</a>
-                            <ul class="dropdown-menu megamenu-content" role="menu">
-                                <li>
-                                    <div class="row">
-                                        <div class="col-menu col-lg-4">
-                                            <h6 class="title">Core Tech Services</h6>
-                                            <div class="content">
-                                                <ul class="menu-col">
-                                                    <li><a href="../services/website-development-company.php" target="_blank">Website Design & Development</a></li>
-                                                    <li><a href="../services/Template-Based-Website-Development.php" target="_blank">Template-Based Website Development</a>
-                                                    </li>
-                                                    <li><a href="../services/WordPress-Website-Development.php" target="_blank">WordPress Website Development</a></li>
-                                                    <li><a href="../services/Custom-Website-Development.php" target="_blank">Custom Website Development</a></li>
-                                                    <li><a href="../services/E-commerce-Website-Development.php" target="_blank">E-commerce Website Development</a></li>
-                                                    <li><a href="../services/logistics-courier-website-design.php" target="_blank">Logistics & Courier Website Design</a></li>
-                                                    <li><a href="../services/chemical-manufacturing-website-design.php" target="_blank">Chemical Manufacturing Website Design</a></li>
-                                                    <li><a href="../services/pharma-medical-website-design.php" target="_blank">Pharma & Medical Website Design</a></li>
-                                                    <li><a href="../services/textile-garment-website-design.php" target="_blank">Textile & Garment Website Design</a></li>
-
-                                                </ul>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-menu col-lg-4">
-                                            <h6 class="title">End-to-End Services</h6>
-                                            <div class="content">
-                                                <ul class="menu-col">
-                                                    <li><a href="../services/website-development-company.php" target="_blank">Website Design & Development</a></li>
-                                                    <li><a href="../services/content-marketing-services.php" target="_blank">Content Marketing Services</a></li>
-                                                    <li><a href="../services/seo-auditing-services.php" target="_blank">SEO Audit and Optimization</a></li>
-                                                    <li><a href="../services/social-media-marketing.php" target="_blank">Social Media Marketing</a></li>
-                                                    <li><a href="../services/google-search-ads-services.php" target="_blank">Google Search Ads</a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="col-menu col-lg-4">
-                                            <h6 class="title">More Tech Solutions</h6>
-                                            <div class="content">
-                                                <ul class="menu-col">
-
-                                                    <li><a href="../services/App-Development.php" target="_blank">App Development</a></li>
-                                                    <li><a href="../services/IT-Outsourcing-Services.php" target="_blank">IT Outsourcing Services</a></li>
-                                                    <li><a href="../services/IT-Team-Outsourcing.php" target="_blank">IT Team Outsourcing</a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
-                        </li>
-
-                        <li class="dropdown megamenu-fw">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Content Services</a>
-                            <ul class="dropdown-menu megamenu-content" role="menu">
-                                <li>
-                                    <div class="row">
-                                        <div class="col-menu col-lg-4">
-                                            <h6 class="title">SEO &amp; Content Writing</h6>
-                                            <div class="content">
-                                                <ul class="menu-col">
-                                                    <li><a href="../services/website-content-writing.php" target="_blank">Website Content Writing</a></li>
-                                                    <li><a href="../services/seo-article-writing.php" target="_blank">SEO Article Writing</a></li>
-                                                    <li><a href="../services/blog-writing-services.php" target="_blank">Blog Writing</a></li>
-                                                    <li><a href="../services/case-study-writing-services.php" target="_blank">Case Study Writing</a></li>
-                                                    <li><a href="../services/product-description-writing-services.php" target="_blank">Product Description</a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="col-menu col-lg-4">
-                                            <h6 class="title">Specialized Content Services</h6>
-                                            <div class="content">
-                                                <ul class="menu-col">
-                                                    <li><a href="../services/content_writing_strategy.php" target="_blank">Content Writing & Strategy</a></li>
-                                                    <li><a href="../services/technical-writing-services.php" target="_blank">Technical Writing Services</a></li>
-                                                    <li><a href="../services/White-Papers-Case-Studies.php" target="_blank">White Papers & Case Studies</a></li>
-                                                    <li><a href="../services/Content-Team-Outsourcing.php" target="_blank">Content Team Outsourcing</a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="col-menu col-lg-4">
-                                            <h6 class="title">Industries We Serve</h6>
-                                            <div class="content">
-                                                <ul class="menu-col">
-                                                    <li><a href="../services/logistics-content-marketing.php" target="_blank">Logistics</a></li>
-                                                    <li><a href="../services/Industries-We-Serve-Manufacturing.php" target="_blank">Manufacturing</a></li>
-                                                    <li><a href="../services/Industries-We-Serve-Technology.php" target="_blank">Technology</a></li>
-                                                    <li><a href="../services/ecommerce-content-services.php" target="_blank">E-commerce</a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
-                        </li>
-
-                        <li class="dropdown megamenu-fw">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="text-transform: none;">eLearning Services</a>
-
-                            <ul class="dropdown-menu megamenu-content" role="menu">
-                                <li>
-                                    <div class="row">
-                                        <div class="col-menu col-lg-4">
-                                            <h6 class="title">Custom Solutions</h6>
-                                            <div class="content">
-                                                <ul class="menu-col">
-                                                    <li><a href="../services/Custom-eLearning-Development.php" target="_blank" style="text-transform: none;">Custom eLearning Development</a></li>
-                                                    <li><a href="../services/Powerpoint-to-eLearning-Conversion.php" target="_blank" style="text-transform: none;">PowerPoint to eLearning Conversion</a></li>
-
-                                                    <li><a href="../services/Mobile-Learn-Microlearning.php" target="_blank">Mobile Learning / Microlearning</a></li>
-                                                    <li><a href="../services/Gamified-Learning-Modules.php" target="_blank">Gamified Learning Modules</a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="col-menu col-lg-4">
-                                            <h6 class="title">Use Cases</h6>
-                                            <div class="content">
-                                                <ul class="menu-col">
-                                                    <li><a href="../services/Employee-Onboarding.php" target="_blank">Employee Onboarding</a></li>
-                                                    <li><a href="../services/Talent-Development.php" target="_blank">Talent Development</a></li>
-                                                    <li><a href="../services/Compliance-Training.php" target="_blank">Compliance Training</a></li>
-                                                    <li><a href="../services/Sales-Enablement.php" target="_blank">Sales Enablement</a></li>
-                                                    <li><a href="../services/Customer-Education.php" target="_blank">Customer Education</a></li>
-                                                    <li><a href="../services/Partner-Enablement.php" target="_blank">Partner Enablement</a></li>
-                                                    <li><a href="../services/Frontline-Workforce-Training.php" target="_blank">Frontline Workforce Training</a></li>
-                                                    <li><a href="../services/Member-Training.php" target="_blank">Member Training</a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="col-menu col-lg-4">
-                                            <h6 class="title">Industries We Serve</h6>
-                                            <div class="content">
-                                                <ul class="menu-col">
-                                                    <li><a href="../industries/information_tech.php">IT &amp; Technology</a></li>
-                                <li><a href="../industries/finance.php">Finance &amp; FinTech</a></li>
-                                <li><a href="../industries/manufacturing.php">Manufacturing</a></li>
-                                <li><a href="../industries/healthcare.php">Healthcare</a></li>
-                                <li><a href="../industries/ecommerce.php">E-Commerce &amp; D2C</a></li>
-                                <li><a href="../industries/education.php">Education &amp; E-Learning</a></li>
-                                <li><a href="../industries/realestate.php">Real Estate</a></li>
-                                <li><a href="../industries/logistics.php">Logistics &amp; Supply Chain</a></li>
-                                <li><a href="../industries/professional_services.php">Professional Services</a></li>
-                                <li><a href="../industries/startups.php">Startups</a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
-                        </li>
-
-                        <!-- <li class="dropdown">
-                           <a href="./services/whatsapp-marketing-and-automation.php" class="dropdown-toggle" data-toggle="dropdown">WhatsApp Marketing</a>
-                           <ul class="dropdown-menu">
-                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Business API</a></li>
-                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Automation</a></li>
-                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Chatbot</a></li>
-                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Commerce</a></li>
-                               <li><a href="./services/whatsapp-marketing-and-automation.php">WhatsApp Flows</a></li>
-                           </ul>
-                       </li> -->
-
-
-                        <li><a href="<?php echo htmlspecialchars($gl_contact_us, ENT_QUOTES, 'UTF-8'); ?>">Contact</a></li>
-                    </ul>
-                </div><!-- /.navbar-collapse -->
-
-                <div class="attr-right">
-                    <!-- Start Atribute Navigation -->
-                    <div class="attr-nav">
-                        <ul>
-                            <li class="button">
-                                <a href="../contact-us.php">Book a Call</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <!-- End Atribute Navigation -->
-
-                    <!-- Overlay screen for menu -->
-                    <div class="overlay-screen"></div>
-                    <!-- End Overlay screen for menu -->
-                </div>
-
-            </div>
-        </nav>
-        <!-- End Navigation -->
-    </header>
-    <div class="banner-style-three-area overflow-hidden pt-100 pb-100" style="background-image: url(../assets/img/shape/banner-5.jpg);">
+    <section class="md-sec">
         <div class="container">
-            <div class="content">
-                <div class="row align-center">
-                    <div class="banner-style-three col-lg-7">
-                        <div class="information">
-                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
-                                Compliance Ready <strong>Pharma Website Design</strong>
-                            </h1>
-                            <p class="wow fadeInUp" data-wow-delay="900ms" data-wow-duration="400ms">
-                                Our medical company website solutions prioritize data privacy, regulatory compliance, and scientific accuracy.
-                            </p>
-                            <div class="button" style="margin-top: 20px;">
-                                <a class="btn btn-theme btn-md animation" href="../contact-us.php">Let's Talk</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-tact-stye-one col-lg-5">
-                        <div class="contact-form-style-one form-with-profile wow fadeInUp p-0" data-wow-delay="500ms" data-wow-duration="400ms">
-                            <div class="form-header-orange">
-                                <div class="profile-images-container">
-                                    <img src="../assets/img/form-profile-image.png" alt="Expert" class="profile-main" oncontextmenu="return false;" draggable="false" ondragstart="return false;">
-                                </div>
-                            </div>
-                            <div class="form-content p-3">
-                                <div class="information">
-                                    <h4 class="wow fadeInUp mb-30 text-center" data-wow-delay="500ms" data-wow-duration="400ms">
-                                        <b>Drop Us A Message</b>
-                                    </h4>
-                                </div>
-                                <?php include("../common-form.php") ?>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <?php itdgl_render_section_head(
+                'What you get',
+                'Six things we deliver <span class="accent">every time</span>.'
+            ); ?>
+            <?php itdgl_render_outcome_grid([
+                ['icon'=>'fas fa-user-tie', 'title'=>'Senior-led delivery', 'desc'=>'Every pharma medical website design engagement is led by a senior practitioner with 8&ndash;15 years in this category. No mid-level rotation, no junior hand-offs.'],
+                ['icon'=>'fas fa-shield-check', 'title'=>'Fixed-quote pricing', 'desc'=>'Written scope, milestone-based payment, no T&amp;M traps. We&rsquo;ll quote the full engagement within 48 hours of a discovery call.'],
+                ['icon'=>'fas fa-bolt', 'title'=>'Fast turnaround', 'desc'=>'We&rsquo;re engineered for speed: kick-off within a week of contract, weekly demos on your timezone, milestone delivery on schedule.'],
+                ['icon'=>'fas fa-eye', 'title'=>'Real-time visibility', 'desc'=>'You see progress live &mdash; staging URLs, GitHub access, weekly Slack/Teams demos, transparent reporting. No black-box agency vibe.'],
+                ['icon'=>'fas fa-handshake', 'title'=>'Outcomes accountable', 'desc'=>'We&rsquo;re accountable for the result, not the deliverable. Tied to your business metrics, not vanity stats.'],
+                ['icon'=>'fas fa-globe', 'title'=>'Global delivery', 'desc'=>'Clients in India, USA, UK, UAE, Australia, Africa. Time-zone-aligned PM &mdash; we work while you sleep.'],
+            ]); ?>
         </div>
-    </div>
-    <div class="brand-style-one bg-gradient pt-3 pb-3">
-        <div class="container-fill">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="brand-carousel">
-                        <!-- Additional required wrapper -->
-                        <div class="swiper-wrapper">
-                            <!-- Single Item -->
-                            <div class="swiper-slide">
-                                <img src="../assets/img/brand/we3scs.png" alt="Image Not Found">
-                            </div>
-                            <div class="swiper-slide">
-                                <img src="../assets/img/brand/caper.png" alt="Image Not Found">
-                            </div>
-                            <!-- End Single Item -->
-                            <!-- Single Item -->
-                            <!-- End Single Item -->
-                            <!-- Single Item -->
-                            <div class="swiper-slide">
-                                <img src="../assets/img/brand/pannest.png" alt="Image Not Found">
-                            </div>
-                            <!-- End Single Item -->
-                            <!-- Single Item -->
-                            <!-- End Single Item -->
+    </section>
 
-                            <!-- Single Item -->
-                            <div class="swiper-slide">
-                                <img src="../assets/img/brand/hilift.png" alt="Image Not Found">
-                            </div>
-                            <!-- End Single Item -->
-
-                            <!-- Single Item -->
-                            <div class="swiper-slide">
-                                <img src="../assets/img/brand/daakiyawala.png" alt="Image Not Found">
-                            </div>
-                            <!-- End Single Item -->
-
-                            <!-- Single Item -->
-                            <div class="swiper-slide">
-                                <img src="../assets/img/brand/cariesco.png" alt="Image Not Found">
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Start Service Range
-    ============================================= -->
-    <div class="service-range-area default-padding bg-white pb-0">
+    <section class="md-sec alt">
         <div class="container">
-            <div class="row">
-                <div class="col-xl-12 col-lg-12">
-                    <h4 class="sub-title">Solutions We Deliver</h4>
-                    <h2 class="title mb-30">Comprehensive <br> Pharma & Medical Website Design Services</h2>
-                </div>
+            <?php itdgl_render_section_head('Deep-dives', 'Read the <span class="accent">buyer-stage</span> guides.'); ?>
+            <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:18px;">
+                <a href="/resources/Website_Development_Cost_in_India_2026_Honest_Pricing_Guide.php" style="background:#fff;border:1px solid var(--md-border);border-radius:12px;padding:20px 24px;text-decoration:none;color:var(--md-heading);display:flex;align-items:center;gap:16px;transition:transform .2s, border-color .2s, box-shadow .2s;" onmouseover="this.style.transform='translateX(4px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
+                    <div style="flex:0 0 50px;width:50px;height:50px;border-radius:12px;background:linear-gradient(135deg,#fff3e6,#ffe2c4);color:var(--md-orange-dark);display:flex;align-items:center;justify-content:center;font-size:18px;"><i class="fas fa-book-open"></i></div>
+                    <div style="flex:1;">
+                        <span style="display:inline-block;font-size:10px;letter-spacing:1.2px;text-transform:uppercase;color:var(--md-orange);font-weight:800;background:rgba(255,107,0,0.10);padding:3px 8px;border-radius:12px;margin-bottom:6px;">Cost</span>
+                        <div style="font-size:15.5px;font-weight:700;line-height:1.4;color:var(--md-heading);">Website Development Cost in India 2026</div>
+                    </div>
+                    <div style="color:var(--md-primary);font-size:20px;">&rarr;</div>
+                </a>
+                <a href="/resources/Choosing_the_Best_Website_Development_Company_in_Mumbai.php" style="background:#fff;border:1px solid var(--md-border);border-radius:12px;padding:20px 24px;text-decoration:none;color:var(--md-heading);display:flex;align-items:center;gap:16px;transition:transform .2s, border-color .2s, box-shadow .2s;" onmouseover="this.style.transform='translateX(4px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
+                    <div style="flex:0 0 50px;width:50px;height:50px;border-radius:12px;background:linear-gradient(135deg,#fff3e6,#ffe2c4);color:var(--md-orange-dark);display:flex;align-items:center;justify-content:center;font-size:18px;"><i class="fas fa-book-open"></i></div>
+                    <div style="flex:1;">
+                        <span style="display:inline-block;font-size:10px;letter-spacing:1.2px;text-transform:uppercase;color:var(--md-orange);font-weight:800;background:rgba(255,107,0,0.10);padding:3px 8px;border-radius:12px;margin-bottom:6px;">Vendor</span>
+                        <div style="font-size:15.5px;font-weight:700;line-height:1.4;color:var(--md-heading);">How to Choose a Website Development Company in Mumbai</div>
+                    </div>
+                    <div style="color:var(--md-primary);font-size:20px;">&rarr;</div>
+                </a>
+                <a href="/resources/Ecommerce_Website_Development_What_You_Need_to_Know.php" style="background:#fff;border:1px solid var(--md-border);border-radius:12px;padding:20px 24px;text-decoration:none;color:var(--md-heading);display:flex;align-items:center;gap:16px;transition:transform .2s, border-color .2s, box-shadow .2s;" onmouseover="this.style.transform='translateX(4px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
+                    <div style="flex:0 0 50px;width:50px;height:50px;border-radius:12px;background:linear-gradient(135deg,#fff3e6,#ffe2c4);color:var(--md-orange-dark);display:flex;align-items:center;justify-content:center;font-size:18px;"><i class="fas fa-book-open"></i></div>
+                    <div style="flex:1;">
+                        <span style="display:inline-block;font-size:10px;letter-spacing:1.2px;text-transform:uppercase;color:var(--md-orange);font-weight:800;background:rgba(255,107,0,0.10);padding:3px 8px;border-radius:12px;margin-bottom:6px;">Stack</span>
+                        <div style="font-size:15.5px;font-weight:700;line-height:1.4;color:var(--md-heading);">E-commerce Website Development in 2026</div>
+                    </div>
+                    <div style="color:var(--md-primary);font-size:20px;">&rarr;</div>
+                </a>
+                <a href="/resources/Custom_Web_Application_Development_for_SaaS_Startups_2026_Stack_Cost_Timeline.php" style="background:#fff;border:1px solid var(--md-border);border-radius:12px;padding:20px 24px;text-decoration:none;color:var(--md-heading);display:flex;align-items:center;gap:16px;transition:transform .2s, border-color .2s, box-shadow .2s;" onmouseover="this.style.transform='translateX(4px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
+                    <div style="flex:0 0 50px;width:50px;height:50px;border-radius:12px;background:linear-gradient(135deg,#fff3e6,#ffe2c4);color:var(--md-orange-dark);display:flex;align-items:center;justify-content:center;font-size:18px;"><i class="fas fa-book-open"></i></div>
+                    <div style="flex:1;">
+                        <span style="display:inline-block;font-size:10px;letter-spacing:1.2px;text-transform:uppercase;color:var(--md-orange);font-weight:800;background:rgba(255,107,0,0.10);padding:3px 8px;border-radius:12px;margin-bottom:6px;">Stack</span>
+                        <div style="font-size:15.5px;font-weight:700;line-height:1.4;color:var(--md-heading);">Custom Web App Development for SaaS Startups 2026</div>
+                    </div>
+                    <div style="color:var(--md-primary);font-size:20px;">&rarr;</div>
+                </a>
             </div>
-            <div class="row mt-50">
-                <!-- Single Item -->
-                <div class="col-lg-4 col-md-6 mb-30">
-                    <div class="feature-style-one">
-                        <div class="info">
-                            <h4>Regulatory Compliance Framework</h4>
-                            <p>
-                                Specialized healthcare sites built to meet HIPAA and GDPR laws for a secure pharma company website.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-lg-4 col-md-6 mb-30">
-                    <div class="feature-style-one">
-                        <div class="info">
-                            <h4>HCP (Healthcare Professional) Portals</h4>
-                            <p>
-                                Gated medical sections giving doctors exclusive access to clinical data and prescribing pharma resources.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-lg-4 col-md-6 mb-30">
-                    <div class="feature-style-one">
-                        <div class="info">
-                            <h4>Interactive Dosage Calculators</h4>
-                            <p>
-                                Precision medical tools helping experts determine drug applications within a responsive website design.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-lg-4 col-md-6 mb-30">
-                    <div class="feature-style-one">
-                        <div class="info">
-                            <h4>Clinical Trial Trackers</h4>
-                            <p>
-                                Modern pharma modules showcasing research phases and recruitment status for your healthcare company.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-lg-4 col-md-6 mb-30">
-                    <div class="feature-style-one">
-                        <div class="info">
-                            <h4>Patient Support Forums</h4>
-                            <p>
-                                Secure medical communities designed to foster safe engagement and education on a pharma website.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-lg-4 col-md-6 mb-30">
-                    <div class="feature-style-one">
-                        <div class="info">
-                            <h4>Pharmacovigilance Reporting</h4>
-                            <p>
-                                Compliant healthcare forms for reporting adverse events directly through the medical company website.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-lg-4 col-md-6 mb-30">
-                    <div class="feature-style-one">
-                        <div class="info">
-                            <h4>Video Resource Libraries</h4>
-                            <p>
-                                High-quality design for animations illustrating complex medical devices and pharma mechanisms.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-lg-4 col-md-6 mb-30">
-                    <div class="feature-style-one">
-                        <div class="info">
-                            <h4>E-Pharmacy Integration</h4>
-                            <p>
-                                Secure healthcare checkout paths with encrypted prescription uploads for pharma website commerce.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-
-                <!-- Single Item -->
-                <div class="col-lg-4 col-md-6 mb-30">
-                    <div class="feature-style-one">
-                        <div class="info">
-                            <h4>AI-Powered Chatbots</h4>
-                            <p>
-                                Intelligent medical assistants providing rapid triage and booking via your healthcare website design.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-            </div>
-            <!-- <div class="button" style="margin-top: 20px; text-align: center;">
-                <a class="btn btn-theme btn-md animation" href="../contact-us.php">Let's Talk</a>
-            </div> -->
         </div>
-    </div>
-    <!-- End Service Range -->
+    </section>
 
-    <!-- Start Why Choose Us 
-    ============================================= -->
-    <div class="about-style-three-area default-padding overflow-hidden pb-0">
+    <section class="md-sec">
         <div class="container">
-            <div class="row">
-                <div class="col-lg-12 about-style-three">
-                    <div class="about-three-info">
-                        <h4 class="sub-title">What We Offer</h4>
-                        <h2 class="title">Professional Pharma & Medical Website Solutions</h2>
-                        <p>
-                            A successful pharma website must balance strict medical regulation with human empathy. ITD GrowthLabs is a leading healthcare design partner that creates digital platforms to build clinical authority. We focus on Medical SEO and E-E-A-T to ensure your pharma company is recognized as a leader by both healthcare professionals and patients. Our website design strategy ensures your medical company remains competitive and compliant.
-                        </p>
-                        <ul class="list-double mt-40">
-                            <li>
-                                <h5>Patient-Centric UX</h5>
-                                <p>
-                                    Our medical design approach features high-contrast interfaces and ADA-compliant navigation, ensuring every pharma company website is accessible to patients with diverse visual or motor needs.
-                                </p>
-                            </li>
-                            <li>
-                                <h5>HIPAA/GDPR Compliance</h5>
-                                <p>
-                                    Our pharma website design includes end-to-end encryption and healthcare-grade hosting, ensuring your company meets strict global standards like HIPAA and GDPR while maintaining 99.9% uptime for patient safety.
-                                </p>
-                            </li>
-                            <li>
-                                <h5>Scalable Content Management</h5>
-                                <p>
-                                    A modern pharma company website requires agility. We build custom medical website backends that allow your healthcare team to update clinical trial data and drug safety information instantly.
-                                </p>
-                            </li>
-                            <li>
-                                <h5>Interactive Medical Tools</h5>
-                                <p>
-                                    We specialize in the design of precision healthcare tools. From interactive pharma dosage calculators to symptom checkers, we embed complex business logic into your medical website.
-                                </p>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
+            <?php itdgl_render_section_head('FAQs', 'Common questions, <span class="accent">straight answers.</span>'); ?>
+            <?php itdgl_render_faq_accordion([
+                'What does Pharma Medical Website Design cost in 2026?' => 'Pricing depends on scope, timeline and engagement model. We send a fixed-scope quote within 48 hours of a 30-minute discovery call. Most engagements in this category fall between &#8377;30K&ndash;&#8377;5L per month depending on scale; we&rsquo;ll quote yours after understanding specifics.',
+                'How long does pharma medical website design usually take?' => 'Lightweight engagements: 2&ndash;6 weeks. Mid-sized: 2&ndash;4 months. Large multi-team programmes: 4&ndash;10 months. Most slippage comes from spec sign-off delays, not execution &mdash; we share weekly demos so anything slipping is visible early.',
+                'Do you provide a dedicated team or shared resources?' => 'Both options exist. Standard engagements use a dedicated lead + shared specialists. Pod-based engagements (best for long projects) use a fully dedicated team week-over-week with deep codebase / context ownership.',
+                'Will I own the code, assets and IP?' => 'Yes &mdash; every engagement is work-for-hire with 100% transfer of source code, design assets, content, schemas, CI/CD config and operational documentation to your private repositories. No vendor lock-in. Written into the SOW.',
+                'What does your reporting look like?' => 'Weekly Slack/Teams updates, milestone demos on your timezone, monthly performance + reporting tied to your business metrics. No generic stock-photo dashboards &mdash; real data, real attribution, real conversation.',
+                'How do I start &mdash; what&rsquo;s the next step?' => 'Book a free 30-min discovery call. We&rsquo;ll talk through scope, constraints and goals; you&rsquo;ll get a written fixed-scope quote within 48 hours. No sales pitch, no SDRs &mdash; senior practitioners only on the call.',
+            ]); ?>
         </div>
-    </div>
-    <!-- End Why Choose Us -->
+    </section>
 
-    <!-- Start Knowledge Hub 
-    ============================================= -->
-    <div class="knowledge-hub-area overflow-hidden default-padding">
+    <section class="md-sec alt-warm">
         <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="site-heading text-center mb-50">
-                        <h4 class="sub-title">FAQs for Pharma & Medical Website Design</h4>
-                        <h2 class="title">Frequently Asked Questions</h2>
-                    </div>
-                    <div class="faq-style-one">
-                        <div class="accordion" id="faqAccordion">
-                            <!-- Accordion Item 1 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingOne">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        Are your websites HIPAA/GDPR compliant?
-                                    </button>
-                                </h2>
-                                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            Yes. Every healthcare website design we produce follows strict data protocols. We ensure your pharma company website utilizes end-to-end encryption to protect sensitive medical records.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- Accordion Item 2 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingTwo">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        Can we have separate logins for Doctors and Patients?
-                                    </button>
-                                </h2>
-                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            Absolutely. Our medical company website architecture supports role-based access, delivering technical pharma data to doctors while providing simplified healthcare content to patients.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- Accordion Item 3 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingThree">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        How do you handle Adverse Event reporting?
-                                    </button>
-                                </h2>
-                                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            We integrate secure, regulatory-compliant forms into the pharma website design to ensure your medical company captures and routes safety data according to global healthcare laws.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- Accordion Item 4 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingFour">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Is the site accessible for people with disabilities (WCAG)?
-                                    </button>
-                                </h2>
-                                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            Yes. Every medical website we design meets WCAG 2.1 standards. This ensures your healthcare information is accessible to all patients, regardless of their physical abilities.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- Accordion Item 5 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingFive">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        How do you ensure medical accuracy in the design?
-                                    </button>
-                                </h2>
-                                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            Our design team works with your pharma company reviewers. We align every visual element of the medical website with clinical guidelines to maintain healthcare brand integrity.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- Accordion Item 6 -->
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingSix">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                                        Can the site handle high-volume patient traffic?
-                                    </button>
-                                </h2>
-                                <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        <p>
-                                            Yes. We provide medical-grade hosting for every pharma website, ensuring 99.9% uptime and fast load speeds for your healthcare company even during peak traffic.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <?php itdgl_render_section_head('Beyond this service', '<span class="accent">Apps, websites, SaaS, marketing</span> &mdash; same team.'); ?>
+            <?php itdgl_render_service_chips('pharma-medical-website-design'); ?>
         </div>
-    </div>
-    <!-- End Knowledge Hub -->
+    </section>
 
-<!-- Start Footer 
-    ============================================= -->
-    <?php include("../includes/footer.php") ?>
+    <?php itdgl_render_final_cta([
+        'head'    => 'Get a fixed-quote in 48 hours.',
+        'sub'     => 'Free 30-min discovery call. We&rsquo;ll talk scope, constraints, goals &mdash; then send a fixed-scope quote within 48 hours. No sales pitch.',
+        'primary' => ['url'=>'https://calendly.com/itdgrowthlabs-info/30min', 'label'=>'Book a 30-min Call', 'icon'=>'fas fa-calendar-check', 'source'=>'service_pharma_medical_website_design_final'],
+        'secondary'=>['url'=>'https://wa.me/918450978544?text=Hi%20ITD%20GrowthLabs%2C%20I%27d%20like%20to%20discuss%20a%20pharma medical website design%20project.', 'label'=>'WhatsApp Us', 'icon'=>'fab fa-whatsapp', 'target'=>'_blank'],
+    ]); ?>
 
-    <!-- jQuery Frameworks
-    ============================================= -->
-    <script src="../assets/js/jquery-3.6.0.min.js"></script>
-    <script src="../assets/js/bootstrap.bundle.min.js"></script>
-    <script src="../assets/js/jquery.appear.js"></script>
-    <script src="../assets/js/jquery.easing.min.js"></script>
-    <script src="../assets/js/jquery.magnific-popup.min.js"></script>
-    <script src="../assets/js/modernizr.custom.13711.js"></script>
-    <script src="../assets/js/swiper-bundle.min.js"></script>
-    <script src="../assets/js/wow.min.js"></script>
-    <script src="../assets/js/progress-bar.min.js"></script>
-    <script src="../assets/js/circle-progress.js"></script>
-    <script src="../assets/js/isotope.pkgd.min.js"></script>
-    <script src="../assets/js/imagesloaded.pkgd.min.js"></script>
-    <script src="../assets/js/jquery.nice-select.min.js"></script>
-    <script src="../assets/js/count-to.js"></script>
-    <script src="../assets/js/jquery.scrolla.min.js"></script>
-    <script src="../assets/js/YTPlayer.min.js"></script>
-    <script src="../assets/js/TweenMax.min.js"></script>
-    <script src="../assets/js/validnavs.js"></script>
-    <script src="../assets/js/main.js"></script>
-    <script type="text/javascript" src='https://www.google.com/recaptcha/api.js' async defer></script>
-<script type="text/javascript">
-        window.onload = function() {
-            Calendly.initBadgeWidget({
-                url: 'contact-us.php',
-                text: 'Schedule time with me',
-                color: '#0069ff',
-                textColor: '#ffffff'
-            });
-        }
-    </script>
-<script src="https://www.google.com/recaptcha/api.js?render=6Lcm0hosAAAAAPFeuKRDfgGF4Ajr9bcCCbD7LR-3"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
-    <script src="../assets/js/custom.js"></script>
-
-    <?php include("../includes/popup_modal.php") ?>
+    <?php include(__DIR__ . "/../includes/footer.php"); ?>
+    <?php include(__DIR__ . "/../includes/footer_script.php"); ?>
+    <?php include(__DIR__ . "/../includes/popup_modal.php"); ?>
 </body>
-
 </html>
