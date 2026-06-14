@@ -132,20 +132,13 @@
     <?php require_once(__DIR__ . "/includes/ui_modern.php"); ?>
 
     <!-- ============================================================
-         HERO — original ITDGL layout: centered cycling headline +
-                supporting image swaps in sync
+         HERO — original ITDGL Google-overview layout:
+                vertically stacked, centered, headline + image below
          ============================================================ -->
     <?php itdgl_render_modern_styles(); ?>
     <style>
-    .h-hero { padding: 110px 0 70px; }
-    .h-hero__grid {
-        display: grid;
-        grid-template-columns: 1.05fr 0.95fr;
-        gap: 60px;
-        align-items: center;
-        position: relative;
-        z-index: 2;
-    }
+    .h-hero { padding: 100px 0 60px; text-align: center; }
+    .h-hero__inner { position: relative; z-index: 2; max-width: 1080px; margin: 0 auto; }
     .h-hero__eyebrow {
         display: inline-flex; align-items: center; gap: 8px;
         padding: 6px 14px;
@@ -155,80 +148,89 @@
         border-radius: 30px;
         font-size: 11.5px; font-weight: 700;
         letter-spacing: 1.4px; text-transform: uppercase;
-        margin-bottom: 22px;
+        margin-bottom: 28px;
     }
     .h-hero__prefix {
-        display: inline-block;
-        font-size: 22px; font-weight: 600;
-        color: rgba(255,255,255,0.78);
-        margin: 0 0 6px;
-        letter-spacing: 0.2px;
+        font-size: 56px; font-weight: 800; line-height: 1.05;
+        color: rgba(255,255,255,0.92);
+        margin: 0;
     }
     .h-hero h1 {
-        font-size: 56px; font-weight: 800; line-height: 1.08;
+        font-size: 78px; font-weight: 800; line-height: 1.05;
         color: #fff !important;
-        margin: 0 0 22px;
+        margin: 6px 0 0;
+        letter-spacing: -1.2px;
     }
     .h-hero__rotator {
         display: inline-block;
         min-height: 1.1em;
-        transition: opacity .25s ease, transform .25s ease;
+        transition: opacity .35s ease;
     }
     .h-hero__rotator.r-blue   { color: #60a5fa; }
-    .h-hero__rotator.r-red    { color: #fca5a5; }
+    .h-hero__rotator.r-red    { color: #f87171; }
     .h-hero__rotator.r-yellow { color: #fbbf24; }
-    .h-hero__rotator.r-green  { color: #6ee7b7; }
+    .h-hero__rotator.r-green  { color: #34d399; }
     .h-hero__static {
         display: block;
-        font-size: 34px; font-weight: 800; line-height: 1.18;
+        font-size: 48px; font-weight: 800; line-height: 1.1;
         color: #fff;
-        margin-top: 4px;
+        margin-top: 8px;
+        letter-spacing: -0.8px;
     }
     .h-hero__static .brand { color: #ffb066; }
-    .h-hero__sub {
-        font-size: 17px; line-height: 1.7;
-        color: rgba(255,255,255,0.82);
-        max-width: 560px;
-        margin: 0 0 28px;
-    }
-    .h-hero__ctas { display: flex; gap: 14px; flex-wrap: wrap; margin-bottom: 26px; }
-    .h-hero__pills {
-        display: flex; gap: 22px; flex-wrap: wrap;
-        font-size: 13px; color: rgba(255,255,255,0.72);
-    }
-    .h-hero__pills span { display: inline-flex; align-items: center; gap: 7px; }
-    .h-hero__pills i { color: #ff9550; font-size: 12px; }
 
     .h-hero__media {
         position: relative;
+        margin: 44px auto 0;
         width: 100%;
-        max-width: 480px;
-        aspect-ratio: 4 / 5;
-        margin-left: auto;
+        max-width: 720px;
     }
-    .h-hero__media-card {
-        position: absolute; inset: 0;
-        border-radius: 20px;
+    .h-hero__media-frame {
+        position: relative;
+        width: 100%;
+        aspect-ratio: 16 / 10;
+        border-radius: 22px;
         background: linear-gradient(135deg, rgba(255,255,255,0.06), rgba(255,255,255,0.02));
-        border: 1px solid rgba(255,255,255,0.10);
-        box-shadow: 0 30px 70px rgba(0,0,0,0.45);
+        border: 5px solid rgba(255,255,255,0.10);
+        box-shadow: 0 40px 90px rgba(0,0,0,0.55);
         overflow: hidden;
     }
-    .h-hero__media-card img {
+    .h-hero__media-frame img {
         position: absolute; inset: 0;
         width: 100%; height: 100%;
         object-fit: cover;
-        transition: opacity .6s ease;
+        transition: opacity .7s ease;
         opacity: 0;
     }
-    .h-hero__media-card img.active { opacity: 1; }
+    .h-hero__media-frame img.active { opacity: 1; }
     .h-hero__media-glow {
-        position: absolute; left: -30px; top: -30px;
-        width: 180px; height: 180px;
-        background: radial-gradient(circle, rgba(255,107,0,0.32), transparent 70%);
-        filter: blur(20px);
+        position: absolute; left: -60px; right: -60px; top: -40px; bottom: -40px;
+        background:
+            radial-gradient(circle at 20% 30%, rgba(96,165,250,0.30), transparent 50%),
+            radial-gradient(circle at 80% 70%, rgba(255,107,0,0.30), transparent 50%);
+        filter: blur(32px);
         z-index: 0;
+        opacity: 0.8;
     }
+
+    .h-hero__desc {
+        font-size: 19px; line-height: 1.7;
+        color: rgba(255,255,255,0.85);
+        max-width: 760px;
+        margin: 40px auto 26px;
+    }
+    .h-hero__ctas {
+        display: flex; gap: 14px; flex-wrap: wrap;
+        margin: 0 auto 26px;
+        justify-content: center;
+    }
+    .h-hero__pills {
+        display: flex; gap: 24px; flex-wrap: wrap;
+        font-size: 13px; color: rgba(255,255,255,0.72);
+        justify-content: center;
+    }
+    .h-hero__pills span { display: inline-flex; align-items: center; gap: 7px; }
+    .h-hero__pills i { color: #ff9550; font-size: 12px; }
 
     /* Stats strip below hero */
     .h-stats {
@@ -241,67 +243,70 @@
         display: grid;
         grid-template-columns: repeat(4, 1fr);
         gap: 14px;
-        padding: 26px 0;
+        padding: 28px 0;
         text-align: center;
     }
-    .h-stats__num { display: block; font-size: 30px; font-weight: 800; color: #fff; line-height: 1.05; }
-    .h-stats__lbl { display: block; font-size: 12.5px; color: rgba(255,255,255,0.72); margin-top: 2px; letter-spacing: 0.3px; }
+    .h-stats__num { display: block; font-size: 32px; font-weight: 800; color: #fff; line-height: 1.05; }
+    .h-stats__lbl { display: block; font-size: 12.5px; color: rgba(255,255,255,0.72); margin-top: 4px; letter-spacing: 0.3px; }
 
     @media (max-width: 991px) {
         .h-hero { padding: 80px 0 50px; }
-        .h-hero__grid { grid-template-columns: 1fr; gap: 40px; text-align: center; }
-        .h-hero h1 { font-size: 40px; }
-        .h-hero__static { font-size: 26px; }
-        .h-hero__sub { margin-left: auto; margin-right: auto; }
-        .h-hero__ctas { justify-content: center; }
-        .h-hero__pills { justify-content: center; }
-        .h-hero__media { margin: 0 auto; max-width: 360px; }
-        .h-stats__grid { grid-template-columns: repeat(2, 1fr); }
+        .h-hero__prefix { font-size: 40px; }
+        .h-hero h1 { font-size: 56px; }
+        .h-hero__static { font-size: 36px; }
+        .h-hero__media { margin-top: 36px; }
+        .h-hero__desc { font-size: 17px; }
+        .h-stats__grid { grid-template-columns: repeat(2, 1fr); gap: 18px; }
     }
-    @media (max-width: 576px) {
-        .h-hero { padding: 60px 0 40px; }
-        .h-hero h1 { font-size: 32px; }
-        .h-hero__prefix { font-size: 18px; }
-        .h-hero__static { font-size: 22px; }
-        .h-hero__sub { font-size: 15px; }
-        .h-stats__num { font-size: 24px; }
+    @media (max-width: 575px) {
+        .h-hero { padding: 56px 0 36px; }
+        .h-hero__prefix { font-size: 28px; }
+        .h-hero h1 { font-size: 38px; }
+        .h-hero__static { font-size: 26px; }
+        .h-hero__media-frame { border-radius: 16px; border-width: 3px; }
+        .h-hero__desc { font-size: 15.5px; margin: 28px auto 22px; }
+        .h-hero__pills { gap: 14px; font-size: 12px; }
+        .h-stats__num { font-size: 26px; }
     }
     </style>
 
     <section class="md-hero h-hero">
         <div class="container">
-            <div class="h-hero__grid">
-                <div class="h-hero__text">
-                    <span class="h-hero__eyebrow"><span class="pulse"></span>Senior-led India studio &middot; 300+ projects shipped</span>
-                    <p class="h-hero__prefix">For Businesses.</p>
-                    <h1>
-                        <span class="h-hero__rotator r-blue" id="hero-rotator">Web Development</span>
-                        <span class="h-hero__static">Build, Market &amp; Scale with <span class="brand">ITD GrowthLabs</span></span>
-                    </h1>
-                    <p class="h-hero__sub">Custom <strong>mobile &amp; web applications</strong>, high-converting <strong>websites</strong>, and result-driven <strong>digital marketing</strong> &mdash; one senior team for 300+ businesses across 6 countries.</p>
-                    <div class="h-hero__ctas">
-                        <a href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank" rel="noopener" class="md-cta-primary js-book-call" data-source="home_hero_calendly"><i class="fas fa-calendar-check"></i> Book a Free 30-min Call</a>
-                        <a href="/case-studies.php" class="md-cta-secondary"><i class="fas fa-folder-open"></i> See Our Work</a>
-                    </div>
-                    <div class="h-hero__pills">
-                        <span><i class="fas fa-shield-check"></i> Fixed-quote pricing</span>
-                        <span><i class="fas fa-code-branch"></i> 100% code ownership</span>
-                        <span><i class="fas fa-bolt"></i> 48-hr quote turnaround</span>
-                    </div>
-                </div>
+            <div class="h-hero__inner">
+                <span class="h-hero__eyebrow"><span class="pulse"></span>Senior-led India studio &middot; 300+ projects shipped</span>
+
+                <p class="h-hero__prefix">For Businesses.</p>
+                <h1>
+                    <span class="h-hero__rotator r-blue" id="hero-rotator">Web Development</span>
+                    <span class="h-hero__static">Build, Market &amp; Scale with <span class="brand">ITD GrowthLabs</span></span>
+                </h1>
+
                 <div class="h-hero__media">
                     <div class="h-hero__media-glow" aria-hidden="true"></div>
-                    <div class="h-hero__media-card" role="img" aria-label="Build, Market and Scale with ITD GrowthLabs">
+                    <div class="h-hero__media-frame" role="img" aria-label="Build, Market and Scale with ITD GrowthLabs">
                         <img class="active" src="/assets/img/banner/Website.webp"   data-key="web"   alt="Web Development">
-                        <img             src="/assets/img/banner/mobile.webp"    data-key="apps"  alt="Custom Applications">
-                        <img             src="/assets/img/banner/Marketing.webp" data-key="mkt"   alt="Data-Driven Marketing">
-                        <img             src="/assets/img/banner/automation.webp" data-key="ai"   alt="AI Automation Systems">
+                        <img                src="/assets/img/banner/mobile.webp"    data-key="apps"  alt="Custom Applications">
+                        <img                src="/assets/img/banner/Marketing.webp" data-key="mkt"   alt="Data-Driven Marketing">
+                        <img                src="/assets/img/banner/automation.webp" data-key="ai"   alt="AI Automation Systems">
                     </div>
+                </div>
+
+                <p class="h-hero__desc">We help B2B companies grow with custom <strong>websites</strong>, <strong>mobile &amp; web applications</strong>, <strong>SEO &amp; digital marketing</strong>, and <strong>AI automation</strong> &mdash; serving clients in India, USA, UK, UAE &amp; Australia.</p>
+
+                <div class="h-hero__ctas">
+                    <a href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank" rel="noopener" class="md-cta-primary js-book-call" data-source="home_hero_calendly"><i class="fas fa-calendar-check"></i> Book a Free 30-min Call</a>
+                    <a href="/case-studies.php" class="md-cta-secondary"><i class="fas fa-folder-open"></i> See Our Work</a>
+                </div>
+
+                <div class="h-hero__pills">
+                    <span><i class="fas fa-shield-check"></i> Fixed-quote pricing</span>
+                    <span><i class="fas fa-code-branch"></i> 100% code ownership</span>
+                    <span><i class="fas fa-bolt"></i> 48-hr quote turnaround</span>
                 </div>
             </div>
         </div>
 
-        <!-- Stats strip below the hero, same dark background -->
+        <!-- Stats strip below hero, same dark background -->
         <div class="h-stats">
             <div class="container">
                 <div class="h-stats__grid">
@@ -325,7 +330,7 @@
         ];
         var idx = 0;
         var el  = document.getElementById('hero-rotator');
-        var imgs = document.querySelectorAll('.h-hero__media-card img');
+        var imgs = document.querySelectorAll('.h-hero__media-frame img');
         if (!el || !imgs.length) return;
         function setImg(key) {
             imgs.forEach(function (img) {
@@ -342,7 +347,7 @@
                 el.classList.add(item.cls);
                 el.style.opacity = 1;
                 setImg(item.imgKey);
-            }, 260);
+            }, 320);
         }, 3000);
     })();
     </script>
@@ -370,11 +375,11 @@
         background: #fff;
         border: 1px solid var(--md-border);
         border-radius: 14px;
-        padding: 18px 16px;
+        padding: 14px 12px;
         display: flex;
         align-items: center;
         justify-content: center;
-        min-height: 140px;
+        min-height: 170px;
         transition: transform .25s, border-color .25s, box-shadow .25s;
     }
     .itd-client-card:hover {
@@ -383,8 +388,8 @@
         box-shadow: var(--md-card-shadow-h);
     }
     .itd-client-card img {
-        max-width: 100%;
-        max-height: 108px;
+        max-width: 92%;
+        max-height: 140px;
         width: auto;
         height: auto;
         object-fit: contain;
@@ -395,12 +400,14 @@
 
     @media (max-width: 991px) {
         .itd-clients__grid { grid-template-columns: repeat(3, 1fr); }
+        .itd-client-card { min-height: 150px; }
+        .itd-client-card img { max-height: 120px; }
     }
     @media (max-width: 640px) {
         .itd-clients { padding: 40px 0; }
         .itd-clients__grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
-        .itd-client-card { min-height: 110px; padding: 14px 10px; }
-        .itd-client-card img { max-height: 84px; }
+        .itd-client-card { min-height: 130px; padding: 12px 8px; }
+        .itd-client-card img { max-height: 100px; }
     }
     </style>
     <section class="itd-clients">

@@ -118,8 +118,8 @@
                     ['file'=>'technocrats.png',        'alt'=>'Technocrats (ISO 9001:2015)'],
                     ['file'=>'m-four-development.png', 'alt'=>'M Four Development'],
                 ] as $c): ?>
-                <div style="background:#fff;border:1px solid var(--md-border);border-radius:14px;padding:18px 16px;display:flex;align-items:center;justify-content:center;min-height:140px;transition:transform .25s,border-color .25s,box-shadow .25s;" onmouseover="this.style.transform='translateY(-3px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow-h)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
-                    <img src="/assets/img/clients/<?php echo $c['file']; ?>" alt="<?php echo htmlspecialchars($c['alt']); ?>" loading="lazy" decoding="async" width="200" height="100" style="max-width:100%;max-height:108px;width:auto;height:auto;object-fit:contain;display:block;">
+                <div style="background:#fff;border:1px solid var(--md-border);border-radius:14px;padding:14px 12px;display:flex;align-items:center;justify-content:center;min-height:170px;transition:transform .25s,border-color .25s,box-shadow .25s;" onmouseover="this.style.transform='translateY(-3px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow-h)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
+                    <img src="/assets/img/clients/<?php echo $c['file']; ?>" alt="<?php echo htmlspecialchars($c['alt']); ?>" loading="lazy" decoding="async" width="200" height="100" style="max-width:92%;max-height:140px;width:auto;height:auto;object-fit:contain;display:block;">
                 </div>
                 <?php endforeach; ?>
             </div>
