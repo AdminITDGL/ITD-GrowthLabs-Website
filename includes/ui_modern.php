@@ -642,6 +642,13 @@ function itdgl_render_final_cta($cfg) {
     $sub      = $cfg['sub']      ?? '';
     $primary  = $cfg['primary']  ?? ['url' => 'https://calendly.com/itdgrowthlabs-info/30min', 'label' => 'Book a Free 30-min Call', 'icon' => 'fas fa-calendar-check'];
     $secondary= $cfg['secondary']?? ['url' => 'https://wa.me/918450978544', 'label' => 'WhatsApp Us', 'icon' => 'fab fa-whatsapp', 'target' => '_blank'];
+    // Auto-add target=_blank rel=noopener on external URLs (Calendly, WhatsApp, etc.)
+    // so the click still works if Calendly popup widget JS fails to mount.
+    $is_external = function ($url) {
+        return preg_match('~^https?://(?:[^/]+\.)?(calendly\.com|wa\.me|whatsapp\.com|linkedin\.com|github\.com)/~i', $url) === 1;
+    };
+    $pri_blank = !empty($primary['target']) || $is_external($primary['url']);
+    $sec_blank = !empty($secondary['target']) || $is_external($secondary['url']);
 ?>
 <section class="md-final-cta">
     <div class="container">
@@ -650,12 +657,13 @@ function itdgl_render_final_cta($cfg) {
         <div style="display:flex;gap:14px;flex-wrap:wrap;justify-content:center;">
             <a href="<?php echo htmlspecialchars($primary['url']); ?>"
                class="md-cta-primary js-book-call"
-               data-source="<?php echo htmlspecialchars($primary['source'] ?? 'modern_final_cta'); ?>">
+               data-source="<?php echo htmlspecialchars($primary['source'] ?? 'modern_final_cta'); ?>"
+               <?php if ($pri_blank) echo 'target="_blank" rel="noopener"'; ?>>
                 <i class="<?php echo $primary['icon']; ?>"></i> <?php echo $primary['label']; ?>
             </a>
             <a href="<?php echo htmlspecialchars($secondary['url']); ?>"
                class="md-cta-secondary"
-               <?php if (!empty($secondary['target'])) echo 'target="' . htmlspecialchars($secondary['target']) . '"'; ?>>
+               <?php if ($sec_blank) echo 'target="_blank" rel="noopener"'; ?>>
                 <i class="<?php echo $secondary['icon']; ?>"></i> <?php echo $secondary['label']; ?>
             </a>
         </div>
