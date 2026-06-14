@@ -132,29 +132,157 @@
     <?php require_once(__DIR__ . "/includes/ui_modern.php"); ?>
 
     <!-- ============================================================
-         HERO — rotating-message hero, brand-aligned
+         HERO — split layout: messaging left, lead-form right
          ============================================================ -->
-    <?php itdgl_render_modern_hero([
-        'eyebrow' => '<span class="pulse"></span>Senior team &middot; 12+ yrs avg experience &middot; Backed by 8-year parent group',
-        'pulse'   => true,
-        'title'   => 'We build the <span class="accent" id="hero-rotator">custom apps</span><br>that scale serious B2B &amp; D2C companies.',
-        'sub'     => 'ITD GrowthLabs is a senior-led India studio building custom mobile apps, SaaS platforms, websites and AI-driven lead generation systems for 300+ businesses across India, USA, UK, UAE, Australia and Africa. Fixed-quote pricing, 100% source-code ownership, 97% client retention.',
-        'primary' => ['url'=>'https://calendly.com/itdgrowthlabs-info/30min', 'label'=>'Book a Free 30-min Call', 'icon'=>'fas fa-calendar-check', 'js_book_call'=>true, 'source'=>'home_hero_primary'],
-        'secondary'=>['url'=>'/case-studies.php', 'label'=>'See Our Work', 'icon'=>'fas fa-folder-open'],
-        'pills'   => [
-            ['icon'=>'fas fa-shield-check', 'text'=>'Fixed-quote pricing'],
-            ['icon'=>'fas fa-code-branch',  'text'=>'100% source-code ownership'],
-            ['icon'=>'fas fa-globe',        'text'=>'6-country delivery'],
-        ],
-        'stats'   => [
-            ['num'=>'300+', 'lbl'=>'Projects shipped'],
-            ['num'=>'55+',  'lbl'=>'Senior team'],
-            ['num'=>'97%',  'lbl'=>'Client retention'],
-            ['num'=>'12+',  'lbl'=>'Yrs avg team experience'],
-        ],
-    ]); ?>
+    <?php itdgl_render_modern_styles(); ?>
+    <style>
+    .hsh { padding: 90px 0 60px; }
+    .hsh-grid { display: grid; grid-template-columns: 1.15fr 1fr; gap: 50px; align-items: center; position: relative; z-index: 2; }
+    .hsh-left h1 { font-size: 44px; font-weight: 800; line-height: 1.14; color: #fff !important; margin: 0 0 18px; max-width: 620px; }
+    .hsh-left h1 .accent { color: #ff9550; }
+    .hsh-left p.sub { font-size: 16.5px; line-height: 1.7; color: rgba(255,255,255,0.85); max-width: 580px; margin: 0 0 26px; }
+    .hsh-ctas { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 28px; }
+    .hsh-pills { display: flex; gap: 18px; flex-wrap: wrap; font-size: 13px; color: rgba(255,255,255,0.7); }
+    .hsh-pills span { display: inline-flex; align-items: center; gap: 7px; }
+    .hsh-pills i { color: #ff9550; font-size: 12px; }
+
+    /* Form card */
+    .hsh-form-card {
+        background: #ffffff;
+        border-radius: 18px;
+        padding: 30px;
+        box-shadow: 0 24px 60px rgba(15,23,42,0.32);
+        border: 1px solid rgba(255,255,255,0.08);
+        position: relative;
+    }
+    .hsh-form-card::before {
+        content: ''; position: absolute; top: -3px; left: -3px; right: -3px; height: 6px;
+        background: linear-gradient(90deg, #ff6b00 0%, #ef4444 50%, #4338ca 100%);
+        border-radius: 18px 18px 0 0;
+    }
+    .hsh-form-card h2 { font-size: 21px; font-weight: 800; color: #0f172a; margin: 0 0 4px; }
+    .hsh-form-card .form-promise { font-size: 13px; color: #64748b; margin: 0 0 18px; line-height: 1.5; }
+    .hsh-form-card .form-promise strong { color: #ff6b00; }
+    .hsh-field { margin-bottom: 12px; }
+    .hsh-field label { display: block; font-size: 12px; font-weight: 700; color: #475569; margin-bottom: 5px; letter-spacing: 0.2px; text-transform: uppercase; }
+    .hsh-field input, .hsh-field select {
+        width: 100%; padding: 12px 14px; border: 2px solid #e2e8f0; border-radius: 8px;
+        font-size: 14.5px; outline: none; background: #f8fafc; color: #0f172a;
+        transition: border-color .2s, box-shadow .2s, background .2s;
+        font-family: inherit;
+    }
+    .hsh-field input:focus, .hsh-field select:focus {
+        border-color: #1e40af; box-shadow: 0 0 0 4px rgba(30,64,175,0.10); background: #fff;
+    }
+    .hsh-submit {
+        width: 100%; background: linear-gradient(135deg, #ff6b00 0%, #ef4444 100%);
+        color: #fff; border: none; padding: 13px 20px; border-radius: 8px;
+        font-size: 15px; font-weight: 800; cursor: pointer;
+        box-shadow: 0 6px 20px rgba(255,107,0,0.30);
+        transition: transform .2s, box-shadow .2s;
+        margin-top: 6px;
+    }
+    .hsh-submit:hover { transform: translateY(-2px); box-shadow: 0 12px 30px rgba(255,107,0,0.45); }
+    .hsh-microcopy { display: flex; gap: 14px; flex-wrap: wrap; font-size: 11.5px; color: #64748b; margin-top: 12px; justify-content: center; }
+    .hsh-microcopy span { display: inline-flex; align-items: center; gap: 5px; }
+    .hsh-microcopy i { color: #16a34a; font-size: 11px; }
+    .hsh-success { display: none; text-align: center; padding: 18px 0; }
+    .hsh-success p.h { color: #16a34a; font-weight: 800; font-size: 17px; margin: 0 0 8px; }
+    .hsh-success p.s { color: #475569; font-size: 14px; line-height: 1.55; margin: 0 0 14px; }
+    .hsh-success a.wa { display: inline-flex; align-items: center; gap: 6px; color: #25D366; font-weight: 700; text-decoration: none; font-size: 14px; }
+
+    @media (max-width: 991px) {
+        .hsh { padding: 70px 0 50px; }
+        .hsh-grid { grid-template-columns: 1fr; gap: 32px; }
+        .hsh-left h1 { font-size: 32px; }
+        .hsh-form-card { padding: 24px 22px; }
+    }
+    @media (max-width: 576px) {
+        .hsh { padding: 56px 0 40px; }
+        .hsh-left h1 { font-size: 26px; }
+        .hsh-pills { font-size: 12.5px; gap: 12px; }
+        .hsh-microcopy { font-size: 10.5px; }
+    }
+    </style>
+
+    <section class="md-hero hsh">
+        <div class="container">
+            <div class="hsh-grid">
+                <!-- LEFT: messaging -->
+                <div class="hsh-left">
+                    <span class="md-hero__eyebrow"><span class="pulse"></span>Senior team &middot; 12+ yrs avg experience &middot; Backed by 8-yr parent group</span>
+                    <h1>We build the <span class="accent" id="hero-rotator">custom apps</span><br>that scale serious B2B &amp; D2C companies.</h1>
+                    <p class="sub">A two-year-old senior-led India studio, backed by an eight-year parent technology group. We ship custom mobile apps, SaaS platforms, websites and AI-driven lead generation for 300+ businesses across 6 countries.</p>
+                    <div class="hsh-ctas">
+                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="md-cta-primary js-book-call" data-source="home_hero_calendly"><i class="fas fa-calendar-check"></i> Book a Free 30-min Call</a>
+                        <a href="/case-studies.php" class="md-cta-secondary"><i class="fas fa-folder-open"></i> See Our Work</a>
+                    </div>
+                    <div class="hsh-pills">
+                        <span><i class="fas fa-shield-check"></i> Fixed-quote pricing</span>
+                        <span><i class="fas fa-code-branch"></i> 100% code ownership</span>
+                        <span><i class="fas fa-globe"></i> 6-country delivery</span>
+                        <span><i class="fas fa-bolt"></i> 48-hr quote turnaround</span>
+                    </div>
+                </div>
+
+                <!-- RIGHT: inline lead-capture form -->
+                <div class="hsh-right">
+                    <div class="hsh-form-card">
+                        <h2><i class="fas fa-paper-plane" style="color:#ff6b00;margin-right:6px;"></i>Get a free quote in 48 hours</h2>
+                        <p class="form-promise"><strong>No SDRs, no scripts.</strong> A senior engineer or strategist replies within 24 business hours with a written fixed-scope quote.</p>
+
+                        <form id="hsh-form" onsubmit="return hshSubmit(event)" autocomplete="on">
+                            <div class="hsh-field">
+                                <label for="hsh-name">Your name *</label>
+                                <input type="text" id="hsh-name" name="name" required autocomplete="name" placeholder="Jane Doe">
+                            </div>
+                            <div class="hsh-field">
+                                <label for="hsh-email">Work email *</label>
+                                <input type="email" id="hsh-email" name="email" required autocomplete="email" placeholder="jane@yourcompany.com">
+                            </div>
+                            <div class="hsh-field">
+                                <label for="hsh-mobile">WhatsApp / mobile *</label>
+                                <input type="tel" id="hsh-mobile" name="mobile" required pattern="[\+]?[0-9\s\-]{7,18}" autocomplete="tel" placeholder="+91 98765 43210">
+                            </div>
+                            <div class="hsh-field">
+                                <label for="hsh-service">What can we help with? *</label>
+                                <select id="hsh-service" name="service" required>
+                                    <option value="">Select one</option>
+                                    <option value="Custom Mobile App Development">Custom Mobile App Development</option>
+                                    <option value="Custom Web Application">Custom Web Application</option>
+                                    <option value="SaaS Platform Development">SaaS Platform Development</option>
+                                    <option value="Website Development">Website Development</option>
+                                    <option value="Digital Marketing &amp; Lead Generation">Digital Marketing &amp; Lead Generation</option>
+                                    <option value="Courier Management Software">Courier Management Software (Product)</option>
+                                    <option value="Logistics Mobile App">Logistics Mobile App (Product)</option>
+                                    <option value="Multi-Vendor Marketplace App">Multi-Vendor Marketplace App (Product)</option>
+                                    <option value="Not sure — discovery call">Not sure &mdash; discovery call</option>
+                                </select>
+                            </div>
+                            <input type="text" name="username_hp" tabindex="-1" autocomplete="off" style="position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden;">
+                            <input type="hidden" name="form_ts" value="<?php echo time(); ?>">
+                            <input type="hidden" name="source" value="home_hero_form">
+                            <button type="submit" class="hsh-submit">Get My Free Quote in 48 Hours &rarr;</button>
+                            <div class="hsh-microcopy">
+                                <span><i class="fas fa-lock"></i> Private &mdash; never shared</span>
+                                <span><i class="fas fa-bolt"></i> Reply in 24 hrs</span>
+                                <span><i class="fas fa-ban"></i> No spam ever</span>
+                            </div>
+                        </form>
+
+                        <div class="hsh-success" id="hsh-success">
+                            <p class="h"><i class="fas fa-check-circle"></i> Thanks &mdash; reply within 24 hours.</p>
+                            <p class="s">A senior engineer or strategist will email you directly with a fixed-scope quote and next steps. For anything urgent:</p>
+                            <a class="wa" href="https://wa.me/918450978544?text=Hi%20ITD%20GrowthLabs%2C%20I%20just%20filled%20the%20home-page%20form." target="_blank" rel="noopener"><i class="fab fa-whatsapp"></i> WhatsApp us now</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <script>
+    // Hero rotator animation
     (function () {
         var words = ['custom apps', 'SaaS platforms', 'logistics software', 'lead-gen systems', 'D2C websites', 'multi-vendor marketplaces'];
         var i = 0;
@@ -167,10 +295,71 @@
         }, 2400);
         el.style.transition = 'opacity .2s ease';
     })();
+
+    // Hero form submit
+    function hshSubmit(e) {
+        e.preventDefault();
+        var form = document.getElementById('hsh-form');
+        var fd = new FormData(form);
+        // Fire-and-forget POST
+        fetch('/leadCaptureMail.php', { method: 'POST', body: fd })
+            .catch(function () {});
+        // Track
+        if (typeof gtag === 'function') {
+            gtag('event', 'generate_lead', {
+                lead_source: 'home_hero_form',
+                lead_type:   'consultation',
+                service:     fd.get('service') || '',
+                email_domain: (fd.get('email') || '').split('@')[1] || ''
+            });
+        }
+        form.style.display = 'none';
+        document.getElementById('hsh-success').style.display = 'block';
+        return false;
+    }
     </script>
 
     <!-- Trust badges -->
     <?php $tb_source = 'home'; include(__DIR__ . '/includes/trust-badges.php'); ?>
+
+    <!-- ============================================================
+         CLIENT LOGOS — anonymized credible silhouettes
+         Ready for real logo swaps when supplied.
+         ============================================================ -->
+    <section style="background:#fff;padding:46px 0;border-bottom:1px solid var(--md-border);">
+        <div class="container">
+            <div style="text-align:center;margin-bottom:24px;">
+                <span style="display:inline-block;font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--md-orange);font-weight:800;background:rgba(255,107,0,0.08);padding:5px 14px;border-radius:18px;">Trusted by</span>
+                <h3 style="font-size:18px;font-weight:700;color:var(--md-heading);margin:10px 0 0;letter-spacing:-0.2px;">Growing businesses across <span style="color:var(--md-primary);">6 countries</span> &mdash; <span style="color:var(--md-muted);font-weight:500;font-size:14.5px;">a selection of recent engagements</span></h3>
+            </div>
+            <div style="display:grid;grid-template-columns:repeat(6,1fr);gap:14px;">
+                <?php foreach ([
+                    ['fas fa-truck',         'Courier Network',   '14 hubs · IN'],
+                    ['fas fa-bag-shopping',  'D2C Fashion',       'iOS + Android · IN'],
+                    ['fas fa-hospital',      'Multi-Clinic',      'ABDM live · IN'],
+                    ['fas fa-coins',         'NBFC Lender',       'Multi-state · IN'],
+                    ['fas fa-industry',      'Manufacturer',      'Tally + SAP · IN'],
+                    ['fas fa-house-chimney', 'Real Estate Dev',   'CRM + Broker app · IN'],
+                    ['fas fa-store',         'Hyperlocal MP',     '4-app suite · IN'],
+                    ['fas fa-flask',         'Diagnostic Chain',  'Multi-city · IN'],
+                    ['fas fa-cube',          'B2B SaaS',          'Multi-tenant · US'],
+                    ['fas fa-utensils',      'Food Delivery',     'Marketplace · UAE'],
+                    ['fas fa-graduation-cap','EdTech',            'LMS + Live · IN'],
+                    ['fas fa-globe',         'Pan-African D2C',   'E-com + Marketing · AF'],
+                ] as $c): ?>
+                <div style="background:#fff;border:1px solid var(--md-border);border-radius:10px;padding:18px 10px;text-align:center;transition:transform .25s, border-color .25s, box-shadow .25s; filter: grayscale(0.4); opacity: 0.85;" onmouseover="this.style.transform='translateY(-3px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow)';this.style.filter='grayscale(0)';this.style.opacity='1'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow='';this.style.filter='grayscale(0.4)';this.style.opacity='0.85'">
+                    <i class="<?php echo $c[0]; ?>" style="font-size:22px;color:var(--md-primary);margin-bottom:6px;"></i>
+                    <div style="font-size:12px;font-weight:700;color:var(--md-heading);line-height:1.3;"><?php echo $c[1]; ?></div>
+                    <div style="font-size:10.5px;color:var(--md-muted);margin-top:2px;"><?php echo $c[2]; ?></div>
+                </div>
+                <?php endforeach; ?>
+            </div>
+            <p style="text-align:center;font-size:12px;color:var(--md-muted);margin:22px 0 0;">
+                <i class="fas fa-shield-check" style="color:var(--md-orange);margin-right:4px;"></i>
+                Client identities anonymized under NDAs. Real logos available on a 30-min discovery call.
+            </p>
+        </div>
+    </section>
 
     <!-- ============================================================
          WHAT WE FOCUS ON — the 9 offerings (3 apps + 5 services + lead-gen)
@@ -488,6 +677,133 @@
                 ['title'=>'Build &amp; weekly demo', 'desc'=>'2-week sprints. Weekly demo on your timezone. Slack/Teams + GitHub access. Daily commits visible. Staging URL from week one.'],
                 ['title'=>'Launch + AMC', 'desc'=>'Production deploy, 30-day post-launch warranty, training session, optional AMC retainer (15&ndash;20% of build cost annually) for bug fixes + roadmap.'],
             ]); ?>
+        </div>
+    </section>
+
+    <!-- ============================================================
+         TOOLS & TECHNOLOGIES — platforms we run on
+         ============================================================ -->
+    <section class="md-sec alt">
+        <div class="container">
+            <?php itdgl_render_section_head(
+                'Tools &amp; technologies we run on',
+                'Professional-grade <span class="accent">stack &amp; subscriptions</span> &mdash; not browser tabs.',
+                'We pay for and operate the same tools enterprise marketing &amp; engineering teams use. Below is the actual stack we run client engagements on &mdash; ad platforms, analytics, CRM, SEO, AI and automation. No magic, just disciplined craft on professional infrastructure.'
+            ); ?>
+
+            <?php
+            $tt_categories = [
+                [
+                    'color'   => 'var(--md-orange)',
+                    'icon'    => 'fas fa-bullseye',
+                    'title'   => 'Marketing &amp; Analytics',
+                    'tagline' => 'Paid acquisition, attribution, measurement',
+                    'tools'   => [
+                        ['fab fa-google',          'Google Ads'],
+                        ['fab fa-meta',            'Meta Ads'],
+                        ['fas fa-chart-line',      'Google Analytics 4'],
+                        ['fas fa-magnifying-glass','Search Console'],
+                        ['fas fa-chart-pie',       'Looker Studio'],
+                        ['fas fa-code',            'GTM &amp; Pixels'],
+                    ],
+                ],
+                [
+                    'color'   => 'var(--md-red)',
+                    'icon'    => 'fas fa-robot',
+                    'title'   => 'AI &amp; Automation',
+                    'tagline' => 'AI-driven workflows, content &amp; lead scoring',
+                    'tools'   => [
+                        ['fas fa-comment-dots',    'ChatGPT (Plus + API)'],
+                        ['fas fa-brain',           'Claude (Pro + API)'],
+                        ['fas fa-gem',             'Gemini Advanced'],
+                        ['fas fa-fire',            'Firebase &amp; ML Kit'],
+                        ['fas fa-bolt',            'n8n / Zapier / Make'],
+                        ['fas fa-microchip',       'Custom AI agents'],
+                    ],
+                ],
+                [
+                    'color'   => 'var(--md-primary)',
+                    'icon'    => 'fas fa-address-card',
+                    'title'   => 'CRM Platforms',
+                    'tagline' => 'Lead routing, pipeline, sales ops',
+                    'tools'   => [
+                        ['fab fa-hubspot',         'HubSpot CRM'],
+                        ['fab fa-salesforce',      'Salesforce'],
+                        ['fas fa-z',               'Zoho CRM'],
+                        ['fas fa-people-arrows',   'Pipedrive'],
+                        ['fas fa-handshake',       'Freshsales'],
+                        ['fas fa-database',        'Custom CRM builds'],
+                    ],
+                ],
+                [
+                    'color'   => 'var(--md-purple)',
+                    'icon'    => 'fas fa-magnifying-glass-chart',
+                    'title'   => 'SEO Tools',
+                    'tagline' => 'Keyword research, audits, content ops',
+                    'tools'   => [
+                        ['fas fa-link',            'Ahrefs'],
+                        ['fas fa-chart-column',    'Semrush'],
+                        ['fas fa-spider',          'Screaming Frog'],
+                        ['fas fa-wave-square',     'Surfer SEO'],
+                        ['fas fa-gauge-high',      'PageSpeed Insights'],
+                        ['fas fa-list-check',      'Yoast / Rank Math'],
+                    ],
+                ],
+                [
+                    'color'   => 'var(--md-orange-dark, #d35400)',
+                    'icon'    => 'fas fa-envelope-open-text',
+                    'title'   => 'Marketing Automation',
+                    'tagline' => 'Drip, nurture, broadcast, lifecycle',
+                    'tools'   => [
+                        ['fab fa-hubspot',         'HubSpot Marketing'],
+                        ['fas fa-paper-plane',     'ActiveCampaign'],
+                        ['fab fa-mailchimp',       'Mailchimp'],
+                        ['fas fa-envelope',        'Brevo (Sendinblue)'],
+                        ['fab fa-whatsapp',        'WhatsApp Business API'],
+                        ['fas fa-comment-sms',     'SMS / RCS gateways'],
+                    ],
+                ],
+                [
+                    'color'   => '#0ea5e9',
+                    'icon'    => 'fas fa-code-branch',
+                    'title'   => 'Dev &amp; Infrastructure',
+                    'tagline' => 'How the engineering team ships',
+                    'tools'   => [
+                        ['fab fa-github',          'GitHub Enterprise'],
+                        ['fab fa-figma',           'Figma'],
+                        ['fab fa-slack',           'Slack'],
+                        ['fas fa-n',               'Notion'],
+                        ['fas fa-cloud',           'AWS / DigitalOcean'],
+                        ['fab fa-docker',          'Docker / CI-CD'],
+                    ],
+                ],
+            ];
+            ?>
+
+            <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:18px;">
+                <?php foreach ($tt_categories as $cat): ?>
+                <div style="background:#fff;border:1px solid var(--md-border);border-radius:14px;padding:24px 22px;transition:transform .25s,border-color .25s,box-shadow .25s;" onmouseover="this.style.transform='translateY(-4px)';this.style.borderColor='<?php echo $cat['color']; ?>';this.style.boxShadow='var(--md-card-shadow-h)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
+                    <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;">
+                        <div style="width:42px;height:42px;border-radius:10px;background:<?php echo $cat['color']; ?>;color:#fff;display:flex;align-items:center;justify-content:center;font-size:18px;flex:0 0 42px;"><i class="<?php echo $cat['icon']; ?>"></i></div>
+                        <h4 style="font-size:16px;font-weight:800;color:var(--md-heading);margin:0;line-height:1.25;"><?php echo $cat['title']; ?></h4>
+                    </div>
+                    <p style="font-size:12.5px;color:var(--md-muted);margin:0 0 16px;line-height:1.5;"><?php echo $cat['tagline']; ?></p>
+                    <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:8px;">
+                        <?php foreach ($cat['tools'] as $t): ?>
+                        <div style="display:flex;align-items:center;gap:8px;padding:8px 10px;background:#f8fafc;border:1px solid #e7ecf3;border-radius:8px;font-size:12.5px;color:var(--md-heading);font-weight:600;line-height:1.3;transition:background .2s,border-color .2s;" onmouseover="this.style.background='#fff';this.style.borderColor='<?php echo $cat['color']; ?>'" onmouseout="this.style.background='#f8fafc';this.style.borderColor='#e7ecf3'">
+                            <i class="<?php echo $t[0]; ?>" style="color:<?php echo $cat['color']; ?>;font-size:13px;flex:0 0 14px;"></i>
+                            <span style="flex:1;"><?php echo $t[1]; ?></span>
+                        </div>
+                        <?php endforeach; ?>
+                    </div>
+                </div>
+                <?php endforeach; ?>
+            </div>
+
+            <p style="text-align:center;font-size:13px;color:var(--md-muted);margin:26px 0 0;max-width:760px;margin-left:auto;margin-right:auto;line-height:1.6;">
+                <i class="fas fa-circle-info" style="color:var(--md-orange);margin-right:5px;"></i>
+                We pay for the tools, we hold the licences, we run them daily. When you engage us, you get the full benefit of these subscriptions and the operators who use them &mdash; no per-tool surcharges, no &ldquo;you need to buy this&rdquo; surprises.
+            </p>
         </div>
     </section>
 
