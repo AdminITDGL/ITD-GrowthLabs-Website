@@ -132,42 +132,218 @@
     <?php require_once(__DIR__ . "/includes/ui_modern.php"); ?>
 
     <!-- ============================================================
-         HERO — three buyer-type positioning (websites / apps / marketing)
+         HERO — original ITDGL layout: centered cycling headline +
+                supporting image swaps in sync
          ============================================================ -->
-    <?php itdgl_render_modern_hero([
-        'eyebrow' => '<span class="pulse"></span>Websites &middot; Mobile &amp; Web Apps &middot; Digital Marketing',
-        'pulse'   => true,
-        'title'   => 'Websites, apps &amp; <span class="accent" id="hero-rotator">marketing</span><br>for serious businesses.',
-        'sub'     => 'A senior-led India studio building <strong>websites</strong>, <strong>mobile &amp; web applications</strong>, and <strong>digital marketing</strong> for 300+ businesses across 6 countries. One team for everything you need to launch, grow and scale online.',
-        'primary' => ['url'=>'https://calendly.com/itdgrowthlabs-info/30min', 'label'=>'Book a Free 30-min Call', 'icon'=>'fas fa-calendar-check', 'js_book_call'=>true, 'source'=>'home_hero_calendly'],
-        'secondary'=>['url'=>'/case-studies.php', 'label'=>'See Our Work', 'icon'=>'fas fa-folder-open'],
-        'pills'   => [
-            ['icon'=>'fas fa-globe',         'text'=>'Websites that convert'],
-            ['icon'=>'fas fa-mobile-screen', 'text'=>'Mobile &amp; web apps'],
-            ['icon'=>'fas fa-bullseye',      'text'=>'Marketing that grows revenue'],
-            ['icon'=>'fas fa-shield-check',  'text'=>'Fixed-quote &middot; 100% code ownership'],
-        ],
-        'stats'   => [
-            ['num'=>'300+', 'lbl'=>'Projects delivered'],
-            ['num'=>'55+',  'lbl'=>'Senior practitioners'],
-            ['num'=>'97%',  'lbl'=>'Client retention'],
-            ['num'=>'10+',  'lbl'=>'Industries served'],
-        ],
-    ]); ?>
+    <?php itdgl_render_modern_styles(); ?>
+    <style>
+    .h-hero { padding: 110px 0 70px; }
+    .h-hero__grid {
+        display: grid;
+        grid-template-columns: 1.05fr 0.95fr;
+        gap: 60px;
+        align-items: center;
+        position: relative;
+        z-index: 2;
+    }
+    .h-hero__eyebrow {
+        display: inline-flex; align-items: center; gap: 8px;
+        padding: 6px 14px;
+        background: rgba(255,107,0,0.18);
+        color: #ffd9b8;
+        border: 1px solid rgba(255,107,0,0.40);
+        border-radius: 30px;
+        font-size: 11.5px; font-weight: 700;
+        letter-spacing: 1.4px; text-transform: uppercase;
+        margin-bottom: 22px;
+    }
+    .h-hero__prefix {
+        display: inline-block;
+        font-size: 22px; font-weight: 600;
+        color: rgba(255,255,255,0.78);
+        margin: 0 0 6px;
+        letter-spacing: 0.2px;
+    }
+    .h-hero h1 {
+        font-size: 56px; font-weight: 800; line-height: 1.08;
+        color: #fff !important;
+        margin: 0 0 22px;
+    }
+    .h-hero__rotator {
+        display: inline-block;
+        min-height: 1.1em;
+        transition: opacity .25s ease, transform .25s ease;
+    }
+    .h-hero__rotator.r-blue   { color: #60a5fa; }
+    .h-hero__rotator.r-red    { color: #fca5a5; }
+    .h-hero__rotator.r-yellow { color: #fbbf24; }
+    .h-hero__rotator.r-green  { color: #6ee7b7; }
+    .h-hero__static {
+        display: block;
+        font-size: 34px; font-weight: 800; line-height: 1.18;
+        color: #fff;
+        margin-top: 4px;
+    }
+    .h-hero__static .brand { color: #ffb066; }
+    .h-hero__sub {
+        font-size: 17px; line-height: 1.7;
+        color: rgba(255,255,255,0.82);
+        max-width: 560px;
+        margin: 0 0 28px;
+    }
+    .h-hero__ctas { display: flex; gap: 14px; flex-wrap: wrap; margin-bottom: 26px; }
+    .h-hero__pills {
+        display: flex; gap: 22px; flex-wrap: wrap;
+        font-size: 13px; color: rgba(255,255,255,0.72);
+    }
+    .h-hero__pills span { display: inline-flex; align-items: center; gap: 7px; }
+    .h-hero__pills i { color: #ff9550; font-size: 12px; }
+
+    .h-hero__media {
+        position: relative;
+        width: 100%;
+        max-width: 480px;
+        aspect-ratio: 4 / 5;
+        margin-left: auto;
+    }
+    .h-hero__media-card {
+        position: absolute; inset: 0;
+        border-radius: 20px;
+        background: linear-gradient(135deg, rgba(255,255,255,0.06), rgba(255,255,255,0.02));
+        border: 1px solid rgba(255,255,255,0.10);
+        box-shadow: 0 30px 70px rgba(0,0,0,0.45);
+        overflow: hidden;
+    }
+    .h-hero__media-card img {
+        position: absolute; inset: 0;
+        width: 100%; height: 100%;
+        object-fit: cover;
+        transition: opacity .6s ease;
+        opacity: 0;
+    }
+    .h-hero__media-card img.active { opacity: 1; }
+    .h-hero__media-glow {
+        position: absolute; left: -30px; top: -30px;
+        width: 180px; height: 180px;
+        background: radial-gradient(circle, rgba(255,107,0,0.32), transparent 70%);
+        filter: blur(20px);
+        z-index: 0;
+    }
+
+    /* Stats strip below hero */
+    .h-stats {
+        position: relative;
+        background: rgba(255,255,255,0.04);
+        border-top: 1px solid rgba(255,255,255,0.10);
+        border-bottom: 1px solid var(--md-border);
+    }
+    .h-stats__grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 14px;
+        padding: 26px 0;
+        text-align: center;
+    }
+    .h-stats__num { display: block; font-size: 30px; font-weight: 800; color: #fff; line-height: 1.05; }
+    .h-stats__lbl { display: block; font-size: 12.5px; color: rgba(255,255,255,0.72); margin-top: 2px; letter-spacing: 0.3px; }
+
+    @media (max-width: 991px) {
+        .h-hero { padding: 80px 0 50px; }
+        .h-hero__grid { grid-template-columns: 1fr; gap: 40px; text-align: center; }
+        .h-hero h1 { font-size: 40px; }
+        .h-hero__static { font-size: 26px; }
+        .h-hero__sub { margin-left: auto; margin-right: auto; }
+        .h-hero__ctas { justify-content: center; }
+        .h-hero__pills { justify-content: center; }
+        .h-hero__media { margin: 0 auto; max-width: 360px; }
+        .h-stats__grid { grid-template-columns: repeat(2, 1fr); }
+    }
+    @media (max-width: 576px) {
+        .h-hero { padding: 60px 0 40px; }
+        .h-hero h1 { font-size: 32px; }
+        .h-hero__prefix { font-size: 18px; }
+        .h-hero__static { font-size: 22px; }
+        .h-hero__sub { font-size: 15px; }
+        .h-stats__num { font-size: 24px; }
+    }
+    </style>
+
+    <section class="md-hero h-hero">
+        <div class="container">
+            <div class="h-hero__grid">
+                <div class="h-hero__text">
+                    <span class="h-hero__eyebrow"><span class="pulse"></span>Senior-led India studio &middot; 300+ projects shipped</span>
+                    <p class="h-hero__prefix">For Businesses.</p>
+                    <h1>
+                        <span class="h-hero__rotator r-blue" id="hero-rotator">Web Development</span>
+                        <span class="h-hero__static">Build, Market &amp; Scale with <span class="brand">ITD GrowthLabs</span></span>
+                    </h1>
+                    <p class="h-hero__sub">Custom <strong>mobile &amp; web applications</strong>, high-converting <strong>websites</strong>, and result-driven <strong>digital marketing</strong> &mdash; one senior team for 300+ businesses across 6 countries.</p>
+                    <div class="h-hero__ctas">
+                        <a href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank" rel="noopener" class="md-cta-primary js-book-call" data-source="home_hero_calendly"><i class="fas fa-calendar-check"></i> Book a Free 30-min Call</a>
+                        <a href="/case-studies.php" class="md-cta-secondary"><i class="fas fa-folder-open"></i> See Our Work</a>
+                    </div>
+                    <div class="h-hero__pills">
+                        <span><i class="fas fa-shield-check"></i> Fixed-quote pricing</span>
+                        <span><i class="fas fa-code-branch"></i> 100% code ownership</span>
+                        <span><i class="fas fa-bolt"></i> 48-hr quote turnaround</span>
+                    </div>
+                </div>
+                <div class="h-hero__media">
+                    <div class="h-hero__media-glow" aria-hidden="true"></div>
+                    <div class="h-hero__media-card" role="img" aria-label="Build, Market and Scale with ITD GrowthLabs">
+                        <img class="active" src="/assets/img/banner/Website.webp"   data-key="web"   alt="Web Development">
+                        <img             src="/assets/img/banner/mobile.webp"    data-key="apps"  alt="Custom Applications">
+                        <img             src="/assets/img/banner/Marketing.webp" data-key="mkt"   alt="Data-Driven Marketing">
+                        <img             src="/assets/img/banner/automation.webp" data-key="ai"   alt="AI Automation Systems">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Stats strip below the hero, same dark background -->
+        <div class="h-stats">
+            <div class="container">
+                <div class="h-stats__grid">
+                    <div><span class="h-stats__num">300+</span><span class="h-stats__lbl">Projects delivered</span></div>
+                    <div><span class="h-stats__num">55+</span><span class="h-stats__lbl">Senior practitioners</span></div>
+                    <div><span class="h-stats__num">97%</span><span class="h-stats__lbl">Client retention</span></div>
+                    <div><span class="h-stats__num">10+</span><span class="h-stats__lbl">Industries served</span></div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <script>
-    // Hero rotator — cycles the three buyer-type accent words
+    // Hero rotator — headline word + accent colour + supporting image cycle in sync
     (function () {
-        var words = ['marketing', 'mobile apps', 'web applications', 'websites', 'lead generation'];
-        var i = 0;
-        var el = document.getElementById('hero-rotator');
-        if (!el) return;
-        el.style.transition = 'opacity .2s ease';
+        var items = [
+            { word: 'Web Development',       cls: 'r-blue',   imgKey: 'web' },
+            { word: 'Custom Applications',   cls: 'r-red',    imgKey: 'apps' },
+            { word: 'Data-Driven Marketing', cls: 'r-yellow', imgKey: 'mkt' },
+            { word: 'AI Automation Systems', cls: 'r-green',  imgKey: 'ai' },
+        ];
+        var idx = 0;
+        var el  = document.getElementById('hero-rotator');
+        var imgs = document.querySelectorAll('.h-hero__media-card img');
+        if (!el || !imgs.length) return;
+        function setImg(key) {
+            imgs.forEach(function (img) {
+                img.classList.toggle('active', img.dataset.key === key);
+            });
+        }
         setInterval(function () {
-            i = (i + 1) % words.length;
+            idx = (idx + 1) % items.length;
+            var item = items[idx];
             el.style.opacity = 0;
-            setTimeout(function () { el.textContent = words[i]; el.style.opacity = 1; }, 220);
-        }, 2400);
+            setTimeout(function () {
+                el.textContent = item.word;
+                el.classList.remove('r-blue', 'r-red', 'r-yellow', 'r-green');
+                el.classList.add(item.cls);
+                el.style.opacity = 1;
+                setImg(item.imgKey);
+            }, 260);
+        }, 3000);
     })();
     </script>
 
@@ -259,42 +435,17 @@
     </section>
 
     <!-- ============================================================
-         WHAT WE FOCUS ON — the 9 offerings (3 apps + 5 services + lead-gen)
+         WHAT WE FOCUS ON — services first, then ready-to-deploy apps
          ============================================================ -->
     <section class="md-sec">
         <div class="container">
             <?php itdgl_render_section_head(
                 'What we focus on',
-                '<span class="accent">Three apps you can deploy fast</span> &mdash; plus five services to build, scale and market them.',
-                'We narrowed deliberately. Three productised apps + five core services. We&rsquo;re excellent at these nine things and we say no to work that isn&rsquo;t one of them.'
+                '<span class="accent">Five core services</span> that cover websites, apps and marketing &mdash; plus three apps you can deploy fast.',
+                'We narrowed deliberately to five focused services for the three buyer types we serve best, plus three productised apps for logistics and marketplace operators. We&rsquo;re excellent at these and we say no to work that isn&rsquo;t one of them.'
             ); ?>
 
-            <!-- READY-TO-DEPLOY APPS -->
-            <div style="margin-bottom:36px;">
-                <h3 style="font-size:13px;font-weight:800;letter-spacing:2px;text-transform:uppercase;color:var(--md-orange);margin:0 0 18px;text-align:center;"><i class="fas fa-rocket" style="margin-right:6px;"></i>Apps &mdash; Ready to Deploy</h3>
-                <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px;">
-                    <a href="/products/courier-management-software.php" style="background:#fff;border:1px solid var(--md-border);border-radius:14px;padding:28px 24px;text-decoration:none;color:var(--md-heading);transition:transform .25s,box-shadow .25s,border-color .25s;display:block;height:100%;" onmouseover="this.style.transform='translateY(-4px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow-h)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
-                        <div style="width:50px;height:50px;border-radius:12px;background:linear-gradient(135deg,#fff3e6,#ffe2c4);color:var(--md-orange-dark);display:flex;align-items:center;justify-content:center;font-size:22px;margin-bottom:14px;"><i class="fas fa-truck"></i></div>
-                        <h4 style="font-size:18px;font-weight:700;margin:0 0 8px;color:var(--md-heading);">Courier Management Software</h4>
-                        <p style="font-size:14px;line-height:1.6;color:var(--md-body);margin:0 0 10px;">Ready-to-deploy SaaS for courier &amp; logistics operations. 21+ modules &mdash; pickup, hub, manifest, billing, tracking. Live across 14 hubs.</p>
-                        <span style="font-size:13.5px;color:var(--md-primary);font-weight:700;">Book a demo &rarr;</span>
-                    </a>
-                    <a href="/products/logistics-mobile-app.php" style="background:#fff;border:1px solid var(--md-border);border-radius:14px;padding:28px 24px;text-decoration:none;color:var(--md-heading);transition:transform .25s,box-shadow .25s,border-color .25s;display:block;height:100%;" onmouseover="this.style.transform='translateY(-4px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow-h)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
-                        <div style="width:50px;height:50px;border-radius:12px;background:linear-gradient(135deg,#fff3e6,#ffe2c4);color:var(--md-orange-dark);display:flex;align-items:center;justify-content:center;font-size:22px;margin-bottom:14px;"><i class="fas fa-mobile-screen"></i></div>
-                        <h4 style="font-size:18px;font-weight:700;margin:0 0 8px;color:var(--md-heading);">Custom Logistics Mobile App</h4>
-                        <p style="font-size:14px;line-height:1.6;color:var(--md-body);margin:0 0 10px;">Branded driver + dispatch + customer app suite for logistics. iOS, Android, Flutter. 5,000+ daily bookings on our apps.</p>
-                        <span style="font-size:13.5px;color:var(--md-primary);font-weight:700;">See the app &rarr;</span>
-                    </a>
-                    <a href="/products/multi-vendor-marketplace-app.php" style="background:#fff;border:1px solid var(--md-border);border-radius:14px;padding:28px 24px;text-decoration:none;color:var(--md-heading);transition:transform .25s,box-shadow .25s,border-color .25s;display:block;height:100%;" onmouseover="this.style.transform='translateY(-4px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow-h)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
-                        <div style="width:50px;height:50px;border-radius:12px;background:linear-gradient(135deg,#fff3e6,#ffe2c4);color:var(--md-orange-dark);display:flex;align-items:center;justify-content:center;font-size:22px;margin-bottom:14px;"><i class="fas fa-store"></i></div>
-                        <h4 style="font-size:18px;font-weight:700;margin:0 0 8px;color:var(--md-heading);">Multi-Vendor Marketplace App</h4>
-                        <p style="font-size:14px;line-height:1.6;color:var(--md-body);margin:0 0 10px;">For any vertical &mdash; food, grocery, pharmacy, B2B. 4-app suite (customer + vendor + rider + admin) launching in 8&ndash;14 weeks.</p>
-                        <span style="font-size:13.5px;color:var(--md-primary);font-weight:700;">See the marketplace &rarr;</span>
-                    </a>
-                </div>
-            </div>
-
-            <!-- SERVICES -->
+            <!-- SERVICES (now first) -->
             <div>
                 <h3 style="font-size:13px;font-weight:800;letter-spacing:2px;text-transform:uppercase;color:var(--md-primary);margin:0 0 18px;text-align:center;"><i class="fas fa-gears" style="margin-right:6px;"></i>Services We Deliver</h3>
                 <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:14px;">
@@ -322,6 +473,31 @@
                         <i class="fas fa-bullseye" style="font-size:26px;color:var(--md-orange);margin-bottom:10px;"></i>
                         <div style="font-size:14.5px;font-weight:700;color:var(--md-heading);margin-bottom:3px;">Digital Marketing</div>
                         <div style="font-size:12.5px;color:var(--md-muted);">Lead-gen, SEO, Ads, Social</div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- READY-TO-DEPLOY APPS (now after services) -->
+            <div style="margin-top:48px;">
+                <h3 style="font-size:13px;font-weight:800;letter-spacing:2px;text-transform:uppercase;color:var(--md-orange);margin:0 0 18px;text-align:center;"><i class="fas fa-rocket" style="margin-right:6px;"></i>Apps &mdash; Ready to Deploy</h3>
+                <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px;">
+                    <a href="/products/courier-management-software.php" style="background:#fff;border:1px solid var(--md-border);border-radius:14px;padding:28px 24px;text-decoration:none;color:var(--md-heading);transition:transform .25s,box-shadow .25s,border-color .25s;display:block;height:100%;" onmouseover="this.style.transform='translateY(-4px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow-h)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
+                        <div style="width:50px;height:50px;border-radius:12px;background:linear-gradient(135deg,#fff3e6,#ffe2c4);color:var(--md-orange-dark);display:flex;align-items:center;justify-content:center;font-size:22px;margin-bottom:14px;"><i class="fas fa-truck"></i></div>
+                        <h4 style="font-size:18px;font-weight:700;margin:0 0 8px;color:var(--md-heading);">Courier Management Software</h4>
+                        <p style="font-size:14px;line-height:1.6;color:var(--md-body);margin:0 0 10px;">Ready-to-deploy SaaS for courier &amp; logistics operations. 21+ modules &mdash; pickup, hub, manifest, billing, tracking. Live across 14 hubs.</p>
+                        <span style="font-size:13.5px;color:var(--md-primary);font-weight:700;">Book a demo &rarr;</span>
+                    </a>
+                    <a href="/products/logistics-mobile-app.php" style="background:#fff;border:1px solid var(--md-border);border-radius:14px;padding:28px 24px;text-decoration:none;color:var(--md-heading);transition:transform .25s,box-shadow .25s,border-color .25s;display:block;height:100%;" onmouseover="this.style.transform='translateY(-4px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow-h)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
+                        <div style="width:50px;height:50px;border-radius:12px;background:linear-gradient(135deg,#fff3e6,#ffe2c4);color:var(--md-orange-dark);display:flex;align-items:center;justify-content:center;font-size:22px;margin-bottom:14px;"><i class="fas fa-mobile-screen"></i></div>
+                        <h4 style="font-size:18px;font-weight:700;margin:0 0 8px;color:var(--md-heading);">Custom Logistics Mobile App</h4>
+                        <p style="font-size:14px;line-height:1.6;color:var(--md-body);margin:0 0 10px;">Branded driver + dispatch + customer app suite for logistics. iOS, Android, Flutter. 5,000+ daily bookings on our apps.</p>
+                        <span style="font-size:13.5px;color:var(--md-primary);font-weight:700;">See the app &rarr;</span>
+                    </a>
+                    <a href="/products/multi-vendor-marketplace-app.php" style="background:#fff;border:1px solid var(--md-border);border-radius:14px;padding:28px 24px;text-decoration:none;color:var(--md-heading);transition:transform .25s,box-shadow .25s,border-color .25s;display:block;height:100%;" onmouseover="this.style.transform='translateY(-4px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow-h)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
+                        <div style="width:50px;height:50px;border-radius:12px;background:linear-gradient(135deg,#fff3e6,#ffe2c4);color:var(--md-orange-dark);display:flex;align-items:center;justify-content:center;font-size:22px;margin-bottom:14px;"><i class="fas fa-store"></i></div>
+                        <h4 style="font-size:18px;font-weight:700;margin:0 0 8px;color:var(--md-heading);">Multi-Vendor Marketplace App</h4>
+                        <p style="font-size:14px;line-height:1.6;color:var(--md-body);margin:0 0 10px;">For any vertical &mdash; food, grocery, pharmacy, B2B. 4-app suite (customer + vendor + rider + admin) launching in 8&ndash;14 weeks.</p>
+                        <span style="font-size:13.5px;color:var(--md-primary);font-weight:700;">See the marketplace &rarr;</span>
                     </a>
                 </div>
             </div>
