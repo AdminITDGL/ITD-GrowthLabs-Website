@@ -209,7 +209,7 @@
                 <?php foreach ([
                     ['url'=>'/industries/logistics.php',  'icon'=>'fas fa-truck',          'title'=>'Logistics &amp; Supply Chain', 'desc'=>'TMS, multi-carrier dispatch, last-mile, 3PL portals. 50M+ shipments processed on our stack across 14+ hubs.'],
                     ['url'=>'/industries/saas.php',      'icon'=>'fas fa-server',         'title'=>'B2B SaaS', 'desc'=>'Multi-tenant SaaS platforms with Stripe billing, RBAC, audit trails, Cyber Essentials ready. 12 SaaS products shipped.'],
-                    ['url'=>'/industries/fintech.php',   'icon'=>'fas fa-coins',          'title'=>''title'=>'FinTech, Lending &amp; PayTech'', 'desc'=>'NBFC, loan origination, KYC/AML, payments, dashboards. Multi-state lender platforms live.'],
+                    ['url'=>'/industries/fintech.php',   'icon'=>'fas fa-coins',          'title'=>'FinTech, Lending &amp; PayTech', 'desc'=>'FCA-aware architectures, KYC/AML, Open Banking integrations, lender platforms, payment routing.'],
                     ['url'=>'/industries/ecommerce.php', 'icon'=>'fas fa-bag-shopping',   'title'=>'E-commerce &amp; D2C', 'desc'=>'Shopify, WooCommerce, headless storefronts (Next.js + Hydrogen / Medusa), marketplaces. 100+ D2C brands.'],
                     ['url'=>'/industries/healthcare.php','icon'=>'fas fa-hospital',       'title'=>'Healthcare &amp; HealthTech', 'desc'=>'HIPAA-ready patient apps, clinic management, diagnostic chains, telehealth platforms.'],
                     ['url'=>'/industries/real-estate.php','icon'=>'fas fa-house-chimney', 'title'=>'PropTech &amp; Real Estate', 'desc'=>'Broker CRMs, MLS integrations, property management portals, lead-gen funnels for developers.'],
