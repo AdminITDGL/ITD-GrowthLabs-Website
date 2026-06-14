@@ -3,36 +3,33 @@
 
 <head>
     <!-- Google Tag Manager -->
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-M4XDB2GZ');
-    </script>
-    <!-- End Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-M4XDB2GZ');</script>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="ITD GrowthLabs is a leading digital services company in the UK offering website development, web apps, mobile apps & digital marketing across London, Manchester, Birmingham & more.">
-    <meta name="keywords" content="Digital services company in UK, Digital agency in UK, Web development company in UK, Mobile app development company in UK, Digital marketing services in UK, IT services company in UK">
-    <title>Top Digital Services Company in UK | Web, App & Marketing | ITD GrowthLabs</title>
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Top Digital Services Company in UK | Web, App & Marketing | ITD GrowthLabs" />
-    <meta name="twitter:description" content="ITD GrowthLabs is a leading digital services company in the UK offering website development, web apps, mobile apps & digital marketing across London, Manchester, Birmingham & more." />
-    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
-
+    <meta name="description" content="ITD GrowthLabs — a senior-led India technology studio serving UK businesses with custom mobile apps, SaaS platforms, websites and lead-gen systems. 300+ projects shipped, 12+ yrs avg team experience, 4–6 hour GMT timezone overlap, fixed-quote GBP contracts, 100% source-code ownership, UK GDPR + Cyber Essentials ready.">
+    <meta name="keywords" content="custom software development UK, mobile app development UK, SaaS development UK, India offshore engineering team UK, fixed-quote app development UK, digital marketing UK, GDPR compliant software UK">
+    <title>Custom Software, Mobile Apps &amp; SaaS for UK Businesses | ITD GrowthLabs UK</title>
+    <link rel="canonical" href="https://itdgrowthlabs.com/uk/index.php" />
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
+
+    <meta property="og:title" content="Custom Software, Mobile Apps &amp; SaaS for UK Businesses | ITD GrowthLabs UK" />
+    <meta property="og:description" content="Senior India studio shipping software for UK companies. 300+ projects, GBP fixed quotes, 100% code ownership, GMT overlap, UK GDPR ready." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/uk/index.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Custom Software, Mobile Apps &amp; SaaS for UK Businesses | ITD GrowthLabs UK" />
+    <meta name="twitter:description" content="Senior India studio shipping software for UK companies. GBP fixed quotes, 100% code ownership, GMT overlap, UK GDPR ready." />
+
+    <link rel="alternate" hreflang="en-us" href="https://itdgrowthlabs.com/uk/index.php" />
+    <link rel="alternate" hreflang="en-gb" href="https://itdgrowthlabs.com/uk/index.php" />
+    <link rel="alternate" hreflang="en-au" href="https://itdgrowthlabs.com/australia/index.php" />
+    <link rel="alternate" hreflang="en-ae" href="https://itdgrowthlabs.com/uae/index.php" />
+    <link rel="alternate" hreflang="en-in" href="https://itdgrowthlabs.com/" />
+    <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/" />
+
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
     <link href="../assets/css/themify-icons.css" rel="stylesheet">
@@ -45,2073 +42,327 @@
     <link href="../assets/css/helper.css" rel="stylesheet">
     <link href="../assets/css/unit-test.css" rel="stylesheet">
     <link href="../assets/css/style.css" rel="stylesheet">
-    <script src="https://www.google.com/recaptcha/api.js?render=6Lcm0hosAAAAAPFeuKRDfgGF4Ajr9bcCCbD7LR-3"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17674012925"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
+    <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','AW-17674012925');</script>
 
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-        gtag('config', 'AW-17674012925');
-    </script>
-    <script>
-        gtag('config', 'AW-17674012925/L6w9CJf84rIbEP2R0OtB', {
-            'phone_conversion_number': '84509 78544'
-        });
-    </script>
-    <style>
-        #showMessage,
-        #showMessage_wdd {
-            display: none;
-            margin-top: 15px;
-            font-weight: bold;
-            transition: opacity 0.5s;
-        }
-
-        .success_msg {
-            color: green;
-        }
-
-        .error_msg {
-            color: red;
-        }
-
-        .services-style-one {
-            height: 100%;
-        }
-
-        .services-style-one i {
-            color: var(--color-primary);
-        }
-
-        .banner-style-three h2 strong::after {
-            display: none;
-        }
-
-        .icon_circle {
-            width: 80px;
-            height: 80px;
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-            cursor: pointer;
-        }
-
-        .icon_circle:hover {
-            transform: scale(1.1);
-            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
-        }
-
-        .icon_circle_block p {
-            font-size: 14px;
-            font-weight: 600;
-            text-transform: uppercase;
-            color: #000;
-        }
-    </style>
-    <style>
-        .form-with-profile {
-            background: #fff;
-            border-radius: 15px;
-            overflow: hidden;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
-        }
-
-        .form-header-orange {
-            background: var(--color-primary);
-            position: relative;
-            text-align: center;
-        }
-
-        .profile-images-container {
-            position: relative;
-            margin-bottom: 10px;
-            padding-top: 5px;
-        }
-
-        .profile-main {
-            width: 60%;
-            height: auto;
-            display: block;
-            object-fit: cover;
-            margin: auto;
-        }
-
-        .fun-fact {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-        }
-
-        .fun-fact .counter {
-            justify-content: center;
-            width: 100%;
-        }
-
-        .fun-fact h4 {
-            margin-top: 10px;
-            margin-bottom: 0;
-        }
-    </style>
-<style>
-        .intro-content-box {
-            background: #fff;
-            border-radius: 20px;
-            padding: 50px 40px;
-            box-shadow: 0 5px 30px rgba(0, 0, 0, 0.08);
-        }
-
-        .intro-text {
-            text-align: center;
-        }
-
-        .intro-text .lead-text {
-            font-size: 18px;
-            line-height: 1.8;
-            color: var(--color-heading);
-            font-weight: 500;
-            margin-bottom: 20px;
-        }
-
-        .intro-text p {
-            font-size: 16px;
-            line-height: 1.7;
-            color: var(--color-paragraph);
-            margin-bottom: 0;
-        }
-
-        .intro-services-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 25px;
-            margin-top: 40px;
-        }
-
-        .intro-service-item {
-            text-align: center;
-            padding: 30px 20px;
-            background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
-            border-radius: 15px;
-            border: 2px solid #f0f0f0;
-            transition: all 0.3s ease;
-        }
-
-        .intro-service-item:hover {
-            transform: translateY(-5px);
-            border-color: var(--color-primary);
-            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
-        }
-
-        .intro-service-item .service-icon {
-            width: 70px;
-            height: 70px;
-            margin: 0 auto 20px;
-            background: linear-gradient(135deg, var(--color-primary) 0%, #0056b3 100%);
-            border-radius: 15px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            transition: all 0.3s ease;
-        }
-
-        .intro-service-item:hover .service-icon {
-            transform: scale(1.1) rotate(5deg);
-        }
-
-        .intro-service-item .service-icon i {
-            font-size: 32px;
-            color: #fff;
-        }
-
-        .intro-service-item h5 {
-            font-size: 16px;
-            font-weight: 600;
-            color: var(--color-heading);
-            margin: 0;
-            line-height: 1.4;
-        }
-
-        @media (max-width: 991px) {
-            .intro-content-box {
-                padding: 40px 30px;
-            }
-
-            .intro-text .lead-text {
-                font-size: 16px;
-            }
-
-            .intro-services-grid {
-                grid-template-columns: repeat(2, 1fr);
-                gap: 20px;
-            }
-        }
-
-        @media (max-width: 767px) {
-            .intro-content-box {
-                padding: 30px 20px;
-            }
-
-            .intro-services-grid {
-                grid-template-columns: 1fr;
-                gap: 15px;
-            }
-
-            .intro-service-item {
-                padding: 25px 15px;
-            }
-
-            .intro-service-item .service-icon {
-                width: 60px;
-                height: 60px;
-            }
-
-            .intro-service-item .service-icon i {
-                font-size: 28px;
-            }
-        }
-    </style>
-    <style>
-        .tech-categories .nav-pills {
-            display: flex;
-        }
-
-        .tech-categories .nav-pills .nav-link {
-            background: #f5f5f5;
-            color: var(--color-heading);
-            border-radius: 30px;
-            padding: 10px 20px;
-            font-weight: 500;
-            transition: all .3s;
-            border: none
-        }
-
-        .tech-categories .nav-pills .nav-link:hover {
-            background: #e0e0e0;
-            color: #fff;
-        }
-
-        .tech-categories .nav-pills .nav-link.active {
-            background: var(--color-heading);
-            color: #fff
-        }
-
-        .tech-stack-item {
-            text-align: center;
-            padding: 30px 15px;
-            background: #fff;
-            border-radius: 12px;
-            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
-            transition: all .3s;
-            height: 100%
-        }
-
-        .tech-stack-item:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1)
-        }
-
-        .tech-stack-item h5 {
-            margin-top: 15px;
-            font-size: 16px;
-            font-weight: 600;
-            color: var(--color-heading)
-        }
-
-        @media (max-width:767px) {
-            .tech-categories .nav-pills {
-                flex-direction: column;
-                gap: 10px
-            }
-
-            .tech-categories .nav-pills .nav-link {
-                width: 100%
-            }
-        }
-    </style>
-
-    <style>
-        .why-choose-card {
-            background: #fff;
-            border-radius: 12px;
-            padding: 35px 25px;
-            text-align: center;
-            transition: all 0.3s ease;
-            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
-            height: 100%;
-            display: flex;
-            flex-direction: column;
-        }
-
-        .why-choose-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
-        }
-
-        .why-choose-card .icon-wrapper {
-            width: 70px;
-            height: 70px;
-            margin: 0 auto 20px;
-            background: var(--color-primary);
-            border-radius: 12px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            transition: all 0.3s ease;
-        }
-
-        .why-choose-card:hover .icon-wrapper {
-            background: var(--color-primary);
-            opacity: 0.9;
-        }
-
-        .why-choose-card .icon-wrapper i {
-            font-size: 32px;
-            color: #fff;
-        }
-
-        .why-choose-card h4 {
-            font-size: 20px;
-            font-weight: 600;
-            margin-bottom: 12px;
-            color: var(--color-heading);
-        }
-
-        .why-choose-card p {
-            color: var(--color-paragraph);
-            line-height: 1.7;
-            margin: 0;
-            font-size: 15px;
-            flex: 1;
-        }
-
-        @media (max-width: 768px) {
-            .why-choose-card {
-                padding: 30px 20px;
-            }
-
-            .why-choose-card .icon-wrapper {
-                width: 60px;
-                height: 60px;
-            }
-
-            .why-choose-card .icon-wrapper i {
-                font-size: 28px;
-            }
-
-            .why-choose-card h4 {
-                font-size: 18px;
-            }
-        }
-    </style>
-    <style>
-        .process-track {
-            padding: 40px 0
-        }
-
-        .process-row {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            flex-wrap: nowrap;
-            gap: 15px
-        }
-
-        .process-hexagon {
-            position: relative;
-            width: 180px;
-            height: 200px;
-            flex-shrink: 0
-        }
-
-        .process-hexagon::before {
-            content: '';
-            position: absolute;
-            width: 100%;
-            height: 100%;
-            background: var(--color-primary);
-            clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
-            transition: all .3s
-        }
-
-        .process-hexagon:hover::before {
-            background: #000;
-            transform: scale(1.05)
-        }
-
-        .hexagon-content {
-            position: relative;
-            z-index: 1;
-            height: 100%;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            padding: 20px 15px;
-            text-align: center
-        }
-
-        .step-number {
-            position: absolute;
-            top: -8px;
-            right: 10px;
-            width: 32px;
-            height: 32px;
-            background: #fff;
-            color: var(--color-primary);
-            border: 2px solid var(--color-primary);
-            border-radius: 50%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-weight: 700;
-            font-size: 13px;
-            z-index: 2
-        }
-
-        .process-hexagon:hover .step-number {
-            background: var(--color-primary);
-            color: #fff
-        }
-
-        .hexagon-content i {
-            font-size: 36px;
-            color: #fff;
-            margin-bottom: 12px;
-            transition: all .3s
-        }
-
-        .hexagon-content h5 {
-            font-size: 18px;
-            font-weight: 700;
-            margin-bottom: 8px;
-            color: #fff;
-            text-transform: uppercase;
-            transition: all .3s
-        }
-
-        .hexagon-content p {
-            font-size: 13px;
-            color: #fff;
-            margin: 0;
-            line-height: 1.5;
-            transition: all .3s
-        }
-
-        .process-hexagon:hover .hexagon-content i,
-        .process-hexagon:hover .hexagon-content h5 {
-            color: var(--color-primary)
-        }
-
-        .process-hexagon:hover .hexagon-content p {
-            color: #fff;
-        }
-
-        .process-connector {
-            text-align: center;
-            color: var(--color-primary);
-            font-size: 24px;
-            opacity: .6;
-            flex-shrink: 0;
-            margin: 0 5px
-        }
-
-        @media (max-width:1199px) {
-            .process-hexagon {
-                width: 160px;
-                height: 180px
-            }
-
-            .hexagon-content i {
-                font-size: 32px
-            }
-
-            .hexagon-content h5 {
-                font-size: 16px
-            }
-
-            .hexagon-content p {
-                font-size: 12px
-            }
-        }
-
-        @media (max-width:991px) {
-            .process-track {
-                overflow-x: auto;
-                padding: 30px 0
-            }
-
-            .process-row {
-                min-width: 1100px;
-                justify-content: flex-start
-            }
-
-            .process-hexagon {
-                width: 150px;
-                height: 170px
-            }
-
-            .hexagon-content {
-                padding: 15px 10px
-            }
-
-            .hexagon-content i {
-                font-size: 28px;
-                margin-bottom: 10px
-            }
-
-            .hexagon-content h5 {
-                font-size: 15px
-            }
-
-            .hexagon-content p {
-                font-size: 11px
-            }
-
-            .process-connector {
-                font-size: 20px
-            }
-        }
-
-        @media (max-width:767px) {
-            .process-row {
-                min-width: 1000px
-            }
-
-            .process-hexagon {
-                width: 140px;
-                height: 160px
-            }
-
-            .hexagon-content i {
-                font-size: 24px;
-                margin-bottom: 8px
-            }
-
-            .hexagon-content h5 {
-                font-size: 14px
-            }
-
-            .hexagon-content p {
-                font-size: 10px
-            }
-
-            .process-connector {
-                font-size: 18px
-            }
-        }
-    </style>
-
-    <style>
-        .industry-carousel-wrapper {
-            position: relative;
-        }
-
-        .industry-carousel {
-            overflow: hidden;
-        }
-
-        .industry-card {
-            position: relative;
-            height: 350px;
-            border-radius: 15px;
-            overflow: hidden;
-            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
-            transition: all 0.3s ease;
-        }
-
-        .industry-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
-        }
-
-        .industry-bg {
-            position: absolute;
-            width: 100%;
-            height: 100%;
-            opacity: 0.7;
-            filter: grayscale(30%);
-        }
-
-        .industry-overlay {
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            padding: 25px;
-            z-index: 2;
-            display: flex;
-            align-items: center;
-            gap: 12px;
-        }
-
-        .industry-overlay i {
-            font-size: 32px;
-            color: #fff;
-            filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
-        }
-
-        .industry-overlay span {
-            font-size: 20px;
-            font-weight: 600;
-            color: #fff;
-            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
-        }
-
-        .industry-nav {
-            display: flex;
-            justify-content: center;
-            gap: 15px;
-            margin-top: 30px;
-        }
-
-        .industry-nav-prev,
-        .industry-nav-next {
-            width: 50px;
-            height: 50px;
-            background: #fff;
-            border: 2px solid var(--color-primary);
-            border-radius: 50%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            cursor: pointer;
-            transition: all 0.3s ease;
-            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-        }
-
-        .industry-nav-prev:hover,
-        .industry-nav-next:hover {
-            background: var(--color-primary);
-            border-color: var(--color-primary);
-            transform: scale(1.1);
-        }
-
-        .industry-nav-prev i,
-        .industry-nav-next i {
-            font-size: 18px;
-            color: #333;
-        }
-
-        .industry-nav-prev:hover i,
-        .industry-nav-next:hover i {
-            color: #fff;
-        }
-
-        @media (max-width: 991px) {
-            .industry-card {
-                height: 300px;
-            }
-
-            .industry-overlay {
-                padding: 20px;
-            }
-
-            .industry-overlay i {
-                font-size: 28px;
-            }
-
-            .industry-overlay span {
-                font-size: 18px;
-            }
-        }
-
-        @media (max-width: 767px) {
-            .industry-card {
-                height: 250px;
-            }
-
-            .industry-overlay {
-                padding: 15px;
-                gap: 10px;
-            }
-
-            .industry-overlay i {
-                font-size: 24px;
-            }
-
-            .industry-overlay span {
-                font-size: 16px;
-            }
-
-            .industry-nav-prev,
-            .industry-nav-next {
-                width: 45px;
-                height: 45px;
-            }
-        }
-    </style>
-    <link rel="canonical" href="https://itdgrowthlabs.com/uk/" />
-    <meta property="og:title" content="Top Digital Services Company in UK | Web, App & Marketing | ITD GrowthLabs" />
-    <meta property="og:description" content="ITD GrowthLabs is a leading digital services company in the UK offering website development, web apps, mobile apps & digital marketing across London, Manchester, Birmingham & more." />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://itdgrowthlabs.com/uk/" />
-    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
-    <link rel="alternate" hreflang="en-in" href="https://itdgrowthlabs.com/" />
-    <link rel="alternate" hreflang="en-us" href="https://itdgrowthlabs.com/usa/" />
-    <link rel="alternate" hreflang="en-gb" href="https://itdgrowthlabs.com/uk/" />
-    <link rel="alternate" hreflang="en-au" href="https://itdgrowthlabs.com/australia/" />
-    <link rel="alternate" hreflang="en-ae" href="https://itdgrowthlabs.com/uae/" />
-    <link rel="alternate" hreflang="en-za" href="https://itdgrowthlabs.com/africa/" />
-    <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/" />
     <script type="application/ld+json">
     {
-        "@context": "https://schema.org",
-        "@type": "LocalBusiness",
-        "name": "ITD GrowthLabs - UK",
-        "url": "https://itdgrowthlabs.com/uk/",
-        "image": "https://itdgrowthlabs.com/assets/img/logo.jpg",
-        "telephone": "+91-8450978544",
-        "email": "info@itdgrowthlabs.com",
-        "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "GB"
-        },
-        "areaServed": {"@type": "Country", "name": "United Kingdom"},
-        "serviceType": ["Website Development", "App Development", "Digital Marketing", "SEO Services"]
+      "@context": "https://schema.org",
+      "@type": "ProfessionalService",
+      "name": "ITD GrowthLabs (UK)",
+      "url": "https://itdgrowthlabs.com/uk/index.php",
+      "logo": "https://itdgrowthlabs.com/assets/img/logo.jpg",
+      "description": "Senior-led India technology studio delivering custom mobile apps, SaaS platforms, websites and digital marketing to UK businesses with fixed-quote GBP contracts, 100% source-code ownership, GMT timezone overlap, UK GDPR + Cyber Essentials readiness.",
+      "areaServed": {"@type": "Country", "name": "United Kingdom"},
+      "serviceArea": {"@type": "Country", "name": "United Kingdom"},
+      "provider": {
+        "@type": "Organization",
+        "name": "ITD GrowthLabs",
+        "url": "https://itdgrowthlabs.com",
+        "address": {"@type": "PostalAddress", "addressLocality": "Mumbai", "addressRegion": "Maharashtra", "addressCountry": "IN"}
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Services for UK Businesses",
+        "itemListElement": [
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Custom Mobile App Development (iOS, Android, Flutter, React Native)"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Custom Web Application Development"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "SaaS Platform Development (multi-tenant)"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Website Development (custom, WordPress, e-commerce)"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Digital Marketing &amp; Lead Generation"}}
+        ]
+      }
     }
     </script>
-
     <script type="application/ld+json">
-    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "UK", "item": "https://itdgrowthlabs.com/uk/"}, {"@type": "ListItem", "position": 3, "name": "Top Digital Services Company in UK"}]}
+    {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://itdgrowthlabs.com/"},{"@type":"ListItem","position":2,"name":"UK","item":"https://itdgrowthlabs.com/uk/index.php"}]}
+    </script>
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+      {"@type":"Question","name":"Why hire an India studio instead of a UK-based agency?","acceptedAnswer":{"@type":"Answer","text":"Senior India studios deliver the same engineering quality as UK agencies at 35–60% lower cost, with 4–6 hour GMT timezone overlap for daily standups, sprint reviews and Slack/Teams during your business hours. The dev team works while you sleep — net-net, a faster shipping cadence."}},
+      {"@type":"Question","name":"How does pricing work in GBP?","acceptedAnswer":{"@type":"Answer","text":"Fixed-quote contracts denominated in GBP. Indicative ranges: Website MVP £1.4K–£4.8K, Mobile App MVP £5.5K–£11K, Custom Web App MVP £11K–£23K, SaaS MVP £13K–£26K, Growth-tier engagements £27K–£72K. Quote within 48 hours of a 30-minute discovery call."}},
+      {"@type":"Question","name":"Who owns the source code?","acceptedAnswer":{"@type":"Answer","text":"You do — 100%. Every engagement is work-for-hire with full source, schema, design assets and CI/CD config transferred to your private GitHub / Bitbucket on milestone delivery. No vendor lock-in."}},
+      {"@type":"Question","name":"How do UK payments and VAT work?","acceptedAnswer":{"@type":"Answer","text":"GBP bank transfer via Faster Payments (preferred), CHAPS for milestone payments above £25K, or Stripe invoicing for smaller retainers. We invoice in GBP without VAT (B2B export of services under HMRC rules — your accountant handles reverse-charge). NET-15 or milestone-based terms."}},
+      {"@type":"Question","name":"Are you UK GDPR and Cyber Essentials compliant?","acceptedAnswer":{"@type":"Answer","text":"Yes. UK GDPR + Data Protection Act 2018 + PECR compliance is the default for any user-facing build. Cyber Essentials + Cyber Essentials Plus readiness available as an add-on track — secure configuration, access control, malware protection, patch management, firewall posture."}}
+    ]}
     </script>
 </head>
 
 <body>
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4XDB2GZ"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
-    <style>
-        .country-flags-header {
-            background: #f8f9fa;
-            padding: 8px 0;
-            border-bottom: 1px solid #e0e0e0;
-        }
-        .country-flags-container {
-            display: flex;
-            justify-content: flex-start;
-            align-items: center;
-            gap: 20px;
-            flex-wrap: wrap;
-        }
-        .country-flag-item {
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            text-decoration: none;
-            color: #333;
-            font-size: 14px;
-            font-weight: 500;
-            transition: all 0.3s ease;
-            padding: 4px 8px;
-            border-radius: 4px;
-        }
-        .country-flag-item:hover {
-            background: #e9ecef;
-            color: #0069ff;
-            text-decoration: none;
-        }
-        .country-flag-item img {
-            width: 24px;
-            height: 18px;
-            object-fit: cover;
-            border-radius: 2px;
-            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-        }
-        @media (max-width: 768px) {
-            .country-flags-container {
-                gap: 12px;
-            }
-            .country-flag-item {
-                font-size: 12px;
-                gap: 6px;
-            }
-            .country-flag-item img {
-                width: 20px;
-                height: 15px;
-            }
-        }
-    </style>
-    
-    <?php include("header.php") ?>
-    <div class="banner-style-three-area overflow-hidden pt-100 pb-100" style="background-image: url(../assets/img/shape/banner-3.jpg);">
-        <div class="container">
-            <div class="content">
-                <div class="row align-center">
-                    <div class="banner-style-three col-lg-7">
-                        <div class="information">
-                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
-                                Top Digital Services Company in the UK
-                            </h1>
-                            <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
-                                We help UK businesses grow through high-performance websites, custom applications, mobile apps, and result-driven digital marketing solutions.
-                            </p>
-                            <div class="button mt-4 mb-5">
-                                <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Get a Free Consultation</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-tact-stye-one col-lg-5">
-                        <div class="contact-form-style-one form-with-profile wow fadeInUp p-0" data-wow-delay="500ms" data-wow-duration="400ms">
-                            <div class="form-header-orange" style="background:linear-gradient(135deg, #00247d 0%, #cf142b 100%);position:relative;">
-                                <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.1);border-radius:inherit;"></div>
-                                <div class="profile-images-container" style="position:relative;z-index:1;">
-                                    <img src="../assets/img/form-profile-image.png" alt="Expert" class="profile-main" draggable="false">
-                                </div>
-                            </div>
-                            <div class="form-content p-3">
-                                <div class="information">
-                                    <h4 class="wow fadeInUp mb-30 text-center" data-wow-delay="500ms" data-wow-duration="400ms" style="visibility: visible; animation-duration: 400ms; animation-delay: 500ms; animation-name: fadeInUp;">
-                                        <b>Get a Free Consultation</b>
-                                    </h4>
-                                </div>
-                                <form id="contactMail">
-                                    <div class="row">
-                                        <div class="col-lg-6">
-                                            <div class="form-group">
-                                                <input type="hidden" name="username_hp">
-                                                <input type="text" name="name" class="form-control" placeholder="Full Name *" required="">
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-6">
-                                            <div class="form-group">
-                                                <input type="email" name="email" class="form-control" placeholder="Email ID *" required="">
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-12">
-                                            <div class="form-group">
-                                                <input type="text" name="mobile" class="form-control" placeholder="Mobile Number *" required="">
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-12">
-                                            <div class="form-group">
-                                                <select name="service" class="form-control" required="">
-                                                    <option value="" disabled="" selected="">Service Interested In *</option>
-                                                    <option value="Technology Solutions (Website, App, AI, Database)">Technology Solutions (Website, App, AI, Database)</option>
-                                                    <option value="Digital Marketing (Social Media, Branding)">Digital Marketing (Social Media, Branding)</option>
-                                                    <option value="Lead Generation – Paid Ads (Meta, Google)">Lead Generation – Paid Ads (Meta, Google)</option>
-                                                    <option value="Content &amp; Creative Services (Writing, Video, Media)">Content &amp; Creative Services (Writing, Video, Media)</option>
-                                                </select>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-12">
-                                            <div class="form-group comments">
-                                                <textarea name="message" class="form-control" placeholder="Tell Us About Your Requirement *" required=""></textarea>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response">
-                                    <div class="row">
-                                        <div class="col-lg-12">
-                                            <button type="submit" class="btn btn-primary w-100">
-                                                <i class="fa fa-paper-plane"></i> Submit Now
-                                            </button>
-                                        </div>
-                                    </div>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Quick Summary for AI Search Engines (AEO/GEO) -->
-    <div class="container mt-5 mb-3">
-        <div style="background: linear-gradient(135deg, #f8f9fa 0%, #e8f0fe 100%); border-left: 4px solid var(--color-primary); border-radius: 8px; padding: 25px 30px;">
-            <h3 style="font-size: 20px; font-weight: 700; color: var(--color-primary); margin-bottom: 12px;">UK Digital Services</h3>
-            <p style="font-size: 15px; line-height: 1.8; color: #3c4043; margin: 0;">We help UK businesses compete online with professional websites, custom apps, and digital marketing that brings in real leads. From London startups to established businesses across England, Scotland, and Wales — we understand the UK market and deliver results that matter. <a href="../contact-us.php">Book a free strategy call →</a></p>
-        </div>
-    </div>
-    <div class="default-padding p-0">
-        <div class="">
-            <div class="row services-menu-tabs">
-                <div class="nav-tabs-wrap d-flex justify-content-center w-100" style="gap: 0;">
-                    <a href="../uk/website-design-development.php" class="service-tab-link flex-fill text-center py-3">Website Design & Development <i class="fas fa-arrow-right ms-1"></i></a>
-                    <a href="../uk/web-application-development.php" class="service-tab-link flex-fill text-center py-3">Web Application Development <i class="fas fa-arrow-right ms-1"></i></a>
-                    <a href="../uk/mobile-app-development.php" class="service-tab-link flex-fill text-center py-3">Mobile App Development <i class="fas fa-arrow-right ms-1"></i></a>
-                    <a href="../uk/digital-marketing-services.php" class="service-tab-link flex-fill text-center py-3">Digital Marketing Services <i class="fas fa-arrow-right ms-1"></i></a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <style>
-        .services-menu-tabs .nav-tabs-wrap {
-            display: flex;
-            flex-wrap: nowrap;
-            width: 100%;
-            background: #fff;
-            border-radius: 10px;
-            overflow: hidden;
-            border: 1px solid #eee;
-            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
-        }
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4XDB2GZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-        .services-menu-tabs .service-tab-link {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            flex: 1 1 0;
-            padding: 18px 0;
-            font-size: 15px;
-            font-weight: 600;
-            color: #222;
-            text-decoration: none;
-            background: transparent;
-            border: none;
-            border-right: 1px solid #eee;
-            position: relative;
-            transition: background 0.15s, color 0.15s;
-        }
+    <?php include(__DIR__ . "/header.php"); ?>
+    <?php require_once(__DIR__ . "/../includes/ui_modern.php"); ?>
 
-        .services-menu-tabs .service-tab-link:last-child {
-            border-right: none;
-        }
+    <?php itdgl_render_modern_hero([
+        'crumbs'  => [['label'=>'Home','url'=>'/'], ['label'=>'USA']],
+        'eyebrow' => '<span class="pulse"></span>Trusted by UK companies &middot; 4&ndash;6 hr GMT overlap &middot; GBP fixed quotes &middot; UK GDPR ready',
+        'pulse'   => true,
+        'title'   => 'Custom software, mobile apps &amp; SaaS for <span class="accent">UK businesses</span> &mdash; senior-led, fixed-quote, 100% code ownership.',
+        'sub'     => 'A 55+ practitioner India studio shipping for UK clients across England, Scotland, Wales and Northern Ireland. iOS, Android, Flutter, React Native on mobile. Next.js, Node, Python, Laravel on web. UK GDPR + Cyber Essentials ready. Senior engineering at 35&ndash;60% below UK agency rates, with 4&ndash;6 hour GMT overlap so daily standups happen in your business hours.',
+        'primary' => ['url'=>'https://calendly.com/itdgrowthlabs-info/30min', 'label'=>'Book a Free 30-min Call', 'icon'=>'fas fa-calendar-check', 'js_book_call'=>true, 'source'=>'uk_hero_calendly'],
+        'secondary'=>['url'=>'/case-studies.php', 'label'=>'See Our Work', 'icon'=>'fas fa-folder-open'],
+        'pills'   => [
+            ['icon'=>'fas fa-shield-check', 'text'=>'Fixed-quote GBP contracts'],
+            ['icon'=>'fas fa-code-branch',   'text'=>'100% code ownership'],
+            ['icon'=>'fas fa-clock',         'text'=>'4&ndash;6 hr GMT overlap'],
+            ['icon'=>'fas fa-lock',          'text'=>'UK GDPR + Cyber Essentials'],
+        ],
+        'stats'   => [
+            ['num'=>'300+', 'lbl'=>'Projects delivered'],
+            ['num'=>'55+',  'lbl'=>'Senior practitioners'],
+            ['num'=>'97%',  'lbl'=>'Client retention'],
+            ['num'=>'6+',   'lbl'=>'Countries served'],
+        ],
+    ]); ?>
 
-        .services-menu-tabs .service-tab-link:hover,
-        .services-menu-tabs .service-tab-link.active {
-            background: var(--color-primary, #008cff);
-            color: #fff;
-            z-index: 2;
-        }
+    <!-- Trust badges -->
+    <?php $tb_source = 'uk'; include(__DIR__ . '/../includes/trust-badges.php'); ?>
 
-        @media (max-width: 991px) {
-            .services-menu-tabs .nav-tabs-wrap {
-                flex-direction: column;
-                box-shadow: none;
-            }
+    <!-- ============================================================
+         CLIENT LOGOS — same 8-brand strip as home/about
+         ============================================================ -->
+    <section style="background:#fff;padding:46px 0;border-bottom:1px solid var(--md-border);">
+        <div class="container">
+            <div style="text-align:center;margin-bottom:24px;">
+                <span style="display:inline-block;font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--md-orange);font-weight:800;background:rgba(255,107,0,0.08);padding:5px 14px;border-radius:18px;">Trusted by</span>
+                <h3 style="font-size:18px;font-weight:700;color:var(--md-heading);margin:10px 0 0;letter-spacing:-0.2px;">Brands shipping on our stack &mdash; <span style="color:var(--md-muted);font-weight:500;font-size:14.5px;">many more under NDA</span></h3>
+            </div>
+            <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:16px;align-items:stretch;">
+                <?php foreach ([
+                    ['file'=>'mindsyn.png',            'alt'=>'MindSyn'],
+                    ['file'=>'courierdost.png',        'alt'=>'CourierDost'],
+                    ['file'=>'daakiyawala.png',        'alt'=>'Daakiyawala'],
+                    ['file'=>'transline-cargo.png',    'alt'=>'Transline Air Cargo Services'],
+                    ['file'=>'nex-navalai.png',        'alt'=>'NEX Navalai Enterprises'],
+                    ['file'=>'cariesco-group.png',     'alt'=>'Cariesco Group'],
+                    ['file'=>'technocrats.png',        'alt'=>'Technocrats (ISO 9001:2015)'],
+                    ['file'=>'m-four-development.png', 'alt'=>'M Four Development'],
+                ] as $c): ?>
+                <div style="background:#fff;border:1px solid var(--md-border);border-radius:12px;padding:22px 18px;display:flex;align-items:center;justify-content:center;min-height:110px;transition:transform .25s,border-color .25s,box-shadow .25s,filter .25s,opacity .25s;filter:grayscale(0.85);opacity:0.78;" onmouseover="this.style.transform='translateY(-3px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow)';this.style.filter='grayscale(0)';this.style.opacity='1'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow='';this.style.filter='grayscale(0.85)';this.style.opacity='0.78'">
+                    <img src="/assets/img/clients/<?php echo $c['file']; ?>" alt="<?php echo htmlspecialchars($c['alt']); ?>" loading="lazy" decoding="async" width="200" height="100" style="max-width:100%;max-height:68px;width:auto;height:auto;object-fit:contain;display:block;">
+                </div>
+                <?php endforeach; ?>
+            </div>
+        </div>
+    </section>
 
-            .services-menu-tabs .service-tab-link {
-                border-right: none;
-                border-bottom: 1px solid #eee;
-            }
+    <!-- ============================================================
+         AEO/GEO summary block — country-localised
+         ============================================================ -->
+    <section class="md-sec alt-warm">
+        <div class="container">
+            <div style="background:#fff;border-left:5px solid var(--md-primary);border-radius:14px;padding:34px 36px;max-width:980px;margin:0 auto;box-shadow:var(--md-card-shadow);">
+                <h2 style="font-size:22px;font-weight:800;color:var(--md-primary);margin:0 0 14px;"><span style="margin-right:8px;">&#127468;&#127463;</span>What we do for UK businesses</h2>
+                <p style="font-size:16px;line-height:1.75;color:var(--md-body);margin:0 0 14px;">ITD GrowthLabs ships <strong>custom software, mobile apps, SaaS platforms and lead-generation systems</strong> for UK businesses that want senior-engineered builds without senior-agency pricing. 300+ projects delivered, 55+ practitioner team, 12+ years average in-category experience, 97% client retention.</p>
+                <p style="font-size:16px;line-height:1.75;color:var(--md-body);margin:0 0 14px;">We work UK business hours via 4&ndash;6 hour GMT overlap, sign GBP fixed-quote contracts (no VAT under HMRC B2B export rules), transfer 100% source code to your private GitHub, and stay on retainer for AMC + Phase-2 roadmap. Stack: iOS / Android / Flutter / React Native on mobile; Next.js / Node / Python / Laravel on web; AWS, Azure, DigitalOcean on infra; HubSpot / Pipedrive / Capsule integrations on CRM. UK GDPR + Cyber Essentials readiness built in.</p>
+                <p style="font-size:16px;line-height:1.75;color:var(--md-body);margin:0;"><strong>Strongest verticals for UK clients:</strong> logistics + supply chain, fintech &amp; lending, SaaS, D2C e-commerce, PropTech, healthcare. <a href="/case-studies.php" style="color:var(--md-orange);font-weight:700;text-decoration:none;">See case studies &rarr;</a></p>
+            </div>
+        </div>
+    </section>
 
-            .services-menu-tabs .service-tab-link:last-child {
-                border-bottom: none;
-            }
-        }
-    </style>
-    <div class="default-padding" id="our-track-record-section">
+    <!-- ============================================================
+         SERVICES — 6 cards with localised cost ranges + sub-page links
+         ============================================================ -->
+    <section class="md-sec">
         <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center">
-                        <h5 class="sub-title">Our Track Record</h5>
-                        <h2 class="title">Creating Measurable Impact, Every Single Time</h2>
+            <?php itdgl_render_section_head(
+                'What we deliver for UK clients',
+                'Senior engineering, fixed quotes, <span class="accent">GBP-denominated</span>.',
+                'Five focused tracks. We narrowed deliberately so we&rsquo;re excellent at these and say no to the rest.'
+            ); ?>
+            <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:22px;">
+                <?php foreach ([
+                    ['url'=>'/uk/mobile-app-development.php',     'icon'=>'fas fa-mobile-screen-button', 'title'=>'Custom Mobile App Development', 'desc'=>'iOS, Android, Flutter, React Native. Driver, customer, field-ops, marketplace apps.', 'cost'=>'&pound;5.5K&ndash;&pound;60K'],
+                    ['url'=>'/uk/web-application-development.php', 'icon'=>'fas fa-window-restore',      'title'=>'Custom Web Application', 'desc'=>'B2B portals, dashboards, internal tools, customer-facing web apps. Next.js / Node / Python / Laravel.', 'cost'=>'&pound;11K&ndash;&pound;45K+'],
+                    ['url'=>'/services/saas_developement.php',      'icon'=>'fas fa-server',              'title'=>'SaaS Platform Development', 'desc'=>'Multi-tenant SaaS. Auth, billing (Stripe), RBAC, integrations, observability, Cyber Essentials ready.', 'cost'=>'&pound;13K&ndash;&pound;240K+'],
+                    ['url'=>'/uk/website-design-development.php',  'icon'=>'fas fa-globe',               'title'=>'Website Development', 'desc'=>'Custom, WordPress, e-commerce. SEO-ready, fast, conversion-engineered. Headless options.', 'cost'=>'&pound;1.4K&ndash;&pound;12K'],
+                    ['url'=>'/uk/digital-marketing-services.php',  'icon'=>'fas fa-bullseye',            'title'=>'Digital Marketing &amp; Lead Gen', 'desc'=>'Google / Meta ads, SEO, content, conversion engineering. Real-time qualified leads to your CRM.', 'cost'=>'&pound;480&ndash;&pound;3,000 / mo'],
+                    ['url'=>'/services/ready-to-buy-lead-generation.php', 'icon'=>'fas fa-rocket',        'title'=>'Ready-to-Buy Lead Generation', 'desc'=>'AI-driven, fully managed. Qualified leads delivered to your Sheet / CRM. Niche + location targeted.', 'cost'=>'From &pound;950 / mo'],
+                ] as $s): ?>
+                <a href="<?php echo $s['url']; ?>" style="background:#fff;border:1px solid var(--md-border);border-radius:14px;padding:26px 24px;text-decoration:none;color:var(--md-heading);display:block;transition:transform .25s,border-color .25s,box-shadow .25s;" onmouseover="this.style.transform='translateY(-4px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow-h)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
+                    <div style="width:48px;height:48px;border-radius:12px;background:linear-gradient(135deg,#fff3e6,#ffe2c4);color:var(--md-orange-dark);display:flex;align-items:center;justify-content:center;font-size:20px;margin-bottom:14px;"><i class="<?php echo $s['icon']; ?>"></i></div>
+                    <h4 style="font-size:17px;font-weight:700;margin:0 0 8px;color:var(--md-heading);line-height:1.3;"><?php echo $s['title']; ?></h4>
+                    <p style="font-size:13.5px;line-height:1.6;color:var(--md-body);margin:0 0 12px;"><?php echo $s['desc']; ?></p>
+                    <div style="display:flex;align-items:center;justify-content:space-between;padding-top:10px;border-top:1px solid var(--md-border);">
+                        <span style="font-size:12.5px;color:var(--md-muted);font-weight:600;">GBP range</span>
+                        <span style="font-size:14px;color:var(--md-primary);font-weight:800;"><?php echo $s['cost']; ?></span>
                     </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
-                    <div class="fun-fact text-center">
-                        <div class="counter" style="color:var(--color-primary)">
-                            <span class="timer" data-to="10" data-speed="2000">0</span><span>+</span>
-                        </div>
-                        <h4>Years of Experience</h4>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
-                    <div class="fun-fact text-center">
-                        <div class="counter" style="color:var(--color-primary)">
-                            <span class="timer" data-to="100" data-speed="2000">0</span><span>+</span>
-                        </div>
-                        <h4>Tech Experts</h4>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
-                    <div class="fun-fact text-center">
-                        <div class="counter" style="color:var(--color-primary)">
-                            <span class="timer" data-to="75" data-speed="2000">0</span><span>+</span>
-                        </div>
-                        <h4>Projects Delivered</h4>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
-                    <div class="fun-fact text-center">
-                        <div class="counter" style="color:var(--color-primary)">
-                            <span class="timer" data-to="97" data-speed="2000">0</span><span>%</span>
-                        </div>
-                        <h4>Client Retention</h4>
-                    </div>
-                </div>
+                </a>
+                <?php endforeach; ?>
             </div>
         </div>
-    </div>
-    <div class="default-padding bg-gray">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center mb-50">
-                        <h5 class="sub-title">INTRODUCTION</h5>
-                        <h2 class="title">Digital Services in the UK</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-10 offset-lg-1">
-                    <div class="intro-content-box">
-                        <div class="intro-text mb-40">
-                            <p class="lead-text">The UK is home to a fast-growing digital economy, where businesses demand reliable technology partners to support growth, automation, and customer engagement.</p>
-                            <p>At ITD GrowthLabs, we are a trusted digital services company in the UK, delivering end-to-end solutions including website design &amp; development, web applications, mobile apps, and digital marketing services.</p>
-                            <p>We work with startups, SMEs, and enterprises across the UK to build scalable digital systems that drive real business results.</p>
-                        </div>
-                        <div class="intro-services-grid">
-                            <div class="intro-service-item">
-                                <div class="service-icon">
-                                    <i class="fas fa-globe"></i>
-                                </div>
-                                <h5>Website Design &amp; Development</h5>
-                            </div>
-                            <div class="intro-service-item">
-                                <div class="service-icon">
-                                    <i class="fas fa-cogs"></i>
-                                </div>
-                                <h5>Web Application Development</h5>
-                            </div>
-                            <div class="intro-service-item">
-                                <div class="service-icon">
-                                    <i class="fas fa-mobile-alt"></i>
-                                </div>
-                                <h5>Mobile App Development</h5>
-                            </div>
-                            <div class="intro-service-item">
-                                <div class="service-icon">
-                                    <i class="fas fa-chart-line"></i>
-                                </div>
-                                <h5>Digital Marketing &amp; Lead Generation</h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    
-    <div class="default-padding bg-white">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center">
-                        <h5 class="sub-title">WHY UK BUSINESSES CHOOSE ITD GROWTHLABS</h5>
-                        <h2 class="title">Your Trusted Digital Partner</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row mt-40">
-                <div class="col-xl-3 col-lg-6 col-md-6 mb-30">
-                    <div class="why-choose-card">
-                        <div class="icon-wrapper"><i class="fas fa-map-marked-alt"></i></div>
-                        <h4>UK-Focused Strategy</h4>
-                        <p>We understand the UK market, customer expectations, and digital compliance standards.</p>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-6 col-md-6 mb-30">
-                    <div class="why-choose-card">
-                        <div class="icon-wrapper"><i class="fas fa-layer-group"></i></div>
-                        <h4>Full-Service Digital Partner</h4>
-                        <p>From design to development to marketing—everything under one roof.</p>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-6 col-md-6 mb-30">
-                    <div class="why-choose-card">
-                        <div class="icon-wrapper"><i class="fas fa-shield-alt"></i></div>
-                        <h4>Scalable &amp; Secure Solutions</h4>
-                        <p>Built for performance, security, and long-term growth.</p>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-6 col-md-6 mb-30">
-                    <div class="why-choose-card">
-                        <div class="icon-wrapper"><i class="fas fa-dollar-sign"></i></div>
-                        <h4>Cost-Effective Delivery</h4>
-                        <p>High-quality digital solutions without inflated local agency costs.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="default-padding bg-gray">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center">
-                        <h5 class="sub-title">OUR DIGITAL SERVICES IN THE UK</h5>
-                        <h2 class="title">Web, Apps &amp; Marketing — Built for UK Businesses</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row mt-40">
-                <div class="col-xl-3 col-lg-6 col-md-6 mb-30">
-                    <div class="why-choose-card">
-                        <div class="icon-wrapper"><i class="fas fa-globe"></i></div>
-                        <h4>Website Design &amp; Development</h4>
-                        <p>Conversion-focused, SEO-optimised websites built for UK audiences.</p>
-                        <a href="../uk/website-design-development.php" class="btn btn-theme btn-sm mt-4">Explore Website Design &amp; Development in the UK <i class="fas fa-arrow-right ms-1"></i></a>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-6 col-md-6 mb-30">
-                    <div class="why-choose-card">
-                        <div class="icon-wrapper"><i class="fas fa-cogs"></i></div>
-                        <h4>Web Application Development</h4>
-                        <p>Custom web applications for automation, SaaS products, and enterprise systems.</p>
-                        <a href="../uk/web-application-development.php" class="btn btn-theme btn-sm mt-4">Explore Web Application Development in the UK <i class="fas fa-arrow-right ms-1"></i></a>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-6 col-md-6 mb-30">
-                    <div class="why-choose-card">
-                        <div class="icon-wrapper"><i class="fas fa-mobile-alt"></i></div>
-                        <h4>Mobile App Development (Android &amp; iOS)</h4>
-                        <p>High-performance mobile applications designed for growth and scalability.</p>
-                        <a href="../uk/mobile-app-development.php" class="btn btn-theme btn-sm mt-4">Explore Mobile App Development in the UK <i class="fas fa-arrow-right ms-1"></i></a>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-6 col-md-6 mb-30">
-                    <div class="why-choose-card">
-                        <div class="icon-wrapper"><i class="fas fa-pen-fancy"></i></div>
-                        <h4>Digital Marketing Services</h4>
-                        <p>SEO, paid ads, content marketing, and lead generation for UK businesses.</p>
-                        <a href="../uk/digital-marketing-services.php" class="btn btn-theme btn-sm mt-4">Explore Digital Marketing Services in the UK <i class="fas fa-arrow-right ms-1"></i></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="default-padding bg-white">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center">
-                        <h5 class="sub-title">OUR DELIVERY PROCESS</h5>
-                        <h2 class="title">From Concept to Launch</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="process-track">
-                <div class="process-row">
-                    <div class="process-hexagon">
-                        <div class="hexagon-content">
-                            <div class="step-number">01</div><i class="fas fa-search"></i>
-                            <h5>Consultation &amp; Discovery</h5>
-                            <p>Understanding your business goals and challenges</p>
-                        </div>
-                    </div>
-                    <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
-                    <div class="process-hexagon">
-                        <div class="hexagon-content">
-                            <div class="step-number">02</div><i class="fas fa-pencil-ruler"></i>
-                            <h5>Strategy &amp; Planning</h5>
-                            <p>Custom roadmap aligned with UK market needs</p>
-                        </div>
-                    </div>
-                    <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
-                    <div class="process-hexagon">
-                        <div class="hexagon-content">
-                            <div class="step-number">03</div><i class="fas fa-code"></i>
-                            <h5>Design &amp; Development</h5>
-                            <p>Clean, scalable, and performance-driven execution</p>
-                        </div>
-                    </div>
-                    <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
-                    <div class="process-hexagon">
-                        <div class="hexagon-content">
-                            <div class="step-number">04</div><i class="fas fa-bug"></i>
-                            <h5>Testing &amp; Launch</h5>
-                            <p>Quality assurance and deployment</p>
-                        </div>
-                    </div>
-                    <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
-                    <div class="process-hexagon">
-                        <div class="hexagon-content">
-                            <div class="step-number">05</div><i class="fas fa-rocket"></i>
-                            <h5>Ongoing Support &amp; Growth</h5>
-                            <p>Continuous optimisation and support</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="default-padding bg-gray">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center">
-                        <h5 class="sub-title">Smart Tech Choices</h5>
-                        <h2 class="title">Behind Every Successful Mobile App Development</h2>
-                        <p class="mt-30">We use proven and modern technologies to deliver strong, secure, and high-performing apps across platforms — built to scale for any business.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="tech-categories mb-50">
-                <ul class="nav nav-pills justify-content-center gap-3 flex-wrap" id="techTabs" role="tablist">
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-link active" id="frontend-tab" data-bs-toggle="pill" data-bs-target="#frontend" type="button" role="tab">Frontend (Native & Cross-Platform)</button>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="backend-tab" data-bs-toggle="pill" data-bs-target="#backend" type="button" role="tab">Backend & Frameworks</button>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="databases-tab" data-bs-toggle="pill" data-bs-target="#databases" type="button" role="tab">Databases</button>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="cloud-tab" data-bs-toggle="pill" data-bs-target="#cloud" type="button" role="tab">Cloud & DevOps</button>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="integrations-tab" data-bs-toggle="pill" data-bs-target="#integrations" type="button" role="tab">Integrations & APIs</button>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="analytics-tab" data-bs-toggle="pill" data-bs-target="#analytics" type="button" role="tab">Testing & Analytics</button>
-                    </li>
-                </ul>
-            </div>
-            <div class="tab-content" id="techTabsContent">
-                <div class="tab-pane fade show active" id="frontend" role="tabpanel">
-                    <div class="row justify-content-center">
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-swift fa-3x mb-3" style="color: #fa7343;"></i>
-                                <h5>Swift</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-android fa-3x mb-3" style="color: #3ddc84;"></i>
-                                <h5>Kotlin</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-react fa-3x mb-3" style="color: #61dafb;"></i>
-                                <h5>React Native</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-google fa-3x mb-3" style="color: #02569b;"></i>
-                                <h5>Flutter</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-mobile-alt fa-3x mb-3" style="color: #3880ff;"></i>
-                                <h5>Ionic</h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="tab-pane fade" id="backend" role="tabpanel">
-                    <div class="row justify-content-center">
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-node-js fa-3x mb-3" style="color: #339933;"></i>
-                                <h5>Node.js</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-microsoft fa-3x mb-3" style="color: #512bd4;"></i>
-                                <h5>.NET</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-laravel fa-3x mb-3" style="color: #ff2d20;"></i>
-                                <h5>Laravel</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-python fa-3x mb-3" style="color: #3776ab;"></i>
-                                <h5>Django</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-java fa-3x mb-3" style="color: #ed8b00;"></i>
-                                <h5>Spring Boot</h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="tab-pane fade" id="databases" role="tabpanel">
-                    <div class="row justify-content-center">
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-database fa-3x mb-3" style="color: #00758f;"></i>
-                                <h5>MySQL</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-database fa-3x mb-3" style="color: #336791;"></i>
-                                <h5>PostgreSQL</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-leaf fa-3x mb-3" style="color: #47a248;"></i>
-                                <h5>MongoDB</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-google fa-3x mb-3" style="color: #ffca28;"></i>
-                                <h5>Firebase</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-database fa-3x mb-3" style="color: #003b57;"></i>
-                                <h5>SQLite</h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="tab-pane fade" id="cloud" role="tabpanel">
-                    <div class="row justify-content-center">
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-aws fa-3x mb-3" style="color: #ff9900;"></i>
-                                <h5>AWS</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-cloud fa-3x mb-3" style="color: #4285f4;"></i>
-                                <h5>Google Cloud</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-microsoft fa-3x mb-3" style="color: #00a4ef;"></i>
-                                <h5>Microsoft Azure</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-docker fa-3x mb-3" style="color: #2496ed;"></i>
-                                <h5>Docker</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-cube fa-3x mb-3" style="color: #326ce5;"></i>
-                                <h5>Kubernetes</h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="tab-pane fade" id="integrations" role="tabpanel">
-                    <div class="row justify-content-center">
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-code fa-3x mb-3" style="color: #ff6b6b;"></i>
-                                <h5>REST</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-project-diagram fa-3x mb-3" style="color: #e10098;"></i>
-                                <h5>GraphQL</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-credit-card fa-3x mb-3" style="color: #635bff;"></i>
-                                <h5>Payment Gateways</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-building fa-3x mb-3" style="color: #00a1f1;"></i>
-                                <h5>CRM & ERP Systems</h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="tab-pane fade" id="analytics" role="tabpanel">
-                    <div class="row justify-content-center">
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-vial fa-3x mb-3" style="color: #43b02a;"></i>
-                                <h5>Selenium</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-mobile-alt fa-3x mb-3" style="color: #5c6bc0;"></i>
-                                <h5>Appium</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-tachometer-alt fa-3x mb-3" style="color: #d22128;"></i>
-                                <h5>JMeter</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fab fa-google fa-3x mb-3" style="color: #f4b400;"></i>
-                                <h5>Google Analytics</h5>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-4 col-lg-2">
-                            <div class="tech-stack-item">
-                                <i class="fas fa-exclamation-triangle fa-3x mb-3" style="color: #ff6f00;"></i>
-                                <h5>Firebase Crashlytics</h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="default-padding bg-white">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center">
-                        <h5 class="sub-title">INDUSTRIES WE SERVE IN THE UK</h5>
-                        <h2 class="title">We Build Solutions for Every Industry</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="industry-carousel-wrapper">
-                <div class="swiper industry-carousel">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <div class="industry-card">
-                                <div class="industry-bg" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'); background-size: cover; background-position: center;"></div>
-                                <div class="industry-overlay">
-                                    <i class="fas fa-truck"></i>
-                                    <span>Logistics & Supply Chain</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="industry-card">
-                                <div class="industry-bg" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80'); background-size: cover; background-position: center;"></div>
-                                <div class="industry-overlay">
-                                    <i class="fas fa-laptop-code"></i>
-                                    <span>Technology & SaaS</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="industry-card">
-                                <div class="industry-bg" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80'); background-size: cover; background-position: center;"></div>
-                                <div class="industry-overlay">
-                                    <i class="fas fa-heartbeat"></i>
-                                    <span>Healthcare & Medical</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="industry-card">
-                                <div class="industry-bg" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'); background-size: cover; background-position: center;"></div>
-                                <div class="industry-overlay">
-                                    <i class="fas fa-graduation-cap"></i>
-                                    <span>Education & eLearning</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="industry-card">
-                                <div class="industry-bg" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80'); background-size: cover; background-position: center;"></div>
-                                <div class="industry-overlay">
-                                    <i class="fas fa-industry"></i>
-                                    <span>Manufacturing</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="industry-card">
-                                <div class="industry-bg" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&q=80'); background-size: cover; background-position: center;"></div>
-                                <div class="industry-overlay">
-                                    <i class="fas fa-briefcase"></i>
-                                    <span>Professional Services</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="industry-nav">
-                    <div class="industry-nav-prev"><i class="fas fa-chevron-left"></i></div>
-                    <div class="industry-nav-next"><i class="fas fa-chevron-right"></i></div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="default-padding bg-white">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center">
-                        <h5 class="sub-title">DIGITAL SERVICES ACROSS MAJOR UK CITIES</h5>
-                        <h2 class="title">We Serve Businesses Nationwide</h2>
-                        <p class="mt-30">We provide professional digital services across the UK, including:</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row mt-40">
-                <div class="col-lg-3 col-md-6 mb-30">
-                    <div class="why-choose-card">
-                        <div class="icon-wrapper"><i class="fas fa-city"></i></div>
-                        <h4>London</h4>
-                        <p>Digital services for businesses in London</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 mb-30">
-                    <div class="why-choose-card">
-                        <div class="icon-wrapper"><i class="fas fa-city"></i></div>
-                        <h4>Manchester</h4>
-                        <p>Digital services for businesses in Manchester</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 mb-30">
-                    <div class="why-choose-card">
-                        <div class="icon-wrapper"><i class="fas fa-city"></i></div>
-                        <h4>Birmingham</h4>
-                        <p>Digital services for businesses in Birmingham</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 mb-30">
-                    <div class="why-choose-card">
-                        <div class="icon-wrapper"><i class="fas fa-city"></i></div>
-                        <h4>Leeds</h4>
-                        <p>Digital services for businesses in Leeds</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row mt-30">
-                <div class="col-lg-10 offset-lg-1">
-                    <p class="text-center">Our delivery model supports businesses nationwide with remote-first execution and local market understanding.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="default-padding bg-gray">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center">
-                        <h5 class="sub-title">WHY ITD GROWTHLABS IS A LEADING DIGITAL COMPANY IN THE UK</h5>
-                        <h2 class="title">Your Trusted Digital Partner</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row mt-40">
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="why-choose-card">
-                        <div class="icon-wrapper"><i class="fas fa-users"></i></div>
-                        <h4>Experienced Cross-Functional Team</h4>
-                        <p>Our team brings years of experience delivering digital solutions for businesses worldwide.</p>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="why-choose-card">
-                        <div class="icon-wrapper"><i class="fas fa-tasks"></i></div>
-                        <h4>Proven Delivery Frameworks</h4>
-                        <p>Structured processes and methodologies that ensure successful project delivery.</p>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="why-choose-card">
-                        <div class="icon-wrapper"><i class="fas fa-comments"></i></div>
-                        <h4>Transparent Communication</h4>
-                        <p>Regular updates, clear reporting, and open communication throughout the project.</p>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="why-choose-card">
-                        <div class="icon-wrapper"><i class="fas fa-handshake"></i></div>
-                        <h4>Flexible Engagement Models</h4>
-                        <p>Tailored engagement options to fit your business needs and budget.</p>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                    <div class="why-choose-card">
-                        <div class="icon-wrapper"><i class="fas fa-heart"></i></div>
-                        <h4>Long-Term Partnership Mindset</h4>
-                        <p>We focus on building lasting relationships, not just completing projects.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="default-padding bg-gradient shadow dark" style="background: url(../assets/img/homepage1.png) center / cover no-repeat fixed !important;">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center text-light mt-0 mb-0">
-                        <h2 class="title text-white mb-30">Ready to Scale Your Business in the UK?</h2>
-                        <p class="text-white">Partner with a top digital services company in the UK that delivers results, not just promises.</p>
-                        <div class="button mt-40">
-                            <a class="btn btn-theme btn-md animation" href="../contact-us.php" target="_blank">Get a Free Consultation</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="knowledge-hub-area overflow-hidden default-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center">
-                        <h5 class="sub-title">FAQ – DIGITAL SERVICES IN THE UK</h5>
-                        <h2 class="title">Frequently Asked Questions</h2>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="faq-style-one">
-                        <div class="accordion" id="faqAccordion">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingOne">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                        Do you work with UK businesses remotely?
-                                    </button>
-                                </h2>
-                                <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        Yes, we support UK clients remotely with structured communication and delivery processes.
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingTwo">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        Do you offer SEO and digital marketing in the UK?
-                                    </button>
-                                </h2>
-                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        Yes, we provide UK-focused SEO, paid ads, and digital marketing services.
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingThree">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Can you handle end-to-end projects?
-                                    </button>
-                                </h2>
-                                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        Absolutely—from strategy to development to marketing.
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="headingFour">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        Which UK cities do you serve?
-                                    </button>
-                                </h2>
-                                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        We serve businesses across London, Manchester, Birmingham, Leeds, and other regions.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-<?php include(__DIR__ . "/../includes/engagement-tools.php"); ?>
+    </section>
 
-<footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
+    <!-- ============================================================
+         INDUSTRIES — top 6 verticals
+         ============================================================ -->
+    <section class="md-sec alt">
         <div class="container">
-            <div class="f-items default-padding-bottom pt-70 pt-xs-0">
-                <div class="row">
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Core Tech Services</h4>
-                            <ul>
-                                <li><a href="../services/website-development-company.php" target="_blank">Website Design & Development</a></li>
-                                <li><a href="../services/Template-Based-Website-Development.php" target="_blank">Template-Based Website Development</a></li>
-                                <li><a href="../services/WordPress-Website-Development.php" target="_blank">WordPress Website Development</a></li>
-                                <li><a href="../services/Custom-Website-Development.php" target="_blank">Custom Website Development</a></li>
-                                <li><a href="../services/E-commerce-Website-Development.php" target="_blank">E-commerce Website Development</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">End-to-End Services</h4>
-                            <ul>
-                                <li><a href="../services/website-development-company.php" target="_blank">Website Design & Development</a></li>
-                                <li><a href="../services/content-marketing-services.php" target="_blank">Content Marketing Services</a></li>
-                                <li><a href="../services/seo-auditing-services.php" target="_blank">SEO Audit and Optimization</a></li>
-                                <li><a href="../services/social-media-marketing.php" target="_blank">Social Media Marketing</a></li>
-                                <li><a href="../services/google-search-ads-services.php" target="_blank">Google Search Ads</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">More Tech Solutions</h4>
-                            <ul>
-                                <li><a href="../services/App-Development.php" target="_blank">App Development</a></li>
-                                <li><a href="../services/IT-Outsourcing-Services.php" target="_blank">IT Outsourcing Services</a></li>
-                                <li><a href="../services/IT-Team-Outsourcing.php" target="_blank">IT Team Outsourcing</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">SEO &amp; Content Writing</h4>
-                            <ul>
-                                <li><a href="../services/website-content-writing.php" target="_blank">Website Content Writing</a></li>
-                                <li><a href="../services/seo-article-writing.php" target="_blank">SEO Article Writing</a></li>
-                                <li><a href="../services/blog-writing-services.php" target="_blank">Blog Writing</a></li>
-                                <li><a href="../services/case-study-writing-services.php" target="_blank">Case Study Writing</a></li>
-                                <li><a href="../services/product-description-writing-services.php" target="_blank">Product Description</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Specialized Content Services</h4>
-                            <ul>
-                                <li><a href="../services/content_writing_strategy.php" target="_blank">Content Writing & Strategy</a></li>
-                                <li><a href="../services/technical-writing-services.php" target="_blank">Technical Writing Services</a></li>
-                                <li><a href="../services/White-Papers-Case-Studies.php" target="_blank">White Papers & Case Studies</a></li>
-                                <li><a href="../services/Content-Team-Outsourcing.php" target="_blank">Content Team Outsourcing</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Industries We Serve</h4>
-                            <ul>
-                                <li><a href="../services/logistics-content-marketing.php" target="_blank">Logistics</a></li>
-                                <li><a href="../services/Industries-We-Serve-Manufacturing.php" target="_blank">Manufacturing</a></li>
-                                <li><a href="../services/Industries-We-Serve-Technology.php" target="_blank">Technology</a></li>
-                                <li><a href="../services/ecommerce-content-services.php" target="_blank">E-commerce</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Content Services</h4>
-                            <ul>
-                                <li><a href="../services/website-content-writing.php">Website Content Writing</a></li>
-                                <li><a href="../services/seo-article-writing.php">SEO Article Writing</a></li>
-                                <li><a href="../services/blog-writing-services.php">Blog Writing</a></li>
-                                <li><a href="../services/case-study-writing-services.php">Case Study Writing</a></li>
-                                <li><a href="../services/product-description-writing-services.php">Product Description</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">End-to-End Services</h4>
-                            <ul>
-                                <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
-                                <li><a href="../services/content-marketing-services.php">Content Marketing Services</a></li>
-                                <li><a href="../services/seo-auditing-services.php">SEO Audit and Optimization</a></li>
-                                <li><a href="../services/social-media-marketing.php">Social Media Marketing</a></li>
-                                <li><a href="../services/google-search-ads-services.php">Google Search Ads</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Custom Solutions</h4>
-                            <ul>
-                                <li><a href="../services/Custom-eLearning-Development.php" target="_blank" style="text-transform: none;">Custom eLearning Development</a></li>
-                                <li><a href="../services/Powerpoint-to-eLearning-Conversion.php" target="_blank" style="text-transform: none;">PowerPoint to eLearning Conversion</a></li>
-                                <li><a href="../services/Mobile-Learn-Microlearning.php" target="_blank">Mobile Learning / Microlearning</a></li>
-                                <li><a href="../services/Gamified-Learning-Modules.php" target="_blank">Gamified Learning Modules</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Use Cases</h4>
-                            <ul>
-                                <li><a href="../services/Employee-Onboarding.php" target="_blank">Employee Onboarding</a></li>
-                                <li><a href="../services/Talent-Development.php" target="_blank">Talent Development</a></li>
-                                <li><a href="../services/Compliance-Training.php" target="_blank">Compliance Training</a></li>
-                                <li><a href="../services/Sales-Enablement.php" target="_blank">Sales Enablement</a></li>
-                                <li><a href="../services/Customer-Education.php" target="_blank">Customer Education</a></li>
-                                <li><a href="../services/Partner-Enablement.php" target="_blank">Partner Enablement</a></li>
-                                <li><a href="../services/Frontline-Workforce-Training.php" target="_blank">Frontline Workforce Training</a></li>
-                                <li><a href="../services/Member-Training.php" target="_blank">Member Training</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Industries We Serve</h4>
-                            <ul>
-                                <li><a href="../industries/information_tech.php">IT &amp; Technology</a></li>
-                                <li><a href="../industries/finance.php">Finance &amp; FinTech</a></li>
-                                <li><a href="../industries/manufacturing.php">Manufacturing</a></li>
-                                <li><a href="../industries/healthcare.php">Healthcare</a></li>
-                                <li><a href="../industries/ecommerce.php">E-Commerce &amp; D2C</a></li>
-                                <li><a href="../industries/education.php">Education &amp; E-Learning</a></li>
-                                <li><a href="../industries/realestate.php">Real Estate</a></li>
-                                <li><a href="../industries/logistics.php">Logistics &amp; Supply Chain</a></li>
-                                <li><a href="../industries/professional_services.php">Professional Services</a></li>
-                                <li><a href="../industries/startups.php">Startups</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Video Services</h4>
-                            <ul>
-                                <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
-                                <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
-                                <li><a href="../services/Video-Ads.php">Video Ads</a></li>
-                                <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
-                                <li><a href="../services/Repurpose-Videos.php">Repurpose Videos</a></li>
-                                <li><a href="../services/Video-Editing.php">Video Editing</a></li>
-                                <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
-                                <li><a href="../services/Onboarding-Videos.php">Onboarding Videos</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                        <h4 class="widget-title">WhatsApp Marketing</h4>
-                        <ul>
-                            <li><a href="../whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
-                            <li><a href="../whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
-                            <li><a href="../whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
-                            <li><a href="../whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
-                            <li><a href="../whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flow</a></li>
-                        </ul>
-                    </div>
-
-                    <div class="f-item link mt-5">
-                        <h4 class="widget-title">UAE Digital Services</h4>
-                        <ul>
-                            <li><a href="../uae/website-design-development.php">Website Design & Development</a></li>
-                            <li><a href="../uae/web-application-development.php">Web Application Development</a></li>
-                            <li><a href="../uae/mobile-app-development.php">Mobile App Development</a></li>
-                            <li><a href="../uae/digital-marketing-services.php">Digital Marketing Services</a></li>
-                        </ul>
-                    </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                        <h4 class="widget-title">Data Services</h4>
-                        <ul>
-                            <li><a href="../data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
-                            <li><a href="../data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
-                            <li><a href="../data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
-                            <li><a href="../data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
-                            <li><a href="../data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
-                        </ul>
-                    </div>
-
-
-                    <div class="f-item link mt-5">
-                        <h4 class="widget-title">Africa Digital Services</h4>
-                        <ul>
-                            <li><a href="../africa/website-design-development.php">Website Design & Development</a></li>
-                            <li><a href="../africa/web-application-development.php">Web Application Development</a></li>
-                            <li><a href="../africa/mobile-app-development.php">Mobile App Development</a></li>
-                            <li><a href="../africa/digital-marketing-services.php">Digital Marketing Services</a></li>
-                        </ul>
-                    </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Data Annotation Services</h4>
-                            <ul>
-                                <li><a href="../data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
-                                <li><a href="../data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
-                                <li><a href="../data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
-                                <li><a href="../data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
-                            </ul>
-                        </div>
-                        <div class="f-item link mt-5">
-                        <h4 class="widget-title">UK Digital Services</h4>
-                        <ul>
-                            <li><a href="../uk/website-design-development.php">Website Design & Development</a></li>
-                            <li><a href="../uk/web-application-development.php">Web Application Development</a></li>
-                            <li><a href="../uk/mobile-app-development.php">Mobile App Development</a></li>
-                            <li><a href="../uk/digital-marketing-services.php">Digital Marketing Services</a></li>
-                        </ul>
-                    </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Resources</h4>
-                            <ul>
-                                <li><a href="../resources/all-blogs.php">Blogs</a></li>
-                                                            <li><a href="../about.php">About Us</a></li>
-                                <li><a href="../contact-us.php">Contact Us</a></li>
-                                <li><a href="../privacy_policy.php">Privacy Policy</a></li>
-                            </ul>
-                        </div>
-                        <br>
-                        <div class="f-item contact">
-                            <h4 class="widget-title">Contact Us</h4>
-                            <p><i class="fa-solid fa-phone"></i> <a href="https://wa.me/918450978544" target="_blank" style="color:#dedede">Phone:+91 8450978544</a></p>
-                            <p><i class="fa fa-envelope"></i> <a href="mailto:info@itdgrowthlabs.com" style="color:#dedede"> Email: info@itdgrowthlabs.com </a></p>
-                            <p><i class="fa fa-globe"> </i> <a href="https://itdgrowthlabs.com/" style="color:#dedede"> Website: www.itdgrowthlabs.com </a></p>
-                            <ul>
-                                <li>Andheri, Mumbai, India</li>
-                            </ul>
-                            <div class="mt-3">
-                                <a href="https://www.linkedin.com/company/itd-growthlabs/" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-linkedin"></i></a>
-                                <a href="https://www.instagram.com/itdgrowthlabs/" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-instagram"></i></a>
-                                <a href="https://www.facebook.com/itdgrowthlabs/" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-facebook"></i></a>
-                                <a href="https://twitter.com/itdgrowthlabs" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-twitter"></i></a>
-                                <a href="https://www.youtube.com/@itdgrowthlabs" target="_blank" style="color:#dedede; font-size: 18px;"><i class="fab fa-youtube"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+            <?php itdgl_render_section_head(
+                'Verticals we know inside out',
+                'Six UK-relevant industries with <span class="accent">deep delivery experience</span>.',
+                'We&rsquo;ve shipped production work in these verticals for UK-based and UK-serving companies. Each click takes you to the deeper industry page with case studies and the engineers who lead that track.'
+            ); ?>
+            <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:18px;">
+                <?php foreach ([
+                    ['url'=>'/industries/logistics.php',  'icon'=>'fas fa-truck',          'title'=>'Logistics &amp; Supply Chain', 'desc'=>'TMS, multi-carrier dispatch, last-mile, 3PL portals. 50M+ shipments processed on our stack across 14+ hubs.'],
+                    ['url'=>'/industries/saas.php',      'icon'=>'fas fa-server',         'title'=>'B2B SaaS', 'desc'=>'Multi-tenant SaaS platforms with Stripe billing, RBAC, audit trails, Cyber Essentials ready. 12 SaaS products shipped.'],
+                    ['url'=>'/industries/fintech.php',   'icon'=>'fas fa-coins',          'title'=>''title'=>'FinTech, Lending &amp; PayTech'', 'desc'=>'NBFC, loan origination, KYC/AML, payments, dashboards. Multi-state lender platforms live.'],
+                    ['url'=>'/industries/ecommerce.php', 'icon'=>'fas fa-bag-shopping',   'title'=>'E-commerce &amp; D2C', 'desc'=>'Shopify, WooCommerce, headless storefronts (Next.js + Hydrogen / Medusa), marketplaces. 100+ D2C brands.'],
+                    ['url'=>'/industries/healthcare.php','icon'=>'fas fa-hospital',       'title'=>'Healthcare &amp; HealthTech', 'desc'=>'HIPAA-ready patient apps, clinic management, diagnostic chains, telehealth platforms.'],
+                    ['url'=>'/industries/real-estate.php','icon'=>'fas fa-house-chimney', 'title'=>'PropTech &amp; Real Estate', 'desc'=>'Broker CRMs, MLS integrations, property management portals, lead-gen funnels for developers.'],
+                ] as $ind): ?>
+                <a href="<?php echo $ind['url']; ?>" style="background:#fff;border:1px solid var(--md-border);border-radius:14px;padding:24px 22px;text-decoration:none;color:var(--md-heading);display:block;transition:transform .25s,border-color .25s,box-shadow .25s;" onmouseover="this.style.transform='translateY(-3px)';this.style.borderColor='var(--md-primary)';this.style.boxShadow='var(--md-card-shadow)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
+                    <div style="width:44px;height:44px;border-radius:10px;background:rgba(30,64,175,0.08);color:var(--md-primary);display:flex;align-items:center;justify-content:center;font-size:18px;margin-bottom:12px;"><i class="<?php echo $ind['icon']; ?>"></i></div>
+                    <h4 style="font-size:16px;font-weight:700;margin:0 0 8px;color:var(--md-heading);line-height:1.3;"><?php echo $ind['title']; ?></h4>
+                    <p style="font-size:13.5px;line-height:1.6;color:var(--md-body);margin:0;"><?php echo $ind['desc']; ?></p>
+                </a>
+                <?php endforeach; ?>
             </div>
         </div>
-        <div class="footer-bottom bg-dark text-light text-center">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <p>Copyright &copy; 2026 ITD GrowthLabs All Rights Reserved</p>
+    </section>
+
+    <!-- ============================================================
+         HOW WE WORK — practical concerns answered
+         ============================================================ -->
+    <section class="md-sec">
+        <div class="container">
+            <?php itdgl_render_section_head(
+                'How we work with UK clients',
+                'Six practical things <span class="accent">that actually matter</span> when you hire an India studio from the UK.',
+                'These are the questions every UK buyer asks on the discovery call. We answer them up front so you don&rsquo;t have to.'
+            ); ?>
+            <?php itdgl_render_outcome_grid([
+                ['icon'=>'fas fa-clock', 'title'=>'GMT timezone overlap', 'desc'=>'4&ndash;6 hours of overlap with GMT (9 am&ndash;5 pm UK). Daily standups, sprint reviews and Slack/Teams happen in your business hours. The dev team works while you sleep &mdash; faster cadence, not friction.'],
+                ['icon'=>'fas fa-file-contract', 'title'=>'GBP fixed-quote contracts', 'desc'=>'Written scope, milestone-based payments in GBP via Faster Payments (preferred) or CHAPS. Invoiced without VAT under HMRC B2B export rules &mdash; your accountant handles reverse-charge. NET-15 terms available.'],
+                ['icon'=>'fas fa-code-branch', 'title'=>'100% source-code ownership', 'desc'=>'Work-for-hire delivery. Full source, schema, design assets and CI/CD config transferred to your private GitHub / Bitbucket on milestone delivery. Self-host, switch vendors, or licence onward at any time.'],
+                ['icon'=>'fas fa-shield-halved', 'title'=>'UK GDPR + Cyber Essentials ready', 'desc'=>'UK GDPR + Data Protection Act 2018 + PECR + ICO registration guidance built into every user-facing build. Cyber Essentials + Cyber Essentials Plus readiness as an add-on track &mdash; secure configuration, access control, malware protection, patch management, firewalls.'],
+                ['icon'=>'fas fa-comments', 'title'=>'Slack / Teams in your channel', 'desc'=>'Real-time async in your tool of choice. Daily commits visible in GitHub. Weekly demos on Zoom in your timezone. Staging URL from week one. You never have to ask &ldquo;how is it going?&rdquo;'],
+                ['icon'=>'fas fa-handshake', 'title'=>'AMC + Phase-2 roadmap', 'desc'=>'Most UK engagements continue past launch into 12-month AMC retainers (15&ndash;20% of build cost annually) for bug fixes, feature roadmap and Cyber Essentials audit support. We stay on the relationship because that&rsquo;s where 97% retention is built.'],
+            ]); ?>
+        </div>
+    </section>
+
+    <!-- ============================================================
+         COUNTRY-RELEVANT CASE STUDIES
+         ============================================================ -->
+    <section class="md-sec alt">
+        <div class="container">
+            <?php itdgl_render_section_head(
+                'Recent UK-relevant builds',
+                'Real production work, <span class="accent">real metrics</span>.',
+                'A slice of recent engagements relevant to UK-based and UK-serving clients. Click for the full case study &mdash; problem, stack, metrics, lessons.'
+            ); ?>
+            <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:18px;">
+                <?php foreach ([
+                    ['/case-studies/smart-logistics-saas-platform.php', 'fas fa-network-wired', 'Logistics SaaS', 'Multi-Carrier Logistics SaaS Platform', '50,000+ monthly shipments &middot; 15+ carriers &middot; ~20% cost savings'],
+                    ['/case-studies/nbfc-loan-origination-dashboard-fintech.php', 'fas fa-coins', 'FinTech', 'NBFC Loan Origination &amp; Dashboard', 'Borrower app &middot; LMS &middot; Collection ops &middot; Regulatory MIS'],
+                    ['/case-studies/courier-management-system.php', 'fas fa-truck', 'Logistics', 'Courier Management System &mdash; 14 hubs, 35 staff', '70% less manual entry &middot; 4&times; faster end-of-day close'],
+                    ['/case-studies/multi-vendor-marketplace-app-food-grocery.php', 'fas fa-store', 'Marketplace', 'Multi-Vendor Marketplace &mdash; Food &amp; Grocery', '4-app suite &middot; Vendor onboarding &middot; Real-time tracking'],
+                ] as $cs): ?>
+                <a href="<?php echo $cs[0]; ?>" style="background:#fff;border:1px solid var(--md-border);border-radius:14px;padding:26px 28px;text-decoration:none;color:var(--md-heading);display:block;transition:transform .25s,border-color .25s,box-shadow .25s;" onmouseover="this.style.transform='translateY(-4px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow-h)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
+                    <div style="display:flex;align-items:center;gap:10px;margin-bottom:14px;">
+                        <div style="width:38px;height:38px;border-radius:10px;background:linear-gradient(135deg,#fff3e6,#ffe2c4);color:var(--md-orange-dark);display:flex;align-items:center;justify-content:center;font-size:15px;"><i class="<?php echo $cs[1]; ?>"></i></div>
+                        <span style="display:inline-block;font-size:10px;letter-spacing:1.2px;text-transform:uppercase;color:var(--md-orange);font-weight:800;background:rgba(255,107,0,0.10);padding:3px 9px;border-radius:12px;"><?php echo $cs[2]; ?></span>
                     </div>
-                </div>
+                    <h4 style="font-size:17px;font-weight:700;color:var(--md-heading);margin:0 0 10px;line-height:1.35;"><?php echo $cs[3]; ?></h4>
+                    <p style="font-size:13.5px;color:var(--md-muted);margin:0 0 14px;line-height:1.55;"><?php echo $cs[4]; ?></p>
+                    <span style="font-size:13.5px;color:var(--md-primary);font-weight:700;">Read the case study &rarr;</span>
+                </a>
+                <?php endforeach; ?>
+            </div>
+            <div style="text-align:center;margin-top:30px;">
+                <a href="/case-studies.php" style="display:inline-flex;align-items:center;gap:8px;font-weight:700;color:var(--md-primary);text-decoration:none;font-size:15px;">
+                    <i class="fas fa-folder-open"></i> See all 16 case studies &rarr;
+                </a>
             </div>
         </div>
-    </footer>
-    <script src="../assets/js/jquery-3.6.0.min.js"></script>
-    <script src="../assets/js/bootstrap.bundle.min.js"></script>
-    <script src="../assets/js/jquery.appear.js"></script>
-    <script src="../assets/js/jquery.easing.min.js"></script>
-    <script src="../assets/js/jquery.magnific-popup.min.js"></script>
-    <script src="../assets/js/modernizr.custom.13711.js"></script>
-    <script src="../assets/js/swiper-bundle.min.js"></script>
-    <script src="../assets/js/wow.min.js"></script>
-    <script src="../assets/js/progress-bar.min.js"></script>
-    <script src="../assets/js/circle-progress.js"></script>
-    <script src="../assets/js/isotope.pkgd.min.js"></script>
-    <script src="../assets/js/imagesloaded.pkgd.min.js"></script>
-    <!-- <script src="../assets/js/jquery.nice-select.min.js"></script> -->
-    <script src="../assets/js/count-to.js"></script>
-    <script src="../assets/js/jquery.scrolla.min.js"></script>
-    <script src="../assets/js/YTPlayer.min.js"></script>
-    <script src="../assets/js/TweenMax.min.js"></script>
-    <script src="../assets/js/validnavs.js"></script>
-    <script src="../assets/js/main.js"></script>
-<script type="text/javascript">
-        window.onload = function() {
-            Calendly.initBadgeWidget({
-                url: 'contact-us.php',
-                text: 'Schedule time with me',
-                color: '#0069ff',
-                textColor: '#ffffff'
-            });
-        }
-    </script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
-    <script src="../assets/js/custom.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            const industryCarousel = new Swiper('.industry-carousel', {
-                slidesPerView: 1,
-                spaceBetween: 20,
-                loop: true,
-                autoplay: {
-                    delay: 3000,
-                    disableOnInteraction: false
-                },
-                navigation: {
-                    nextEl: '.industry-nav-next',
-                    prevEl: '.industry-nav-prev'
-                },
-                breakpoints: {
-                    576: {
-                        slidesPerView: 2,
-                        spaceBetween: 20
-                    },
-                    768: {
-                        slidesPerView: 3,
-                        spaceBetween: 25
-                    },
-                    992: {
-                        slidesPerView: 4,
-                        spaceBetween: 30
-                    }
-                }
-            });
-        });
-    </script>
-    <script>
-        (function() {
-            function animateCounter(el, to, speed) {
-                let curr = 0,
-                    inc = to / (speed / 20);
-                if (el._animId) cancelAnimationFrame(el._animId);
-                (function update() {
-                    curr += inc;
-                    if (curr >= to) {
-                        el.textContent = to;
-                        el._animId = null;
-                    } else {
-                        el.textContent = Math.floor(curr);
-                        el._animId = requestAnimationFrame(update);
-                    }
-                })();
-            }
-            let lastInView = false;
+    </section>
 
-            function setCounters(visible) {
-                document.querySelectorAll('#our-track-record-section .timer').forEach(el => {
-                    if (el._animId) cancelAnimationFrame(el._animId);
-                    el.textContent = '0';
-                    if (visible) {
-                        animateCounter(el, +el.dataset.to, +el.dataset.speed || 2000);
-                    }
-                });
-            }
-            const section = document.getElementById('our-track-record-section');
-            if ('IntersectionObserver' in window) {
-                new IntersectionObserver(entries => {
-                    entries.forEach(entry => {
-                        if (entry.target.id === "our-track-record-section") {
-                            if (entry.isIntersecting !== lastInView) {
-                                setCounters(entry.isIntersecting);
-                                lastInView = entry.isIntersecting;
-                            }
-                        }
-                    });
-                }, {
-                    threshold: 0.4
-                }).observe(section);
-            } else {
-                function inViewport(el) {
-                    const r = el.getBoundingClientRect();
-                    return r.top < window.innerHeight * 0.6 && r.bottom > window.innerHeight * 0.2;
-                }
+    <!-- ============================================================
+         DEEP-DIVE GUIDES — useful BOFU reading
+         ============================================================ -->
+    <section class="md-sec alt-warm">
+        <div class="container">
+            <?php itdgl_render_section_head(
+                'Reading for serious UK buyers',
+                'Honest cost &amp; comparison <span class="accent">deep dives</span>.',
+                'In-depth guides we published for buyers researching cost, vendor selection and build-vs-buy trade-offs. Citation-quality content for AI search.'
+            ); ?>
+            <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:18px;">
+                <?php foreach ([
+                    ['/resources/App_Development_Cost_USA_vs_India_2026_Honest_Comparison.php', 'App Development Cost &mdash; UK vs India 2026', 'Cost'],
+                    ['/resources/Custom_SaaS_Development_Cost_India_2026_Multi_Tenant_Stack_Pricing.php', 'Custom SaaS Development Cost &amp; Stack', 'Cost'],
+                    ['/resources/Custom_Web_Application_Development_for_SaaS_Startups_2026_Stack_Cost_Timeline.php', 'Custom Web App for SaaS Startups', 'Stack'],
+                    ['/resources/Logistics_App_Development_Cost_India_2026_TMS_Fleet_LastMile.php', 'Logistics App Cost &mdash; TMS, Fleet, Last-Mile', 'Cost'],
+                    ['/resources/Multi_Vendor_Marketplace_App_Development_2026_Food_vs_Grocery_vs_Pharmacy_vs_Hyperlocal.php', 'Multi-Vendor Marketplace &mdash; Verticals', 'Cost'],
+                    ['/resources/Shiprocket_vs_Shipway_vs_Custom_Courier_Software_2026_Comparison.php', 'Shiprocket vs Shipway vs Custom Courier', 'Compare'],
+                ] as $r): ?>
+                <a href="<?php echo $r[0]; ?>" style="background:#fff;border:1px solid var(--md-border);border-radius:12px;padding:18px 20px;text-decoration:none;color:var(--md-heading);display:flex;align-items:center;gap:14px;transition:transform .2s,border-color .2s,box-shadow .2s;" onmouseover="this.style.transform='translateX(4px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
+                    <div style="flex:0 0 42px;width:42px;height:42px;border-radius:10px;background:linear-gradient(135deg,#fff3e6,#ffe2c4);color:var(--md-orange-dark);display:flex;align-items:center;justify-content:center;font-size:16px;"><i class="fas fa-book-open"></i></div>
+                    <div style="flex:1;">
+                        <span style="display:inline-block;font-size:9.5px;letter-spacing:1.2px;text-transform:uppercase;color:var(--md-orange);font-weight:800;background:rgba(255,107,0,0.10);padding:2px 7px;border-radius:10px;margin-bottom:4px;"><?php echo $r[2]; ?></span>
+                        <div style="font-size:13.5px;font-weight:700;line-height:1.35;color:var(--md-heading);"><?php echo $r[1]; ?></div>
+                    </div>
+                </a>
+                <?php endforeach; ?>
+            </div>
+        </div>
+    </section>
 
-                function check() {
-                    if (section) {
-                        const v = inViewport(section);
-                        if (v !== lastInView) {
-                            setCounters(v);
-                            lastInView = v;
-                        }
-                    }
-                }
-                window.addEventListener('scroll', () => requestAnimationFrame(check));
-                document.addEventListener('DOMContentLoaded', check);
-            }
-        })();
-    </script>
+    <!-- ============================================================
+         FAQ — country-specific concerns
+         ============================================================ -->
+    <section class="md-sec">
+        <div class="container">
+            <?php itdgl_render_section_head(
+                'UK-specific FAQ',
+                '<span class="accent">Real questions</span> from UK discovery calls.',
+                'If yours isn&rsquo;t covered, book a 30-minute call below and we&rsquo;ll answer it directly.'
+            ); ?>
+            <?php itdgl_render_faq_accordion([
+                'Why hire an India studio instead of a UK-based agency?' =>
+                  'Senior India studios deliver the same engineering quality as UK agencies at <strong>35&ndash;60% lower cost</strong>, with timezone overlap of 4&ndash;6 hours (GMT) for daily standups, sprint reviews and Slack/Teams in your business hours. The dev team works while you sleep &mdash; net-net, a faster shipping cadence. We&rsquo;ve shipped engagements with UK clients running this model for years.',
 
+                'How does GBP pricing work?' =>
+                  'All UK engagements are written in GBP as fixed-quote contracts. Indicative 2026 ranges: Website MVP <strong>&pound;1.4K&ndash;&pound;4.8K</strong>; Mobile App MVP <strong>&pound;5.5K&ndash;&pound;11K</strong>; Custom Web App MVP <strong>&pound;11K&ndash;&pound;23K</strong>; SaaS MVP <strong>&pound;13K&ndash;&pound;26K</strong>; Growth-tier engagements <strong>&pound;27K&ndash;&pound;72K</strong>; Enterprise SaaS <strong>&pound;95K+</strong>. Marketing retainers <strong>&pound;480&ndash;&pound;3,000 / month</strong>. Quote within 48 hours of a 30-minute discovery call. See our deep-dive guide: <a href="/resources/App_Development_Cost_USA_vs_India_2026_Honest_Comparison.php">App Development Cost &mdash; UK vs India 2026</a>.',
+
+                'Who owns the source code and IP?' =>
+                  'You do &mdash; 100%. Every engagement is delivered as work-for-hire with full source code, database schema, design assets (Figma + raw files), and CI/CD configuration transferred to your private GitHub or Bitbucket on milestone delivery. No vendor lock-in, no holding code hostage, no surprise ownership clauses. This is written into every SOW.',
+
+                'How do UK payments and VAT work?' =>
+                  '<strong>GBP bank transfer</strong> via Faster Payments (preferred for any amount), <strong>CHAPS</strong> for milestone payments above &pound;25K, or <strong>Stripe invoicing</strong> for smaller retainers. We invoice in GBP <strong>without VAT</strong> &mdash; our services qualify as B2B export of services under HMRC rules, which means your business handles reverse-charge VAT on the receiving end. NET-15 or milestone-based terms &mdash; pick what fits your AP cycle.',
+
+                'Are you UK GDPR and Cyber Essentials compliant?' =>
+                  '<strong>UK GDPR + Data Protection Act 2018 + PECR</strong> compliance is the default for any user-facing build &mdash; we handle DPIA template, ROPA, ICO registration guidance, subject-rights tooling, breach-notification workflow. <strong>Cyber Essentials</strong> + <strong>Cyber Essentials Plus</strong> readiness available as an add-on track: secure configuration, access control, malware protection, patch management, firewall posture. We&rsquo;ve walked UK clients through Cyber Essentials audits.',
+
+                'How do contracts and IP transfer work across borders?' =>
+                  'Standard SOW + MSA template ready to sign in DocuSign within 24 hours. <strong>Governing law: English law</strong> (default) with jurisdiction in the English courts, or a neutral arbitration venue (LCIA / SIAC) if preferred. IP assignment is irrevocable on milestone payment. We carry &pound;1.5M public liability + &pound;1M professional indemnity insurance recognised in the UK.',
+
+                'How long does a typical UK engagement take?' =>
+                  'Indicative timelines: Landing page <strong>1&ndash;2 weeks</strong>; Business website <strong>4&ndash;8 weeks</strong>; Custom website <strong>2&ndash;4 months</strong>; Mobile MVP <strong>6&ndash;10 weeks</strong>; Mobile growth-tier (iOS + Android) <strong>3&ndash;4 months</strong>; Web app MVP <strong>10&ndash;16 weeks</strong>; SaaS MVP <strong>3&ndash;4 months</strong>; Growth-tier SaaS <strong>5&ndash;7 months</strong>; Enterprise SaaS <strong>8&ndash;14 months</strong>. We share weekly demos so anything slipping is visible early.',
+
+                'What do you NOT do?' =>
+                  'We don&rsquo;t do staff augmentation, T&amp;M body shops, copy-paste theme work, or "we&rsquo;ll figure it out" SOWs. We don&rsquo;t take on bad-fit work just to fill a sprint. If no-code is the right answer for your scale, we&rsquo;ll say so honestly &mdash; we don&rsquo;t want a contract that ends in regret. That&rsquo;s how we built 97% retention.',
+            ]); ?>
+        </div>
+    </section>
+
+    <!-- ============================================================
+         FINAL CTA — Calendly + WhatsApp
+         ============================================================ -->
+    <?php itdgl_render_final_cta([
+        'head' => 'Ready to talk? <span style="display:block;font-size:18px;font-weight:600;margin-top:8px;color:rgba(255,255,255,0.85);">Free 30-min strategy call with a senior practice lead.</span>',
+        'sub'  => 'No sales pitch. We&rsquo;ll talk through what you&rsquo;re scoping, what we&rsquo;ve seen work for UK clients, and what we&rsquo;d build. If we&rsquo;re not the right partner, we&rsquo;ll say so.',
+        'primary' => ['url'=>'https://calendly.com/itdgrowthlabs-info/30min', 'label'=>'Book a Free 30-min Call', 'icon'=>'fas fa-calendar-check', 'source'=>'uk_final'],
+        'secondary'=>['url'=>'https://wa.me/918450978544?text=Hi%20ITD%20GrowthLabs%2C%20I%27m%20in%20the%20UK%20and%20want%20to%20discuss%20a%20project.', 'label'=>'WhatsApp Us', 'icon'=>'fab fa-whatsapp', 'target'=>'_blank'],
+    ]); ?>
+
+    <?php include(__DIR__ . "/../includes/footer.php"); ?>
+    <?php include(__DIR__ . "/../includes/footer_script.php"); ?>
+    <?php include(__DIR__ . "/../includes/popup_modal.php"); ?>
 </body>
 
 </html>
