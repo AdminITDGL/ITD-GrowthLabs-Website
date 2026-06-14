@@ -112,20 +112,128 @@ img { max-width: 100%; height: auto; }
 }
 </style>
 
-<script>
-// Sticky header shadow on scroll
-(function () {
-    var header = document.querySelector('header');
-    if (!header) return;
-    var ticking = false;
-    function update() {
-        if (window.scrollY > 12) header.classList.add('scrolled');
-        else header.classList.remove('scrolled');
-        ticking = false;
+<!-- Mobile menu reveal CSS (the navbar-toggle button uses legacy Bootstrap 3
+     attributes that Bootstrap 5 doesn't bind. We add an explicit reveal state
+     plus a vanilla-JS toggle below.) -->
+<style>
+@media (max-width: 991px) {
+    /* Hide menu by default on mobile */
+    #navbar-menu { display: none; padding: 0 0 14px; }
+    /* Reveal when toggled */
+    #navbar-menu.is-open { display: block; background: #ffffff; box-shadow: 0 14px 32px rgba(15,23,42,0.10); border-top: 1px solid #eef1f5; }
+    /* Make sure the top-level nav stacks cleanly */
+    #navbar-menu .navbar-nav { display: flex; flex-direction: column; width: 100%; }
+    #navbar-menu .navbar-nav > li { width: 100%; border-bottom: 1px solid #eef1f5; }
+    #navbar-menu .navbar-nav > li:last-child { border-bottom: none; }
+    /* Top-level link styling for mobile */
+    #navbar-menu .navbar-nav > li > a { font-size: 15.5px; font-weight: 600; color: #0f172a !important; }
+    /* Dropdown caret visibility */
+    #navbar-menu .navbar-nav > li.dropdown > a::after {
+        content: '\f078'; font-family: 'Font Awesome 6 Free'; font-weight: 900;
+        font-size: 11px; margin-left: auto; transition: transform .25s ease;
+        color: #94a3b8;
     }
-    window.addEventListener('scroll', function () {
-        if (!ticking) { window.requestAnimationFrame(update); ticking = true; }
-    }, { passive: true });
-    update();
+    #navbar-menu .navbar-nav > li.dropdown.is-open > a::after { transform: rotate(180deg); }
+    /* Dropdown menu reveal — accordion style on mobile */
+    #navbar-menu .dropdown-menu { display: none; position: static; box-shadow: none; padding: 0 0 8px; background: #f8fafc; border: none; }
+    #navbar-menu .dropdown.is-open .dropdown-menu { display: block; }
+    /* Megamenu collapses cleanly on mobile */
+    #navbar-menu .megamenu-content { padding: 0; }
+    #navbar-menu .megamenu-content .row { display: block; margin: 0; }
+}
+</style>
+
+<script>
+(function () {
+    'use strict';
+
+    // ============================================================
+    // 1. Sticky header — adds .scrolled class once page scrolls > 12px
+    // ============================================================
+    var header = document.querySelector('header');
+    if (header) {
+        var ticking = false;
+        function update() {
+            if (window.scrollY > 12) header.classList.add('scrolled');
+            else header.classList.remove('scrolled');
+            ticking = false;
+        }
+        window.addEventListener('scroll', function () {
+            if (!ticking) { window.requestAnimationFrame(update); ticking = true; }
+        }, { passive: true });
+        update();
+    }
+
+    // ============================================================
+    // 2. Mobile hamburger toggle — fires .is-open on #navbar-menu
+    //    (legacy Bootstrap 3 data-toggle attrs don't bind under
+    //    Bootstrap 5 / validnavs, so we drive the toggle ourselves)
+    // ============================================================
+    function initMobileNav() {
+        var toggle = document.querySelector('.navbar-toggle');
+        var menu   = document.getElementById('navbar-menu');
+        if (!toggle || !menu) return;
+
+        toggle.addEventListener('click', function (e) {
+            e.preventDefault();
+            menu.classList.toggle('is-open');
+            toggle.setAttribute('aria-expanded', menu.classList.contains('is-open'));
+        });
+
+        // ============================================================
+        // 3. Mobile dropdown accordion — tap parent toggles its dropdown,
+        //    other open dropdowns close (single-open behaviour).
+        //    Only fires under 992 px so desktop hover behaviour is untouched.
+        // ============================================================
+        menu.querySelectorAll('li.dropdown > a').forEach(function (parent) {
+            parent.addEventListener('click', function (e) {
+                if (window.innerWidth >= 992) return; // desktop = let original handler work
+                var li = parent.parentElement;
+                // Only intercept if this is a dropdown trigger (href="#")
+                if (parent.getAttribute('href') !== '#') return;
+                e.preventDefault();
+                // Close other open dropdowns at the same level
+                var siblings = li.parentElement.querySelectorAll(':scope > li.dropdown.is-open');
+                siblings.forEach(function (s) { if (s !== li) s.classList.remove('is-open'); });
+                li.classList.toggle('is-open');
+            });
+        });
+
+        // ============================================================
+        // 4. Close mobile menu when a real link is tapped (UX)
+        // ============================================================
+        menu.querySelectorAll('a').forEach(function (link) {
+            link.addEventListener('click', function () {
+                if (window.innerWidth >= 992) return;
+                var href = link.getAttribute('href') || '';
+                // Don't close on dropdown openers
+                if (href === '#' || href === '') return;
+                menu.classList.remove('is-open');
+                toggle.setAttribute('aria-expanded', 'false');
+            });
+        });
+
+        // ============================================================
+        // 5. Close menu on resize back to desktop width
+        // ============================================================
+        var resizeTimer;
+        window.addEventListener('resize', function () {
+            clearTimeout(resizeTimer);
+            resizeTimer = setTimeout(function () {
+                if (window.innerWidth >= 992) {
+                    menu.classList.remove('is-open');
+                    menu.querySelectorAll('li.dropdown.is-open').forEach(function (li) {
+                        li.classList.remove('is-open');
+                    });
+                }
+            }, 150);
+        });
+    }
+
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initMobileNav);
+    } else {
+        initMobileNav();
+    }
 })();
 </script>
