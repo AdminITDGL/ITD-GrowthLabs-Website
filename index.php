@@ -132,100 +132,147 @@
     <?php require_once(__DIR__ . "/includes/ui_modern.php"); ?>
 
     <!-- ============================================================
-         HERO — original ITDGL Google-overview layout:
-                vertically stacked, centered, headline + image below
+         HERO — text-first centered layout, bold headline +
+                clear value prop + dynamic service spotlight + 2 CTAs
          ============================================================ -->
     <?php itdgl_render_modern_styles(); ?>
     <style>
-    .h-hero { padding: 100px 0 60px; text-align: center; }
-    .h-hero__inner { position: relative; z-index: 2; max-width: 1080px; margin: 0 auto; }
+    .h-hero { padding: 110px 0 80px; text-align: center; }
+    .h-hero__inner { position: relative; z-index: 2; max-width: 980px; margin: 0 auto; }
+
+    /* Eyebrow chip */
     .h-hero__eyebrow {
         display: inline-flex; align-items: center; gap: 8px;
-        padding: 6px 14px;
+        padding: 7px 16px;
         background: rgba(255,107,0,0.18);
         color: #ffd9b8;
         border: 1px solid rgba(255,107,0,0.40);
         border-radius: 30px;
         font-size: 11.5px; font-weight: 700;
-        letter-spacing: 1.4px; text-transform: uppercase;
-        margin-bottom: 28px;
+        letter-spacing: 1.6px; text-transform: uppercase;
+        margin-bottom: 32px;
     }
-    .h-hero__prefix {
-        font-size: 56px; font-weight: 800; line-height: 1.05;
-        color: rgba(255,255,255,0.92);
-        margin: 0;
+    .h-hero__eyebrow .dot {
+        width: 6px; height: 6px; background: #ffb066; border-radius: 50%;
+        margin: 0 6px;
+        opacity: 0.55;
     }
+
+    /* Headline */
     .h-hero h1 {
-        font-size: 78px; font-weight: 800; line-height: 1.05;
+        font-size: 76px; font-weight: 800; line-height: 1.04;
         color: #fff !important;
-        margin: 6px 0 0;
-        letter-spacing: -1.2px;
+        margin: 0 0 24px;
+        letter-spacing: -1.6px;
+    }
+    .h-hero h1 .gradient {
+        background: linear-gradient(120deg, #60a5fa 0%, #c084fc 50%, #ff9550 100%);
+        -webkit-background-clip: text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+        color: transparent;
+    }
+    .h-hero h1 .rotator-wrap {
+        display: inline-block;
+        position: relative;
+        min-width: 1ch;
     }
     .h-hero__rotator {
         display: inline-block;
-        min-height: 1.1em;
-        transition: opacity .35s ease;
+        transition: opacity .35s ease, transform .35s ease;
     }
     .h-hero__rotator.r-blue   { color: #60a5fa; }
     .h-hero__rotator.r-red    { color: #f87171; }
     .h-hero__rotator.r-yellow { color: #fbbf24; }
     .h-hero__rotator.r-green  { color: #34d399; }
-    .h-hero__static {
-        display: block;
-        font-size: 48px; font-weight: 800; line-height: 1.1;
-        color: #fff;
-        margin-top: 8px;
-        letter-spacing: -0.8px;
-    }
-    .h-hero__static .brand { color: #ffb066; }
+    .h-hero__rotator.r-purple { color: #c084fc; }
 
-    .h-hero__media {
-        position: relative;
-        margin: 44px auto 0;
-        width: 100%;
-        max-width: 720px;
-    }
-    .h-hero__media-frame {
-        position: relative;
-        width: 100%;
-        aspect-ratio: 16 / 10;
-        border-radius: 22px;
-        background: linear-gradient(135deg, rgba(255,255,255,0.06), rgba(255,255,255,0.02));
-        border: 5px solid rgba(255,255,255,0.10);
-        box-shadow: 0 40px 90px rgba(0,0,0,0.55);
-        overflow: hidden;
-    }
-    .h-hero__media-frame img {
-        position: absolute; inset: 0;
-        width: 100%; height: 100%;
-        object-fit: cover;
-        transition: opacity .7s ease;
-        opacity: 0;
-    }
-    .h-hero__media-frame img.active { opacity: 1; }
-    .h-hero__media-glow {
-        position: absolute; left: -60px; right: -60px; top: -40px; bottom: -40px;
-        background:
-            radial-gradient(circle at 20% 30%, rgba(96,165,250,0.30), transparent 50%),
-            radial-gradient(circle at 80% 70%, rgba(255,107,0,0.30), transparent 50%);
-        filter: blur(32px);
-        z-index: 0;
-        opacity: 0.8;
-    }
-
-    .h-hero__desc {
-        font-size: 19px; line-height: 1.7;
+    /* Value prop sub */
+    .h-hero__sub {
+        font-size: 20px; line-height: 1.65;
         color: rgba(255,255,255,0.85);
         max-width: 760px;
-        margin: 40px auto 26px;
+        margin: 0 auto 40px;
+        font-weight: 400;
     }
+    .h-hero__sub strong { color: #fff; font-weight: 600; }
+
+    /* Dynamic service spotlight — 5 service cards, one is "active" at a time, rotates */
+    .h-hero__services {
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        gap: 12px;
+        max-width: 880px;
+        margin: 0 auto 44px;
+    }
+    .h-svc {
+        position: relative;
+        background: rgba(255,255,255,0.04);
+        border: 1px solid rgba(255,255,255,0.10);
+        border-radius: 14px;
+        padding: 22px 14px 18px;
+        text-align: center;
+        transition: all .45s cubic-bezier(0.4, 0, 0.2, 1);
+        opacity: 0.55;
+        transform: translateY(0);
+        text-decoration: none;
+        color: inherit;
+        display: block;
+    }
+    .h-svc__icon {
+        width: 44px; height: 44px;
+        border-radius: 11px;
+        background: linear-gradient(135deg, rgba(255,107,0,0.22), rgba(255,107,0,0.10));
+        color: #ff9550;
+        display: flex; align-items: center; justify-content: center;
+        font-size: 18px;
+        margin: 0 auto 10px;
+        transition: all .45s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    .h-svc__title {
+        display: block;
+        font-size: 13.5px; font-weight: 700;
+        color: rgba(255,255,255,0.85);
+        margin: 0;
+        line-height: 1.3;
+    }
+    .h-svc.active {
+        opacity: 1;
+        transform: translateY(-6px);
+        background: rgba(255,255,255,0.08);
+        border-color: rgba(255,107,0,0.55);
+        box-shadow: 0 16px 40px rgba(0,0,0,0.35), 0 0 0 1px rgba(255,107,0,0.25);
+    }
+    .h-svc.active .h-svc__icon {
+        background: linear-gradient(135deg, #ff6b00, #ef4444);
+        color: #fff;
+        box-shadow: 0 8px 22px rgba(255,107,0,0.45);
+        transform: scale(1.08);
+    }
+    .h-svc.active .h-svc__title {
+        color: #fff;
+    }
+    .h-svc:hover {
+        opacity: 1;
+        transform: translateY(-3px);
+        border-color: rgba(255,255,255,0.25);
+    }
+
+    /* CTAs */
     .h-hero__ctas {
-        display: flex; gap: 14px; flex-wrap: wrap;
-        margin: 0 auto 26px;
+        display: flex; gap: 16px; flex-wrap: wrap;
+        margin: 0 auto 28px;
         justify-content: center;
     }
+    .h-hero__ctas .md-cta-primary,
+    .h-hero__ctas .md-cta-secondary {
+        padding: 17px 32px;
+        font-size: 15.5px;
+    }
+
+    /* Trust pills */
     .h-hero__pills {
-        display: flex; gap: 24px; flex-wrap: wrap;
+        display: flex; gap: 28px; flex-wrap: wrap;
         font-size: 13px; color: rgba(255,255,255,0.72);
         justify-content: center;
     }
@@ -246,52 +293,79 @@
         padding: 28px 0;
         text-align: center;
     }
-    .h-stats__num { display: block; font-size: 32px; font-weight: 800; color: #fff; line-height: 1.05; }
+    .h-stats__num { display: block; font-size: 34px; font-weight: 800; color: #fff; line-height: 1.05; }
     .h-stats__lbl { display: block; font-size: 12.5px; color: rgba(255,255,255,0.72); margin-top: 4px; letter-spacing: 0.3px; }
 
     @media (max-width: 991px) {
-        .h-hero { padding: 80px 0 50px; }
-        .h-hero__prefix { font-size: 40px; }
-        .h-hero h1 { font-size: 56px; }
-        .h-hero__static { font-size: 36px; }
-        .h-hero__media { margin-top: 36px; }
-        .h-hero__desc { font-size: 17px; }
+        .h-hero { padding: 88px 0 60px; }
+        .h-hero h1 { font-size: 56px; letter-spacing: -1px; }
+        .h-hero__sub { font-size: 18px; margin-bottom: 32px; }
+        .h-hero__services { grid-template-columns: repeat(5, 1fr); gap: 8px; max-width: 720px; }
+        .h-svc { padding: 16px 10px 14px; }
+        .h-svc__icon { width: 40px; height: 40px; font-size: 16px; }
+        .h-svc__title { font-size: 12.5px; }
         .h-stats__grid { grid-template-columns: repeat(2, 1fr); gap: 18px; }
     }
-    @media (max-width: 575px) {
-        .h-hero { padding: 56px 0 36px; }
-        .h-hero__prefix { font-size: 28px; }
-        .h-hero h1 { font-size: 38px; }
-        .h-hero__static { font-size: 26px; }
-        .h-hero__media-frame { border-radius: 16px; border-width: 3px; }
-        .h-hero__desc { font-size: 15.5px; margin: 28px auto 22px; }
+    @media (max-width: 640px) {
+        .h-hero { padding: 64px 0 44px; }
+        .h-hero h1 { font-size: 38px; letter-spacing: -0.4px; }
+        .h-hero__sub { font-size: 16px; margin-bottom: 28px; }
+        .h-hero__services { grid-template-columns: repeat(2, 1fr); gap: 10px; max-width: 360px; }
+        .h-svc { padding: 18px 12px 14px; }
         .h-hero__pills { gap: 14px; font-size: 12px; }
         .h-stats__num { font-size: 26px; }
+        .h-hero__ctas .md-cta-primary,
+        .h-hero__ctas .md-cta-secondary {
+            width: 100%; justify-content: center;
+        }
     }
     </style>
 
     <section class="md-hero h-hero">
         <div class="container">
             <div class="h-hero__inner">
-                <span class="h-hero__eyebrow"><span class="pulse"></span>Senior-led India studio &middot; 300+ projects shipped</span>
+                <span class="h-hero__eyebrow">
+                    <span class="pulse"></span>
+                    Senior-led India studio
+                    <span class="dot"></span>
+                    300+ projects shipped
+                    <span class="dot"></span>
+                    6 countries
+                </span>
 
-                <p class="h-hero__prefix">For Businesses.</p>
                 <h1>
-                    <span class="h-hero__rotator r-blue" id="hero-rotator">Web Development</span>
-                    <span class="h-hero__static">Build, Market &amp; Scale with <span class="brand">ITD GrowthLabs</span></span>
+                    Build. Market. Scale.<br>
+                    One team for
+                    <span class="rotator-wrap">
+                        <span class="h-hero__rotator r-blue" id="hero-rotator">websites</span>
+                    </span>.
                 </h1>
 
-                <div class="h-hero__media">
-                    <div class="h-hero__media-glow" aria-hidden="true"></div>
-                    <div class="h-hero__media-frame" role="img" aria-label="Build, Market and Scale with ITD GrowthLabs">
-                        <img class="active" src="/assets/img/banner/Website.webp"   data-key="web"   alt="Web Development">
-                        <img                src="/assets/img/banner/mobile.webp"    data-key="apps"  alt="Custom Applications">
-                        <img                src="/assets/img/banner/Marketing.webp" data-key="mkt"   alt="Data-Driven Marketing">
-                        <img                src="/assets/img/banner/automation.webp" data-key="ai"   alt="AI Automation Systems">
-                    </div>
-                </div>
+                <p class="h-hero__sub">A <strong>senior-led India studio</strong> shipping high-converting websites, custom mobile &amp; web applications, SaaS platforms and result-driven digital marketing &mdash; for <strong>300+ businesses</strong> across India, USA, UK, UAE &amp; Australia.</p>
 
-                <p class="h-hero__desc">We help B2B companies grow with custom <strong>websites</strong>, <strong>mobile &amp; web applications</strong>, <strong>SEO &amp; digital marketing</strong>, and <strong>AI automation</strong> &mdash; serving clients in India, USA, UK, UAE &amp; Australia.</p>
+                <!-- Dynamic service spotlight — 5 cards, one highlights at a time, rotates in sync with headline -->
+                <div class="h-hero__services" id="hero-services">
+                    <a href="/website_development.php" class="h-svc active" data-key="web">
+                        <div class="h-svc__icon"><i class="fas fa-globe"></i></div>
+                        <span class="h-svc__title">Websites</span>
+                    </a>
+                    <a href="/services/App-Development.php" class="h-svc" data-key="mobile">
+                        <div class="h-svc__icon"><i class="fas fa-mobile-screen-button"></i></div>
+                        <span class="h-svc__title">Mobile Apps</span>
+                    </a>
+                    <a href="/services/web_app_development.php" class="h-svc" data-key="webapp">
+                        <div class="h-svc__icon"><i class="fas fa-window-restore"></i></div>
+                        <span class="h-svc__title">Web Apps &amp; SaaS</span>
+                    </a>
+                    <a href="/digital_marketing.php" class="h-svc" data-key="mkt">
+                        <div class="h-svc__icon"><i class="fas fa-bullseye"></i></div>
+                        <span class="h-svc__title">Digital Marketing</span>
+                    </a>
+                    <a href="/ai_automation.php" class="h-svc" data-key="ai">
+                        <div class="h-svc__icon"><i class="fas fa-robot"></i></div>
+                        <span class="h-svc__title">AI Automation</span>
+                    </a>
+                </div>
 
                 <div class="h-hero__ctas">
                     <a href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank" rel="noopener" class="md-cta-primary js-book-call" data-source="home_hero_calendly"><i class="fas fa-calendar-check"></i> Book a Free 30-min Call</a>
@@ -313,28 +387,29 @@
                     <div><span class="h-stats__num">300+</span><span class="h-stats__lbl">Projects delivered</span></div>
                     <div><span class="h-stats__num">55+</span><span class="h-stats__lbl">Senior practitioners</span></div>
                     <div><span class="h-stats__num">97%</span><span class="h-stats__lbl">Client retention</span></div>
-                    <div><span class="h-stats__num">10+</span><span class="h-stats__lbl">Industries served</span></div>
+                    <div><span class="h-stats__num">12+</span><span class="h-stats__lbl">Yrs avg team experience</span></div>
                 </div>
             </div>
         </div>
     </section>
 
     <script>
-    // Hero rotator — headline word + accent colour + supporting image cycle in sync
+    // Hero rotator — headline word + service spotlight cycle in sync
     (function () {
         var items = [
-            { word: 'Web Development',       cls: 'r-blue',   imgKey: 'web' },
-            { word: 'Custom Applications',   cls: 'r-red',    imgKey: 'apps' },
-            { word: 'Data-Driven Marketing', cls: 'r-yellow', imgKey: 'mkt' },
-            { word: 'AI Automation Systems', cls: 'r-green',  imgKey: 'ai' },
+            { word: 'websites',            cls: 'r-blue',   svcKey: 'web' },
+            { word: 'mobile apps',         cls: 'r-red',    svcKey: 'mobile' },
+            { word: 'web apps &amp; SaaS', cls: 'r-purple', svcKey: 'webapp' },
+            { word: 'digital marketing',   cls: 'r-yellow', svcKey: 'mkt' },
+            { word: 'AI automation',       cls: 'r-green',  svcKey: 'ai' },
         ];
         var idx = 0;
-        var el  = document.getElementById('hero-rotator');
-        var imgs = document.querySelectorAll('.h-hero__media-frame img');
-        if (!el || !imgs.length) return;
-        function setImg(key) {
-            imgs.forEach(function (img) {
-                img.classList.toggle('active', img.dataset.key === key);
+        var el   = document.getElementById('hero-rotator');
+        var svcs = document.querySelectorAll('#hero-services .h-svc');
+        if (!el || !svcs.length) return;
+        function setSpotlight(key) {
+            svcs.forEach(function (svc) {
+                svc.classList.toggle('active', svc.dataset.key === key);
             });
         }
         setInterval(function () {
@@ -342,13 +417,13 @@
             var item = items[idx];
             el.style.opacity = 0;
             setTimeout(function () {
-                el.textContent = item.word;
-                el.classList.remove('r-blue', 'r-red', 'r-yellow', 'r-green');
+                el.innerHTML = item.word;
+                el.classList.remove('r-blue', 'r-red', 'r-yellow', 'r-green', 'r-purple');
                 el.classList.add(item.cls);
                 el.style.opacity = 1;
-                setImg(item.imgKey);
+                setSpotlight(item.svcKey);
             }, 320);
-        }, 3000);
+        }, 2800);
     })();
     </script>
 
