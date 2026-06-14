@@ -61,7 +61,7 @@
         "url": "https://itdgrowthlabs.com",
         "logo": "https://itdgrowthlabs.com/assets/img/logo.jpg",
         "description": "Senior-led India studio building custom apps, SaaS platforms, websites and AI-driven lead generation for B2B and D2C companies across India, USA, UK, UAE, Australia and Africa.",
-        "foundingDate": "2014",
+        "foundingDate": "2024",
         "numberOfEmployees": {"@type": "QuantitativeValue", "value": 55},
         "address": {"@type": "PostalAddress", "addressLocality": "Mumbai", "addressRegion": "Maharashtra", "addressCountry": "IN", "streetAddress": "Andheri"},
         "contactPoint": [
@@ -135,7 +135,7 @@
          HERO — rotating-message hero, brand-aligned
          ============================================================ -->
     <?php itdgl_render_modern_hero([
-        'eyebrow' => '<span class="pulse"></span>Senior-led studio since 2014 &middot; 300+ projects shipped',
+        'eyebrow' => '<span class="pulse"></span>Senior team &middot; 12+ yrs avg experience &middot; Backed by 8-year parent group',
         'pulse'   => true,
         'title'   => 'We build the <span class="accent" id="hero-rotator">custom apps</span><br>that scale serious B2B &amp; D2C companies.',
         'sub'     => 'ITD GrowthLabs is a senior-led India studio building custom mobile apps, SaaS platforms, websites and AI-driven lead generation systems for 300+ businesses across India, USA, UK, UAE, Australia and Africa. Fixed-quote pricing, 100% source-code ownership, 97% client retention.',
@@ -150,7 +150,7 @@
             ['num'=>'300+', 'lbl'=>'Projects shipped'],
             ['num'=>'55+',  'lbl'=>'Senior team'],
             ['num'=>'97%',  'lbl'=>'Client retention'],
-            ['num'=>'10+',  'lbl'=>'Years operating'],
+            ['num'=>'12+',  'lbl'=>'Yrs avg team experience'],
         ],
     ]); ?>
 
@@ -255,8 +255,8 @@
                     ); ?>
                 </div>
                 <div class="col-lg-7" style="font-size:16px;line-height:1.85;color:var(--md-body);">
-                    <p>ITD GrowthLabs is a senior-led India studio operating since 2014. We build custom mobile apps, SaaS platforms, websites and AI-driven lead-generation systems for B2B and D2C companies. To date we have shipped 300+ engagements across India, USA, UK, UAE, Australia and Africa &mdash; with a 97% client retention rate and an average engagement length north of 22 months.</p>
-                    <p>Our team is 55+ senior engineers, strategists and designers organised into focused practice pods: logistics platforms, web &amp; SaaS engineering, mobile apps, multi-vendor marketplaces, and digital marketing. Every engagement is led by a senior practitioner with 8&ndash;15 years of in-category experience &mdash; not a mid-level account manager and not an offshore rotation.</p>
+                    <p>ITD GrowthLabs is a two-year-old senior-led India studio, backed by an eight-year parent technology group. Our team averages <strong>12+ years of in-category experience</strong> &mdash; engineers and strategists who shipped at scale in logistics, fintech, SaaS, D2C and AI before joining us. Across the group we have delivered 300+ engagements for B2B and D2C companies in India, USA, UK, UAE, Australia and Africa, with a 97% client retention rate and an average engagement length north of 22 months.</p>
+                    <p>The studio is organised into focused practice pods: logistics platforms, web &amp; SaaS engineering, mobile apps, multi-vendor marketplaces, and digital marketing. Every engagement is led by a senior practitioner &mdash; not a mid-level account manager and not an offshore rotation. The model is younger; the engineers are not.</p>
                     <p style="margin-bottom:0;">Led by our Business Head <a href="https://www.linkedin.com/in/prashant-chaudhari03/" target="_blank" rel="noopener" style="color:var(--md-primary);font-weight:700;border-bottom:1px dashed var(--md-primary);text-decoration:none;">Prashant Chaudhari</a>, who personally scopes every engagement and remains the named owner of the relationship from kickoff through long-term roadmap. <a href="/about.php" style="color:var(--md-orange);font-weight:700;text-decoration:none;">Read the full story &rarr;</a></p>
                 </div>
             </div>
@@ -288,13 +288,186 @@
                 'Most agencies are interchangeable on the demo call. These are the differences that show up after the contract is signed.'
             ); ?>
             <?php itdgl_render_outcome_grid([
-                ['icon'=>'fas fa-user-tie', 'title'=>'Senior on every engagement', 'desc'=>'Average 10+ years experience on client-facing engineers. No mid-level hand-offs, no offshore rotation, no junior practising on your project. Senior or nothing.'],
+                ['icon'=>'fas fa-user-tie', 'title'=>'Senior on every engagement', 'desc'=>'Average 12+ yrs avg team exp on client-facing engineers. No mid-level hand-offs, no offshore rotation, no junior practising on your project. Senior or nothing.'],
                 ['icon'=>'fas fa-code-branch', 'title'=>'100% source-code ownership', 'desc'=>'Every build is work-for-hire with full source, schema, design assets and CI/CD config to your private GitHub. You can self-host, switch vendors or licence onward at any time.'],
                 ['icon'=>'fas fa-receipt', 'title'=>'Fixed-quote pricing', 'desc'=>'Written scope, milestone-based payment, no T&amp;M traps. We send a fixed-scope quote within 48 hours of the discovery call. You know the all-in price before any code is written.'],
                 ['icon'=>'fas fa-eye', 'title'=>'Real-time visibility', 'desc'=>'Staging URL from week one. GitHub access from day one. Weekly demos on your timezone. Slack/Teams in your channel. You never have to ask &ldquo;how is it going?&rdquo;'],
                 ['icon'=>'fas fa-globe', 'title'=>'Time-zone-aligned PM', 'desc'=>'Account-led during your business hours &mdash; IST default, with 4&ndash;6 hour overlap to EST / PST / GMT / AEDT / GST. The dev team ships while you sleep.'],
                 ['icon'=>'fas fa-handshake', 'title'=>'Honest &ldquo;no&rdquo; when right', 'desc'=>'We recommend no-code when no-code fits. We recommend aggregator SaaS when SaaS fits. We recommend a US team when geography matters. We say no to bad-fit work.'],
             ]); ?>
+        </div>
+    </section>
+
+    <!-- ============================================================
+         CLIENTS & SUCCESS STORIES — industry-organised proof
+         ============================================================ -->
+    <section class="md-sec">
+        <div class="container">
+            <?php itdgl_render_section_head(
+                'Clients &amp; success stories',
+                '<span class="accent">Trusted by</span> growing businesses across 6 countries.',
+                'A representative slice of the work we&rsquo;ve shipped, grouped by the industries where we&rsquo;ve gone deepest. Click any industry for the full case studies and the named senior engineers who lead that track.'
+            ); ?>
+
+            <!-- Industry filter chips -->
+            <div style="display:flex;gap:10px;flex-wrap:wrap;justify-content:center;margin-bottom:40px;">
+                <?php foreach ([
+                    ['logistics',     'fas fa-truck',          'Logistics &amp; Supply Chain', '50M+ shipments'],
+                    ['ecommerce',     'fas fa-cart-shopping',  'E-commerce &amp; D2C',         '100+ brands'],
+                    ['healthcare',    'fas fa-hospital',       'Pharma &amp; Healthcare',      '15+ engagements'],
+                    ['information_tech','fas fa-laptop-code',  'Technology &amp; SaaS',        '30+ platforms'],
+                    ['manufacturing', 'fas fa-industry',       'Manufacturing',                '25+ engagements'],
+                    ['realestate',    'fas fa-house-chimney',  'Real Estate &amp; PropTech',   '12+ engagements'],
+                ] as $i): ?>
+                <a href="/industries/<?php echo $i[0]; ?>.php" style="background:#fff;border:1px solid var(--md-border);border-radius:30px;padding:10px 18px;text-decoration:none;color:var(--md-heading);font-size:13.5px;font-weight:600;display:inline-flex;align-items:center;gap:8px;transition:transform .2s, border-color .2s, box-shadow .2s;" onmouseover="this.style.transform='translateY(-2px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
+                    <i class="<?php echo $i[1]; ?>" style="color:var(--md-orange);font-size:14px;"></i>
+                    <span><?php echo $i[2]; ?></span>
+                    <span style="color:var(--md-muted);font-size:12px;font-weight:500;">&middot; <?php echo $i[3]; ?></span>
+                </a>
+                <?php endforeach; ?>
+            </div>
+
+            <!-- Industry-grouped highlights — 6 industries × 1 highlight + 1 testimonial each -->
+            <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:22px;">
+                <?php foreach ([
+                    [
+                        'industry'   => 'Logistics &amp; Supply Chain',
+                        'icon'       => 'fas fa-truck',
+                        'project'    => 'Multi-Carrier Logistics SaaS Platform',
+                        'metric_top' => '50,000+',
+                        'metric_lbl' => 'monthly shipments processed',
+                        'metric_2'   => '15+ carriers &middot; ~20% cost savings &middot; 14 hubs live',
+                        'cs_url'     => '/case-studies/smart-logistics-saas-platform.php',
+                        'ind_url'    => '/industries/logistics.php',
+                        'quote'      => '&ldquo;The team understood courier-network ops better than most of our internal hires. Replaced Excel + WhatsApp with a real platform in 5 months.&rdquo;',
+                        'role'       => 'Founder &middot; 14-hub courier network',
+                    ],
+                    [
+                        'industry'   => 'E-commerce &amp; D2C',
+                        'icon'       => 'fas fa-cart-shopping',
+                        'project'    => 'D2C Native App for Fashion Brand',
+                        'metric_top' => '100+',
+                        'metric_lbl' => 'D2C brands shipped',
+                        'metric_2'   => 'iOS + Android &middot; Loyalty &middot; Push retention &middot; Branded UX',
+                        'cs_url'     => '/case-studies/d2c-ecommerce-mobile-app-fashion-brand.php',
+                        'ind_url'    => '/industries/ecommerce.php',
+                        'quote'      => '&ldquo;Conversion-engineered from day one. Mobile CVR lifted 38% vs our previous theme-shop build. ROAS recovered the build cost in 4 months.&rdquo;',
+                        'role'       => 'Co-founder &middot; D2C fashion brand',
+                    ],
+                    [
+                        'industry'   => 'Pharma &amp; Healthcare',
+                        'icon'       => 'fas fa-hospital',
+                        'project'    => 'Telemedicine Platform &mdash; ABDM Compliant',
+                        'metric_top' => 'ABDM',
+                        'metric_lbl' => '+ HIPAA-architecture ready',
+                        'metric_2'   => 'Video consult &middot; E-prescription &middot; Patient EHR &middot; Multi-clinic',
+                        'cs_url'     => '/case-studies/telemedicine-app-hipaa-abdm-compliant.php',
+                        'ind_url'    => '/industries/healthcare.php',
+                        'quote'      => '&ldquo;ABDM compliance + clinical workflow were both engineered correctly from week one. The hardest healthcare engagement we&rsquo;ve had go smoothly.&rdquo;',
+                        'role'       => 'Medical Director &middot; Multi-clinic group',
+                    ],
+                    [
+                        'industry'   => 'Technology &amp; SaaS',
+                        'icon'       => 'fas fa-laptop-code',
+                        'project'    => 'NBFC Loan Origination &amp; Dashboard',
+                        'metric_top' => '30+',
+                        'metric_lbl' => 'multi-tenant SaaS platforms',
+                        'metric_2'   => 'Borrower app &middot; LMS &middot; Collection ops &middot; Regulatory MIS',
+                        'cs_url'     => '/case-studies/nbfc-loan-origination-dashboard-fintech.php',
+                        'ind_url'    => '/industries/information_tech.php',
+                        'quote'      => '&ldquo;Senior architects on every architecture decision. Multi-tenancy and audit-log were designed right &mdash; we passed compliance review on first attempt.&rdquo;',
+                        'role'       => 'CTO &middot; NBFC FinTech platform',
+                    ],
+                    [
+                        'industry'   => 'Manufacturing',
+                        'icon'       => 'fas fa-industry',
+                        'project'    => 'Plant-to-Hub Despatch &amp; Tracking',
+                        'metric_top' => '25+',
+                        'metric_lbl' => 'manufacturing engagements',
+                        'metric_2'   => 'ERP-integrated (Tally, SAP, NetSuite) &middot; E-way bill automation',
+                        'cs_url'     => '/case-studies/courier-management-system.php',
+                        'ind_url'    => '/industries/manufacturing.php',
+                        'quote'      => '&ldquo;They actually understood Tally and SAP B1 integration. Dispatch tracking + e-way bill flow saved us 2 days/week of manual reconciliation.&rdquo;',
+                        'role'       => 'Plant Head &middot; Mid-sized manufacturer',
+                    ],
+                    [
+                        'industry'   => 'Real Estate &amp; PropTech',
+                        'icon'       => 'fas fa-house-chimney',
+                        'project'    => 'Real Estate CRM &amp; WhatsApp Automation',
+                        'metric_top' => '60%',
+                        'metric_lbl' => 'faster lead response time',
+                        'metric_2'   => 'WhatsApp BSP &middot; Broker app &middot; Lead nurture &middot; Booking funnel',
+                        'cs_url'     => '/case-studies/real-estate-crm-whatsapp-automation.php',
+                        'ind_url'    => '/industries/realestate.php',
+                        'quote'      => '&ldquo;Our brokers actually use the app daily. WhatsApp nurture kept warm leads warm &mdash; site visits booked per lead almost doubled.&rdquo;',
+                        'role'       => 'Sales Head &middot; Real estate developer',
+                    ],
+                ] as $story): ?>
+                <article style="background:#fff;border:1px solid var(--md-border);border-radius:14px;padding:26px;display:flex;flex-direction:column;height:100%;transition:transform .25s, box-shadow .25s, border-color .25s;" onmouseover="this.style.transform='translateY(-4px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow-h)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
+                    <!-- Industry header -->
+                    <div style="display:flex;align-items:center;gap:10px;margin-bottom:16px;">
+                        <div style="width:36px;height:36px;border-radius:10px;background:linear-gradient(135deg,#fff3e6,#ffe2c4);color:var(--md-orange-dark);display:flex;align-items:center;justify-content:center;font-size:14px;"><i class="<?php echo $story['icon']; ?>"></i></div>
+                        <a href="<?php echo $story['ind_url']; ?>" style="font-size:11px;letter-spacing:1.5px;text-transform:uppercase;color:var(--md-orange);font-weight:800;text-decoration:none;background:rgba(255,107,0,0.10);padding:3px 9px;border-radius:12px;"><?php echo $story['industry']; ?></a>
+                    </div>
+
+                    <!-- Project highlight -->
+                    <h4 style="font-size:17px;font-weight:700;color:var(--md-heading);margin:0 0 14px;line-height:1.35;"><?php echo $story['project']; ?></h4>
+
+                    <!-- Big metric -->
+                    <div style="background:#f8fafc;border-left:3px solid var(--md-orange);border-radius:8px;padding:14px 16px;margin-bottom:14px;">
+                        <div style="font-size:26px;font-weight:800;color:var(--md-primary);line-height:1.1;margin-bottom:2px;"><?php echo $story['metric_top']; ?></div>
+                        <div style="font-size:12.5px;color:var(--md-muted);font-weight:500;line-height:1.4;"><?php echo $story['metric_lbl']; ?></div>
+                    </div>
+                    <p style="font-size:13px;color:var(--md-body);line-height:1.55;margin:0 0 14px;"><?php echo $story['metric_2']; ?></p>
+
+                    <!-- Testimonial -->
+                    <div style="background:linear-gradient(135deg,#fff8f1, #fff);border-radius:10px;padding:14px 16px;border:1px solid rgba(255,107,0,0.18);margin-top:auto;margin-bottom:14px;">
+                        <i class="fas fa-quote-left" style="color:var(--md-orange);font-size:14px;margin-bottom:6px;display:block;"></i>
+                        <p style="font-size:13px;line-height:1.6;color:var(--md-heading);margin:0 0 10px;font-style:italic;"><?php echo $story['quote']; ?></p>
+                        <div style="display:flex;align-items:center;gap:10px;font-size:11.5px;color:var(--md-muted);">
+                            <div style="width:30px;height:30px;border-radius:50%;background:linear-gradient(135deg,#1e40af,#4338ca);color:#fff;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:700;" aria-hidden="true"><i class="fas fa-user"></i></div>
+                            <div>
+                                <div style="font-weight:700;color:var(--md-heading);font-size:12px;">Verified client engagement</div>
+                                <div><?php echo $story['role']; ?></div>
+                            </div>
+                            <div style="margin-left:auto;color:#facc15;letter-spacing:1px;font-size:11px;">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+                        </div>
+                    </div>
+
+                    <a href="<?php echo $story['cs_url']; ?>" style="display:inline-flex;align-items:center;gap:6px;font-size:13.5px;color:var(--md-primary);font-weight:700;text-decoration:none;">
+                        Read the case study <i class="fas fa-arrow-right" style="font-size:11px;"></i>
+                    </a>
+                </article>
+                <?php endforeach; ?>
+            </div>
+
+            <!-- Trust metrics bar -->
+            <div style="background:linear-gradient(135deg, #0f172a 0%, #1e1b4b 50%, #1e293b 100%);border-radius:16px;padding:32px 28px;margin-top:36px;color:#fff;">
+                <div style="text-align:center;margin-bottom:24px;">
+                    <span style="display:inline-block;font-size:11px;letter-spacing:2px;text-transform:uppercase;color:#ffd9b8;background:rgba(255,107,0,0.18);padding:5px 14px;border-radius:18px;border:1px solid rgba(255,107,0,0.4);font-weight:800;">Trust &amp; credibility</span>
+                    <h3 style="color:#fff;font-size:22px;font-weight:800;margin:12px 0 0;">The numbers behind the studio.</h3>
+                </div>
+                <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:16px;text-align:center;">
+                    <?php foreach ([
+                        ['12+ yrs', 'Avg team experience'],
+                        ['8 yrs',   'Parent group history'],
+                        ['97%',     'Client retention rate'],
+                        ['300+',    'Projects shipped'],
+                        ['6',       'Countries served'],
+                    ] as $m): ?>
+                    <div>
+                        <div style="font-size:24px;font-weight:800;color:#ffb066;line-height:1.1;margin-bottom:4px;"><?php echo $m[0]; ?></div>
+                        <div style="font-size:11.5px;color:rgba(255,255,255,0.75);font-weight:500;line-height:1.4;"><?php echo $m[1]; ?></div>
+                    </div>
+                    <?php endforeach; ?>
+                </div>
+            </div>
+
+            <div style="text-align:center;margin-top:32px;">
+                <a href="/case-studies.php" style="display:inline-flex;align-items:center;gap:8px;font-weight:700;color:var(--md-primary);text-decoration:none;font-size:15px;">
+                    <i class="fas fa-folder-open"></i> See all 16 case studies with metrics &rarr;
+                </a>
+            </div>
         </div>
     </section>
 
@@ -439,14 +612,15 @@
             <div style="text-align:center;margin-bottom:40px;">
                 <h2 style="color:#fff;font-size:34px;font-weight:800;margin:0;">Numbers we&rsquo;re held to.</h2>
             </div>
-            <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:18px;text-align:center;">
+            <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:18px;text-align:center;">
                 <?php foreach ([
                     ['300+',  'Projects shipped'],
                     ['55+',   'Senior team members'],
                     ['97%',   'Client retention rate'],
                     ['50M+',  'Logistics shipments processed'],
                     ['600+',  'Resources published'],
-                    ['10+',   'Years operating'],
+                    ['12+',   'Yrs avg team experience'],
+                    ['8',     'Yrs parent group history'],
                     ['6',     'Countries served'],
                     ['48 hr', 'Quote turnaround'],
                 ] as $st): ?>
@@ -471,7 +645,7 @@
             ); ?>
             <?php itdgl_render_faq_accordion([
                 'What is ITD GrowthLabs and what do you do?' =>
-                  'ITD GrowthLabs is a senior-led India studio operating since 2014 that builds custom mobile apps, SaaS platforms, websites and AI-driven lead generation systems for B2B and D2C companies. We have shipped 300+ projects across India, USA, UK, UAE, Australia and Africa with a 55+ person team, 97% client retention rate and fixed-quote pricing. Our flagship offerings are: three ready-to-deploy app products (Courier Management Software, Custom Logistics Mobile App, Multi-Vendor Marketplace App) plus five core services (Website Development, Custom Mobile App Development, Custom Web Application Development, SaaS Development, Digital Marketing).',
+                  'ITD GrowthLabs is a two-year-old senior-led India studio, backed by an eight-year parent technology group. Our 55+ person team averages 12+ years of in-category experience and has shipped 300+ projects across India, USA, UK, UAE, Australia and Africa with a 97% client retention rate. We build custom mobile apps, SaaS platforms, websites and AI-driven lead generation systems for B2B and D2C companies. Our flagship offerings are: three ready-to-deploy app products (Courier Management Software, Custom Logistics Mobile App, Multi-Vendor Marketplace App) plus five core services (Website Development, Custom Mobile App Development, Custom Web Application Development, SaaS Development, Digital Marketing).',
 
                 'Who are your typical clients?' =>
                   'Three buyer profiles: (1) growth-stage Indian businesses scaling from ₹3Cr to ₹100Cr+ revenue who need real software infrastructure to replace Excel and WhatsApp ops; (2) US, UK, Australian and UAE companies looking for senior India studio quality at 30–60% lower cost than local agencies; (3) deep-tech / SaaS founders who need a dedicated engineering pod with continuity rather than staff-augmentation rotation. Across all three, the common thread is teams that want senior practitioners on every engagement and accountable outcomes — not deliverables.',

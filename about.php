@@ -8,7 +8,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="ITD GrowthLabs — a senior-led technology &amp; digital marketing studio building custom apps, web platforms, SaaS and lead-gen systems for 300+ businesses across India, USA, UK, UAE and Australia. Led by Prashant Chaudhari since 2014.">
+    <meta name="description" content="ITD GrowthLabs — a senior-led technology &amp; digital marketing studio building custom apps, web platforms, SaaS and lead-gen systems for 300+ businesses across India, USA, UK, UAE and Australia. Led by Prashant Chaudhari.">
     <title>About ITD GrowthLabs &mdash; Senior-Led Studio Behind 300+ Apps, SaaS &amp; Lead-Gen Systems</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/about.php" />
     <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
@@ -55,7 +55,7 @@
         "url": "https://itdgrowthlabs.com",
         "logo": "https://itdgrowthlabs.com/assets/img/logo.jpg",
         "description": "Senior-led technology and digital marketing studio. Custom apps, web platforms, SaaS, and lead-gen systems for 300+ businesses across India, USA, UK, UAE and Australia.",
-        "foundingDate": "2014",
+        "foundingDate": "2024",
         "numberOfEmployees": {"@type": "QuantitativeValue", "value": 55},
         "address": {"@type": "PostalAddress", "addressLocality": "Mumbai", "addressRegion": "Maharashtra", "addressCountry": "IN", "streetAddress": "Andheri"},
         "contactPoint": {"@type": "ContactPoint", "telephone": "+91-8450978544", "contactType": "sales", "email": "info@itdgrowthlabs.com", "availableLanguage": ["English", "Hindi"]},
@@ -76,14 +76,14 @@
 
     <?php itdgl_render_modern_hero([
         'crumbs'  => [['label'=>'Home','url'=>'/'], ['label'=>'About']],
-        'eyebrow' => '<span class="pulse"></span>Studio since 2014',
+        'eyebrow' => '<span class="pulse"></span>Backed by 8-yr parent group',
         'pulse'   => true,
         'title'   => 'We&rsquo;re the senior-led studio behind <span class="accent">300+ apps, SaaS platforms &amp; lead-gen systems</span> shipping right now.',
         'sub'     => '55+ engineers, designers and strategists. 300+ projects delivered. 97% client retention. Led personally by <a href="https://www.linkedin.com/in/prashant-chaudhari03/" target="_blank" rel="noopener" style="color:#fff;border-bottom:1px dashed rgba(255,255,255,0.5);">Prashant Chaudhari</a>, our Business Head &mdash; who scopes every engagement, owns the relationship, and is your direct line.',
         'primary' => ['url'=>'https://calendly.com/itdgrowthlabs-info/30min', 'label'=>'Book a Free 30-min Call with Prashant', 'icon'=>'fas fa-calendar-check', 'js_book_call'=>true, 'source'=>'about_hero_primary'],
         'secondary'=> ['url'=>'/case-studies.php', 'label'=>'See Our Work', 'icon'=>'fas fa-folder-open'],
         'pills'   => [
-            ['icon'=>'fas fa-shield-check', 'text'=>'10+ years operating'],
+            ['icon'=>'fas fa-shield-check', 'text'=>'12+ yrs avg team exp'],
             ['icon'=>'fas fa-globe',         'text'=>'India, USA, UK, UAE, Australia, Africa'],
             ['icon'=>'fas fa-handshake',     'text'=>'97% client retention'],
         ],
@@ -91,7 +91,7 @@
             ['num'=>'300+', 'lbl'=>'Projects shipped'],
             ['num'=>'55+',  'lbl'=>'Senior team'],
             ['num'=>'97%',  'lbl'=>'Client retention'],
-            ['num'=>'10+',  'lbl'=>'Years operating'],
+            ['num'=>'10+',  'lbl'=>'Years avg team xp'],
         ],
     ]); ?>
 
@@ -130,7 +130,7 @@
                 <div style="flex:1;min-width:240px;">
                     <span style="display:inline-block;font-size:11px;letter-spacing:1.5px;text-transform:uppercase;color:#fff;background:var(--md-primary);font-weight:800;padding:4px 12px;border-radius:14px;margin-bottom:10px;">Business Head &middot; Engagement Owner</span>
                     <h3 style="font-size:24px;font-weight:800;color:var(--md-heading);margin:0 0 4px;">Prashant Chaudhari</h3>
-                    <div style="font-size:14px;color:var(--md-muted);margin-bottom:14px;">Business Head &middot; ITD GrowthLabs &middot; Since 2014</div>
+                    <div style="font-size:14px;color:var(--md-muted);margin-bottom:14px;">Business Head &middot; ITD GrowthLabs</div>
                     <p style="font-size:15px;line-height:1.7;color:var(--md-body);margin-bottom:14px;">Prashant personally scopes every engagement we take on, decides which projects we&rsquo;re the right partner for, and is the named owner of the client relationship end to end. If you contact us about a serious build, you will hear back from Prashant or someone he has directly handed off to.</p>
                     <p style="font-size:15px;line-height:1.7;color:var(--md-body);margin-bottom:18px;">Currently leading our active quantum-era data platform build (deep-tech R&amp;D client, under NDA), our logistics platform clients, and our lead-generation engagements across India, the UK, the US, the UAE, Australia and Africa.</p>
                     <div style="display:flex;gap:14px;flex-wrap:wrap;">

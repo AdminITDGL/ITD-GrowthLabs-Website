@@ -153,7 +153,7 @@
         <div class="container">
             <?php itdgl_render_section_head('Why us', 'Six things that matter at year 3.'); ?>
             <?php itdgl_render_outcome_grid([
-                ['icon'=>'fas fa-user-tie', 'title'=>'Senior engineer on every build', 'desc'=>'10+ years average experience on client-facing engineers. No mid-level hand-offs, no offshore rotation.'],
+                ['icon'=>'fas fa-user-tie', 'title'=>'Senior engineer on every build', 'desc'=>'12+ years average experience on client-facing engineers. No mid-level hand-offs, no offshore rotation.'],
                 ['icon'=>'fas fa-code-branch', 'title'=>'100% source-code ownership', 'desc'=>'Work-for-hire SOW. Code, schema, design assets, CI/CD config to your private GitHub.'],
                 ['icon'=>'fas fa-receipt', 'title'=>'Fixed-quote pricing', 'desc'=>'Milestone-based, not T&amp;M. You know the all-in price before any code is written.'],
                 ['icon'=>'fas fa-eye', 'title'=>'Real-time visibility', 'desc'=>'GitHub access from day 1. Weekly demos. Slack/Teams. You see daily commits.'],

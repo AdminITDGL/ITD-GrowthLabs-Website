@@ -418,7 +418,7 @@ $itdgl_popups = [
         'pdf_url'   => 'assets/ITD-GrowthLabs-Company-Profile.pdf',
         'source'    => 'popup_profile_download',
         'accent'    => '#1565c0',
-        'stats'     => '300+ projects &bull; 97% client retention &bull; 10+ years experience',
+        'stats'     => '300+ projects &bull; 97% client retention &bull; 12+ yrs avg team exp',
         'cta_label' => 'Download Company Profile (PDF) &#8595;',
     ],
 ];
@@ -430,7 +430,7 @@ $itdgl_cfg['type']      = $itdgl_cfg['type']      ?? 'pdf';
 $itdgl_cfg['accent']    = $itdgl_cfg['accent']    ?? '#1565c0';
 $itdgl_cfg['eyebrow']   = $itdgl_cfg['eyebrow']   ?? '';
 $itdgl_cfg['subcopy']   = $itdgl_cfg['subcopy']   ?? '';
-$itdgl_cfg['stats']     = $itdgl_cfg['stats']     ?? '300+ projects &bull; 97% client retention &bull; 10+ years experience';
+$itdgl_cfg['stats']     = $itdgl_cfg['stats']     ?? '300+ projects &bull; 97% client retention &bull; 12+ yrs avg team exp';
 $itdgl_cfg['source']    = $itdgl_cfg['source']    ?? 'popup_generic';
 $itdgl_cfg['cta_label'] = $itdgl_cfg['cta_label'] ?? 'Submit &#8594;';
 $itdgl_cfg['expert']    = $itdgl_cfg['expert']    ?? 'Senior Expert';
@@ -633,7 +633,7 @@ $itdgl_banner_url  = $itdgl_base . 'assets/img/BlackBlueBizBanner.jpg';
 
                     <div class="itdgl-popup-trust">
                         <div class="itdgl-popup-trust-row">
-                            <span><i class="fas fa-shield-check"></i> Senior team since 2014</span>
+                            <span><i class="fas fa-shield-check"></i> Senior team &middot; 12+ yrs avg experience</span>
                             <span><i class="fas fa-globe"></i> 6-country delivery</span>
                             <span><i class="fas fa-handshake"></i> 97% retention</span>
                         </div>

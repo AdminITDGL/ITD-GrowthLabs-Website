@@ -71,7 +71,7 @@
       "url": "https://itdgrowthlabs.com",
       "logo": "https://itdgrowthlabs.com/assets/img/logo.jpg",
       "description": "Custom software, mobile apps, websites and digital marketing &mdash; built by a senior team of engineers, strategists and designers.",
-      "foundingDate": "2014",
+      "foundingDate": "2024",
       "numberOfEmployees": { "@type": "QuantitativeValue", "value": 55 },
       "address": {
         "@type": "PostalAddress",
@@ -228,12 +228,12 @@
             <a href="index.php">Home</a><span class="sep">/</span>
             <span class="now">Team &amp; Authors</span>
         </div>
-        <span class="tm-eyebrow"><i class="fas fa-users" style="margin-right:6px;"></i>Senior team since 2014 &middot; Led by Prashant Chaudhari</span>
+        <span class="tm-eyebrow"><i class="fas fa-users" style="margin-right:6px;"></i>Senior team &middot; 12+ yrs avg experience &middot; Led by Prashant Chaudhari</span>
         <h1 class="tm-title">The People Behind Every ITD GrowthLabs Project</h1>
         <p class="tm-subtitle">Our case studies, comparison guides and engagement decks aren't ghost-written. They're written by the people who actually do the work &mdash; led by Business Head <a href="https://www.linkedin.com/in/prashant-chaudhari03/" target="_blank" rel="noopener" style="color:#fff;border-bottom:1px dashed rgba(255,255,255,0.5);">Prashant Chaudhari</a>, who personally scopes and steers every engagement. Here's the leadership pod, what they specialise in, and how to reach them directly.</p>
         <div class="tm-trust-bar">
             <div class="tm-trust-cell"><div class="v">55+</div><div class="l">Senior team</div></div>
-            <div class="tm-trust-cell"><div class="v">10+</div><div class="l">Years operating</div></div>
+            <div class="tm-trust-cell"><div class="v">10+</div><div class="l">Years avg team xp</div></div>
             <div class="tm-trust-cell"><div class="v">300+</div><div class="l">Projects shipped</div></div>
             <div class="tm-trust-cell"><div class="v">97%</div><div class="l">Client retention</div></div>
         </div>
@@ -310,7 +310,7 @@
                         <div class="title">Lead engineer on courier, fleet and last-mile builds</div>
                         <p class="bio">Leads our logistics platform engagements end to end &mdash; from first scoping call through architecture, build, hub-by-hub rollout and steady-state AMC. Has shipped courier platforms covering 50M+ shipments, 14+ live hubs, and 15+ multi-carrier integrations.</p>
                         <div class="meta">
-                            <div class="meta-row"><strong>Years in field</strong>10+ years</div>
+                            <div class="meta-row"><strong>Years in field</strong>12+ years</div>
                             <div class="meta-row"><strong>Specialism</strong>Courier &amp; fleet platforms</div>
                             <div class="meta-row"><strong>Stacks</strong>NestJS, Laravel, PostgreSQL, Redis, Kafka</div>
                             <div class="meta-row"><strong>Sectors</strong>3PL, last-mile, line-haul, B2B</div>
@@ -335,7 +335,7 @@
                         <div class="title">Lead engineer on custom websites, web apps and headless platforms</div>
                         <p class="bio">Owns our website and web-app track &mdash; from custom marketing sites to multi-tenant SaaS dashboards. Has shipped 300+ websites and web platforms across BFSI, education, healthcare, D2C and B2B SaaS, with a focus on performance, accessibility and conversion fundamentals.</p>
                         <div class="meta">
-                            <div class="meta-row"><strong>Years in field</strong>10+ years</div>
+                            <div class="meta-row"><strong>Years in field</strong>12+ years</div>
                             <div class="meta-row"><strong>Specialism</strong>Custom &amp; headless web</div>
                             <div class="meta-row"><strong>Stacks</strong>Laravel, Next.js, WordPress, MySQL, Postgres</div>
                             <div class="meta-row"><strong>Sectors</strong>BFSI, Edtech, D2C, B2B SaaS</div>
@@ -360,7 +360,7 @@
                         <div class="title">Lead engineer on iOS, Android, Flutter and cross-platform apps</div>
                         <p class="bio">Heads our mobile-app track &mdash; native iOS, Android, Flutter and React Native. Has shipped 200+ apps across logistics field ops, fintech wallets, healthcare clinics, D2C commerce and B2B SaaS, with a 4.6&starf; average store rating.</p>
                         <div class="meta">
-                            <div class="meta-row"><strong>Years in field</strong>9+ years</div>
+                            <div class="meta-row"><strong>Years in field</strong>11+ years</div>
                             <div class="meta-row"><strong>Specialism</strong>Native &amp; cross-platform mobile</div>
                             <div class="meta-row"><strong>Stacks</strong>Swift, Kotlin, Flutter, React Native</div>
                             <div class="meta-row"><strong>Sectors</strong>Logistics, fintech, healthcare, D2C</div>
@@ -410,7 +410,7 @@
                         <div class="title">Lead on UX research, product flows, design systems and CRO</div>
                         <p class="bio">Heads design across product, web and mobile. Runs UX research, designs complex multi-role product flows (operator + admin + customer), and owns the design systems behind our long-running platform clients. Specialises in conversion-rate work for B2B and D2C funnels.</p>
                         <div class="meta">
-                            <div class="meta-row"><strong>Years in field</strong>9+ years</div>
+                            <div class="meta-row"><strong>Years in field</strong>11+ years</div>
                             <div class="meta-row"><strong>Specialism</strong>Multi-role product UX</div>
                             <div class="meta-row"><strong>Tools</strong>Figma, Maze, Hotjar, GA4</div>
                             <div class="meta-row"><strong>Focus</strong>Operator dashboards, B2B/D2C CRO</div>
@@ -472,7 +472,7 @@
                     </div>
                     <div class="tm-eat-cell">
                         <h4>Expertise</h4>
-                        <p>10+ years operating across logistics, fintech, BFSI, healthcare, education, D2C and SaaS. Cited stacks, costs and timelines come from our own production engagements.</p>
+                        <p>12+ yrs avg team exp across logistics, fintech, BFSI, healthcare, education, D2C and SaaS. Cited stacks, costs and timelines come from our own production engagements.</p>
                     </div>
                     <div class="tm-eat-cell">
                         <h4>Authoritativeness</h4>
