@@ -94,7 +94,7 @@
                                     <div style="background:linear-gradient(135deg,#0d47a1,#1565c0);padding:40px;border-radius:12px;margin:40px 0;text-align:center;color:#fff;">
                                         <h3 style="color:#fff;margin-bottom:15px;">Get an Honest Read of Your Marketing in 30 Minutes.</h3>
                                         <p style="color:#dde6f5;margin-bottom:25px;">Free 30-min strategy call. We&rsquo;ll review your current funnel, identify the leakage, and tell you straight whether we&rsquo;re the right fit &mdash; even if the honest answer is &ldquo;stay with your current agency another quarter.&rdquo;</p>
-                                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call" data-source="blog_bofu_best_digital_marketing_agencie" style="background:#ff6b00;color:#fff;padding:14px 32px;border-radius:6px;text-decoration:none;font-weight:600;display:inline-block;">Book a 30-min Call &rarr;</a>
+                                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call" data-source="blog_bofu_best_digital_marketing_agencie" style="background:#ff6b00;color:#fff;padding:14px 32px;border-radius:6px;text-decoration:none;font-weight:600;display:inline-block;" target="_blank" rel="noopener">Book a 30-min Call &rarr;</a>
                                          &nbsp;|&nbsp; <a href="/digital_marketing.php" style="color:#fff;text-decoration:underline;">See our service page &rarr;</a>
                                     </div>
                                     <div class="faq-section" style="margin-top:40px;">
@@ -143,7 +143,7 @@
                             <div class="sidebar-item recent-post">
                                 <div class="title"><h4>Get a Free Quote</h4></div>
                                 <p style="padding:10px 0;">Plan your project with a senior engineer in a 30-min call. No sales pitch.</p>
-                                <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call" data-source="blog_bofu_sidebar" style="display:inline-block;background:#ff6b00;color:#fff;padding:10px 20px;border-radius:6px;text-decoration:none;font-weight:600;">Book Free 30-min Call &rarr;</a>
+                                <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call" data-source="blog_bofu_sidebar" style="display:inline-block;background:#ff6b00;color:#fff;padding:10px 20px;border-radius:6px;text-decoration:none;font-weight:600;" target="_blank" rel="noopener">Book Free 30-min Call &rarr;</a>
                             </div>
                         </aside>
                     </div>

@@ -89,7 +89,7 @@
                     <p style="color:rgba(255,255,255,0.85);font-size:17px;line-height:1.7;margin-bottom:24px;">Most marketing agencies sell clicks. We sell qualified, high-intent leads delivered to your Sheet or dashboard in real time. AI-filtered. Multi-platform. No junk. No tire-kickers.</p>
                     <div style="display:flex;gap:14px;flex-wrap:wrap;">
                         <a href="/services/ready-to-buy-lead-generation.php" class="md-cta-primary"><i class="fas fa-arrow-right"></i> See the system</a>
-                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="md-cta-secondary js-book-call" data-source="dm_hero_rtb"><i class="fas fa-calendar-check"></i> Book a Call</a>
+                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="md-cta-secondary js-book-call" data-source="dm_hero_rtb" target="_blank" rel="noopener"><i class="fas fa-calendar-check"></i> Book a Call</a>
                     </div>
                 </div>
                 <div style="background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);border-radius:14px;padding:28px;">

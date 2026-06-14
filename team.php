@@ -284,8 +284,8 @@
                                 <a href="https://www.linkedin.com/in/prashant-chaudhari03/" target="_blank" rel="noopener" itemprop="sameAs">
                                     <i class="fab fa-linkedin" style="margin-right:5px;"></i>LinkedIn profile
                                 </a>
-                                <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call" data-source="team_prashant">
-                                    <i class="fas fa-calendar-check" style="margin-right:5px;"></i>Book a 30-min call with Prashant
+                                <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call" data-source="team_prashant" target="_blank" rel="noopener">
+                                    <i class="fas fa-calendar-check" style="margin-right:5px;"></i>Book a 30-min strategy call
                                 </a>
                                 <a href="mailto:info@itdgrowthlabs.com?subject=Engagement%20enquiry%20-%20attention%20Prashant%20Chaudhari">
                                     <i class="fas fa-envelope" style="margin-right:5px;"></i>Email

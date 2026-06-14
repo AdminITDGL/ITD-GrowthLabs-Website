@@ -717,7 +717,7 @@
                     <p style="color:rgba(255,255,255,0.85);font-size:17px;line-height:1.7;margin-bottom:22px;">Most marketing agencies sell clicks and form fills. We sell qualified, high-intent leads delivered to your Google Sheet or dashboard in real time. AI-filtered for intent, budget and fit. Multi-platform reach. No junk. No tire-kickers. Built for B2B and D2C operators who want predictable, accountable lead flow &mdash; not vanity metrics.</p>
                     <div style="display:flex;gap:14px;flex-wrap:wrap;">
                         <a href="/services/ready-to-buy-lead-generation.php" class="md-cta-primary"><i class="fas fa-arrow-right"></i> See the system</a>
-                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="md-cta-secondary js-book-call" data-source="home_rtb"><i class="fas fa-calendar-check"></i> Book a Call</a>
+                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="md-cta-secondary js-book-call" data-source="home_rtb" target="_blank" rel="noopener"><i class="fas fa-calendar-check"></i> Book a Call</a>
                     </div>
                 </div>
                 <div class="col-lg-5">
@@ -886,7 +886,7 @@
                   'Ten verticals with shipped production work: Logistics &amp; Supply Chain (50M+ shipments shipped, 14+ hubs live on our stack), E-commerce &amp; D2C (100+ brands), IT &amp; SaaS (30+ multi-tenant platforms), Finance &amp; FinTech (NBFC, lending, payments, wealth-tech), Healthcare (ABDM-compliant builds, telemedicine), Manufacturing (ERP-integrated portals, MES), Education &amp; EdTech (LMS, live-class platforms, school ERPs), Real Estate (CRMs, broker apps, project microsites), Professional Services (consulting, legal, accounting firms), and Startups (MVP to PMF). See dedicated pages under <a href="/industries/logistics.php">Industries</a>.',
 
                 'How do I get started and what is the next step?' =>
-                  'Book a free 30-minute discovery call via Calendly. We talk through your scope, constraints, timeline and goals; you receive a written fixed-scope quote within 48 hours. No SDRs, no scripts, no sales pitch — senior practitioners only on the call. If we&rsquo;re not the right partner we&rsquo;ll tell you so on that same call. <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call" data-source="home_faq_last" style="color:var(--md-orange);font-weight:700;">Book the call here</a>. For quick questions, <a href="https://wa.me/918450978544" target="_blank" rel="noopener" style="color:var(--md-primary);font-weight:700;">WhatsApp us</a>.',
+                  'Book a free 30-minute discovery call via Calendly. We talk through your scope, constraints, timeline and goals; you receive a written fixed-scope quote within 48 hours. No SDRs, no scripts, no sales pitch — senior practitioners only on the call. If we&rsquo;re not the right partner we&rsquo;ll tell you so on that same call. <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call" data-source="home_faq_last" style="color:var(--md-orange);font-weight:700;" target="_blank" rel="noopener">Book the call here</a>. For quick questions, <a href="https://wa.me/918450978544" target="_blank" rel="noopener" style="color:var(--md-primary);font-weight:700;">WhatsApp us</a>.',
             ]); ?>
         </div>
     </section>

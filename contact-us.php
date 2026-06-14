@@ -8,7 +8,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Talk to Prashant Chaudhari, our Business Head. Free 30-min strategy call, WhatsApp, or written reply within 24 business hours. App development, SaaS, custom software, digital marketing and lead-gen across India, USA, UK, UAE &amp; Australia.">
+    <meta name="description" content="Talk to our team. Free 30-min strategy call with a senior practice lead, WhatsApp, or written reply within 24 business hours. App development, SaaS, custom software, digital marketing and lead-gen across India, USA, UK, UAE &amp; Australia.">
     <title>Contact ITD GrowthLabs &mdash; Free 30-min Strategy Call with Our Business Head</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/contact-us.php" />
     <link rel="shortcut icon" href="./assets/img/favicon.png" type="image/x-icon">
@@ -21,13 +21,13 @@
     <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/contact-us.php" />
 
     <meta property="og:title" content="Contact ITD GrowthLabs &mdash; Free 30-min Strategy Call with Our Business Head" />
-    <meta property="og:description" content="Talk to Prashant Chaudhari, our Business Head. Free 30-min strategy call, WhatsApp, or written reply within 24 business hours." />
+    <meta property="og:description" content="Talk to our team. Free 30-min strategy call with a senior practice lead, WhatsApp, or written reply within 24 business hours." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://itdgrowthlabs.com/contact-us.php" />
     <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Contact ITD GrowthLabs &mdash; Free 30-min Strategy Call with Our Business Head" />
-    <meta name="twitter:description" content="Talk to Prashant Chaudhari, our Business Head. Free 30-min call, WhatsApp, or written reply." />
+    <meta name="twitter:description" content="Talk to our team. Free 30-min strategy call, WhatsApp, or written reply." />
 
     <link href="./assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="./assets/css/font-awesome.min.css" rel="stylesheet">
@@ -130,7 +130,7 @@
                     <div class="ct-alt-paths">
                         <h3><i class="fas fa-bolt" style="color:var(--md-primary);margin-right:8px;"></i>Faster paths</h3>
 
-                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="ct-alt-card js-book-call" data-source="contact_alt_calendly">
+                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="ct-alt-card js-book-call" data-source="contact_alt_calendly" target="_blank" rel="noopener">
                             <div class="ct-alt-card__icon" style="background:linear-gradient(135deg,#1e40af,#4338ca);"><i class="fas fa-calendar-check"></i></div>
                             <div class="ct-alt-card__body">
                                 <div class="ct-alt-card__title">Book a 30-min strategy call</div>

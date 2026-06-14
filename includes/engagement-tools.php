@@ -16,7 +16,7 @@
        target="_blank"
        id="calendly-float"
        aria-label="Book a free 30-minute consultation"
-       style="background:linear-gradient(135deg,#1565c0,#0d47a1);color:#fff;padding:14px 22px;border-radius:50px;display:flex;align-items:center;gap:10px;box-shadow:0 4px 14px rgba(13,71,161,0.35);text-decoration:none;font-weight:700;font-size:14px;letter-spacing:0.2px;transition:transform 0.25s ease, box-shadow 0.25s ease;">
+       style="background:linear-gradient(135deg,#1565c0,#0d47a1);color:#fff;padding:14px 22px;border-radius:50px;display:flex;align-items:center;gap:10px;box-shadow:0 4px 14px rgba(13,71,161,0.35);text-decoration:none;font-weight:700;font-size:14px;letter-spacing:0.2px;transition:transform 0.25s ease, box-shadow 0.25s ease;" rel="noopener">
         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="3"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/><circle cx="12" cy="16" r="1.5" fill="currentColor"/></svg>
         <span class="cta-label">Book Free Call</span>
     </a>
@@ -55,17 +55,32 @@
      auto-opens the Calendly popup instead of navigating away. -->
 <script>
 (function(){
+    // Sitewide Calendly handler:
+    //   - On desktop where Calendly widget JS is loaded: open the popup
+    //   - On mobile, popup-blocked browsers, or before Calendly mounts: let the
+    //     anchor's target=_blank navigate to calendly.com in a new tab
+    //   - We always fire the GA4 calendly_open event so analytics doesn't depend
+    //     on whether the popup or the navigation served the click
+    var isMobile = window.matchMedia && window.matchMedia('(max-width: 768px)').matches;
     document.addEventListener('click', function(e){
         var a = e.target.closest('a, button');
         if (!a) return;
         var href = a.getAttribute('href') || '';
         var isCalendlyTrigger = a.classList.contains('js-book-call') ||
                                 /calendly\.com\/itdgrowthlabs-info/i.test(href);
-        if (!isCalendlyTrigger || !window.Calendly) return;
+        if (!isCalendlyTrigger) return;
+        // Always log the click as a generated lead event
+        if (typeof gtag === 'function') gtag('event', 'calendly_open', { source: a.dataset.source || 'inline_cta' });
+        // On mobile or without Calendly mounted: don't preventDefault — let target=_blank navigate
+        if (isMobile || !window.Calendly) return;
         e.preventDefault();
         var url = href && /calendly\.com/i.test(href) ? href : 'https://calendly.com/itdgrowthlabs-info/30min';
-        Calendly.initPopupWidget({url: url});
-        if (typeof gtag === 'function') gtag('event', 'calendly_open', { source: a.dataset.source || 'inline_cta' });
+        try {
+            Calendly.initPopupWidget({url: url});
+        } catch (err) {
+            // If the popup throws (CSP, ad-blocker, etc.), fall back to direct navigation
+            window.open(url, '_blank', 'noopener');
+        }
     }, false);
 })();
 </script>

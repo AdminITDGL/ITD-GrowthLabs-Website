@@ -411,18 +411,28 @@ function itdgl_render_modern_hero($cfg) {
         <?php if ($sub): ?><p class="md-hero__sub"><?php echo $sub; ?></p><?php endif; ?>
 
         <div class="md-hero__ctas">
+            <?php
+            // Auto-add target=_blank rel=noopener on any Calendly/WhatsApp/external URL
+            // so the click still works if the Calendly popup widget JS fails to mount.
+            $is_external = function ($url) {
+                return preg_match('~^https?://(?:[^/]+\.)?(calendly\.com|wa\.me|whatsapp\.com|linkedin\.com|github\.com)/~i', $url) === 1;
+            };
+            ?>
             <?php if ($primary): ?>
+            <?php $pri_blank = !empty($primary['target']) || $is_external($primary['url']); ?>
             <a href="<?php echo htmlspecialchars($primary['url']); ?>"
                class="md-cta-primary <?php echo !empty($primary['js_book_call']) ? 'js-book-call' : ''; ?>"
-               data-source="<?php echo htmlspecialchars($primary['source'] ?? 'modern_hero_primary'); ?>">
+               data-source="<?php echo htmlspecialchars($primary['source'] ?? 'modern_hero_primary'); ?>"
+               <?php if ($pri_blank) echo 'target="_blank" rel="noopener"'; ?>>
                 <?php if (!empty($primary['icon'])): ?><i class="<?php echo $primary['icon']; ?>"></i><?php endif; ?>
                 <?php echo $primary['label']; ?>
             </a>
             <?php endif; ?>
             <?php if ($secondary): ?>
+            <?php $sec_blank = !empty($secondary['target']) || $is_external($secondary['url']); ?>
             <a href="<?php echo htmlspecialchars($secondary['url']); ?>"
-               class="md-cta-secondary <?php echo !empty($secondary['target']) ? '' : ''; ?>"
-               <?php if (!empty($secondary['target'])) echo 'target="' . htmlspecialchars($secondary['target']) . '"'; ?>>
+               class="md-cta-secondary"
+               <?php if ($sec_blank) echo 'target="_blank" rel="noopener"'; ?>>
                 <?php if (!empty($secondary['icon'])): ?><i class="<?php echo $secondary['icon']; ?>"></i><?php endif; ?>
                 <?php echo $secondary['label']; ?>
             </a>

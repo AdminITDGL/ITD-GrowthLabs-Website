@@ -8,7 +8,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="ITD GrowthLabs — a senior-led technology &amp; digital marketing studio building custom apps, web platforms, SaaS and lead-gen systems for 300+ businesses across India, USA, UK, UAE and Australia. Led by Prashant Chaudhari.">
+    <meta name="description" content="ITD GrowthLabs — a senior-led technology &amp; digital marketing studio of 55+ practitioners building custom apps, web platforms, SaaS and lead-gen systems for 300+ businesses across India, USA, UK, UAE and Australia. 12+ yrs avg team experience, 97% client retention.">
     <title>About ITD GrowthLabs &mdash; Senior-Led Studio Behind 300+ Apps, SaaS &amp; Lead-Gen Systems</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/about.php" />
     <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
@@ -21,7 +21,7 @@
     <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/about.php" />
 
     <meta property="og:title" content="About ITD GrowthLabs &mdash; Senior-Led Studio Behind 300+ Apps, SaaS &amp; Lead-Gen Systems" />
-    <meta property="og:description" content="ITD GrowthLabs — a senior-led technology &amp; digital marketing studio. 55+ engineers, 300+ projects, 97% client retention. Led by Prashant Chaudhari." />
+    <meta property="og:description" content="ITD GrowthLabs — a senior-led technology &amp; digital marketing studio. 55+ engineers, 300+ projects, 97% client retention." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://itdgrowthlabs.com/about.php" />
     <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
@@ -163,7 +163,7 @@
                     <p style="font-size:15px;line-height:1.7;color:var(--md-body);margin-bottom:18px;">Currently leading our active quantum-era data platform build (deep-tech R&amp;D client, under NDA), our logistics platform clients, and our lead-generation engagements across India, the UK, the US, the UAE, Australia and Africa.</p>
                     <div style="display:flex;gap:14px;flex-wrap:wrap;">
                         <a href="https://www.linkedin.com/in/prashant-chaudhari03/" target="_blank" rel="noopener" style="font-weight:700;color:var(--md-primary);text-decoration:none;font-size:14.5px;"><i class="fab fa-linkedin" style="margin-right:6px;"></i>LinkedIn</a>
-                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call" data-source="about_leadership" style="font-weight:700;color:var(--md-primary);text-decoration:none;font-size:14.5px;"><i class="fas fa-calendar-check" style="margin-right:6px;"></i>Book a 30-min call</a>
+                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call" data-source="about_leadership" style="font-weight:700;color:var(--md-primary);text-decoration:none;font-size:14.5px;" target="_blank" rel="noopener"><i class="fas fa-calendar-check" style="margin-right:6px;"></i>Book a 30-min call</a>
                         <a href="/team.php" style="font-weight:700;color:var(--md-primary);text-decoration:none;font-size:14.5px;"><i class="fas fa-users" style="margin-right:6px;"></i>See full team</a>
                     </div>
                 </div>
@@ -180,7 +180,7 @@
                 'Five stages, week-by-week visible to you, with a named senior engineer on every one. No black-box agency vibes.'
             ); ?>
             <?php itdgl_render_process_steps([
-                ['title'=>'Discovery call (30 min)', 'desc'=>'Free 30-min call with Prashant or the senior lead for your track. We listen, we ask hard questions, we tell you straight whether we&rsquo;re the right partner.'],
+                ['title'=>'Discovery call (30 min)', 'desc'=>'Free 30-min call with the senior lead for your track. We listen, we ask hard questions, we tell you straight whether we&rsquo;re the right partner.'],
                 ['title'=>'Scope &amp; fixed quote (48 hrs)', 'desc'=>'Written scope, milestone schedule, fixed price. No T&amp;M traps. You see the line items before you sign anything.'],
                 ['title'=>'Kick-off &amp; design (1&ndash;2 wks)', 'desc'=>'Senior engineer assigned, sprint cadence agreed, design + architecture sign-off before code is written.'],
                 ['title'=>'Build &amp; weekly demo', 'desc'=>'2-week sprints. Weekly demo on your timezone. Slack/Teams access. GitHub access. You see daily commits.'],
@@ -281,7 +281,7 @@
     </section>
 
     <?php itdgl_render_final_cta([
-        'head'    => 'Ready to talk? <span style="display:block;font-size:18px;font-weight:600;margin-top:8px;color:rgba(255,255,255,0.85);">Free 30-min strategy call with Prashant.</span>',
+        'head'    => 'Ready to talk? <span style="display:block;font-size:18px;font-weight:600;margin-top:8px;color:rgba(255,255,255,0.85);">Free 30-min strategy call with our team.</span>',
         'sub'     => 'No sales pitch. We&rsquo;ll talk through what you&rsquo;re scoping, what we&rsquo;ve seen work, and what we&rsquo;d build. If we&rsquo;re not the right partner, we&rsquo;ll say so.',
         'primary' => ['url'=>'https://calendly.com/itdgrowthlabs-info/30min', 'label'=>'Book a 30-min Call', 'icon'=>'fas fa-calendar-check', 'source'=>'about_final'],
         'secondary'=>['url'=>'https://wa.me/918450978544?text=Hi%20ITD%20GrowthLabs%2C%20I%27d%20like%20to%20discuss%20a%20project.', 'label'=>'WhatsApp Us', 'icon'=>'fab fa-whatsapp', 'target'=>'_blank'],

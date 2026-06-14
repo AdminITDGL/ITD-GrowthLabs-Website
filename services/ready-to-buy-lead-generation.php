@@ -259,7 +259,7 @@
         <div class="rtb-hero-ctas">
             <a href="https://calendly.com/itdgrowthlabs-info/30min"
                class="js-book-call rtb-cta-primary"
-               data-source="rtb_hero_primary">
+               data-source="rtb_hero_primary" target="_blank" rel="noopener">
                 <i class="fas fa-calendar-check"></i> Book a Free 30-min Strategy Call
             </a>
             <a href="#how-it-works" class="rtb-cta-secondary">
@@ -497,7 +497,7 @@
         <div style="display:flex;gap:14px;flex-wrap:wrap;justify-content:center;">
             <a href="https://calendly.com/itdgrowthlabs-info/30min"
                class="js-book-call rtb-cta-primary"
-               data-source="rtb_bottom_cta">
+               data-source="rtb_bottom_cta" target="_blank" rel="noopener">
                 <i class="fas fa-calendar-check"></i> Book Your Strategy Call
             </a>
             <a href="https://wa.me/918450978544?text=Hi%20ITD%20GrowthLabs%2C%20I%27d%20like%20to%20learn%20about%20your%20Ready-to-Buy%20Lead%20Generation%20service."

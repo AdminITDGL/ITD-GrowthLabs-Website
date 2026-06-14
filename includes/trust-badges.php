@@ -57,7 +57,7 @@ $tb_compact = isset($tb_compact) ? (bool)$tb_compact : false;
                 <div class="tb-card-body">
                     <div class="tb-brand">Book a Call</div>
                     <div class="tb-label">Free 30-min consultation</div>
-                    <div class="tb-meta">Talk to Prashant <span class="tb-arrow">&rarr;</span></div>
+                    <div class="tb-meta">Talk to our team <span class="tb-arrow">&rarr;</span></div>
                 </div>
             </a>
         </div>

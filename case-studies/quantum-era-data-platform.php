@@ -314,7 +314,7 @@
                 <div class="cs-cta">
                     <h3>Building a deep-tech product? Let's talk.</h3>
                     <p>If you have working research or a working ML / quantum / data pipeline and need the production application layer around it, we'd like to hear what you're building. 30 minutes, free, no pitch.</p>
-                    <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-cta-btn" data-source="case_study_the client">Book a 30-min Call</a>
+                    <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-cta-btn" data-source="case_study_the client" target="_blank" rel="noopener">Book a 30-min Call</a>
                     <a href="../contact-us.php" class="cs-cta-btn alt">Send us a brief</a>
                 </div>
 

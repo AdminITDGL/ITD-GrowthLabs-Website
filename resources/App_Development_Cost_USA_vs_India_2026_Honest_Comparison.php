@@ -119,7 +119,7 @@
 
                                     <h2>How to Vet an India Studio (the Real Checklist)</h2>
 
-                                    <p>Run these checks before signing anything. We pass them; most don&rsquo;t.</p><ol><li><strong>Named engineer on the call.</strong> Not a sales person. The senior engineer who will own your build should be on the second discovery call, by name, with a LinkedIn URL you can verify.</li><li><strong>Three live apps in the App Store and Google Play that they built.</strong> Not screenshots. Live, downloadable, working. Ask for direct links.</li><li><strong>GitHub access during build.</strong> Daily commits, named PRs, code review history. If they can&rsquo;t share access to a private repo with you, walk.</li><li><strong>Two references they don&rsquo;t pre-prep.</strong> &ldquo;Give me a client I can call directly, without you on the line.&rdquo; Pass / fail filter.</li><li><strong>Written fixed-scope quote with milestone payments.</strong> Not &ldquo;T&amp;M&rdquo; for an MVP. Fixed scope, fixed price, fixed milestone schedule.</li><li><strong>Source-code escrow OR 100% code ownership.</strong> One or the other, written into the SOW.</li><li><strong>An honest answer about timezone overlap.</strong> &ldquo;We&rsquo;ll work your hours&rdquo; is a lie. Real answer: &ldquo;4 hours overlap with EST, 6 hours overlap with PST, daily standup at X PM your time.&rdquo;</li></ol><p>If a studio can&rsquo;t answer all 7 in a 30-minute call, they&rsquo;re not the studio you want. <a href='https://calendly.com/itdgrowthlabs-info/30min' class='js-book-call'>You can put any of these to us on a 30-min call</a> &mdash; that&rsquo;s the test.</p>
+                                    <p>Run these checks before signing anything. We pass them; most don&rsquo;t.</p><ol><li><strong>Named engineer on the call.</strong> Not a sales person. The senior engineer who will own your build should be on the second discovery call, by name, with a LinkedIn URL you can verify.</li><li><strong>Three live apps in the App Store and Google Play that they built.</strong> Not screenshots. Live, downloadable, working. Ask for direct links.</li><li><strong>GitHub access during build.</strong> Daily commits, named PRs, code review history. If they can&rsquo;t share access to a private repo with you, walk.</li><li><strong>Two references they don&rsquo;t pre-prep.</strong> &ldquo;Give me a client I can call directly, without you on the line.&rdquo; Pass / fail filter.</li><li><strong>Written fixed-scope quote with milestone payments.</strong> Not &ldquo;T&amp;M&rdquo; for an MVP. Fixed scope, fixed price, fixed milestone schedule.</li><li><strong>Source-code escrow OR 100% code ownership.</strong> One or the other, written into the SOW.</li><li><strong>An honest answer about timezone overlap.</strong> &ldquo;We&rsquo;ll work your hours&rdquo; is a lie. Real answer: &ldquo;4 hours overlap with EST, 6 hours overlap with PST, daily standup at X PM your time.&rdquo;</li></ol><p>If a studio can&rsquo;t answer all 7 in a 30-minute call, they&rsquo;re not the studio you want. <a href='https://calendly.com/itdgrowthlabs-info/30min' class='js-book-call' target="_blank" rel="noopener">You can put any of these to us on a 30-min call</a> &mdash; that&rsquo;s the test.</p>
 
                                     <h2>Hidden Costs &mdash; What Both Markets Quote Below Reality</h2>
 
@@ -136,7 +136,7 @@
                                         <a href="https://calendly.com/itdgrowthlabs-info/30min"
                                            class="js-book-call"
                                            data-source="blog_bofu_app_development_cost_usa_vs_in"
-                                           style="background: #ff5722; color: #fff; padding: 14px 32px; border-radius: 6px; text-decoration: none; font-weight: 600; display: inline-block;">Book a 30-min Strategy Call &rarr;</a>
+                                           style="background: #ff5722; color: #fff; padding: 14px 32px; border-radius: 6px; text-decoration: none; font-weight: 600; display: inline-block;" target="_blank" rel="noopener">Book a 30-min Strategy Call &rarr;</a>
                                          &nbsp;|&nbsp; <a href="/services/App-Development.php" style="color:#fff;text-decoration:underline;">See our productised option &rarr;</a>
                                     </div>
 
@@ -189,12 +189,12 @@
                                 </div>
                             </div>
                             <div class="sidebar-item recent-post">
-                                <div class="title"><h4>Talk to Prashant</h4></div>
+                                <div class="title"><h4>Talk to our team</h4></div>
                                 <p style="padding: 10px 0;">Get a 30-min call with our Business Head. Honest scope, fixed quote within 48 hours.</p>
                                 <a href="https://calendly.com/itdgrowthlabs-info/30min"
                                    class="js-book-call"
                                    data-source="blog_bofu_sidebar"
-                                   style="display:inline-block;background:#ff5722;color:#fff;padding:10px 20px;border-radius:6px;text-decoration:none;font-weight:600;">Book Free 30-min Call &rarr;</a>
+                                   style="display:inline-block;background:#ff5722;color:#fff;padding:10px 20px;border-radius:6px;text-decoration:none;font-weight:600;" target="_blank" rel="noopener">Book Free 30-min Call &rarr;</a>
                             </div>
                         </aside>
                     </div>

@@ -875,7 +875,7 @@
                         <span><i class="fas fa-link"></i> Client: a deep-tech client</span>
                         <span><i class="fas fa-users"></i> Engagement: Active</span>
                     </div>
-                    <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call case-study-cta" data-source="case_study_hub_the client">Building a deep-tech product? Book a Call <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                    <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call case-study-cta" data-source="case_study_hub_the client" target="_blank" rel="noopener">Building a deep-tech product? Book a Call <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
                     <a href="case-studies/quantum-era-data-platform.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
                 </div>
             </div>

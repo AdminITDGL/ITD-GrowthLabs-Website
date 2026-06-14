@@ -252,7 +252,7 @@
             <a href="https://calendly.com/itdgrowthlabs-info/30min"
                class="js-book-call"
                data-source="compare_courier_hero"
-               style="display:inline-flex;align-items:center;gap:8px;background:#ff6b00;color:#fff;padding:14px 24px;border-radius:30px;font-weight:700;text-decoration:none;font-size:15px;box-shadow:0 4px 14px rgba(255,107,0,0.35);">
+               style="display:inline-flex;align-items:center;gap:8px;background:#ff6b00;color:#fff;padding:14px 24px;border-radius:30px;font-weight:700;text-decoration:none;font-size:15px;box-shadow:0 4px 14px rgba(255,107,0,0.35);" target="_blank" rel="noopener">
                 <i class="fas fa-calendar-check"></i> Book a 30-min Build-vs-Buy Call
             </a>
             <a href="#decision-framework"

@@ -139,7 +139,7 @@
         <div class="container">
             <?php itdgl_render_section_head('Process', 'Five stages, weekly demos, <span class="accent">no black box.</span>'); ?>
             <?php itdgl_render_process_steps([
-                ['title'=>'Discovery (30 min)', 'desc'=>'Free call with Prashant or your track&rsquo;s senior engineer. We listen, ask hard questions.'],
+                ['title'=>'Discovery (30 min)', 'desc'=>'Free call with your track&rsquo;s senior engineer. We listen, ask hard questions.'],
                 ['title'=>'Fixed quote (48 hrs)', 'desc'=>'Written scope, milestones, price. No T&amp;M trap. You see it before signing.'],
                 ['title'=>'Architecture sign-off', 'desc'=>'Design + architecture agreed before code is written. Stack, schema, integrations.'],
                 ['title'=>'2-week sprints', 'desc'=>'Weekly demo on your timezone. Slack/Teams. GitHub access. Daily commits visible.'],
@@ -204,7 +204,7 @@
 
     <?php itdgl_render_final_cta([
         'head'    => 'Get a fixed-quote in 48 hours.',
-        'sub'     => 'Free 30-min strategy call with Prashant. We&rsquo;ll talk through scope, stack and timeline, then send a fixed-scope quote within 48 hours. No sales pitch.',
+        'sub'     => 'Free 30-min strategy call with a senior practice lead. We&rsquo;ll talk through scope, stack and timeline, then send a fixed-scope quote within 48 hours. No sales pitch.',
         'primary' => ['url'=>'https://calendly.com/itdgrowthlabs-info/30min', 'label'=>'Book a 30-min Call', 'icon'=>'fas fa-calendar-check', 'source'=>'app_dev_final'],
         'secondary'=>['url'=>'https://wa.me/918450978544?text=Hi%20ITD%20GrowthLabs%2C%20I%27d%20like%20to%20discuss%20an%20app%20development%20project.', 'label'=>'WhatsApp Us', 'icon'=>'fab fa-whatsapp', 'target'=>'_blank'],
     ]); ?>

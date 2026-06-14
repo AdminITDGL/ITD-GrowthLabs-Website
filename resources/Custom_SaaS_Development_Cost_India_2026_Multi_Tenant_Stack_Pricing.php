@@ -131,11 +131,11 @@
                                     <!-- CTA Section (mid-page) -->
                                     <div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 40px; border-radius: 12px; margin: 40px 0; text-align: center; color: #fff;">
                                         <h3 style="color: #fff; margin-bottom: 15px;">Scoping a SaaS Build? Get an Honest 48-hr Quote.</h3>
-                                        <p style="color: #ccc; margin-bottom: 25px;">30-min strategy call with Prashant. We&rsquo;ll talk through architecture, billing, integrations, and your real go-to-market &mdash; then send a fixed-scope quote within 48 hours. If no-code is the right call, we&rsquo;ll say so.</p>
+                                        <p style="color: #ccc; margin-bottom: 25px;">30-min strategy call with a senior practice lead. We&rsquo;ll talk through architecture, billing, integrations, and your real go-to-market &mdash; then send a fixed-scope quote within 48 hours. If no-code is the right call, we&rsquo;ll say so.</p>
                                         <a href="https://calendly.com/itdgrowthlabs-info/30min"
                                            class="js-book-call"
                                            data-source="blog_bofu_custom_saas_development_cost_i"
-                                           style="background: #ff5722; color: #fff; padding: 14px 32px; border-radius: 6px; text-decoration: none; font-weight: 600; display: inline-block;">Talk to Prashant &rarr;</a>
+                                           style="background: #ff5722; color: #fff; padding: 14px 32px; border-radius: 6px; text-decoration: none; font-weight: 600; display: inline-block;" target="_blank" rel="noopener">Talk to our team &rarr;</a>
                                          &nbsp;|&nbsp; <a href="/services/saas_developement.php" style="color:#fff;text-decoration:underline;">See our productised option &rarr;</a>
                                     </div>
 
@@ -188,12 +188,12 @@
                                 </div>
                             </div>
                             <div class="sidebar-item recent-post">
-                                <div class="title"><h4>Talk to Prashant</h4></div>
+                                <div class="title"><h4>Talk to our team</h4></div>
                                 <p style="padding: 10px 0;">Get a 30-min call with our Business Head. Honest scope, fixed quote within 48 hours.</p>
                                 <a href="https://calendly.com/itdgrowthlabs-info/30min"
                                    class="js-book-call"
                                    data-source="blog_bofu_sidebar"
-                                   style="display:inline-block;background:#ff5722;color:#fff;padding:10px 20px;border-radius:6px;text-decoration:none;font-weight:600;">Book Free 30-min Call &rarr;</a>
+                                   style="display:inline-block;background:#ff5722;color:#fff;padding:10px 20px;border-radius:6px;text-decoration:none;font-weight:600;" target="_blank" rel="noopener">Book Free 30-min Call &rarr;</a>
                             </div>
                         </aside>
                     </div>
