@@ -110,6 +110,112 @@ img { max-width: 100%; height: auto; }
         min-height: 44px;
     }
 }
+
+/* ============================================================
+   Mobile grid collapse — targets inline grid-template-columns
+   so the many `style="display:grid;grid-template-columns:repeat(N,1fr)"`
+   blocks in our pages stack cleanly on phones without per-grid edits.
+   ============================================================ */
+@media (max-width: 991px) {
+    [style*="grid-template-columns:repeat(5"],
+    [style*="grid-template-columns: repeat(5"],
+    [style*="grid-template-columns:repeat(6"],
+    [style*="grid-template-columns: repeat(6"] {
+        grid-template-columns: repeat(3, 1fr) !important;
+    }
+    [style*="grid-template-columns:repeat(4"],
+    [style*="grid-template-columns: repeat(4"] {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+    [style*="grid-template-columns:repeat(3"],
+    [style*="grid-template-columns: repeat(3"] {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+}
+@media (max-width: 575px) {
+    [style*="grid-template-columns:repeat(5"],
+    [style*="grid-template-columns: repeat(5"],
+    [style*="grid-template-columns:repeat(6"],
+    [style*="grid-template-columns: repeat(6"] {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+    [style*="grid-template-columns:repeat(4"],
+    [style*="grid-template-columns: repeat(4"] {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+    [style*="grid-template-columns:repeat(3"],
+    [style*="grid-template-columns: repeat(3"] {
+        grid-template-columns: 1fr !important;
+    }
+    [style*="grid-template-columns:repeat(2"],
+    [style*="grid-template-columns: repeat(2"] {
+        grid-template-columns: 1fr !important;
+    }
+}
+
+/* ============================================================
+   Mobile container + section spacing fixes
+   ============================================================ */
+@media (max-width: 575px) {
+    /* Container — tighter side padding */
+    .container { padding-left: 16px !important; padding-right: 16px !important; }
+
+    /* Modern section padding tightened */
+    .md-sec { padding: 44px 0 !important; }
+    .md-sec-head { margin-bottom: 28px !important; }
+    .md-sec h2 { font-size: 22px !important; line-height: 1.22 !important; }
+
+    /* Modern hero stats — already had this; reinforce */
+    .md-hero-stats__grid {
+        grid-template-columns: repeat(2, 1fr) !important;
+        gap: 14px !important;
+    }
+    .md-hero-stats__num { font-size: 26px !important; }
+    .md-hero-stats__lbl { font-size: 12.5px !important; }
+
+    /* Modern hero CTAs stack full width */
+    .md-hero__ctas { flex-direction: column !important; align-items: stretch !important; gap: 10px !important; }
+    .md-hero__ctas .md-cta-primary,
+    .md-hero__ctas .md-cta-secondary { width: 100%; justify-content: center; text-align: center; }
+
+    /* Trust pills wrap nicely */
+    .md-trust-pills { gap: 10px !important; font-size: 12px !important; }
+    .md-trust-pills span { padding: 5px 10px !important; }
+
+    /* Final CTA buttons full width */
+    .md-final-cta .md-cta-primary,
+    .md-final-cta .md-cta-secondary { width: 100%; justify-content: center; text-align: center; max-width: 360px; }
+
+    /* Footer columns stack */
+    footer .col-lg-3, footer .col-md-3, footer .col-lg-4, footer .col-md-4,
+    footer .col-lg-6, footer .col-md-6 { width: 100% !important; max-width: 100%; flex: 0 0 100%; }
+    footer { padding: 36px 0 24px !important; }
+
+    /* Popup modal width safety */
+    .modal-dialog { margin: 14px !important; max-width: calc(100vw - 28px) !important; }
+}
+
+/* Tablet polish (576–767px) — two columns instead of one for some grids */
+@media (min-width: 576px) and (max-width: 767px) {
+    .md-hero-stats__grid {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+}
+
+/* ============================================================
+   Calendly + WhatsApp float cluster — safe-area + scroll behaviour
+   ============================================================ */
+@media (max-width: 768px) {
+    #itdgl-float-cluster {
+        bottom: max(14px, env(safe-area-inset-bottom, 14px)) !important;
+        right: 14px !important;
+    }
+    #itdgl-float-cluster a {
+        width: 48px !important;
+        height: 48px !important;
+        font-size: 20px !important;
+    }
+}
 </style>
 
 <!-- Mobile menu reveal CSS (the navbar-toggle button uses legacy Bootstrap 3
