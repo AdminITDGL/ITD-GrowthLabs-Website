@@ -76,11 +76,11 @@
 
     <?php itdgl_render_modern_hero([
         'crumbs'  => [['label'=>'Home','url'=>'/'], ['label'=>'About']],
-        'eyebrow' => '<span class="pulse"></span>Backed by 8-yr parent group',
+        'eyebrow' => '<span class="pulse"></span>55+ senior practitioners &middot; 300+ projects shipped',
         'pulse'   => true,
-        'title'   => 'We&rsquo;re the senior-led studio behind <span class="accent">300+ apps, SaaS platforms &amp; lead-gen systems</span> shipping right now.',
-        'sub'     => '55+ engineers, designers and strategists. 300+ projects delivered. 97% client retention. Led personally by <a href="https://www.linkedin.com/in/prashant-chaudhari03/" target="_blank" rel="noopener" style="color:#fff;border-bottom:1px dashed rgba(255,255,255,0.5);">Prashant Chaudhari</a>, our Business Head &mdash; who scopes every engagement, owns the relationship, and is your direct line.',
-        'primary' => ['url'=>'https://calendly.com/itdgrowthlabs-info/30min', 'label'=>'Book a Free 30-min Call with Prashant', 'icon'=>'fas fa-calendar-check', 'js_book_call'=>true, 'source'=>'about_hero_primary'],
+        'title'   => 'A senior-led India studio behind <span class="accent">300+ apps, SaaS platforms &amp; lead-gen systems</span> shipping right now.',
+        'sub'     => '55+ senior engineers, designers and strategists with 12+ years of in-category experience on average. 300+ projects delivered. 97% client retention. A named senior owner on every engagement &mdash; from kickoff through long-term roadmap.',
+        'primary' => ['url'=>'https://calendly.com/itdgrowthlabs-info/30min', 'label'=>'Book a Free 30-min Call', 'icon'=>'fas fa-calendar-check', 'js_book_call'=>true, 'source'=>'about_hero_primary'],
         'secondary'=> ['url'=>'/case-studies.php', 'label'=>'See Our Work', 'icon'=>'fas fa-folder-open'],
         'pills'   => [
             ['icon'=>'fas fa-shield-check', 'text'=>'12+ yrs avg team exp'],
@@ -91,12 +91,40 @@
             ['num'=>'300+', 'lbl'=>'Projects shipped'],
             ['num'=>'55+',  'lbl'=>'Senior team'],
             ['num'=>'97%',  'lbl'=>'Client retention'],
-            ['num'=>'10+',  'lbl'=>'Years avg team xp'],
+            ['num'=>'10+',  'lbl'=>'Industries served'],
         ],
     ]); ?>
 
     <!-- Trust badges -->
     <?php $tb_source = 'about'; include(__DIR__ . '/includes/trust-badges.php'); ?>
+
+    <!-- ============================================================
+         CLIENT LOGOS — real brands shipping on our stack
+         ============================================================ -->
+    <section class="itd-clients-about" style="background:#fff;padding:46px 0;border-bottom:1px solid var(--md-border);">
+        <div class="container">
+            <div style="text-align:center;margin-bottom:26px;">
+                <span style="display:inline-block;font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--md-orange);font-weight:800;background:rgba(255,107,0,0.08);padding:5px 14px;border-radius:18px;">Brands shipping on our stack</span>
+                <h3 style="font-size:18px;font-weight:700;color:var(--md-heading);margin:10px 0 0;letter-spacing:-0.2px;">A selection of recent client engagements <span style="color:var(--md-muted);font-weight:500;font-size:14.5px;">&mdash; many more under NDA</span></h3>
+            </div>
+            <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:16px;align-items:stretch;">
+                <?php foreach ([
+                    ['file'=>'mindsyn.png',            'alt'=>'MindSyn'],
+                    ['file'=>'courierdost.png',        'alt'=>'CourierDost'],
+                    ['file'=>'daakiyawala.png',        'alt'=>'Daakiyawala'],
+                    ['file'=>'transline-cargo.png',    'alt'=>'Transline Air Cargo Services'],
+                    ['file'=>'nex-navalai.png',        'alt'=>'NEX Navalai Enterprises'],
+                    ['file'=>'cariesco-group.png',     'alt'=>'Cariesco Group'],
+                    ['file'=>'technocrats.png',        'alt'=>'Technocrats (ISO 9001:2015)'],
+                    ['file'=>'m-four-development.png', 'alt'=>'M Four Development'],
+                ] as $c): ?>
+                <div style="background:#fff;border:1px solid var(--md-border);border-radius:12px;padding:22px 18px;display:flex;align-items:center;justify-content:center;min-height:110px;transition:transform .25s,border-color .25s,box-shadow .25s,filter .25s,opacity .25s;filter:grayscale(0.85);opacity:0.78;" onmouseover="this.style.transform='translateY(-3px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow)';this.style.filter='grayscale(0)';this.style.opacity='1'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow='';this.style.filter='grayscale(0.85)';this.style.opacity='0.78'">
+                    <img src="/assets/img/clients/<?php echo $c['file']; ?>" alt="<?php echo htmlspecialchars($c['alt']); ?>" loading="lazy" decoding="async" width="200" height="100" style="max-width:100%;max-height:68px;width:auto;height:auto;object-fit:contain;display:block;">
+                </div>
+                <?php endforeach; ?>
+            </div>
+        </div>
+    </section>
 
     <!-- WHY WE EXIST -->
     <section class="md-sec">

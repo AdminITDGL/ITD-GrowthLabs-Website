@@ -175,40 +175,86 @@
     <?php $tb_source = 'home'; include(__DIR__ . '/includes/trust-badges.php'); ?>
 
     <!-- ============================================================
-         CLIENT LOGOS — anonymized credible silhouettes
-         Ready for real logo swaps when supplied.
+         CLIENT LOGOS — real brands (more available under NDA)
          ============================================================ -->
-    <section style="background:#fff;padding:46px 0;border-bottom:1px solid var(--md-border);">
+    <style>
+    .itd-clients { background: #fff; padding: 50px 0; border-bottom: 1px solid var(--md-border); }
+    .itd-clients__head { text-align:center; margin-bottom: 30px; }
+    .itd-clients__eyebrow { display:inline-block; font-size: 11px; letter-spacing: 2px; text-transform: uppercase; color: var(--md-orange); font-weight: 800; background: rgba(255,107,0,0.08); padding: 5px 14px; border-radius: 18px; }
+    .itd-clients__title { font-size: 18px; font-weight: 700; color: var(--md-heading); margin: 10px 0 0; letter-spacing: -0.2px; }
+    .itd-clients__title .hl { color: var(--md-primary); }
+    .itd-clients__title .sub { color: var(--md-muted); font-weight: 500; font-size: 14.5px; }
+    .itd-clients__grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 16px;
+        align-items: stretch;
+    }
+    .itd-client-card {
+        background: #fff;
+        border: 1px solid var(--md-border);
+        border-radius: 12px;
+        padding: 22px 18px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 110px;
+        transition: transform .25s, border-color .25s, box-shadow .25s, filter .25s, opacity .25s;
+        filter: grayscale(0.85);
+        opacity: 0.78;
+    }
+    .itd-client-card:hover {
+        transform: translateY(-3px);
+        border-color: var(--md-orange);
+        box-shadow: var(--md-card-shadow);
+        filter: grayscale(0);
+        opacity: 1;
+    }
+    .itd-client-card img {
+        max-width: 100%;
+        max-height: 68px;
+        width: auto;
+        height: auto;
+        object-fit: contain;
+        display: block;
+    }
+    .itd-clients__foot { text-align:center; font-size: 12.5px; color: var(--md-muted); margin: 26px 0 0; }
+    .itd-clients__foot i { color: var(--md-orange); margin-right: 4px; }
+
+    @media (max-width: 768px) {
+        .itd-clients { padding: 40px 0; }
+        .itd-clients__grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+        .itd-client-card { min-height: 90px; padding: 16px 12px; }
+        .itd-client-card img { max-height: 50px; }
+    }
+    </style>
+    <section class="itd-clients">
         <div class="container">
-            <div style="text-align:center;margin-bottom:24px;">
-                <span style="display:inline-block;font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--md-orange);font-weight:800;background:rgba(255,107,0,0.08);padding:5px 14px;border-radius:18px;">Trusted by</span>
-                <h3 style="font-size:18px;font-weight:700;color:var(--md-heading);margin:10px 0 0;letter-spacing:-0.2px;">Growing businesses across <span style="color:var(--md-primary);">6 countries</span> &mdash; <span style="color:var(--md-muted);font-weight:500;font-size:14.5px;">a selection of recent engagements</span></h3>
+            <div class="itd-clients__head">
+                <span class="itd-clients__eyebrow">Trusted by</span>
+                <h3 class="itd-clients__title">A selection of brands shipping on our stack across <span class="hl">6 countries</span> &mdash; <span class="sub">many more under NDA</span></h3>
             </div>
-            <div style="display:grid;grid-template-columns:repeat(6,1fr);gap:14px;">
+            <div class="itd-clients__grid">
                 <?php foreach ([
-                    ['fas fa-truck',         'Courier Network',   '14 hubs · IN'],
-                    ['fas fa-bag-shopping',  'D2C Fashion',       'iOS + Android · IN'],
-                    ['fas fa-hospital',      'Multi-Clinic',      'ABDM live · IN'],
-                    ['fas fa-coins',         'NBFC Lender',       'Multi-state · IN'],
-                    ['fas fa-industry',      'Manufacturer',      'Tally + SAP · IN'],
-                    ['fas fa-house-chimney', 'Real Estate Dev',   'CRM + Broker app · IN'],
-                    ['fas fa-store',         'Hyperlocal MP',     '4-app suite · IN'],
-                    ['fas fa-flask',         'Diagnostic Chain',  'Multi-city · IN'],
-                    ['fas fa-cube',          'B2B SaaS',          'Multi-tenant · US'],
-                    ['fas fa-utensils',      'Food Delivery',     'Marketplace · UAE'],
-                    ['fas fa-graduation-cap','EdTech',            'LMS + Live · IN'],
-                    ['fas fa-globe',         'Pan-African D2C',   'E-com + Marketing · AF'],
+                    ['file'=>'mindsyn.png',            'alt'=>'MindSyn'],
+                    ['file'=>'courierdost.png',        'alt'=>'CourierDost'],
+                    ['file'=>'daakiyawala.png',        'alt'=>'Daakiyawala'],
+                    ['file'=>'transline-cargo.png',    'alt'=>'Transline Air Cargo Services'],
+                    ['file'=>'nex-navalai.png',        'alt'=>'NEX Navalai Enterprises'],
+                    ['file'=>'cariesco-group.png',     'alt'=>'Cariesco Group'],
+                    ['file'=>'technocrats.png',        'alt'=>'Technocrats (ISO 9001:2015)'],
+                    ['file'=>'m-four-development.png', 'alt'=>'M Four Development'],
                 ] as $c): ?>
-                <div style="background:#fff;border:1px solid var(--md-border);border-radius:10px;padding:18px 10px;text-align:center;transition:transform .25s, border-color .25s, box-shadow .25s; filter: grayscale(0.4); opacity: 0.85;" onmouseover="this.style.transform='translateY(-3px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow)';this.style.filter='grayscale(0)';this.style.opacity='1'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow='';this.style.filter='grayscale(0.4)';this.style.opacity='0.85'">
-                    <i class="<?php echo $c[0]; ?>" style="font-size:22px;color:var(--md-primary);margin-bottom:6px;"></i>
-                    <div style="font-size:12px;font-weight:700;color:var(--md-heading);line-height:1.3;"><?php echo $c[1]; ?></div>
-                    <div style="font-size:10.5px;color:var(--md-muted);margin-top:2px;"><?php echo $c[2]; ?></div>
+                <div class="itd-client-card">
+                    <img src="/assets/img/clients/<?php echo $c['file']; ?>"
+                         alt="<?php echo htmlspecialchars($c['alt']); ?>"
+                         loading="lazy" decoding="async" width="200" height="100">
                 </div>
                 <?php endforeach; ?>
             </div>
-            <p style="text-align:center;font-size:12px;color:var(--md-muted);margin:22px 0 0;">
-                <i class="fas fa-shield-check" style="color:var(--md-orange);margin-right:4px;"></i>
-                Client identities anonymized under NDAs. Real logos available on a 30-min discovery call.
+            <p class="itd-clients__foot">
+                <i class="fas fa-shield-check"></i>
+                Additional client identities protected under NDA &mdash; available on a 30-min discovery call.
             </p>
         </div>
     </section>
