@@ -454,7 +454,7 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        min-height: 170px;
+        min-height: 190px;
         transition: transform .25s, border-color .25s, box-shadow .25s;
     }
     .itd-client-card:hover {
@@ -464,7 +464,7 @@
     }
     .itd-client-card img {
         max-width: 92%;
-        max-height: 140px;
+        max-height: 160px;
         width: auto;
         height: auto;
         object-fit: contain;
@@ -475,14 +475,14 @@
 
     @media (max-width: 991px) {
         .itd-clients__grid { grid-template-columns: repeat(3, 1fr); }
-        .itd-client-card { min-height: 150px; }
-        .itd-client-card img { max-height: 120px; }
+        .itd-client-card { min-height: 170px; }
+        .itd-client-card img { max-height: 140px; }
     }
     @media (max-width: 640px) {
         .itd-clients { padding: 40px 0; }
         .itd-clients__grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
-        .itd-client-card { min-height: 130px; padding: 12px 8px; }
-        .itd-client-card img { max-height: 100px; }
+        .itd-client-card { min-height: 150px; padding: 12px 8px; }
+        .itd-client-card img { max-height: 120px; }
     }
     </style>
     <section class="itd-clients">

@@ -40,16 +40,12 @@ header.scrolled { box-shadow: 0 4px 16px rgba(15,23,42,0.08); background: #fffff
     .megamenu-content h6.title { font-size: 13.5px; letter-spacing: 0.4px; text-transform: uppercase; color: #1e40af; margin: 6px 0 4px; padding: 0 16px; }
     .megamenu-content .menu-col li > a { padding: 11px 16px !important; font-size: 14.5px; min-height: 44px; }
 
-    /* "Book a Call" button in attr-nav: full-width, prominent */
-    .attr-nav li.button { width: 100%; padding: 0; margin: 12px 0; }
-    .attr-nav li.button > a {
-        display: block; width: 100%; text-align: center;
-        background: linear-gradient(135deg, #1e40af 0%, #4338ca 100%); color: #fff !important;
-        padding: 14px 18px; border-radius: 8px;
-        font-size: 15px; font-weight: 700; letter-spacing: 0.2px;
-        box-shadow: 0 6px 18px rgba(30,64,175,0.25);
-    }
-    .attr-nav li.button > a:hover { background: #1e3a8a; }
+    /* Hide the standalone "Book a Call" attr-nav button on mobile entirely.
+       (The original markup places attr-nav OUTSIDE the collapsible menu, so
+       any attempt to make it visible on mobile renders a giant full-width
+       slab above the hero. The hero CTA + floating Calendly button cover
+       the same ground.) */
+    .attr-nav { display: none !important; }
 }
 
 /* ============================================================
@@ -203,17 +199,15 @@ img { max-width: 100%; height: auto; }
 }
 
 /* ============================================================
-   Calendly + WhatsApp float cluster — safe-area + scroll behaviour
+   Calendly + WhatsApp float cluster — safe-area only.
+   Do NOT force a square size on the children — the Calendly pill
+   is a wide button with a text label and forcing 48×48 clips it.
    ============================================================ */
 @media (max-width: 768px) {
     #itdgl-float-cluster {
         bottom: max(14px, env(safe-area-inset-bottom, 14px)) !important;
         right: 14px !important;
-    }
-    #itdgl-float-cluster a {
-        width: 48px !important;
-        height: 48px !important;
-        font-size: 20px !important;
+        max-width: calc(100vw - 28px);
     }
 }
 </style>
