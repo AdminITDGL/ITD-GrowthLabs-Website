@@ -55,12 +55,19 @@
      auto-opens the Calendly popup instead of navigating away. -->
 <script>
 (function(){
-    // Sitewide Calendly handler:
-    //   - On desktop where Calendly widget JS is loaded: open the popup
-    //   - On mobile, popup-blocked browsers, or before Calendly mounts: let the
-    //     anchor's target=_blank navigate to calendly.com in a new tab
-    //   - We always fire the GA4 calendly_open event so analytics doesn't depend
-    //     on whether the popup or the navigation served the click
+    // Sitewide Calendly handler — strict-precedence rules so a Book-a-Call click
+    // NEVER goes anywhere unexpected:
+    //
+    //   1. If the anchor has target="_blank" OR the user has Ctrl/Cmd/Shift-clicked
+    //      OR the click is a middle-click → let the browser handle it normally
+    //      (opens Calendly in a new tab). We just fire the GA event and return.
+    //   2. On mobile (<769px) → same: don't preventDefault, let the browser navigate.
+    //   3. On desktop with Calendly widget JS mounted → open the inline popup widget.
+    //   4. If the popup widget throws (CSP, ad-blocker, mount failure) →
+    //      fall back to opening Calendly in a new tab.
+    //
+    // The key fix: target="_blank" anchors are always allowed to navigate naturally,
+    // so the hero "Book a Free 30-min Call" CTA is bullet-proof.
     var isMobile = window.matchMedia && window.matchMedia('(max-width: 768px)').matches;
     document.addEventListener('click', function(e){
         var a = e.target.closest('a, button');
@@ -69,16 +76,31 @@
         var isCalendlyTrigger = a.classList.contains('js-book-call') ||
                                 /calendly\.com\/itdgrowthlabs-info/i.test(href);
         if (!isCalendlyTrigger) return;
-        // Always log the click as a generated lead event
-        if (typeof gtag === 'function') gtag('event', 'calendly_open', { source: a.dataset.source || 'inline_cta' });
-        // On mobile or without Calendly mounted: don't preventDefault — let target=_blank navigate
+
+        // Always fire the GA4 event (analytics decoupled from popup state).
+        if (typeof gtag === 'function') {
+            gtag('event', 'calendly_open', { source: a.dataset.source || 'inline_cta' });
+        }
+
+        // Strict rule #1: target="_blank" anchors must always navigate naturally.
+        // This makes "Book a Free 30-min Call" deterministic — it always opens
+        // Calendly in a new tab, regardless of Calendly widget state.
+        if (a.getAttribute('target') === '_blank') return;
+
+        // Strict rule #2: modified-key clicks open the URL in a new tab — let them.
+        if (e.ctrlKey || e.metaKey || e.shiftKey || e.button === 1) return;
+
+        // Strict rule #3: on mobile, let target navigate (most mobile clicks are
+        // taps, and Calendly's mobile popup is poor UX anyway).
         if (isMobile || !window.Calendly) return;
+
+        // Desktop + Calendly mounted → open the inline popup widget.
         e.preventDefault();
         var url = href && /calendly\.com/i.test(href) ? href : 'https://calendly.com/itdgrowthlabs-info/30min';
         try {
             Calendly.initPopupWidget({url: url});
         } catch (err) {
-            // If the popup throws (CSP, ad-blocker, etc.), fall back to direct navigation
+            // Popup mount failed (CSP / ad-blocker / load race). Fall back to new tab.
             window.open(url, '_blank', 'noopener');
         }
     }, false);
