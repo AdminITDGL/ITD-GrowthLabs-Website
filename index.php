@@ -177,15 +177,28 @@
         position: relative;
         min-width: 1ch;
     }
+    /* Rotator — italic + colour-matched underline so it visually reads as
+       a dynamic/cycling word, not just static text. */
     .h-hero__rotator {
         display: inline-block;
-        transition: opacity .35s ease, transform .35s ease;
+        font-style: italic;
+        border-bottom: 5px solid currentColor;
+        padding-bottom: 4px;
+        line-height: 1;
+        transition: opacity .35s ease, color .35s ease, border-color .35s ease;
     }
     .h-hero__rotator.r-blue   { color: #60a5fa; }
     .h-hero__rotator.r-red    { color: #f87171; }
     .h-hero__rotator.r-yellow { color: #fbbf24; }
     .h-hero__rotator.r-green  { color: #34d399; }
     .h-hero__rotator.r-purple { color: #c084fc; }
+    /* Tighten the underline on smaller headings */
+    @media (max-width: 991px) {
+        .h-hero__rotator { border-bottom-width: 4px; padding-bottom: 3px; }
+    }
+    @media (max-width: 640px) {
+        .h-hero__rotator { border-bottom-width: 3px; padding-bottom: 2px; }
+    }
 
     /* Value prop sub */
     .h-hero__sub {
