@@ -23,7 +23,10 @@
     <meta name="twitter:title" content="Custom Software, Mobile Apps &amp; SaaS for African Businesses | ITD GrowthLabs Africa" />
     <meta name="twitter:description" content="Senior India studio shipping software for African companies. USD fixed quotes, 100% code ownership, SAST overlap, POPIA / NDPR aware." />
 
-    <link rel="alternate" hreflang="en-us" href="https://itdgrowthlabs.com/africa/index.php" />
+    <link rel="alternate" hreflang="en-za" href="https://itdgrowthlabs.com/africa/index.php" />
+    <link rel="alternate" hreflang="en-ng" href="https://itdgrowthlabs.com/africa/index.php" />
+    <link rel="alternate" hreflang="en-ke" href="https://itdgrowthlabs.com/africa/index.php" />
+    <link rel="alternate" hreflang="en-us" href="https://itdgrowthlabs.com/usa/index.php" />
     <link rel="alternate" hreflang="en-gb" href="https://itdgrowthlabs.com/uk/index.php" />
     <link rel="alternate" hreflang="en-au" href="https://itdgrowthlabs.com/australia/index.php" />
     <link rel="alternate" hreflang="en-ae" href="https://itdgrowthlabs.com/uae/index.php" />

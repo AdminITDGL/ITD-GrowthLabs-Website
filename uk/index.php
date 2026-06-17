@@ -23,8 +23,8 @@
     <meta name="twitter:title" content="Custom Software, Mobile Apps &amp; SaaS for UK Businesses | ITD GrowthLabs UK" />
     <meta name="twitter:description" content="Senior India studio shipping software for UK companies. GBP fixed quotes, 100% code ownership, GMT overlap, UK GDPR ready." />
 
-    <link rel="alternate" hreflang="en-us" href="https://itdgrowthlabs.com/uk/index.php" />
     <link rel="alternate" hreflang="en-gb" href="https://itdgrowthlabs.com/uk/index.php" />
+    <link rel="alternate" hreflang="en-us" href="https://itdgrowthlabs.com/usa/index.php" />
     <link rel="alternate" hreflang="en-au" href="https://itdgrowthlabs.com/australia/index.php" />
     <link rel="alternate" hreflang="en-ae" href="https://itdgrowthlabs.com/uae/index.php" />
     <link rel="alternate" hreflang="en-in" href="https://itdgrowthlabs.com/" />
