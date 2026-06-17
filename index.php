@@ -177,17 +177,15 @@
         position: relative;
         min-width: 1ch;
     }
-    /* Rotator — A + B hybrid: italic + colour-matched underline + subtle
-       colour-tinted background highlight. The faint background reinforces
-       "this is a dynamic placeholder" without making it look like a button. */
+    /* Rotator — Option A: italic + colour-matched underline. Clean editorial
+       treatment that signals "this word is dynamic" without extra adornment. */
     .h-hero__rotator {
         display: inline-block;
         font-style: italic;
-        padding: 0 18px 6px;
+        padding-bottom: 6px;
         border-bottom: 5px solid currentColor;
-        border-radius: 6px 6px 0 0;
         line-height: 1.05;
-        transition: opacity .35s ease, color .35s ease, background-color .35s ease, border-color .35s ease;
+        transition: opacity .35s ease, color .35s ease, border-color .35s ease;
     }
     .h-hero__period {
         display: inline-block;
@@ -196,17 +194,17 @@
         margin-left: 2px;
         vertical-align: baseline;
     }
-    .h-hero__rotator.r-blue   { color: #60a5fa; background: rgba(96,165,250,0.10);  }
-    .h-hero__rotator.r-red    { color: #f87171; background: rgba(248,113,113,0.10); }
-    .h-hero__rotator.r-yellow { color: #fbbf24; background: rgba(251,191,36,0.10);  }
-    .h-hero__rotator.r-green  { color: #34d399; background: rgba(52,211,153,0.10);  }
-    .h-hero__rotator.r-purple { color: #c084fc; background: rgba(192,132,252,0.10); }
+    .h-hero__rotator.r-blue   { color: #60a5fa; }
+    .h-hero__rotator.r-red    { color: #f87171; }
+    .h-hero__rotator.r-yellow { color: #fbbf24; }
+    .h-hero__rotator.r-green  { color: #34d399; }
+    .h-hero__rotator.r-purple { color: #c084fc; }
     /* Tighten the underline on smaller headings */
     @media (max-width: 991px) {
-        .h-hero__rotator { border-bottom-width: 4px; padding: 0 14px 5px; }
+        .h-hero__rotator { border-bottom-width: 4px; padding-bottom: 5px; }
     }
     @media (max-width: 640px) {
-        .h-hero__rotator { border-bottom-width: 3px; padding: 0 10px 4px; }
+        .h-hero__rotator { border-bottom-width: 3px; padding-bottom: 4px; }
     }
 
     /* Value prop sub */
