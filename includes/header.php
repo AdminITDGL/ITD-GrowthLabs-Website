@@ -1,31 +1,7 @@
 <?php include(__DIR__ . "/mobile_nav_overlay.php"); ?>
-   <div class="country-flags-header">
-       <div class="container">
-           <div class="country-flags-container">
-               <a href="/uae/index.php" class="country-flag-item">
-                   <img src="/assets/img/uae.png" alt="UAE Flag">
-                   <span>UAE</span>
-               </a>
-               <a href="/africa/index.php" class="country-flag-item">
-                   <img src="/assets/img/africa.png" alt="Africa Flag">
-                   <span>Africa</span>
-               </a>
-               <a href="/australia/index.php" class="country-flag-item">
-                   <img src="/assets/img/australia.png" alt="Australia Flag">
-                   <span>Australia</span>
-               </a>
-               <a href="/uk/index.php" class="country-flag-item">
-                   <img src="/assets/img/uk.png" alt="UK Flag">
-                   <span>UK</span>
-               </a>
-               <a href="/usa/index.php" class="country-flag-item">
-                   <img src="/assets/img/usa.png" alt="USA Flag">
-                   <span>USA</span>
-               </a>
-           </div>
-       </div>
-   </div>
-   <header>
+   
+   <?php include $_SERVER['DOCUMENT_ROOT'] . '/includes/geo_ribbon.php'; ?>
+<header>
        <!-- Start Navigation -->
        <nav class="navbar mobile-sidenav navbar-default validnavs dark on menu-center no-full">
 
@@ -181,6 +157,7 @@
                <div class="attr-right">
                    <!-- Start Atribute Navigation -->
                    <div class="attr-nav">
+                       <?php include $_SERVER['DOCUMENT_ROOT'] . '/includes/region_selector.php'; ?>
                        <ul>
                            <li class="button">
                                <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call" data-source="nav_book_call" target="_blank" rel="noopener">Book a Call</a>
