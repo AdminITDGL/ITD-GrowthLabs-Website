@@ -1180,6 +1180,7 @@
 
     <?php include("./includes/footer.php") ?>
     <?php include("./includes/footer_script.php") ?>
-    <?php include("./includes/popup_modal.php") ?>
+    <?php /* popup_modal intentionally NOT included on home — keep first-visit
+              experience clean. The popup still fires on all other pages. */ ?>
 </body>
 </html>

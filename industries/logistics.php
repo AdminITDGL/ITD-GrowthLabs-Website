@@ -79,6 +79,34 @@
         ],
     ]); ?>
 
+
+    <!-- ============================================================
+         CLIENT LOGOS — real brands trusted across industries
+         ============================================================ -->
+    <section style="background:#fff;padding:46px 0;border-bottom:1px solid var(--md-border);">
+        <div class="container">
+            <div style="text-align:center;margin-bottom:24px;">
+                <span style="display:inline-block;font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--md-orange);font-weight:800;background:rgba(255,107,0,0.08);padding:5px 14px;border-radius:18px;">Trusted by</span>
+                <h3 style="font-size:18px;font-weight:700;color:var(--md-heading);margin:10px 0 0;letter-spacing:-0.2px;">Brands shipping on our stack &mdash; <span style="color:var(--md-muted);font-weight:500;font-size:14.5px;">many more under NDA</span></h3>
+            </div>
+            <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:18px;align-items:stretch;">
+                <?php foreach ([
+                    ['file'=>'mindsyn.png',            'alt'=>'MindSyn'],
+                    ['file'=>'courierdost.png',        'alt'=>'CourierDost'],
+                    ['file'=>'daakiyawala.png',        'alt'=>'Daakiyawala'],
+                    ['file'=>'transline-cargo.png',    'alt'=>'Transline Air Cargo Services'],
+                    ['file'=>'nex-navalai.png',        'alt'=>'NEX Navalai Enterprises'],
+                    ['file'=>'cariesco-group.png',     'alt'=>'Cariesco Group'],
+                    ['file'=>'technocrats.png',        'alt'=>'Technocrats (ISO 9001:2015)'],
+                    ['file'=>'m-four-development.png', 'alt'=>'M Four Development'],
+                ] as $c): ?>
+                <div style="background:#fff;border:1px solid var(--md-border);border-radius:14px;padding:14px 12px;display:flex;align-items:center;justify-content:center;min-height:190px;transition:transform .25s,border-color .25s,box-shadow .25s;" onmouseover="this.style.transform='translateY(-3px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow-h)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
+                    <img src="/assets/img/clients/<?php echo $c['file']; ?>" alt="<?php echo htmlspecialchars($c['alt']); ?>" loading="lazy" decoding="async" width="200" height="100" style="max-width:92%;max-height:160px;width:auto;height:auto;object-fit:contain;display:block;">
+                </div>
+                <?php endforeach; ?>
+            </div>
+        </div>
+    </section>
     <!-- COMMON PAIN POINTS -->
     <section class="md-sec">
         <div class="container">
