@@ -177,6 +177,7 @@
 
 <!-- Start Footer 
     ============================================= -->
+    <?php include("../includes/blog_author_bio.php") ?>
     <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
         <div class="container">
             <div class="f-items default-padding-bottom pt-70 pt-xs-0">

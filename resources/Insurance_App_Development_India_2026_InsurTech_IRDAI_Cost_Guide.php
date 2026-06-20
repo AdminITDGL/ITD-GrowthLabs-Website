@@ -181,6 +181,7 @@
             </div>
         </div>
     </div>
+    <?php include("../includes/blog_author_bio.php") ?>
 
     <?php include("../includes/footer.php") ?>
 
