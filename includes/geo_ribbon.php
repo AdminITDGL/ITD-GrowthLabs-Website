@@ -18,16 +18,30 @@
 $itdgl_cf_country = strtoupper($_SERVER['HTTP_CF_IPCOUNTRY'] ?? '');
 $itdgl_path       = $_SERVER['PHP_SELF'] ?? '';
 
-// Map ISO country code → localized landing page + display name
+// Inline SVG flag fragments — same crisp 3:2 ratio as the region pill.
+$itdgl_ribbon_flag_us = '<svg viewBox="0 0 60 40" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><rect width="60" height="40" fill="#B22234"/><g fill="#FFFFFF"><rect width="60" height="3.08" y="3.08"/><rect width="60" height="3.08" y="9.23"/><rect width="60" height="3.08" y="15.38"/><rect width="60" height="3.08" y="21.54"/><rect width="60" height="3.08" y="27.69"/><rect width="60" height="3.08" y="33.85"/></g><rect width="24" height="21.54" fill="#3C3B6E"/></svg>';
+$itdgl_ribbon_flag_gb = '<svg viewBox="0 0 60 40" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><rect width="60" height="40" fill="#012169"/><path d="M0,0 L60,40 M60,0 L0,40" stroke="#FFFFFF" stroke-width="6"/><path d="M0,0 L60,40 M60,0 L0,40" stroke="#C8102E" stroke-width="3"/><path d="M30,0 L30,40 M0,20 L60,20" stroke="#FFFFFF" stroke-width="10"/><path d="M30,0 L30,40 M0,20 L60,20" stroke="#C8102E" stroke-width="6"/></svg>';
+$itdgl_ribbon_flag_ae = '<svg viewBox="0 0 60 40" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><rect width="60" height="13.33" y="0" fill="#00732F"/><rect width="60" height="13.34" y="13.33" fill="#FFFFFF"/><rect width="60" height="13.33" y="26.67" fill="#000000"/><rect width="15" height="40" fill="#FF0000"/></svg>';
+$itdgl_ribbon_flag_au = '<svg viewBox="0 0 60 40" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><rect width="60" height="40" fill="#012169"/><rect width="30" height="20" fill="#012169"/><path d="M0,0 L30,20 M30,0 L0,20" stroke="#FFFFFF" stroke-width="2.5"/><path d="M0,0 L30,20 M30,0 L0,20" stroke="#C8102E" stroke-width="1.2"/><path d="M15,0 L15,20 M0,10 L30,10" stroke="#FFFFFF" stroke-width="4"/><path d="M15,0 L15,20 M0,10 L30,10" stroke="#C8102E" stroke-width="2.5"/><g fill="#FFFFFF"><circle cx="45" cy="10" r="1.6"/><circle cx="50" cy="20" r="1.8"/><circle cx="40" cy="22" r="1.4"/><circle cx="48" cy="30" r="1.6"/><circle cx="55" cy="28" r="1.2"/></g></svg>';
+// South Africa flag (used for ZA-detected visitors going to /africa/)
+$itdgl_ribbon_flag_za = '<svg viewBox="0 0 60 40" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><rect width="60" height="40" fill="#001489"/><rect width="60" height="20" y="0" fill="#E03C31"/><polygon points="0,0 0,40 18,20" fill="#007749" stroke="#FFFFFF" stroke-width="3"/><polygon points="0,0 0,40 18,20" fill="#007749"/><polygon points="0,4 0,36 14,20" fill="#000000"/></svg>';
+// Nigeria
+$itdgl_ribbon_flag_ng = '<svg viewBox="0 0 60 40" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><rect width="20" height="40" fill="#008751"/><rect width="20" height="40" x="20" fill="#FFFFFF"/><rect width="20" height="40" x="40" fill="#008751"/></svg>';
+// Kenya
+$itdgl_ribbon_flag_ke = '<svg viewBox="0 0 60 40" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><rect width="60" height="40" fill="#FFFFFF"/><rect width="60" height="12" y="0" fill="#000000"/><rect width="60" height="12" y="28" fill="#006B3F"/><rect width="60" height="4" y="12" fill="#FFFFFF"/><rect width="60" height="4" y="24" fill="#FFFFFF"/><rect width="60" height="12" y="14" fill="#BB0000"/></svg>';
+// Egypt
+$itdgl_ribbon_flag_eg = '<svg viewBox="0 0 60 40" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><rect width="60" height="13.33" y="0" fill="#CE1126"/><rect width="60" height="13.34" y="13.33" fill="#FFFFFF"/><rect width="60" height="13.33" y="26.67" fill="#000000"/></svg>';
+
+// Map ISO country code → localized landing page + display name + flag SVG
 $itdgl_country_targets = [
-    'US' => ['url' => '/usa/index.php',       'name' => 'the United States', 'short' => 'US', 'flag' => "\xF0\x9F\x87\xBA\xF0\x9F\x87\xB8"],
-    'GB' => ['url' => '/uk/index.php',        'name' => 'the United Kingdom','short' => 'UK', 'flag' => "\xF0\x9F\x87\xAC\xF0\x9F\x87\xA7"],
-    'AE' => ['url' => '/uae/index.php',       'name' => 'the UAE',           'short' => 'UAE','flag' => "\xF0\x9F\x87\xA6\xF0\x9F\x87\xAA"],
-    'AU' => ['url' => '/australia/index.php', 'name' => 'Australia',         'short' => 'AU', 'flag' => "\xF0\x9F\x87\xA6\xF0\x9F\x87\xBA"],
-    'ZA' => ['url' => '/africa/index.php',    'name' => 'South Africa',      'short' => 'AF', 'flag' => "\xF0\x9F\x87\xBF\xF0\x9F\x87\xA6"],
-    'NG' => ['url' => '/africa/index.php',    'name' => 'Nigeria',           'short' => 'AF', 'flag' => "\xF0\x9F\x87\xB3\xF0\x9F\x87\xAC"],
-    'KE' => ['url' => '/africa/index.php',    'name' => 'Kenya',             'short' => 'AF', 'flag' => "\xF0\x9F\x87\xB0\xF0\x9F\x87\xAA"],
-    'EG' => ['url' => '/africa/index.php',    'name' => 'Egypt',             'short' => 'AF', 'flag' => "\xF0\x9F\x87\xAA\xF0\x9F\x87\xAC"],
+    'US' => ['url' => '/usa/index.php',       'name' => 'the United States', 'short' => 'US', 'flag' => $itdgl_ribbon_flag_us],
+    'GB' => ['url' => '/uk/index.php',        'name' => 'the United Kingdom','short' => 'UK', 'flag' => $itdgl_ribbon_flag_gb],
+    'AE' => ['url' => '/uae/index.php',       'name' => 'the UAE',           'short' => 'UAE','flag' => $itdgl_ribbon_flag_ae],
+    'AU' => ['url' => '/australia/index.php', 'name' => 'Australia',         'short' => 'AU', 'flag' => $itdgl_ribbon_flag_au],
+    'ZA' => ['url' => '/africa/index.php',    'name' => 'South Africa',      'short' => 'AF', 'flag' => $itdgl_ribbon_flag_za],
+    'NG' => ['url' => '/africa/index.php',    'name' => 'Nigeria',           'short' => 'AF', 'flag' => $itdgl_ribbon_flag_ng],
+    'KE' => ['url' => '/africa/index.php',    'name' => 'Kenya',             'short' => 'AF', 'flag' => $itdgl_ribbon_flag_ke],
+    'EG' => ['url' => '/africa/index.php',    'name' => 'Egypt',             'short' => 'AF', 'flag' => $itdgl_ribbon_flag_eg],
 ];
 
 $itdgl_show_ribbon = false;
@@ -57,8 +71,16 @@ if ($itdgl_show_ribbon && $itdgl_target):
     gap: 14px;
     flex-wrap: wrap;
 }
-.itdgl-geo-ribbon .msg { display: inline-flex; align-items: center; gap: 8px; font-weight: 500; }
-.itdgl-geo-ribbon .msg .flag { font-size: 17px; }
+.itdgl-geo-ribbon .msg { display: inline-flex; align-items: center; gap: 10px; font-weight: 500; }
+.itdgl-geo-ribbon .msg .flag {
+    display: inline-block;
+    width: 24px; height: 17px;
+    border-radius: 3px;
+    overflow: hidden;
+    box-shadow: 0 0 0 1px rgba(154,52,18,0.20);
+    flex: 0 0 24px;
+}
+.itdgl-geo-ribbon .msg .flag svg { width: 100%; height: 100%; display: block; }
 .itdgl-geo-ribbon .msg strong { color: #9a3412; font-weight: 700; }
 .itdgl-geo-ribbon .actions { display: inline-flex; align-items: center; gap: 14px; }
 .itdgl-geo-ribbon .actions a {
@@ -83,7 +105,7 @@ if ($itdgl_show_ribbon && $itdgl_target):
 <div class="itdgl-geo-ribbon" id="itdgl-geo-ribbon" role="region" aria-label="Region recommendation">
     <div class="container">
         <span class="msg">
-            <span class="flag" aria-hidden="true"><?php echo $itdgl_target['flag']; ?></span>
+            <span class="flag"><?php echo $itdgl_target['flag']; ?></span>
             Visiting from <strong><?php echo htmlspecialchars($itdgl_target['name']); ?></strong>?
         </span>
         <span class="actions">
