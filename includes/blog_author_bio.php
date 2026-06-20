@@ -18,42 +18,45 @@
 $itdgl_caller = isset($_SERVER['SCRIPT_FILENAME']) ? basename($_SERVER['SCRIPT_FILENAME']) : '';
 $itdgl_caller_lc = strtolower($itdgl_caller);
 
+// Order matters — most specific industries/technologies first, so
+// generic patterns like '_app_' (Mobile) don't eat 'Logistics_App_…'
+// or similar before the more specific pod can claim it.
 $itdgl_pods = [
-    'mobile' => [
-        'name'  => 'ITD Mobile Engineering',
-        'desc'  => 'Senior iOS, Android, Flutter and React Native engineers shipping production mobile apps for 200+ B2B and D2C clients.',
-        'tags'  => ['iOS', 'Android', 'Flutter', 'React Native', 'Native + Hybrid'],
-        'match' => ['mobile', 'ios', 'android', 'flutter', '_app_', '-app-', 'react_native', 'reactnative'],
-    ],
-    'saas' => [
-        'name'  => 'ITD SaaS Engineering',
-        'desc'  => 'Senior backend, infra and product engineers shipping multi-tenant SaaS platforms across fintech, logistics and B2B verticals.',
-        'tags'  => ['Multi-tenant', 'Stripe billing', 'RBAC', 'SOC 2', 'Next.js + Node'],
-        'match' => ['saas', 'webapp', 'web_app', 'web_application', 'multi_tenant'],
-    ],
     'logistics' => [
         'name'  => 'ITD Logistics Engineering',
         'desc'  => 'Senior engineers behind 50M+ shipments shipped on our courier, fleet and last-mile platforms across 14+ hubs.',
         'tags'  => ['Courier CMS', 'TMS', 'Last-mile', 'Fleet ops', 'Multi-carrier'],
-        'match' => ['logistic', 'courier', 'shipping', 'shiprocket', 'shipway', 'fleet', 'last_mile', 'tms_'],
-    ],
-    'marketing' => [
-        'name'  => 'ITD Digital Marketing',
-        'desc'  => 'Senior strategists and operators running performance ads, SEO, content and AI-driven lead generation. Rs 8Cr+ in managed spend, 500+ SEO projects.',
-        'tags'  => ['SEO', 'Google Ads', 'Meta Ads', 'Content', 'Lead-gen'],
-        'match' => ['marketing', 'seo', 'lead', 'social_media', 'social-media', 'ads', 'ppc', 'content_writing', 'whatsapp_marketing', 'whatsapp_automation'],
-    ],
-    'web' => [
-        'name'  => 'ITD Web Engineering',
-        'desc'  => 'Senior web engineers shipping high-converting custom sites, WordPress builds and headless storefronts. 300+ websites shipped.',
-        'tags'  => ['Custom HTML', 'WordPress', 'Headless', 'Shopify', 'WooCommerce'],
-        'match' => ['website', 'web_design', 'wordpress', 'shopify', 'woocommerce', 'ecommerce'],
+        'match' => ['logistic', 'courier', 'shipping', 'shiprocket', 'shipway', 'fleet', 'last_mile', 'tms_', 'warehouse', 'supply_chain', 'multi_carrier'],
     ],
     'ai' => [
         'name'  => 'ITD AI &amp; Automation',
         'desc'  => 'Senior engineers building AI agents, automation pipelines and intelligent workflows for B2B operators.',
         'tags'  => ['Workflow AI', 'Agents', 'RAG', 'Automation', 'LLM integration'],
-        'match' => ['ai_', '_ai_', 'automation', 'chatbot', 'llm', 'gpt', 'genai', 'machine_learning'],
+        'match' => ['ai_', '_ai_', 'automation', 'chatbot', 'llm', 'gpt', 'genai', 'machine_learning', 'artificial_intelligence'],
+    ],
+    'saas' => [
+        'name'  => 'ITD SaaS Engineering',
+        'desc'  => 'Senior backend, infra and product engineers shipping multi-tenant SaaS platforms across fintech, logistics and B2B verticals.',
+        'tags'  => ['Multi-tenant', 'Stripe billing', 'RBAC', 'SOC 2', 'Next.js + Node'],
+        'match' => ['saas', 'web_app', 'web_application', 'webapp', 'multi_tenant', 'multi-tenant'],
+    ],
+    'marketing' => [
+        'name'  => 'ITD Digital Marketing',
+        'desc'  => 'Senior strategists and operators running performance ads, SEO, content and AI-driven lead generation. Rs 8Cr+ in managed spend, 500+ SEO projects.',
+        'tags'  => ['SEO', 'Google Ads', 'Meta Ads', 'Content', 'Lead-gen'],
+        'match' => ['marketing', 'seo', '_ads_', 'ppc', 'social_media', 'social-media', 'content_writing', 'whatsapp_marketing', 'whatsapp_automation', 'lead_generation', 'lead-generation', 'meta_ads', 'google_ads'],
+    ],
+    'web' => [
+        'name'  => 'ITD Web Engineering',
+        'desc'  => 'Senior web engineers shipping high-converting custom sites, WordPress builds and headless storefronts. 300+ websites shipped.',
+        'tags'  => ['Custom HTML', 'WordPress', 'Headless', 'Shopify', 'WooCommerce'],
+        'match' => ['website', 'web_design', 'wordpress', 'shopify', 'woocommerce', 'ecommerce', 'landing_page', 'd2c'],
+    ],
+    'mobile' => [
+        'name'  => 'ITD Mobile Engineering',
+        'desc'  => 'Senior iOS, Android, Flutter and React Native engineers shipping production mobile apps for 200+ B2B and D2C clients.',
+        'tags'  => ['iOS', 'Android', 'Flutter', 'React Native', 'Native + Hybrid'],
+        'match' => ['mobile', 'ios', 'android', 'flutter', 'app_development', 'app-development', '_app_', '-app-', 'react_native', 'reactnative'],
     ],
     'editorial' => [
         'name'  => 'ITD GrowthLabs Editorial Team',
