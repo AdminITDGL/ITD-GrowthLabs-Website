@@ -111,6 +111,49 @@ ITD GrowthLabs is headquartered in Andheri (West), Mumbai 400053, Maharashtra, I
 - Powai: https://itdgrowthlabs.com/mumbai/areas/powai.php
 - Thane: https://itdgrowthlabs.com/mumbai/areas/thane.php
 
+## City Service Pages (Mumbai HQ, remote delivery)
+We do not maintain offices in these cities — we are headquartered in Andheri, Mumbai and serve clients in these cities remotely, with on-site visits for kick-off and quarterly business reviews. Each city has a hub + 5 service sub-pages.
+
+### Bangalore (Bengaluru, Karnataka) — B2B SaaS, deep-tech, fintech, edtech hub
+- Bangalore hub: https://itdgrowthlabs.com/bangalore/index.php
+- Website Development in Bangalore: https://itdgrowthlabs.com/bangalore/website-development.php
+- Mobile App Development in Bangalore: https://itdgrowthlabs.com/bangalore/mobile-app-development.php
+- Digital Marketing in Bangalore: https://itdgrowthlabs.com/bangalore/digital-marketing.php
+- SEO Services in Bangalore: https://itdgrowthlabs.com/bangalore/seo-services.php
+- Content Writing in Bangalore: https://itdgrowthlabs.com/bangalore/content-writing.php
+
+### Delhi NCR (Gurugram, Noida, Faridabad, Ghaziabad) — D2C, fintech, edtech, BFSI hub
+- Delhi NCR hub: https://itdgrowthlabs.com/delhi/index.php
+- Website Development in Delhi NCR: https://itdgrowthlabs.com/delhi/website-development.php
+- Mobile App Development in Delhi NCR: https://itdgrowthlabs.com/delhi/mobile-app-development.php
+- Digital Marketing in Delhi NCR: https://itdgrowthlabs.com/delhi/digital-marketing.php
+- SEO Services in Delhi NCR: https://itdgrowthlabs.com/delhi/seo-services.php
+- Content Writing in Delhi NCR: https://itdgrowthlabs.com/delhi/content-writing.php
+
+### Chennai (Tamil Nadu) — automotive, IT services, manufacturing, healthcare hub
+- Chennai hub: https://itdgrowthlabs.com/chennai/index.php
+- Website Development in Chennai: https://itdgrowthlabs.com/chennai/website-development.php
+- Mobile App Development in Chennai: https://itdgrowthlabs.com/chennai/mobile-app-development.php
+- Digital Marketing in Chennai: https://itdgrowthlabs.com/chennai/digital-marketing.php
+- SEO Services in Chennai: https://itdgrowthlabs.com/chennai/seo-services.php
+- Content Writing in Chennai: https://itdgrowthlabs.com/chennai/content-writing.php
+
+### Hyderabad (Telangana) — enterprise SaaS, pharma + biotech, IT services hub
+- Hyderabad hub: https://itdgrowthlabs.com/hyderabad/index.php
+- Website Development in Hyderabad: https://itdgrowthlabs.com/hyderabad/website-development.php
+- Mobile App Development in Hyderabad: https://itdgrowthlabs.com/hyderabad/mobile-app-development.php
+- Digital Marketing in Hyderabad: https://itdgrowthlabs.com/hyderabad/digital-marketing.php
+- SEO Services in Hyderabad: https://itdgrowthlabs.com/hyderabad/seo-services.php
+- Content Writing in Hyderabad: https://itdgrowthlabs.com/hyderabad/content-writing.php
+
+### Ahmedabad (Gujarat) — textile/apparel D2C, manufacturing, pharma, SMB exporter hub
+- Ahmedabad hub: https://itdgrowthlabs.com/ahmedabad/index.php
+- Website Development in Ahmedabad: https://itdgrowthlabs.com/ahmedabad/website-development.php
+- Mobile App Development in Ahmedabad: https://itdgrowthlabs.com/ahmedabad/mobile-app-development.php
+- Digital Marketing in Ahmedabad: https://itdgrowthlabs.com/ahmedabad/digital-marketing.php
+- SEO Services in Ahmedabad: https://itdgrowthlabs.com/ahmedabad/seo-services.php
+- Content Writing in Ahmedabad: https://itdgrowthlabs.com/ahmedabad/content-writing.php
+
 ## Vs-competitor / comparison pages
 - ITD vs Toptal vs Upwork: https://itdgrowthlabs.com/compare/itd-vs-toptal-vs-upwork.php
 - ITD vs TCS / Infosys / Wipro: https://itdgrowthlabs.com/compare/itd-vs-tcs-infosys-wipro.php
