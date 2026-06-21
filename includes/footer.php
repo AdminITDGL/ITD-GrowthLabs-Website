@@ -252,13 +252,15 @@
                         </ul>
                     </div>
                     <br>
-                    <div class="f-item contact">
+                    <div class="f-item contact h-card vcard" itemscope itemtype="https://schema.org/LocalBusiness">
                         <h4 class="widget-title">Contact Us</h4>
-                        <p><i class="fa-solid fa-phone"></i> <a href="https://wa.me/918450978544" target="_blank" style="color:#dedede">Phone:+91 8450978544</a></p>
-                        <p><i class="fa fa-envelope"></i> <a href="mailto:info@itdgrowthlabs.com" style="color:#dedede"> Email: info@itdgrowthlabs.com </a></p>
-                        <p><i class="fa fa-globe"> </i> <a href="https://itdgrowthlabs.com/" style="color:#dedede"> Website: www.itdgrowthlabs.com </a></p>
-                        <ul>
-                            <li>Andheri, Mumbai, India</li>
+                        <meta itemprop="name" class="p-name fn org" content="ITD GrowthLabs" />
+                        <p><i class="fa-solid fa-phone"></i> <a href="https://wa.me/918450978544" target="_blank" style="color:#dedede" class="p-tel tel" itemprop="telephone">Phone: +91 8450978544</a></p>
+                        <p><i class="fa fa-envelope"></i> <a href="mailto:info@itdgrowthlabs.com" style="color:#dedede" class="u-email email" itemprop="email"> Email: info@itdgrowthlabs.com </a></p>
+                        <p><i class="fa fa-globe"></i> <a href="https://itdgrowthlabs.com/" style="color:#dedede" class="u-url url" itemprop="url"> Website: www.itdgrowthlabs.com </a></p>
+                        <ul class="p-adr adr" itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+                            <li><span class="p-street-address street-address" itemprop="streetAddress">Andheri</span>, <span class="p-locality locality" itemprop="addressLocality">Mumbai</span>, <span class="p-region region" itemprop="addressRegion">Maharashtra</span> <span class="p-postal-code postal-code" itemprop="postalCode">400053</span>, <span class="p-country-name country-name" itemprop="addressCountry">India</span></li>
+                            <li style="font-size:12px;color:#bdbdbd;">Mon&ndash;Sat 9am&ndash;6pm IST &middot; Walk-in by appointment</li>
                         </ul>
                         <div class="mt-3">
                             <a href="https://www.linkedin.com/company/itd-growthlabs/" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-linkedin"></i></a>
@@ -285,4 +287,9 @@
         </div>
     </div>
     <!-- End Footer Bottom -->
+
+    <!-- Sitewide LocalBusiness schema (NAP + areaServed Mumbai) -->
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"LocalBusiness","@id":"https://itdgrowthlabs.com/#localbusiness","name":"ITD GrowthLabs","alternateName":"ITD GrowthLabs - Website, App & Digital Marketing Company in Mumbai","url":"https://itdgrowthlabs.com/","logo":"https://itdgrowthlabs.com/assets/img/logo.jpg","image":"https://itdgrowthlabs.com/assets/img/logo.jpg","description":"Senior-led India studio in Andheri, Mumbai shipping websites, mobile apps, SaaS, digital marketing, SEO and content writing for D2C, B2B SaaS, NBFC and PropTech buyers. 300+ projects, 55+ senior practitioners, 97% client retention.","telephone":"+91-8450978544","email":"info@itdgrowthlabs.com","priceRange":"₹₹","address":{"@type":"PostalAddress","streetAddress":"Andheri","addressLocality":"Mumbai","addressRegion":"Maharashtra","postalCode":"400053","addressCountry":"IN"},"geo":{"@type":"GeoCoordinates","latitude":19.1136,"longitude":72.8697},"hasMap":"https://www.google.com/maps/place/Andheri,+Mumbai,+Maharashtra/@19.1136,72.8697,15z","openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"opens":"09:00","closes":"18:00"}],"areaServed":[{"@type":"City","name":"Mumbai"},{"@type":"City","name":"Navi Mumbai"},{"@type":"City","name":"Thane"},{"@type":"AdministrativeArea","name":"Maharashtra"},{"@type":"Country","name":"India"}],"sameAs":["https://www.linkedin.com/company/itd-growthlabs/","https://www.instagram.com/itdgrowthlabs/","https://www.facebook.com/itdgrowthlabs/","https://twitter.com/itdgrowthlabs","https://www.youtube.com/@itdgrowthlabs"]}
+    </script>
 </footer>

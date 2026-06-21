@@ -202,6 +202,47 @@
         </div>
     </section>
 
+    <!-- MUMBAI HQ + MAPS EMBED -->
+    <section class="md-sec" id="mumbai-hq">
+        <div class="container">
+            <?php itdgl_render_section_head(
+                'Mumbai HQ &mdash; Andheri',
+                'Walk-in by appointment &mdash; <span class="accent">Andheri, Mumbai 400053</span>.',
+                'Mon&ndash;Sat 9am&ndash;6pm IST. We meet clients on-site across Mumbai (Andheri, Bandra, BKC, Lower Parel, Powai, Thane). For a deeper dive into Mumbai-specific pricing and services see our <a href="/mumbai/index.php"><strong>Mumbai service hub</strong></a>.'
+            ); ?>
+            <div style="display:grid;grid-template-columns:1fr 1fr;gap:32px;align-items:stretch;">
+                <div style="background:#fff;border:1px solid var(--md-border);border-radius:14px;padding:30px 32px;box-shadow:var(--md-card-shadow);">
+                    <h3 style="font-size:20px;font-weight:800;margin:0 0 14px;color:var(--md-heading);">ITD GrowthLabs &mdash; Andheri</h3>
+                    <p style="font-size:15px;line-height:1.8;color:var(--md-body);margin:0 0 18px;">
+                        <i class="fas fa-location-dot" style="color:var(--md-primary);margin-right:6px;"></i>Andheri, Mumbai, Maharashtra 400053, India<br>
+                        <i class="fas fa-phone" style="color:var(--md-primary);margin-right:6px;"></i><a href="https://wa.me/918450978544" target="_blank" style="color:var(--md-body);">+91 8450978544</a> (WhatsApp / Call)<br>
+                        <i class="fas fa-envelope" style="color:var(--md-primary);margin-right:6px;"></i><a href="mailto:info@itdgrowthlabs.com" style="color:var(--md-body);">info@itdgrowthlabs.com</a><br>
+                        <i class="fas fa-clock" style="color:var(--md-primary);margin-right:6px;"></i>Mon&ndash;Sat 9am&ndash;6pm IST
+                    </p>
+                    <p style="font-size:14px;line-height:1.7;color:var(--md-muted);margin:0 0 18px;">
+                        Andheri HQ is our primary delivery centre. Walk-in by appointment for discovery calls, design reviews and quarterly business reviews. We routinely meet on-site at client offices in <strong>Bandra, BKC, Lower Parel, Powai and Thane</strong>.
+                    </p>
+                    <div style="display:flex;gap:10px;flex-wrap:wrap;">
+                        <a href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:8px;background:var(--md-primary);color:#fff;padding:10px 18px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;"><i class="fas fa-calendar-check"></i> Book a 30-min call</a>
+                        <a href="https://www.google.com/maps/place/Andheri,+Mumbai,+Maharashtra/@19.1136,72.8697,15z" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:8px;background:#fff;border:1px solid var(--md-border);color:var(--md-heading);padding:10px 18px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;"><i class="fas fa-map"></i> Open in Google Maps</a>
+                    </div>
+                </div>
+                <div style="border-radius:14px;overflow:hidden;border:1px solid var(--md-border);min-height:340px;">
+                    <iframe
+                        src="https://www.google.com/maps?q=Andheri,Mumbai,Maharashtra&output=embed"
+                        width="100%" height="100%" style="border:0;min-height:340px;"
+                        loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+                        title="ITD GrowthLabs Andheri Mumbai location on Google Maps"></iframe>
+                </div>
+            </div>
+            <style>
+                @media (max-width: 767px) {
+                    #mumbai-hq .container > div[style*="grid-template-columns:1fr 1fr"] { grid-template-columns: 1fr !important; gap: 18px !important; }
+                }
+            </style>
+        </div>
+    </section>
+
     <!-- THIRD-PARTY VERIFICATION -->
     <?php $tb_source = 'contact'; include(__DIR__ . '/includes/trust-badges.php'); ?>
 

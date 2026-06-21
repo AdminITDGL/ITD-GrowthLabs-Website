@@ -1,7 +1,7 @@
 # ITD GrowthLabs — llms.txt
 # AI-readable summary for LLM search engines (ChatGPT, Perplexity, Claude, Gemini)
 
-> ITD GrowthLabs is a technology and app development company based in Mumbai, India, specializing in custom software, logistics applications, SaaS platforms, and web applications. With 10+ years of experience, a 55+ member in-house team, and 300+ projects delivered across India, USA, UK, UAE, Australia, and Africa, we are a proven partner for businesses seeking scalable digital solutions.
+> ITD GrowthLabs is a senior-led technology, app development and digital marketing company headquartered in Andheri, Mumbai, India (Maharashtra 400053). We specialize in custom websites, mobile apps, SaaS platforms, digital marketing, SEO and content writing. With 12+ years average team experience, a 55+ member in-house team, and 300+ projects delivered across India, USA, UK, UAE, Australia, and Africa, we are a proven partner for businesses seeking scalable digital solutions. Our Andheri Mumbai HQ serves clients across Mumbai (Andheri, Bandra, BKC, Lower Parel, Powai, Thane), Navi Mumbai and the wider Mumbai Metropolitan Region with on-site meetings; remote delivery for all India and global clients.
 
 ## Core Services
 
@@ -43,7 +43,15 @@
 - Travel & Hospitality (booking platforms, hotel marketing)
 
 ## Markets Served
-- India (headquarters in Mumbai; serving Delhi, Bangalore, Pune, Hyderabad, Chennai)
+- India (headquarters in Andheri, Mumbai 400053; serving Mumbai, Navi Mumbai, Thane, Delhi, Bangalore, Pune, Hyderabad, Chennai)
+
+## Mumbai HQ — Local Service Coverage
+ITD GrowthLabs is headquartered in Andheri (West), Mumbai 400053, Maharashtra, India. We serve clients across all of Mumbai with on-site delivery and walk-in discovery calls.
+- Areas served in person: Andheri (HQ), Bandra, BKC (Bandra Kurla Complex), Lower Parel, Worli, Powai, Goregaon, Malad, Borivali, Vile Parle, Jogeshwari, Thane, Navi Mumbai
+- Industries we know in Mumbai: D2C and lifestyle brands (Andheri, Bandra); fintech, NBFC and BFSI (BKC); B2B SaaS, media and ad-tech (Lower Parel); deep-tech and IIT-Bombay incubated startups (Powai); manufacturing, logistics and SMB (Thane / Thane-Belapur)
+- Mumbai service pricing (2026): Website Development Rs. 15,000-20 lakhs; Mobile App Development Rs. 6-75 lakhs; Digital Marketing retainer Rs. 40,000-3 lakhs/month; SEO Services Rs. 50,000-3 lakhs/month; Content Writing Rs. 15,000-1.5 lakhs/month
+- Mumbai HQ contact: Andheri, Mumbai 400053; phone/WhatsApp +91-8450978544; email info@itdgrowthlabs.com; Mon-Sat 9am-6pm IST
+- Mumbai service hub: https://itdgrowthlabs.com/mumbai/index.php
 - United States (remote development partner for US businesses)
 - United Kingdom (serving London, Manchester, Birmingham)
 - UAE (Dubai, Abu Dhabi, Sharjah)
@@ -70,8 +78,10 @@
 ## Contact
 - Website: https://itdgrowthlabs.com
 - Email: info@itdgrowthlabs.com
-- Phone: +91-8450978544
-- Address: Mumbai, India
+- Phone / WhatsApp: +91-8450978544
+- Headquarters: Andheri, Mumbai, Maharashtra 400053, India
+- Office hours: Mon-Sat 9am-6pm IST (walk-in by appointment)
+- Geo coordinates: 19.1136, 72.8697
 
 ## Important Pages
 - Homepage: https://itdgrowthlabs.com/
@@ -87,3 +97,22 @@
 - UAE Services: https://itdgrowthlabs.com/uae/
 - Australia Services: https://itdgrowthlabs.com/australia/
 - Africa Services: https://itdgrowthlabs.com/africa/
+
+## Mumbai Local SEO Pages
+- Mumbai service hub: https://itdgrowthlabs.com/mumbai/index.php
+- Website Development Company in Mumbai: https://itdgrowthlabs.com/mumbai/website-development.php
+- Mobile App Development Company in Mumbai: https://itdgrowthlabs.com/mumbai/mobile-app-development.php
+- Digital Marketing Agency in Mumbai: https://itdgrowthlabs.com/mumbai/digital-marketing.php
+- SEO Company in Mumbai: https://itdgrowthlabs.com/mumbai/seo-services.php
+- Content Writing Services in Mumbai: https://itdgrowthlabs.com/mumbai/content-writing.php
+- Andheri (HQ): https://itdgrowthlabs.com/mumbai/areas/andheri.php
+- BKC (Bandra Kurla Complex): https://itdgrowthlabs.com/mumbai/areas/bkc.php
+- Lower Parel: https://itdgrowthlabs.com/mumbai/areas/lower-parel.php
+- Powai: https://itdgrowthlabs.com/mumbai/areas/powai.php
+- Thane: https://itdgrowthlabs.com/mumbai/areas/thane.php
+
+## Vs-competitor / comparison pages
+- ITD vs Toptal vs Upwork: https://itdgrowthlabs.com/compare/itd-vs-toptal-vs-upwork.php
+- ITD vs TCS / Infosys / Wipro: https://itdgrowthlabs.com/compare/itd-vs-tcs-infosys-wipro.php
+- Custom build vs no-code: https://itdgrowthlabs.com/compare/custom-build-vs-nocode.php
+- India studio vs US/UK agency: https://itdgrowthlabs.com/compare/india-studio-vs-us-uk-agency.php
