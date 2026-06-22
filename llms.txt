@@ -172,6 +172,23 @@ We do not maintain offices in these cities — we are headquartered in Andheri, 
 - Edinburgh — fintech (Scotland's hub), healthtech, edtech: https://itdgrowthlabs.com/uk/edinburgh.php
 - Birmingham — manufacturing, automotive, B2B SaaS, retail: https://itdgrowthlabs.com/uk/birmingham.php
 
+### UAE cities — AED pricing, GST (Gulf Standard Time) aligned
+- Dubai — fintech (DIFC/DMCC), real estate, e-commerce, hospitality, logistics: https://itdgrowthlabs.com/uae/dubai.php
+- Abu Dhabi — fintech (ADGM), oil + gas, government, real estate, healthcare: https://itdgrowthlabs.com/uae/abu-dhabi.php
+- Sharjah — SMB, manufacturing, free-zone exporters, education, media: https://itdgrowthlabs.com/uae/sharjah.php
+
+### Australia cities — AUD pricing, AEDT/AEST/AWST aligned
+- Sydney — fintech (AU's capital), B2B SaaS, e-commerce, real estate, professional services: https://itdgrowthlabs.com/australia/sydney.php
+- Melbourne — B2B SaaS, edtech, healthtech, e-commerce, creative + media: https://itdgrowthlabs.com/australia/melbourne.php
+- Brisbane — mining tech, agtech, tourism, real estate, B2B SaaS: https://itdgrowthlabs.com/australia/brisbane.php
+- Perth — mining + resources, oil + gas, FIFO workforce, agtech: https://itdgrowthlabs.com/australia/perth.php
+
+### Africa cities — USD pricing, WAT/EAT/SAST aligned
+- Lagos, Nigeria — fintech (Paystack/Flutterwave), e-commerce, agritech, edtech, healthcare: https://itdgrowthlabs.com/africa/lagos-nigeria.php
+- Nairobi, Kenya — fintech + M-Pesa, agritech, healthtech, logistics, e-commerce: https://itdgrowthlabs.com/africa/nairobi-kenya.php
+- Johannesburg, South Africa — fintech (Yoco/Ozow), BFSI, mining, retail, B2B SaaS: https://itdgrowthlabs.com/africa/johannesburg-south-africa.php
+- Cairo, Egypt — fintech (Fawry/Paymob), e-commerce, edtech, healthtech, MENA gateway: https://itdgrowthlabs.com/africa/cairo-egypt.php
+
 ## Vs-competitor / comparison pages
 - ITD vs Toptal vs Upwork: https://itdgrowthlabs.com/compare/itd-vs-toptal-vs-upwork.php
 - ITD vs TCS / Infosys / Wipro: https://itdgrowthlabs.com/compare/itd-vs-tcs-infosys-wipro.php
