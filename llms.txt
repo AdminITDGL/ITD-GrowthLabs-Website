@@ -154,6 +154,24 @@ We do not maintain offices in these cities — we are headquartered in Andheri, 
 - SEO Services in Ahmedabad: https://itdgrowthlabs.com/ahmedabad/seo-services.php
 - Content Writing in Ahmedabad: https://itdgrowthlabs.com/ahmedabad/content-writing.php
 
+## International City Pages (Mumbai HQ, remote delivery, local currency)
+
+### USA cities — USD pricing, EST/PST aligned
+- New York (NYC) — fintech, media + ad-tech, D2C, enterprise SaaS, healthcare: https://itdgrowthlabs.com/usa/new-york.php
+- Los Angeles (LA) — entertainment, creator economy, D2C, e-commerce: https://itdgrowthlabs.com/usa/los-angeles.php
+- San Francisco / Bay Area — B2B SaaS, deep-tech, AI/ML, fintech: https://itdgrowthlabs.com/usa/san-francisco.php
+- Austin (ATX) — B2B SaaS startups, fintech, gaming, D2C: https://itdgrowthlabs.com/usa/austin.php
+- Boston — healthtech, biotech, edtech, enterprise SaaS: https://itdgrowthlabs.com/usa/boston.php
+- Miami — fintech, crypto, LatAm gateway, real estate: https://itdgrowthlabs.com/usa/miami.php
+- Chicago — enterprise, fintech, manufacturing, B2B SaaS: https://itdgrowthlabs.com/usa/chicago.php
+- Seattle — cloud + enterprise SaaS, AI/ML, e-commerce, gaming: https://itdgrowthlabs.com/usa/seattle.php
+
+### UK cities — GBP pricing, GMT/BST aligned
+- London — fintech, BFSI, enterprise SaaS, media, NHS-adjacent healthtech: https://itdgrowthlabs.com/uk/london.php
+- Manchester — media, e-commerce, B2B SaaS, fintech, manufacturing: https://itdgrowthlabs.com/uk/manchester.php
+- Edinburgh — fintech (Scotland's hub), healthtech, edtech: https://itdgrowthlabs.com/uk/edinburgh.php
+- Birmingham — manufacturing, automotive, B2B SaaS, retail: https://itdgrowthlabs.com/uk/birmingham.php
+
 ## Vs-competitor / comparison pages
 - ITD vs Toptal vs Upwork: https://itdgrowthlabs.com/compare/itd-vs-toptal-vs-upwork.php
 - ITD vs TCS / Infosys / Wipro: https://itdgrowthlabs.com/compare/itd-vs-tcs-infosys-wipro.php
