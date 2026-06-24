@@ -100,10 +100,10 @@
 }
 @keyframes pulse-dot { 0%,100% { transform: scale(1); } 50% { transform: scale(1.35); } }
 .careers-hero h1 {
-    font-size: 38px; font-weight: 900;
-    line-height: 1.2; letter-spacing: -0.6px;
-    margin: 0 auto 16px;
-    max-width: 1080px;
+    font-size: 44px; font-weight: 900;
+    line-height: 1.15; letter-spacing: -0.7px;
+    margin: 0 auto 28px;
+    max-width: 900px;
     color: #fff;
 }
 .careers-hero h1 .grad {
@@ -163,8 +163,7 @@
 
 @media (max-width: 768px) {
     .careers-hero { padding: 48px 0 44px; }
-    .careers-hero h1 { font-size: 26px; letter-spacing: -0.3px; }
-    .careers-hero .sub { font-size: 14.5px; }
+    .careers-hero h1 { font-size: 30px; letter-spacing: -0.3px; }
     .careers-hero .cta-row { flex-direction: column; align-items: center; }
     .careers-hero .cta-primary, .careers-hero .cta-secondary { width: 100%; max-width: 320px; justify-content: center; }
 }
@@ -319,8 +318,7 @@
     <section class="careers-hero">
         <div class="container">
             <span class="eyebrow"><span class="dot"></span>5 open roles &middot; Hiring now &middot; Mumbai + Remote</span>
-            <h1>Build work you&rsquo;ll be <span class="grad">proud to ship</span> &mdash; with senior mentors and real client projects.</h1>
-            <p class="sub">Senior-led India studio &middot; 55+ practitioners &middot; real client work for India + USA + UK + UAE + Australia + Africa. Engineers, designers, marketers and a quantum computing engineer wanted.</p>
+            <h1>Join us. <span class="grad">Build something real.</span></h1>
             <div class="hero-pills">
                 <span><i class="fas fa-rocket"></i>Real work from day one</span>
                 <span><i class="fas fa-user-tie"></i>Senior mentorship</span>
