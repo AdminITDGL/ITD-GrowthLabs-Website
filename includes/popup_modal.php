@@ -357,7 +357,13 @@ $itdgl_pdf_label = $itdgl_cfg['pdf_label'] ?? 'Get the PDF';
 $itdgl_contact_url = $itdgl_base . 'contact-us.php';
 
 // Calendly URL — hide event-type details + GDPR banner for a compact modal
-$itdgl_calendly_url = 'https://calendly.com/itdgrowthlabs-info/30min?hide_event_type_details=1&hide_gdpr_banner=1';
+// UTM-tagged Calendly URL — utm_source = popup source (per page); utm_medium = popup; utm_campaign = page slug
+$itdgl_utm_source = $itdgl_cfg['source'];
+$itdgl_utm_campaign = preg_replace('/[^a-z0-9_\-]/i', '_', $itdgl_key ?: 'home');
+$itdgl_calendly_url = 'https://calendly.com/itdgrowthlabs-info/30min?hide_event_type_details=1&hide_gdpr_banner=1'
+    . '&utm_source=' . urlencode($itdgl_utm_source)
+    . '&utm_medium=popup'
+    . '&utm_campaign=' . urlencode($itdgl_utm_campaign);
 ?>
 <style>
 /* ============================================================
@@ -604,12 +610,27 @@ $itdgl_calendly_url = 'https://calendly.com/itdgrowthlabs-info/30min?hide_event_
                 echo $itdgl_default_delay;
             }
         ?>;
-        setTimeout(function() {
+        var shown = false;
+        function showOnce(reason) {
+            if (shown) return;
+            shown = true;
             popupModal.show();
             if (typeof gtag === 'function') {
-                gtag('event', 'popup_shown', { source: window.__itdglPopup.source });
+                gtag('event', 'popup_shown', { source: window.__itdglPopup.source, trigger: reason });
             }
-        }, delayMs);
+        }
+        setTimeout(function() { showOnce('timer'); }, delayMs);
+
+        // Exit-intent trigger (desktop only — mouse leaves top of viewport)
+        // Fires once if the timer hasn't already triggered. Mobile is excluded.
+        if (window.matchMedia && window.matchMedia('(min-width: 992px)').matches) {
+            document.addEventListener('mouseout', function(e) {
+                if (shown) return;
+                if (!e.toElement && !e.relatedTarget && e.clientY < 10) {
+                    showOnce('exit_intent');
+                }
+            });
+        }
 
         // Ensure Calendly widget renders correctly when modal becomes visible.
         // If widget.js auto-init missed the hidden div, call initInlineWidget on show.
@@ -644,5 +665,64 @@ $itdgl_calendly_url = 'https://calendly.com/itdgrowthlabs-info/30min?hide_event_
                 });
             }
         });
+    });
+</script>
+
+<!-- ============================================================
+     STICKY MOBILE BOTTOM-BAR CTA — Book + WhatsApp
+     Shows only on mobile (<= 768px). Hidden when popup modal is open.
+     ============================================================ -->
+<style>
+.itdgl-mobile-cta-bar {
+    display: none;
+}
+@media (max-width: 768px) {
+    .itdgl-mobile-cta-bar {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        position: fixed;
+        left: 0; right: 0; bottom: 0;
+        z-index: 1080;
+        background: #0f172a;
+        box-shadow: 0 -6px 20px rgba(0,0,0,0.18);
+        padding: 8px;
+        gap: 8px;
+    }
+    .itdgl-mobile-cta-bar a {
+        display: flex; align-items: center; justify-content: center; gap: 8px;
+        padding: 12px 8px;
+        border-radius: 10px;
+        font-size: 13.5px; font-weight: 800;
+        text-decoration: none;
+        letter-spacing: 0.1px;
+    }
+    .itdgl-mobile-cta-bar a.book {
+        background: linear-gradient(135deg, #ff6b00 0%, #ef4444 100%);
+        color: #fff !important;
+    }
+    .itdgl-mobile-cta-bar a.wa {
+        background: #25D366;
+        color: #fff !important;
+    }
+    .itdgl-mobile-cta-bar.hidden { transform: translateY(calc(100% + 20px)); transition: transform .25s ease; }
+    /* lift footer to leave room above bar */
+    body { padding-bottom: 70px; }
+}
+</style>
+<div class="itdgl-mobile-cta-bar" id="itdglMobileCtaBar">
+    <a class="book" href="<?php echo htmlspecialchars($itdgl_calendly_url); ?>" target="_blank" rel="noopener" onclick="if(typeof gtag==='function')gtag('event','mobile_cta_book',{source:<?php echo json_encode($itdgl_cfg['source']); ?>});">
+        <i class="fas fa-calendar-check"></i> Book a Call
+    </a>
+    <a class="wa" href="https://wa.me/918450978544?text=Hi%20ITD%20GrowthLabs%2C%20I%27d%20like%20to%20discuss%20a%20project." target="_blank" rel="noopener" onclick="if(typeof gtag==='function')gtag('event','mobile_cta_whatsapp',{source:<?php echo json_encode($itdgl_cfg['source']); ?>});">
+        <i class="fab fa-whatsapp"></i> WhatsApp
+    </a>
+</div>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        var bar = document.getElementById('itdglMobileCtaBar');
+        var modalEl = document.getElementById('imagePopupModal');
+        if (!bar || !modalEl) return;
+        modalEl.addEventListener('show.bs.modal', function() { bar.classList.add('hidden'); });
+        modalEl.addEventListener('hidden.bs.modal', function() { bar.classList.remove('hidden'); });
     });
 </script>
