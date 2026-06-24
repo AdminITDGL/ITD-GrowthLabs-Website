@@ -66,7 +66,7 @@
         radial-gradient(1000px 500px at 50% -10%, rgba(255,107,0,0.18), transparent 70%),
         linear-gradient(135deg, var(--career-bg-1) 0%, var(--career-bg-2) 50%, var(--career-bg-3) 100%);
     color: #fff;
-    padding: 100px 0 80px;
+    padding: 64px 0 56px;
     overflow: hidden;
     text-align: center;
 }
@@ -83,14 +83,14 @@
 .careers-hero > .container { position: relative; z-index: 2; }
 .careers-hero .eyebrow {
     display: inline-flex; align-items: center; gap: 8px;
-    padding: 8px 18px;
+    padding: 7px 16px;
     background: rgba(255,107,0,0.16);
     border: 1px solid rgba(255,107,0,0.45);
     color: #ffd9b8;
     border-radius: 30px;
-    font-size: 12px; font-weight: 800;
-    letter-spacing: 1.6px; text-transform: uppercase;
-    margin-bottom: 26px;
+    font-size: 11.5px; font-weight: 800;
+    letter-spacing: 1.4px; text-transform: uppercase;
+    margin-bottom: 18px;
 }
 .careers-hero .eyebrow .dot {
     width: 8px; height: 8px; border-radius: 50%;
@@ -100,10 +100,10 @@
 }
 @keyframes pulse-dot { 0%,100% { transform: scale(1); } 50% { transform: scale(1.35); } }
 .careers-hero h1 {
-    font-size: 56px; font-weight: 900;
-    line-height: 1.08; letter-spacing: -1px;
-    margin: 0 auto 22px;
-    max-width: 900px;
+    font-size: 38px; font-weight: 900;
+    line-height: 1.2; letter-spacing: -0.6px;
+    margin: 0 auto 16px;
+    max-width: 1080px;
     color: #fff;
 }
 .careers-hero h1 .grad {
@@ -119,13 +119,13 @@
     font-style: italic;
 }
 .careers-hero .sub {
-    font-size: 19px; line-height: 1.6;
+    font-size: 16px; line-height: 1.6;
     color: rgba(255,255,255,0.82);
-    max-width: 760px; margin: 0 auto 36px;
+    max-width: 720px; margin: 0 auto 24px;
 }
 .careers-hero .hero-pills {
-    display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;
-    margin-bottom: 30px;
+    display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;
+    margin-bottom: 22px;
 }
 .careers-hero .hero-pills span {
     display: inline-flex; align-items: center; gap: 8px;
@@ -162,9 +162,9 @@
 .careers-hero .cta-secondary:hover { background: rgba(255,255,255,0.14); border-color: rgba(255,255,255,0.36); }
 
 @media (max-width: 768px) {
-    .careers-hero { padding: 70px 0 60px; }
-    .careers-hero h1 { font-size: 36px; letter-spacing: -0.5px; }
-    .careers-hero .sub { font-size: 16px; }
+    .careers-hero { padding: 48px 0 44px; }
+    .careers-hero h1 { font-size: 26px; letter-spacing: -0.3px; }
+    .careers-hero .sub { font-size: 14.5px; }
     .careers-hero .cta-row { flex-direction: column; align-items: center; }
     .careers-hero .cta-primary, .careers-hero .cta-secondary { width: 100%; max-width: 320px; justify-content: center; }
 }
@@ -319,8 +319,8 @@
     <section class="careers-hero">
         <div class="container">
             <span class="eyebrow"><span class="dot"></span>5 open roles &middot; Hiring now &middot; Mumbai + Remote</span>
-            <h1>Build the work you&rsquo;ll be <span class="grad">proud to ship</span>.<br>Senior mentors. <span class="underline">Real client projects.</span></h1>
-            <p class="sub">We are a senior-led India studio of 55+ practitioners with 12+ years of in-category experience. We ship websites, mobile apps, SaaS, marketing campaigns and citation-grade content for clients across India, USA, UK, UAE, Australia and Africa &mdash; and we&rsquo;re hiring engineers, designers, marketers and a quantum computing engineer right now.</p>
+            <h1>Build work you&rsquo;ll be <span class="grad">proud to ship</span> &mdash; with senior mentors and real client projects.</h1>
+            <p class="sub">Senior-led India studio &middot; 55+ practitioners &middot; real client work for India + USA + UK + UAE + Australia + Africa. Engineers, designers, marketers and a quantum computing engineer wanted.</p>
             <div class="hero-pills">
                 <span><i class="fas fa-rocket"></i>Real work from day one</span>
                 <span><i class="fas fa-user-tie"></i>Senior mentorship</span>
