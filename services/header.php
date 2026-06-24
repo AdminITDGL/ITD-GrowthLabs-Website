@@ -186,6 +186,7 @@
                            <ul class="dropdown-menu">
                                <li><a href="../about.php">About Us</a></li>
                                <li><a href="../resources/all-blogs.php">Blog</a></li>
+                               <li><a href="../careers.php">Careers</a></li>
                                <li><a href="<?php echo htmlspecialchars($gl_contact_us, ENT_QUOTES, "UTF-8"); ?>">Contact Us</a></li>
                            </ul>
                        </li>
