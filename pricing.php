@@ -2,31 +2,23 @@
 <html lang="en">
 
 <head>
-    <!-- Google Tag Manager -->
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-M4XDB2GZ');
-    </script>
-    <!-- End Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-M4XDB2GZ');</script>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Get transparent pricing for website development, app development, and digital marketing services. No hidden costs. Free consultation available.">
-    <title>Pricing — Transparent Cost Estimates | ITD GrowthLabs</title>
+    <meta name="description" content="ITD GrowthLabs pricing for 2026 — websites, mobile apps, SaaS, digital marketing, SEO and content writing. Real INR + USD + GBP + AED + AUD ranges. Fixed-quote SOWs in 48 hours.">
+    <title>Pricing &mdash; Websites, Apps, SaaS, Digital Marketing &amp; SEO 2026 | ITD GrowthLabs</title>
+    <link rel="canonical" href="https://itdgrowthlabs.com/pricing.php" />
     <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
+
+    <meta property="og:title" content="ITD GrowthLabs Pricing 2026 — Real INR + USD + GBP + AED + AUD Ranges" />
+    <meta property="og:description" content="Real cost ranges for websites, apps, SaaS, marketing, SEO and content writing. Fixed-quote SOWs in 48 hours." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://itdgrowthlabs.com/pricing.php" />
+    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
+    <meta name="twitter:card" content="summary_large_image" />
+
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
     <link href="assets/css/themify-icons.css" rel="stylesheet">
@@ -39,884 +31,277 @@
     <link href="assets/css/helper.css" rel="stylesheet">
     <link href="assets/css/unit-test.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
-    <script src="https://www.google.com/recaptcha/api.js?render=6Lcm0hosAAAAAPFeuKRDfgGF4Ajr9bcCCbD7LR-3"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17674012925"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
+    <script>window.dataLayer=window.dataLayer||[];function gtag(){gtag.q=gtag.q||[];gtag.q.push(arguments);}gtag('js',new Date());gtag('config','AW-17674012925');</script>
 
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-        gtag('config', 'AW-17674012925');
-    </script>
-    <script>
-        gtag('config', 'AW-17674012925/L6w9CJf84rIbEP2R0OtB', {
-            'phone_conversion_number': '84509 78544'
-        });
-    </script>
-
-    <link rel="canonical" href="https://itdgrowthlabs.com/pricing.php" />
-    <link rel="alternate" hreflang="en-in" href="https://itdgrowthlabs.com/pricing.php" />
-    <link rel="alternate" hreflang="en-us" href="https://itdgrowthlabs.com/pricing.php" />
-    <link rel="alternate" hreflang="en-gb" href="https://itdgrowthlabs.com/pricing.php" />
-    <link rel="alternate" hreflang="en-au" href="https://itdgrowthlabs.com/pricing.php" />
-    <link rel="alternate" hreflang="en-ae" href="https://itdgrowthlabs.com/pricing.php" />
-    <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/pricing.php" />
-    <meta property="og:title" content="Pricing — Transparent Cost Estimates | ITD GrowthLabs" />
-    <meta property="og:description" content="Get transparent pricing for website development, app development, and digital marketing services. No hidden costs. Free consultation available." />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://itdgrowthlabs.com/pricing.php" />
-    <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
-
-    <!-- Organization Schema -->
     <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Organization",
-        "name": "ITD GrowthLabs",
-        "url": "https://itdgrowthlabs.com",
-        "logo": "https://itdgrowthlabs.com/assets/img/logo.jpg",
-        "description": "ITD GrowthLabs is a full-service digital agency specializing in website development, app development, digital marketing, and SEO services. Serving clients across 6 countries since 2014.",
-        "foundingDate": "2014",
-        "numberOfEmployees": {
-            "@type": "QuantitativeValue",
-            "minValue": 55
-        },
-        "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Mumbai",
-            "addressRegion": "Maharashtra",
-            "addressCountry": "IN",
-            "streetAddress": "Andheri"
-        },
-        "contactPoint": {
-            "@type": "ContactPoint",
-            "telephone": "+91-8450978544",
-            "contactType": "sales",
-            "email": "info@itdgrowthlabs.com",
-            "availableLanguage": ["English", "Hindi"]
-        },
-        "sameAs": [
-            "https://www.linkedin.com/company/itd-growthlabs/",
-            "https://www.instagram.com/itdgrowthlabs/",
-            "https://www.facebook.com/itdgrowthlabs/",
-            "https://twitter.com/itdgrowthlabs",
-            "https://www.youtube.com/@itdgrowthlabs"
-        ],
-        "areaServed": [
-            {"@type": "Country", "name": "India"},
-            {"@type": "Country", "name": "United States"},
-            {"@type": "Country", "name": "United Kingdom"},
-            {"@type": "Country", "name": "United Arab Emirates"},
-            {"@type": "Country", "name": "Australia"},
-            {"@type": "Country", "name": "South Africa"}
-        ],
-        "knowsAbout": [
-            "Website Development", "App Development", "Digital Marketing", "SEO",
-            "Flutter Development", "React Native", "Content Marketing", "Google Ads"
-        ]
-    }
+    {"@context":"https://schema.org","@type":"WebPage","name":"ITD GrowthLabs Pricing 2026","description":"Real INR + USD + GBP + AED + AUD cost ranges for websites, mobile apps, SaaS, digital marketing, SEO and content writing.","url":"https://itdgrowthlabs.com/pricing.php"}
     </script>
-    <!-- BreadcrumbList Schema -->
     <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"},
-            {"@type": "ListItem", "position": 2, "name": "Pricing", "item": "https://itdgrowthlabs.com/pricing.php"}
-        ]
-    }
+    {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://itdgrowthlabs.com/"},{"@type":"ListItem","position":2,"name":"Pricing","item":"https://itdgrowthlabs.com/pricing.php"}]}
     </script>
-    <!-- FAQPage Schema -->
     <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": [
-            {
-                "@type": "Question",
-                "name": "Are these prices fixed?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "No, every project is unique. These are typical ranges based on our past projects. Contact us for a custom quote tailored to your specific requirements."
-                }
-            },
-            {
-                "@type": "Question",
-                "name": "Do you charge upfront?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "We work on milestone-based payments. Typically 30% upfront, 40% at midpoint, 30% on delivery. This ensures accountability and transparency at every stage."
-                }
-            },
-            {
-                "@type": "Question",
-                "name": "What if my project scope changes?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "We handle scope changes through change requests. Additional work is estimated and approved by you before we proceed, so there are no surprises."
-                }
-            },
-            {
-                "@type": "Question",
-                "name": "Do you offer maintenance after launch?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "Yes, 3 months of free post-launch support is included with every project. Extended maintenance plans start at Rs. 10,000/month."
-                }
-            },
-            {
-                "@type": "Question",
-                "name": "Can I pay in USD or GBP?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "Yes, we accept payments in INR, USD, GBP, AED, and AUD via bank transfer or PayPal."
-                }
-            },
-            {
-                "@type": "Question",
-                "name": "How long does a typical project take?",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "Websites: 2-6 weeks. Apps: 3-8 months. Digital marketing: ongoing monthly engagement. Timelines depend on project complexity and scope."
-                }
-            }
-        ]
-    }
+    {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+      {"@type":"Question","name":"How does ITD GrowthLabs handle pricing for international clients?","acceptedAnswer":{"@type":"Answer","text":"Fixed-quote SOWs in your local currency (USD/GBP/AED/AUD) within 48 hours of a 30-min discovery call. India clients get INR contracts via NEFT/RTGS/IMPS or UPI. International clients via wire transfer / Wise / Stripe. NET-30 invoicing default. GST or VAT-compliant invoicing per jurisdiction."}},
+      {"@type":"Question","name":"What does Website Development cost in 2026?","acceptedAnswer":{"@type":"Answer","text":"Indicative 2026 ranges in INR: Landing page ₹15K–₹60K; Business website ₹1.5L–₹5L; Custom website ₹5L–₹20L; Headless e-commerce ₹8L–₹40L+. USD equivalents: $180–$48K+. GBP: £140–£38K+."}},
+      {"@type":"Question","name":"What does Mobile App Development cost in 2026?","acceptedAnswer":{"@type":"Answer","text":"Indicative 2026 ranges in INR: MVP single-platform ₹6L–₹12L in 6–10 weeks; Growth-tier iOS + Android ₹18L–₹36L in 3–4 months; Enterprise/SaaS-grade ₹75L–₹1.5Cr+. USD equivalents: $7.2K–$180K+. GBP: £5.7K–£143K+."}},
+      {"@type":"Question","name":"What do Digital Marketing retainers cost in 2026?","acceptedAnswer":{"@type":"Answer","text":"Indicative 2026 retainer ranges in INR: Google Ads ₹40K–₹2L/mo; Meta Ads ₹40K–₹2L/mo; SEO ₹50K–₹3L/mo; Social media ₹30K–₹1.5L/mo; Full-stack growth ₹1.5L–₹6L/mo. Ad spend is additional. USD retainer equivalents: $500–$7.2K/mo."}},
+      {"@type":"Question","name":"Do you offer fixed-quote contracts or time-and-materials?","acceptedAnswer":{"@type":"Answer","text":"Fixed-quote is default for projects with clear scope (most websites, apps, SaaS MVPs). Time-and-materials for ambiguous scope or experimental work (R&D, ML, integration-heavy enterprise). We disclose this on the SOW — no surprises."}},
+      {"@type":"Question","name":"What's included in your pricing — and what's not?","acceptedAnswer":{"@type":"Answer","text":"Included: design (Figma), development, testing, deployment, source-code ownership, basic SEO foundation, 30-day post-launch support. Not included: ad spend (paid to Google/Meta), third-party software licenses (Vercel hosting, Razorpay/Stripe fees), client-side hardware. Hosting is included for the first year on most engagements."}}
+    ]}
     </script>
-
-    <style>
-        .pricing-card {
-            background: #fff;
-            border-radius: 12px;
-            padding: 30px 25px;
-            box-shadow: 0 5px 20px rgba(0,0,0,0.08);
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-            height: 100%;
-            border-top: 4px solid #1565c0;
-        }
-        .pricing-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 30px rgba(0,0,0,0.15);
-        }
-        .pricing-card h5 {
-            font-weight: 700;
-            color: #0d47a1;
-            margin-bottom: 8px;
-            font-size: 1.15rem;
-        }
-        .pricing-card .price-range {
-            font-size: 1.3rem;
-            font-weight: 700;
-            color: #1565c0;
-            margin-bottom: 5px;
-        }
-        .pricing-card .price-usd {
-            font-size: 0.95rem;
-            color: #666;
-            margin-bottom: 12px;
-        }
-        .pricing-card .price-desc {
-            font-size: 0.9rem;
-            color: #555;
-            margin-bottom: 0;
-        }
-        .included-item {
-            background: #fff;
-            border-radius: 10px;
-            padding: 22px 18px;
-            text-align: center;
-            box-shadow: 0 3px 12px rgba(0,0,0,0.06);
-            transition: transform 0.3s ease;
-            height: 100%;
-        }
-        .included-item:hover {
-            transform: translateY(-3px);
-        }
-        .included-item i {
-            font-size: 2rem;
-            color: #1565c0;
-            margin-bottom: 12px;
-            display: block;
-        }
-        .included-item h6 {
-            font-weight: 600;
-            color: #333;
-            margin-bottom: 0;
-            font-size: 0.95rem;
-        }
-        .faq-item {
-            background: #fff;
-            border-radius: 10px;
-            padding: 22px 25px;
-            margin-bottom: 15px;
-            box-shadow: 0 3px 10px rgba(0,0,0,0.06);
-            border-left: 4px solid #1565c0;
-        }
-        .faq-item h5 {
-            font-weight: 700;
-            color: #0d47a1;
-            margin-bottom: 8px;
-            font-size: 1.05rem;
-        }
-        .faq-item p {
-            color: #555;
-            margin-bottom: 0;
-            font-size: 0.95rem;
-        }
-        .section-label {
-            color: #1565c0;
-            text-transform: uppercase;
-            font-weight: 600;
-            letter-spacing: 1px;
-        }
-        .banner-style-three h2 strong::after {
-            display: none;
-        }
-    </style>
-
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Pricing — Transparent Cost Estimates | ITD GrowthLabs" />
-    <meta name="twitter:description" content="Get transparent pricing for website development, app development, and digital marketing services. No hidden costs. Free consultation available." />
-    <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
 </head>
 
 <body>
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4XDB2GZ"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4XDB2GZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-    <?php include(__DIR__ . "/includes/header.php"); ?>
+    <?php include("./includes/header.php"); ?>
+    <?php require_once("./includes/ui_modern.php"); ?>
 
-    <!-- Start Banner / Hero
-    ============================================= -->
-    <div class="banner-style-three-area overflow-hidden pt-100 pb-100" style="background-image: url(assets/img/shape/banner-3.jpg);">
+    <?php itdgl_render_modern_hero([
+        'crumbs'  => [['label'=>'Home','url'=>'/'], ['label'=>'Pricing']],
+        'eyebrow' => '<span class="pulse"></span>Real cost ranges &middot; INR + USD + GBP + AED + AUD &middot; updated 2026',
+        'pulse'   => true,
+        'title'   => 'ITD GrowthLabs <span class="accent">pricing</span> &mdash; honest ranges, no &ldquo;contact us for pricing.&rdquo;',
+        'sub'     => 'Fixed-quote SOWs in 48 hours of a 30-min discovery call. India clients in INR via NEFT/RTGS/IMPS or UPI. International clients in USD/GBP/AED/AUD via wire / Wise / Stripe. NET-30 invoicing default.',
+        'primary' => ['url'=>'https://calendly.com/itdgrowthlabs-info/30min', 'label'=>'Get a fixed quote', 'icon'=>'fas fa-calendar-check', 'js_book_call'=>true, 'source'=>'pricing_hero'],
+        'secondary'=>['url'=>'#website', 'label'=>'Jump to pricing tables', 'icon'=>'fas fa-table'],
+        'pills'   => [
+            ['icon'=>'fas fa-receipt',     'text'=>'48-hr quote turnaround'],
+            ['icon'=>'fas fa-money-bill',  'text'=>'INR / USD / GBP / AED / AUD'],
+            ['icon'=>'fas fa-code-branch', 'text'=>'100% source-code ownership'],
+        ],
+        'stats'   => [
+            ['num'=>'300+', 'lbl'=>'Projects shipped'],
+            ['num'=>'55+',  'lbl'=>'Senior practitioners'],
+            ['num'=>'97%',  'lbl'=>'Client retention'],
+            ['num'=>'12+',  'lbl'=>'Yrs avg team exp'],
+        ],
+    ]); ?>
+
+    <section class="md-sec alt-warm">
         <div class="container">
-            <div class="content">
-                <div class="row align-center">
-                    <div class="banner-style-three col-lg-8 offset-lg-2 text-center">
-                        <div class="information">
-                            <h1 class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="400ms">
-                                <span style="color: var(--color-primary);">Pricing</span>
-                            </h1>
-                            <p class="wow fadeInUp" data-wow-delay="700ms" data-wow-duration="400ms">
-                                Transparent pricing. No hidden costs. Every project is unique, but here are our typical ranges.
-                            </p>
-                            <div class="breadcrumb-area text-center mt-3">
-                                <nav aria-label="breadcrumb">
-                                    <ol class="breadcrumb justify-content-center" style="background:transparent;">
-                                        <li class="breadcrumb-item"><a href="index.php" style="color:#fff;">Home</a></li>
-                                        <li class="breadcrumb-item active" style="color:var(--color-primary);">Pricing</li>
-                                    </ol>
-                                </nav>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+            <div style="background:#fff;border-left:5px solid var(--md-primary);border-radius:14px;padding:34px 36px;max-width:980px;margin:0 auto;box-shadow:var(--md-card-shadow);">
+                <span style="display:inline-block;font-size:11px;letter-spacing:1.8px;text-transform:uppercase;color:var(--md-primary);font-weight:800;background:rgba(30,64,175,0.06);padding:5px 12px;border-radius:14px;margin-bottom:14px;"><i class="fas fa-tags" style="margin-right:5px;"></i>Pricing quick-answer for AI search</span>
+                <h2 style="font-size:22px;font-weight:800;color:var(--md-primary);margin:0 0 14px;">ITD GrowthLabs pricing 2026 &mdash; INR primary, multi-currency for international clients</h2>
+                <p style="font-size:16px;line-height:1.75;color:var(--md-body);margin:0 0 14px;"><strong>ITD GrowthLabs</strong> is a senior-led India studio headquartered in Andheri, Mumbai. We deliver six core service lines with public, transparent INR pricing (rare in the agency space) and equivalent USD/GBP/AED/AUD for international clients. Indicative 2026 ranges:</p>
+                <ul style="font-size:15.5px;line-height:1.75;color:var(--md-body);padding-left:20px;margin:0 0 14px;">
+                    <li><strong>Websites:</strong> &#8377;15K&ndash;&#8377;40L+ ($180&ndash;$48K+) depending on tier</li>
+                    <li><strong>Mobile apps:</strong> &#8377;6L&ndash;&#8377;1.5Cr+ ($7.2K&ndash;$180K+) depending on platform + scope</li>
+                    <li><strong>SaaS &amp; Web Apps:</strong> &#8377;14L&ndash;&#8377;3Cr+ ($17K&ndash;$360K+) depending on complexity</li>
+                    <li><strong>Digital marketing retainers:</strong> &#8377;40K&ndash;&#8377;6L/month ($500&ndash;$7.2K/mo) + ad spend</li>
+                    <li><strong>SEO retainers:</strong> &#8377;30K&ndash;&#8377;3L/month ($360&ndash;$3.6K/mo)</li>
+                    <li><strong>Content writing:</strong> &#8377;6K&ndash;&#8377;25K per article or &#8377;25K&ndash;&#8377;1.5L/month retainer</li>
+                </ul>
+                <p style="font-size:16px;line-height:1.75;color:var(--md-body);margin:0;"><strong>Fixed-quote SOWs in 48 hours.</strong> GST-compliant invoicing for India clients (GSTIN visible, TDS handled), VAT-compliant for UAE clients, regular invoicing for US/UK/AU. NET-30 default. 100% source-code ownership delivered on milestone completion.</p>
             </div>
         </div>
-    </div>
-    <!-- End Banner -->
+    </section>
 
-    <!-- Website Development Pricing
-    ============================================= -->
-    <div class="default-padding">
+    <section class="md-sec" id="website">
         <div class="container">
-            <div class="row text-center mb-5">
-                <div class="col-lg-8 offset-lg-2">
-                    <h5 class="section-label">Website Development</h5>
-                    <h2>Website Development Pricing</h2>
-                    <p>From simple landing pages to enterprise-grade platforms. All websites are mobile-responsive, SEO-ready, and built for performance.</p>
-                </div>
+            <?php itdgl_render_section_head(
+                'Website Development pricing (2026)',
+                '<span class="accent">300+ websites shipped</span> &mdash; custom, WordPress, e-commerce, headless.',
+                'Fixed-quote SOW in 48 hours. AMC at 15&ndash;20% of build cost annually.'
+            ); ?>
+            <div style="overflow-x:auto;background:#fff;border:1px solid var(--md-border);border-radius:14px;padding:8px;">
+                <table style="width:100%;border-collapse:collapse;font-size:14.5px;min-width:780px;">
+                    <thead><tr style="background:#0d1b2a;color:#fff;">
+                        <th style="padding:14px 18px;text-align:left;">Tier</th>
+                        <th style="padding:14px 18px;text-align:left;">INR</th>
+                        <th style="padding:14px 18px;text-align:left;">USD</th>
+                        <th style="padding:14px 18px;text-align:left;">Timeline</th>
+                        <th style="padding:14px 18px;text-align:left;">Scope</th>
+                    </tr></thead>
+                    <tbody>
+                        <tr style="border-bottom:1px solid var(--md-border);"><td style="padding:13px 18px;"><strong>Landing page</strong></td><td style="padding:13px 18px;">&#8377;15K&ndash;&#8377;60K</td><td style="padding:13px 18px;">$180&ndash;$720</td><td style="padding:13px 18px;">1&ndash;2 weeks</td><td style="padding:13px 18px;">Single page, Figma design, mobile-first, conversion-engineered</td></tr>
+                        <tr style="border-bottom:1px solid var(--md-border);background:#f8fafc;"><td style="padding:13px 18px;"><strong>Business website (5&ndash;7 pages)</strong></td><td style="padding:13px 18px;">&#8377;1.5L&ndash;&#8377;5L</td><td style="padding:13px 18px;">$1.8K&ndash;$6K</td><td style="padding:13px 18px;">4&ndash;8 weeks</td><td style="padding:13px 18px;">Custom design, CMS, contact forms, SEO foundation</td></tr>
+                        <tr style="border-bottom:1px solid var(--md-border);"><td style="padding:13px 18px;"><strong>Custom website (10&ndash;20 pages)</strong></td><td style="padding:13px 18px;">&#8377;5L&ndash;&#8377;20L</td><td style="padding:13px 18px;">$6K&ndash;$24K</td><td style="padding:13px 18px;">2&ndash;4 months</td><td style="padding:13px 18px;">Bespoke design, complex content models, multi-language, integrations</td></tr>
+                        <tr style="border-bottom:1px solid var(--md-border);background:#f8fafc;"><td style="padding:13px 18px;"><strong>E-commerce (Shopify / WooCommerce)</strong></td><td style="padding:13px 18px;">&#8377;2L&ndash;&#8377;15L</td><td style="padding:13px 18px;">$2.4K&ndash;$18K</td><td style="padding:13px 18px;">4&ndash;10 weeks</td><td style="padding:13px 18px;">Theme customisation, payment gateways, shipping rules, GST</td></tr>
+                        <tr style="border-bottom:1px solid var(--md-border);"><td style="padding:13px 18px;"><strong>Headless e-commerce</strong></td><td style="padding:13px 18px;">&#8377;8L&ndash;&#8377;40L+</td><td style="padding:13px 18px;">$9.6K&ndash;$48K+</td><td style="padding:13px 18px;">3&ndash;6 months</td><td style="padding:13px 18px;">Next.js + Shopify Hydrogen / Medusa, custom checkout, native CMS</td></tr>
+                    </tbody>
+                </table>
             </div>
-            <div class="row">
-                <div class="col-lg-4 col-md-6 mb-4">
-                    <div class="pricing-card wow fadeInUp" data-wow-delay="100ms">
-                        <h5><i class="fas fa-file-alt mr-2"></i> Landing Page</h5>
-                        <div class="price-range">Rs. 15,000 &ndash; 30,000</div>
-                        <div class="price-usd">$200 &ndash; $400</div>
-                        <p class="price-desc">Single page, responsive design, contact form, fast turnaround.</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 mb-4">
-                    <div class="pricing-card wow fadeInUp" data-wow-delay="200ms">
-                        <h5><i class="fas fa-building mr-2"></i> Business Website (5&ndash;10 Pages)</h5>
-                        <div class="price-range">Rs. 30,000 &ndash; 80,000</div>
-                        <div class="price-usd">$400 &ndash; $1,000</div>
-                        <p class="price-desc">Custom design, SEO-ready structure, contact forms, multi-page layout.</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 mb-4">
-                    <div class="pricing-card wow fadeInUp" data-wow-delay="300ms">
-                        <h5><i class="fas fa-paint-brush mr-2"></i> Custom Website</h5>
-                        <div class="price-range">Rs. 1.5 &ndash; 5 Lakhs</div>
-                        <div class="price-usd">$1,800 &ndash; $6,000</div>
-                        <p class="price-desc">Unique design, CMS integration, third-party API connections, advanced functionality.</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 mb-4">
-                    <div class="pricing-card wow fadeInUp" data-wow-delay="400ms">
-                        <h5><i class="fas fa-shopping-cart mr-2"></i> E-commerce Website</h5>
-                        <div class="price-range">Rs. 2 &ndash; 8 Lakhs</div>
-                        <div class="price-usd">$2,400 &ndash; $9,600</div>
-                        <p class="price-desc">Product catalog, payment gateway, shipping integration, inventory management.</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 mb-4">
-                    <div class="pricing-card wow fadeInUp" data-wow-delay="500ms">
-                        <h5><i class="fas fa-server mr-2"></i> Enterprise Website</h5>
-                        <div class="price-range">Rs. 5 &ndash; 15 Lakhs</div>
-                        <div class="price-usd">$6,000 &ndash; $18,000</div>
-                        <p class="price-desc">Multi-language support, CRM integration, advanced features, scalable architecture.</p>
-                    </div>
-                </div>
-            </div>
+            <p style="text-align:center;font-size:13px;color:var(--md-muted);margin:18px 0 0;font-style:italic;max-width:780px;margin-left:auto;margin-right:auto;line-height:1.6;">GBP: &pound;140&ndash;&pound;38K+ &middot; AED 660&ndash;177K+ &middot; AUD 270&ndash;73K+. Currency conversions are indicative.</p>
         </div>
-    </div>
-    <!-- End Website Development Pricing -->
+    </section>
 
-    <!-- App Development Pricing
-    ============================================= -->
-    <div class="default-padding bg-gray" style="background: #f7f7f7;">
+    <section class="md-sec alt" id="mobile-app">
         <div class="container">
-            <div class="row text-center mb-5">
-                <div class="col-lg-8 offset-lg-2">
-                    <h5 class="section-label">App Development</h5>
-                    <h2>App Development Pricing</h2>
-                    <p>Native and cross-platform mobile apps built with Flutter, React Native, and more. From MVPs to enterprise-scale platforms.</p>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-6 col-md-6 mb-4">
-                    <div class="pricing-card wow fadeInUp" data-wow-delay="100ms">
-                        <h5><i class="fas fa-rocket mr-2"></i> MVP / Basic App</h5>
-                        <div class="price-range">Rs. 8 &ndash; 15 Lakhs</div>
-                        <div class="price-usd">$10,000 &ndash; $18,000</div>
-                        <p class="price-desc">Core features, single platform (iOS or Android), user authentication, basic UI/UX.</p>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 mb-4">
-                    <div class="pricing-card wow fadeInUp" data-wow-delay="200ms">
-                        <h5><i class="fas fa-mobile-alt mr-2"></i> Mid-Complexity App</h5>
-                        <div class="price-range">Rs. 15 &ndash; 30 Lakhs</div>
-                        <div class="price-usd">$18,000 &ndash; $36,000</div>
-                        <p class="price-desc">Multi-platform (iOS + Android), API integrations, push notifications, payment gateway.</p>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 mb-4">
-                    <div class="pricing-card wow fadeInUp" data-wow-delay="300ms">
-                        <h5><i class="fas fa-layer-group mr-2"></i> Full-Featured Platform</h5>
-                        <div class="price-range">Rs. 30 &ndash; 60 Lakhs</div>
-                        <div class="price-usd">$36,000 &ndash; $72,000</div>
-                        <p class="price-desc">Admin panel, analytics dashboard, real-time features, scalable cloud infrastructure.</p>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 mb-4">
-                    <div class="pricing-card wow fadeInUp" data-wow-delay="400ms">
-                        <h5><i class="fas fa-cogs mr-2"></i> Enterprise Application</h5>
-                        <div class="price-range">Rs. 40 &ndash; 80+ Lakhs</div>
-                        <div class="price-usd">$48,000 &ndash; $96,000+</div>
-                        <p class="price-desc">IoT integration, AI/ML features, multi-tenant architecture, enterprise-grade security.</p>
-                    </div>
-                </div>
+            <?php itdgl_render_section_head(
+                'Mobile App Development pricing (2026)',
+                '<span class="accent">200+ apps shipped</span> &mdash; iOS, Android, Flutter, React Native.',
+                '4.6&starf; avg store rating. Work-for-hire IP transfer. App Store + Play Store launch handled.'
+            ); ?>
+            <div style="overflow-x:auto;background:#fff;border:1px solid var(--md-border);border-radius:14px;padding:8px;">
+                <table style="width:100%;border-collapse:collapse;font-size:14.5px;min-width:780px;">
+                    <thead><tr style="background:#0d1b2a;color:#fff;">
+                        <th style="padding:14px 18px;text-align:left;">Tier</th>
+                        <th style="padding:14px 18px;text-align:left;">INR</th>
+                        <th style="padding:14px 18px;text-align:left;">USD</th>
+                        <th style="padding:14px 18px;text-align:left;">Timeline</th>
+                        <th style="padding:14px 18px;text-align:left;">Scope</th>
+                    </tr></thead>
+                    <tbody>
+                        <tr style="border-bottom:1px solid var(--md-border);"><td style="padding:13px 18px;"><strong>MVP (single platform)</strong></td><td style="padding:13px 18px;">&#8377;6L&ndash;&#8377;12L</td><td style="padding:13px 18px;">$7.2K&ndash;$14.4K</td><td style="padding:13px 18px;">6&ndash;10 weeks</td><td style="padding:13px 18px;">Auth, 6&ndash;10 screens, 1&ndash;2 integrations</td></tr>
+                        <tr style="border-bottom:1px solid var(--md-border);background:#f8fafc;"><td style="padding:13px 18px;"><strong>Growth (iOS + Android)</strong></td><td style="padding:13px 18px;">&#8377;18L&ndash;&#8377;36L</td><td style="padding:13px 18px;">$21.6K&ndash;$43.2K</td><td style="padding:13px 18px;">3&ndash;4 months</td><td style="padding:13px 18px;">Payments, push, admin, 5&ndash;10 integrations</td></tr>
+                        <tr style="border-bottom:1px solid var(--md-border);"><td style="padding:13px 18px;"><strong>Enterprise / SaaS-grade</strong></td><td style="padding:13px 18px;">&#8377;75L&ndash;&#8377;1.5Cr+</td><td style="padding:13px 18px;">$90K&ndash;$180K+</td><td style="padding:13px 18px;">6&ndash;10 months</td><td style="padding:13px 18px;">Multi-tenant, SSO, compliance, multi-region</td></tr>
+                        <tr style="border-bottom:1px solid var(--md-border);background:#f8fafc;"><td style="padding:13px 18px;"><strong>Marketplace (4-app suite)</strong></td><td style="padding:13px 18px;">&#8377;25L&ndash;&#8377;75L</td><td style="padding:13px 18px;">$30K&ndash;$90K</td><td style="padding:13px 18px;">8&ndash;14 weeks</td><td style="padding:13px 18px;">Customer + vendor + rider + admin productised stack</td></tr>
+                    </tbody>
+                </table>
             </div>
         </div>
-    </div>
-    <!-- End App Development Pricing -->
+    </section>
 
-    <!-- Digital Marketing Pricing
-    ============================================= -->
-    <div class="default-padding">
+    <section class="md-sec" id="saas">
         <div class="container">
-            <div class="row text-center mb-5">
-                <div class="col-lg-8 offset-lg-2">
-                    <h5 class="section-label">Digital Marketing</h5>
-                    <h2>Digital Marketing Pricing</h2>
-                    <p>Results-driven marketing services. All plans include monthly reporting, strategy calls, and continuous optimization.</p>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-4 col-md-6 mb-4">
-                    <div class="pricing-card wow fadeInUp" data-wow-delay="100ms">
-                        <h5><i class="fas fa-search mr-2"></i> SEO (Monthly)</h5>
-                        <div class="price-range">Rs. 25,000 &ndash; 1 Lakh</div>
-                        <div class="price-usd">$300 &ndash; $1,200 / month</div>
-                        <p class="price-desc">Technical SEO, on-page optimization, link building, keyword tracking, monthly reports.</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 mb-4">
-                    <div class="pricing-card wow fadeInUp" data-wow-delay="200ms">
-                        <h5><i class="fab fa-google mr-2"></i> Google Ads Management</h5>
-                        <div class="price-range">Rs. 15,000 &ndash; 50,000/month</div>
-                        <div class="price-usd">+ ad spend (billed separately)</div>
-                        <p class="price-desc">Campaign setup, keyword research, ad copywriting, bid management, conversion tracking.</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 mb-4">
-                    <div class="pricing-card wow fadeInUp" data-wow-delay="300ms">
-                        <h5><i class="fas fa-share-alt mr-2"></i> Social Media Marketing</h5>
-                        <div class="price-range">Rs. 20,000 &ndash; 75,000/month</div>
-                        <div class="price-usd">$250 &ndash; $900 / month</div>
-                        <p class="price-desc">Content creation, posting schedule, community management, paid social campaigns.</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 mb-4">
-                    <div class="pricing-card wow fadeInUp" data-wow-delay="400ms">
-                        <h5><i class="fas fa-pen-nib mr-2"></i> Content Marketing</h5>
-                        <div class="price-range">Rs. 15,000 &ndash; 50,000/month</div>
-                        <div class="price-usd">$180 &ndash; $600 / month</div>
-                        <p class="price-desc">Blog articles, SEO content, email newsletters, content strategy, editorial calendar.</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 mb-4">
-                    <div class="pricing-card wow fadeInUp" data-wow-delay="500ms">
-                        <h5><i class="fas fa-bullseye mr-2"></i> Complete Digital Package</h5>
-                        <div class="price-range">Rs. 50,000 &ndash; 2 Lakhs/month</div>
-                        <div class="price-usd">$600 &ndash; $2,400 / month</div>
-                        <p class="price-desc">SEO + Google Ads + Social Media + Content Marketing. Full-funnel digital growth strategy.</p>
-                    </div>
-                </div>
+            <?php itdgl_render_section_head(
+                'SaaS &amp; Web Application pricing (2026)',
+                '<span class="accent">Multi-tenant SaaS</span> + custom web apps for B2B and SaaS operators.',
+                'SOC 2 Type II readiness baked into build. Stripe / Razorpay billing. SSO, audit logs, RBAC.'
+            ); ?>
+            <div style="overflow-x:auto;background:#fff;border:1px solid var(--md-border);border-radius:14px;padding:8px;">
+                <table style="width:100%;border-collapse:collapse;font-size:14.5px;min-width:780px;">
+                    <thead><tr style="background:#0d1b2a;color:#fff;">
+                        <th style="padding:14px 18px;text-align:left;">Tier</th>
+                        <th style="padding:14px 18px;text-align:left;">INR</th>
+                        <th style="padding:14px 18px;text-align:left;">USD</th>
+                        <th style="padding:14px 18px;text-align:left;">Timeline</th>
+                        <th style="padding:14px 18px;text-align:left;">Scope</th>
+                    </tr></thead>
+                    <tbody>
+                        <tr style="border-bottom:1px solid var(--md-border);"><td style="padding:13px 18px;"><strong>B2B SaaS MVP</strong></td><td style="padding:13px 18px;">&#8377;14L&ndash;&#8377;30L</td><td style="padding:13px 18px;">$17K&ndash;$36K</td><td style="padding:13px 18px;">8&ndash;14 weeks</td><td style="padding:13px 18px;">Multi-tenant, auth, billing, 1-2 integrations, basic admin</td></tr>
+                        <tr style="border-bottom:1px solid var(--md-border);background:#f8fafc;"><td style="padding:13px 18px;"><strong>Growth-stage SaaS</strong></td><td style="padding:13px 18px;">&#8377;30L&ndash;&#8377;1Cr</td><td style="padding:13px 18px;">$36K&ndash;$120K</td><td style="padding:13px 18px;">4&ndash;9 months</td><td style="padding:13px 18px;">SSO/SAML, advanced billing, integrations, mobile companion, SOC 2 ready</td></tr>
+                        <tr style="border-bottom:1px solid var(--md-border);"><td style="padding:13px 18px;"><strong>Enterprise SaaS</strong></td><td style="padding:13px 18px;">&#8377;1Cr&ndash;&#8377;3Cr+</td><td style="padding:13px 18px;">$120K&ndash;$360K+</td><td style="padding:13px 18px;">9&ndash;18 months</td><td style="padding:13px 18px;">Multi-region, compliance (SOC 2 Type II, HIPAA, ISO 27001), enterprise integrations</td></tr>
+                        <tr style="border-bottom:1px solid var(--md-border);background:#f8fafc;"><td style="padding:13px 18px;"><strong>Custom web app (internal tools, portals, dashboards)</strong></td><td style="padding:13px 18px;">&#8377;8L&ndash;&#8377;75L</td><td style="padding:13px 18px;">$9.6K&ndash;$90K</td><td style="padding:13px 18px;">6 weeks&ndash;6 months</td><td style="padding:13px 18px;">Scope-dependent: from simple dashboards to complex internal platforms</td></tr>
+                    </tbody>
+                </table>
             </div>
         </div>
-    </div>
-    <!-- End Digital Marketing Pricing -->
+    </section>
 
-    <!-- What's Included
-    ============================================= -->
-    <div class="default-padding bg-gray" style="background: #f7f7f7;">
+    <section class="md-sec alt" id="marketing">
         <div class="container">
-            <div class="row text-center mb-5">
-                <div class="col-lg-8 offset-lg-2">
-                    <h5 class="section-label">What You Get</h5>
-                    <h2>What's Included in Every Project</h2>
-                    <p>Every engagement with ITD GrowthLabs comes with these essentials at no extra cost.</p>
-                </div>
+            <?php itdgl_render_section_head(
+                'Digital Marketing &amp; SEO retainers (2026)',
+                '<span class="accent">Monthly retainers</span> + ad spend billed separately.',
+                'Rs 8Cr+ ad spend managed. 100+ D2C brands scaled. 500+ SEO projects shipped.'
+            ); ?>
+            <div style="overflow-x:auto;background:#fff;border:1px solid var(--md-border);border-radius:14px;padding:8px;">
+                <table style="width:100%;border-collapse:collapse;font-size:14.5px;min-width:780px;">
+                    <thead><tr style="background:#0d1b2a;color:#fff;">
+                        <th style="padding:14px 18px;text-align:left;">Service</th>
+                        <th style="padding:14px 18px;text-align:left;">INR/month</th>
+                        <th style="padding:14px 18px;text-align:left;">USD/month</th>
+                        <th style="padding:14px 18px;text-align:left;">Scope</th>
+                    </tr></thead>
+                    <tbody>
+                        <tr style="border-bottom:1px solid var(--md-border);"><td style="padding:13px 18px;"><strong>Google Ads management</strong></td><td style="padding:13px 18px;">&#8377;40K&ndash;&#8377;2L/mo</td><td style="padding:13px 18px;">$500&ndash;$2.4K/mo</td><td style="padding:13px 18px;">Setup, keyword research, weekly opt, monthly report</td></tr>
+                        <tr style="border-bottom:1px solid var(--md-border);background:#f8fafc;"><td style="padding:13px 18px;"><strong>Meta Ads (FB + IG)</strong></td><td style="padding:13px 18px;">&#8377;40K&ndash;&#8377;2L/mo</td><td style="padding:13px 18px;">$500&ndash;$2.4K/mo</td><td style="padding:13px 18px;">Campaign strategy, creative production, audience testing</td></tr>
+                        <tr style="border-bottom:1px solid var(--md-border);"><td style="padding:13px 18px;"><strong>SEO (technical + content)</strong></td><td style="padding:13px 18px;">&#8377;50K&ndash;&#8377;3L/mo</td><td style="padding:13px 18px;">$600&ndash;$3.6K/mo</td><td style="padding:13px 18px;">Technical audit + content + link-building. Local SEO included.</td></tr>
+                        <tr style="border-bottom:1px solid var(--md-border);background:#f8fafc;"><td style="padding:13px 18px;"><strong>Social media management</strong></td><td style="padding:13px 18px;">&#8377;30K&ndash;&#8377;1.5L/mo</td><td style="padding:13px 18px;">$360&ndash;$1.8K/mo</td><td style="padding:13px 18px;">Calendar, production, posting, community, analytics</td></tr>
+                        <tr style="border-bottom:1px solid var(--md-border);"><td style="padding:13px 18px;"><strong>WhatsApp Business API automation</strong></td><td style="padding:13px 18px;">&#8377;15K&ndash;&#8377;60K/mo</td><td style="padding:13px 18px;">$180&ndash;$720/mo</td><td style="padding:13px 18px;">Setup + retainer. Lead capture, broadcasts, abandoned-cart, support automation</td></tr>
+                        <tr style="border-bottom:1px solid var(--md-border);background:#f8fafc;"><td style="padding:13px 18px;"><strong>Full-stack growth retainer</strong></td><td style="padding:13px 18px;">&#8377;1.5L&ndash;&#8377;6L/mo</td><td style="padding:13px 18px;">$1.8K&ndash;$7.2K/mo</td><td style="padding:13px 18px;">Ads + SEO + content + social + email + WhatsApp + landing pages, one team</td></tr>
+                    </tbody>
+                </table>
             </div>
-            <div class="row">
-                <div class="col-lg-3 col-md-4 col-6 mb-4">
-                    <div class="included-item wow fadeInUp" data-wow-delay="100ms">
-                        <i class="fas fa-user-tie"></i>
-                        <h6>Dedicated Project Manager</h6>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-6 mb-4">
-                    <div class="included-item wow fadeInUp" data-wow-delay="150ms">
-                        <i class="fas fa-chart-line"></i>
-                        <h6>Weekly Progress Reports</h6>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-6 mb-4">
-                    <div class="included-item wow fadeInUp" data-wow-delay="200ms">
-                        <i class="fas fa-code"></i>
-                        <h6>Source Code Ownership</h6>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-6 mb-4">
-                    <div class="included-item wow fadeInUp" data-wow-delay="250ms">
-                        <i class="fas fa-headset"></i>
-                        <h6>3-Month Post-Launch Support</h6>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-6 mb-4">
-                    <div class="included-item wow fadeInUp" data-wow-delay="300ms">
-                        <i class="fas fa-shield-alt"></i>
-                        <h6>SSL Certificate &amp; Security</h6>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-6 mb-4">
-                    <div class="included-item wow fadeInUp" data-wow-delay="350ms">
-                        <i class="fas fa-search"></i>
-                        <h6>Basic SEO Setup</h6>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-6 mb-4">
-                    <div class="included-item wow fadeInUp" data-wow-delay="400ms">
-                        <i class="fas fa-mobile-alt"></i>
-                        <h6>Mobile-Responsive Design</h6>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-6 mb-4">
-                    <div class="included-item wow fadeInUp" data-wow-delay="450ms">
-                        <i class="fas fa-chart-bar"></i>
-                        <h6>Analytics Integration</h6>
-                    </div>
-                </div>
-            </div>
+            <p style="text-align:center;font-size:13px;color:var(--md-muted);margin:18px 0 0;font-style:italic;max-width:780px;margin-left:auto;margin-right:auto;line-height:1.6;">Ad spend (paid to Google/Meta/LinkedIn) is additional and billed directly to vendors, not through us.</p>
         </div>
-    </div>
-    <!-- End What's Included -->
+    </section>
 
-    <!-- FAQ Section
-    ============================================= -->
-    <div class="default-padding">
+    <section class="md-sec" id="content">
         <div class="container">
-            <div class="row text-center mb-5">
-                <div class="col-lg-8 offset-lg-2">
-                    <h5 class="section-label">FAQ</h5>
-                    <h2>Frequently Asked Questions</h2>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-10 offset-lg-1">
-                    <div class="faq-item wow fadeInUp" data-wow-delay="100ms">
-                        <h5>Are these prices fixed?</h5>
-                        <p>No, every project is unique. These are typical ranges based on our past projects. Contact us for a custom quote tailored to your specific requirements.</p>
-                    </div>
-                    <div class="faq-item wow fadeInUp" data-wow-delay="150ms">
-                        <h5>Do you charge upfront?</h5>
-                        <p>We work on milestone-based payments. Typically 30% upfront, 40% at midpoint, 30% on delivery. This ensures accountability and transparency at every stage.</p>
-                    </div>
-                    <div class="faq-item wow fadeInUp" data-wow-delay="200ms">
-                        <h5>What if my project scope changes?</h5>
-                        <p>We handle scope changes through change requests. Additional work is estimated and approved by you before we proceed, so there are no surprises.</p>
-                    </div>
-                    <div class="faq-item wow fadeInUp" data-wow-delay="250ms">
-                        <h5>Do you offer maintenance after launch?</h5>
-                        <p>Yes, 3 months of free post-launch support is included with every project. Extended maintenance plans start at Rs. 10,000/month.</p>
-                    </div>
-                    <div class="faq-item wow fadeInUp" data-wow-delay="300ms">
-                        <h5>Can I pay in USD or GBP?</h5>
-                        <p>Yes, we accept payments in INR, USD, GBP, AED, and AUD via bank transfer or PayPal.</p>
-                    </div>
-                    <div class="faq-item wow fadeInUp" data-wow-delay="350ms">
-                        <h5>How long does a typical project take?</h5>
-                        <p>Websites: 2&ndash;6 weeks. Apps: 3&ndash;8 months. Digital marketing: ongoing monthly engagement. Timelines depend on project complexity and scope.</p>
-                    </div>
-                </div>
+            <?php itdgl_render_section_head(
+                'Content Writing pricing (2026)',
+                '<span class="accent">638+ articles published</span> on our own site &mdash; same playbook for yours.',
+                'AI-citation ready: FAQPage schema, self-contained answers, llms.txt integration.'
+            ); ?>
+            <div style="overflow-x:auto;background:#fff;border:1px solid var(--md-border);border-radius:14px;padding:8px;">
+                <table style="width:100%;border-collapse:collapse;font-size:14.5px;min-width:780px;">
+                    <thead><tr style="background:#0d1b2a;color:#fff;">
+                        <th style="padding:14px 18px;text-align:left;">Service</th>
+                        <th style="padding:14px 18px;text-align:left;">INR</th>
+                        <th style="padding:14px 18px;text-align:left;">USD</th>
+                        <th style="padding:14px 18px;text-align:left;">Timeline</th>
+                        <th style="padding:14px 18px;text-align:left;">Scope</th>
+                    </tr></thead>
+                    <tbody>
+                        <tr style="border-bottom:1px solid var(--md-border);"><td style="padding:13px 18px;"><strong>SEO blog article (1,500&ndash;3,000 words)</strong></td><td style="padding:13px 18px;">&#8377;6K&ndash;&#8377;25K each</td><td style="padding:13px 18px;">$72&ndash;$300 each</td><td style="padding:13px 18px;">5&ndash;7 days</td><td style="padding:13px 18px;">Keyword-targeted, schema-marked, AI-citation ready</td></tr>
+                        <tr style="border-bottom:1px solid var(--md-border);background:#f8fafc;"><td style="padding:13px 18px;"><strong>Blog content retainer</strong></td><td style="padding:13px 18px;">&#8377;25K&ndash;&#8377;1.5L/mo</td><td style="padding:13px 18px;">$300&ndash;$1.8K/mo</td><td style="padding:13px 18px;">ongoing</td><td style="padding:13px 18px;">4&ndash;8 articles/mo + topic strategy + Search Console reporting</td></tr>
+                        <tr style="border-bottom:1px solid var(--md-border);"><td style="padding:13px 18px;"><strong>Website copywriting project</strong></td><td style="padding:13px 18px;">&#8377;30K&ndash;&#8377;3L</td><td style="padding:13px 18px;">$360&ndash;$3.6K</td><td style="padding:13px 18px;">3&ndash;6 weeks</td><td style="padding:13px 18px;">Homepage + 5&ndash;15 inner pages, 2 revision rounds</td></tr>
+                        <tr style="border-bottom:1px solid var(--md-border);background:#f8fafc;"><td style="padding:13px 18px;"><strong>Technical / API documentation</strong></td><td style="padding:13px 18px;">&#8377;15K&ndash;&#8377;1L/mo</td><td style="padding:13px 18px;">$180&ndash;$1.2K/mo</td><td style="padding:13px 18px;">ongoing</td><td style="padding:13px 18px;">API docs, developer guides, SOP/playbook writing, white papers</td></tr>
+                        <tr style="border-bottom:1px solid var(--md-border);"><td style="padding:13px 18px;"><strong>BOFU buyer guides / comparison pages</strong></td><td style="padding:13px 18px;">&#8377;20K&ndash;&#8377;60K each</td><td style="padding:13px 18px;">$240&ndash;$720 each</td><td style="padding:13px 18px;">1&ndash;2 weeks</td><td style="padding:13px 18px;">Long-form (3,000&ndash;6,000 words), schema-marked, conversion-engineered</td></tr>
+                    </tbody>
+                </table>
             </div>
         </div>
-    </div>
-    <!-- End FAQ Section -->
+    </section>
 
-    <!-- CTA Section
-    ============================================= -->
-    <div class="cta-area default-padding text-center" style="background: #1565c0;">
+    <section class="md-sec alt-warm">
         <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <h2 class="text-white mb-3">Get a Custom Quote &mdash; It's Free</h2>
-                    <p class="text-white mb-4" style="font-size: 1.1rem;">
-                        Every project is different. Tell us what you need and we will send you a detailed, no-obligation estimate within 24 hours.
-                    </p>
-                    <a href="contact-us.php" class="btn btn-light btn-md animation" style="font-weight: 600; color: #1565c0; margin-right: 10px;">Request a Quote <i class="fas fa-arrow-right ml-2"></i></a>
-                    <a href="https://wa.me/918450978544" target="_blank" class="btn btn-outline-light btn-md animation" style="font-weight: 600;"><i class="fab fa-whatsapp mr-2"></i> WhatsApp Us</a>
-                </div>
-            </div>
+            <?php itdgl_render_section_head(
+                'Engagement models &amp; payment terms',
+                'How we contract &mdash; <span class="accent">no surprises</span>.',
+                'Same model across India + international clients.'
+            ); ?>
+            <?php itdgl_render_outcome_grid([
+                ['icon'=>'fas fa-receipt', 'title'=>'Fixed-quote SOW', 'desc'=>'Default for clear-scope projects (most websites, apps, SaaS MVPs). Locked price, locked timeline, milestone-based payments. 30%/40%/30% typical split.'],
+                ['icon'=>'fas fa-clock', 'title'=>'Time &amp; materials', 'desc'=>'For ambiguous scope or R&amp;D work. Hourly billing with weekly time-sheets + invoice. Daily/weekly caps available.'],
+                ['icon'=>'fas fa-calendar-check', 'title'=>'Monthly retainer', 'desc'=>'For marketing, SEO, content, ongoing development. Locked monthly fee for scoped deliverables. 3-month minimum, 30-day notice to pause/end.'],
+                ['icon'=>'fas fa-handshake', 'title'=>'Hybrid (build + retainer)', 'desc'=>'Most common at &#8377;25L+ engagements. Fixed-quote build phase + ongoing retainer for iteration / scale.'],
+                ['icon'=>'fas fa-rupee-sign', 'title'=>'INR payment (India)', 'desc'=>'NEFT/RTGS/IMPS default. UPI for milestones under &#8377;1L. GST-compliant invoicing with GSTIN visible. TDS-handled (Section 194J or 194C). NET-15 typical.'],
+                ['icon'=>'fas fa-money-check-alt', 'title'=>'USD/GBP/AED/AUD payment (Intl.)', 'desc'=>'Wire transfer / Wise / Stripe. NET-30 default. VAT-compliant invoicing for UAE / UK. W-8 BEN compliance for US clients. Currency hedging available for &gt;6-month engagements.'],
+            ]); ?>
         </div>
-    </div>
-    <!-- End CTA -->
+    </section>
 
-    <!-- Start Footer
-    ============================================= -->
-    <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
+    <section class="md-sec">
         <div class="container">
-            <div class="f-items default-padding-bottom pt-70 pt-xs-0">
-                <div class="row">
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Core Tech Services</h4>
-                            <ul>
-                                <li><a href="../services/website-development-company.php" target="_blank">Website Design & Development</a></li>
-                                <li><a href="../services/Template-Based-Website-Development.php" target="_blank">Template-Based Website Development</a></li>
-                                <li><a href="../services/WordPress-Website-Development.php" target="_blank">WordPress Website Development</a></li>
-                                <li><a href="../services/Custom-Website-Development.php" target="_blank">Custom Website Development</a></li>
-                                <li><a href="../services/E-commerce-Website-Development.php" target="_blank">E-commerce Website Development</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">End-to-End Services</h4>
-                            <ul>
-                                <li><a href="../services/website-development-company.php" target="_blank">Website Design & Development</a></li>
-                                <li><a href="../services/content-marketing-services.php" target="_blank">Content Marketing Services</a></li>
-                                <li><a href="../services/seo-auditing-services.php" target="_blank">SEO Audit and Optimization</a></li>
-                                <li><a href="../services/social-media-marketing.php" target="_blank">Social Media Marketing</a></li>
-                                <li><a href="../services/google-search-ads-services.php" target="_blank">Google Search Ads</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">More Tech Solutions</h4>
-                            <ul>
-                                <li><a href="../services/App-Development.php" target="_blank">App Development</a></li>
-                                <li><a href="../services/IT-Outsourcing-Services.php" target="_blank">IT Outsourcing Services</a></li>
-                                <li><a href="../services/IT-Team-Outsourcing.php" target="_blank">IT Team Outsourcing</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">SEO &amp; Content Writing</h4>
-                            <ul>
-                                <li><a href="../services/website-content-writing.php" target="_blank">Website Content Writing</a></li>
-                                <li><a href="../services/seo-article-writing.php" target="_blank">SEO Article Writing</a></li>
-                                <li><a href="../services/blog-writing-services.php" target="_blank">Blog Writing</a></li>
-                                <li><a href="../services/case-study-writing-services.php" target="_blank">Case Study Writing</a></li>
-                                <li><a href="../services/product-description-writing-services.php" target="_blank">Product Description</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Specialized Content Services</h4>
-                            <ul>
-                                <li><a href="../services/content_writing_strategy.php" target="_blank">Content Writing & Strategy</a></li>
-                                <li><a href="../services/technical-writing-services.php" target="_blank">Technical Writing Services</a></li>
-                                <li><a href="../services/White-Papers-Case-Studies.php" target="_blank">White Papers & Case Studies</a></li>
-                                <li><a href="../services/Content-Team-Outsourcing.php" target="_blank">Content Team Outsourcing</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Industries We Serve</h4>
-                            <ul>
-                                <li><a href="../services/logistics-content-marketing.php" target="_blank">Logistics</a></li>
-                                <li><a href="../services/Industries-We-Serve-Manufacturing.php" target="_blank">Manufacturing</a></li>
-                                <li><a href="../services/Industries-We-Serve-Technology.php" target="_blank">Technology</a></li>
-                                <li><a href="../services/ecommerce-content-services.php" target="_blank">E-commerce</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Content Services</h4>
-                            <ul>
-                                <li><a href="../services/website-content-writing.php">Website Content Writing</a></li>
-                                <li><a href="../services/seo-article-writing.php">SEO Article Writing</a></li>
-                                <li><a href="../services/blog-writing-services.php">Blog Writing</a></li>
-                                <li><a href="../services/case-study-writing-services.php">Case Study Writing</a></li>
-                                <li><a href="../services/product-description-writing-services.php">Product Description</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">End-to-End Services</h4>
-                            <ul>
-                                <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
-                                <li><a href="../services/content-marketing-services.php">Content Marketing Services</a></li>
-                                <li><a href="../services/seo-auditing-services.php">SEO Audit and Optimization</a></li>
-                                <li><a href="../services/social-media-marketing.php">Social Media Marketing</a></li>
-                                <li><a href="../services/google-search-ads-services.php">Google Search Ads</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Custom Solutions</h4>
-                            <ul>
-                                <li><a href="../services/Custom-eLearning-Development.php" target="_blank" style="text-transform: none;">Custom eLearning Development</a></li>
-                                <li><a href="../services/Powerpoint-to-eLearning-Conversion.php" target="_blank" style="text-transform: none;">PowerPoint to eLearning Conversion</a></li>
-                                <li><a href="../services/Mobile-Learn-Microlearning.php" target="_blank">Mobile Learning / Microlearning</a></li>
-                                <li><a href="../services/Gamified-Learning-Modules.php" target="_blank">Gamified Learning Modules</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Use Cases</h4>
-                            <ul>
-                                <li><a href="../services/Employee-Onboarding.php" target="_blank">Employee Onboarding</a></li>
-                                <li><a href="../services/Talent-Development.php" target="_blank">Talent Development</a></li>
-                                <li><a href="../services/Compliance-Training.php" target="_blank">Compliance Training</a></li>
-                                <li><a href="../services/Sales-Enablement.php" target="_blank">Sales Enablement</a></li>
-                                <li><a href="../services/Customer-Education.php" target="_blank">Customer Education</a></li>
-                                <li><a href="../services/Partner-Enablement.php" target="_blank">Partner Enablement</a></li>
-                                <li><a href="../services/Frontline-Workforce-Training.php" target="_blank">Frontline Workforce Training</a></li>
-                                <li><a href="../services/Member-Training.php" target="_blank">Member Training</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Industries We Serve</h4>
-                            <ul>
-                                <li><a href="industries/information_tech.php">IT &amp; Technology</a></li>
-                                <li><a href="industries/finance.php">Finance &amp; FinTech</a></li>
-                                <li><a href="industries/manufacturing.php">Manufacturing</a></li>
-                                <li><a href="industries/healthcare.php">Healthcare</a></li>
-                                <li><a href="industries/ecommerce.php">E-Commerce &amp; D2C</a></li>
-                                <li><a href="industries/education.php">Education &amp; E-Learning</a></li>
-                                <li><a href="industries/realestate.php">Real Estate</a></li>
-                                <li><a href="industries/logistics.php">Logistics &amp; Supply Chain</a></li>
-                                <li><a href="industries/professional_services.php">Professional Services</a></li>
-                                <li><a href="industries/startups.php">Startups</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Video Services</h4>
-                            <ul>
-                                <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
-                                <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
-                                <li><a href="../services/Video-Ads.php">Video Ads</a></li>
-                                <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
-                                <li><a href="../services/Repurpose-Videos.php">Repurpose Videos</a></li>
-                                <li><a href="../services/Video-Editing.php">Video Editing</a></li>
-                                <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
-                                <li><a href="../services/Onboarding-Videos.php">Onboarding Videos</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                        <h4 class="widget-title">WhatsApp Marketing</h4>
-                        <ul>
-                            <li><a href="whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
-                            <li><a href="whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
-                            <li><a href="whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
-                            <li><a href="whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
-                            <li><a href="whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flow</a></li>
-                        </ul>
-                    </div>
+            <?php itdgl_render_section_head(
+                'Pricing FAQ',
+                'Real questions from <span class="accent">100+ discovery calls</span> a quarter.',
+                'Yours not here? Book a 30-min call below.'
+            ); ?>
+            <?php itdgl_render_faq_accordion([
+                'How fast can I get a fixed quote?' =>
+                  'Within 48 hours of a 30-min discovery call. We send a Notion SOW with scope, fixed price (or T&amp;M cap), milestones, and a single named senior practice lead for the engagement.',
 
-                    <div class="f-item link mt-5">
-                        <h4 class="widget-title">UAE Digital Services</h4>
-                        <ul>
-                            <li><a href="uae/website-design-development.php">Website Design & Development</a></li>
-                            <li><a href="uae/web-application-development.php">Web Application Development</a></li>
-                            <li><a href="uae/mobile-app-development.php">Mobile App Development</a></li>
-                            <li><a href="uae/digital-marketing-services.php">Digital Marketing Services</a></li>
-                        </ul>
-                    </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                        <h4 class="widget-title">Data Services</h4>
-                        <ul>
-                            <li><a href="data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
-                            <li><a href="data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
-                            <li><a href="data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
-                            <li><a href="data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
-                            <li><a href="data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
-                        </ul>
-                    </div>
+                'What&rsquo;s included in your pricing &mdash; and what&rsquo;s not?' =>
+                  '<strong>Included:</strong> design (Figma), development, testing, deployment, source-code ownership transfer, basic SEO foundation, 30-day post-launch support. <strong>Not included:</strong> ad spend (paid to Google/Meta/LinkedIn directly), third-party software licenses (Vercel hosting, Razorpay/Stripe transaction fees, Sanity/Contentful subscription, etc.), client-side hardware. Hosting is included for the first year on most engagements.',
 
+                'Do you offer fixed-quote contracts or time-and-materials?' =>
+                  '<strong>Fixed-quote</strong> is default for projects with clear scope. <strong>Time-and-materials</strong> is for ambiguous scope or experimental work. We disclose this on the SOW &mdash; no surprises.',
 
-                    <div class="f-item link mt-5">
-                        <h4 class="widget-title">Africa Digital Services</h4>
-                        <ul>
-                            <li><a href="africa/website-design-development.php">Website Design & Development</a></li>
-                            <li><a href="africa/web-application-development.php">Web Application Development</a></li>
-                            <li><a href="africa/mobile-app-development.php">Mobile App Development</a></li>
-                            <li><a href="africa/digital-marketing-services.php">Digital Marketing Services</a></li>
-                        </ul>
-                    </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Data Annotation Services</h4>
-                            <ul>
-                                <li><a href="../data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
-                                <li><a href="../data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
-                                <li><a href="../data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
-                                <li><a href="../data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
-                            </ul>
-                        </div>
-                        <div class="f-item link mt-5">
-                        <h4 class="widget-title">Australia Digital Services</h4>
-                        <ul>
-                            <li><a href="australia/website-design-development.php">Website Design & Development</a></li>
-                            <li><a href="australia/web-application-development.php">Web Application Development</a></li>
-                            <li><a href="australia/mobile-app-development.php">Mobile App Development</a></li>
-                            <li><a href="australia/digital-marketing-services.php">Digital Marketing Services</a></li>
-                        </ul>
-                    </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                    <div class="f-item link">
-                        <h4 class="widget-title">UK Digital Services</h4>
-                        <ul>
-                            <li><a href="uk/website-design-development.php">Website Design & Development</a></li>
-                            <li><a href="uk/web-application-development.php">Web Application Development</a></li>
-                            <li><a href="uk/mobile-app-development.php">Mobile App Development</a></li>
-                            <li><a href="uk/digital-marketing-services.php">Digital Marketing Services</a></li>
-                        </ul>
-                    </div>
-                    <div class="f-item link mt-5">
-                        <h4 class="widget-title">USA Digital Services</h4>
-                        <ul>
-                            <li><a href="usa/website-design-development.php">Website Design & Development</a></li>
-                            <li><a href="usa/web-application-development.php">Web Application Development</a></li>
-                            <li><a href="usa/mobile-app-development.php">Mobile App Development</a></li>
-                            <li><a href="usa/digital-marketing-services.php">Digital Marketing Services</a></li>
-                        </ul>
-                    </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Resources</h4>
-                            <ul>
-                                <li><a href="../resources/all-blogs.php">Blogs</a></li>
-                                                            <li><a href="about.php">About Us</a></li>
-                                <li><a href="contact-us.php">Contact Us</a></li>
-                                <li><a href="privacy_policy.php">Privacy Policy</a></li>
-                            </ul>
-                        </div>
-                        <br>
-                        <div class="f-item contact">
-                            <h4 class="widget-title">Contact Us</h4>
-                            <p><i class="fa-solid fa-phone"></i> <a href="https://wa.me/918450978544" target="_blank" style="color:#dedede">Phone:+91 8450978544</a></p>
-                            <p><i class="fa fa-envelope"></i> <a href="mailto:info@itdgrowthlabs.com" style="color:#dedede"> Email: info@itdgrowthlabs.com </a></p>
-                            <p><i class="fa fa-globe"> </i> <a href="https://itdgrowthlabs.com/" style="color:#dedede"> Website: www.itdgrowthlabs.com </a></p>
-                            <ul>
-                                <li>Andheri, Mumbai, India</li>
-                            </ul>
-                            <div class="mt-3">
-                                <a href="https://www.linkedin.com/company/itd-growthlabs/" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-linkedin"></i></a>
-                                <a href="https://www.instagram.com/itdgrowthlabs/" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-instagram"></i></a>
-                                <a href="https://www.facebook.com/itdgrowthlabs/" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-facebook"></i></a>
-                                <a href="https://twitter.com/itdgrowthlabs" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-twitter"></i></a>
-                                <a href="https://www.youtube.com/@itdgrowthlabs" target="_blank" style="color:#dedede; font-size: 18px;"><i class="fab fa-youtube"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+                'How does INR vs USD/GBP/AED/AUD work for international clients?' =>
+                  'Pricing is anchored in INR (where our cost base is). International clients see equivalent ranges in their local currency for transparency, and contracts are denominated in the client&rsquo;s currency (USD / GBP / AED / AUD). We hedge currency on engagements over 6 months at our cost, not yours. NET-30 invoicing default via wire transfer / Wise / Stripe.',
+
+                'What if my project goes over the fixed-quote?' =>
+                  'Honest answer: <strong>scope creep is our problem to manage, not yours</strong>. If we under-scoped, we eat the cost. <strong>Scope changes</strong> initiated by you are quoted separately as &ldquo;change orders&rdquo; with locked price + timeline impact. Transparent process.',
+
+                'Why is your pricing public? Most agencies hide it.' =>
+                  'Because hiding pricing wastes everyone&rsquo;s time. Public pricing pre-qualifies the conversation and saves both sides 2&ndash;3 weeks of back-and-forth. We&rsquo;ve found it actually increases our win rate.',
+
+                'Do you offer discounts for long-term engagements?' =>
+                  'Yes &mdash; modest. 5&ndash;10% on multi-year retainers paid annually upfront. Larger discounts (15%+) on enterprise builds with 12+ month commitments. We don&rsquo;t do &ldquo;limited-time&rdquo; pricing pressure tactics.',
+
+                'Do you charge for the discovery call or SOW?' =>
+                  '<strong>No</strong> &mdash; both are free. The 30-min discovery call costs nothing. The fixed-quote SOW costs nothing. If you sign the SOW you become a client; if you don&rsquo;t, we&rsquo;ve invested 2&ndash;4 hours scoping your project for free.',
+            ]); ?>
         </div>
-        <div class="footer-bottom bg-dark text-light text-center">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <p>Copyright &copy; 2026 ITD GrowthLabs All Rights Reserved</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-    <script src="assets/js/jquery-3.6.0.min.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/jquery.appear.js"></script>
-    <script src="assets/js/jquery.easing.min.js"></script>
-    <script src="assets/js/jquery.magnific-popup.min.js"></script>
-    <script src="assets/js/modernizr.custom.13711.js"></script>
-    <script src="assets/js/swiper-bundle.min.js"></script>
-    <script src="assets/js/wow.min.js"></script>
-    <script src="assets/js/progress-bar.min.js"></script>
-    <script src="assets/js/circle-progress.js"></script>
-    <script src="assets/js/isotope.pkgd.min.js"></script>
-    <script src="assets/js/imagesloaded.pkgd.min.js"></script>
-    <!-- <script src="assets/js/jquery.nice-select.min.js"></script> -->
-    <script src="assets/js/count-to.js"></script>
-    <script src="assets/js/jquery.scrolla.min.js"></script>
-    <script src="assets/js/YTPlayer.min.js"></script>
-    <script src="assets/js/TweenMax.min.js"></script>
-    <script src="assets/js/validnavs.js"></script>
-    <script src="assets/js/main.js"></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
-    <script src="assets/js/custom.js"></script>
+    </section>
 
+    <?php itdgl_render_final_cta([
+        'head' => 'Want a fixed quote for your project? <span style="display:block;font-size:18px;font-weight:600;margin-top:8px;color:rgba(255,255,255,0.85);">Free 30-min discovery call &mdash; SOW in 48 hours.</span>',
+        'sub'  => 'Bring scope questions, stack questions or budget questions. We&rsquo;ll route you to the right senior practice lead.',
+        'primary' => ['url'=>'https://calendly.com/itdgrowthlabs-info/30min', 'label'=>'Book a 30-min Call', 'icon'=>'fas fa-calendar-check', 'source'=>'pricing_final'],
+        'secondary'=>['url'=>'https://wa.me/918450978544', 'label'=>'WhatsApp Us', 'icon'=>'fab fa-whatsapp', 'target'=>'_blank'],
+    ]); ?>
 
-<?php include(__DIR__ . "/includes/engagement-tools.php"); ?>
+    <?php include("./includes/footer.php"); ?>
+    <?php include("./includes/footer_script.php"); ?>
+    <?php include("./includes/popup_modal.php"); ?>
 </body>
 
 </html>

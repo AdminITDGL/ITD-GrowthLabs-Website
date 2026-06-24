@@ -85,6 +85,8 @@ ITD GrowthLabs is headquartered in Andheri (West), Mumbai 400053, Maharashtra, I
 
 ## Important Pages
 - Homepage: https://itdgrowthlabs.com/
+- Pricing (all services, multi-currency): https://itdgrowthlabs.com/pricing.php
+- FAQ (40+ honest answers): https://itdgrowthlabs.com/faqs.php
 - App Development: https://itdgrowthlabs.com/app_development.php
 - Website Development: https://itdgrowthlabs.com/website_development.php
 - Digital Marketing: https://itdgrowthlabs.com/digital_marketing.php
