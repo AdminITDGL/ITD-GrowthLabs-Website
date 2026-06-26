@@ -247,6 +247,24 @@ We do not maintain offices in these cities — we are headquartered in Andheri, 
 - Johannesburg, South Africa — fintech (Yoco/Ozow), BFSI, mining, retail, B2B SaaS: https://itdgrowthlabs.com/africa/johannesburg-south-africa.php
 - Cairo, Egypt — fintech (Fawry/Paymob), e-commerce, edtech, healthtech, MENA gateway: https://itdgrowthlabs.com/africa/cairo-egypt.php
 
+## High-intent App Development Vertical Pages (June 2026)
+Dedicated vertical landing pages for app development buyers. Each has the 4-app suite explainer (Customer + Delivery Partner + Vendor + Admin), industry-specific features, INR + USD pricing, lead capture form, and Service + FAQPage + BreadcrumbList schema.
+
+- Food Delivery App Development (Swiggy/Zomato-style): https://itdgrowthlabs.com/services/food-delivery-app-development.php
+- Grocery & Quick Commerce App Development (Blinkit/Zepto/Instamart-style): https://itdgrowthlabs.com/services/grocery-quick-commerce-app-development.php
+- Fish & Meat Delivery App Development (FreshToHome/Licious-style, cold-chain): https://itdgrowthlabs.com/services/fish-meat-delivery-app-development.php
+- Pharmacy & e-Pharmacy App Development (1mg/PharmEasy/Apollo-style, ABDM): https://itdgrowthlabs.com/services/pharmacy-app-development.php
+- Liquor & Beverage Delivery App Development (age + KYC, state compliance): https://itdgrowthlabs.com/services/liquor-delivery-app-development.php
+- Dairy & Subscription Delivery App Development (Country Delight/SuprDaily-style, eMandate): https://itdgrowthlabs.com/services/dairy-subscription-app-development.php
+- Hyperlocal Services App Development (Urban Company/Housejoy-style): https://itdgrowthlabs.com/services/hyperlocal-services-app-development.php
+- B2B Wholesale Ordering App Development (Udaan/Jumbotail-style, credit + GST): https://itdgrowthlabs.com/services/b2b-wholesale-ordering-app-development.php
+- Logistics & Courier Management App Development (Shipsy/LogiNext-style, 50M+ shipments shipped): https://itdgrowthlabs.com/services/logistics-courier-app-development.php
+
+## BOFU App Development Guides
+- Food Delivery App Development Cost in India 2026: https://itdgrowthlabs.com/resources/food-delivery-app-development-cost-india-2026.php
+- Swiggy/Zomato Clone vs Custom Food Delivery Build: https://itdgrowthlabs.com/compare/swiggy-zomato-clone-vs-custom-build.php
+- Blinkit/Zepto Clone vs Custom Quick Commerce Build: https://itdgrowthlabs.com/compare/blinkit-zepto-clone-vs-custom-quick-commerce.php
+
 ## Vs-competitor / comparison pages
 - ITD vs Toptal vs Upwork: https://itdgrowthlabs.com/compare/itd-vs-toptal-vs-upwork.php
 - ITD vs TCS / Infosys / Wipro: https://itdgrowthlabs.com/compare/itd-vs-tcs-infosys-wipro.php
