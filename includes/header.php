@@ -1,6 +1,82 @@
 <?php include(__DIR__ . "/mobile_nav_overlay.php"); ?>
-   
+
    <?php include $_SERVER['DOCUMENT_ROOT'] . '/includes/geo_ribbon.php'; ?>
+<style>
+/* Industry flyout — nested dropdown inside the App Development column of the
+   Services mega-menu. Hovering "By Industry / Use Case →" reveals the
+   9 vertical pages in a sub-panel to the right. */
+.itdgl-has-flyout {
+    position: relative;
+}
+.itdgl-has-flyout > a:hover {
+    background: rgba(30, 64, 175, 0.06);
+    border-radius: 6px;
+}
+.itdgl-flyout-menu {
+    list-style: none;
+    margin: 0;
+    padding: 8px 0;
+    position: absolute;
+    left: calc(100% + 6px);
+    top: -8px;
+    min-width: 280px;
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    box-shadow: 0 18px 50px rgba(15, 23, 42, 0.18);
+    z-index: 1000;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateX(-6px);
+    transition: opacity .18s ease, transform .18s ease, visibility .18s;
+    pointer-events: none;
+}
+.itdgl-has-flyout:hover > .itdgl-flyout-menu,
+.itdgl-has-flyout:focus-within > .itdgl-flyout-menu {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(0);
+    pointer-events: auto;
+}
+.itdgl-flyout-menu li {
+    list-style: none;
+    margin: 0;
+}
+.itdgl-flyout-menu li a {
+    display: flex;
+    align-items: center;
+    padding: 9px 16px;
+    font-size: 13.5px;
+    font-weight: 500;
+    color: #0f172a;
+    text-decoration: none;
+    transition: background .12s ease, color .12s ease;
+    border-radius: 0;
+}
+.itdgl-flyout-menu li a:hover {
+    background: rgba(30, 64, 175, 0.06);
+    color: #1e40af;
+}
+/* On mobile (when the mega-menu collapses to the hamburger), show the
+   flyout as an inline sub-list rather than a hover-triggered popup. */
+@media (max-width: 1199px) {
+    .itdgl-flyout-menu {
+        position: static;
+        opacity: 1;
+        visibility: visible;
+        transform: none;
+        pointer-events: auto;
+        box-shadow: none;
+        border: none;
+        background: transparent;
+        padding: 4px 0 4px 16px;
+        min-width: 0;
+    }
+    .itdgl-has-flyout > a > .fa-chevron-right {
+        display: none;
+    }
+}
+</style>
 <header>
        <!-- Start Navigation -->
        <nav class="navbar mobile-sidenav navbar-default validnavs dark on menu-center no-full">
@@ -54,27 +130,31 @@
                                            </ul>
                                        </div>
 
-                                       <!-- Column 2: App Development by service type + by industry -->
+                                       <!-- Column 2: App Development — 4 service types + nested flyout for 9 verticals -->
                                        <div class="col-menu col-lg-3">
                                            <h6 class="title"><a href="/app_development.php">App &amp; Software Development</a></h6>
-                                           <p style="font-size:10.5px;font-weight:800;letter-spacing:1.2px;color:#94a3b8;text-transform:uppercase;margin:6px 0 4px;">By service type</p>
                                            <ul class="menu-col">
                                                <li><a href="/services/App-Development.php">Custom Mobile App Development</a></li>
                                                <li><a href="/services/web_app_development.php">Custom Web Application Development</a></li>
                                                <li><a href="/services/saas_developement.php">SaaS Development</a></li>
                                                <li><a href="/services/custom-software-development.php">Custom Software Development</a></li>
-                                           </ul>
-                                           <p style="font-size:10.5px;font-weight:800;letter-spacing:1.2px;color:#94a3b8;text-transform:uppercase;margin:14px 0 4px;">By industry / use case</p>
-                                           <ul class="menu-col" style="font-size:13.5px;">
-                                               <li><a href="/services/food-delivery-app-development.php">Food Delivery</a></li>
-                                               <li><a href="/services/grocery-quick-commerce-app-development.php">Grocery / Quick Commerce</a></li>
-                                               <li><a href="/services/fish-meat-delivery-app-development.php">Fish &amp; Meat Delivery</a></li>
-                                               <li><a href="/services/pharmacy-app-development.php">Pharmacy / e-Pharmacy</a></li>
-                                               <li><a href="/services/liquor-delivery-app-development.php">Liquor / Beverage</a></li>
-                                               <li><a href="/services/dairy-subscription-app-development.php">Dairy / Subscriptions</a></li>
-                                               <li><a href="/services/hyperlocal-services-app-development.php">Hyperlocal Services</a></li>
-                                               <li><a href="/services/b2b-wholesale-ordering-app-development.php">B2B Wholesale Ordering</a></li>
-                                               <li><a href="/services/logistics-courier-app-development.php">Logistics / Courier</a></li>
+                                               <li class="itdgl-has-flyout">
+                                                   <a href="#" onclick="return false;" style="display:flex;align-items:center;justify-content:space-between;gap:8px;color:#1e40af;font-weight:700;">
+                                                       <span>By Industry / Use Case</span>
+                                                       <i class="fas fa-chevron-right" style="font-size:10px;opacity:0.7;"></i>
+                                                   </a>
+                                                   <ul class="itdgl-flyout-menu">
+                                                       <li><a href="/services/food-delivery-app-development.php"><i class="fas fa-utensils" style="color:#ef4444;margin-right:8px;width:14px;"></i>Food Delivery</a></li>
+                                                       <li><a href="/services/grocery-quick-commerce-app-development.php"><i class="fas fa-basket-shopping" style="color:#16a34a;margin-right:8px;width:14px;"></i>Grocery / Quick Commerce</a></li>
+                                                       <li><a href="/services/fish-meat-delivery-app-development.php"><i class="fas fa-fish" style="color:#0891b2;margin-right:8px;width:14px;"></i>Fish &amp; Meat Delivery</a></li>
+                                                       <li><a href="/services/pharmacy-app-development.php"><i class="fas fa-prescription-bottle-medical" style="color:#2563eb;margin-right:8px;width:14px;"></i>Pharmacy / e-Pharmacy</a></li>
+                                                       <li><a href="/services/liquor-delivery-app-development.php"><i class="fas fa-wine-bottle" style="color:#7c3aed;margin-right:8px;width:14px;"></i>Liquor / Beverage</a></li>
+                                                       <li><a href="/services/dairy-subscription-app-development.php"><i class="fas fa-cow" style="color:#0ea5e9;margin-right:8px;width:14px;"></i>Dairy / Subscriptions</a></li>
+                                                       <li><a href="/services/hyperlocal-services-app-development.php"><i class="fas fa-people-roof" style="color:#ec4899;margin-right:8px;width:14px;"></i>Hyperlocal Services</a></li>
+                                                       <li><a href="/services/b2b-wholesale-ordering-app-development.php"><i class="fas fa-boxes-stacked" style="color:#0f766e;margin-right:8px;width:14px;"></i>B2B Wholesale Ordering</a></li>
+                                                       <li><a href="/services/logistics-courier-app-development.php"><i class="fas fa-truck" style="color:#1e40af;margin-right:8px;width:14px;"></i>Logistics / Courier</a></li>
+                                                   </ul>
+                                               </li>
                                            </ul>
                                        </div>
 
