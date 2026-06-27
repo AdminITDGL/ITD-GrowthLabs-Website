@@ -115,6 +115,19 @@ $itdgl_current = $itdgl_regions[$itdgl_current_key];
     .itdgl-region__btn .flag { width: 20px; height: 14px; flex-basis: 20px; }
     .itdgl-region__menu { right: -4px; min-width: 240px; }
 }
+/* Force visibility on mobile — the validnavs framework hides .attr-right on
+   small viewports, but the region pill needs to stay reachable. Position
+   it next to the hamburger button instead. */
+@media (max-width: 991px) {
+    .navbar .attr-right { display: block !important; }
+    .navbar .attr-right .attr-nav { display: flex !important; align-items: center; gap: 8px; }
+    .navbar .attr-right .attr-nav > ul { display: none !important; }
+    .navbar .attr-right .itdgl-region { display: inline-flex !important; }
+    .itdgl-region__menu { right: 0; left: auto; }
+}
+@media (max-width: 575px) {
+    .itdgl-region__menu { right: 0; min-width: 240px; }
+}
 </style>
 <div class="itdgl-region">
     <button type="button" class="itdgl-region__btn" id="itdgl-region-btn"

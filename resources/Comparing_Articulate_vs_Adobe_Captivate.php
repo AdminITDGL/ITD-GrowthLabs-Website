@@ -230,16 +230,7 @@
     </div>
     </div>
     <!-- End Blog -->
-<script type="text/javascript">
-        window.onload = function() {
-            Calendly.initBadgeWidget({
-                url: 'contact-us.php',
-                text: 'Schedule time with me',
-                color: '#0069ff',
-                textColor: '#ffffff'
-            });
-        }
-    </script>
+
 
 <!-- Start Footer 
     ============================================= -->

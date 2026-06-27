@@ -54,15 +54,27 @@
                                            </ul>
                                        </div>
 
-                                       <!-- Column 2: App Development (Mobile + Web App + SaaS) -->
+                                       <!-- Column 2: App Development by service type + by industry -->
                                        <div class="col-menu col-lg-3">
                                            <h6 class="title"><a href="/app_development.php">App &amp; Software Development</a></h6>
+                                           <p style="font-size:10.5px;font-weight:800;letter-spacing:1.2px;color:#94a3b8;text-transform:uppercase;margin:6px 0 4px;">By service type</p>
                                            <ul class="menu-col">
                                                <li><a href="/services/App-Development.php">Custom Mobile App Development</a></li>
                                                <li><a href="/services/web_app_development.php">Custom Web Application Development</a></li>
                                                <li><a href="/services/saas_developement.php">SaaS Development</a></li>
-                                               <li><a href="/services/logistics-app-development.php">Logistics App Development</a></li>
                                                <li><a href="/services/custom-software-development.php">Custom Software Development</a></li>
+                                           </ul>
+                                           <p style="font-size:10.5px;font-weight:800;letter-spacing:1.2px;color:#94a3b8;text-transform:uppercase;margin:14px 0 4px;">By industry / use case</p>
+                                           <ul class="menu-col" style="font-size:13.5px;">
+                                               <li><a href="/services/food-delivery-app-development.php">Food Delivery</a></li>
+                                               <li><a href="/services/grocery-quick-commerce-app-development.php">Grocery / Quick Commerce</a></li>
+                                               <li><a href="/services/fish-meat-delivery-app-development.php">Fish &amp; Meat Delivery</a></li>
+                                               <li><a href="/services/pharmacy-app-development.php">Pharmacy / e-Pharmacy</a></li>
+                                               <li><a href="/services/liquor-delivery-app-development.php">Liquor / Beverage</a></li>
+                                               <li><a href="/services/dairy-subscription-app-development.php">Dairy / Subscriptions</a></li>
+                                               <li><a href="/services/hyperlocal-services-app-development.php">Hyperlocal Services</a></li>
+                                               <li><a href="/services/b2b-wholesale-ordering-app-development.php">B2B Wholesale Ordering</a></li>
+                                               <li><a href="/services/logistics-courier-app-development.php">Logistics / Courier</a></li>
                                            </ul>
                                        </div>
 

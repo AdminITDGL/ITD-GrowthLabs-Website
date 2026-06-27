@@ -330,16 +330,7 @@
         </div>
     </div>
     <!-- End Blog -->
-<script type="text/javascript">
-        window.onload = function() {
-            Calendly.initBadgeWidget({
-                url: 'contact-us.php',
-                text: 'Schedule time with me',
-                color: '#0069ff',
-                textColor: '#ffffff'
-            });
-        }
-    </script>
+
 
 <!-- Start Footer 
     ============================================= -->
@@ -674,16 +665,7 @@
     <script src="../assets/js/validnavs.js"></script>
     <script src="../assets/js/main.js"></script>
     <script type="text/javascript" src='https://www.google.com/recaptcha/api.js' async defer></script>
-<script type="text/javascript">
-        window.onload = function() {
-            Calendly.initBadgeWidget({
-                url: 'contact-us.php',
-                text: 'Schedule time with me',
-                color: '#0069ff',
-                textColor: '#ffffff'
-            });
-        }
-    </script>
+
 </body>
 
 </html>

@@ -824,16 +824,7 @@
     <script src="../assets/js/TweenMax.min.js"></script>
     <script src="../assets/js/validnavs.js"></script>
     <script src="../assets/js/main.js"></script>
-<script type="text/javascript">
-        window.onload = function() {
-            Calendly.initBadgeWidget({
-                url: 'contact-us.php',
-                text: 'Schedule time with me',
-                color: '#0069ff',
-                textColor: '#ffffff'
-            });
-        }
-    </script>
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
     <script>

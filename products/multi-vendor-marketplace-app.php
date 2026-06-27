@@ -788,60 +788,68 @@
             </div>
             <div class="row g-4">
                 <div class="col-lg-3 col-md-4 col-6">
-                    <div class="vertical-card">
+                    <a href="/services/food-delivery-app-development.php" class="vertical-card" style="display:block;text-decoration:none;color:inherit;">
                         <span class="v-icon">&#127828;</span>
                         <h4>Food Delivery</h4>
                         <p>Multi-restaurant ordering, scheduled pickup, cloud kitchen support</p>
-                    </div>
+                        <span style="display:inline-flex;align-items:center;gap:6px;margin-top:8px;color:#1e40af;font-weight:700;font-size:13px;">Full deep-dive <i class="fas fa-arrow-right" style="font-size:11px;"></i></span>
+                    </a>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6">
-                    <div class="vertical-card">
+                    <a href="/services/grocery-quick-commerce-app-development.php" class="vertical-card" style="display:block;text-decoration:none;color:inherit;">
                         <span class="v-icon">&#129382;</span>
                         <h4>Grocery &amp; Quick Commerce</h4>
                         <p>Dark-store dispatch, 10&ndash;30 min delivery, batched orders</p>
-                    </div>
+                        <span style="display:inline-flex;align-items:center;gap:6px;margin-top:8px;color:#1e40af;font-weight:700;font-size:13px;">Full deep-dive <i class="fas fa-arrow-right" style="font-size:11px;"></i></span>
+                    </a>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6">
-                    <div class="vertical-card">
+                    <a href="/services/fish-meat-delivery-app-development.php" class="vertical-card" style="display:block;text-decoration:none;color:inherit;">
                         <span class="v-icon">&#128031;</span>
                         <h4>Fish &amp; Meat</h4>
                         <p>Fresh-cut customisation, cold-chain routing, weight-based pricing</p>
-                    </div>
+                        <span style="display:inline-flex;align-items:center;gap:6px;margin-top:8px;color:#1e40af;font-weight:700;font-size:13px;">Full deep-dive <i class="fas fa-arrow-right" style="font-size:11px;"></i></span>
+                    </a>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6">
-                    <div class="vertical-card">
+                    <a href="/services/pharmacy-app-development.php" class="vertical-card" style="display:block;text-decoration:none;color:inherit;">
                         <span class="v-icon">&#128138;</span>
                         <h4>Pharmacy</h4>
                         <p>Prescription upload, refill reminders, regulated SKU controls</p>
-                    </div>
+                        <span style="display:inline-flex;align-items:center;gap:6px;margin-top:8px;color:#1e40af;font-weight:700;font-size:13px;">Full deep-dive <i class="fas fa-arrow-right" style="font-size:11px;"></i></span>
+                    </a>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6">
-                    <div class="vertical-card">
+                    <a href="/services/liquor-delivery-app-development.php" class="vertical-card" style="display:block;text-decoration:none;color:inherit;">
                         <span class="v-icon">&#127866;</span>
                         <h4>Liquor &amp; Beverages</h4>
                         <p>Age verification, location-based licensing, restricted hours</p>
-                    </div>
+                        <span style="display:inline-flex;align-items:center;gap:6px;margin-top:8px;color:#1e40af;font-weight:700;font-size:13px;">Full deep-dive <i class="fas fa-arrow-right" style="font-size:11px;"></i></span>
+                    </a>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6">
-                    <div class="vertical-card">
+                    <a href="/services/dairy-subscription-app-development.php" class="vertical-card" style="display:block;text-decoration:none;color:inherit;">
                         <span class="v-icon">&#129371;</span>
                         <h4>Dairy &amp; Subscriptions</h4>
                         <p>Recurring delivery, milkman routes, daily-billing logic</p>
-                    </div>
+                        <span style="display:inline-flex;align-items:center;gap:6px;margin-top:8px;color:#1e40af;font-weight:700;font-size:13px;">Full deep-dive <i class="fas fa-arrow-right" style="font-size:11px;"></i></span>
+                    </a>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6">
-                    <div class="vertical-card">
+                    <a href="/services/hyperlocal-services-app-development.php" class="vertical-card" style="display:block;text-decoration:none;color:inherit;">
                         <span class="v-icon">&#128241;</span>
                         <h4>Hyperlocal Services</h4>
                         <p>Salon, laundry, repair, home services with slot booking</p>
-                    </div>
+                        <span style="display:inline-flex;align-items:center;gap:6px;margin-top:8px;color:#1e40af;font-weight:700;font-size:13px;">Full deep-dive <i class="fas fa-arrow-right" style="font-size:11px;"></i></span>
+                    </a>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6">
-                    <div class="vertical-card">
+                    <a href="/services/b2b-wholesale-ordering-app-development.php" class="vertical-card" style="display:block;text-decoration:none;color:inherit;">
                         <span class="v-icon">&#127970;</span>
                         <h4>B2B Wholesale</h4>
                         <p>Tiered pricing, GST invoicing, credit terms, bulk orders</p>
-                    </div>
+                        <span style="display:inline-flex;align-items:center;gap:6px;margin-top:8px;color:#1e40af;font-weight:700;font-size:13px;">Full deep-dive <i class="fas fa-arrow-right" style="font-size:11px;"></i></span>
+                    </a>
                 </div>
             </div>
         </div>
