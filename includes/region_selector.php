@@ -109,24 +109,56 @@ $itdgl_current = $itdgl_regions[$itdgl_current_key];
 .itdgl-region__item .badge { font-size: 10.5px; color: #ff6b00; font-weight: 700; background: rgba(255,107,0,0.10); padding: 3px 8px; border-radius: 10px; }
 .itdgl-region__item.is-active { background: rgba(30,64,175,0.06); color: #1e40af; }
 .itdgl-region__item.is-active .name { color: #1e40af; }
-@media (max-width: 575px) {
-    .itdgl-region__btn { padding: 5px 10px 5px 7px; font-size: 12px; }
-    .itdgl-region__btn .label { display: none; }
-    .itdgl-region__btn .flag { width: 20px; height: 14px; flex-basis: 20px; }
-    .itdgl-region__menu { right: -4px; min-width: 240px; }
-}
 /* Force visibility on mobile — the validnavs framework hides .attr-right on
    small viewports, but the region pill needs to stay reachable. Position
    it next to the hamburger button instead. */
 @media (max-width: 991px) {
     .navbar .attr-right { display: block !important; }
-    .navbar .attr-right .attr-nav { display: flex !important; align-items: center; gap: 8px; }
+    .navbar .attr-right .attr-nav {
+        display: flex !important;
+        align-items: center;
+        gap: 8px;
+        padding-right: 56px; /* leave room for the hamburger toggler */
+    }
     .navbar .attr-right .attr-nav > ul { display: none !important; }
-    .navbar .attr-right .itdgl-region { display: inline-flex !important; }
-    .itdgl-region__menu { right: 0; left: auto; }
+    .navbar .attr-right .itdgl-region {
+        display: inline-flex !important;
+        position: relative;
+    }
+    .itdgl-region__btn {
+        padding: 6px 10px 6px 8px;
+        font-size: 12px;
+        background: rgba(255,255,255,0.95);
+        border-color: rgba(15,23,42,0.14);
+    }
+    .itdgl-region__btn .label { display: inline; font-size: 11.5px; }
+    .itdgl-region__btn .flag { width: 20px; height: 14px; flex-basis: 20px; }
+    /* Dropdown: anchored to the right edge of the pill, capped to viewport width */
+    .itdgl-region__menu {
+        position: absolute;
+        right: 0;
+        left: auto;
+        top: calc(100% + 6px);
+        min-width: 240px;
+        max-width: calc(100vw - 24px);
+        max-height: calc(100vh - 100px);
+        overflow-y: auto;
+        z-index: 1500;
+        box-shadow: 0 24px 60px rgba(15,23,42,0.28);
+    }
 }
 @media (max-width: 575px) {
-    .itdgl-region__menu { right: 0; min-width: 240px; }
+    .navbar .attr-right .attr-nav { padding-right: 48px; gap: 6px; }
+    .itdgl-region__btn { padding: 5px 9px 5px 7px; font-size: 11.5px; }
+    .itdgl-region__btn .label { display: none; }
+    .itdgl-region__btn .flag { width: 18px; height: 13px; flex-basis: 18px; }
+    .itdgl-region__menu {
+        right: 0;
+        min-width: 220px;
+        max-width: calc(100vw - 16px);
+    }
+    .itdgl-region__item { padding: 10px 12px; font-size: 13px; }
+    .itdgl-region__item .flag { width: 24px; height: 17px; flex-basis: 24px; }
 }
 </style>
 <div class="itdgl-region">

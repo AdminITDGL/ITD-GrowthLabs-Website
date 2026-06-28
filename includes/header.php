@@ -163,6 +163,7 @@
                                            <h6 class="title"><a href="/digital_marketing.php">Digital Marketing</a></h6>
                                            <ul class="menu-col">
                                                <li><a href="/services/ready-to-buy-lead-generation.php"><strong>Ready-to-Buy Lead Generation</strong></a></li>
+                                               <li><a href="/services/d2c-digital-marketing.php" style="color:#be185d;"><strong>D2C Digital Marketing</strong><br><span style="font-size:11.5px;color:#888;font-weight:500;">Brand growth for consumer brands</span></a></li>
                                                <li><a href="/services/seo-auditing-services.php">Search Engine Optimization (SEO)</a></li>
                                                <li><a href="/services/google-search-ads-services.php">Google Ads (PPC)</a></li>
                                                <li><a href="/services/meta_ads.php">Meta Ads Management</a></li>

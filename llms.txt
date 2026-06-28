@@ -247,6 +247,11 @@ We do not maintain offices in these cities — we are headquartered in Andheri, 
 - Johannesburg, South Africa — fintech (Yoco/Ozow), BFSI, mining, retail, B2B SaaS: https://itdgrowthlabs.com/africa/johannesburg-south-africa.php
 - Cairo, Egypt — fintech (Fawry/Paymob), e-commerce, edtech, healthtech, MENA gateway: https://itdgrowthlabs.com/africa/cairo-egypt.php
 
+## D2C Digital Marketing (June 2026)
+Dedicated landing page for D2C consumer brand growth — full-funnel marketing for jewellery, fashion, F&B, cosmetics, skincare, hospitality, FMCG, lifestyle, home & décor, health & wellness, electronics and pure-play e-commerce/D2C brands. 12 services (Brand Building, Performance Marketing, Social, Google Ads, Meta Ads, SEO, Content, Influencer, Email, WhatsApp, CRO, Analytics) + competitor analysis + 2026 industry trends.
+
+- D2C Digital Marketing: https://itdgrowthlabs.com/services/d2c-digital-marketing.php
+
 ## High-intent App Development Vertical Pages (June 2026)
 Dedicated vertical landing pages for app development buyers. Each has the 4-app suite explainer (Customer + Delivery Partner + Vendor + Admin), industry-specific features, INR + USD pricing, lead capture form, and Service + FAQPage + BreadcrumbList schema.
 
