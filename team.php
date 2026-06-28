@@ -88,11 +88,18 @@
         {
           "@type": "Person",
           "name": "Prashant Chaudhari",
-          "jobTitle": "Business Head",
+          "jobTitle": "Business Head — Business Strategy, Client Success & Technology",
           "url": "https://www.linkedin.com/in/prashant-chaudhari03/",
           "sameAs": ["https://www.linkedin.com/in/prashant-chaudhari03/"],
           "worksFor": { "@type": "Organization", "name": "ITD GrowthLabs" },
-          "knowsAbout": ["B2B technology engagements", "Client partnership", "Solution scoping", "Engagement design", "Logistics technology", "Custom software engagements", "Lead generation systems"]
+          "knowsAbout": ["Business strategy", "Client success", "Technology consulting", "Digital marketing", "Product consulting", "Digital transformation", "Engagement design", "Lead generation systems"]
+        },
+        {
+          "@type": "Person",
+          "name": "Loy Thomas",
+          "jobTitle": "Business Head — Technology Solutions, Solution Architect & Client Success",
+          "worksFor": { "@type": "Organization", "name": "ITD GrowthLabs" },
+          "knowsAbout": ["Enterprise technology", "Solution architecture", "Product design", "Custom web development", "Mobile app development", "SaaS architecture", "AI solutions", "Technical delivery"]
         },
         {
           "@type": "Person",
@@ -228,7 +235,7 @@
             <a href="index.php">Home</a><span class="sep">/</span>
             <span class="now">Team &amp; Authors</span>
         </div>
-        <span class="tm-eyebrow"><i class="fas fa-users" style="margin-right:6px;"></i>Senior team &middot; 12+ yrs avg experience &middot; Led by Prashant Chaudhari</span>
+        <span class="tm-eyebrow"><i class="fas fa-users" style="margin-right:6px;"></i>Senior team &middot; 12+ yrs avg experience &middot; Led by Prashant Chaudhari &amp; Loy Thomas</span>
         <h1 class="tm-title">The People Behind Every ITD GrowthLabs Project</h1>
         <p class="tm-subtitle">Our case studies, comparison guides and engagement decks aren't ghost-written. They're written by the people who actually do the work &mdash; led by Business Head <a href="https://www.linkedin.com/in/prashant-chaudhari03/" target="_blank" rel="noopener" style="color:#fff;border-bottom:1px dashed rgba(255,255,255,0.5);">Prashant Chaudhari</a>, who personally scopes and steers every engagement. Here's the leadership pod, what they specialise in, and how to reach them directly.</p>
         <div class="tm-trust-bar">
@@ -248,7 +255,7 @@
 
                 <div class="tm-section">
                     <h2>Leadership</h2>
-                    <p>Every engagement starts &mdash; and stays &mdash; with named leadership. Our Business Head personally scopes every engagement, sits in on the kick-off call, and is accountable for the relationship end to end. Below the leadership pod is the senior practitioner track that ships the work.</p>
+                    <p>Every engagement starts &mdash; and stays &mdash; with named leadership. ITD GrowthLabs is co-led by <strong>Prashant Chaudhari</strong> (Business Strategy, Client Success &amp; Technology) and <strong>Loy Thomas</strong> (Technology Solutions, Solution Architecture &amp; Client Success). One of them personally scopes every engagement, sits in on the kick-off call, and is accountable for the relationship end to end. Below the leadership pod is the senior practitioner track that ships the work.</p>
                 </div>
 
                 <!-- ============================================================ -->
@@ -267,17 +274,17 @@
                         <div style="flex:1;min-width:240px;">
                             <span class="role" style="background:var(--tm-primary);color:#fff;font-weight:800;">Leadership &middot; Business Head</span>
                             <h3 itemprop="name" style="margin-top:8px;">Prashant Chaudhari</h3>
-                            <div class="title" itemprop="jobTitle">Business Head &mdash; ITD GrowthLabs</div>
+                            <div class="title" itemprop="jobTitle">Business Head &mdash; Business Strategy, Client Success &amp; Technology</div>
                             <p class="bio" itemprop="description">
-                                Prashant is the Business Head at ITD GrowthLabs and the named owner of every client engagement we run &mdash; from the first discovery call through scoping, kick-off, build, and the long-term AMC relationship. He personally scopes the engagements we take on, decides which projects we&rsquo;re the right partner for and which we&rsquo;re not, and is the escalation path on every account. If you contact us about a serious engagement, you will hear back from Prashant or someone he has directly handed off to.
+                                With over <strong>12 years of experience in technology, digital marketing, and business consulting</strong>, Prashant leads client strategy, business development, product consulting and digital transformation initiatives at ITD GrowthLabs. He works closely with clients to understand business challenges and deliver scalable technology and marketing solutions that drive measurable growth.
                             </p>
                             <p class="bio" itemprop="description">
-                                Domains he&rsquo;s personally led recent engagements in include logistics and courier platforms, custom software builds for deep-tech and AI clients (including an active quantum-era data platform build for a deep-tech R&amp;D client, under NDA), B2B SaaS engineering pods, and full-stack lead-generation systems for both B2B and B2C operators across India, the UK, the US, the UAE, Australia and Africa.
+                                Prashant is the named owner of every client engagement &mdash; from first discovery call through scoping, kick-off, build, and the long-term AMC relationship. Domains he has personally led recent engagements in include logistics and courier platforms, custom software for deep-tech and AI clients (including an active quantum-era data platform build under NDA), B2B SaaS engineering pods, and full-stack lead-generation systems across India, the UK, the US, the UAE, Australia and Africa.
                             </p>
                             <div class="meta">
-                                <div class="meta-row"><strong>Role</strong>Business Head &middot; engagement owner</div>
-                                <div class="meta-row"><strong>Focus</strong>Scoping, partnership, accountability</div>
-                                <div class="meta-row"><strong>Currently leading</strong>Quantum-era data platform build (deep-tech R&amp;D client, NDA), logistics platform clients, lead-gen engagements</div>
+                                <div class="meta-row"><strong>Role</strong>Business Head &middot; Business Strategy, Client Success &amp; Technology</div>
+                                <div class="meta-row"><strong>Focus</strong>Client strategy, business development, product consulting, digital transformation</div>
+                                <div class="meta-row"><strong>Currently leading</strong>Quantum-era data platform build (deep-tech R&amp;D client, NDA), logistics platform clients, D2C marketing + lead-gen engagements</div>
                                 <div class="meta-row"><strong>Operating since</strong>2014 with ITD GrowthLabs</div>
                             </div>
                             <div class="links">
@@ -295,10 +302,51 @@
                     </div>
                 </article>
 
+                <!-- ============================================================ -->
+                <!-- LEADERSHIP CARD: Loy Thomas — Business Head (Technology)      -->
+                <!-- ============================================================ -->
+                <article class="tm-card" id="loy-thomas"
+                         itemscope itemtype="https://schema.org/Person"
+                         style="border:2px solid #1e40af;background:linear-gradient(135deg,#eff6ff 0%,#fff 60%);margin-bottom:30px;padding:32px;">
+                    <div style="display:flex;gap:24px;flex-wrap:wrap;align-items:flex-start;">
+                        <!-- Photo placeholder: initials avatar until a real headshot is uploaded to assets/img/team/loy-thomas.jpg -->
+                        <div style="flex:0 0 110px;width:110px;height:110px;border-radius:50%;background:linear-gradient(135deg,#1e40af,#3b82f6);color:#fff;display:flex;align-items:center;justify-content:center;font-size:38px;font-weight:800;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;box-shadow:0 8px 22px rgba(30,64,175,0.25);"
+                             aria-label="Photo of Loy Thomas, Business Head — Technology Solutions at ITD GrowthLabs"
+                             itemprop="image">
+                            LT
+                        </div>
+                        <div style="flex:1;min-width:240px;">
+                            <span class="role" style="background:#1e40af;color:#fff;font-weight:800;">Leadership &middot; Business Head &middot; Technology</span>
+                            <h3 itemprop="name" style="margin-top:8px;">Loy Thomas</h3>
+                            <div class="title" itemprop="jobTitle">Business Head &mdash; Technology Solutions, Solution Architect &amp; Client Success</div>
+                            <p class="bio" itemprop="description">
+                                With over <strong>12 years of experience in enterprise technology, product design, and solution architecture</strong>, Loy specialises in designing scalable software solutions and translating complex business requirements into practical technology products at ITD GrowthLabs.
+                            </p>
+                            <p class="bio" itemprop="description">
+                                He works closely with clients to architect <strong>custom web, mobile, SaaS, AI and enterprise solutions</strong> &mdash; ensuring technical excellence from concept to delivery. Loy partners with Prashant on the leadership pod: where Prashant owns business strategy and client success, Loy owns the technology architecture, build quality, and the senior engineering bench across web, mobile, SaaS and AI engagements.
+                            </p>
+                            <div class="meta">
+                                <div class="meta-row"><strong>Role</strong>Business Head &middot; Technology Solutions, Solution Architecture &amp; Client Success</div>
+                                <div class="meta-row"><strong>Focus</strong>Enterprise architecture, product design, custom web + mobile + SaaS + AI delivery</div>
+                                <div class="meta-row"><strong>Specialism</strong>Scalable software architecture, technical excellence end-to-end, senior engineering bench</div>
+                                <div class="meta-row"><strong>Operating since</strong>Co-leading ITD GrowthLabs technology practice</div>
+                            </div>
+                            <div class="links">
+                                <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call" data-source="team_loy" target="_blank" rel="noopener">
+                                    <i class="fas fa-calendar-check" style="margin-right:5px;"></i>Book a 30-min technical scoping call
+                                </a>
+                                <a href="mailto:info@itdgrowthlabs.com?subject=Technical%20enquiry%20-%20attention%20Loy%20Thomas">
+                                    <i class="fas fa-envelope" style="margin-right:5px;"></i>Email
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+
                 <div class="tm-section" style="margin-top:40px;">
                     <h2>How we structure delivery expertise</h2>
-                    <p>Beneath the leadership pod, ITD GrowthLabs runs as a senior-led studio. Every build engagement is led by a senior practitioner from one of the six tracks below. Each lead is supported by a small, focused pod of mid-level engineers, designers and analysts.</p>
-                    <p>The senior leads are the authors of our case studies, the engineers in your kick-off calls, and the people on the other end of the AMC retainer once the build ships. Where an individual lead is not yet listed publicly by name, contact requests are routed to them via Prashant.</p>
+                    <p>Beneath the leadership pod, ITD GrowthLabs runs as a tech &amp; marketing studio with senior practitioners on every engagement. Every build engagement is led by a senior practitioner from one of the six tracks below, supported by a small, focused pod of mid-level engineers, designers and analysts.</p>
+                    <p>The senior leads are the authors of our case studies, the engineers in your kick-off calls, and the people on the other end of the AMC retainer once the build ships. Where an individual lead is not yet listed publicly by name, contact requests are routed to them via Prashant or Loy depending on the engagement type.</p>
                 </div>
 
                 <div class="tm-grid">

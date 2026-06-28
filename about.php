@@ -60,7 +60,11 @@
         "address": {"@type": "PostalAddress", "addressLocality": "Mumbai", "addressRegion": "Maharashtra", "addressCountry": "IN", "streetAddress": "Andheri"},
         "contactPoint": {"@type": "ContactPoint", "telephone": "+91-8450978544", "contactType": "sales", "email": "info@itdgrowthlabs.com", "availableLanguage": ["English", "Hindi"]},
         "sameAs": ["https://www.linkedin.com/company/itd-growthlabs/", "https://www.instagram.com/itdgrowthlabs/", "https://www.facebook.com/itdgrowthlabs/", "https://twitter.com/itdgrowthlabs", "https://www.youtube.com/@itdgrowthlabs"],
-        "founder": {"@type": "Person", "name": "Prashant Chaudhari", "jobTitle": "Business Head", "url": "https://www.linkedin.com/in/prashant-chaudhari03/"}
+        "founder": {"@type": "Person", "name": "Prashant Chaudhari", "jobTitle": "Business Head — Business Strategy, Client Success & Technology", "url": "https://www.linkedin.com/in/prashant-chaudhari03/"},
+        "employee": [
+          {"@type": "Person", "name": "Prashant Chaudhari", "jobTitle": "Business Head — Business Strategy, Client Success & Technology", "url": "https://www.linkedin.com/in/prashant-chaudhari03/", "worksFor": {"@type": "Organization", "name": "ITD GrowthLabs"}},
+          {"@type": "Person", "name": "Loy Thomas", "jobTitle": "Business Head — Technology Solutions, Solution Architect & Client Success", "worksFor": {"@type": "Organization", "name": "ITD GrowthLabs"}}
+        ]
     }
     </script>
     <script type="application/ld+json">
@@ -150,24 +154,46 @@
         <div class="container">
             <?php itdgl_render_section_head(
                 'Leadership',
-                'Named owner on every engagement.',
-                'You&rsquo;ll talk to Prashant on the first call, the kick-off, and any time something needs an escalation path. That continuity is the engagement model.'
+                'Co-led by <span class="accent">Prashant Chaudhari &amp; Loy Thomas</span>.',
+                'Two named co-leaders &mdash; one on business strategy and client success, the other on technology architecture and delivery. One of them is on every engagement, end to end.'
             ); ?>
-            <div style="background:#fff;border:2px solid var(--md-primary);border-radius:16px;padding:36px;display:flex;gap:28px;flex-wrap:wrap;align-items:flex-start;max-width:920px;margin:0 auto;box-shadow:var(--md-card-shadow);">
-                <div style="flex:0 0 120px;width:120px;height:120px;border-radius:50%;background:linear-gradient(135deg,#1e40af,#4338ca);color:#fff;display:flex;align-items:center;justify-content:center;font-size:42px;font-weight:800;box-shadow:0 8px 22px rgba(30,64,175,0.28);" aria-label="Prashant Chaudhari, Business Head">PC</div>
-                <div style="flex:1;min-width:240px;">
-                    <span style="display:inline-block;font-size:11px;letter-spacing:1.5px;text-transform:uppercase;color:#fff;background:var(--md-primary);font-weight:800;padding:4px 12px;border-radius:14px;margin-bottom:10px;">Business Head &middot; Engagement Owner</span>
-                    <h3 style="font-size:24px;font-weight:800;color:var(--md-heading);margin:0 0 4px;">Prashant Chaudhari</h3>
-                    <div style="font-size:14px;color:var(--md-muted);margin-bottom:14px;">Business Head &middot; ITD GrowthLabs</div>
-                    <p style="font-size:15px;line-height:1.7;color:var(--md-body);margin-bottom:14px;">Prashant personally scopes every engagement we take on, decides which projects we&rsquo;re the right partner for, and is the named owner of the client relationship end to end. If you contact us about a serious build, you will hear back from Prashant or someone he has directly handed off to.</p>
-                    <p style="font-size:15px;line-height:1.7;color:var(--md-body);margin-bottom:18px;">Currently leading our active quantum-era data platform build (deep-tech R&amp;D client, under NDA), our logistics platform clients, and our lead-generation engagements across India, the UK, the US, the UAE, Australia and Africa.</p>
-                    <div style="display:flex;gap:14px;flex-wrap:wrap;">
-                        <a href="https://www.linkedin.com/in/prashant-chaudhari03/" target="_blank" rel="noopener" style="font-weight:700;color:var(--md-primary);text-decoration:none;font-size:14.5px;"><i class="fab fa-linkedin" style="margin-right:6px;"></i>LinkedIn</a>
-                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call" data-source="about_leadership" style="font-weight:700;color:var(--md-primary);text-decoration:none;font-size:14.5px;" target="_blank" rel="noopener"><i class="fas fa-calendar-check" style="margin-right:6px;"></i>Book a 30-min call</a>
-                        <a href="/team.php" style="font-weight:700;color:var(--md-primary);text-decoration:none;font-size:14.5px;"><i class="fas fa-users" style="margin-right:6px;"></i>See full team</a>
+            <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:24px;max-width:1180px;margin:0 auto;">
+
+                <!-- Prashant Chaudhari -->
+                <div style="background:#fff;border:2px solid var(--md-primary);border-radius:16px;padding:30px;display:flex;gap:22px;flex-wrap:wrap;align-items:flex-start;box-shadow:var(--md-card-shadow);">
+                    <div style="flex:0 0 96px;width:96px;height:96px;border-radius:50%;background:linear-gradient(135deg,#ff6b00,#e65100);color:#fff;display:flex;align-items:center;justify-content:center;font-size:34px;font-weight:800;box-shadow:0 8px 22px rgba(255,107,0,0.28);" aria-label="Prashant Chaudhari, Business Head">PC</div>
+                    <div style="flex:1;min-width:200px;">
+                        <span style="display:inline-block;font-size:11px;letter-spacing:1.5px;text-transform:uppercase;color:#fff;background:var(--md-primary);font-weight:800;padding:4px 12px;border-radius:14px;margin-bottom:10px;">Business Head &middot; Strategy &amp; Client Success</span>
+                        <h3 style="font-size:22px;font-weight:800;color:var(--md-heading);margin:0 0 4px;">Prashant Chaudhari</h3>
+                        <div style="font-size:13.5px;color:var(--md-muted);margin-bottom:14px;line-height:1.4;">Business Head &mdash; Business Strategy, Client Success &amp; Technology</div>
+                        <p style="font-size:14.5px;line-height:1.65;color:var(--md-body);margin-bottom:12px;">With over <strong>12 years of experience in technology, digital marketing, and business consulting</strong>, Prashant leads client strategy, business development, product consulting, and digital transformation initiatives.</p>
+                        <p style="font-size:14.5px;line-height:1.65;color:var(--md-body);margin-bottom:16px;">He works closely with clients to understand business challenges and deliver scalable technology and marketing solutions that drive measurable growth.</p>
+                        <div style="display:flex;gap:14px;flex-wrap:wrap;">
+                            <a href="https://www.linkedin.com/in/prashant-chaudhari03/" target="_blank" rel="noopener" style="font-weight:700;color:var(--md-primary);text-decoration:none;font-size:13.5px;"><i class="fab fa-linkedin" style="margin-right:6px;"></i>LinkedIn</a>
+                            <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call" data-source="about_leadership_prashant" style="font-weight:700;color:var(--md-primary);text-decoration:none;font-size:13.5px;" target="_blank" rel="noopener"><i class="fas fa-calendar-check" style="margin-right:6px;"></i>Strategy call</a>
+                        </div>
                     </div>
                 </div>
+
+                <!-- Loy Thomas -->
+                <div style="background:#fff;border:2px solid #1e40af;border-radius:16px;padding:30px;display:flex;gap:22px;flex-wrap:wrap;align-items:flex-start;box-shadow:var(--md-card-shadow);">
+                    <div style="flex:0 0 96px;width:96px;height:96px;border-radius:50%;background:linear-gradient(135deg,#1e40af,#3b82f6);color:#fff;display:flex;align-items:center;justify-content:center;font-size:34px;font-weight:800;box-shadow:0 8px 22px rgba(30,64,175,0.28);" aria-label="Loy Thomas, Business Head Technology">LT</div>
+                    <div style="flex:1;min-width:200px;">
+                        <span style="display:inline-block;font-size:11px;letter-spacing:1.5px;text-transform:uppercase;color:#fff;background:#1e40af;font-weight:800;padding:4px 12px;border-radius:14px;margin-bottom:10px;">Business Head &middot; Technology &amp; Architecture</span>
+                        <h3 style="font-size:22px;font-weight:800;color:var(--md-heading);margin:0 0 4px;">Loy Thomas</h3>
+                        <div style="font-size:13.5px;color:var(--md-muted);margin-bottom:14px;line-height:1.4;">Business Head &mdash; Technology Solutions, Solution Architect &amp; Client Success</div>
+                        <p style="font-size:14.5px;line-height:1.65;color:var(--md-body);margin-bottom:12px;">With over <strong>12 years of experience in enterprise technology, product design, and solution architecture</strong>, Loy specialises in designing scalable software solutions and translating complex business requirements into practical technology products.</p>
+                        <p style="font-size:14.5px;line-height:1.65;color:var(--md-body);margin-bottom:16px;">He works closely with clients to architect <strong>custom web, mobile, SaaS, AI and enterprise solutions</strong> &mdash; ensuring technical excellence from concept to delivery.</p>
+                        <div style="display:flex;gap:14px;flex-wrap:wrap;">
+                            <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call" data-source="about_leadership_loy" style="font-weight:700;color:#1e40af;text-decoration:none;font-size:13.5px;" target="_blank" rel="noopener"><i class="fas fa-calendar-check" style="margin-right:6px;"></i>Technical scoping call</a>
+                            <a href="/team.php#loy-thomas" style="font-weight:700;color:#1e40af;text-decoration:none;font-size:13.5px;"><i class="fas fa-users" style="margin-right:6px;"></i>Full bio</a>
+                        </div>
+                    </div>
+                </div>
+
             </div>
+            <style>@media (max-width:880px){section.md-sec.alt .container > div[style*="grid-template-columns:repeat(2"]{grid-template-columns:1fr !important;}}</style>
+            <p style="text-align:center;margin-top:28px;font-size:14px;color:var(--md-muted);"><a href="/team.php" style="color:var(--md-primary);font-weight:700;text-decoration:none;"><i class="fas fa-users" style="margin-right:5px;"></i>See full team</a></p>
         </div>
     </section>
 
