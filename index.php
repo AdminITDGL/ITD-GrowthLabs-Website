@@ -361,7 +361,7 @@
                     </span>
                 </h1>
 
-                <p class="h-hero__sub">A <strong>senior-led India studio</strong> shipping high-converting websites, custom mobile &amp; web applications, SaaS platforms and result-driven digital marketing &mdash; for <strong>300+ businesses</strong> across India, USA, UK, UAE &amp; Australia.</p>
+                <p class="h-hero__sub">A <strong>senior-led India studio</strong> trusted by <strong>300+ businesses</strong> across India, USA, UK, UAE &amp; Australia.</p>
 
                 <!-- Dynamic service spotlight — 5 cards, one highlights at a time, rotates in sync with headline -->
                 <div class="h-hero__services" id="hero-services">
