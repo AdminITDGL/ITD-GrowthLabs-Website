@@ -247,10 +247,22 @@ We do not maintain offices in these cities — we are headquartered in Andheri, 
 - Johannesburg, South Africa — fintech (Yoco/Ozow), BFSI, mining, retail, B2B SaaS: https://itdgrowthlabs.com/africa/johannesburg-south-africa.php
 - Cairo, Egypt — fintech (Fawry/Paymob), e-commerce, edtech, healthtech, MENA gateway: https://itdgrowthlabs.com/africa/cairo-egypt.php
 
-## D2C Digital Marketing (June 2026)
-Dedicated landing page for D2C consumer brand growth — full-funnel marketing for jewellery, fashion, F&B, cosmetics, skincare, hospitality, FMCG, lifestyle, home & décor, health & wellness, electronics and pure-play e-commerce/D2C brands. 12 services (Brand Building, Performance Marketing, Social, Google Ads, Meta Ads, SEO, Content, Influencer, Email, WhatsApp, CRO, Analytics) + competitor analysis + 2026 industry trends.
+## D2C Digital Marketing — Hub + 12 Industry Playbooks (June 2026)
+Hub page for D2C consumer brand growth with our 4-step methodology (Discover → Strategise → Execute → Optimise), 12 services (Brand Building, Performance Marketing, Social, Google Ads, Meta Ads, SEO, Content, Influencer, Email, WhatsApp, CRO, Analytics), competitor analysis, 2026 industry trends + quick answer for AI search at end. Below, 12 dedicated industry playbook pages each covering industry-specific challenges, our methodology adapted to the category, services contextualised, use cases, case study stub, FAQs + AEO at end.
 
-- D2C Digital Marketing: https://itdgrowthlabs.com/services/d2c-digital-marketing.php
+- D2C Digital Marketing (hub): https://itdgrowthlabs.com/services/d2c-digital-marketing.php
+- Jewellery Brands: https://itdgrowthlabs.com/services/d2c/jewellery-digital-marketing.php
+- Fashion & Clothing: https://itdgrowthlabs.com/services/d2c/fashion-clothing-digital-marketing.php
+- Food & Beverage: https://itdgrowthlabs.com/services/d2c/food-beverage-digital-marketing.php
+- Hotels & Hospitality: https://itdgrowthlabs.com/services/d2c/hotels-hospitality-digital-marketing.php
+- Cosmetics & Beauty: https://itdgrowthlabs.com/services/d2c/cosmetics-beauty-digital-marketing.php
+- Skincare & Personal Care: https://itdgrowthlabs.com/services/d2c/skincare-digital-marketing.php
+- Healthcare Brands: https://itdgrowthlabs.com/services/d2c/healthcare-digital-marketing.php
+- FMCG & Consumer Goods: https://itdgrowthlabs.com/services/d2c/fmcg-digital-marketing.php
+- Home & Décor: https://itdgrowthlabs.com/services/d2c/home-decor-digital-marketing.php
+- Electronics & Consumer Products: https://itdgrowthlabs.com/services/d2c/electronics-digital-marketing.php
+- Lifestyle Brands: https://itdgrowthlabs.com/services/d2c/lifestyle-brands-digital-marketing.php
+- E-commerce & Other D2C: https://itdgrowthlabs.com/services/d2c/ecommerce-d2c-digital-marketing.php
 
 ## High-intent App Development Vertical Pages (June 2026)
 Dedicated vertical landing pages for app development buyers. Each has the 4-app suite explainer (Customer + Delivery Partner + Vendor + Admin), industry-specific features, INR + USD pricing, lead capture form, and Service + FAQPage + BreadcrumbList schema.

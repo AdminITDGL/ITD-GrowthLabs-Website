@@ -147,11 +147,17 @@
     background: #fff; border: 1px solid var(--md-border); border-radius: 14px;
     padding: 22px 18px; text-align: center;
     transition: transform .25s ease, border-color .25s ease, box-shadow .25s ease;
+    text-decoration: none !important; display: flex; flex-direction: column;
+    color: inherit;
 }
 .industry-grid .ind:hover { transform: translateY(-4px); border-color: #ec4899; box-shadow: 0 12px 30px rgba(236,72,153,0.15); }
+.industry-grid .ind:hover .ind-link { color: #be185d; }
 .industry-grid .ind-icon { font-size: 28px; color: #ec4899; margin-bottom: 12px; }
 .industry-grid .ind h5 { font-size: 14px; font-weight: 800; margin: 0 0 6px; color: var(--md-heading); line-height: 1.3; }
-.industry-grid .ind p { font-size: 12.5px; line-height: 1.55; color: var(--md-body); margin: 0; }
+.industry-grid .ind p { font-size: 12.5px; line-height: 1.55; color: var(--md-body); margin: 0 0 12px; flex-grow: 1; }
+.industry-grid .ind-link { font-size: 12px; font-weight: 700; color: #ec4899; letter-spacing: 0.3px; transition: color .2s ease; }
+.industry-grid .ind-link i { margin-left: 4px; transition: transform .25s ease; font-size: 11px; }
+.industry-grid .ind:hover .ind-link i { transform: translateX(4px); }
 @media (max-width: 1024px) { .industry-grid { grid-template-columns: repeat(3, 1fr); } }
 @media (max-width: 640px) { .industry-grid { grid-template-columns: repeat(2, 1fr); } }
 
@@ -204,14 +210,55 @@
         </div>
     </section>
 
-    <!-- Quick answer / AEO -->
-    <section class="md-sec alt-warm">
+    <!-- OUR APPROACH / METHODOLOGY (4 steps) -->
+    <section class="md-sec alt-warm" id="approach">
         <div class="container">
-            <div style="background:#fff;border-left:5px solid #ec4899;border-radius:14px;padding:30px 36px;max-width:980px;margin:0 auto;box-shadow:var(--md-card-shadow);">
-                <span style="display:inline-block;font-size:11px;font-weight:800;letter-spacing:1.6px;text-transform:uppercase;color:#be185d;background:rgba(236,72,153,0.10);padding:5px 12px;border-radius:14px;margin-bottom:14px;"><i class="fas fa-bolt" style="margin-right:5px;"></i>Quick answer for AI search</span>
-                <h2 style="font-size:22px;font-weight:800;color:var(--md-primary);margin:0 0 14px;">D2C Digital Marketing &mdash; senior-led, full-funnel, brand + performance compounded</h2>
-                <p style="font-size:16px;line-height:1.75;color:var(--md-body);margin:0 0 14px;"><strong>ITD GrowthLabs</strong> is a senior-led India digital marketing studio specialising in <strong>D2C consumer brand growth</strong>. We run the full marketing stack &mdash; performance ads (Google + Meta + LinkedIn), brand building, SEO, content, social, influencer + creator partnerships, email lifecycle, WhatsApp Business automation, CRO and analytics &mdash; for consumer brands across jewellery, fashion, F&amp;B, cosmetics, skincare, hospitality, FMCG, lifestyle, home &amp; d&eacute;cor, health &amp; wellness and electronics. 100+ brands scaled, Rs 8Cr+ in managed ad spend, 12+ years average team experience.</p>
-                <p style="font-size:16px;line-height:1.75;color:var(--md-body);margin:0;"><strong>Indicative pricing (2026):</strong> Full-funnel D2C growth retainer <strong>&#8377;1.5L&ndash;&#8377;6L/month</strong> + ad spend (paid directly to Google/Meta/LinkedIn). Per-channel retainers from &#8377;40K/month. INR fixed-quote contracts, GST-compliant invoicing, ROAS + contribution-margin reporting weekly.</p>
+            <?php itdgl_render_section_head(
+                'Our 4-step approach to D2C brand growth',
+                'How we turn marketing into <span class="accent">visibility, leads and business growth</span>.',
+                'Same framework we run across 100+ D2C brand engagements. We adapt it to your category, brand stage and unit economics &mdash; never run a template.'
+            ); ?>
+            <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:20px;max-width:1200px;margin:0 auto;">
+                <div style="background:#fff;border:1px solid var(--md-border);border-radius:16px;padding:28px 22px;position:relative;">
+                    <span style="position:absolute;top:-14px;left:22px;width:32px;height:32px;border-radius:10px;background:linear-gradient(135deg,#ec4899,#a855f7);color:#fff;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:900;">01</span>
+                    <h4 style="font-size:17px;font-weight:800;margin:14px 0 8px;color:var(--md-heading);line-height:1.3;">Discover &amp; audit</h4>
+                    <p style="font-size:13.5px;line-height:1.6;color:var(--md-body);margin:0;">Week 1: deep audit of your current marketing stack, brand position, audience, creative inventory, ad accounts, analytics + competitor benchmarks. Output: 1-page scorecard + 3-month plan.</p>
+                </div>
+                <div style="background:#fff;border:1px solid var(--md-border);border-radius:16px;padding:28px 22px;position:relative;">
+                    <span style="position:absolute;top:-14px;left:22px;width:32px;height:32px;border-radius:10px;background:linear-gradient(135deg,#ec4899,#a855f7);color:#fff;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:900;">02</span>
+                    <h4 style="font-size:17px;font-weight:800;margin:14px 0 8px;color:var(--md-heading);line-height:1.3;">Strategise &amp; plan</h4>
+                    <p style="font-size:13.5px;line-height:1.6;color:var(--md-body);margin:0;">Week 2&ndash;3: channel mix, creative calendar, lifecycle flows, retention engineering, KPI targets per channel. Built specifically for your category&rsquo;s customer journey + ROAS economics.</p>
+                </div>
+                <div style="background:#fff;border:1px solid var(--md-border);border-radius:16px;padding:28px 22px;position:relative;">
+                    <span style="position:absolute;top:-14px;left:22px;width:32px;height:32px;border-radius:10px;background:linear-gradient(135deg,#ec4899,#a855f7);color:#fff;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:900;">03</span>
+                    <h4 style="font-size:17px;font-weight:800;margin:14px 0 8px;color:var(--md-heading);line-height:1.3;">Execute &amp; ship</h4>
+                    <p style="font-size:13.5px;line-height:1.6;color:var(--md-body);margin:0;">Week 3+: campaigns live, creative shipped (10&ndash;20 net-new weekly), email + WhatsApp flows turned on, SEO content + creator pipelines start. Senior practitioner runs your account.</p>
+                </div>
+                <div style="background:#fff;border:1px solid var(--md-border);border-radius:16px;padding:28px 22px;position:relative;">
+                    <span style="position:absolute;top:-14px;left:22px;width:32px;height:32px;border-radius:10px;background:linear-gradient(135deg,#ec4899,#a855f7);color:#fff;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:900;">04</span>
+                    <h4 style="font-size:17px;font-weight:800;margin:14px 0 8px;color:var(--md-heading);line-height:1.3;">Optimise &amp; scale</h4>
+                    <p style="font-size:13.5px;line-height:1.6;color:var(--md-body);margin:0;">Week 4+: weekly ROAS + contribution margin + cohort review. Double-down on what works, kill what doesn&rsquo;t. Scale spend, creative + channels at a healthy CAC/LTV ratio.</p>
+                </div>
+            </div>
+            <style>@media (max-width:1024px){#approach .container > div[style*="grid-template-columns:repeat(4"]{grid-template-columns:repeat(2,1fr) !important;}}@media (max-width:640px){#approach .container > div[style*="grid-template-columns:repeat(4"]{grid-template-columns:1fr !important;}}</style>
+
+            <div style="background:linear-gradient(135deg,rgba(236,72,153,0.06),rgba(168,85,247,0.06));border:1px solid rgba(236,72,153,0.18);border-radius:14px;padding:28px 32px;max-width:980px;margin:36px auto 0;">
+                <h3 style="font-size:18px;font-weight:800;color:var(--md-heading);margin:0 0 14px;"><i class="fas fa-bullseye" style="color:#ec4899;margin-right:8px;"></i>What you should expect from our work</h3>
+                <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px;">
+                    <div>
+                        <strong style="display:block;font-size:13px;color:#be185d;letter-spacing:1.2px;text-transform:uppercase;margin-bottom:6px;">Online visibility</strong>
+                        <p style="font-size:14px;line-height:1.65;color:var(--md-body);margin:0;">Higher share of voice in organic + paid SERP, AI search citations (ChatGPT, Perplexity, Google AI Overviews), social presence, creator + reviewer authority.</p>
+                    </div>
+                    <div>
+                        <strong style="display:block;font-size:13px;color:#be185d;letter-spacing:1.2px;text-transform:uppercase;margin-bottom:6px;">Lead generation</strong>
+                        <p style="font-size:14px;line-height:1.65;color:var(--md-body);margin:0;">Qualified high-intent leads + add-to-carts + completed orders. CAC tracked vs LTV. We optimise for paying customers, not impressions.</p>
+                    </div>
+                    <div>
+                        <strong style="display:block;font-size:13px;color:#be185d;letter-spacing:1.2px;text-transform:uppercase;margin-bottom:6px;">Business growth</strong>
+                        <p style="font-size:14px;line-height:1.65;color:var(--md-body);margin:0;">Revenue + LTV + repeat-rate compounding over time. Brand metrics + share-of-category up. Not just one good month.</p>
+                    </div>
+                </div>
+                <style>@media (max-width:768px){#approach > .container > div:last-of-type > div[style*="grid-template-columns:repeat(3"]{grid-template-columns:1fr !important;}}</style>
             </div>
         </div>
     </section>
@@ -225,18 +272,18 @@
                 'Customer journey, ad fatigue patterns, creative cadence and conversion economics are different for jewellery vs F&amp;B vs cosmetics. We adjust the playbook per category instead of running one template.'
             ); ?>
             <div class="industry-grid">
-                <div class="ind"><div class="ind-icon"><i class="fas fa-gem"></i></div><h5>Jewellery Brands</h5><p>Lab-grown diamonds, demi-fine, gold, silver, fashion.</p></div>
-                <div class="ind"><div class="ind-icon"><i class="fas fa-mug-saucer"></i></div><h5>Food &amp; Beverage</h5><p>D2C food, beverage, healthy snacking, coffee, tea.</p></div>
-                <div class="ind"><div class="ind-icon"><i class="fas fa-hotel"></i></div><h5>Hotels &amp; Hospitality</h5><p>Boutique hotels, resorts, homestays, luxury stays.</p></div>
-                <div class="ind"><div class="ind-icon"><i class="fas fa-shirt"></i></div><h5>Clothing &amp; Fashion</h5><p>Apparel, ethnic, athleisure, lingerie, kidswear, footwear.</p></div>
-                <div class="ind"><div class="ind-icon"><i class="fas fa-wand-magic-sparkles"></i></div><h5>Cosmetics &amp; Beauty</h5><p>Makeup, fragrance, nails, hair colour, beauty tools.</p></div>
-                <div class="ind"><div class="ind-icon"><i class="fas fa-pump-soap"></i></div><h5>Skincare &amp; Personal Care</h5><p>Skincare, men&rsquo;s grooming, hygiene, baby care.</p></div>
-                <div class="ind"><div class="ind-icon"><i class="fas fa-basket-shopping"></i></div><h5>FMCG &amp; Consumer Goods</h5><p>Packaged foods, household, pet care, hygiene, baby food.</p></div>
-                <div class="ind"><div class="ind-icon"><i class="fas fa-suitcase"></i></div><h5>Lifestyle Brands</h5><p>Travel, luggage, accessories, eyewear, watches.</p></div>
-                <div class="ind"><div class="ind-icon"><i class="fas fa-couch"></i></div><h5>Home &amp; D&eacute;cor</h5><p>Furniture, lighting, kitchenware, home textiles, art.</p></div>
-                <div class="ind"><div class="ind-icon"><i class="fas fa-heart-pulse"></i></div><h5>Health &amp; Wellness</h5><p>Nutraceuticals, supplements, wellness, ayurveda, fitness.</p></div>
-                <div class="ind"><div class="ind-icon"><i class="fas fa-headphones"></i></div><h5>Electronics &amp; Consumer Products</h5><p>Wearables, audio, smart home, appliances, accessories.</p></div>
-                <div class="ind"><div class="ind-icon"><i class="fas fa-cart-shopping"></i></div><h5>E-commerce &amp; D2C</h5><p>Pure-play D2C brands across every consumer vertical.</p></div>
+                <a class="ind" href="/services/d2c/jewellery-digital-marketing.php"><div class="ind-icon"><i class="fas fa-gem"></i></div><h5>Jewellery Brands</h5><p>Lab-grown diamonds, demi-fine, gold, silver, fashion.</p><span class="ind-link">View playbook <i class="fas fa-arrow-right"></i></span></a>
+                <a class="ind" href="/services/d2c/fashion-clothing-digital-marketing.php"><div class="ind-icon"><i class="fas fa-shirt"></i></div><h5>Clothing &amp; Fashion</h5><p>Apparel, ethnic, athleisure, lingerie, kidswear, footwear.</p><span class="ind-link">View playbook <i class="fas fa-arrow-right"></i></span></a>
+                <a class="ind" href="/services/d2c/food-beverage-digital-marketing.php"><div class="ind-icon"><i class="fas fa-mug-saucer"></i></div><h5>Food &amp; Beverage</h5><p>D2C food, beverage, healthy snacking, coffee, tea.</p><span class="ind-link">View playbook <i class="fas fa-arrow-right"></i></span></a>
+                <a class="ind" href="/services/d2c/hotels-hospitality-digital-marketing.php"><div class="ind-icon"><i class="fas fa-hotel"></i></div><h5>Hotels &amp; Hospitality</h5><p>Boutique hotels, resorts, homestays, luxury stays.</p><span class="ind-link">View playbook <i class="fas fa-arrow-right"></i></span></a>
+                <a class="ind" href="/services/d2c/cosmetics-beauty-digital-marketing.php"><div class="ind-icon"><i class="fas fa-wand-magic-sparkles"></i></div><h5>Cosmetics &amp; Beauty</h5><p>Makeup, fragrance, nails, hair colour, beauty tools.</p><span class="ind-link">View playbook <i class="fas fa-arrow-right"></i></span></a>
+                <a class="ind" href="/services/d2c/skincare-digital-marketing.php"><div class="ind-icon"><i class="fas fa-pump-soap"></i></div><h5>Skincare &amp; Personal Care</h5><p>Skincare, men&rsquo;s grooming, hygiene, baby care.</p><span class="ind-link">View playbook <i class="fas fa-arrow-right"></i></span></a>
+                <a class="ind" href="/services/d2c/healthcare-digital-marketing.php"><div class="ind-icon"><i class="fas fa-stethoscope"></i></div><h5>Healthcare Brands</h5><p>Telemedicine, diagnostic chains, nutraceuticals, wellness.</p><span class="ind-link">View playbook <i class="fas fa-arrow-right"></i></span></a>
+                <a class="ind" href="/services/d2c/fmcg-digital-marketing.php"><div class="ind-icon"><i class="fas fa-basket-shopping"></i></div><h5>FMCG &amp; Consumer Goods</h5><p>Packaged foods, household, pet care, hygiene, baby food.</p><span class="ind-link">View playbook <i class="fas fa-arrow-right"></i></span></a>
+                <a class="ind" href="/services/d2c/home-decor-digital-marketing.php"><div class="ind-icon"><i class="fas fa-couch"></i></div><h5>Home &amp; D&eacute;cor</h5><p>Furniture, lighting, kitchenware, home textiles, art.</p><span class="ind-link">View playbook <i class="fas fa-arrow-right"></i></span></a>
+                <a class="ind" href="/services/d2c/electronics-digital-marketing.php"><div class="ind-icon"><i class="fas fa-headphones"></i></div><h5>Electronics &amp; Consumer Products</h5><p>Wearables, audio, smart home, appliances, accessories.</p><span class="ind-link">View playbook <i class="fas fa-arrow-right"></i></span></a>
+                <a class="ind" href="/services/d2c/lifestyle-brands-digital-marketing.php"><div class="ind-icon"><i class="fas fa-suitcase"></i></div><h5>Lifestyle Brands</h5><p>Travel, luggage, accessories, eyewear, watches.</p><span class="ind-link">View playbook <i class="fas fa-arrow-right"></i></span></a>
+                <a class="ind" href="/services/d2c/ecommerce-d2c-digital-marketing.php"><div class="ind-icon"><i class="fas fa-cart-shopping"></i></div><h5>E-commerce &amp; Other D2C</h5><p>Pure-play D2C brands across every consumer vertical.</p><span class="ind-link">View playbook <i class="fas fa-arrow-right"></i></span></a>
             </div>
         </div>
     </section>
@@ -381,6 +428,18 @@
                 'How do I get started?' =>
                   '<strong>Book a 30-min discovery call</strong> via the button above. We&rsquo;ll review your current marketing stack, talk through goals + budget, and send a fixed-quote SOW with retainer + ad-spend recommendations within 48 hours. No SDR follow-up, no pressure tactics &mdash; senior strategist reviews every enquiry personally.',
             ]); ?>
+        </div>
+    </section>
+
+    <!-- Quick answer for AI search — moved to end of page per UX feedback -->
+    <section class="md-sec alt-warm">
+        <div class="container">
+            <div style="background:#fff;border-left:5px solid #ec4899;border-radius:14px;padding:30px 36px;max-width:980px;margin:0 auto;box-shadow:var(--md-card-shadow);">
+                <span style="display:inline-block;font-size:11px;font-weight:800;letter-spacing:1.6px;text-transform:uppercase;color:#be185d;background:rgba(236,72,153,0.10);padding:5px 12px;border-radius:14px;margin-bottom:14px;"><i class="fas fa-bolt" style="margin-right:5px;"></i>Quick answer for AI search</span>
+                <h2 style="font-size:22px;font-weight:800;color:var(--md-primary);margin:0 0 14px;">D2C Digital Marketing &mdash; senior-led, full-funnel, brand + performance compounded</h2>
+                <p style="font-size:16px;line-height:1.75;color:var(--md-body);margin:0 0 14px;"><strong>ITD GrowthLabs</strong> is a senior-led India digital marketing studio specialising in <strong>D2C consumer brand growth</strong>. We run the full marketing stack &mdash; performance ads (Google + Meta + LinkedIn), brand building, SEO, content, social, influencer + creator partnerships, email lifecycle, WhatsApp Business automation, CRO and analytics &mdash; for consumer brands across jewellery, fashion, F&amp;B, cosmetics, skincare, hospitality, FMCG, lifestyle, home &amp; d&eacute;cor, health &amp; wellness and electronics. 100+ brands scaled, &#8377;8Cr+ in managed ad spend, 12+ years average team experience.</p>
+                <p style="font-size:16px;line-height:1.75;color:var(--md-body);margin:0;"><strong>Indicative pricing (2026):</strong> Full-funnel D2C growth retainer <strong>&#8377;1.5L&ndash;&#8377;6L/month</strong> + ad spend (paid directly to Google/Meta/LinkedIn). Per-channel retainers from &#8377;40K/month. INR fixed-quote contracts, GST-compliant invoicing, ROAS + contribution-margin reporting weekly.</p>
+            </div>
         </div>
     </section>
 

@@ -163,7 +163,28 @@
                                            <h6 class="title"><a href="/digital_marketing.php">Digital Marketing</a></h6>
                                            <ul class="menu-col">
                                                <li><a href="/services/ready-to-buy-lead-generation.php"><strong>Ready-to-Buy Lead Generation</strong></a></li>
-                                               <li><a href="/services/d2c-digital-marketing.php" style="color:#be185d;"><strong>D2C Digital Marketing</strong><br><span style="font-size:11.5px;color:#888;font-weight:500;">Brand growth for consumer brands</span></a></li>
+                                               <li class="itdgl-has-flyout">
+                                                   <a href="/services/d2c-digital-marketing.php" style="color:#be185d;">
+                                                       <strong>D2C Digital Marketing</strong>
+                                                       <span class="itdgl-flyout-arrow" aria-hidden="true">&rsaquo;</span>
+                                                       <br><span style="font-size:11.5px;color:#888;font-weight:500;">Brand growth &middot; 12 industries</span>
+                                                   </a>
+                                                   <ul class="itdgl-flyout-menu" aria-label="D2C industries">
+                                                       <li><a href="/services/d2c-digital-marketing.php"><i class="fas fa-th-large" style="color:#ec4899;margin-right:8px;font-size:11px;"></i><strong>All D2C industries (overview)</strong></a></li>
+                                                       <li><a href="/services/d2c/jewellery-digital-marketing.php"><i class="fas fa-gem" style="color:#d4af37;margin-right:8px;font-size:11px;"></i>Jewellery Brands</a></li>
+                                                       <li><a href="/services/d2c/fashion-clothing-digital-marketing.php"><i class="fas fa-shirt" style="color:#ec4899;margin-right:8px;font-size:11px;"></i>Fashion &amp; Clothing</a></li>
+                                                       <li><a href="/services/d2c/food-beverage-digital-marketing.php"><i class="fas fa-mug-saucer" style="color:#16a34a;margin-right:8px;font-size:11px;"></i>Food &amp; Beverage</a></li>
+                                                       <li><a href="/services/d2c/hotels-hospitality-digital-marketing.php"><i class="fas fa-hotel" style="color:#0891b2;margin-right:8px;font-size:11px;"></i>Hotels &amp; Hospitality</a></li>
+                                                       <li><a href="/services/d2c/cosmetics-beauty-digital-marketing.php"><i class="fas fa-wand-magic-sparkles" style="color:#ec4899;margin-right:8px;font-size:11px;"></i>Cosmetics &amp; Beauty</a></li>
+                                                       <li><a href="/services/d2c/skincare-digital-marketing.php"><i class="fas fa-pump-soap" style="color:#f97316;margin-right:8px;font-size:11px;"></i>Skincare &amp; Personal Care</a></li>
+                                                       <li><a href="/services/d2c/healthcare-digital-marketing.php"><i class="fas fa-stethoscope" style="color:#0ea5e9;margin-right:8px;font-size:11px;"></i>Healthcare Brands</a></li>
+                                                       <li><a href="/services/d2c/fmcg-digital-marketing.php"><i class="fas fa-basket-shopping" style="color:#16a34a;margin-right:8px;font-size:11px;"></i>FMCG &amp; Consumer Goods</a></li>
+                                                       <li><a href="/services/d2c/home-decor-digital-marketing.php"><i class="fas fa-couch" style="color:#a855f7;margin-right:8px;font-size:11px;"></i>Home &amp; D&eacute;cor</a></li>
+                                                       <li><a href="/services/d2c/electronics-digital-marketing.php"><i class="fas fa-headphones" style="color:#1e40af;margin-right:8px;font-size:11px;"></i>Electronics &amp; Consumer Products</a></li>
+                                                       <li><a href="/services/d2c/lifestyle-brands-digital-marketing.php"><i class="fas fa-suitcase" style="color:#6366f1;margin-right:8px;font-size:11px;"></i>Lifestyle Brands</a></li>
+                                                       <li><a href="/services/d2c/ecommerce-d2c-digital-marketing.php"><i class="fas fa-cart-shopping" style="color:#ec4899;margin-right:8px;font-size:11px;"></i>E-commerce &amp; Other D2C</a></li>
+                                                   </ul>
+                                               </li>
                                                <li><a href="/services/seo-auditing-services.php">Search Engine Optimization (SEO)</a></li>
                                                <li><a href="/services/google-search-ads-services.php">Google Ads (PPC)</a></li>
                                                <li><a href="/services/meta_ads.php">Meta Ads Management</a></li>
