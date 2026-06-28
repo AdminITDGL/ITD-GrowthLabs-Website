@@ -202,6 +202,35 @@
         </div>
     </section>
 
+    <?php itdgl_render_overview_block([
+            'what'     => 'Dairy + subscription delivery apps &mdash; daily/weekly subscriptions, route optimisation, vendor + driver + customer apps.',
+            'who'      => [
+                '<strong>D2C dairy brands</strong> running subscription milk + curd + paneer',
+                '<strong>Farm-to-table operators</strong> needing recurring delivery + billing',
+                '<strong>Local dairy farms</strong> moving to direct subscription model',
+            ],
+            'how'      => [
+                ['title' => 'Discover', 'desc' => '5-day scoping &mdash; product brief, user journeys, fixed-quote SOW within 48 hours.'],
+                ['title' => 'Design', 'desc' => 'Wireframes + Figma + design system in 2&ndash;3 weeks &mdash; clickable prototype before any code.'],
+                ['title' => 'Build', 'desc' => 'Sprint-based delivery, weekly demos, your GitHub repo, CI/CD on day one.'],
+                ['title' => 'Scale', 'desc' => 'Post-launch retainer for App Store ops, growth + maintenance &mdash; no handover surprises.'],
+            ],
+            'problems' => [
+                'Daily-route delivery is operationally complex &mdash; vacation + skip + swap flows needed',
+                'RBI eMandate + UPI Autopay subscription tech is hard to build right',
+                'Cold-chain at scale (1,000+ daily deliveries) needs smart routing',
+                'Subscription churn 25&ndash;40% in 90 days without retention engineering',
+            ],
+            'why'      => [
+                ['icon' => 'fas fa-user-tie', 'title' => 'Senior on every call', 'desc' => '10&ndash;15 yr in-category engineers, no SDRs or junior rotation.'],
+                ['icon' => 'fas fa-file-contract', 'title' => 'Fixed-quote SOWs', 'desc' => 'Written scope, milestone payments, no T&amp;M traps.'],
+                ['icon' => 'fas fa-code-branch', 'title' => '100% code ownership', 'desc' => 'Your GitHub, schema, design assets, CI/CD &mdash; full work-for-hire.'],
+            ],
+            'proof_metric' => '200+ apps shipped &middot; 4.6&starf; avg App Store rating &middot; 5,000+ daily bookings on live apps',
+        ]); ?>
+
+
+
     <!-- Quick answer / AEO -->
     <section class="md-sec alt-warm">
         <div class="container">

@@ -385,6 +385,35 @@
         </div>
     </section>
 
+    <?php itdgl_render_overview_block([
+            'what'     => 'D2C marketing for home + d&eacute;cor brands &mdash; furniture, lighting, kitchenware, textiles, art, smart home. Built for long-consideration + high-AOV.',
+            'who'      => [
+                '<strong>D2C home + furniture brands</strong> at &#8377;25L&ndash;&#8377;5Cr+ monthly revenue',
+                '<strong>Lighting + kitchenware + textile</strong> brands building Pinterest + Instagram presence',
+                '<strong>Premium d&eacute;cor</strong> brands offering WhatsApp design-consult',
+            ],
+            'how'      => [
+                ['title' => 'Discover', 'desc' => 'Audit current marketing stack, brand position, ad accounts + competitor benchmarks. 1-page scorecard.'],
+                ['title' => 'Strategise', 'desc' => 'Channel mix, creative calendar, lifecycle flows, KPI targets &mdash; tailored to your category economics.'],
+                ['title' => 'Execute', 'desc' => 'Campaigns live, creative shipped (10&ndash;20 weekly), email + WhatsApp flows on, SEO + creators live.'],
+                ['title' => 'Optimise', 'desc' => 'Weekly ROAS, contribution margin + cohort review. Scale spend at healthy CAC/LTV ratio.'],
+            ],
+            'problems' => [
+                'Consideration cycle 4&ndash;12 weeks &mdash; retargeting + email must sustain interest',
+                'Visualisation barrier &mdash; customers can&rsquo;t imagine product in their room',
+                'High AOV (&#8377;5K&ndash;&#8377;50K+) needs EMI + BNPL prominent',
+                'Shipping + return logistics expensive &mdash; need pre-purchase confidence-building',
+            ],
+            'why'      => [
+                ['icon' => 'fas fa-user-tie', 'title' => 'Senior practitioner', 'desc' => '10&ndash;15 yr in-category media buyer / strategist on your account.'],
+                ['icon' => 'fas fa-chart-line', 'title' => 'Full-funnel by default', 'desc' => 'Brand + performance + retention run together, not in channel silos.'],
+                ['icon' => 'fas fa-handshake', 'title' => 'Honest reporting', 'desc' => 'ROAS, contribution margin, true MER &mdash; not vanity impressions.'],
+            ],
+            'proof_metric' => '100+ D2C brands scaled &middot; &#8377;8Cr+ managed ad spend &middot; 12+ yrs avg team experience',
+        ]); ?>
+
+
+
     <!-- Market context -->
     <section class="md-sec alt-warm">
         <div class="container">

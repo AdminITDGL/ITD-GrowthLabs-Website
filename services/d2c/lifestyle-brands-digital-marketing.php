@@ -385,6 +385,35 @@
         </div>
     </section>
 
+    <?php itdgl_render_overview_block([
+            'what'     => 'D2C marketing for lifestyle brands &mdash; eyewear, watches, luggage, accessories, premium lifestyle, gifting. Brand storytelling + cross-category LTV.',
+            'who'      => [
+                '<strong>D2C eyewear + watch + luggage</strong> brands at &#8377;25L&ndash;&#8377;5Cr+ monthly revenue',
+                '<strong>Premium lifestyle + gifting</strong> brands building creator partnerships',
+                '<strong>House of lifestyle</strong> brands running cross-category cross-sell',
+            ],
+            'how'      => [
+                ['title' => 'Discover', 'desc' => 'Audit current marketing stack, brand position, ad accounts + competitor benchmarks. 1-page scorecard.'],
+                ['title' => 'Strategise', 'desc' => 'Channel mix, creative calendar, lifecycle flows, KPI targets &mdash; tailored to your category economics.'],
+                ['title' => 'Execute', 'desc' => 'Campaigns live, creative shipped (10&ndash;20 weekly), email + WhatsApp flows on, SEO + creators live.'],
+                ['title' => 'Optimise', 'desc' => 'Weekly ROAS, contribution margin + cohort review. Scale spend at healthy CAC/LTV ratio.'],
+            ],
+            'problems' => [
+                'Aspirational not need-driven &mdash; brand voice + storytelling matter more than features',
+                'Diverse customer journeys per category &mdash; eyewear vs watch vs luggage all different',
+                'Single-category brands plateau early &mdash; need cross-category LTV expansion',
+                'Online + retail omnichannel attribution + clienteling is complex',
+            ],
+            'why'      => [
+                ['icon' => 'fas fa-user-tie', 'title' => 'Senior practitioner', 'desc' => '10&ndash;15 yr in-category media buyer / strategist on your account.'],
+                ['icon' => 'fas fa-chart-line', 'title' => 'Full-funnel by default', 'desc' => 'Brand + performance + retention run together, not in channel silos.'],
+                ['icon' => 'fas fa-handshake', 'title' => 'Honest reporting', 'desc' => 'ROAS, contribution margin, true MER &mdash; not vanity impressions.'],
+            ],
+            'proof_metric' => '100+ D2C brands scaled &middot; &#8377;8Cr+ managed ad spend &middot; 12+ yrs avg team experience',
+        ]); ?>
+
+
+
     <!-- Market context -->
     <section class="md-sec alt-warm">
         <div class="container">

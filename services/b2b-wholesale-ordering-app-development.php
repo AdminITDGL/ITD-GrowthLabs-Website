@@ -202,6 +202,35 @@
         </div>
     </section>
 
+    <?php itdgl_render_overview_block([
+            'what'     => 'B2B wholesale + ordering apps &mdash; bulk pricing, credit terms, retailer + sales-rep + admin apps, ERP integration.',
+            'who'      => [
+                '<strong>FMCG distributors</strong> digitising retailer orders + credit lines',
+                '<strong>Wholesale + cash-and-carry</strong> chains adding mobile ordering',
+                '<strong>Manufacturers + brands</strong> selling to 1,000+ retail outlets',
+            ],
+            'how'      => [
+                ['title' => 'Discover', 'desc' => '5-day scoping &mdash; product brief, user journeys, fixed-quote SOW within 48 hours.'],
+                ['title' => 'Design', 'desc' => 'Wireframes + Figma + design system in 2&ndash;3 weeks &mdash; clickable prototype before any code.'],
+                ['title' => 'Build', 'desc' => 'Sprint-based delivery, weekly demos, your GitHub repo, CI/CD on day one.'],
+                ['title' => 'Scale', 'desc' => 'Post-launch retainer for App Store ops, growth + maintenance &mdash; no handover surprises.'],
+            ],
+            'problems' => [
+                'Sales reps still take orders on paper + WhatsApp &mdash; lost SKUs + slow billing',
+                'Credit limit + payment tracking + collection on Excel + reminder calls',
+                'Bulk pricing + tier-discount logic complex &mdash; manual quotes lose deals',
+                'ERP (SAP / Tally / Zoho) integration breaks on every catalogue update',
+            ],
+            'why'      => [
+                ['icon' => 'fas fa-user-tie', 'title' => 'Senior on every call', 'desc' => '10&ndash;15 yr in-category engineers, no SDRs or junior rotation.'],
+                ['icon' => 'fas fa-file-contract', 'title' => 'Fixed-quote SOWs', 'desc' => 'Written scope, milestone payments, no T&amp;M traps.'],
+                ['icon' => 'fas fa-code-branch', 'title' => '100% code ownership', 'desc' => 'Your GitHub, schema, design assets, CI/CD &mdash; full work-for-hire.'],
+            ],
+            'proof_metric' => '200+ apps shipped &middot; 4.6&starf; avg App Store rating &middot; 5,000+ daily bookings on live apps',
+        ]); ?>
+
+
+
     <!-- Quick answer / AEO -->
     <section class="md-sec alt-warm">
         <div class="container">

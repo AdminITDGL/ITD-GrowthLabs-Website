@@ -385,6 +385,35 @@
         </div>
     </section>
 
+    <?php itdgl_render_overview_block([
+            'what'     => 'D2C marketing for emerging + niche brands &mdash; sustainable, hyperlocal, creator-led, regional. Built for &#8377;1Cr&ndash;&#8377;10Cr ARR ramp.',
+            'who'      => [
+                '<strong>Founder-led D2C brands</strong> at &#8377;1Cr&ndash;&#8377;5Cr ARR scaling with lean stack',
+                '<strong>Creator + community-led</strong> brands building from existing audience',
+                '<strong>Sustainable + niche</strong> brands needing thought-leadership + content',
+            ],
+            'how'      => [
+                ['title' => 'Discover', 'desc' => 'Audit current marketing stack, brand position, ad accounts + competitor benchmarks. 1-page scorecard.'],
+                ['title' => 'Strategise', 'desc' => 'Channel mix, creative calendar, lifecycle flows, KPI targets &mdash; tailored to your category economics.'],
+                ['title' => 'Execute', 'desc' => 'Campaigns live, creative shipped (10&ndash;20 weekly), email + WhatsApp flows on, SEO + creators live.'],
+                ['title' => 'Optimise', 'desc' => 'Weekly ROAS, contribution margin + cohort review. Scale spend at healthy CAC/LTV ratio.'],
+            ],
+            'problems' => [
+                'Limited budget &lt; &#8377;5L/month &mdash; need lean 1&ndash;2-channel stack, not full-funnel',
+                'Need fast validation before scaling &mdash; lean experiments + iteration',
+                'Founder-led content is highest-leverage but easy to deprioritise',
+                'Scaling &#8377;1Cr &rarr; &#8377;10Cr ARR has 3 breaking points &mdash; need a roadmap',
+            ],
+            'why'      => [
+                ['icon' => 'fas fa-user-tie', 'title' => 'Senior practitioner', 'desc' => '10&ndash;15 yr in-category media buyer / strategist on your account.'],
+                ['icon' => 'fas fa-chart-line', 'title' => 'Full-funnel by default', 'desc' => 'Brand + performance + retention run together, not in channel silos.'],
+                ['icon' => 'fas fa-handshake', 'title' => 'Honest reporting', 'desc' => 'ROAS, contribution margin, true MER &mdash; not vanity impressions.'],
+            ],
+            'proof_metric' => '100+ D2C brands scaled &middot; &#8377;8Cr+ managed ad spend &middot; 12+ yrs avg team experience',
+        ]); ?>
+
+
+
     <!-- Market context -->
     <section class="md-sec alt-warm">
         <div class="container">

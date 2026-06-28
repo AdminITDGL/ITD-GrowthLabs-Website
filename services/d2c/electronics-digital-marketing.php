@@ -385,6 +385,35 @@
         </div>
     </section>
 
+    <?php itdgl_render_overview_block([
+            'what'     => 'D2C marketing for consumer electronics &mdash; wearables, audio, smart home, appliances, accessories. Built for review-driven + Amazon-dominant economics.',
+            'who'      => [
+                '<strong>D2C electronics brands</strong> at &#8377;25L&ndash;&#8377;5Cr+ monthly revenue',
+                '<strong>Wearables + audio</strong> brands building tech reviewer + comparison content',
+                '<strong>Smart home + appliance</strong> brands needing warranty + support trust signals',
+            ],
+            'how'      => [
+                ['title' => 'Discover', 'desc' => 'Audit current marketing stack, brand position, ad accounts + competitor benchmarks. 1-page scorecard.'],
+                ['title' => 'Strategise', 'desc' => 'Channel mix, creative calendar, lifecycle flows, KPI targets &mdash; tailored to your category economics.'],
+                ['title' => 'Execute', 'desc' => 'Campaigns live, creative shipped (10&ndash;20 weekly), email + WhatsApp flows on, SEO + creators live.'],
+                ['title' => 'Optimise', 'desc' => 'Weekly ROAS, contribution margin + cohort review. Scale spend at healthy CAC/LTV ratio.'],
+            ],
+            'problems' => [
+                '65&ndash;80% of buyers read reviews / watch YouTube before purchase &mdash; need tech reviewer authority',
+                'Amazon 55&ndash;75% of category &mdash; Amazon DSP + Sponsored Brands mandatory',
+                'Comparison + spec wars &mdash; without comparison content + spec PDP, you lose',
+                '12&ndash;18 month product cycles &mdash; need EOL clearance + new-launch playbooks',
+            ],
+            'why'      => [
+                ['icon' => 'fas fa-user-tie', 'title' => 'Senior practitioner', 'desc' => '10&ndash;15 yr in-category media buyer / strategist on your account.'],
+                ['icon' => 'fas fa-chart-line', 'title' => 'Full-funnel by default', 'desc' => 'Brand + performance + retention run together, not in channel silos.'],
+                ['icon' => 'fas fa-handshake', 'title' => 'Honest reporting', 'desc' => 'ROAS, contribution margin, true MER &mdash; not vanity impressions.'],
+            ],
+            'proof_metric' => '100+ D2C brands scaled &middot; &#8377;8Cr+ managed ad spend &middot; 12+ yrs avg team experience',
+        ]); ?>
+
+
+
     <!-- Market context -->
     <section class="md-sec alt-warm">
         <div class="container">

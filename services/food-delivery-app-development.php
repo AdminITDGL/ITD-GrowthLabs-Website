@@ -202,6 +202,35 @@
         </div>
     </section>
 
+    <?php itdgl_render_overview_block([
+            'what'     => 'Custom food-delivery apps &mdash; 4-app suite (Customer + Driver + Restaurant + Admin) ready in 12&ndash;20 weeks, owned by you 100%.',
+            'who'      => [
+                '<strong>Cloud-kitchen + restaurant chains</strong> escaping Swiggy/Zomato&rsquo;s 25&ndash;35% commission',
+                '<strong>Hyperlocal aggregators</strong> launching in tier-2 / tier-3 cities + GCC',
+                '<strong>Hotel + premium food brands</strong> needing white-label delivery + loyalty',
+            ],
+            'how'      => [
+                ['title' => 'Discover', 'desc' => '5-day scoping &mdash; product brief, user journeys, fixed-quote SOW within 48 hours.'],
+                ['title' => 'Design', 'desc' => 'Wireframes + Figma + design system in 2&ndash;3 weeks &mdash; clickable prototype before any code.'],
+                ['title' => 'Build', 'desc' => 'Sprint-based delivery, weekly demos, your GitHub repo, CI/CD on day one.'],
+                ['title' => 'Scale', 'desc' => 'Post-launch retainer for App Store ops, growth + maintenance &mdash; no handover surprises.'],
+            ],
+            'problems' => [
+                'Swiggy / Zomato eating 25&ndash;35% margin + holding the customer data',
+                'Restaurant POS + kitchen-display + driver-assignment running on Excel + WhatsApp',
+                'Driver supply unstable &mdash; need surge pricing + incentive engine',
+                'Customer LTV trapped on aggregators &mdash; no first-party retention',
+            ],
+            'why'      => [
+                ['icon' => 'fas fa-user-tie', 'title' => 'Senior on every call', 'desc' => '10&ndash;15 yr in-category engineers, no SDRs or junior rotation.'],
+                ['icon' => 'fas fa-file-contract', 'title' => 'Fixed-quote SOWs', 'desc' => 'Written scope, milestone payments, no T&amp;M traps.'],
+                ['icon' => 'fas fa-code-branch', 'title' => '100% code ownership', 'desc' => 'Your GitHub, schema, design assets, CI/CD &mdash; full work-for-hire.'],
+            ],
+            'proof_metric' => '200+ apps shipped &middot; 4.6&starf; avg App Store rating &middot; 5,000+ daily bookings on live apps',
+        ]); ?>
+
+
+
     <!-- Quick answer / AEO -->
     <section class="md-sec alt-warm">
         <div class="container">

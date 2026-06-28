@@ -202,6 +202,35 @@
         </div>
     </section>
 
+    <?php itdgl_render_overview_block([
+            'what'     => 'Fresh fish + meat + seafood delivery apps &mdash; cold-chain logistics, FSSAI compliance, subscriptions, vendor + driver + customer apps.',
+            'who'      => [
+                '<strong>D2C meat brands</strong> at &#8377;1Cr&ndash;&#8377;10Cr ARR scaling online',
+                '<strong>Local butcher chains</strong> + cold-chain operators going digital',
+                '<strong>Subscription seafood brands</strong> needing recurring billing + cold-chain SLAs',
+            ],
+            'how'      => [
+                ['title' => 'Discover', 'desc' => '5-day scoping &mdash; product brief, user journeys, fixed-quote SOW within 48 hours.'],
+                ['title' => 'Design', 'desc' => 'Wireframes + Figma + design system in 2&ndash;3 weeks &mdash; clickable prototype before any code.'],
+                ['title' => 'Build', 'desc' => 'Sprint-based delivery, weekly demos, your GitHub repo, CI/CD on day one.'],
+                ['title' => 'Scale', 'desc' => 'Post-launch retainer for App Store ops, growth + maintenance &mdash; no handover surprises.'],
+            ],
+            'problems' => [
+                'Cold-chain SLA mismatch &mdash; spoilage on long routes',
+                'FSSAI compliance + traceability not built into ops stack',
+                'Customer trust + freshness perception hard to communicate digitally',
+                'Subscription churn 25&ndash;35% in 90 days &mdash; need retention engineering',
+            ],
+            'why'      => [
+                ['icon' => 'fas fa-user-tie', 'title' => 'Senior on every call', 'desc' => '10&ndash;15 yr in-category engineers, no SDRs or junior rotation.'],
+                ['icon' => 'fas fa-file-contract', 'title' => 'Fixed-quote SOWs', 'desc' => 'Written scope, milestone payments, no T&amp;M traps.'],
+                ['icon' => 'fas fa-code-branch', 'title' => '100% code ownership', 'desc' => 'Your GitHub, schema, design assets, CI/CD &mdash; full work-for-hire.'],
+            ],
+            'proof_metric' => '200+ apps shipped &middot; 4.6&starf; avg App Store rating &middot; 5,000+ daily bookings on live apps',
+        ]); ?>
+
+
+
     <!-- Quick answer / AEO -->
     <section class="md-sec alt-warm">
         <div class="container">

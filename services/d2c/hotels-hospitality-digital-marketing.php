@@ -385,6 +385,35 @@
         </div>
     </section>
 
+    <?php itdgl_render_overview_block([
+            'what'     => 'Digital marketing for hotels + hospitality &mdash; boutique, resorts, homestays, luxury, experiential. Built to reduce OTA dependency.',
+            'who'      => [
+                '<strong>Boutique hotels + resorts</strong> wanting 35%+ direct booking ratio',
+                '<strong>Luxury + premium</strong> stays needing destination SEO + creator content',
+                '<strong>Restaurant + F&amp;B</strong> chains adding online reservation + delivery',
+            ],
+            'how'      => [
+                ['title' => 'Discover', 'desc' => 'Audit current marketing stack, brand position, ad accounts + competitor benchmarks. 1-page scorecard.'],
+                ['title' => 'Strategise', 'desc' => 'Channel mix, creative calendar, lifecycle flows, KPI targets &mdash; tailored to your category economics.'],
+                ['title' => 'Execute', 'desc' => 'Campaigns live, creative shipped (10&ndash;20 weekly), email + WhatsApp flows on, SEO + creators live.'],
+                ['title' => 'Optimise', 'desc' => 'Weekly ROAS, contribution margin + cohort review. Scale spend at healthy CAC/LTV ratio.'],
+            ],
+            'problems' => [
+                'OTA dependency 60&ndash;80% &mdash; commission 15&ndash;25% eats margin + customer data',
+                'Seasonality 60&ndash;70% revenue compression into 4&ndash;5 months',
+                'TripAdvisor + Google review velocity directly affects ranking',
+                'Direct booking conversion lags OTA because of price-parity perception',
+            ],
+            'why'      => [
+                ['icon' => 'fas fa-user-tie', 'title' => 'Senior practitioner', 'desc' => '10&ndash;15 yr in-category media buyer / strategist on your account.'],
+                ['icon' => 'fas fa-chart-line', 'title' => 'Full-funnel by default', 'desc' => 'Brand + performance + retention run together, not in channel silos.'],
+                ['icon' => 'fas fa-handshake', 'title' => 'Honest reporting', 'desc' => 'ROAS, contribution margin, true MER &mdash; not vanity impressions.'],
+            ],
+            'proof_metric' => '100+ D2C brands scaled &middot; &#8377;8Cr+ managed ad spend &middot; 12+ yrs avg team experience',
+        ]); ?>
+
+
+
     <!-- Market context -->
     <section class="md-sec alt-warm">
         <div class="container">

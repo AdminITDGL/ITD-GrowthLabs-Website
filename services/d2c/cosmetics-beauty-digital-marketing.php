@@ -385,6 +385,35 @@
         </div>
     </section>
 
+    <?php itdgl_render_overview_block([
+            'what'     => 'D2C marketing for cosmetics + beauty &mdash; makeup, fragrance, nails, hair colour. Built for creator-led discovery + AR + lifecycle retention.',
+            'who'      => [
+                '<strong>D2C beauty brands</strong> at &#8377;15L&ndash;&#8377;5Cr+ monthly revenue',
+                '<strong>Indie + clean beauty</strong> brands building creator + UGC pipelines',
+                '<strong>Nykaa-listed</strong> brands needing marketplace + own-site dual play',
+            ],
+            'how'      => [
+                ['title' => 'Discover', 'desc' => 'Audit current marketing stack, brand position, ad accounts + competitor benchmarks. 1-page scorecard.'],
+                ['title' => 'Strategise', 'desc' => 'Channel mix, creative calendar, lifecycle flows, KPI targets &mdash; tailored to your category economics.'],
+                ['title' => 'Execute', 'desc' => 'Campaigns live, creative shipped (10&ndash;20 weekly), email + WhatsApp flows on, SEO + creators live.'],
+                ['title' => 'Optimise', 'desc' => 'Weekly ROAS, contribution margin + cohort review. Scale spend at healthy CAC/LTV ratio.'],
+            ],
+            'problems' => [
+                '65&ndash;80% of new buyers discover via creators &mdash; ads alone don&rsquo;t work',
+                'Shade / undertone returns 15&ndash;22% &mdash; need AR + sampling',
+                'Nykaa + Tira + Amazon 45&ndash;60% of category &mdash; need parallel strategy',
+                'Retention &lt; 25% at 6 months without WhatsApp + email lifecycle',
+            ],
+            'why'      => [
+                ['icon' => 'fas fa-user-tie', 'title' => 'Senior practitioner', 'desc' => '10&ndash;15 yr in-category media buyer / strategist on your account.'],
+                ['icon' => 'fas fa-chart-line', 'title' => 'Full-funnel by default', 'desc' => 'Brand + performance + retention run together, not in channel silos.'],
+                ['icon' => 'fas fa-handshake', 'title' => 'Honest reporting', 'desc' => 'ROAS, contribution margin, true MER &mdash; not vanity impressions.'],
+            ],
+            'proof_metric' => '100+ D2C brands scaled &middot; &#8377;8Cr+ managed ad spend &middot; 12+ yrs avg team experience',
+        ]); ?>
+
+
+
     <!-- Market context -->
     <section class="md-sec alt-warm">
         <div class="container">

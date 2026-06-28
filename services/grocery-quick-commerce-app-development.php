@@ -202,6 +202,35 @@
         </div>
     </section>
 
+    <?php itdgl_render_overview_block([
+            'what'     => 'Quick-commerce + grocery apps &mdash; 10-min delivery, dark-store inventory, dispatch + driver routing, customer + admin apps.',
+            'who'      => [
+                '<strong>Quick-commerce founders</strong> launching in metro + tier-2 cities',
+                '<strong>Grocery chains</strong> moving online from offline POS',
+                '<strong>Dark-store networks</strong> needing inventory + dispatch on one stack',
+            ],
+            'how'      => [
+                ['title' => 'Discover', 'desc' => '5-day scoping &mdash; product brief, user journeys, fixed-quote SOW within 48 hours.'],
+                ['title' => 'Design', 'desc' => 'Wireframes + Figma + design system in 2&ndash;3 weeks &mdash; clickable prototype before any code.'],
+                ['title' => 'Build', 'desc' => 'Sprint-based delivery, weekly demos, your GitHub repo, CI/CD on day one.'],
+                ['title' => 'Scale', 'desc' => 'Post-launch retainer for App Store ops, growth + maintenance &mdash; no handover surprises.'],
+            ],
+            'problems' => [
+                'Blinkit / Zepto / Instamart taking 30&ndash;45% of category sales',
+                'Inventory sync across dark stores + warehouse manual + error-prone',
+                'Driver routing breaks at 200+ orders / hour &mdash; need real-time optimisation',
+                'Customer SKU education + repeat-purchase mechanics missing',
+            ],
+            'why'      => [
+                ['icon' => 'fas fa-user-tie', 'title' => 'Senior on every call', 'desc' => '10&ndash;15 yr in-category engineers, no SDRs or junior rotation.'],
+                ['icon' => 'fas fa-file-contract', 'title' => 'Fixed-quote SOWs', 'desc' => 'Written scope, milestone payments, no T&amp;M traps.'],
+                ['icon' => 'fas fa-code-branch', 'title' => '100% code ownership', 'desc' => 'Your GitHub, schema, design assets, CI/CD &mdash; full work-for-hire.'],
+            ],
+            'proof_metric' => '200+ apps shipped &middot; 4.6&starf; avg App Store rating &middot; 5,000+ daily bookings on live apps',
+        ]); ?>
+
+
+
     <!-- Quick answer / AEO -->
     <section class="md-sec alt-warm">
         <div class="container">

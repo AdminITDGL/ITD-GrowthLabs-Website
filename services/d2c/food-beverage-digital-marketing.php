@@ -385,6 +385,35 @@
         </div>
     </section>
 
+    <?php itdgl_render_overview_block([
+            'what'     => 'D2C marketing for F&amp;B brands &mdash; healthy snacking, coffee, tea, frozen, dairy alternatives. Built around repeat-purchase + subscription economics.',
+            'who'      => [
+                '<strong>D2C F&amp;B brands</strong> at &#8377;15L&ndash;&#8377;5Cr+ monthly revenue',
+                '<strong>Subscription-led</strong> coffee / breakfast / snacking brands',
+                '<strong>Quick-commerce-heavy</strong> brands needing dark-store + own-site dual play',
+            ],
+            'how'      => [
+                ['title' => 'Discover', 'desc' => 'Audit current marketing stack, brand position, ad accounts + competitor benchmarks. 1-page scorecard.'],
+                ['title' => 'Strategise', 'desc' => 'Channel mix, creative calendar, lifecycle flows, KPI targets &mdash; tailored to your category economics.'],
+                ['title' => 'Execute', 'desc' => 'Campaigns live, creative shipped (10&ndash;20 weekly), email + WhatsApp flows on, SEO + creators live.'],
+                ['title' => 'Optimise', 'desc' => 'Weekly ROAS, contribution margin + cohort review. Scale spend at healthy CAC/LTV ratio.'],
+            ],
+            'problems' => [
+                'Repeat purchase &lt; 35% at 60 days &mdash; CAC math doesn&rsquo;t work',
+                'Quick commerce (Blinkit/Zepto/Instamart) 35&ndash;55% of category needs shelf-share strategy',
+                'FSSAI + clean-label compliance constraint in creative',
+                'Cold-chain + shipping costs eroding margin on frozen / fresh',
+            ],
+            'why'      => [
+                ['icon' => 'fas fa-user-tie', 'title' => 'Senior practitioner', 'desc' => '10&ndash;15 yr in-category media buyer / strategist on your account.'],
+                ['icon' => 'fas fa-chart-line', 'title' => 'Full-funnel by default', 'desc' => 'Brand + performance + retention run together, not in channel silos.'],
+                ['icon' => 'fas fa-handshake', 'title' => 'Honest reporting', 'desc' => 'ROAS, contribution margin, true MER &mdash; not vanity impressions.'],
+            ],
+            'proof_metric' => '100+ D2C brands scaled &middot; &#8377;8Cr+ managed ad spend &middot; 12+ yrs avg team experience',
+        ]); ?>
+
+
+
     <!-- Market context -->
     <section class="md-sec alt-warm">
         <div class="container">

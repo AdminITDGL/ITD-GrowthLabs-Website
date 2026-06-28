@@ -74,6 +74,33 @@
             ["num"=>"48 hr", "lbl"=>"Quote turnaround"],
         ],
     ]); ?>
+    <?php itdgl_render_overview_block([
+            'what'     => 'Logistics + transportation apps &mdash; fleet management, driver + dispatch + customer apps, route optimisation, TMS / WMS.',
+            'who'      => [
+                '<strong>3PL + courier</strong> companies digitising dispatch + driver ops',
+                '<strong>Transport operators</strong> running 50+ trucks needing TMS',
+                '<strong>Warehousing + 3PL</strong> teams adding WMS + last-mile delivery',
+            ],
+            'how'      => [
+                ['title' => 'Discover', 'desc' => '5-day scoping &mdash; product brief, user journeys, fixed-quote SOW within 48 hours.'],
+                ['title' => 'Design', 'desc' => 'Wireframes + Figma + design system in 2&ndash;3 weeks &mdash; clickable prototype before any code.'],
+                ['title' => 'Build', 'desc' => 'Sprint-based delivery, weekly demos, your GitHub repo, CI/CD on day one.'],
+                ['title' => 'Scale', 'desc' => 'Post-launch retainer for App Store ops, growth + maintenance &mdash; no handover surprises.'],
+            ],
+            'problems' => [
+                'Driver-dispatch + route optimisation on Excel + WhatsApp',
+                'Customer can&rsquo;t track shipment real-time &mdash; constant call centre pressure',
+                'POD (proof of delivery) on paper / WhatsApp photo &mdash; disputes + delayed billing',
+                'Fleet maintenance + fuel + driver salary on multiple disconnected sheets',
+            ],
+            'why'      => [
+                ['icon' => 'fas fa-user-tie', 'title' => 'Senior on every call', 'desc' => '10&ndash;15 yr in-category engineers, no SDRs or junior rotation.'],
+                ['icon' => 'fas fa-file-contract', 'title' => 'Fixed-quote SOWs', 'desc' => 'Written scope, milestone payments, no T&amp;M traps.'],
+                ['icon' => 'fas fa-code-branch', 'title' => '100% code ownership', 'desc' => 'Your GitHub, schema, design assets, CI/CD &mdash; full work-for-hire.'],
+            ],
+            'proof_metric' => '200+ apps shipped &middot; 4.6&starf; avg App Store rating &middot; 5,000+ daily bookings on live apps',
+        ]); ?>
+
 
     <!-- OUTCOMES -->
     <section class="md-sec">
