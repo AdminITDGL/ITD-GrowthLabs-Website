@@ -110,8 +110,7 @@ $itdgl_current = $itdgl_regions[$itdgl_current_key];
 .itdgl-region__item.is-active { background: rgba(30,64,175,0.06); color: #1e40af; }
 .itdgl-region__item.is-active .name { color: #1e40af; }
 /* Force visibility on mobile — the validnavs framework hides .attr-right on
-   small viewports, but the region pill needs to stay reachable. Position
-   it next to the hamburger button instead. */
+   small viewports, but the region pill needs to stay reachable. */
 @media (max-width: 991px) {
     .navbar .attr-right { display: block !important; }
     .navbar .attr-right .attr-nav {
@@ -123,7 +122,7 @@ $itdgl_current = $itdgl_regions[$itdgl_current_key];
     .navbar .attr-right .attr-nav > ul { display: none !important; }
     .navbar .attr-right .itdgl-region {
         display: inline-flex !important;
-        position: relative;
+        position: static;  /* JS uses position: fixed for the menu, so static parent is fine */
     }
     .itdgl-region__btn {
         padding: 6px 10px 6px 8px;
@@ -133,18 +132,20 @@ $itdgl_current = $itdgl_regions[$itdgl_current_key];
     }
     .itdgl-region__btn .label { display: inline; font-size: 11.5px; }
     .itdgl-region__btn .flag { width: 20px; height: 14px; flex-basis: 20px; }
-    /* Dropdown: anchored to the right edge of the pill, capped to viewport width */
+    /* On mobile: menu uses position: fixed positioned by JS to be viewport-safe
+       regardless of whether the pill ends up on the left (in open drawer) or
+       the right (navbar). Inline JS sets top/left/right/max-width. */
     .itdgl-region__menu {
-        position: absolute;
-        right: 0;
-        left: auto;
-        top: calc(100% + 6px);
+        position: fixed;
+        top: 0;          /* JS overrides */
+        left: auto;      /* JS overrides */
+        right: auto;     /* JS overrides */
         min-width: 240px;
         max-width: calc(100vw - 24px);
-        max-height: calc(100vh - 100px);
+        max-height: calc(100vh - 120px);
         overflow-y: auto;
-        z-index: 1500;
-        box-shadow: 0 24px 60px rgba(15,23,42,0.28);
+        z-index: 2000;
+        box-shadow: 0 24px 60px rgba(15,23,42,0.32);
     }
 }
 @media (max-width: 575px) {
@@ -153,8 +154,7 @@ $itdgl_current = $itdgl_regions[$itdgl_current_key];
     .itdgl-region__btn .label { display: none; }
     .itdgl-region__btn .flag { width: 18px; height: 13px; flex-basis: 18px; }
     .itdgl-region__menu {
-        right: 0;
-        min-width: 220px;
+        min-width: min(260px, calc(100vw - 16px));
         max-width: calc(100vw - 16px);
     }
     .itdgl-region__item { padding: 10px 12px; font-size: 13px; }
@@ -188,23 +188,76 @@ $itdgl_current = $itdgl_regions[$itdgl_current_key];
     var btn = document.getElementById('itdgl-region-btn');
     var menu = document.getElementById('itdgl-region-menu');
     if (!btn || !menu) return;
+
+    function clearInlinePos() {
+        menu.style.top = '';
+        menu.style.left = '';
+        menu.style.right = '';
+        menu.style.bottom = '';
+        menu.style.maxHeight = '';
+    }
     function close() {
         menu.setAttribute('hidden', '');
         btn.setAttribute('aria-expanded', 'false');
+        clearInlinePos();
+    }
+    function positionMenu() {
+        // Only do JS positioning on mobile breakpoints. Desktop uses CSS
+        // (position: absolute; right: 0;) which works fine.
+        if (window.innerWidth > 991) { clearInlinePos(); return; }
+
+        var btnRect = btn.getBoundingClientRect();
+        var vw = window.innerWidth;
+        var vh = window.innerHeight;
+        var menuWidth = Math.min(280, vw - 24);
+        var gap = 6;
+
+        // Vertical: below the pill, capped to viewport
+        var top = btnRect.bottom + gap;
+        var maxHeight = vh - top - 16;
+        if (maxHeight < 240) {
+            // If little room below, anchor above the pill instead
+            top = Math.max(16, btnRect.top - gap - Math.min(420, vh - 32));
+            maxHeight = btnRect.top - gap - 16;
+        }
+        menu.style.top = top + 'px';
+        menu.style.maxHeight = maxHeight + 'px';
+
+        // Horizontal: anchor to the side with more room
+        var spaceRight = vw - btnRect.right;
+        var spaceLeft = btnRect.left;
+        if (spaceRight >= menuWidth - 12 || spaceRight >= spaceLeft) {
+            // Open to the right — left edge near pill's left
+            var leftPos = Math.max(12, Math.min(btnRect.left, vw - menuWidth - 12));
+            menu.style.left = leftPos + 'px';
+            menu.style.right = 'auto';
+        } else {
+            // Open to the left — right edge near pill's right
+            var rightPos = Math.max(12, vw - btnRect.right);
+            menu.style.right = rightPos + 'px';
+            menu.style.left = 'auto';
+        }
     }
     function open() {
         menu.removeAttribute('hidden');
         btn.setAttribute('aria-expanded', 'true');
+        positionMenu();
     }
     btn.addEventListener('click', function (e) {
         e.stopPropagation();
         if (menu.hasAttribute('hidden')) open(); else close();
     });
     document.addEventListener('click', function (e) {
-        if (!menu.contains(e.target) && e.target !== btn) close();
+        if (!menu.contains(e.target) && e.target !== btn && !btn.contains(e.target)) close();
     });
     document.addEventListener('keydown', function (e) {
         if (e.key === 'Escape') close();
     });
+    window.addEventListener('resize', function () {
+        if (!menu.hasAttribute('hidden')) positionMenu();
+    });
+    window.addEventListener('scroll', function () {
+        if (!menu.hasAttribute('hidden')) positionMenu();
+    }, { passive: true });
 })();
 </script>
