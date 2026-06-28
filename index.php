@@ -8,7 +8,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="ITD GrowthLabs is a senior-led India studio building custom apps, SaaS platforms, websites &amp; AI-driven lead generation for 300+ businesses across India, USA, UK, UAE, Australia &amp; Africa. 55+ engineers, 97% client retention, fixed-quote pricing.">
+    <meta name="description" content="ITD GrowthLabs is a tech &amp; marketing studio from India building custom apps, SaaS platforms, websites &amp; AI-driven lead generation for 300+ businesses across India, USA, UK, UAE, Australia &amp; Africa. 55+ engineers, 97% client retention, fixed-quote pricing.">
     <title>ITD GrowthLabs &mdash; Custom Apps, SaaS, Websites &amp; Lead Generation for B2B and D2C Companies</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/" />
     <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
@@ -361,7 +361,7 @@
                     </span>
                 </h1>
 
-                <p class="h-hero__sub">A <strong>senior-led India studio</strong> trusted by <strong>300+ businesses</strong> across India, USA, UK, UAE &amp; Australia.</p>
+                <p class="h-hero__sub">A <strong>tech &amp; marketing studio</strong> trusted by <strong>300+ businesses</strong> across India, USA, UK, UAE &amp; Australia.</p>
 
                 <!-- Dynamic service spotlight — 5 cards, one highlights at a time, rotates in sync with headline -->
                 <div class="h-hero__services" id="hero-services">
@@ -615,11 +615,11 @@
                 <div class="col-lg-5 mb-4 mb-lg-0">
                     <?php itdgl_render_section_head(
                         'Who we are',
-                        '<span class="accent">A senior-led studio</span>, not an agency.'
+                        '<span class="accent">A tech &amp; marketing studio</span>, not an agency.'
                     ); ?>
                 </div>
                 <div class="col-lg-7" style="font-size:16px;line-height:1.85;color:var(--md-body);">
-                    <p>ITD GrowthLabs is a senior-led India technology studio backed by an established parent technology group. Our 55+ practitioner team averages <strong>12+ years of in-category experience</strong> &mdash; engineers and strategists who shipped at scale in logistics, fintech, SaaS, D2C and AI before joining us. Across the group we have delivered <strong>300+ engagements</strong> for B2B and D2C companies in India, USA, UK, UAE, Australia and Africa, with a <strong>97% client retention rate</strong> and an average engagement length north of 22 months.</p>
+                    <p>ITD GrowthLabs is a <strong>tech &amp; marketing studio from India</strong>, backed by an established parent technology group. Our 55+ practitioner team averages <strong>12+ years of in-category experience</strong> &mdash; engineers and strategists who shipped at scale in logistics, fintech, SaaS, D2C and AI before joining us. Across the group we have delivered <strong>300+ engagements</strong> for B2B and D2C companies in India, USA, UK, UAE, Australia and Africa, with a <strong>97% client retention rate</strong> and an average engagement length north of 22 months.</p>
                     <p>The studio is organised into focused practice pods: logistics platforms, web &amp; SaaS engineering, mobile apps, multi-vendor marketplaces, and digital marketing. Every engagement is led by a senior practitioner &mdash; not a mid-level account manager and not an offshore rotation. You get the same named senior owner from kickoff through long-term roadmap.</p>
                     <p style="margin-bottom:0;">Capabilities span custom software, AI-driven automation, performance marketing and technology consulting &mdash; built around outcomes our clients can measure, not deliverables they have to inspect. <a href="/about.php" style="color:var(--md-orange);font-weight:700;text-decoration:none;">Read the full story &rarr;</a></p>
                 </div>
@@ -1136,13 +1136,13 @@
             ); ?>
             <?php itdgl_render_faq_accordion([
                 'What is ITD GrowthLabs and what do you do?' =>
-                  'ITD GrowthLabs is a senior-led India technology studio backed by an established parent technology group. Our 55+ practitioner team averages 12+ years of in-category experience and has shipped 300+ projects across India, USA, UK, UAE, Australia and Africa with a 97% client retention rate. We build custom mobile apps, SaaS platforms, websites and AI-driven lead generation systems for B2B and D2C companies. Our flagship offerings are: three ready-to-deploy app products (Courier Management Software, Custom Logistics Mobile App, Multi-Vendor Marketplace App) plus five core services (Website Development, Custom Mobile App Development, Custom Web Application Development, SaaS Development, Digital Marketing).',
+                  'ITD GrowthLabs is a tech & marketing studio from India backed by an established parent technology group. Our 55+ practitioner team averages 12+ years of in-category experience and has shipped 300+ projects across India, USA, UK, UAE, Australia and Africa with a 97% client retention rate. We build custom mobile apps, SaaS platforms, websites and AI-driven lead generation systems for B2B and D2C companies. Our flagship offerings are: three ready-to-deploy app products (Courier Management Software, Custom Logistics Mobile App, Multi-Vendor Marketplace App) plus five core services (Website Development, Custom Mobile App Development, Custom Web Application Development, SaaS Development, Digital Marketing).',
 
                 'Who are your typical clients?' =>
                   'Three buyer profiles: (1) growth-stage Indian businesses scaling from ₹3Cr to ₹100Cr+ revenue who need real software infrastructure to replace Excel and WhatsApp ops; (2) US, UK, Australian and UAE companies looking for senior India studio quality at 30–60% lower cost than local agencies; (3) deep-tech / SaaS founders who need a dedicated engineering pod with continuity rather than staff-augmentation rotation. Across all three, the common thread is teams that want senior practitioners on every engagement and accountable outcomes — not deliverables.',
 
                 'How is ITD GrowthLabs different from other India agencies?' =>
-                  'Four real differences after the contract is signed: (1) senior-led — every engagement is owned by a named senior with 8–15 years in-category experience; (2) fixed-quote pricing — written scope, milestone payments, no T&M traps; (3) 100% source-code ownership — work-for-hire SOW with full code, schema, design assets, CI/CD config transferred to your GitHub; (4) honest "no" — we recommend no-code, aggregator SaaS, or a US team when those are the right answer. We say no to bad-fit work because that is what builds 97% client retention.',
+                  'Four real differences after the contract is signed: (1) named lead on every engagement — owned by a senior practitioner with 8–15 years in-category experience; (2) fixed-quote pricing — written scope, milestone payments, no T&M traps; (3) 100% source-code ownership — work-for-hire SOW with full code, schema, design assets, CI/CD config transferred to your GitHub; (4) honest "no" — we recommend no-code, aggregator SaaS, or a US team when those are the right answer. We say no to bad-fit work because that is what builds 97% client retention.',
 
                 'How much does a project cost with ITD GrowthLabs?' =>
                   'Indicative 2026 ranges: Website MVP $1.8K–$6K; Mobile App MVP $7K–$14K; Custom Web App MVP $14K–$29K; SaaS MVP $17K–$33K; Growth-tier engagements $34K–$90K; Enterprise SaaS $120K+. Marketing retainers $600–$3,800/month. We send a fixed-scope quote within 48 hours of a 30-minute discovery call. See our detailed cost guides: <a href="/resources/App_Development_Cost_USA_vs_India_2026_Honest_Comparison.php">App Development Cost USA vs India</a>, <a href="/resources/Website_Development_Cost_in_India_2026_Honest_Pricing_Guide.php">Website Development Cost in India</a>, <a href="/resources/Custom_SaaS_Development_Cost_India_2026_Multi_Tenant_Stack_Pricing.php">SaaS Development Cost in India</a>.',
