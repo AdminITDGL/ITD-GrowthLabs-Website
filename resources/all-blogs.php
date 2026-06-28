@@ -186,6 +186,12 @@
 
                 <div class="col-lg-4 col-md-6 mb-50"><div class="blog-style-one"><div class="info"><div class="meta"><ul><li><a href="#">ITD GrowthLabs Editorial Team</a></li><li>June 2026</li></ul></div><h3 class="post-title"><a href="../resources/D2C_Marketing_Agency_Cost_India_2026_Honest_Retainer_Ranges.php">D2C Marketing Agency Cost in India 2026 &mdash; Honest Retainer Ranges, Hidden Costs &amp; In-house vs Agency</a></h3><a href="../resources/D2C_Marketing_Agency_Cost_India_2026_Honest_Retainer_Ranges.php" class="button-regular">Continue Reading <i class="fas fa-arrow-right"></i></a></div></div></div>
 
+                <div class="col-lg-4 col-md-6 mb-50"><div class="blog-style-one"><div class="info"><div class="meta"><ul><li><a href="#">ITD GrowthLabs Editorial Team</a></li><li>June 2026</li></ul></div><h3 class="post-title"><a href="../resources/Meta_Ads_vs_Google_Ads_D2C_India_2026_Which_Better.php">Meta Ads vs Google Ads for D2C in India 2026 &mdash; Which Gives Better ROAS?</a></h3><a href="../resources/Meta_Ads_vs_Google_Ads_D2C_India_2026_Which_Better.php" class="button-regular">Continue Reading <i class="fas fa-arrow-right"></i></a></div></div></div>
+
+                <div class="col-lg-4 col-md-6 mb-50"><div class="blog-style-one"><div class="info"><div class="meta"><ul><li><a href="#">ITD GrowthLabs Editorial Team</a></li><li>June 2026</li></ul></div><h3 class="post-title"><a href="../resources/SEO_vs_PPC_D2C_India_2026_When_to_Use_Which.php">SEO vs PPC for D2C Brands India 2026 &mdash; When to Use Which, ROI Math &amp; the Compounding Trap</a></h3><a href="../resources/SEO_vs_PPC_D2C_India_2026_When_to_Use_Which.php" class="button-regular">Continue Reading <i class="fas fa-arrow-right"></i></a></div></div></div>
+
+                <div class="col-lg-4 col-md-6 mb-50"><div class="blog-style-one"><div class="info"><div class="meta"><ul><li><a href="#">ITD GrowthLabs Editorial Team</a></li><li>June 2026</li></ul></div><h3 class="post-title"><a href="../resources/Inhouse_Marketing_Team_vs_Agency_India_2026_When_Each_Wins.php">In-house Marketing Team vs Agency India 2026 &mdash; When Each Wins, Cost Math, Hybrid Models</a></h3><a href="../resources/Inhouse_Marketing_Team_vs_Agency_India_2026_When_Each_Wins.php" class="button-regular">Continue Reading <i class="fas fa-arrow-right"></i></a></div></div></div>
+
                 <!-- End NEW BOFU BATCH -->
 
                 <!-- Single Item -->
