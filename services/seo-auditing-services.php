@@ -74,6 +74,33 @@
             ["num"=>"48 hr", "lbl"=>"Quote turnaround"],
         ],
     ]); ?>
+    <?php itdgl_render_overview_block([
+            'what'     => 'SEO that ranks in Google + AI search &mdash; technical, content, on-page, off-page, AEO / GEO &mdash; built for compounding traffic.',
+            'who'      => [
+                '<strong>D2C + B2B brands</strong> stuck on page 2&ndash;3 for high-intent queries',
+                '<strong>SaaS</strong> teams competing for branded + comparison + jobs-to-be-done queries',
+                '<strong>Local businesses</strong> needing map pack + Google Business Profile + citation health',
+            ],
+            'how'      => [
+                ['title' => 'Audit', 'desc' => '150-point technical + content + backlink audit. AEO / GEO readiness check for AI search.'],
+                ['title' => 'Plan', 'desc' => 'Keyword cluster map, content calendar, technical fix queue, link-building targets.'],
+                ['title' => 'Execute', 'desc' => 'Technical fixes shipped, content cluster published, schema + AEO blocks added, links built.'],
+                ['title' => 'Compound', 'desc' => 'Monthly ranking + traffic + conversion review. Cluster expansion, refresh + interlinking.'],
+            ],
+            'problems' => [
+                'Pages indexed but not ranking &mdash; thin content + missing schema',
+                'Core Web Vitals failing on mobile &mdash; LCP &gt; 4s, CLS &gt; 0.2',
+                'Lost rankings after recent Google update (HCU / spam / core)',
+                'Not showing up in AI Overviews / ChatGPT / Perplexity &mdash; missing AEO blocks',
+            ],
+            'why'      => [
+                ['icon' => 'fas fa-magnifying-glass-chart', 'title' => 'AEO + GEO ready', 'desc' => 'Quick-answer blocks, schema, AI-citable passages baked in.'],
+                ['icon' => 'fas fa-bolt', 'title' => 'Core Web Vitals', 'desc' => 'LCP &lt; 1.8s, INP &lt; 200ms, CLS &lt; 0.05 baseline.'],
+                ['icon' => 'fas fa-link', 'title' => 'Editorial link-building', 'desc' => 'Real placements on niche industry sites, not PBNs.'],
+            ],
+            'proof_metric' => '500+ SEO projects shipped &middot; 639 blogs published &middot; Avg 2&times;&ndash;3&times; organic traffic in 90 days',
+        ]); ?>
+
 
     <!-- OUTCOMES -->
     <section class="md-sec">

@@ -77,6 +77,33 @@
             ["num"=>"48 hr", "lbl"=>"Quote turnaround"],
         ],
     ]); ?>
+    <?php itdgl_render_overview_block([
+            'what'     => 'Custom multi-tenant SaaS &mdash; backend, frontend, billing, RBAC, integrations &mdash; from MVP through enterprise scale.',
+            'who'      => [
+                '<strong>Founders</strong> building a vertical or horizontal SaaS MVP (&#8377;15L&ndash;&#8377;30L)',
+                '<strong>Growth-stage SaaS</strong> at &#8377;3Cr&ndash;&#8377;30Cr ARR needing a senior engineering pod',
+                '<strong>Enterprises</strong> spinning an internal tool into a productised SaaS for customers',
+            ],
+            'how'      => [
+                ['title' => 'Discover', 'desc' => 'Domain model, multi-tenancy strategy, billing + auth design. Fixed-quote SOW in 48 hours.'],
+                ['title' => 'Architect', 'desc' => 'Multi-tenant schema, RBAC, audit log, observability + DR plan before line 1 of code.'],
+                ['title' => 'Build', 'desc' => 'Sprint-based delivery, your GitHub repo, weekly demos, staged production rollout.'],
+                ['title' => 'Scale', 'desc' => 'Performance tuning, SOC 2 readiness, customer onboarding automation, growth engineering.'],
+            ],
+            'problems' => [
+                'MVP built on no-code (Bubble, Retool) hit a tenancy or compliance wall',
+                'Single-tenant codebase can&rsquo;t isolate customer data for enterprise sales',
+                'Slow engineering velocity &mdash; in-house team needs senior reinforcement',
+                'Billing + RBAC + audit log was deferred and now blocks enterprise deals',
+            ],
+            'why'      => [
+                ['icon' => 'fas fa-layer-group', 'title' => 'Multi-tenant by design', 'desc' => 'Schema-per-tenant, row-level security, audit log from day one.'],
+                ['icon' => 'fas fa-shield-halved', 'title' => 'Enterprise-ready', 'desc' => 'SOC 2 / GDPR / DPDP-friendly architecture, not bolted on later.'],
+                ['icon' => 'fas fa-code-branch', 'title' => '100% code ownership', 'desc' => 'Your repo, your AWS / GCP / Azure account, your data.'],
+            ],
+            'proof_metric' => '50+ SaaS platforms shipped &middot; Multi-tenant + RBAC + audit log standard &middot; 22-month avg engagement',
+        ]); ?>
+
 
 
     <!-- ============================================================

@@ -210,6 +210,33 @@
         </div>
     </section>
 
+    <?php itdgl_render_overview_block([
+            'what'     => 'Brand growth for D2C consumer brands &mdash; performance + brand + retention compounded across 12 industries.',
+            'who'      => [
+                '<strong>D2C brands</strong> at &#8377;1Cr&ndash;&#8377;15Cr ARR scaling full-funnel',
+                '<strong>Established D2C</strong> at &#8377;15Cr&ndash;&#8377;100Cr+ ARR with dedicated team needs',
+                '<strong>House of brands</strong> running multi-brand D2C marketing',
+            ],
+            'how'      => [
+                ['title' => 'Discover',   'desc' => 'Brand + ad-account + creative audit. Competitor benchmarks for your category. 1-page scorecard.'],
+                ['title' => 'Strategise', 'desc' => 'Channel mix per category economics (high-AOV vs high-frequency), creative + retention plan.'],
+                ['title' => 'Execute',    'desc' => 'Performance + brand + creator + email + WhatsApp shipped together. Weekly creative refresh.'],
+                ['title' => 'Optimise',   'desc' => 'Weekly ROAS, contribution margin + cohort review. Scale spend at healthy CAC/LTV.'],
+            ],
+            'problems' => [
+                'Performance ads plateauing on Meta &mdash; need creator + UGC pipeline + creative velocity',
+                'Marketplace + own-site fighting for budget &mdash; need dual-play strategy',
+                'Retention &lt; 25% at 6 months &mdash; CAC math doesn&rsquo;t work without WhatsApp + email lifecycle',
+                'Brand + performance + retention in silos &mdash; not compounding LTV',
+            ],
+            'why'      => [
+                ['icon' => 'fas fa-bullseye',      'title' => 'D2C-native',            'desc' => '12 industry playbooks &mdash; jewellery, fashion, F&amp;B, beauty, more.'],
+                ['icon' => 'fas fa-fire',          'title' => 'Creative velocity',     'desc' => '10&ndash;20 net-new creatives weekly, in-house team, no outsourcing.'],
+                ['icon' => 'fas fa-arrows-rotate', 'title' => 'Retention engineering', 'desc' => 'WhatsApp + email + lifecycle drive 25&ndash;40% of revenue.'],
+            ],
+            'proof_metric' => '100+ D2C brands scaled &middot; &#8377;8Cr+ managed ad spend &middot; 4&times;&ndash;7&times; blended ROAS',
+        ]); ?>
+
     <!-- OUR APPROACH / METHODOLOGY (4 steps) -->
     <section class="md-sec alt-warm" id="approach">
         <div class="container">

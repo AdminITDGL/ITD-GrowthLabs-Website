@@ -81,6 +81,33 @@
             ['num'=>'10+',     'lbl'=>'Years in digital'],
         ],
     ]); ?>
+    <?php itdgl_render_overview_block([
+            'what'     => 'Full-funnel digital marketing &mdash; SEO, performance ads, social, content, email, WhatsApp, CRO + analytics &mdash; run by senior practitioners.',
+            'who'      => [
+                '<strong>D2C brands</strong> scaling from &#8377;1Cr to &#8377;100Cr ARR (12 industries covered)',
+                '<strong>B2B SaaS</strong> teams needing pipeline + content authority + GEO/AEO ranking',
+                '<strong>Local businesses</strong> in Mumbai, Bangalore, Delhi + USA/UK cities competing in map pack',
+            ],
+            'how'      => [
+                ['title' => 'Discover', 'desc' => 'Audit current marketing stack, brand, audience, ad accounts + competitor benchmarks. 1-page scorecard.'],
+                ['title' => 'Strategise', 'desc' => 'Channel mix, creative calendar, lifecycle flows, retention engineering, KPI targets per channel.'],
+                ['title' => 'Execute', 'desc' => 'Campaigns live, creative shipped (10&ndash;20 net-new weekly), email + WhatsApp flows on, SEO + creators.'],
+                ['title' => 'Optimise', 'desc' => 'Weekly ROAS + contribution margin + cohort review. Double-down on what works, kill what doesn&rsquo;t.'],
+            ],
+            'problems' => [
+                'Spending on ads but ROAS not improving &mdash; need senior media buyer, not junior',
+                'SEO stuck on page 2&ndash;3 for high-intent queries &mdash; no movement in 6 months',
+                'Marketing + sales aren&rsquo;t aligned &mdash; leads aren&rsquo;t qualified or converting',
+                'Brand + performance + retention not compounding &mdash; running channels in silos',
+            ],
+            'why'      => [
+                ['icon' => 'fas fa-user-tie', 'title' => 'Senior practitioner', 'desc' => '10&ndash;15 yr in-category media buyer / SEO lead on your account.'],
+                ['icon' => 'fas fa-chart-line', 'title' => 'Full-funnel by default', 'desc' => 'Brand + performance + retention run together, not in channel silos.'],
+                ['icon' => 'fas fa-handshake', 'title' => 'Honest reporting', 'desc' => 'ROAS, contribution margin, true MER &mdash; not vanity impressions.'],
+            ],
+            'proof_metric' => '100+ D2C brands scaled &middot; &#8377;8Cr+ managed ad spend &middot; Avg 4&times;&ndash;7&times; blended ROAS',
+        ]); ?>
+
 
 
     <!-- ============================================================

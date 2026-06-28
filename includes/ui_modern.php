@@ -671,3 +671,262 @@ function itdgl_render_final_cta($cfg) {
 </section>
 <?php
 }
+
+
+// ---------------------------------------------------------------------
+// Overview block — answers the 6 questions every visitor asks in their
+// first 8-10 seconds on a service page:
+//   1. What we do        2. Who this is for
+//   3. How we work       4. Problems we solve
+//   5. Why us            6. Proof
+//
+// Sits immediately after the hero. Same component across every service
+// page so the experience stays consistent and visitors don't have to
+// re-learn the layout per page.
+//
+// Config:
+//   'eyebrow' (optional)      — section eyebrow pill text
+//   'head' (optional)         — section heading
+//   'sub' (optional)          — section subheading
+//   'what'                    — string, 1-line description of the service
+//   'who'                     — array of strings (3 ICPs)
+//   'how'                     — array of ['title' => , 'desc' => ] (3-4 steps)
+//   'problems'                — array of strings (3-4 pain points)
+//   'why'                     — array of ['icon' => fa-class, 'title' => , 'desc' => ] (3 differentiators)
+//   'proof_metric'            — string, headline metric (e.g. "300+ projects · 97% retention")
+//   'proof_label' (optional)  — string above the metric
+// ---------------------------------------------------------------------
+function itdgl_render_overview_block($cfg) {
+    itdgl_render_modern_styles();
+    $eyebrow = $cfg['eyebrow'] ?? 'At a glance';
+    $head    = $cfg['head']    ?? 'What we do, who it&rsquo;s for, and how we work';
+    $sub     = $cfg['sub']     ?? 'An 8-second read &mdash; the same six questions every buyer asks, answered up front.';
+    $what    = $cfg['what']    ?? '';
+    $who     = $cfg['who']     ?? [];
+    $how     = $cfg['how']     ?? [];
+    $problems= $cfg['problems']?? [];
+    $why     = $cfg['why']     ?? [];
+    $proof_metric = $cfg['proof_metric'] ?? '300+ projects shipped &middot; 97% client retention &middot; 12+ yrs avg in-category experience';
+    $proof_label  = $cfg['proof_label']  ?? 'Track record';
+?>
+<style>
+.md-overview { padding: 60px 0 56px; background: linear-gradient(180deg, #f8fafc 0%, #ffffff 100%); }
+.md-overview .container { max-width: 1240px; }
+.md-overview__grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    margin-top: 36px;
+}
+.md-overview__card {
+    background: #fff;
+    border: 1px solid var(--md-border);
+    border-radius: 16px;
+    padding: 26px 24px;
+    position: relative;
+    transition: transform .25s ease, border-color .25s ease, box-shadow .25s ease;
+    display: flex;
+    flex-direction: column;
+}
+.md-overview__card:hover { transform: translateY(-3px); border-color: rgba(255,107,0,0.40); box-shadow: 0 16px 36px rgba(15,23,42,0.10); }
+.md-overview__card-label {
+    display: inline-flex; align-items: center; gap: 6px;
+    font-size: 10.5px; font-weight: 800; letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #be185d;
+    background: rgba(236,72,153,0.10);
+    padding: 5px 11px;
+    border-radius: 14px;
+    margin-bottom: 14px;
+    align-self: flex-start;
+}
+.md-overview__card-label .num { color: #ec4899; font-weight: 900; }
+.md-overview__card-icon {
+    width: 44px; height: 44px;
+    border-radius: 11px;
+    background: linear-gradient(135deg, rgba(255,107,0,0.12), rgba(236,72,153,0.12));
+    color: var(--md-orange, #ff6b00);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 18px;
+    margin-bottom: 14px;
+}
+.md-overview__card-title {
+    font-size: 16.5px;
+    font-weight: 800;
+    color: var(--md-heading);
+    margin: 0 0 10px;
+    line-height: 1.35;
+}
+.md-overview__card-body { font-size: 14px; line-height: 1.65; color: var(--md-body); flex-grow: 1; }
+.md-overview__card-body p { margin: 0 0 8px; }
+.md-overview__card-body p:last-child { margin-bottom: 0; }
+.md-overview__list { list-style: none; padding: 0; margin: 0; }
+.md-overview__list li {
+    position: relative;
+    padding: 7px 0 7px 24px;
+    font-size: 14px;
+    line-height: 1.55;
+    color: var(--md-body);
+    border-bottom: 1px dashed rgba(15,23,42,0.08);
+}
+.md-overview__list li:last-child { border-bottom: 0; }
+.md-overview__list li::before {
+    content: '';
+    position: absolute;
+    left: 0; top: 14px;
+    width: 14px; height: 2px;
+    background: linear-gradient(90deg, #ec4899, #ff6b00);
+    border-radius: 2px;
+}
+.md-overview__step {
+    display: grid;
+    grid-template-columns: 28px 1fr;
+    gap: 12px;
+    padding: 9px 0;
+    border-bottom: 1px dashed rgba(15,23,42,0.08);
+}
+.md-overview__step:last-child { border-bottom: 0; }
+.md-overview__step-num {
+    width: 26px; height: 26px;
+    border-radius: 8px;
+    background: linear-gradient(135deg, #ec4899, #f97316);
+    color: #fff;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 11.5px; font-weight: 900;
+    margin-top: 1px;
+}
+.md-overview__step-title { font-size: 14px; font-weight: 800; color: var(--md-heading); margin: 0 0 2px; line-height: 1.35; }
+.md-overview__step-desc  { font-size: 12.5px; line-height: 1.55; color: var(--md-muted); margin: 0; }
+.md-overview__why {
+    display: flex; gap: 12px;
+    padding: 10px 0;
+    border-bottom: 1px dashed rgba(15,23,42,0.08);
+}
+.md-overview__why:last-child { border-bottom: 0; }
+.md-overview__why i {
+    width: 32px; height: 32px;
+    border-radius: 9px;
+    background: rgba(30,64,175,0.08);
+    color: #1e40af;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 13px;
+    flex-shrink: 0;
+}
+.md-overview__why-title { font-size: 14px; font-weight: 800; color: var(--md-heading); margin: 0 0 2px; line-height: 1.35; }
+.md-overview__why-desc  { font-size: 12.5px; line-height: 1.55; color: var(--md-muted); margin: 0; }
+.md-overview__proof-metric {
+    font-size: 16px;
+    font-weight: 800;
+    color: var(--md-heading);
+    background: linear-gradient(135deg, rgba(30,64,175,0.06), rgba(236,72,153,0.06));
+    border: 1px solid rgba(30,64,175,0.12);
+    padding: 14px 16px;
+    border-radius: 12px;
+    line-height: 1.45;
+}
+.md-overview__proof-label {
+    font-size: 11.5px;
+    font-weight: 700;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    color: var(--md-muted);
+    margin-bottom: 8px;
+}
+
+@media (max-width: 1024px) {
+    .md-overview__grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 640px) {
+    .md-overview { padding: 44px 0 40px; }
+    .md-overview__grid { grid-template-columns: 1fr; gap: 14px; }
+    .md-overview__card { padding: 22px 20px; }
+    .md-overview__card-title { font-size: 15.5px; }
+}
+</style>
+<section class="md-overview" aria-labelledby="overview-head">
+    <div class="container">
+        <?php itdgl_render_section_head($eyebrow, $head, $sub); ?>
+        <div class="md-overview__grid">
+            <!-- 01 What -->
+            <div class="md-overview__card">
+                <span class="md-overview__card-label"><span class="num">01</span> What we do</span>
+                <div class="md-overview__card-icon"><i class="fas fa-bullseye"></i></div>
+                <h3 class="md-overview__card-title">The service in one line</h3>
+                <div class="md-overview__card-body"><p><?php echo $what; ?></p></div>
+            </div>
+
+            <!-- 02 Who -->
+            <div class="md-overview__card">
+                <span class="md-overview__card-label"><span class="num">02</span> Who it&rsquo;s for</span>
+                <div class="md-overview__card-icon"><i class="fas fa-users"></i></div>
+                <h3 class="md-overview__card-title">Best fit for</h3>
+                <div class="md-overview__card-body">
+                    <ul class="md-overview__list">
+                        <?php foreach ($who as $w): ?><li><?php echo $w; ?></li><?php endforeach; ?>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- 03 How -->
+            <div class="md-overview__card">
+                <span class="md-overview__card-label"><span class="num">03</span> How we work</span>
+                <div class="md-overview__card-icon"><i class="fas fa-diagram-project"></i></div>
+                <h3 class="md-overview__card-title">Our step-by-step process</h3>
+                <div class="md-overview__card-body">
+                    <?php foreach ($how as $i => $h): ?>
+                    <div class="md-overview__step">
+                        <span class="md-overview__step-num"><?php echo str_pad($i+1, 2, '0', STR_PAD_LEFT); ?></span>
+                        <div>
+                            <p class="md-overview__step-title"><?php echo $h['title']; ?></p>
+                            <p class="md-overview__step-desc"><?php echo $h['desc']; ?></p>
+                        </div>
+                    </div>
+                    <?php endforeach; ?>
+                </div>
+            </div>
+
+            <!-- 04 Problems we solve -->
+            <div class="md-overview__card">
+                <span class="md-overview__card-label"><span class="num">04</span> Problems we solve</span>
+                <div class="md-overview__card-icon"><i class="fas fa-circle-exclamation"></i></div>
+                <h3 class="md-overview__card-title">If any of these sound familiar</h3>
+                <div class="md-overview__card-body">
+                    <ul class="md-overview__list">
+                        <?php foreach ($problems as $p): ?><li><?php echo $p; ?></li><?php endforeach; ?>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- 05 Why us -->
+            <div class="md-overview__card">
+                <span class="md-overview__card-label"><span class="num">05</span> Why us</span>
+                <div class="md-overview__card-icon"><i class="fas fa-award"></i></div>
+                <h3 class="md-overview__card-title">What makes us different</h3>
+                <div class="md-overview__card-body">
+                    <?php foreach ($why as $w): ?>
+                    <div class="md-overview__why">
+                        <i class="<?php echo $w['icon']; ?>"></i>
+                        <div>
+                            <p class="md-overview__why-title"><?php echo $w['title']; ?></p>
+                            <p class="md-overview__why-desc"><?php echo $w['desc']; ?></p>
+                        </div>
+                    </div>
+                    <?php endforeach; ?>
+                </div>
+            </div>
+
+            <!-- 06 Proof -->
+            <div class="md-overview__card">
+                <span class="md-overview__card-label"><span class="num">06</span> Proof</span>
+                <div class="md-overview__card-icon"><i class="fas fa-chart-line"></i></div>
+                <h3 class="md-overview__card-title">Track record</h3>
+                <div class="md-overview__card-body">
+                    <p class="md-overview__proof-label"><?php echo $proof_label; ?></p>
+                    <div class="md-overview__proof-metric"><?php echo $proof_metric; ?></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<?php
+}

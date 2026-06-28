@@ -74,6 +74,33 @@
             ["num"=>"48 hr", "lbl"=>"Quote turnaround"],
         ],
     ]); ?>
+    <?php itdgl_render_overview_block([
+            'what'     => 'Social media that builds brand + community + revenue &mdash; Instagram, LinkedIn, YouTube, X &mdash; with creators, content + paid working together.',
+            'who'      => [
+                '<strong>D2C brands</strong> building creator + UGC pipelines (especially beauty, fashion, jewellery, F&amp;B)',
+                '<strong>B2B founders + SaaS</strong> teams building thought-leadership + pipeline on LinkedIn',
+                '<strong>Lifestyle brands</strong> needing visual storytelling on Instagram + Pinterest',
+            ],
+            'how'      => [
+                ['title' => 'Discover', 'desc' => 'Brand voice + audience + competitor audit. Content pillar + cadence per platform.'],
+                ['title' => 'Build', 'desc' => 'Content calendar, creator pipeline, community + DM management protocol.'],
+                ['title' => 'Ship', 'desc' => 'Daily / 3x weekly posting per platform, creator collabs running, UGC harvested.'],
+                ['title' => 'Amplify', 'desc' => 'Top-performing organic boosted via paid, harvested into creative for performance ads.'],
+            ],
+            'problems' => [
+                'Posting daily but engagement + followers + revenue not moving',
+                'Creator campaigns one-off and not driving repeat ROI &mdash; need pipeline, not campaigns',
+                'Brand voice inconsistent across platforms &mdash; eroding brand equity',
+                'LinkedIn growth stalled &mdash; need founder + employee advocacy + thought leadership',
+            ],
+            'why'      => [
+                ['icon' => 'fas fa-users', 'title' => 'Creator pipeline', 'desc' => '200+ creator roster &mdash; nano + micro + macro, diversified.'],
+                ['icon' => 'fas fa-video', 'title' => 'UGC + creative velocity', 'desc' => '10&ndash;20 net-new pieces weekly, harvested for paid + organic.'],
+                ['icon' => 'fas fa-handshake', 'title' => 'Real metrics', 'desc' => 'Followers + engagement + saved + DMs + revenue &mdash; not vanity.'],
+            ],
+            'proof_metric' => '100+ D2C brands grown on social &middot; 200+ creator roster &middot; 10&ndash;20 net-new creatives weekly',
+        ]); ?>
+
 
     <!-- OUTCOMES -->
     <section class="md-sec">

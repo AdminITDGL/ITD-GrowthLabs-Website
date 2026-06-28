@@ -74,6 +74,33 @@
             ["num"=>"48 hr", "lbl"=>"Quote turnaround"],
         ],
     ]); ?>
+    <?php itdgl_render_overview_block([
+            'what'     => 'Meta Ads (Facebook + Instagram) run by senior buyers &mdash; conversion, retargeting, Advantage+, creative testing at velocity.',
+            'who'      => [
+                '<strong>D2C brands</strong> scaling Meta past &#8377;3L/month spend',
+                '<strong>App developers</strong> running app install + event campaigns',
+                '<strong>Lead-gen + e-commerce</strong> teams needing creative velocity + ad-fatigue management',
+            ],
+            'how'      => [
+                ['title' => 'Audit', 'desc' => 'Account audit &mdash; pixel + CAPI health, campaign structure, creative inventory, bidding.'],
+                ['title' => 'Restructure', 'desc' => 'Consolidate to Advantage+ + ASC, fix conversion event hierarchy, audience strategy.'],
+                ['title' => 'Ship', 'desc' => '10&ndash;20 net-new creatives weekly, UGC + video + static, creative-led testing protocol.'],
+                ['title' => 'Optimise', 'desc' => 'Weekly ROAS + creative refresh + incrementality review. Scale spend at healthy CPA.'],
+            ],
+            'problems' => [
+                'iOS 14.5+ broke pixel attribution &mdash; need CAPI + Aggregated Event Measurement',
+                'Creative fatigue in 7&ndash;14 days &mdash; can&rsquo;t produce enough net-new creatives weekly',
+                'ASC / Advantage+ campaigns burning budget &mdash; need audience + creative discipline',
+                'ROAS dropped on iOS users vs Android &mdash; attribution gap, not real performance',
+            ],
+            'why'      => [
+                ['icon' => 'fas fa-fire', 'title' => 'Creative velocity', 'desc' => '10&ndash;20 net-new creatives weekly &mdash; in-house, not outsourced.'],
+                ['icon' => 'fas fa-link', 'title' => 'CAPI + server-side', 'desc' => 'Conversion API + GTM server-side live &mdash; iOS-proof attribution.'],
+                ['icon' => 'fas fa-flask', 'title' => 'Incrementality testing', 'desc' => 'GeoLift / holdout tests &mdash; know what&rsquo;s really driving lift.'],
+            ],
+            'proof_metric' => '&#8377;8Cr+ managed ad spend &middot; 4&times;&ndash;7&times; ROAS on mature D2C accounts',
+        ]); ?>
+
 
     <!-- OUTCOMES -->
     <section class="md-sec">

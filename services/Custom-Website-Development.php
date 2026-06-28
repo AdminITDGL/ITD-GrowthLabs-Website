@@ -74,6 +74,33 @@
             ["num"=>"48 hr", "lbl"=>"Quote turnaround"],
         ],
     ]); ?>
+    <?php itdgl_render_overview_block([
+            'what'     => 'Custom-coded, high-converting websites &mdash; brand sites, marketing sites, complex landing pages &mdash; built for speed, SEO + conversion.',
+            'who'      => [
+                '<strong>D2C + B2B brands</strong> outgrowing WordPress / Wix and needing real Core Web Vitals',
+                '<strong>Marketing teams</strong> launching campaign + product + city landing pages at scale',
+                '<strong>Founders rebranding</strong> after a Series A / scale milestone',
+            ],
+            'how'      => [
+                ['title' => 'Discover', 'desc' => 'Audit current site, conversion + SEO + speed baseline. Fixed quote in 48 hours.'],
+                ['title' => 'Design', 'desc' => 'Brand-led design system + page library in Figma. Clickable prototype before code.'],
+                ['title' => 'Build', 'desc' => 'Custom HTML/CSS/JS or Next.js/Astro/WordPress headless &mdash; whatever fits your stack.'],
+                ['title' => 'Optimise', 'desc' => 'Core Web Vitals tuning, on-page SEO, conversion tracking, A/B testing setup.'],
+            ],
+            'problems' => [
+                'Site is slow (LCP &gt; 3s) and SEO is suffering',
+                'WordPress / Wix / Webflow plateau &mdash; can&rsquo;t scale to 100+ pages without breaking',
+                'Design system is inconsistent across pages &mdash; brand keeps drifting',
+                'Conversion rate plateaued &mdash; need real CRO, not just pretty design',
+            ],
+            'why'      => [
+                ['icon' => 'fas fa-gauge-high', 'title' => 'Core Web Vitals first', 'desc' => 'LCP &lt; 1.8s, INP &lt; 200ms, CLS &lt; 0.05 baseline.'],
+                ['icon' => 'fas fa-search', 'title' => 'SEO-engineered', 'desc' => 'Schema, hreflang, internal-link velocity, AI-search ready.'],
+                ['icon' => 'fas fa-code', 'title' => 'Real code, your repo', 'desc' => 'Custom HTML/CSS/JS or framework of choice &mdash; no theme lock-in.'],
+            ],
+            'proof_metric' => '500+ websites shipped &middot; 95+ Lighthouse on most builds &middot; Avg 2&times; organic traffic lift in 90 days',
+        ]); ?>
+
 
     <!-- OUTCOMES -->
     <section class="md-sec">

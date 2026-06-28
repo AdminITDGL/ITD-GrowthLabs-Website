@@ -74,6 +74,33 @@
             ["num"=>"48 hr", "lbl"=>"Quote turnaround"],
         ],
     ]); ?>
+    <?php itdgl_render_overview_block([
+            'what'     => 'Custom iOS, Android, Flutter &amp; React Native apps &mdash; from &#8377;6L MVP to &#8377;75L enterprise builds, owned by you 100%.',
+            'who'      => [
+                '<strong>Founders</strong> launching a v1 product app (&#8377;3L&ndash;&#8377;15L MVP, 4&ndash;14 weeks)',
+                '<strong>D2C + logistics + on-demand brands</strong> needing a 4-app suite (customer, driver, vendor, admin)',
+                '<strong>Enterprise PMs</strong> replacing offshore staff-aug rotations with a senior pod',
+            ],
+            'how'      => [
+                ['title' => 'Discover', 'desc' => '5-day scoping &mdash; product brief, user journeys, fixed-quote SOW within 48 hours.'],
+                ['title' => 'Design', 'desc' => 'Wireframes + Figma + design system in 2&ndash;3 weeks &mdash; clickable prototype before any code.'],
+                ['title' => 'Build', 'desc' => 'Sprint-based delivery, weekly demos, your GitHub repo, CI/CD on day one.'],
+                ['title' => 'Scale', 'desc' => 'Post-launch retainer for App Store ops, growth + maintenance &mdash; no handover surprises.'],
+            ],
+            'problems' => [
+                'No-code (Glide / Adalo / FlutterFlow) hit a scale or compliance wall',
+                'Offshore vendor rotation broke continuity &mdash; ramping a new dev every 8 weeks',
+                'In-house mobile team can&rsquo;t hit deadlines without senior reinforcement',
+                'Existing apps have 2&star; reviews, crash &gt; 1.5%, or burn battery on Android',
+            ],
+            'why'      => [
+                ['icon' => 'fas fa-user-tie', 'title' => 'Senior on every call', 'desc' => '10&ndash;15 yr in-category engineers, no SDRs or junior rotation.'],
+                ['icon' => 'fas fa-file-contract', 'title' => 'Fixed-quote SOWs', 'desc' => 'Written scope, milestone payments, no T&amp;M traps.'],
+                ['icon' => 'fas fa-code-branch', 'title' => '100% code ownership', 'desc' => 'Your GitHub, schema, design assets, CI/CD &mdash; full work-for-hire.'],
+            ],
+            'proof_metric' => '200+ apps shipped &middot; 4.6&starf; avg App Store rating &middot; 5,000+ daily bookings on live apps',
+        ]); ?>
+
 
     <!-- OUTCOMES -->
     <section class="md-sec">

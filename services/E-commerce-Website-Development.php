@@ -74,6 +74,33 @@
             ["num"=>"48 hr", "lbl"=>"Quote turnaround"],
         ],
     ]); ?>
+    <?php itdgl_render_overview_block([
+            'what'     => 'Shopify, WooCommerce + headless e-commerce builds &mdash; from MVP store to enterprise multi-region setups, owned by you.',
+            'who'      => [
+                '<strong>D2C founders</strong> launching first Shopify store or migrating from no-code',
+                '<strong>Growth-stage D2C</strong> at &#8377;5Cr&ndash;&#8377;50Cr ARR moving Shopify Plus / headless',
+                '<strong>Enterprises</strong> running multi-region, multi-brand commerce on one stack',
+            ],
+            'how'      => [
+                ['title' => 'Discover', 'desc' => 'Stack audit, conversion + speed baseline, integrations map. Fixed-quote SOW in 48 hours.'],
+                ['title' => 'Design', 'desc' => 'Brand-led design system, PDP + cart + checkout UX, mobile-first patterns.'],
+                ['title' => 'Build', 'desc' => 'Shopify / WooCommerce / Magento / headless &mdash; whatever fits. Your repo, your data.'],
+                ['title' => 'Optimise', 'desc' => 'Core Web Vitals, CRO, payment + shipping integrations, post-purchase + retention setup.'],
+            ],
+            'problems' => [
+                'Shopify / WooCommerce site slow on mobile &mdash; LCP &gt; 4s killing conversion',
+                'Need to scale to 5,000+ SKUs or multi-region &mdash; current stack maxed out',
+                'Want to migrate from Shopify Plus to headless (Hydrogen + Sanity / Contentful)',
+                'Conversion rate plateaued &mdash; need CRO + on-site personalisation',
+            ],
+            'why'      => [
+                ['icon' => 'fas fa-gauge-high', 'title' => 'Speed-first builds', 'desc' => 'LCP &lt; 1.8s on mobile, INP &lt; 200ms, CLS &lt; 0.05.'],
+                ['icon' => 'fas fa-credit-card', 'title' => 'India + cross-border', 'desc' => 'Razorpay / Cashfree + Stripe + Klarna + multi-currency.'],
+                ['icon' => 'fas fa-rotate', 'title' => 'CRO + retention built in', 'desc' => 'Klaviyo + WhatsApp + post-purchase flows from day one.'],
+            ],
+            'proof_metric' => '150+ e-commerce builds &middot; Avg 1.6&times; conversion lift in 90 days &middot; Multi-region ready',
+        ]); ?>
+
 
     <!-- OUTCOMES -->
     <section class="md-sec">

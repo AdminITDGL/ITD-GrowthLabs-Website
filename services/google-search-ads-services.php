@@ -74,6 +74,33 @@
             ["num"=>"48 hr", "lbl"=>"Quote turnaround"],
         ],
     ]); ?>
+    <?php itdgl_render_overview_block([
+            'what'     => 'Google Ads run by senior media buyers &mdash; Search, Shopping, Performance Max, YouTube, Display &mdash; ROAS-tracked, conversion-optimised.',
+            'who'      => [
+                '<strong>D2C brands</strong> scaling beyond &#8377;5L/month ad spend',
+                '<strong>B2B SaaS</strong> teams running pipeline-focused campaigns',
+                '<strong>Local businesses</strong> for lead-gen, calls, store visits + appointment bookings',
+            ],
+            'how'      => [
+                ['title' => 'Audit', 'desc' => 'Existing account audit &mdash; structure, tracking, audience, creative, bidding strategy.'],
+                ['title' => 'Restructure', 'desc' => 'Campaign architecture rebuilt around buyer intent + LTV, not vanity CPC.'],
+                ['title' => 'Launch', 'desc' => 'Conversion tracking + GA4 + server-side, creative shipped, campaigns scaled.'],
+                ['title' => 'Optimise', 'desc' => 'Weekly ROAS + contribution margin review. Negative keyword + audience refinement.'],
+            ],
+            'problems' => [
+                'Google Ads ROAS dropped after migrating to Performance Max',
+                'iOS 14.5+ broke conversion tracking &mdash; need server-side + Enhanced Conversions',
+                'Shopping campaigns spending without sales &mdash; bad product feed + missing structured data',
+                'Branded search getting eaten by competitor ads &mdash; need brand defense strategy',
+            ],
+            'why'      => [
+                ['icon' => 'fas fa-user-tie', 'title' => 'Senior media buyer', 'desc' => '10+ yr Google Ads experience, not a junior media buyer.'],
+                ['icon' => 'fas fa-server', 'title' => 'Server-side tracking', 'desc' => 'Conversion API + GTM SS + Enhanced Conversions live.'],
+                ['icon' => 'fas fa-handshake', 'title' => 'Real ROAS reporting', 'desc' => 'Blended ROAS, contribution margin, true MER weekly.'],
+            ],
+            'proof_metric' => '&#8377;8Cr+ managed Google + Meta ad spend &middot; 4&times;&ndash;7&times; ROAS on mature accounts',
+        ]); ?>
+
 
     <!-- OUTCOMES -->
     <section class="md-sec">
