@@ -261,6 +261,7 @@
                            <ul class="dropdown-menu">
                                <li><a href="/about.php">About Us</a></li>
                                <li><a href="/resources/all-blogs.php">Blog</a></li>
+                               <li><a href="/faqs.php">FAQs</a></li>
                                <li><a href="/careers.php">Careers</a></li>
                                <li><a href="/contact-us.php">Contact Us</a></li>
                            </ul>
