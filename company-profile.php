@@ -6,13 +6,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-    <meta name="description" content="ITD Services — Enterprise Software Engineering. Capability presentation for CIOs, CTOs, banking + financial-services executives. Custom enterprise software, SaaS, AI + OCR, banking-grade applications. Mumbai. Established 2018.">
-    <title>ITD Services &mdash; Enterprise Capability Presentation</title>
+    <meta name="description" content="ITD Services | Company Profile — Enterprise software engineering & digital transformation. Custom enterprise software, SaaS platforms, AI + OCR, quantum computing research, mobile + cloud solutions. Established 2018 · Mumbai · 50+ engineers.">
+    <title>ITD Services | Company Profile</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/company-profile.php" />
     <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
 
-    <meta property="og:title" content="ITD Services &mdash; Enterprise Capability Presentation" />
-    <meta property="og:description" content="Executive presentation deck — enterprise software engineering. Established 2018. 50+ engineers. Production at scale." />
+    <meta property="og:title" content="ITD Services | Company Profile" />
+    <meta property="og:description" content="Enterprise software engineering & digital transformation. Established 2018. 50+ engineers. Production scale." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://itdgrowthlabs.com/company-profile.php" />
     <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
@@ -40,19 +40,19 @@
             {"@type":"Person","name":"Loy Thomas","jobTitle":"Co-Founder, Solution Architect & Client Success"},
             {"@type":"Person","name":"Prashant Chaudhari","jobTitle":"Co-Founder, Business Strategy & Technology"}
         ],
-        "description": "Enterprise software engineering company. Established 2018. Specialises in enterprise software platforms, custom software development, SaaS, AI + OCR, invoice + GST + compliance automation, banking-grade applications, and digital transformation. Part of ITD Group of Companies.",
+        "description": "Enterprise software engineering and digital transformation company. Established 2018 in Mumbai. Specialises in custom enterprise software, SaaS platforms, AI + machine learning, OCR + intelligent document processing, workflow automation, mobile + web + cloud solutions, ERP integration, data analytics and quantum computing research.",
         "numberOfEmployees": {"@type":"QuantitativeValue","minValue":50},
         "address": {"@type":"PostalAddress","streetAddress":"Andheri","addressLocality":"Mumbai","addressRegion":"Maharashtra","postalCode":"400053","addressCountry":"IN"},
         "contactPoint": [{"@type":"ContactPoint","contactType":"sales","email":"info@itdgrowthlabs.com","telephone":"+91-8450978544"}],
-        "knowsAbout": ["Enterprise Software Engineering","Custom Software Development","SaaS Platform Development","OCR + Document Intelligence","Banking Software","Financial Services Technology","Invoice + GST Compliance","Workflow Automation","Mobile + Web Applications","Cloud Engineering","ERP Integration","Digital Transformation"]
+        "knowsAbout": ["Enterprise Software Engineering","Custom Software Development","SaaS Platform Development","Artificial Intelligence","Machine Learning","OCR + Intelligent Document Processing","Workflow Automation","Mobile Application Development","Web Application Development","Cloud Solutions","API + ERP Integration","Data Analytics","DevOps","Quantum Computing Research","Digital Transformation"]
     }
     </script>
 
 <style>
     /* ================================================================
-       ITD Services — Capability Presentation
-       Premium executive slide deck. White minimal theme.
-       Inspirations: Apple Keynote, Linear, Stripe, Microsoft Fluent.
+       ITD Services | Company Profile
+       Executive slide deck. White minimal theme.
+       Inspirations: Accenture, Deloitte Digital, IBM Consulting, Thoughtworks.
        ================================================================ */
     :root {
         --bg:         #ffffff;
@@ -76,10 +76,12 @@
         --green-soft: #d1fae5;
         --rose:       #e11d48;
         --rose-soft:  #ffe4e6;
+        --quantum:    #7c3aed;
+        --quantum-soft:#ede9fe;
 
         --grad-text:  linear-gradient(135deg, #0a0a0a 0%, #4b5563 100%);
         --grad-accent:linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
-        --grad-subtle:linear-gradient(180deg, #ffffff 0%, #f4f6f8 100%);
+        --grad-quantum:linear-gradient(135deg, #7c3aed 0%, #2563eb 100%);
     }
 
     *,*::before,*::after { box-sizing: border-box; }
@@ -105,59 +107,35 @@
     /* ============================================================
        DECK STRUCTURE
        ============================================================ */
-    .deck {
-        position: fixed; inset: 0;
-        overflow: hidden;
-        background: var(--bg);
-    }
+    .deck { position: fixed; inset: 0; overflow: hidden; background: var(--bg); }
     .deck__track {
-        display: flex;
-        height: 100%;
-        will-change: transform;
+        display: flex; height: 100%; will-change: transform;
         transition: transform 0.7s cubic-bezier(0.77, 0, 0.18, 1);
     }
     .slide {
-        flex: 0 0 100vw;
-        height: 100vh;
+        flex: 0 0 100vw; height: 100vh;
         padding: 80px 88px;
         display: flex; flex-direction: column;
         justify-content: center;
-        position: relative;
-        overflow: hidden;
+        position: relative; overflow: hidden;
         background: var(--bg);
     }
-    .slide-inner {
-        width: 100%;
-        max-width: 1240px;
-        margin: 0 auto;
-        position: relative;
-        z-index: 1;
-    }
-    @media (max-width: 900px) {
-        .slide { padding: 80px 28px 100px; }
-    }
-    @media (max-width: 600px) {
-        .slide { padding: 70px 22px 110px; }
-    }
+    .slide-inner { width: 100%; max-width: 1240px; margin: 0 auto; position: relative; z-index: 1; }
+    @media (max-width: 900px) { .slide { padding: 80px 28px 100px; } }
+    @media (max-width: 600px) { .slide { padding: 70px 22px 110px; } }
 
     /* ============================================================
-       TOP CHROME — brand left, slide counter right
+       TOP / BOTTOM CHROME
        ============================================================ */
     .chrome-top {
         position: fixed; top: 0; left: 0; right: 0;
         padding: 22px 32px;
         display: flex; justify-content: space-between; align-items: center;
-        z-index: 50;
-        pointer-events: none;
+        z-index: 50; pointer-events: none;
     }
     .chrome-top > * { pointer-events: auto; }
     .brand { display: flex; align-items: center; gap: 12px; font-weight: 600; font-size: 14px; color: var(--text); }
-    .brand__mark {
-        width: 32px; height: 32px; border-radius: 8px;
-        background: var(--text);
-        color: #fff; font-weight: 800; font-size: 11px; letter-spacing: 0.05em;
-        display: flex; align-items: center; justify-content: center;
-    }
+    .brand__mark { width: 32px; height: 32px; border-radius: 8px; background: var(--text); color: #fff; font-weight: 800; font-size: 11px; letter-spacing: 0.05em; display: flex; align-items: center; justify-content: center; }
     .brand__txt small {
         display: block;
         font-family: 'JetBrains Mono', monospace;
@@ -170,24 +148,10 @@
         color: var(--text-mute); letter-spacing: 0.12em;
         display: flex; align-items: center; gap: 14px;
     }
-    .counter__bar {
-        width: 80px; height: 2px;
-        background: var(--surface-3); border-radius: 1px;
-        overflow: hidden; position: relative;
-    }
-    .counter__fill {
-        position: absolute; top: 0; left: 0; bottom: 0;
-        background: var(--text);
-        transition: width 0.5s cubic-bezier(0.77, 0, 0.18, 1);
-    }
-    @media (max-width: 600px) {
-        .chrome-top { padding: 16px 20px; }
-        .counter__bar { width: 50px; }
-    }
+    .counter__bar { width: 80px; height: 2px; background: var(--surface-3); border-radius: 1px; overflow: hidden; position: relative; }
+    .counter__fill { position: absolute; top: 0; left: 0; bottom: 0; background: var(--text); transition: width 0.5s cubic-bezier(0.77, 0, 0.18, 1); }
+    @media (max-width: 600px) { .chrome-top { padding: 16px 20px; } .counter__bar { width: 50px; } }
 
-    /* ============================================================
-       BOTTOM CHROME — navigation
-       ============================================================ */
     .chrome-bottom {
         position: fixed; bottom: 0; left: 0; right: 0;
         padding: 24px 32px;
@@ -203,8 +167,7 @@
         border: 1px solid var(--line-2);
         color: var(--text);
         display: flex; align-items: center; justify-content: center;
-        cursor: pointer;
-        font-size: 14px;
+        cursor: pointer; font-size: 14px;
         transition: transform .2s ease, border-color .2s ease, background .2s ease;
         box-shadow: 0 1px 2px rgba(0,0,0,0.04);
     }
@@ -219,28 +182,10 @@
         border: 1px solid var(--line);
         border-radius: 30px;
     }
-    .dot {
-        width: 6px; height: 6px; border-radius: 50%;
-        background: var(--text-dim); cursor: pointer;
-        transition: background .2s ease, width .25s ease;
-    }
+    .dot { width: 6px; height: 6px; border-radius: 50%; background: var(--text-dim); cursor: pointer; transition: background .2s ease, width .25s ease; }
     .dot.active { background: var(--text); width: 22px; border-radius: 4px; }
     .dot:hover:not(.active) { background: var(--text-mute); }
-    .nav-cta {
-        display: inline-flex; align-items: center; gap: 8px;
-        padding: 12px 18px; border-radius: 999px;
-        background: var(--text); color: var(--bg) !important;
-        font-size: 13px; font-weight: 600;
-        cursor: pointer; border: none;
-        transition: transform .2s ease, box-shadow .2s ease;
-    }
-    .nav-cta:hover { transform: translateY(-1px); box-shadow: 0 10px 28px rgba(0,0,0,0.12); }
-
-    @media (max-width: 700px) {
-        .chrome-bottom { padding: 16px 20px; }
-        .nav-cta { padding: 10px 14px; font-size: 12px; }
-        .nav-btn { width: 40px; height: 40px; }
-    }
+    @media (max-width: 700px) { .chrome-bottom { padding: 16px 20px; } .nav-btn { width: 40px; height: 40px; } }
 
     /* ============================================================
        SLIDE CONTENT — common
@@ -250,38 +195,31 @@
         font-family: 'JetBrains Mono', monospace;
         font-size: 11px; font-weight: 500;
         letter-spacing: 0.18em; text-transform: uppercase;
-        color: var(--text-4);
-        margin-bottom: 28px;
+        color: var(--text-4); margin-bottom: 28px;
     }
-    .label::before {
-        content: ''; width: 28px; height: 1px;
-        background: var(--text-mute);
-    }
+    .label::before { content: ''; width: 28px; height: 1px; background: var(--text-mute); }
     .label.accent { color: var(--accent); }
     .label.accent::before { background: var(--accent); }
     .label.gold { color: var(--gold); }
     .label.gold::before { background: var(--gold); }
+    .label.quantum { color: var(--quantum); }
+    .label.quantum::before { background: var(--quantum); }
 
     .display-1 { font-size: clamp(48px, 8vw, 116px); line-height: 1.0; letter-spacing: -0.04em; font-weight: 700; }
     .display-2 { font-size: clamp(34px, 5vw, 68px); line-height: 1.08; letter-spacing: -0.03em; font-weight: 700; }
     .display-3 { font-size: clamp(24px, 3vw, 40px); line-height: 1.2; letter-spacing: -0.02em; font-weight: 700; }
     .lead { font-size: clamp(17px, 1.4vw, 22px); line-height: 1.6; color: var(--text-3); font-weight: 400; max-width: 720px; }
 
-    /* Reveal transition */
     .slide-content { opacity: 0; transform: translateY(16px); transition: opacity .6s ease .2s, transform .6s ease .2s; }
     .slide.is-active .slide-content { opacity: 1; transform: translateY(0); }
 
     /* ============================================================
-       SLIDE: COVER (S01)
+       S01 — COVER
        ============================================================ */
-    .cover {
-        background: linear-gradient(180deg, #ffffff 0%, #fafbfc 100%);
-    }
+    .cover { background: linear-gradient(180deg, #ffffff 0%, #fafbfc 100%); }
     .cover::before {
-        content: '';
-        position: absolute; inset: 0;
-        background-image:
-            radial-gradient(rgba(0,0,0,0.025) 1px, transparent 1px);
+        content: ''; position: absolute; inset: 0;
+        background-image: radial-gradient(rgba(0,0,0,0.025) 1px, transparent 1px);
         background-size: 22px 22px;
         mask-image: radial-gradient(ellipse 70% 50% at 50% 50%, #000, transparent 70%);
         opacity: 0.7;
@@ -290,292 +228,132 @@
     .cover__pill {
         display: inline-flex; align-items: center; gap: 10px;
         padding: 7px 16px; border-radius: 30px;
-        background: var(--bg);
-        border: 1px solid var(--line);
+        background: var(--bg); border: 1px solid var(--line);
         font-family: 'JetBrains Mono', monospace;
         font-size: 11px; font-weight: 500; letter-spacing: 0.16em; text-transform: uppercase;
-        color: var(--text-4);
-        margin-bottom: 56px;
+        color: var(--text-4); margin-bottom: 56px;
         box-shadow: 0 1px 2px rgba(0,0,0,0.03);
     }
     .cover__pill__dot { width: 6px; height: 6px; border-radius: 50%; background: var(--green); box-shadow: 0 0 8px rgba(5,150,105,0.4); }
-    .cover__mark {
-        width: 78px; height: 78px; border-radius: 18px;
-        background: var(--text);
-        color: var(--bg); font-weight: 800; font-size: 22px; letter-spacing: 0.04em;
-        display: flex; align-items: center; justify-content: center;
-        margin: 0 auto 40px;
-        box-shadow: 0 24px 60px rgba(0,0,0,0.12);
-    }
+    .cover__mark { width: 78px; height: 78px; border-radius: 18px; background: var(--text); color: var(--bg); font-weight: 800; font-size: 22px; letter-spacing: 0.04em; display: flex; align-items: center; justify-content: center; margin: 0 auto 40px; box-shadow: 0 24px 60px rgba(0,0,0,0.12); }
     .cover h1 { margin-bottom: 24px; }
-    .cover h1 .sub {
-        display: block;
-        font-size: 0.42em;
-        font-weight: 500;
-        color: var(--text-3);
-        letter-spacing: -0.015em;
-        margin-top: 16px;
-    }
-    .cover__meta {
-        display: flex; justify-content: center; gap: 56px;
-        margin-top: 80px;
-        flex-wrap: wrap;
-    }
-    .cover__meta-item {
-        display: flex; flex-direction: column; gap: 4px;
-        font-family: 'JetBrains Mono', monospace;
-        text-align: left;
-    }
-    .cover__meta-item small {
-        font-size: 10px; font-weight: 500; letter-spacing: 0.18em;
-        text-transform: uppercase; color: var(--text-mute);
-    }
-    .cover__meta-item strong {
-        font-size: 14px; font-weight: 600; color: var(--text);
-        letter-spacing: 0;
-    }
+    .cover h1 .sub { display: block; font-size: 0.42em; font-weight: 500; color: var(--text-3); letter-spacing: -0.015em; margin-top: 16px; }
+    .cover__meta { display: flex; justify-content: center; gap: 56px; margin-top: 80px; flex-wrap: wrap; }
+    .cover__meta-item { display: flex; flex-direction: column; gap: 4px; font-family: 'JetBrains Mono', monospace; text-align: left; }
+    .cover__meta-item small { font-size: 10px; font-weight: 500; letter-spacing: 0.18em; text-transform: uppercase; color: var(--text-mute); }
+    .cover__meta-item strong { font-size: 14px; font-weight: 600; color: var(--text); letter-spacing: 0; }
 
     /* ============================================================
-       SLIDE: POSITIONING STATEMENT (S02)
+       S02 — WHO WE ARE (about + leadership combined)
        ============================================================ */
-    .statement {
-        background: var(--bg);
-    }
-    .statement .slide-inner { text-align: center; max-width: 1100px; }
-    .statement__quote {
-        font-size: clamp(28px, 4vw, 52px);
-        line-height: 1.18; letter-spacing: -0.03em;
-        font-weight: 600;
-        color: var(--text); margin: 32px 0;
-    }
-    .statement__quote em { font-style: italic; color: var(--accent); font-weight: 600; }
-    .statement__quote .light { color: var(--text-4); font-weight: 400; }
-
-    /* ============================================================
-       SLIDE: METRICS (S03)
-       ============================================================ */
-    .metrics .slide-inner { text-align: left; }
-    .metrics-grid {
+    .who-grid {
         display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        gap: 0;
-        margin-top: 56px;
-        border-top: 1px solid var(--line);
-        border-left: 1px solid var(--line);
-    }
-    .metric {
-        padding: 40px 36px;
-        border-right: 1px solid var(--line);
-        border-bottom: 1px solid var(--line);
-    }
-    .metric__n {
-        font-size: clamp(52px, 6vw, 88px);
-        font-weight: 700; line-height: 1;
-        letter-spacing: -0.045em;
-        color: var(--text);
-        margin-bottom: 16px;
-        font-feature-settings: 'tnum' 1;
-    }
-    .metric__n .unit { font-size: 0.6em; color: var(--text-3); font-weight: 600; }
-    .metric__lbl {
-        font-family: 'JetBrains Mono', monospace;
-        font-size: 11.5px; font-weight: 500;
-        letter-spacing: 0.16em; text-transform: uppercase;
-        color: var(--text-4);
-    }
-    .metric__sub {
-        margin-top: 10px;
-        font-size: 13px; color: var(--text-4); line-height: 1.5;
-    }
-    @media (max-width: 900px) {
-        .metrics-grid { grid-template-columns: repeat(2, 1fr); }
-        .metric { padding: 28px 24px; }
-        .metric__n { font-size: clamp(40px, 8vw, 56px); }
-    }
-
-    /* ============================================================
-       SLIDE: WHO WE ARE / ABOUT (S04)
-       ============================================================ */
-    .about-grid {
-        display: grid;
-        grid-template-columns: 1.1fr 1fr;
-        gap: 80px;
-        align-items: center;
+        grid-template-columns: 1.05fr 1fr;
+        gap: 64px;
         margin-top: 32px;
+        align-items: start;
     }
-    .about-text p {
-        font-size: clamp(16px, 1.3vw, 18px);
-        line-height: 1.7;
-        color: var(--text-3);
-        margin-bottom: 20px;
-        max-width: 540px;
+    @media (max-width: 980px) { .who-grid { grid-template-columns: 1fr; gap: 36px; } }
+    .who-text p { font-size: clamp(15px, 1.2vw, 17px); line-height: 1.7; color: var(--text-3); margin-bottom: 16px; max-width: 540px; }
+    .who-text p strong { color: var(--text); font-weight: 600; }
+    .who-founders {
+        background: var(--surface-1); border: 1px solid var(--line);
+        border-radius: 18px; padding: 32px;
     }
-    .about-text p strong { color: var(--text); font-weight: 600; }
-    .about-visual {
-        background: var(--surface-1);
-        border: 1px solid var(--line);
-        border-radius: 18px;
-        padding: 44px;
-    }
-    .about-visual h4 {
+    .who-founders h4 {
         font-family: 'JetBrains Mono', monospace;
         font-size: 11px; font-weight: 500;
         letter-spacing: 0.16em; text-transform: uppercase;
-        color: var(--text-4);
-        margin-bottom: 28px;
+        color: var(--text-4); margin-bottom: 22px;
     }
-    .org-chart {
-        display: flex; flex-direction: column; align-items: center;
-        gap: 0;
+    .who-founder {
+        display: flex; align-items: center; gap: 14px;
+        padding: 14px 0; border-top: 1px solid var(--line);
     }
-    .org-node {
-        background: var(--bg);
-        border: 1px solid var(--line-2);
-        border-radius: 12px;
-        padding: 18px 24px;
-        text-align: center;
-        min-width: 220px;
-    }
-    .org-node strong { display: block; font-size: 14.5px; font-weight: 600; color: var(--text); margin-bottom: 2px; }
-    .org-node small {
-        font-family: 'JetBrains Mono', monospace;
-        font-size: 10px; font-weight: 500; letter-spacing: 0.16em;
-        text-transform: uppercase; color: var(--text-mute);
-    }
-    .org-node.parent { background: var(--text); border-color: var(--text); }
-    .org-node.parent strong { color: var(--bg); }
-    .org-node.parent small { color: rgba(255,255,255,0.6); }
-    .org-line { width: 1px; height: 32px; background: var(--line-2); margin: 0; }
-    .org-branch {
-        display: flex; gap: 40px; align-items: flex-start;
-        position: relative; padding-top: 0;
-    }
-    .org-branch::before {
-        content: ''; position: absolute;
-        top: -16px; left: 50%; transform: translateX(-50%);
-        width: calc(50% + 0px); height: 16px;
-        border-left: 1px solid var(--line-2);
-        border-right: 1px solid var(--line-2);
-        border-top: 1px solid var(--line-2);
-        border-radius: 6px 6px 0 0;
-        z-index: -1;
-        width: 70%;
-    }
-    @media (max-width: 900px) {
-        .about-grid { grid-template-columns: 1fr; gap: 36px; }
-        .about-visual { padding: 28px; }
-    }
-
-    /* ============================================================
-       SLIDE: LEADERSHIP (S05)
-       ============================================================ */
-    .leaders {
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        gap: 24px;
-        margin-top: 56px;
-    }
-    .leader {
-        background: var(--bg);
-        border: 1px solid var(--line);
-        border-radius: 18px;
-        padding: 36px 32px;
-        transition: border-color .3s ease, transform .3s ease;
-    }
-    .leader:hover { border-color: var(--text-mute); transform: translateY(-2px); }
-    .leader__avatar {
-        width: 64px; height: 64px; border-radius: 14px;
-        background: var(--surface-2);
-        border: 1px solid var(--line);
+    .who-founder:first-of-type { border-top: 0; padding-top: 0; }
+    .who-founder__avatar {
+        width: 44px; height: 44px; border-radius: 10px;
+        background: var(--bg); border: 1px solid var(--line-2);
         display: flex; align-items: center; justify-content: center;
-        font-size: 22px; font-weight: 700; color: var(--text);
-        letter-spacing: -0.02em;
-        margin-bottom: 24px;
+        font-size: 16px; font-weight: 700; color: var(--text);
     }
-    .leader__role {
+    .who-founder__txt strong { display: block; font-size: 14.5px; font-weight: 600; color: var(--text); margin-bottom: 2px; letter-spacing: -0.01em; }
+    .who-founder__txt small { font-size: 12px; color: var(--text-4); font-weight: 500; }
+    .group-line {
+        margin-top: 22px; padding-top: 22px; border-top: 1px solid var(--line);
         font-family: 'JetBrains Mono', monospace;
-        font-size: 10.5px; font-weight: 600;
-        letter-spacing: 0.14em; text-transform: uppercase;
-        color: var(--accent);
-        margin-bottom: 8px;
-    }
-    .leader h3 { font-size: 24px; font-weight: 700; margin: 0 0 8px; letter-spacing: -0.025em; }
-    .leader__title { font-size: 13px; color: var(--text-4); margin-bottom: 24px; font-weight: 500; }
-    .leader__expertise { display: flex; flex-direction: column; gap: 0; }
-    .leader__expertise li {
-        list-style: none; padding: 12px 0;
-        border-top: 1px solid var(--line);
-        font-size: 13px; color: var(--text-3);
-        display: flex; align-items: center; gap: 10px;
-    }
-    .leader__expertise li::before {
-        content: '';
-        width: 4px; height: 4px; border-radius: 50%;
-        background: var(--text-mute);
-        flex-shrink: 0;
-    }
-    @media (max-width: 900px) {
-        .leaders { grid-template-columns: 1fr; }
+        font-size: 10.5px; letter-spacing: 0.14em; text-transform: uppercase;
+        color: var(--text-mute);
     }
 
     /* ============================================================
-       SLIDE: INDUSTRIES (S07)
+       S03 — ENTERPRISE SOFTWARE EXPERTISE (12 cards)
        ============================================================ */
-    .industries {
-        display: grid;
-        grid-template-columns: repeat(4, 1fr);
-        gap: 16px;
-        margin-top: 56px;
+    .expertise {
+        display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px;
+        margin-top: 40px;
     }
+    .exp-card {
+        background: var(--bg); border: 1px solid var(--line); border-radius: 12px;
+        padding: 22px 20px; min-height: 130px;
+        transition: border-color .25s ease, transform .25s ease, background .25s ease;
+        display: flex; flex-direction: column; justify-content: space-between;
+    }
+    .exp-card:hover { border-color: var(--text-mute); transform: translateY(-2px); background: var(--surface-1); }
+    .exp-card.flagship { background: var(--quantum-soft); border-color: var(--quantum); }
+    .exp-card__icon {
+        width: 36px; height: 36px; border-radius: 9px;
+        background: var(--surface-2); border: 1px solid var(--line);
+        display: flex; align-items: center; justify-content: center;
+        font-size: 15px; color: var(--accent); margin-bottom: 14px;
+    }
+    .exp-card.flagship .exp-card__icon { background: var(--bg); color: var(--quantum); border-color: var(--quantum); }
+    .exp-card__name { font-size: 14.5px; font-weight: 600; color: var(--text); margin: 0 0 4px; letter-spacing: -0.015em; line-height: 1.3; }
+    .exp-card__d { font-size: 11.5px; color: var(--text-4); margin: 0; line-height: 1.45; }
+    .exp-card__tag {
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 9.5px; font-weight: 600;
+        letter-spacing: 0.16em; text-transform: uppercase;
+        color: var(--quantum); margin-bottom: 8px;
+    }
+    @media (max-width: 1080px) { .expertise { grid-template-columns: repeat(3, 1fr); } }
+    @media (max-width: 700px) { .expertise { grid-template-columns: repeat(2, 1fr); } }
+    @media (max-width: 480px) { .expertise { grid-template-columns: 1fr; gap: 10px; } }
+
+    /* ============================================================
+       S04 — INDUSTRIES (12 cards)
+       ============================================================ */
+    .industries { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; margin-top: 40px; }
     .industry {
-        background: var(--bg);
-        border: 1px solid var(--line);
-        border-radius: 14px;
-        padding: 32px 24px;
-        text-align: left;
+        background: var(--bg); border: 1px solid var(--line); border-radius: 12px;
+        padding: 24px 20px;
         transition: border-color .25s ease, transform .25s ease, background .25s ease;
         cursor: default;
     }
     .industry:hover { border-color: var(--text-mute); transform: translateY(-2px); background: var(--surface-1); }
     .industry__num {
         font-family: 'JetBrains Mono', monospace;
-        font-size: 10.5px; font-weight: 500;
+        font-size: 10px; font-weight: 600;
         letter-spacing: 0.16em; color: var(--text-mute);
-        margin-bottom: 28px;
+        margin-bottom: 18px;
     }
-    .industry__icon {
-        width: 36px; height: 36px;
-        margin-bottom: 14px;
-        color: var(--accent);
-        font-size: 22px;
-    }
-    .industry__name { font-size: 15.5px; font-weight: 600; color: var(--text); margin: 0 0 4px; letter-spacing: -0.015em; }
-    .industry__detail { font-size: 12px; color: var(--text-4); margin: 0; line-height: 1.5; }
-    @media (max-width: 900px) {
-        .industries { grid-template-columns: repeat(2, 1fr); }
-    }
-    @media (max-width: 480px) {
-        .industries { grid-template-columns: 1fr; gap: 12px; }
-        .industry { padding: 22px 20px; }
-    }
+    .industry__icon { margin-bottom: 12px; color: var(--accent); font-size: 18px; }
+    .industry__name { font-size: 14.5px; font-weight: 600; color: var(--text); margin: 0 0 3px; letter-spacing: -0.015em; line-height: 1.3; }
+    .industry__detail { font-size: 11.5px; color: var(--text-4); margin: 0; line-height: 1.45; }
+    @media (max-width: 1080px) { .industries { grid-template-columns: repeat(3, 1fr); } }
+    @media (max-width: 700px) { .industries { grid-template-columns: repeat(2, 1fr); } }
+    @media (max-width: 480px) { .industries { grid-template-columns: 1fr; gap: 10px; } }
 
     /* ============================================================
-       SLIDE: CAPABILITY MATRIX (S08)
+       S05 — CAPABILITY MATRIX + Banking-fit callout
        ============================================================ */
     .matrix {
-        display: grid;
-        grid-template-columns: repeat(6, 1fr);
-        gap: 1px;
-        background: var(--line);
-        border: 1px solid var(--line);
-        border-radius: 14px;
-        overflow: hidden;
-        margin-top: 56px;
+        display: grid; grid-template-columns: repeat(6, 1fr); gap: 1px;
+        background: var(--line); border: 1px solid var(--line); border-radius: 14px; overflow: hidden;
+        margin-top: 32px;
     }
     .matrix-cell {
-        background: var(--bg);
-        padding: 22px 20px;
-        min-height: 124px;
+        background: var(--bg); padding: 18px 16px; min-height: 100px;
         display: flex; flex-direction: column; justify-content: space-between;
         transition: background .2s ease;
     }
@@ -584,472 +362,382 @@
         font-family: 'JetBrains Mono', monospace;
         font-size: 10px; font-weight: 600;
         letter-spacing: 0.14em; text-transform: uppercase;
-        color: var(--text-mute);
-        margin-bottom: 12px;
+        color: var(--text-mute); margin-bottom: 10px;
     }
-    .matrix-cell__title {
-        font-size: 14.5px; font-weight: 600;
-        color: var(--text);
-        letter-spacing: -0.015em;
-        line-height: 1.3;
-    }
+    .matrix-cell__title { font-size: 13.5px; font-weight: 600; color: var(--text); letter-spacing: -0.015em; line-height: 1.3; }
     .matrix-cell.header {
         background: var(--surface-2);
         font-family: 'JetBrains Mono', monospace;
         font-size: 11px; font-weight: 600;
         letter-spacing: 0.14em; text-transform: uppercase;
-        color: var(--text);
-        min-height: 48px;
-        justify-content: center;
+        color: var(--text); min-height: 46px; justify-content: center;
     }
     @media (max-width: 1100px) {
         .matrix { grid-template-columns: repeat(3, 1fr); }
         .matrix-cell.header { display: none; }
     }
-    @media (max-width: 600px) {
-        .matrix { grid-template-columns: repeat(2, 1fr); }
+    @media (max-width: 600px) { .matrix { grid-template-columns: repeat(2, 1fr); } }
+
+    .banking-callout {
+        margin-top: 28px;
+        background: linear-gradient(135deg, var(--gold-soft) 0%, #fffbeb 100%);
+        border: 1px solid var(--gold);
+        border-left: 4px solid var(--gold);
+        border-radius: 12px;
+        padding: 22px 28px;
+        display: grid; grid-template-columns: auto 1fr; gap: 20px; align-items: start;
+    }
+    .banking-callout__icon {
+        width: 36px; height: 36px; border-radius: 9px;
+        background: var(--bg); color: var(--gold);
+        display: flex; align-items: center; justify-content: center;
+        font-size: 15px; flex-shrink: 0;
+        border: 1px solid var(--gold);
+    }
+    .banking-callout__txt strong {
+        display: block; font-size: 13.5px; color: var(--text); margin-bottom: 6px;
+        font-weight: 700; letter-spacing: -0.01em;
+    }
+    .banking-callout__txt p {
+        font-size: 13.5px; line-height: 1.6;
+        color: var(--text-2); margin: 0;
+    }
+    @media (max-width: 700px) {
+        .banking-callout { grid-template-columns: 1fr; padding: 18px 20px; }
     }
 
     /* ============================================================
-       SLIDE: TECH STACK VISUAL (S09)
+       S06 — PROPRIETARY SOFTWARE PLATFORMS
        ============================================================ */
-    .stack-viz {
-        display: grid;
-        grid-template-columns: 1fr;
-        gap: 12px;
-        margin-top: 48px;
-        max-width: 1100px;
+    .platforms-intro {
+        background: var(--surface-1); border: 1px solid var(--line);
+        border-radius: 14px; padding: 22px 28px; margin-top: 32px;
     }
+    .platforms-intro p { font-size: 14.5px; line-height: 1.6; color: var(--text-3); margin: 0; max-width: 1000px; }
+    .platforms-intro strong { color: var(--text); font-weight: 600; }
+    .proof-grid { display: grid; grid-template-columns: 1.1fr 1fr; gap: 48px; align-items: start; margin-top: 32px; }
+    .proof-stats { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; max-width: 520px; }
+    .proof-stat { background: var(--bg); border: 1px solid var(--line); border-radius: 12px; padding: 20px 18px; }
+    .proof-stat__n { font-size: clamp(24px, 2.6vw, 36px); font-weight: 700; line-height: 1; letter-spacing: -0.03em; color: var(--text); margin-bottom: 8px; }
+    .proof-stat__lbl { font-family: 'JetBrains Mono', monospace; font-size: 10px; font-weight: 500; letter-spacing: 0.16em; text-transform: uppercase; color: var(--text-4); line-height: 1.4; }
+    .modules-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
+    .module-tile { background: var(--bg); border: 1px solid var(--line); border-radius: 10px; padding: 14px; min-height: 76px; display: flex; flex-direction: column; gap: 8px; }
+    .module-tile__icon { color: var(--accent); font-size: 13px; }
+    .module-tile__t { font-size: 12px; font-weight: 600; color: var(--text); margin: 0; line-height: 1.3; }
+    @media (max-width: 1000px) { .proof-grid { grid-template-columns: 1fr; gap: 28px; } .modules-grid { grid-template-columns: repeat(2, 1fr); } }
+
+    /* ============================================================
+       S07 — TECHNOLOGY STACK (visual layered)
+       ============================================================ */
+    .stack-viz { display: grid; grid-template-columns: 1fr; gap: 10px; margin-top: 32px; }
     .stack-layer {
-        background: var(--bg);
-        border: 1px solid var(--line);
-        border-radius: 12px;
-        padding: 20px 28px;
-        display: grid;
-        grid-template-columns: 200px 1fr;
-        gap: 32px;
-        align-items: center;
+        background: var(--bg); border: 1px solid var(--line); border-radius: 12px;
+        padding: 16px 24px;
+        display: grid; grid-template-columns: 180px 1fr; gap: 24px; align-items: center;
     }
-    .stack-layer__lbl {
-        display: flex; align-items: center; gap: 12px;
-    }
+    .stack-layer__lbl { display: flex; align-items: center; gap: 12px; }
     .stack-layer__lbl__icon {
-        width: 36px; height: 36px; border-radius: 10px;
-        background: var(--surface-2);
-        border: 1px solid var(--line);
+        width: 32px; height: 32px; border-radius: 9px;
+        background: var(--surface-2); border: 1px solid var(--line);
         display: flex; align-items: center; justify-content: center;
-        color: var(--accent); font-size: 14px;
+        color: var(--accent); font-size: 13px;
     }
     .stack-layer__lbl__name {
         font-family: 'JetBrains Mono', monospace;
-        font-size: 11.5px; font-weight: 600;
+        font-size: 11px; font-weight: 600;
         letter-spacing: 0.14em; text-transform: uppercase;
         color: var(--text);
     }
-    .stack-layer__items {
-        display: flex; flex-wrap: wrap; gap: 8px;
-    }
+    .stack-layer__items { display: flex; flex-wrap: wrap; gap: 7px; }
     .stack-chip {
-        padding: 6px 12px;
-        background: var(--surface-1);
-        border: 1px solid var(--line);
+        padding: 5px 11px;
+        background: var(--surface-1); border: 1px solid var(--line);
         border-radius: 6px;
-        font-size: 13px; color: var(--text-2); font-weight: 500;
+        font-size: 12.5px; color: var(--text-2); font-weight: 500;
     }
     @media (max-width: 900px) {
-        .stack-layer { grid-template-columns: 1fr; gap: 16px; padding: 18px 20px; }
+        .stack-layer { grid-template-columns: 1fr; gap: 14px; padding: 14px 18px; }
     }
 
     /* ============================================================
-       SLIDE: ARCHITECTURE (S10) — SVG
+       S08 — DEVELOPMENT PROCESS (methodology)
        ============================================================ */
-    .arch-wrap {
-        background: var(--surface-1);
-        border: 1px solid var(--line);
-        border-radius: 18px;
-        padding: 36px;
-        margin-top: 40px;
-    }
-    .arch-svg { width: 100%; height: auto; display: block; max-height: 60vh; }
-    .arch-box { fill: var(--bg); stroke: var(--line-2); stroke-width: 1; }
-    .arch-box-accent { fill: var(--accent-soft); stroke: var(--accent); stroke-width: 1; }
-    .arch-box-gold { fill: var(--gold-soft); stroke: var(--gold); stroke-width: 1; }
-    .arch-box-rail { fill: var(--surface-2); stroke: var(--line); stroke-width: 1; }
-    .arch-label { font-family: 'Inter', sans-serif; font-size: 13px; font-weight: 600; fill: var(--text); letter-spacing: -0.01em; }
-    .arch-detail { font-family: 'JetBrains Mono', monospace; font-size: 10px; font-weight: 500; fill: var(--text-4); letter-spacing: 0.08em; }
-    .arch-conn { stroke: var(--line-2); stroke-width: 1.2; fill: none; }
-    .arch-conn-active { stroke: var(--accent); stroke-width: 1.5; fill: none; stroke-dasharray: 4 4; }
-    @media (max-width: 800px) { .arch-wrap { padding: 20px; } }
-
-    /* ============================================================
-       SLIDE: AI / OCR (S11) — pipeline diagram
-       ============================================================ */
-    .ocr-pipeline {
-        display: grid;
-        grid-template-columns: repeat(5, 1fr) auto repeat(2, 1fr);
-        gap: 18px;
-        align-items: center;
-        margin-top: 56px;
-    }
-    .ocr-step {
-        background: var(--bg);
-        border: 1px solid var(--line);
-        border-radius: 12px;
-        padding: 24px 20px;
-        text-align: center;
-        position: relative;
-    }
-    .ocr-step.highlight {
-        background: var(--accent-soft);
-        border-color: var(--accent);
-    }
-    .ocr-step__icon {
-        width: 40px; height: 40px; margin: 0 auto 12px;
-        border-radius: 10px;
-        background: var(--surface-2);
-        border: 1px solid var(--line);
-        display: flex; align-items: center; justify-content: center;
-        color: var(--accent); font-size: 16px;
-    }
-    .ocr-step.highlight .ocr-step__icon {
-        background: var(--accent); color: var(--bg); border-color: var(--accent);
-    }
-    .ocr-step__t {
-        font-size: 13px; font-weight: 600; color: var(--text); margin: 0 0 4px;
-    }
-    .ocr-step__d {
-        font-size: 11px; color: var(--text-4); margin: 0; line-height: 1.45;
-    }
-    .ocr-arrow {
-        color: var(--text-mute); font-size: 14px; text-align: center;
-    }
-    .ocr-merge {
-        background: var(--surface-2);
-        border: 1px dashed var(--line-2);
-        border-radius: 999px;
-        padding: 10px 16px;
-        font-family: 'JetBrains Mono', monospace;
-        font-size: 10.5px; font-weight: 600;
-        letter-spacing: 0.14em; text-transform: uppercase;
-        color: var(--text-3);
-        text-align: center;
-    }
-    .ocr-features {
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        gap: 14px;
-        margin-top: 40px;
-    }
-    .ocr-feature {
-        display: flex; align-items: center; gap: 12px;
-        padding: 16px 18px;
-        background: var(--surface-1);
-        border: 1px solid var(--line);
-        border-radius: 12px;
-    }
-    .ocr-feature i { color: var(--green); font-size: 13px; }
-    .ocr-feature span { font-size: 13.5px; color: var(--text-2); font-weight: 500; }
-    @media (max-width: 1100px) {
-        .ocr-pipeline { grid-template-columns: repeat(2, 1fr); }
-        .ocr-arrow, .ocr-merge { grid-column: 1 / -1; }
-        .ocr-merge { padding: 8px 16px; }
-    }
-    @media (max-width: 600px) { .ocr-features { grid-template-columns: 1fr; } }
-
-    /* ============================================================
-       SLIDE: BANKING (S12)
-       ============================================================ */
-    .bank-grid {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        gap: 40px;
-        margin-top: 48px;
-        align-items: start;
-    }
-    .bank-text p { font-size: 17px; line-height: 1.7; color: var(--text-3); margin-bottom: 18px; max-width: 540px; }
-    .bank-text strong { color: var(--text); font-weight: 600; }
-    .bank-caps {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        gap: 10px;
-    }
-    .bank-cap {
-        background: var(--surface-1);
-        border: 1px solid var(--line);
-        border-radius: 12px;
-        padding: 18px 20px;
-    }
-    .bank-cap__num {
-        font-family: 'JetBrains Mono', monospace;
-        font-size: 10.5px; font-weight: 600;
-        letter-spacing: 0.14em; color: var(--gold);
-        margin-bottom: 6px;
-    }
-    .bank-cap__t { font-size: 13.5px; font-weight: 600; color: var(--text); margin: 0 0 4px; line-height: 1.3; }
-    .bank-cap__d { font-size: 11.5px; color: var(--text-4); margin: 0; line-height: 1.45; }
-    @media (max-width: 900px) {
-        .bank-grid { grid-template-columns: 1fr; }
-        .bank-caps { grid-template-columns: 1fr; }
-    }
-
-    /* ============================================================
-       SLIDE: LOGISTICS PROOF (S13)
-       ============================================================ */
-    .proof-grid { display: grid; grid-template-columns: 1.1fr 1fr; gap: 56px; align-items: start; margin-top: 32px; }
-    .proof-stats { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 32px; max-width: 520px; }
-    .proof-stat {
-        background: var(--surface-1);
-        border: 1px solid var(--line);
-        border-radius: 12px;
-        padding: 22px 20px;
-    }
-    .proof-stat__n {
-        font-size: clamp(28px, 3vw, 40px); font-weight: 700;
-        line-height: 1; letter-spacing: -0.03em;
-        color: var(--text);
-        margin-bottom: 8px;
-    }
-    .proof-stat__lbl {
-        font-family: 'JetBrains Mono', monospace;
-        font-size: 10.5px; font-weight: 500;
-        letter-spacing: 0.16em; text-transform: uppercase;
-        color: var(--text-4);
-        line-height: 1.4;
-    }
-    .modules-grid {
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        gap: 10px;
-    }
-    .module-tile {
-        background: var(--bg);
-        border: 1px solid var(--line);
-        border-radius: 10px;
-        padding: 14px 14px;
-        display: flex; flex-direction: column; gap: 8px;
-        text-align: left;
-        min-height: 80px;
-    }
-    .module-tile__icon { color: var(--accent); font-size: 13px; }
-    .module-tile__t { font-size: 12px; font-weight: 600; color: var(--text); margin: 0; line-height: 1.3; }
-    @media (max-width: 1000px) {
-        .proof-grid { grid-template-columns: 1fr; gap: 32px; }
-        .modules-grid { grid-template-columns: repeat(2, 1fr); }
-    }
-
-    /* ============================================================
-       SLIDE: METHODOLOGY (S14)
-       ============================================================ */
-    .method {
-        position: relative; margin-top: 56px;
-    }
+    .method { position: relative; margin-top: 48px; }
     .method__track {
-        display: grid;
-        grid-template-columns: repeat(8, 1fr);
-        gap: 8px;
-        position: relative;
+        display: grid; grid-template-columns: repeat(8, 1fr); gap: 8px; position: relative;
     }
     .method__track::before {
-        content: ''; position: absolute;
-        top: 28px; left: 5%; right: 5%; height: 1px;
+        content: ''; position: absolute; top: 28px; left: 5%; right: 5%; height: 1px;
         background: linear-gradient(90deg, var(--accent) 0%, var(--accent-2) 100%);
         opacity: 0.2;
     }
     .method__step { position: relative; z-index: 1; text-align: left; }
     .method__node {
         width: 56px; height: 56px; border-radius: 50%;
-        background: var(--bg);
-        border: 1.5px solid var(--line-2);
+        background: var(--bg); border: 1.5px solid var(--line-2);
         display: flex; align-items: center; justify-content: center;
-        margin: 0 0 16px;
+        margin: 0 0 14px;
         font-family: 'JetBrains Mono', monospace;
         font-size: 14px; font-weight: 600; color: var(--text);
         transition: border-color .3s ease, box-shadow .3s ease;
     }
-    .method__step:hover .method__node {
-        border-color: var(--accent);
-        box-shadow: 0 0 0 6px var(--accent-soft);
-    }
+    .method__step:hover .method__node { border-color: var(--accent); box-shadow: 0 0 0 6px var(--accent-soft); }
     .method__t { font-size: 14px; font-weight: 600; color: var(--text); margin: 0 0 4px; letter-spacing: -0.01em; }
     .method__d { font-size: 12px; color: var(--text-4); margin: 0; line-height: 1.45; }
-    @media (max-width: 1100px) {
-        .method__track { grid-template-columns: repeat(4, 1fr); gap: 28px; }
-        .method__track::before { display: none; }
-    }
+    @media (max-width: 1100px) { .method__track { grid-template-columns: repeat(4, 1fr); gap: 28px; } .method__track::before { display: none; } }
     @media (max-width: 600px) { .method__track { grid-template-columns: repeat(2, 1fr); } }
 
     /* ============================================================
-       SLIDE: WHY ITD (S15)
+       S09 — CURRENT ENTERPRISE PROJECTS
        ============================================================ */
-    .why-grid {
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        gap: 18px;
-        margin-top: 56px;
+    .projects { display: grid; grid-template-columns: repeat(2, 1fr); gap: 18px; margin-top: 40px; }
+    .project {
+        background: var(--bg); border: 1px solid var(--line); border-radius: 14px;
+        padding: 28px;
+        display: flex; flex-direction: column; gap: 16px;
+        transition: border-color .25s ease, transform .25s ease;
     }
-    .why-card {
-        background: var(--bg);
-        border: 1px solid var(--line);
-        border-radius: 14px;
-        padding: 30px;
+    .project:hover { border-color: var(--text-mute); transform: translateY(-2px); }
+    .project.flagship { background: linear-gradient(135deg, var(--quantum-soft) 0%, var(--bg) 70%); border-color: var(--quantum); }
+    .project__head { display: flex; align-items: flex-start; justify-content: space-between; gap: 14px; }
+    .project__icon {
+        width: 40px; height: 40px; border-radius: 10px;
+        background: var(--surface-2); border: 1px solid var(--line);
+        display: flex; align-items: center; justify-content: center;
+        font-size: 17px; color: var(--accent); flex-shrink: 0;
     }
-    .why-card__n {
+    .project.flagship .project__icon { background: var(--bg); color: var(--quantum); border-color: var(--quantum); }
+    .project__status {
+        display: inline-flex; align-items: center; gap: 6px;
+        padding: 4px 10px; border-radius: 14px;
+        background: var(--green-soft); color: var(--green);
         font-family: 'JetBrains Mono', monospace;
-        font-size: 11px; font-weight: 600;
-        letter-spacing: 0.14em;
-        color: var(--accent);
-        margin-bottom: 16px;
+        font-size: 10px; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase;
+        flex-shrink: 0;
     }
-    .why-card h4 { font-size: 18px; font-weight: 700; color: var(--text); margin: 0 0 10px; letter-spacing: -0.02em; line-height: 1.3; }
+    .project__status__dot { width: 6px; height: 6px; border-radius: 50%; background: var(--green); animation: pulse 2s ease infinite; }
+    @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.4; } }
+    .project__status.development { background: var(--quantum-soft); color: var(--quantum); }
+    .project__status.development .project__status__dot { background: var(--quantum); }
+    .project__status.production { background: var(--accent-soft); color: var(--accent-2); }
+    .project__status.production .project__status__dot { background: var(--accent); }
+    .project h3 { font-size: 18px; font-weight: 700; color: var(--text); margin: 0; letter-spacing: -0.02em; line-height: 1.3; }
+    .project p { font-size: 13.5px; color: var(--text-3); margin: 0; line-height: 1.6; }
+    .project__meta {
+        display: flex; gap: 18px; padding-top: 14px; border-top: 1px solid var(--line);
+        flex-wrap: wrap;
+    }
+    .project__meta-item {
+        display: flex; flex-direction: column; gap: 2px;
+    }
+    .project__meta-item small {
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 9.5px; font-weight: 500; letter-spacing: 0.16em; text-transform: uppercase; color: var(--text-mute);
+    }
+    .project__meta-item strong { font-size: 12.5px; color: var(--text); font-weight: 600; }
+    @media (max-width: 900px) { .projects { grid-template-columns: 1fr; } }
+
+    /* ============================================================
+       S10 — AI, OCR & AUTOMATION
+       ============================================================ */
+    .ocr-pipeline {
+        display: grid;
+        grid-template-columns: repeat(5, 1fr) auto repeat(2, 1fr);
+        gap: 14px; align-items: center; margin-top: 40px;
+    }
+    .ocr-step { background: var(--bg); border: 1px solid var(--line); border-radius: 12px; padding: 20px 16px; text-align: center; }
+    .ocr-step.highlight { background: var(--accent-soft); border-color: var(--accent); }
+    .ocr-step__icon { width: 36px; height: 36px; margin: 0 auto 10px; border-radius: 10px; background: var(--surface-2); border: 1px solid var(--line); display: flex; align-items: center; justify-content: center; color: var(--accent); font-size: 15px; }
+    .ocr-step.highlight .ocr-step__icon { background: var(--accent); color: var(--bg); border-color: var(--accent); }
+    .ocr-step__t { font-size: 12.5px; font-weight: 600; color: var(--text); margin: 0 0 3px; }
+    .ocr-step__d { font-size: 10.5px; color: var(--text-4); margin: 0; line-height: 1.45; }
+    .ocr-arrow { color: var(--text-mute); font-size: 13px; text-align: center; }
+    .ocr-features {
+        display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 32px;
+    }
+    .ocr-feature {
+        display: flex; align-items: center; gap: 12px;
+        padding: 14px 16px;
+        background: var(--surface-1); border: 1px solid var(--line); border-radius: 10px;
+    }
+    .ocr-feature i { color: var(--green); font-size: 12px; }
+    .ocr-feature span { font-size: 12.5px; color: var(--text-2); font-weight: 500; }
+    @media (max-width: 1100px) {
+        .ocr-pipeline { grid-template-columns: repeat(2, 1fr); }
+        .ocr-arrow { grid-column: 1 / -1; transform: rotate(90deg); }
+    }
+    @media (max-width: 600px) { .ocr-features { grid-template-columns: 1fr; } }
+
+    /* ============================================================
+       S11 — QUANTUM COMPUTING INITIATIVE
+       ============================================================ */
+    .quantum-slide {
+        background: linear-gradient(180deg, #ffffff 0%, var(--quantum-soft) 100%);
+    }
+    .quantum-slide::before {
+        content: ''; position: absolute; inset: 0;
+        background-image: radial-gradient(rgba(124,58,237,0.08) 1px, transparent 1px);
+        background-size: 24px 24px;
+        mask-image: radial-gradient(ellipse 60% 50% at 50% 50%, #000, transparent 80%);
+        opacity: 0.7; pointer-events: none;
+    }
+    .quantum-grid {
+        display: grid; grid-template-columns: 1.05fr 1fr;
+        gap: 56px; margin-top: 40px; align-items: center;
+    }
+    .quantum-narrative p { font-size: 16px; line-height: 1.7; color: var(--text-3); margin-bottom: 16px; max-width: 540px; }
+    .quantum-narrative strong { color: var(--text); font-weight: 600; }
+    .quantum-pills { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 24px; }
+    .quantum-pill {
+        display: inline-flex; align-items: center; gap: 6px;
+        padding: 5px 11px; border-radius: 20px;
+        background: var(--bg); border: 1px solid var(--quantum);
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 10.5px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase;
+        color: var(--quantum);
+    }
+    .quantum-pill i { font-size: 9px; }
+    .quantum-visual {
+        background: var(--bg); border: 1px solid var(--line);
+        border-radius: 18px; padding: 36px; position: relative; overflow: hidden;
+    }
+    .quantum-visual::before {
+        content: ''; position: absolute; top: -50%; right: -20%;
+        width: 400px; height: 400px;
+        background: radial-gradient(circle, rgba(124,58,237,0.12), transparent 60%);
+        pointer-events: none;
+    }
+    .quantum-visual h5 {
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 10.5px; font-weight: 600;
+        letter-spacing: 0.14em; text-transform: uppercase;
+        color: var(--text-mute); margin-bottom: 24px;
+    }
+    .quantum-svg { width: 100%; height: auto; display: block; max-height: 320px; }
+    .qbit { fill: var(--quantum-soft); stroke: var(--quantum); stroke-width: 1.5; }
+    .qbit-glow { fill: rgba(124,58,237,0.15); stroke: rgba(124,58,237,0.3); stroke-width: 1; }
+    .qbit-conn { stroke: var(--quantum); stroke-width: 1.2; stroke-dasharray: 3 3; fill: none; opacity: 0.5; }
+    .qbit-label { font-family: 'JetBrains Mono', monospace; font-size: 9px; font-weight: 600; fill: var(--text-4); letter-spacing: 0.1em; }
+    .qbit-data-box { fill: var(--bg); stroke: var(--text-mute); stroke-width: 1; }
+    .qbit-data-label { font-family: 'Inter', sans-serif; font-size: 11px; font-weight: 600; fill: var(--text); }
+
+    .quantum-features {
+        display: grid; grid-template-columns: 1fr 1fr; gap: 10px;
+    }
+    .qf {
+        display: flex; align-items: flex-start; gap: 10px;
+        padding: 10px 0; border-top: 1px solid var(--line);
+    }
+    .qf:first-of-type { border-top: 0; padding-top: 0; }
+    .qf i { color: var(--quantum); font-size: 12px; margin-top: 3px; }
+    .qf span { font-size: 12.5px; color: var(--text-2); line-height: 1.5; }
+    @media (max-width: 980px) {
+        .quantum-grid { grid-template-columns: 1fr; gap: 32px; }
+        .quantum-features { grid-template-columns: 1fr; }
+    }
+
+    /* ============================================================
+       S12 — WHY ITD
+       ============================================================ */
+    .why-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-top: 48px; }
+    .why-card { background: var(--bg); border: 1px solid var(--line); border-radius: 14px; padding: 28px; }
+    .why-card__n { font-family: 'JetBrains Mono', monospace; font-size: 11px; font-weight: 600; letter-spacing: 0.14em; color: var(--accent); margin-bottom: 14px; }
+    .why-card h4 { font-size: 17px; font-weight: 700; color: var(--text); margin: 0 0 10px; letter-spacing: -0.02em; line-height: 1.3; }
     .why-card p { font-size: 13.5px; color: var(--text-3); line-height: 1.6; margin: 0; }
     @media (max-width: 1000px) { .why-grid { grid-template-columns: repeat(2, 1fr); } }
     @media (max-width: 600px) { .why-grid { grid-template-columns: 1fr; } }
 
     /* ============================================================
-       SLIDE: CLIENTS (S16)
+       S13 — COMPANY STATISTICS (animated counters)
+       ============================================================ */
+    .stats-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 0;
+        margin-top: 48px;
+        border-top: 1px solid var(--line);
+        border-left: 1px solid var(--line);
+    }
+    .stat {
+        padding: 36px 32px;
+        border-right: 1px solid var(--line);
+        border-bottom: 1px solid var(--line);
+    }
+    .stat__n {
+        font-size: clamp(44px, 5vw, 76px);
+        font-weight: 700; line-height: 1; letter-spacing: -0.045em;
+        color: var(--text); margin-bottom: 14px;
+        font-feature-settings: 'tnum' 1;
+    }
+    .stat__n .unit { font-size: 0.6em; color: var(--text-3); font-weight: 600; }
+    .stat__lbl { font-family: 'JetBrains Mono', monospace; font-size: 11px; font-weight: 500; letter-spacing: 0.14em; text-transform: uppercase; color: var(--text-4); }
+    .stat__sub { margin-top: 8px; font-size: 12.5px; color: var(--text-4); line-height: 1.5; }
+    @media (max-width: 900px) {
+        .stats-grid { grid-template-columns: repeat(2, 1fr); }
+        .stat { padding: 24px 22px; }
+    }
+
+    /* ============================================================
+       S14 — CLIENT PORTFOLIO
        ============================================================ */
     .clients-wall {
-        display: grid;
-        grid-template-columns: repeat(6, 1fr);
-        gap: 1px;
-        background: var(--line);
-        border: 1px solid var(--line);
-        border-radius: 14px;
-        overflow: hidden;
-        margin-top: 56px;
+        display: grid; grid-template-columns: repeat(6, 1fr); gap: 1px;
+        background: var(--line); border: 1px solid var(--line);
+        border-radius: 14px; overflow: hidden; margin-top: 48px;
     }
-    .client-tile {
-        background: var(--bg);
-        padding: 40px 24px;
-        display: flex; flex-direction: column; align-items: center; justify-content: center;
-        gap: 8px; min-height: 140px;
-    }
-    .client-tile__name {
-        font-size: 17px; font-weight: 700; color: var(--text);
-        letter-spacing: -0.02em;
-    }
-    .client-tile__type {
-        font-family: 'JetBrains Mono', monospace;
-        font-size: 10px; font-weight: 500;
-        letter-spacing: 0.14em; text-transform: uppercase;
-        color: var(--text-mute);
-    }
+    .client-tile { background: var(--bg); padding: 36px 20px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 8px; min-height: 130px; }
+    .client-tile__name { font-size: 17px; font-weight: 700; color: var(--text); letter-spacing: -0.02em; }
+    .client-tile__type { font-family: 'JetBrains Mono', monospace; font-size: 10px; font-weight: 500; letter-spacing: 0.14em; text-transform: uppercase; color: var(--text-mute); }
     @media (max-width: 900px) { .clients-wall { grid-template-columns: repeat(3, 1fr); } }
     @media (max-width: 500px) { .clients-wall { grid-template-columns: repeat(2, 1fr); } }
 
     /* ============================================================
-       SLIDE: CASES (S17)
-       ============================================================ */
-    .case-grid {
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        gap: 18px;
-        margin-top: 48px;
-    }
-    .case {
-        background: var(--bg);
-        border: 1px solid var(--line);
-        border-radius: 14px;
-        padding: 28px;
-        display: flex; flex-direction: column;
-    }
-    .case__tag {
-        display: inline-flex; align-items: center; gap: 8px;
-        padding: 4px 10px; border-radius: 14px;
-        background: var(--accent-soft); color: var(--accent);
-        font-family: 'JetBrains Mono', monospace;
-        font-size: 10px; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase;
-        align-self: flex-start;
-        margin-bottom: 18px;
-    }
-    .case h3 { font-size: 18px; font-weight: 700; color: var(--text); margin: 0 0 16px; line-height: 1.3; letter-spacing: -0.02em; }
-    .case__row { padding: 10px 0; border-top: 1px solid var(--line); }
-    .case__row__lbl {
-        font-family: 'JetBrains Mono', monospace;
-        font-size: 10px; font-weight: 600;
-        letter-spacing: 0.16em; text-transform: uppercase;
-        color: var(--text-mute);
-        margin-bottom: 4px;
-    }
-    .case__row p { font-size: 13px; color: var(--text-2); margin: 0; line-height: 1.5; }
-    @media (max-width: 1000px) { .case-grid { grid-template-columns: 1fr; } }
-
-    /* ============================================================
-       SLIDE: ENGAGEMENT MODEL (S18)
-       ============================================================ */
-    .engagement-grid {
-        display: grid;
-        grid-template-columns: repeat(4, 1fr);
-        gap: 16px;
-        margin-top: 56px;
-    }
-    .eng-step {
-        background: var(--surface-1);
-        border: 1px solid var(--line);
-        border-radius: 14px;
-        padding: 28px 24px;
-    }
-    .eng-step__n {
-        display: inline-flex; align-items: center; justify-content: center;
-        width: 32px; height: 32px; border-radius: 8px;
-        background: var(--text); color: var(--bg);
-        font-family: 'JetBrains Mono', monospace;
-        font-size: 12px; font-weight: 600; letter-spacing: 0.05em;
-        margin-bottom: 18px;
-    }
-    .eng-step h4 { font-size: 16px; font-weight: 700; color: var(--text); margin: 0 0 6px; letter-spacing: -0.015em; }
-    .eng-step p { font-size: 13px; color: var(--text-4); margin: 0; line-height: 1.5; }
-    @media (max-width: 900px) {
-        .engagement-grid { grid-template-columns: repeat(2, 1fr); }
-    }
-    @media (max-width: 500px) {
-        .engagement-grid { grid-template-columns: 1fr; }
-    }
-
-    /* ============================================================
-       SLIDE: CONTACT / FINAL (S19)
+       S15 — CONTACT & NEXT STEPS
        ============================================================ */
     .final { background: linear-gradient(180deg, #ffffff 0%, var(--surface-1) 100%); }
     .final .slide-inner { text-align: center; }
-    .final h2 { margin-bottom: 24px; }
-    .final__sub { font-size: clamp(16px, 1.3vw, 19px); color: var(--text-3); max-width: 620px; margin: 0 auto 56px; line-height: 1.6; }
-    .final__cards {
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        gap: 16px;
-        max-width: 920px;
-        margin: 0 auto 56px;
+    .final h2 { margin-bottom: 18px; }
+    .final__sub { font-size: clamp(15px, 1.2vw, 18px); color: var(--text-3); max-width: 620px; margin: 0 auto 40px; line-height: 1.6; }
+
+    .engage-row {
+        display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-bottom: 40px;
+        max-width: 980px; margin-left: auto; margin-right: auto;
         text-align: left;
     }
-    .final-card {
-        background: var(--bg);
-        border: 1px solid var(--line);
-        border-radius: 14px;
-        padding: 28px;
+    .eng-step { background: var(--surface-1); border: 1px solid var(--line); border-radius: 12px; padding: 20px; }
+    .eng-step__n {
+        display: inline-flex; align-items: center; justify-content: center;
+        width: 28px; height: 28px; border-radius: 7px;
+        background: var(--text); color: var(--bg);
+        font-family: 'JetBrains Mono', monospace; font-size: 11px; font-weight: 600; letter-spacing: 0.05em;
+        margin-bottom: 14px;
     }
-    .final-card__lbl {
-        font-family: 'JetBrains Mono', monospace;
-        font-size: 10.5px; font-weight: 600;
-        letter-spacing: 0.14em; text-transform: uppercase;
-        color: var(--text-mute);
-        margin-bottom: 10px;
+    .eng-step h4 { font-size: 14.5px; font-weight: 700; color: var(--text); margin: 0 0 4px; letter-spacing: -0.01em; }
+    .eng-step p { font-size: 12.5px; color: var(--text-4); margin: 0; line-height: 1.5; }
+    @media (max-width: 900px) { .engage-row { grid-template-columns: repeat(2, 1fr); } }
+    @media (max-width: 500px) { .engage-row { grid-template-columns: 1fr; } }
+
+    .final__cards {
+        display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px;
+        max-width: 920px; margin: 0 auto 32px;
+        text-align: left;
     }
-    .final-card__t { font-size: 16px; font-weight: 600; color: var(--text); margin-bottom: 4px; }
-    .final-card a { font-size: 14px; color: var(--accent); font-weight: 500; }
+    .final-card { background: var(--bg); border: 1px solid var(--line); border-radius: 12px; padding: 22px; }
+    .final-card__lbl { font-family: 'JetBrains Mono', monospace; font-size: 10px; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: var(--text-mute); margin-bottom: 8px; }
+    .final-card__t { font-size: 14.5px; font-weight: 600; color: var(--text); margin-bottom: 4px; }
+    .final-card a { font-size: 13.5px; color: var(--accent); font-weight: 500; }
     .final-card a:hover { text-decoration: underline; }
     .final__cta {
         display: inline-flex; align-items: center; gap: 10px;
-        padding: 16px 28px; border-radius: 999px;
+        padding: 14px 26px; border-radius: 999px;
         background: var(--text); color: var(--bg) !important;
-        font-size: 15px; font-weight: 600;
+        font-size: 14px; font-weight: 600;
         transition: transform .2s ease, box-shadow .2s ease;
     }
-    .final__cta:hover { transform: translateY(-2px); box-shadow: 0 16px 40px rgba(0,0,0,0.15); }
+    .final__cta:hover { transform: translateY(-2px); box-shadow: 0 14px 36px rgba(0,0,0,0.15); }
     @media (max-width: 800px) { .final__cards { grid-template-columns: 1fr; max-width: 480px; } }
 
-    /* ============================================================
-       Keyboard hint
-       ============================================================ */
+    /* Keyboard hint */
     .kbd-hint {
         position: fixed; bottom: 80px; left: 50%; transform: translateX(-50%);
         font-family: 'JetBrains Mono', monospace;
@@ -1059,12 +747,7 @@
         pointer-events: none; z-index: 40;
         display: flex; gap: 12px; align-items: center;
     }
-    .kbd-hint kbd {
-        display: inline-flex; align-items: center; justify-content: center;
-        padding: 3px 8px; border-radius: 5px;
-        background: var(--surface-2); border: 1px solid var(--line);
-        color: var(--text-3); font-family: inherit; font-size: 10px;
-    }
+    .kbd-hint kbd { display: inline-flex; align-items: center; justify-content: center; padding: 3px 8px; border-radius: 5px; background: var(--surface-2); border: 1px solid var(--line); color: var(--text-3); font-family: inherit; font-size: 10px; }
     .kbd-hint.show { opacity: 1; }
 </style>
 </head>
@@ -1078,12 +761,12 @@
         <span class="brand__mark">ITD</span>
         <span class="brand__txt">
             ITD Services
-            <small>Enterprise Capability</small>
+            <small>Company Profile</small>
         </span>
     </a>
     <div class="counter" id="counter">
         <span class="counter__bar"><span class="counter__fill" id="counterFill"></span></span>
-        <span><span id="counterNow">01</span> &middot; <span id="counterTotal">19</span></span>
+        <span><span id="counterNow">01</span> &middot; <span id="counterTotal">15</span></span>
     </div>
 </header>
 
@@ -1092,115 +775,65 @@
     <div class="deck__track" id="track">
 
         <!-- ============================================================
-             SLIDE 01 — COVER
+             S01 — COVER / COMPANY INTRODUCTION
              ============================================================ -->
         <section class="slide cover" data-title="Cover">
             <div class="slide-inner slide-content">
                 <span class="cover__pill">
                     <span class="cover__pill__dot"></span>
-                    Capability Presentation &middot; 2026
+                    Company Profile &middot; 2026
                 </span>
                 <div class="cover__mark">ITD</div>
-                <h1 class="display-1">ITD Services<span class="sub">Enterprise software engineering for mission-critical operations.</span></h1>
+                <h1 class="display-1">ITD Services<span class="sub">Enterprise software engineering &amp; digital transformation.</span></h1>
                 <div class="cover__meta">
                     <div class="cover__meta-item"><small>Established</small><strong>2018</strong></div>
                     <div class="cover__meta-item"><small>Headquarters</small><strong>Andheri, Mumbai</strong></div>
-                    <div class="cover__meta-item"><small>Team</small><strong>50+ Engineers</strong></div>
+                    <div class="cover__meta-item"><small>Engineering</small><strong>50+ Professionals</strong></div>
                     <div class="cover__meta-item"><small>Group</small><strong>ITD Group of Companies</strong></div>
                 </div>
             </div>
         </section>
 
         <!-- ============================================================
-             SLIDE 02 — POSITIONING STATEMENT
+             S02 — WHO WE ARE
              ============================================================ -->
-        <section class="slide statement" data-title="Positioning">
+        <section class="slide" data-title="Who we are">
             <div class="slide-inner slide-content">
-                <div class="label accent" style="justify-content:center;">Who We Are</div>
-                <p class="statement__quote">
-                    <span class="light">We engineer</span>
-                    enterprise software<br>
-                    <span class="light">for</span> banks, financial services, logistics, manufacturing, healthcare<br>
-                    <span class="light">and modern businesses</span>
-                    <em>that need it to actually work.</em>
-                </p>
-            </div>
-        </section>
+                <div class="label">01 / Who we are</div>
+                <h2 class="display-2">An established enterprise<br>technology company.</h2>
 
-        <!-- ============================================================
-             SLIDE 03 — METRICS
-             ============================================================ -->
-        <section class="slide metrics" data-title="At a glance">
-            <div class="slide-inner slide-content">
-                <div class="label">01 / At a glance</div>
-                <h2 class="display-2">Eight years. Production scale.<br>Measurable.</h2>
-                <div class="metrics-grid">
-                    <div class="metric">
-                        <div class="metric__n" data-target="300" data-suffix="+">0</div>
-                        <div class="metric__lbl">Enterprise Clients</div>
-                        <div class="metric__sub">Logistics platform in production</div>
+                <div class="who-grid">
+                    <div class="who-text">
+                        <p><strong>ITD Services</strong> is an enterprise software engineering and digital transformation company established in 2018. We design, build and scale complex enterprise software for growth-stage businesses and large enterprises across multiple industries.</p>
+                        <p>Our team of <strong>50+ in-house technology professionals</strong> &mdash; software architects, developers, UI/UX designers, QA engineers, business analysts and DevOps practitioners &mdash; operates from our headquarters in <strong>Andheri, Mumbai</strong>.</p>
+                        <p>ITD Services is the technology engineering arm of the <strong>ITD Group of Companies</strong> &mdash; which also includes ITD GrowthLabs for digital marketing. Together we serve clients across India, the USA, the UK, the UAE and Australia.</p>
                     </div>
-                    <div class="metric">
-                        <div class="metric__n" data-target="10" data-suffix="M+">0</div>
-                        <div class="metric__lbl">Records Processed</div>
-                        <div class="metric__sub">Shipments + invoices + documents</div>
-                    </div>
-                    <div class="metric">
-                        <div class="metric__n" data-target="50" data-suffix="+">0</div>
-                        <div class="metric__lbl">Technology Professionals</div>
-                        <div class="metric__sub">In-house, permanent team</div>
-                    </div>
-                    <div class="metric">
-                        <div class="metric__n" data-target="100" data-suffix="+">0</div>
-                        <div class="metric__lbl">Projects Delivered</div>
-                        <div class="metric__sub">Custom + product engagements</div>
-                    </div>
-                    <div class="metric">
-                        <div class="metric__n" data-target="99.9" data-suffix="%" data-decimals="1">0</div>
-                        <div class="metric__lbl">Platform Availability</div>
-                        <div class="metric__sub">Production SLA on flagship platform</div>
-                    </div>
-                    <div class="metric">
-                        <div class="metric__n" data-target="7" data-suffix="+">0</div>
-                        <div class="metric__lbl">Years Operating</div>
-                        <div class="metric__sub">Established 2018</div>
-                    </div>
-                </div>
-            </div>
-        </section>
 
-        <!-- ============================================================
-             SLIDE 04 — WHO WE ARE
-             ============================================================ -->
-        <section class="slide" data-title="About">
-            <div class="slide-inner slide-content">
-                <div class="label">02 / About</div>
-                <h2 class="display-2">An engineering company built<br>to ship business-critical software.</h2>
-
-                <div class="about-grid">
-                    <div class="about-text">
-                        <p><strong>ITD Services</strong> was established in 2018 by three engineers &mdash; Ashish, Loy and Prashant &mdash; with a single thesis: India can ship enterprise software at world-class standards when it is run by engineers, not consultants.</p>
-                        <p>Today we operate as the technology engineering arm of the <strong>ITD Group of Companies</strong>, alongside ITD GrowthLabs (digital marketing). Headquartered in Andheri, Mumbai with delivery teams across India.</p>
-                        <p>Our core business is <strong>custom enterprise software engineering</strong> &mdash; banking, finance, logistics, manufacturing, healthcare, retail. Our proprietary logistics platform serves as proof: 300+ enterprise clients in production.</p>
-                    </div>
-                    <div class="about-visual">
-                        <h4>ITD Group Structure</h4>
-                        <div class="org-chart">
-                            <div class="org-node parent">
-                                <strong>ITD Group of Companies</strong>
-                                <small>Parent entity &middot; Mumbai</small>
+                    <div class="who-founders">
+                        <h4>Founders &middot; Engineers by Profession</h4>
+                        <div class="who-founder">
+                            <div class="who-founder__avatar">A</div>
+                            <div class="who-founder__txt">
+                                <strong>Ashish</strong>
+                                <small>Co-Founder &middot; Engineering Leader</small>
                             </div>
-                            <div class="org-line"></div>
-                            <div class="org-branch">
-                                <div class="org-node">
-                                    <strong>ITD Services</strong>
-                                    <small>Technology Engineering</small>
-                                </div>
-                                <div class="org-node">
-                                    <strong>ITD GrowthLabs</strong>
-                                    <small>Digital Marketing</small>
-                                </div>
+                        </div>
+                        <div class="who-founder">
+                            <div class="who-founder__avatar">L</div>
+                            <div class="who-founder__txt">
+                                <strong>Loy Thomas</strong>
+                                <small>Co-Founder &middot; Solution Architect</small>
                             </div>
+                        </div>
+                        <div class="who-founder">
+                            <div class="who-founder__avatar">P</div>
+                            <div class="who-founder__txt">
+                                <strong>Prashant Chaudhari</strong>
+                                <small>Co-Founder &middot; Business Strategy &amp; Technology</small>
+                            </div>
+                        </div>
+                        <div class="group-line">
+                            ITD Group &middot; Mumbai &middot; Established 2018
                         </div>
                     </div>
                 </div>
@@ -1208,165 +841,139 @@
         </section>
 
         <!-- ============================================================
-             SLIDE 05 — LEADERSHIP
+             S03 — OUR ENTERPRISE SOFTWARE EXPERTISE
              ============================================================ -->
-        <section class="slide" data-title="Leadership">
+        <section class="slide" data-title="Enterprise software expertise">
             <div class="slide-inner slide-content">
-                <div class="label">03 / Leadership</div>
-                <h2 class="display-2">Three engineer-founders.</h2>
-                <p class="lead" style="margin-top:16px;">Every enterprise engagement is scoped, owned and escalated by a co-founder or named senior solution architect.</p>
+                <div class="label">02 / Our enterprise software expertise</div>
+                <h2 class="display-2">Twelve engineering disciplines<br>under one roof.</h2>
+                <p class="lead" style="margin-top:16px;">From custom enterprise software to quantum computing research &mdash; engineered, owned and scaled in-house.</p>
 
-                <div class="leaders">
-                    <div class="leader">
-                        <div class="leader__avatar">A</div>
-                        <div class="leader__role">Co-Founder</div>
-                        <h3>Ashish</h3>
-                        <div class="leader__title">Engineering Leader &middot; Platform Architecture</div>
-                        <ul class="leader__expertise">
-                            <li>Enterprise platform architecture</li>
-                            <li>Multi-tenant SaaS at scale</li>
-                            <li>Production operations &middot; SRE</li>
-                            <li>High-volume systems</li>
-                        </ul>
+                <div class="expertise">
+                    <div class="exp-card">
+                        <div>
+                            <div class="exp-card__icon"><i class="fas fa-building-columns"></i></div>
+                            <h4 class="exp-card__name">Enterprise Software Development</h4>
+                            <p class="exp-card__d">Custom enterprise-grade applications</p>
+                        </div>
                     </div>
-                    <div class="leader">
-                        <div class="leader__avatar">L</div>
-                        <div class="leader__role">Co-Founder</div>
-                        <h3>Loy Thomas</h3>
-                        <div class="leader__title">Solution Architect &middot; Technology Solutions</div>
-                        <ul class="leader__expertise">
-                            <li>12+ yrs enterprise technology</li>
-                            <li>Solution architecture + product design</li>
-                            <li>Web, mobile, SaaS, AI engineering</li>
-                            <li>Concept-to-delivery technical excellence</li>
-                        </ul>
+                    <div class="exp-card">
+                        <div>
+                            <div class="exp-card__icon"><i class="fas fa-cloud"></i></div>
+                            <h4 class="exp-card__name">SaaS Product Development</h4>
+                            <p class="exp-card__d">Multi-tenant platforms at scale</p>
+                        </div>
                     </div>
-                    <div class="leader">
-                        <div class="leader__avatar">P</div>
-                        <div class="leader__role">Co-Founder</div>
-                        <h3>Prashant Chaudhari</h3>
-                        <div class="leader__title">Business Strategy &middot; Client Success &middot; Technology</div>
-                        <ul class="leader__expertise">
-                            <li>12+ yrs technology &amp; consulting</li>
-                            <li>Enterprise client strategy</li>
-                            <li>Product consulting &middot; digital transformation</li>
-                            <li>Named engagement owner</li>
-                        </ul>
+                    <div class="exp-card">
+                        <div>
+                            <div class="exp-card__icon"><i class="fas fa-brain"></i></div>
+                            <h4 class="exp-card__name">AI &amp; Machine Learning</h4>
+                            <p class="exp-card__d">ML models + LLM integration</p>
+                        </div>
+                    </div>
+                    <div class="exp-card">
+                        <div>
+                            <div class="exp-card__icon"><i class="fas fa-file-import"></i></div>
+                            <h4 class="exp-card__name">OCR &amp; Document Intelligence</h4>
+                            <p class="exp-card__d">Intelligent document processing</p>
+                        </div>
+                    </div>
+                    <div class="exp-card">
+                        <div>
+                            <div class="exp-card__icon"><i class="fas fa-arrows-spin"></i></div>
+                            <h4 class="exp-card__name">Workflow Automation</h4>
+                            <p class="exp-card__d">Approval engines + business workflow</p>
+                        </div>
+                    </div>
+                    <div class="exp-card">
+                        <div>
+                            <div class="exp-card__icon"><i class="fas fa-mobile-screen-button"></i></div>
+                            <h4 class="exp-card__name">Mobile Application Development</h4>
+                            <p class="exp-card__d">iOS, Android, Flutter, React Native</p>
+                        </div>
+                    </div>
+                    <div class="exp-card">
+                        <div>
+                            <div class="exp-card__icon"><i class="fas fa-window-restore"></i></div>
+                            <h4 class="exp-card__name">Web Application Development</h4>
+                            <p class="exp-card__d">React, Vue, Angular, Next.js</p>
+                        </div>
+                    </div>
+                    <div class="exp-card">
+                        <div>
+                            <div class="exp-card__icon"><i class="fas fa-server"></i></div>
+                            <h4 class="exp-card__name">Cloud Solutions</h4>
+                            <p class="exp-card__d">AWS, Azure, GCP &middot; multi-region</p>
+                        </div>
+                    </div>
+                    <div class="exp-card">
+                        <div>
+                            <div class="exp-card__icon"><i class="fas fa-plug"></i></div>
+                            <h4 class="exp-card__name">API &amp; ERP Integration</h4>
+                            <p class="exp-card__d">SAP, Oracle, Tally + custom</p>
+                        </div>
+                    </div>
+                    <div class="exp-card">
+                        <div>
+                            <div class="exp-card__icon"><i class="fas fa-chart-line"></i></div>
+                            <h4 class="exp-card__name">Data Analytics &amp; Dashboards</h4>
+                            <p class="exp-card__d">BI + operational intelligence</p>
+                        </div>
+                    </div>
+                    <div class="exp-card">
+                        <div>
+                            <div class="exp-card__icon"><i class="fas fa-gears"></i></div>
+                            <h4 class="exp-card__name">DevOps &amp; Deployment</h4>
+                            <p class="exp-card__d">CI/CD, Kubernetes, observability</p>
+                        </div>
+                    </div>
+                    <div class="exp-card flagship">
+                        <div>
+                            <div class="exp-card__tag">Innovation</div>
+                            <div class="exp-card__icon"><i class="fas fa-atom"></i></div>
+                            <h4 class="exp-card__name">Quantum Computing Research</h4>
+                            <p class="exp-card__d">Active US-client engagement</p>
+                        </div>
                     </div>
                 </div>
             </div>
         </section>
 
         <!-- ============================================================
-             SLIDE 06 — WHAT WE DO (one-liner)
+             S04 — INDUSTRIES WE SERVE
              ============================================================ -->
-        <section class="slide statement" data-title="What we do">
+        <section class="slide" data-title="Industries we serve">
             <div class="slide-inner slide-content">
-                <div class="label accent" style="justify-content:center;">04 / What we do</div>
-                <p class="statement__quote">
-                    <span class="light">Software engineering</span>
-                    <em>as a strategic capability.</em><br><br>
-                    <span class="light">Custom enterprise software, SaaS platforms, AI + OCR,<br>workflow automation, digital transformation &mdash; built by engineers, owned by you.</span>
-                </p>
-            </div>
-        </section>
-
-        <!-- ============================================================
-             SLIDE 07 — INDUSTRIES WE SERVE
-             ============================================================ -->
-        <section class="slide" data-title="Industries">
-            <div class="slide-inner slide-content">
-                <div class="label">05 / Industries</div>
-                <h2 class="display-2">Engineering across industries.</h2>
-                <p class="lead" style="margin-top:16px;">Eight years of building enterprise software in regulated, high-volume, multi-stakeholder industries.</p>
+                <div class="label">03 / Industries we serve</div>
+                <h2 class="display-2">Enterprise software<br>across industries.</h2>
+                <p class="lead" style="margin-top:16px;">Banking and financial services, logistics, manufacturing, healthcare and growth-stage enterprises across multiple sectors.</p>
 
                 <div class="industries">
-                    <div class="industry">
-                        <div class="industry__num">01</div>
-                        <i class="fas fa-building-columns industry__icon"></i>
-                        <h4 class="industry__name">Banking &amp; Financial Services</h4>
-                        <p class="industry__detail">Invoice + compliance + workflow + ERP</p>
-                    </div>
-                    <div class="industry">
-                        <div class="industry__num">02</div>
-                        <i class="fas fa-truck-fast industry__icon"></i>
-                        <h4 class="industry__name">Logistics &amp; Supply Chain</h4>
-                        <p class="industry__detail">Multi-tenant SaaS &middot; 300+ clients in production</p>
-                    </div>
-                    <div class="industry">
-                        <div class="industry__num">03</div>
-                        <i class="fas fa-industry industry__icon"></i>
-                        <h4 class="industry__name">Manufacturing</h4>
-                        <p class="industry__detail">Procurement, vendor + production workflows</p>
-                    </div>
-                    <div class="industry">
-                        <div class="industry__num">04</div>
-                        <i class="fas fa-heartbeat industry__icon"></i>
-                        <h4 class="industry__name">Healthcare</h4>
-                        <p class="industry__detail">Audit-grade, DPDP-compliant applications</p>
-                    </div>
-                    <div class="industry">
-                        <div class="industry__num">05</div>
-                        <i class="fas fa-pills industry__icon"></i>
-                        <h4 class="industry__name">Pharmaceuticals</h4>
-                        <p class="industry__detail">Distributor, doctor + regulatory workflows</p>
-                    </div>
-                    <div class="industry">
-                        <div class="industry__num">06</div>
-                        <i class="fas fa-cart-shopping industry__icon"></i>
-                        <h4 class="industry__name">Retail &amp; E-commerce</h4>
-                        <p class="industry__detail">OMS + WMS + payment + last-mile</p>
-                    </div>
-                    <div class="industry">
-                        <div class="industry__num">07</div>
-                        <i class="fas fa-shield-halved industry__icon"></i>
-                        <h4 class="industry__name">Insurance</h4>
-                        <p class="industry__detail">Claims, OCR + AI document workflow</p>
-                    </div>
-                    <div class="industry">
-                        <div class="industry__num">08</div>
-                        <i class="fas fa-graduation-cap industry__icon"></i>
-                        <h4 class="industry__name">Education</h4>
-                        <p class="industry__detail">LMS + admin + student lifecycle systems</p>
-                    </div>
-                    <div class="industry">
-                        <div class="industry__num">09</div>
-                        <i class="fas fa-city industry__icon"></i>
-                        <h4 class="industry__name">Real Estate</h4>
-                        <p class="industry__detail">Portfolio, rent + lease management</p>
-                    </div>
-                    <div class="industry">
-                        <div class="industry__num">10</div>
-                        <i class="fas fa-landmark-flag industry__icon"></i>
-                        <h4 class="industry__name">Government</h4>
-                        <p class="industry__detail">Citizen services + audit + reporting</p>
-                    </div>
-                    <div class="industry">
-                        <div class="industry__num">11</div>
-                        <i class="fas fa-atom industry__icon"></i>
-                        <h4 class="industry__name">Deep-Tech &amp; R&amp;D</h4>
-                        <p class="industry__detail">Scientific data platforms (under NDA)</p>
-                    </div>
-                    <div class="industry">
-                        <div class="industry__num">12</div>
-                        <i class="fas fa-gears industry__icon"></i>
-                        <h4 class="industry__name">Custom Enterprise</h4>
-                        <p class="industry__detail">Bespoke applications &middot; any industry</p>
-                    </div>
+                    <div class="industry"><div class="industry__num">01</div><i class="fas fa-building-columns industry__icon"></i><h4 class="industry__name">Banking &amp; Financial Services</h4><p class="industry__detail">Invoice, compliance, workflow, ERP</p></div>
+                    <div class="industry"><div class="industry__num">02</div><i class="fas fa-truck-fast industry__icon"></i><h4 class="industry__name">Logistics &amp; Supply Chain</h4><p class="industry__detail">Multi-tenant SaaS at scale</p></div>
+                    <div class="industry"><div class="industry__num">03</div><i class="fas fa-industry industry__icon"></i><h4 class="industry__name">Manufacturing</h4><p class="industry__detail">Procurement, vendor, production</p></div>
+                    <div class="industry"><div class="industry__num">04</div><i class="fas fa-heartbeat industry__icon"></i><h4 class="industry__name">Healthcare</h4><p class="industry__detail">Audit-grade compliant applications</p></div>
+                    <div class="industry"><div class="industry__num">05</div><i class="fas fa-pills industry__icon"></i><h4 class="industry__name">Pharmaceuticals</h4><p class="industry__detail">Distributor + regulatory workflows</p></div>
+                    <div class="industry"><div class="industry__num">06</div><i class="fas fa-cart-shopping industry__icon"></i><h4 class="industry__name">Retail &amp; E-commerce</h4><p class="industry__detail">OMS, WMS, payment, last-mile</p></div>
+                    <div class="industry"><div class="industry__num">07</div><i class="fas fa-shield-halved industry__icon"></i><h4 class="industry__name">Insurance</h4><p class="industry__detail">Claims + OCR document workflows</p></div>
+                    <div class="industry"><div class="industry__num">08</div><i class="fas fa-graduation-cap industry__icon"></i><h4 class="industry__name">Education</h4><p class="industry__detail">LMS + student lifecycle systems</p></div>
+                    <div class="industry"><div class="industry__num">09</div><i class="fas fa-city industry__icon"></i><h4 class="industry__name">Real Estate</h4><p class="industry__detail">Portfolio, rent + lease management</p></div>
+                    <div class="industry"><div class="industry__num">10</div><i class="fas fa-landmark-flag industry__icon"></i><h4 class="industry__name">Government</h4><p class="industry__detail">Citizen services + audit + reporting</p></div>
+                    <div class="industry"><div class="industry__num">11</div><i class="fas fa-atom industry__icon"></i><h4 class="industry__name">Deep-Tech &amp; R&amp;D</h4><p class="industry__detail">Scientific data platforms (NDA)</p></div>
+                    <div class="industry"><div class="industry__num">12</div><i class="fas fa-gears industry__icon"></i><h4 class="industry__name">Custom Enterprise</h4><p class="industry__detail">Bespoke applications &middot; any industry</p></div>
                 </div>
             </div>
         </section>
 
         <!-- ============================================================
-             SLIDE 08 — CAPABILITY MATRIX
+             S05 — ENTERPRISE TECHNOLOGY CAPABILITIES + Banking callout
              ============================================================ -->
-        <section class="slide" data-title="Capabilities">
+        <section class="slide" data-title="Enterprise Technology Capabilities">
             <div class="slide-inner slide-content">
-                <div class="label">06 / Enterprise Capability Matrix</div>
-                <h2 class="display-2">Engineering capabilities across the enterprise stack.</h2>
+                <div class="label">04 / Enterprise Technology Capabilities</div>
+                <h2 class="display-2">Engineering capabilities across<br>the enterprise stack.</h2>
 
                 <div class="matrix">
-                    <!-- header row -->
                     <div class="matrix-cell header">A / App Engineering</div>
                     <div class="matrix-cell header">B / AI + OCR</div>
                     <div class="matrix-cell header">C / Finance + GST</div>
@@ -1374,7 +981,6 @@
                     <div class="matrix-cell header">E / Security</div>
                     <div class="matrix-cell header">F / Data + BI</div>
 
-                    <!-- Row 1 -->
                     <div class="matrix-cell"><div class="matrix-cell__cat">A.01</div><div class="matrix-cell__title">Enterprise Software Development</div></div>
                     <div class="matrix-cell"><div class="matrix-cell__cat">B.01</div><div class="matrix-cell__title">OCR + Document Intelligence</div></div>
                     <div class="matrix-cell"><div class="matrix-cell__cat">C.01</div><div class="matrix-cell__title">Invoice Management</div></div>
@@ -1382,7 +988,6 @@
                     <div class="matrix-cell"><div class="matrix-cell__cat">E.01</div><div class="matrix-cell__title">Role-Based Access Control</div></div>
                     <div class="matrix-cell"><div class="matrix-cell__cat">F.01</div><div class="matrix-cell__title">Operational Dashboards</div></div>
 
-                    <!-- Row 2 -->
                     <div class="matrix-cell"><div class="matrix-cell__cat">A.02</div><div class="matrix-cell__title">Custom Business Applications</div></div>
                     <div class="matrix-cell"><div class="matrix-cell__cat">B.02</div><div class="matrix-cell__title">Invoice Extraction</div></div>
                     <div class="matrix-cell"><div class="matrix-cell__cat">C.02</div><div class="matrix-cell__title">Rent Invoice Management</div></div>
@@ -1390,321 +995,42 @@
                     <div class="matrix-cell"><div class="matrix-cell__cat">E.02</div><div class="matrix-cell__title">Authentication + SSO</div></div>
                     <div class="matrix-cell"><div class="matrix-cell__cat">F.02</div><div class="matrix-cell__title">Business Intelligence</div></div>
 
-                    <!-- Row 3 -->
                     <div class="matrix-cell"><div class="matrix-cell__cat">A.03</div><div class="matrix-cell__title">SaaS Platforms</div></div>
                     <div class="matrix-cell"><div class="matrix-cell__cat">B.03</div><div class="matrix-cell__title">Workflow Automation</div></div>
-                    <div class="matrix-cell"><div class="matrix-cell__cat">C.03</div><div class="matrix-cell__title">Vendor Management</div></div>
+                    <div class="matrix-cell"><div class="matrix-cell__cat">C.03</div><div class="matrix-cell__title">Vendor Invoice Management</div></div>
                     <div class="matrix-cell"><div class="matrix-cell__cat">D.03</div><div class="matrix-cell__title">Third-Party Integration</div></div>
-                    <div class="matrix-cell"><div class="matrix-cell__cat">E.03</div><div class="matrix-cell__title">Audit Log Engineering</div></div>
-                    <div class="matrix-cell"><div class="matrix-cell__cat">F.03</div><div class="matrix-cell__title">Real-time Analytics</div></div>
+                    <div class="matrix-cell"><div class="matrix-cell__cat">E.03</div><div class="matrix-cell__title">Audit Logging</div></div>
+                    <div class="matrix-cell"><div class="matrix-cell__cat">F.03</div><div class="matrix-cell__title">Reports &amp; Analytics</div></div>
 
-                    <!-- Row 4 -->
                     <div class="matrix-cell"><div class="matrix-cell__cat">A.04</div><div class="matrix-cell__title">Mobile Applications</div></div>
                     <div class="matrix-cell"><div class="matrix-cell__cat">B.04</div><div class="matrix-cell__title">Approval Workflows</div></div>
-                    <div class="matrix-cell"><div class="matrix-cell__cat">C.04</div><div class="matrix-cell__title">GST Computation</div></div>
+                    <div class="matrix-cell"><div class="matrix-cell__cat">C.04</div><div class="matrix-cell__title">GST Computation &amp; Compliance</div></div>
                     <div class="matrix-cell"><div class="matrix-cell__cat">D.04</div><div class="matrix-cell__title">Notification Engines</div></div>
                     <div class="matrix-cell"><div class="matrix-cell__cat">E.04</div><div class="matrix-cell__title">Encryption + Data Residency</div></div>
                     <div class="matrix-cell"><div class="matrix-cell__cat">F.04</div><div class="matrix-cell__title">Data Pipelines + ETL</div></div>
                 </div>
-            </div>
-        </section>
 
-        <!-- ============================================================
-             SLIDE 09 — TECHNOLOGY STACK
-             ============================================================ -->
-        <section class="slide" data-title="Technology stack">
-            <div class="slide-inner slide-content">
-                <div class="label">07 / Technology stack</div>
-                <h2 class="display-2">Full-stack capability across modern enterprise technology.</h2>
-
-                <div class="stack-viz">
-                    <div class="stack-layer">
-                        <div class="stack-layer__lbl">
-                            <div class="stack-layer__lbl__icon"><i class="fas fa-window-maximize"></i></div>
-                            <span class="stack-layer__lbl__name">Frontend</span>
-                        </div>
-                        <div class="stack-layer__items">
-                            <span class="stack-chip">React + Next.js</span>
-                            <span class="stack-chip">Vue + Nuxt</span>
-                            <span class="stack-chip">Angular</span>
-                            <span class="stack-chip">TypeScript</span>
-                            <span class="stack-chip">Tailwind</span>
-                            <span class="stack-chip">Material UI</span>
-                        </div>
-                    </div>
-                    <div class="stack-layer">
-                        <div class="stack-layer__lbl">
-                            <div class="stack-layer__lbl__icon"><i class="fas fa-server"></i></div>
-                            <span class="stack-layer__lbl__name">Backend</span>
-                        </div>
-                        <div class="stack-layer__items">
-                            <span class="stack-chip">Node.js</span>
-                            <span class="stack-chip">Python (Django, FastAPI)</span>
-                            <span class="stack-chip">PHP (Laravel)</span>
-                            <span class="stack-chip">Java + Spring</span>
-                            <span class="stack-chip">Go</span>
-                            <span class="stack-chip">.NET</span>
-                        </div>
-                    </div>
-                    <div class="stack-layer">
-                        <div class="stack-layer__lbl">
-                            <div class="stack-layer__lbl__icon"><i class="fas fa-mobile-screen-button"></i></div>
-                            <span class="stack-layer__lbl__name">Mobile</span>
-                        </div>
-                        <div class="stack-layer__items">
-                            <span class="stack-chip">iOS (Swift)</span>
-                            <span class="stack-chip">Android (Kotlin)</span>
-                            <span class="stack-chip">Flutter</span>
-                            <span class="stack-chip">React Native</span>
-                        </div>
-                    </div>
-                    <div class="stack-layer">
-                        <div class="stack-layer__lbl">
-                            <div class="stack-layer__lbl__icon"><i class="fas fa-cloud"></i></div>
-                            <span class="stack-layer__lbl__name">Cloud + DevOps</span>
-                        </div>
-                        <div class="stack-layer__items">
-                            <span class="stack-chip">AWS</span>
-                            <span class="stack-chip">Azure</span>
-                            <span class="stack-chip">Google Cloud</span>
-                            <span class="stack-chip">Docker + Kubernetes</span>
-                            <span class="stack-chip">Terraform</span>
-                            <span class="stack-chip">CI/CD</span>
-                        </div>
-                    </div>
-                    <div class="stack-layer">
-                        <div class="stack-layer__lbl">
-                            <div class="stack-layer__lbl__icon"><i class="fas fa-database"></i></div>
-                            <span class="stack-layer__lbl__name">Data + Cache</span>
-                        </div>
-                        <div class="stack-layer__items">
-                            <span class="stack-chip">PostgreSQL</span>
-                            <span class="stack-chip">MySQL</span>
-                            <span class="stack-chip">MongoDB</span>
-                            <span class="stack-chip">Redis</span>
-                            <span class="stack-chip">ClickHouse</span>
-                            <span class="stack-chip">Elasticsearch</span>
-                        </div>
-                    </div>
-                    <div class="stack-layer">
-                        <div class="stack-layer__lbl">
-                            <div class="stack-layer__lbl__icon"><i class="fas fa-brain"></i></div>
-                            <span class="stack-layer__lbl__name">AI &middot; OCR &middot; ML</span>
-                        </div>
-                        <div class="stack-layer__items">
-                            <span class="stack-chip">OpenAI + Claude</span>
-                            <span class="stack-chip">AWS Textract</span>
-                            <span class="stack-chip">Google Document AI</span>
-                            <span class="stack-chip">LangChain</span>
-                            <span class="stack-chip">PyTorch</span>
-                            <span class="stack-chip">TensorFlow</span>
-                        </div>
-                    </div>
-                    <div class="stack-layer">
-                        <div class="stack-layer__lbl">
-                            <div class="stack-layer__lbl__icon"><i class="fas fa-plug"></i></div>
-                            <span class="stack-layer__lbl__name">Integration</span>
-                        </div>
-                        <div class="stack-layer__items">
-                            <span class="stack-chip">SAP &middot; Oracle</span>
-                            <span class="stack-chip">Tally &middot; Zoho</span>
-                            <span class="stack-chip">Salesforce</span>
-                            <span class="stack-chip">Razorpay &middot; Stripe</span>
-                            <span class="stack-chip">Twilio &middot; SendGrid</span>
-                            <span class="stack-chip">WhatsApp Business</span>
-                        </div>
+                <div class="banking-callout">
+                    <div class="banking-callout__icon"><i class="fas fa-building-columns"></i></div>
+                    <div class="banking-callout__txt">
+                        <strong>Banking &amp; Financial Services alignment</strong>
+                        <p>Our existing enterprise software capabilities closely align with the requirements of the banking and financial services industry. We have the technical expertise to design and develop customized enterprise solutions for banks and financial institutions &mdash; these enterprise modules can be customized and extended to meet banking-specific workflows and compliance requirements.</p>
                     </div>
                 </div>
             </div>
         </section>
 
         <!-- ============================================================
-             SLIDE 10 — ENTERPRISE ARCHITECTURE (SVG)
+             S06 — PROPRIETARY SOFTWARE PLATFORMS
              ============================================================ -->
-        <section class="slide" data-title="Architecture">
+        <section class="slide" data-title="Proprietary Software Platforms">
             <div class="slide-inner slide-content">
-                <div class="label">08 / Reference Architecture</div>
-                <h2 class="display-2">A layered architecture for scale, security and integration.</h2>
+                <div class="label">05 / Proprietary Software Platforms</div>
+                <h2 class="display-2">Enterprise platforms we have<br>built, scaled and operate.</h2>
 
-                <div class="arch-wrap">
-                    <svg class="arch-svg" viewBox="0 0 1100 600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Enterprise reference architecture">
-                        <!-- Layer 1: Users -->
-                        <rect x="430" y="14" width="240" height="46" rx="8" class="arch-box-accent"/>
-                        <text x="550" y="40" text-anchor="middle" class="arch-label">Users</text>
-                        <text x="550" y="55" text-anchor="middle" class="arch-detail">CUSTOMERS &middot; INTERNAL &middot; PARTNERS</text>
-                        <line x1="550" y1="60" x2="550" y2="84" class="arch-conn-active"/>
-
-                        <!-- Layer 2: Channel -->
-                        <rect x="230" y="84" width="200" height="56" rx="8" class="arch-box"/>
-                        <text x="330" y="110" text-anchor="middle" class="arch-label">Web Application</text>
-                        <text x="330" y="125" text-anchor="middle" class="arch-detail">REACT &middot; NEXT.JS</text>
-
-                        <rect x="450" y="84" width="200" height="56" rx="8" class="arch-box"/>
-                        <text x="550" y="110" text-anchor="middle" class="arch-label">Mobile Apps</text>
-                        <text x="550" y="125" text-anchor="middle" class="arch-detail">iOS &middot; ANDROID &middot; FLUTTER</text>
-
-                        <rect x="670" y="84" width="200" height="56" rx="8" class="arch-box"/>
-                        <text x="770" y="110" text-anchor="middle" class="arch-label">Customer Portal</text>
-                        <text x="770" y="125" text-anchor="middle" class="arch-detail">SELF-SERVE &middot; SSO</text>
-
-                        <line x1="330" y1="140" x2="550" y2="170" class="arch-conn"/>
-                        <line x1="550" y1="140" x2="550" y2="170" class="arch-conn-active"/>
-                        <line x1="770" y1="140" x2="550" y2="170" class="arch-conn"/>
-
-                        <!-- Layer 3: API Layer -->
-                        <rect x="270" y="170" width="560" height="50" rx="8" class="arch-box-accent"/>
-                        <text x="550" y="195" text-anchor="middle" class="arch-label">API Gateway &middot; REST + GraphQL + WebSockets</text>
-                        <text x="550" y="210" text-anchor="middle" class="arch-detail">AUTH &middot; RATE-LIMIT &middot; OBSERVABILITY</text>
-                        <line x1="550" y1="220" x2="550" y2="245" class="arch-conn-active"/>
-
-                        <!-- Layer 4: Business Logic + AI -->
-                        <rect x="150" y="245" width="240" height="56" rx="8" class="arch-box"/>
-                        <text x="270" y="271" text-anchor="middle" class="arch-label">Business Logic</text>
-                        <text x="270" y="286" text-anchor="middle" class="arch-detail">DOMAIN &middot; WORKFLOW ENGINE</text>
-
-                        <rect x="410" y="245" width="280" height="56" rx="8" class="arch-box-gold"/>
-                        <text x="550" y="271" text-anchor="middle" class="arch-label">AI + OCR Engine</text>
-                        <text x="550" y="286" text-anchor="middle" class="arch-detail">EXTRACTION &middot; ML &middot; LLM</text>
-
-                        <rect x="710" y="245" width="240" height="56" rx="8" class="arch-box"/>
-                        <text x="830" y="271" text-anchor="middle" class="arch-label">Identity + Auth</text>
-                        <text x="830" y="286" text-anchor="middle" class="arch-detail">RBAC &middot; SSO &middot; AUDIT</text>
-
-                        <line x1="270" y1="301" x2="550" y2="330" class="arch-conn"/>
-                        <line x1="550" y1="301" x2="550" y2="330" class="arch-conn-active"/>
-                        <line x1="830" y1="301" x2="550" y2="330" class="arch-conn"/>
-
-                        <!-- Layer 5: Data -->
-                        <rect x="150" y="330" width="220" height="56" rx="8" class="arch-box"/>
-                        <text x="260" y="356" text-anchor="middle" class="arch-label">Relational DB</text>
-                        <text x="260" y="371" text-anchor="middle" class="arch-detail">POSTGRESQL &middot; MYSQL</text>
-
-                        <rect x="390" y="330" width="320" height="56" rx="8" class="arch-box-accent"/>
-                        <text x="550" y="356" text-anchor="middle" class="arch-label">Data Layer + Cache</text>
-                        <text x="550" y="371" text-anchor="middle" class="arch-detail">REDIS &middot; CLICKHOUSE &middot; ELASTIC</text>
-
-                        <rect x="730" y="330" width="220" height="56" rx="8" class="arch-box"/>
-                        <text x="840" y="356" text-anchor="middle" class="arch-label">Object Storage</text>
-                        <text x="840" y="371" text-anchor="middle" class="arch-detail">S3 &middot; BLOB &middot; CDN</text>
-
-                        <line x1="260" y1="386" x2="550" y2="415" class="arch-conn"/>
-                        <line x1="550" y1="386" x2="550" y2="415" class="arch-conn-active"/>
-                        <line x1="840" y1="386" x2="550" y2="415" class="arch-conn"/>
-
-                        <!-- Layer 6: External Integration -->
-                        <rect x="120" y="415" width="200" height="48" rx="8" class="arch-box"/>
-                        <text x="220" y="438" text-anchor="middle" class="arch-label">ERP Systems</text>
-                        <text x="220" y="453" text-anchor="middle" class="arch-detail">SAP &middot; ORACLE &middot; TALLY</text>
-
-                        <rect x="340" y="415" width="200" height="48" rx="8" class="arch-box"/>
-                        <text x="440" y="438" text-anchor="middle" class="arch-label">Payment + GST</text>
-                        <text x="440" y="453" text-anchor="middle" class="arch-detail">RAZORPAY &middot; STRIPE &middot; IRP</text>
-
-                        <rect x="560" y="415" width="200" height="48" rx="8" class="arch-box"/>
-                        <text x="660" y="438" text-anchor="middle" class="arch-label">Communications</text>
-                        <text x="660" y="453" text-anchor="middle" class="arch-detail">TWILIO &middot; WATI &middot; SENDGRID</text>
-
-                        <rect x="780" y="415" width="200" height="48" rx="8" class="arch-box"/>
-                        <text x="880" y="438" text-anchor="middle" class="arch-label">3rd Party APIs</text>
-                        <text x="880" y="453" text-anchor="middle" class="arch-detail">FEEDS &middot; PARTNERS</text>
-
-                        <line x1="550" y1="463" x2="550" y2="490" class="arch-conn-active"/>
-
-                        <!-- Layer 7: Outputs -->
-                        <rect x="200" y="490" width="220" height="48" rx="8" class="arch-box-gold"/>
-                        <text x="310" y="513" text-anchor="middle" class="arch-label">Reports &amp; BI</text>
-                        <text x="310" y="528" text-anchor="middle" class="arch-detail">DASHBOARDS &middot; ANALYTICS</text>
-
-                        <rect x="440" y="490" width="220" height="48" rx="8" class="arch-box-gold"/>
-                        <text x="550" y="513" text-anchor="middle" class="arch-label">Notifications</text>
-                        <text x="550" y="528" text-anchor="middle" class="arch-detail">EMAIL &middot; SMS &middot; WHATSAPP</text>
-
-                        <rect x="680" y="490" width="220" height="48" rx="8" class="arch-box-gold"/>
-                        <text x="790" y="513" text-anchor="middle" class="arch-label">Audit + Compliance</text>
-                        <text x="790" y="528" text-anchor="middle" class="arch-detail">LOGS &middot; RETENTION</text>
-
-                        <!-- Side rails -->
-                        <rect x="20" y="170" width="80" height="368" rx="8" class="arch-box-rail"/>
-                        <text x="60" y="354" text-anchor="middle" class="arch-detail" transform="rotate(-90 60 354)">SECURITY &middot; ENCRYPTION &middot; DPDP / GDPR</text>
-
-                        <rect x="1000" y="170" width="80" height="368" rx="8" class="arch-box-rail"/>
-                        <text x="1040" y="354" text-anchor="middle" class="arch-detail" transform="rotate(-90 1040 354)">OBSERVABILITY &middot; LOGS &middot; METRICS &middot; SLO</text>
-
-                        <!-- Footer band -->
-                        <rect x="150" y="555" width="800" height="36" rx="8" class="arch-box-rail"/>
-                        <text x="550" y="578" text-anchor="middle" class="arch-detail">CLOUD INFRASTRUCTURE &middot; AWS &middot; AZURE &middot; GCP &middot; KUBERNETES &middot; CI/CD</text>
-                    </svg>
+                <div class="platforms-intro">
+                    <p>We have built and operate a <strong>proprietary multi-tenant enterprise platform</strong> for the logistics industry &mdash; serving <strong>300+ enterprise clients</strong> in production with millions of records processed. The platform <strong>demonstrates our ability to design, develop and scale complex enterprise-grade software</strong>, and the same architectural discipline, security posture and engineering rigor extends to every custom enterprise build we deliver.</p>
                 </div>
-            </div>
-        </section>
-
-        <!-- ============================================================
-             SLIDE 11 — AI + OCR PIPELINE
-             ============================================================ -->
-        <section class="slide" data-title="AI + OCR">
-            <div class="slide-inner slide-content">
-                <div class="label gold">09 / AI + Document Intelligence</div>
-                <h2 class="display-2">OCR + AI document intelligence in production.</h2>
-
-                <div class="ocr-pipeline">
-                    <div class="ocr-step"><div class="ocr-step__icon"><i class="fas fa-file-arrow-up"></i></div><h5 class="ocr-step__t">Ingest</h5><p class="ocr-step__d">Multi-format documents</p></div>
-                    <div class="ocr-arrow"><i class="fas fa-arrow-right"></i></div>
-                    <div class="ocr-step highlight"><div class="ocr-step__icon"><i class="fas fa-magnifying-glass-chart"></i></div><h5 class="ocr-step__t">OCR + ML</h5><p class="ocr-step__d">Extract + classify</p></div>
-                    <div class="ocr-arrow"><i class="fas fa-arrow-right"></i></div>
-                    <div class="ocr-step"><div class="ocr-step__icon"><i class="fas fa-check-double"></i></div><h5 class="ocr-step__t">Validate</h5><p class="ocr-step__d">GSTIN + tax + match</p></div>
-                    <div class="ocr-arrow"><i class="fas fa-arrow-right"></i></div>
-                    <div class="ocr-step"><div class="ocr-step__icon"><i class="fas fa-arrows-spin"></i></div><h5 class="ocr-step__t">Route</h5><p class="ocr-step__d">Workflow + approvals</p></div>
-                    <div class="ocr-arrow"><i class="fas fa-arrow-right"></i></div>
-                    <div class="ocr-step"><div class="ocr-step__icon"><i class="fas fa-database"></i></div><h5 class="ocr-step__t">ERP Push</h5><p class="ocr-step__d">SAP &middot; Oracle &middot; Tally</p></div>
-                </div>
-
-                <div class="ocr-features">
-                    <div class="ocr-feature"><i class="fas fa-check-circle"></i><span><strong>&gt; 95% extraction accuracy</strong> on standard layouts</span></div>
-                    <div class="ocr-feature"><i class="fas fa-check-circle"></i><span><strong>Vendor + GSTIN recognition</strong> with master reconciliation</span></div>
-                    <div class="ocr-feature"><i class="fas fa-check-circle"></i><span><strong>Confidence scoring</strong> + human-in-the-loop review queue</span></div>
-                    <div class="ocr-feature"><i class="fas fa-check-circle"></i><span><strong>3-way match</strong> &mdash; PO + GRN + invoice</span></div>
-                    <div class="ocr-feature"><i class="fas fa-check-circle"></i><span><strong>LLM integration</strong> &mdash; OpenAI + Claude where appropriate</span></div>
-                    <div class="ocr-feature"><i class="fas fa-check-circle"></i><span><strong>Audit-traceable</strong> &mdash; every action logged + signed</span></div>
-                </div>
-            </div>
-        </section>
-
-        <!-- ============================================================
-             SLIDE 12 — BANKING SOLUTION
-             ============================================================ -->
-        <section class="slide" data-title="Banking solution">
-            <div class="slide-inner slide-content">
-                <div class="label gold">10 / Banking &amp; Financial Services</div>
-                <h2 class="display-2">Enterprise Invoice &amp; Compliance Platform.</h2>
-
-                <div class="bank-grid">
-                    <div class="bank-text">
-                        <p>A <strong>purpose-fit invoice + compliance platform</strong> for enterprise banks and financial-services CFOs &mdash; productised on the same architecture that runs in production for 300+ logistics enterprises today.</p>
-                        <p>Each engagement is <strong>customised against the bank&rsquo;s internal workflow</strong>, organisational hierarchy, GL mapping, approval matrix and ERP topology.</p>
-                        <p>The platform capabilities below are <strong>the foundation</strong>, not the constraint &mdash; available for tailored deployment.</p>
-                    </div>
-                    <div class="bank-caps">
-                        <div class="bank-cap"><div class="bank-cap__num">01</div><h5 class="bank-cap__t">OCR-Based Invoice Capture</h5><p class="bank-cap__d">Production OCR + AI extraction.</p></div>
-                        <div class="bank-cap"><div class="bank-cap__num">02</div><h5 class="bank-cap__t">Rent Invoice Management</h5><p class="bank-cap__d">Lease tracking + reconciliation.</p></div>
-                        <div class="bank-cap"><div class="bank-cap__num">03</div><h5 class="bank-cap__t">Vendor Invoice Management</h5><p class="bank-cap__d">GSTIN + 3-way match + payment.</p></div>
-                        <div class="bank-cap"><div class="bank-cap__num">04</div><h5 class="bank-cap__t">GST Computation</h5><p class="bank-cap__d">CGST/SGST/IGST + GSTR + e-invoicing.</p></div>
-                        <div class="bank-cap"><div class="bank-cap__num">05</div><h5 class="bank-cap__t">Approval Workflows</h5><p class="bank-cap__d">Hierarchical routing + audit.</p></div>
-                        <div class="bank-cap"><div class="bank-cap__num">06</div><h5 class="bank-cap__t">ERP + GL Integration</h5><p class="bank-cap__d">SAP &middot; Oracle &middot; Finacle &middot; Tally.</p></div>
-                        <div class="bank-cap"><div class="bank-cap__num">07</div><h5 class="bank-cap__t">Audit Trail + RBAC</h5><p class="bank-cap__d">Tamper-evident + encryption.</p></div>
-                        <div class="bank-cap"><div class="bank-cap__num">08</div><h5 class="bank-cap__t">Dashboards + BI</h5><p class="bank-cap__d">Reports &middot; analytics &middot; notifications.</p></div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <!-- ============================================================
-             SLIDE 13 — FLAGSHIP PLATFORM (logistics as proof)
-             ============================================================ -->
-        <section class="slide" data-title="Flagship platform">
-            <div class="slide-inner slide-content">
-                <div class="label">11 / Engineering proof at scale</div>
-                <h2 class="display-2">Our logistics platform &mdash; <em>proof of capability</em>.</h2>
-                <p class="lead" style="margin-top:14px;">Logistics is one of our strongest products &mdash; but more importantly, the platform proves what we can engineer for <strong style="color:var(--text);">any industry that needs enterprise-grade software at scale</strong>.</p>
 
                 <div class="proof-grid">
                     <div>
@@ -1718,8 +1044,8 @@
                     <div>
                         <div class="modules-grid">
                             <div class="module-tile"><i class="fas fa-gauge-high module-tile__icon"></i><h6 class="module-tile__t">Enterprise Dashboard</h6></div>
-                            <div class="module-tile"><i class="fas fa-truck module-tile__icon"></i><h6 class="module-tile__t">Courier Operations</h6></div>
-                            <div class="module-tile"><i class="fas fa-route module-tile__icon"></i><h6 class="module-tile__t">Shipment Tracking</h6></div>
+                            <div class="module-tile"><i class="fas fa-truck module-tile__icon"></i><h6 class="module-tile__t">Operations</h6></div>
+                            <div class="module-tile"><i class="fas fa-route module-tile__icon"></i><h6 class="module-tile__t">Tracking</h6></div>
                             <div class="module-tile"><i class="fas fa-file-import module-tile__icon"></i><h6 class="module-tile__t">OCR Engine</h6></div>
                             <div class="module-tile"><i class="fas fa-receipt module-tile__icon"></i><h6 class="module-tile__t">Invoice Mgmt</h6></div>
                             <div class="module-tile"><i class="fas fa-money-bill-trend-up module-tile__icon"></i><h6 class="module-tile__t">Billing &amp; GST</h6></div>
@@ -1736,12 +1062,32 @@
         </section>
 
         <!-- ============================================================
-             SLIDE 14 — METHODOLOGY
+             S07 — TECHNOLOGY STACK
              ============================================================ -->
-        <section class="slide" data-title="Methodology">
+        <section class="slide" data-title="Technology stack">
             <div class="slide-inner slide-content">
-                <div class="label">12 / Delivery Methodology</div>
-                <h2 class="display-2">A repeatable, milestone-driven delivery system.</h2>
+                <div class="label">06 / Technology stack</div>
+                <h2 class="display-2">Full-stack engineering capability.</h2>
+
+                <div class="stack-viz">
+                    <div class="stack-layer"><div class="stack-layer__lbl"><div class="stack-layer__lbl__icon"><i class="fas fa-window-maximize"></i></div><span class="stack-layer__lbl__name">Frontend</span></div><div class="stack-layer__items"><span class="stack-chip">React + Next.js</span><span class="stack-chip">Vue + Nuxt</span><span class="stack-chip">Angular</span><span class="stack-chip">TypeScript</span><span class="stack-chip">Tailwind</span><span class="stack-chip">Material UI</span></div></div>
+                    <div class="stack-layer"><div class="stack-layer__lbl"><div class="stack-layer__lbl__icon"><i class="fas fa-server"></i></div><span class="stack-layer__lbl__name">Backend</span></div><div class="stack-layer__items"><span class="stack-chip">Node.js</span><span class="stack-chip">Python</span><span class="stack-chip">Django + FastAPI</span><span class="stack-chip">Laravel</span><span class="stack-chip">Java + Spring</span><span class="stack-chip">Go</span><span class="stack-chip">.NET</span></div></div>
+                    <div class="stack-layer"><div class="stack-layer__lbl"><div class="stack-layer__lbl__icon"><i class="fas fa-mobile-screen-button"></i></div><span class="stack-layer__lbl__name">Mobile</span></div><div class="stack-layer__items"><span class="stack-chip">Swift (iOS)</span><span class="stack-chip">Kotlin (Android)</span><span class="stack-chip">Flutter</span><span class="stack-chip">React Native</span></div></div>
+                    <div class="stack-layer"><div class="stack-layer__lbl"><div class="stack-layer__lbl__icon"><i class="fas fa-cloud"></i></div><span class="stack-layer__lbl__name">Cloud + DevOps</span></div><div class="stack-layer__items"><span class="stack-chip">AWS</span><span class="stack-chip">Azure</span><span class="stack-chip">Google Cloud</span><span class="stack-chip">Docker + Kubernetes</span><span class="stack-chip">Terraform</span><span class="stack-chip">CI/CD</span></div></div>
+                    <div class="stack-layer"><div class="stack-layer__lbl"><div class="stack-layer__lbl__icon"><i class="fas fa-database"></i></div><span class="stack-layer__lbl__name">Data + Cache</span></div><div class="stack-layer__items"><span class="stack-chip">PostgreSQL</span><span class="stack-chip">MySQL</span><span class="stack-chip">MongoDB</span><span class="stack-chip">Redis</span><span class="stack-chip">ClickHouse</span><span class="stack-chip">Elasticsearch</span></div></div>
+                    <div class="stack-layer"><div class="stack-layer__lbl"><div class="stack-layer__lbl__icon"><i class="fas fa-brain"></i></div><span class="stack-layer__lbl__name">AI &middot; OCR &middot; ML</span></div><div class="stack-layer__items"><span class="stack-chip">OpenAI + Claude</span><span class="stack-chip">AWS Textract</span><span class="stack-chip">Google Document AI</span><span class="stack-chip">LangChain</span><span class="stack-chip">PyTorch</span><span class="stack-chip">TensorFlow</span></div></div>
+                    <div class="stack-layer"><div class="stack-layer__lbl"><div class="stack-layer__lbl__icon"><i class="fas fa-plug"></i></div><span class="stack-layer__lbl__name">Integration</span></div><div class="stack-layer__items"><span class="stack-chip">SAP &middot; Oracle</span><span class="stack-chip">Tally &middot; Zoho</span><span class="stack-chip">Salesforce</span><span class="stack-chip">Razorpay &middot; Stripe</span><span class="stack-chip">Twilio &middot; SendGrid</span><span class="stack-chip">WhatsApp Business</span></div></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ============================================================
+             S08 — SOFTWARE DEVELOPMENT PROCESS
+             ============================================================ -->
+        <section class="slide" data-title="Software development process">
+            <div class="slide-inner slide-content">
+                <div class="label">07 / Software development process</div>
+                <h2 class="display-2">A milestone-driven<br>delivery system.</h2>
 
                 <div class="method">
                     <div class="method__track">
@@ -1759,144 +1105,327 @@
         </section>
 
         <!-- ============================================================
-             SLIDE 15 — WHY ITD
+             S09 — CURRENT ENTERPRISE PROJECTS
              ============================================================ -->
-        <section class="slide" data-title="Why ITD Services">
+        <section class="slide" data-title="Current enterprise projects">
             <div class="slide-inner slide-content">
-                <div class="label">13 / Why Enterprise Clients Choose ITD Services</div>
-                <h2 class="display-2">Six structural reasons.</h2>
+                <div class="label">08 / Current Enterprise Projects</div>
+                <h2 class="display-2">What we are engineering<br>right now.</h2>
+                <p class="lead" style="margin-top:16px;">A selection of active enterprise software engagements + innovation initiatives &mdash; spanning production-scale platforms, cutting-edge research and enterprise compliance modernisation.</p>
 
-                <div class="why-grid">
-                    <div class="why-card"><div class="why-card__n">// 01</div><h4>Scalable Architecture</h4><p>Multi-tenant + RBAC + observability-first. Proven in production at 300+ enterprise clients.</p></div>
-                    <div class="why-card"><div class="why-card__n">// 02</div><h4>Engineering Excellence</h4><p>Founder-engineers + named senior practitioners on every engagement. Documented, observable, handed-over.</p></div>
-                    <div class="why-card"><div class="why-card__n">// 03</div><h4>Enterprise Security</h4><p>Encryption, RBAC, audit log, DPDP + GDPR-compliant patterns, ISO 27001-aware. Built in, not bolted on.</p></div>
-                    <div class="why-card"><div class="why-card__n">// 04</div><h4>Business Process Expertise</h4><p>Eight years modelling enterprise workflows in production. Business process translated to engineering precision.</p></div>
-                    <div class="why-card"><div class="why-card__n">// 05</div><h4>Dedicated In-House Team</h4><p>50+ permanent engineers + designers + analysts. No outsourcing. Continuity across multi-year engagements.</p></div>
-                    <div class="why-card"><div class="why-card__n">// 06</div><h4>Long-Term Partnership</h4><p>Average engagement 22+ months. Built for AMC + continuous improvement + roadmap expansion.</p></div>
+                <div class="projects">
+                    <div class="project flagship">
+                        <div class="project__head">
+                            <div class="project__icon"><i class="fas fa-atom"></i></div>
+                            <span class="project__status development"><span class="project__status__dot"></span>Active Development</span>
+                        </div>
+                        <h3>Quantum Computing Platform &mdash; Financial Data Analysis</h3>
+                        <p>A quantum computing platform under active development for a <strong>US-based client</strong>, focused on enabling researchers and financial institutions to process complex financial datasets using quantum algorithms. An <strong>ongoing innovation initiative</strong> at the frontier of enterprise computing.</p>
+                        <div class="project__meta">
+                            <div class="project__meta-item"><small>Client</small><strong>US-based &middot; NDA</strong></div>
+                            <div class="project__meta-item"><small>Domain</small><strong>Financial Data Analysis</strong></div>
+                            <div class="project__meta-item"><small>Stage</small><strong>R&amp;D + Build</strong></div>
+                        </div>
+                    </div>
+
+                    <div class="project">
+                        <div class="project__head">
+                            <div class="project__icon"><i class="fas fa-cubes"></i></div>
+                            <span class="project__status production"><span class="project__status__dot"></span>In Production &middot; Scaling</span>
+                        </div>
+                        <h3>Enterprise Logistics SaaS Platform</h3>
+                        <p>Proprietary multi-tenant enterprise platform serving <strong>300+ logistics enterprises</strong> in production. Continuous roadmap expansion across operations, OCR + AI, invoice + GST, mobile and analytics modules.</p>
+                        <div class="project__meta">
+                            <div class="project__meta-item"><small>Scale</small><strong>300+ clients</strong></div>
+                            <div class="project__meta-item"><small>Throughput</small><strong>Millions of records</strong></div>
+                            <div class="project__meta-item"><small>Uptime</small><strong>99.9%+</strong></div>
+                        </div>
+                    </div>
+
+                    <div class="project">
+                        <div class="project__head">
+                            <div class="project__icon"><i class="fas fa-file-shield"></i></div>
+                            <span class="project__status"><span class="project__status__dot"></span>Active Engagements</span>
+                        </div>
+                        <h3>Enterprise Invoice &amp; Compliance Modernisation</h3>
+                        <p>Customisable enterprise invoice + compliance modules &mdash; OCR-based capture, GST computation, vendor + rent management, approval workflows, ERP integration &mdash; available for tailored deployment across <strong>banking, financial services, manufacturing and other enterprise segments</strong>.</p>
+                        <div class="project__meta">
+                            <div class="project__meta-item"><small>Modules</small><strong>OCR &middot; GST &middot; ERP</strong></div>
+                            <div class="project__meta-item"><small>Target</small><strong>Banking + Enterprise</strong></div>
+                            <div class="project__meta-item"><small>Status</small><strong>In customisation</strong></div>
+                        </div>
+                    </div>
+
+                    <div class="project">
+                        <div class="project__head">
+                            <div class="project__icon"><i class="fas fa-flask"></i></div>
+                            <span class="project__status"><span class="project__status__dot"></span>R&amp;D + Build</span>
+                        </div>
+                        <h3>Deep-Tech Data Platform (under NDA)</h3>
+                        <p>Active multi-year engagement engineering a high-volume scientific data platform for a <strong>deep-tech R&amp;D client</strong>. Multi-stakeholder access, custom workflow + integration with specialist research instrumentation.</p>
+                        <div class="project__meta">
+                            <div class="project__meta-item"><small>Sector</small><strong>Deep-Tech</strong></div>
+                            <div class="project__meta-item"><small>Stage</small><strong>Multi-year build</strong></div>
+                            <div class="project__meta-item"><small>Status</small><strong>NDA</strong></div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
 
         <!-- ============================================================
-             SLIDE 16 — CLIENTS
+             S10 — AI, OCR & AUTOMATION
              ============================================================ -->
-        <section class="slide" data-title="Clients">
+        <section class="slide" data-title="AI, OCR & Automation">
             <div class="slide-inner slide-content">
-                <div class="label">14 / Selected Clients</div>
-                <h2 class="display-2">Enterprise + growth-stage clients we have built for.</h2>
-                <p class="lead" style="margin-top:14px;">Additional references available under NDA on request. Banking + financial-services engagements indicated as &lsquo;On NDA&rsquo;.</p>
+                <div class="label gold">09 / AI, OCR &amp; Automation</div>
+                <h2 class="display-2">Document intelligence<br>in production.</h2>
+
+                <div class="ocr-pipeline">
+                    <div class="ocr-step"><div class="ocr-step__icon"><i class="fas fa-file-arrow-up"></i></div><h5 class="ocr-step__t">Ingest</h5><p class="ocr-step__d">Multi-format documents</p></div>
+                    <div class="ocr-arrow"><i class="fas fa-arrow-right"></i></div>
+                    <div class="ocr-step highlight"><div class="ocr-step__icon"><i class="fas fa-magnifying-glass-chart"></i></div><h5 class="ocr-step__t">OCR + ML</h5><p class="ocr-step__d">Extract + classify</p></div>
+                    <div class="ocr-arrow"><i class="fas fa-arrow-right"></i></div>
+                    <div class="ocr-step"><div class="ocr-step__icon"><i class="fas fa-check-double"></i></div><h5 class="ocr-step__t">Validate</h5><p class="ocr-step__d">GSTIN + tax + match</p></div>
+                    <div class="ocr-arrow"><i class="fas fa-arrow-right"></i></div>
+                    <div class="ocr-step"><div class="ocr-step__icon"><i class="fas fa-arrows-spin"></i></div><h5 class="ocr-step__t">Route</h5><p class="ocr-step__d">Workflow + approvals</p></div>
+                    <div class="ocr-arrow"><i class="fas fa-arrow-right"></i></div>
+                    <div class="ocr-step"><div class="ocr-step__icon"><i class="fas fa-database"></i></div><h5 class="ocr-step__t">ERP Push</h5><p class="ocr-step__d">SAP &middot; Oracle &middot; Tally</p></div>
+                </div>
+
+                <div class="ocr-features">
+                    <div class="ocr-feature"><i class="fas fa-check-circle"></i><span><strong>&gt; 95% extraction accuracy</strong> on standard layouts</span></div>
+                    <div class="ocr-feature"><i class="fas fa-check-circle"></i><span><strong>Vendor + GSTIN recognition</strong> with master reconciliation</span></div>
+                    <div class="ocr-feature"><i class="fas fa-check-circle"></i><span><strong>Confidence scoring</strong> + human-in-the-loop review</span></div>
+                    <div class="ocr-feature"><i class="fas fa-check-circle"></i><span><strong>3-way match</strong> &mdash; PO + GRN + invoice</span></div>
+                    <div class="ocr-feature"><i class="fas fa-check-circle"></i><span><strong>LLM integration</strong> &mdash; OpenAI + Claude where applicable</span></div>
+                    <div class="ocr-feature"><i class="fas fa-check-circle"></i><span><strong>Audit-traceable</strong> &mdash; every action logged + signed</span></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ============================================================
+             S11 — QUANTUM COMPUTING INITIATIVE
+             ============================================================ -->
+        <section class="slide quantum-slide" data-title="Quantum Computing Initiative">
+            <div class="slide-inner slide-content">
+                <div class="label quantum">10 / Quantum Computing Initiative</div>
+                <h2 class="display-2">Quantum computing for<br>financial data analysis.</h2>
+
+                <div class="quantum-grid">
+                    <div class="quantum-narrative">
+                        <div class="quantum-pills">
+                            <span class="quantum-pill"><i class="fas fa-circle"></i>Active Development</span>
+                            <span class="quantum-pill"><i class="fas fa-flag"></i>US-Based Client</span>
+                            <span class="quantum-pill"><i class="fas fa-flask"></i>Innovation Initiative</span>
+                        </div>
+                        <p>We are currently developing a <strong>quantum computing platform</strong> for a US-based client, focused on enabling researchers and financial institutions to process complex financial datasets using <strong>quantum algorithms</strong>.</p>
+                        <p>The platform is designed to apply quantum computing techniques to portfolio optimisation, risk modelling, simulation and high-dimensional financial data analysis &mdash; problems that scale poorly on classical infrastructure.</p>
+                        <p>Since the project is still in active development, we present it as an <strong>ongoing innovation initiative</strong> rather than a completed case study &mdash; it represents our commitment to working at the frontier of enterprise technology.</p>
+
+                        <div class="quantum-features">
+                            <div class="qf"><i class="fas fa-circle-check"></i><span>Quantum algorithm orchestration layer</span></div>
+                            <div class="qf"><i class="fas fa-circle-check"></i><span>Financial data ingestion + pre-processing</span></div>
+                            <div class="qf"><i class="fas fa-circle-check"></i><span>Classical &harr; quantum hybrid pipeline</span></div>
+                            <div class="qf"><i class="fas fa-circle-check"></i><span>Researcher + analyst workbench</span></div>
+                            <div class="qf"><i class="fas fa-circle-check"></i><span>Result interpretation + visualisation</span></div>
+                            <div class="qf"><i class="fas fa-circle-check"></i><span>Audit + reproducibility framework</span></div>
+                        </div>
+                    </div>
+
+                    <div class="quantum-visual">
+                        <h5>Hybrid Architecture &middot; Classical &harr; Quantum</h5>
+                        <svg class="quantum-svg" viewBox="0 0 460 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Quantum hybrid pipeline">
+                            <!-- Classical input -->
+                            <rect x="20" y="135" width="120" height="50" rx="8" class="qbit-data-box"/>
+                            <text x="80" y="160" text-anchor="middle" class="qbit-data-label">Financial Data</text>
+                            <text x="80" y="175" text-anchor="middle" class="qbit-label">CLASSICAL INPUT</text>
+
+                            <!-- Arrow -->
+                            <line x1="148" y1="160" x2="180" y2="160" class="qbit-conn"/>
+                            <polygon points="178,156 188,160 178,164" fill="#7c3aed" opacity="0.6"/>
+
+                            <!-- Quantum processing block (center) -->
+                            <rect x="190" y="40" width="170" height="240" rx="12" fill="rgba(124,58,237,0.04)" stroke="#7c3aed" stroke-width="1" stroke-dasharray="4 4"/>
+                            <text x="275" y="60" text-anchor="middle" class="qbit-label">QUANTUM PROCESSOR</text>
+
+                            <!-- Qubit circles -->
+                            <circle cx="225" cy="100" r="14" class="qbit-glow"/>
+                            <circle cx="225" cy="100" r="8" class="qbit"/>
+                            <text x="225" y="103" text-anchor="middle" font-family="JetBrains Mono" font-size="8" font-weight="600" fill="#7c3aed">q0</text>
+
+                            <circle cx="275" cy="100" r="14" class="qbit-glow"/>
+                            <circle cx="275" cy="100" r="8" class="qbit"/>
+                            <text x="275" y="103" text-anchor="middle" font-family="JetBrains Mono" font-size="8" font-weight="600" fill="#7c3aed">q1</text>
+
+                            <circle cx="325" cy="100" r="14" class="qbit-glow"/>
+                            <circle cx="325" cy="100" r="8" class="qbit"/>
+                            <text x="325" y="103" text-anchor="middle" font-family="JetBrains Mono" font-size="8" font-weight="600" fill="#7c3aed">q2</text>
+
+                            <circle cx="225" cy="160" r="14" class="qbit-glow"/>
+                            <circle cx="225" cy="160" r="8" class="qbit"/>
+                            <text x="225" y="163" text-anchor="middle" font-family="JetBrains Mono" font-size="8" font-weight="600" fill="#7c3aed">q3</text>
+
+                            <circle cx="275" cy="160" r="14" class="qbit-glow"/>
+                            <circle cx="275" cy="160" r="8" class="qbit"/>
+                            <text x="275" y="163" text-anchor="middle" font-family="JetBrains Mono" font-size="8" font-weight="600" fill="#7c3aed">q4</text>
+
+                            <circle cx="325" cy="160" r="14" class="qbit-glow"/>
+                            <circle cx="325" cy="160" r="8" class="qbit"/>
+                            <text x="325" y="163" text-anchor="middle" font-family="JetBrains Mono" font-size="8" font-weight="600" fill="#7c3aed">q5</text>
+
+                            <circle cx="225" cy="220" r="14" class="qbit-glow"/>
+                            <circle cx="225" cy="220" r="8" class="qbit"/>
+                            <text x="225" y="223" text-anchor="middle" font-family="JetBrains Mono" font-size="8" font-weight="600" fill="#7c3aed">q6</text>
+
+                            <circle cx="275" cy="220" r="14" class="qbit-glow"/>
+                            <circle cx="275" cy="220" r="8" class="qbit"/>
+                            <text x="275" y="223" text-anchor="middle" font-family="JetBrains Mono" font-size="8" font-weight="600" fill="#7c3aed">q7</text>
+
+                            <circle cx="325" cy="220" r="14" class="qbit-glow"/>
+                            <circle cx="325" cy="220" r="8" class="qbit"/>
+                            <text x="325" y="223" text-anchor="middle" font-family="JetBrains Mono" font-size="8" font-weight="600" fill="#7c3aed">q8</text>
+
+                            <!-- Entanglement lines -->
+                            <line x1="225" y1="100" x2="275" y2="100" class="qbit-conn"/>
+                            <line x1="275" y1="100" x2="325" y2="100" class="qbit-conn"/>
+                            <line x1="225" y1="100" x2="225" y2="160" class="qbit-conn"/>
+                            <line x1="275" y1="100" x2="275" y2="160" class="qbit-conn"/>
+                            <line x1="325" y1="100" x2="325" y2="160" class="qbit-conn"/>
+                            <line x1="225" y1="160" x2="275" y2="160" class="qbit-conn"/>
+                            <line x1="275" y1="160" x2="325" y2="160" class="qbit-conn"/>
+                            <line x1="225" y1="160" x2="225" y2="220" class="qbit-conn"/>
+                            <line x1="275" y1="160" x2="275" y2="220" class="qbit-conn"/>
+                            <line x1="325" y1="160" x2="325" y2="220" class="qbit-conn"/>
+                            <line x1="225" y1="220" x2="275" y2="220" class="qbit-conn"/>
+                            <line x1="275" y1="220" x2="325" y2="220" class="qbit-conn"/>
+
+                            <text x="275" y="270" text-anchor="middle" class="qbit-label">ENTANGLED &middot; SUPERPOSITION</text>
+
+                            <!-- Arrow out -->
+                            <line x1="370" y1="160" x2="400" y2="160" class="qbit-conn"/>
+                            <polygon points="398,156 408,160 398,164" fill="#7c3aed" opacity="0.6"/>
+
+                            <!-- Output -->
+                            <rect x="370" y="135" width="80" height="50" rx="8" class="qbit-data-box"/>
+                            <text x="410" y="160" text-anchor="middle" class="qbit-data-label">Insights</text>
+                            <text x="410" y="175" text-anchor="middle" class="qbit-label">RESULTS</text>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ============================================================
+             S12 — WHY CLIENTS CHOOSE ITD
+             ============================================================ -->
+        <section class="slide" data-title="Why clients choose ITD Services">
+            <div class="slide-inner slide-content">
+                <div class="label">11 / Why clients choose ITD Services</div>
+                <h2 class="display-2">Six structural reasons.</h2>
+
+                <div class="why-grid">
+                    <div class="why-card"><div class="why-card__n">// 01</div><h4>Scalable Architecture</h4><p>Multi-tenant + RBAC + observability-first. Proven in production at 300+ enterprise clients.</p></div>
+                    <div class="why-card"><div class="why-card__n">// 02</div><h4>Engineering Excellence</h4><p>Founder-engineers + named senior practitioners on every engagement. Documented + handed-over.</p></div>
+                    <div class="why-card"><div class="why-card__n">// 03</div><h4>Enterprise Security</h4><p>Encryption, RBAC, audit log, DPDP + GDPR-compliant patterns. Built in, not bolted on.</p></div>
+                    <div class="why-card"><div class="why-card__n">// 04</div><h4>Innovation at the Frontier</h4><p>Active quantum computing initiative, AI + OCR in production, modern enterprise architecture.</p></div>
+                    <div class="why-card"><div class="why-card__n">// 05</div><h4>50+ In-House Team</h4><p>Permanent engineers + designers + analysts + DevOps. No outsourcing, no offshore rotation.</p></div>
+                    <div class="why-card"><div class="why-card__n">// 06</div><h4>Long-Term Partnership</h4><p>Average engagement 22+ months. Built for AMC + roadmap expansion + continuous improvement.</p></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ============================================================
+             S13 — COMPANY STATISTICS (animated counters)
+             ============================================================ -->
+        <section class="slide" data-title="Company statistics">
+            <div class="slide-inner slide-content">
+                <div class="label">12 / Company Statistics</div>
+                <h2 class="display-2">Eight years.<br>Production scale.</h2>
+                <p class="lead" style="margin-top:16px;">Verified business metrics demonstrating scale, engineering depth and enterprise credibility.</p>
+
+                <div class="stats-grid">
+                    <div class="stat">
+                        <div class="stat__n" data-target="300" data-suffix="+">0</div>
+                        <div class="stat__lbl">Enterprise Clients</div>
+                        <div class="stat__sub">Logistics platform in production</div>
+                    </div>
+                    <div class="stat">
+                        <div class="stat__n" data-target="10" data-suffix="M+">0</div>
+                        <div class="stat__lbl">Records Processed</div>
+                        <div class="stat__sub">Shipments + invoices + documents</div>
+                    </div>
+                    <div class="stat">
+                        <div class="stat__n" data-target="50" data-suffix="+">0</div>
+                        <div class="stat__lbl">Engineering Team</div>
+                        <div class="stat__sub">In-house technology professionals</div>
+                    </div>
+                    <div class="stat">
+                        <div class="stat__n" data-target="100" data-suffix="+">0</div>
+                        <div class="stat__lbl">Implementations</div>
+                        <div class="stat__sub">Custom + product engagements</div>
+                    </div>
+                    <div class="stat">
+                        <div class="stat__n" data-target="99.9" data-suffix="%" data-decimals="1">0</div>
+                        <div class="stat__lbl">Platform Availability</div>
+                        <div class="stat__sub">Production SLA on flagship platform</div>
+                    </div>
+                    <div class="stat">
+                        <div class="stat__n" data-target="7" data-suffix="+">0</div>
+                        <div class="stat__lbl">Years Operating</div>
+                        <div class="stat__sub">Established 2018, Mumbai</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ============================================================
+             S14 — CLIENT PORTFOLIO
+             ============================================================ -->
+        <section class="slide" data-title="Client portfolio">
+            <div class="slide-inner slide-content">
+                <div class="label">13 / Client Portfolio</div>
+                <h2 class="display-2">Selected enterprise<br>+ growth-stage clients.</h2>
+                <p class="lead" style="margin-top:16px;">Additional references available under NDA on request. Banking + financial-services + deep-tech engagements indicated as &lsquo;On NDA&rsquo;.</p>
 
                 <div class="clients-wall">
                     <div class="client-tile"><div class="client-tile__name">Navlai</div><div class="client-tile__type">Enterprise</div></div>
                     <div class="client-tile"><div class="client-tile__name">Bombino</div><div class="client-tile__type">Enterprise</div></div>
                     <div class="client-tile"><div class="client-tile__name">Skynet</div><div class="client-tile__type">Logistics</div></div>
-                    <div class="client-tile"><div class="client-tile__name">Mindsyn</div><div class="client-tile__type">Deep-Tech R&amp;D</div></div>
                     <div class="client-tile"><div class="client-tile__name">300+ More</div><div class="client-tile__type">Logistics Platform</div></div>
-                    <div class="client-tile"><div class="client-tile__name">On NDA</div><div class="client-tile__type">Banking &amp; Finance</div></div>
+                    <div class="client-tile"><div class="client-tile__name">US-Based</div><div class="client-tile__type">Quantum Initiative</div></div>
+                    <div class="client-tile"><div class="client-tile__name">On NDA</div><div class="client-tile__type">Deep-Tech + R&amp;D</div></div>
                 </div>
             </div>
         </section>
 
         <!-- ============================================================
-             SLIDE 17 — CASE STUDIES
+             S15 — CONTACT & NEXT STEPS
              ============================================================ -->
-        <section class="slide" data-title="Case studies">
+        <section class="slide final" data-title="Contact & next steps">
             <div class="slide-inner slide-content">
-                <div class="label">15 / Case Studies</div>
-                <h2 class="display-2">Production engagements.<br>Measurable results.</h2>
+                <div class="label accent" style="justify-content:center;">14 / Contact &amp; Next Steps</div>
+                <h2 class="display-2">Begin the conversation.</h2>
+                <p class="final__sub">For enterprise + banking engagements we run a structured intake. A co-founder or senior solution architect will lead every step.</p>
 
-                <div class="case-grid">
-                    <div class="case">
-                        <span class="case__tag"><i class="fas fa-truck"></i>Logistics SaaS</span>
-                        <h3>Multi-tenant logistics platform</h3>
-                        <div class="case__row"><div class="case__row__lbl">Problem</div><p>Fragmented courier + dispatch + invoice ops at multi-hub operators.</p></div>
-                        <div class="case__row"><div class="case__row__lbl">Solution</div><p>Multi-tenant platform &middot; OCR + GST + vendor + mobile apps + analytics.</p></div>
-                        <div class="case__row"><div class="case__row__lbl">Result</div><p>300+ clients in production &middot; 10M+ records &middot; 99.9% uptime.</p></div>
-                    </div>
-                    <div class="case">
-                        <span class="case__tag"><i class="fas fa-file-invoice"></i>OCR + Invoice</span>
-                        <h3>Enterprise invoice automation</h3>
-                        <div class="case__row"><div class="case__row__lbl">Problem</div><p>Manual invoice + POD processing creating reconciliation bottlenecks.</p></div>
-                        <div class="case__row"><div class="case__row__lbl">Solution</div><p>OCR + AI extraction &middot; GSTIN validation &middot; 3-way match &middot; ERP push.</p></div>
-                        <div class="case__row"><div class="case__row__lbl">Result</div><p>&gt; 95% accuracy &middot; bulk daily ingestion &middot; architecture applicable to banking.</p></div>
-                    </div>
-                    <div class="case">
-                        <span class="case__tag"><i class="fas fa-atom"></i>Deep-Tech R&amp;D</span>
-                        <h3>Scientific data platform (NDA)</h3>
-                        <div class="case__row"><div class="case__row__lbl">Problem</div><p>High-volume scientific data + multi-stakeholder R&amp;D collaboration.</p></div>
-                        <div class="case__row"><div class="case__row__lbl">Solution</div><p>Custom data platform with workflow + access control + instrumentation integration.</p></div>
-                        <div class="case__row"><div class="case__row__lbl">Result</div><p>Active multi-year engagement. Reference call available under NDA.</p></div>
-                    </div>
+                <div class="engage-row">
+                    <div class="eng-step"><div class="eng-step__n">01</div><h4>Discovery Call</h4><p>30-min with a co-founder or solution architect.</p></div>
+                    <div class="eng-step"><div class="eng-step__n">02</div><h4>Mutual NDA</h4><p>Standard mutual NDA + scoping conversation.</p></div>
+                    <div class="eng-step"><div class="eng-step__n">03</div><h4>Capability Presentation</h4><p>Tailored capability + architecture walkthrough.</p></div>
+                    <div class="eng-step"><div class="eng-step__n">04</div><h4>Fixed-Quote SOW</h4><p>Within 48 hours of finalised scope. Named owner.</p></div>
                 </div>
-            </div>
-        </section>
-
-        <!-- ============================================================
-             SLIDE 18 — ENGAGEMENT MODEL
-             ============================================================ -->
-        <section class="slide" data-title="Engagement model">
-            <div class="slide-inner slide-content">
-                <div class="label">16 / Engagement Model</div>
-                <h2 class="display-2">A structured intake for enterprise + banking engagements.</h2>
-
-                <div class="engagement-grid">
-                    <div class="eng-step">
-                        <div class="eng-step__n">01</div>
-                        <h4>Discovery Call</h4>
-                        <p>30-minute call with a co-founder or senior solution architect.</p>
-                    </div>
-                    <div class="eng-step">
-                        <div class="eng-step__n">02</div>
-                        <h4>Mutual NDA</h4>
-                        <p>Standard mutual NDA + technical scoping conversation.</p>
-                    </div>
-                    <div class="eng-step">
-                        <div class="eng-step__n">03</div>
-                        <h4>Capability Presentation</h4>
-                        <p>Tailored capability + architecture walkthrough for your domain.</p>
-                    </div>
-                    <div class="eng-step">
-                        <div class="eng-step__n">04</div>
-                        <h4>Fixed-Quote SOW</h4>
-                        <p>Within 48 hours of finalised scope. Named senior owner. Kickoff.</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <!-- ============================================================
-             SLIDE 19 — CONTACT / FINAL
-             ============================================================ -->
-        <section class="slide final" data-title="Contact">
-            <div class="slide-inner slide-content">
-                <div class="label accent" style="justify-content:center;">17 / Get in touch</div>
-                <h2 class="display-2">Build software your business actually runs on.</h2>
-                <p class="final__sub">Begin the conversation with a 30-minute discovery call. A co-founder or senior solution architect will walk through your requirements and show relevant capabilities live.</p>
 
                 <div class="final__cards">
-                    <div class="final-card">
-                        <div class="final-card__lbl">Email</div>
-                        <div class="final-card__t">Enterprise enquiries</div>
-                        <a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a>
-                    </div>
-                    <div class="final-card">
-                        <div class="final-card__lbl">Direct</div>
-                        <div class="final-card__t">Phone &amp; WhatsApp</div>
-                        <a href="tel:+918450978544">+91 84509 78544</a>
-                    </div>
-                    <div class="final-card">
-                        <div class="final-card__lbl">Head office</div>
-                        <div class="final-card__t">Andheri, Mumbai</div>
-                        <span style="color:var(--text-3);font-size:14px;">400053, Maharashtra, India</span>
-                    </div>
+                    <div class="final-card"><div class="final-card__lbl">Email</div><div class="final-card__t">Enterprise enquiries</div><a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a></div>
+                    <div class="final-card"><div class="final-card__lbl">Direct</div><div class="final-card__t">Phone &amp; WhatsApp</div><a href="tel:+918450978544">+91 84509 78544</a></div>
+                    <div class="final-card"><div class="final-card__lbl">Head office</div><div class="final-card__t">Andheri, Mumbai</div><span style="color:var(--text-3);font-size:13.5px;">400053, Maharashtra, India</span></div>
                 </div>
 
                 <a href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank" rel="noopener" class="final__cta">
-                    Book Discovery Session
-                    <i class="fas fa-arrow-right"></i>
+                    Book Discovery Session <i class="fas fa-arrow-right"></i>
                 </a>
 
-                <div style="margin-top:64px;font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:0.14em;text-transform:uppercase;color:var(--text-mute);">
+                <div style="margin-top:48px;font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:0.14em;text-transform:uppercase;color:var(--text-mute);">
                     ITD Services &middot; Established 2018 &middot; Part of ITD Group of Companies
                 </div>
             </div>
@@ -1916,11 +1445,8 @@
     </button>
 </footer>
 
-<!-- Keyboard hint (auto-hides) -->
 <div class="kbd-hint" id="kbdHint">
-    <span>Use</span>
-    <kbd>&larr;</kbd><kbd>&rarr;</kbd>
-    <span>to navigate</span>
+    <span>Use</span><kbd>&larr;</kbd><kbd>&rarr;</kbd><span>to navigate</span>
 </div>
 
 <script>
@@ -1937,11 +1463,9 @@
 
     var current = 0;
     var total   = slides.length;
-    var counted = {};
 
     totEl.textContent = String(total).padStart(2, '0');
 
-    /* Build dots */
     slides.forEach(function (s, i) {
         var d = document.createElement('button');
         d.className = 'dot' + (i === 0 ? ' active' : '');
@@ -1949,14 +1473,9 @@
         d.addEventListener('click', function () { go(i); });
         dotsEl.appendChild(d);
     });
-
     var dots = dotsEl.querySelectorAll('.dot');
 
-    /* Counter animation utility */
     function animateCount(el) {
-        if (counted[el.dataset.target + '-' + el.dataset.suffix]) {
-            /* still animate per slide visit */
-        }
         var target   = parseFloat(el.dataset.target);
         var suffix   = el.dataset.suffix || '';
         var decimals = parseInt(el.dataset.decimals || '0', 10);
@@ -1973,75 +1492,42 @@
         }
         requestAnimationFrame(tick);
     }
-
     function activateCounters(slideEl) {
-        var counters = slideEl.querySelectorAll('.metric__n[data-target]');
+        var counters = slideEl.querySelectorAll('.stat__n[data-target], .metric__n[data-target]');
         counters.forEach(function (c) { animateCount(c); });
     }
 
     function go(i) {
         current = Math.max(0, Math.min(total - 1, i));
         track.style.transform = 'translateX(-' + (current * 100) + 'vw)';
-
-        /* Update active class for content animation */
-        slides.forEach(function (s, idx) {
-            s.classList.toggle('is-active', idx === current);
-        });
-
-        /* Update dots */
-        dots.forEach(function (d, idx) {
-            d.classList.toggle('active', idx === current);
-        });
-
-        /* Update counter */
+        slides.forEach(function (s, idx) { s.classList.toggle('is-active', idx === current); });
+        dots.forEach(function (d, idx) { d.classList.toggle('active', idx === current); });
         nowEl.textContent = String(current + 1).padStart(2, '0');
         fillEl.style.width = (((current + 1) / total) * 100) + '%';
-
-        /* Update prev/next state */
         prevBtn.disabled = current === 0;
         nextBtn.disabled = current === total - 1;
-
-        /* Trigger counter animations on metrics slide */
         activateCounters(slides[current]);
     }
 
     prevBtn.addEventListener('click', function () { go(current - 1); });
     nextBtn.addEventListener('click', function () { go(current + 1); });
 
-    /* Keyboard */
     document.addEventListener('keydown', function (e) {
         if (e.target && e.target.tagName === 'INPUT') return;
-        if (e.key === 'ArrowRight' || e.key === 'PageDown' || e.key === ' ' || e.key === 'Spacebar') {
-            e.preventDefault();
-            go(current + 1);
-        } else if (e.key === 'ArrowLeft' || e.key === 'PageUp') {
-            e.preventDefault();
-            go(current - 1);
-        } else if (e.key === 'Home') {
-            go(0);
-        } else if (e.key === 'End') {
-            go(total - 1);
-        } else if (e.key === 'Escape') {
-            go(0);
-        }
+        if (e.key === 'ArrowRight' || e.key === 'PageDown' || e.key === ' ' || e.key === 'Spacebar') { e.preventDefault(); go(current + 1); }
+        else if (e.key === 'ArrowLeft' || e.key === 'PageUp') { e.preventDefault(); go(current - 1); }
+        else if (e.key === 'Home') { go(0); }
+        else if (e.key === 'End') { go(total - 1); }
+        else if (e.key === 'Escape') { go(0); }
     });
 
-    /* Touch swipe */
     var touchStartX = null;
-    var touchEndX   = null;
-    track.parentElement.addEventListener('touchstart', function (e) {
-        touchStartX = e.changedTouches[0].screenX;
-    }, { passive: true });
+    track.parentElement.addEventListener('touchstart', function (e) { touchStartX = e.changedTouches[0].screenX; }, { passive: true });
     track.parentElement.addEventListener('touchend', function (e) {
-        touchEndX = e.changedTouches[0].screenX;
-        var dx = touchEndX - touchStartX;
-        if (Math.abs(dx) > 50) {
-            if (dx < 0) go(current + 1);
-            else go(current - 1);
-        }
+        var dx = e.changedTouches[0].screenX - touchStartX;
+        if (Math.abs(dx) > 50) { if (dx < 0) go(current + 1); else go(current - 1); }
     }, { passive: true });
 
-    /* Mouse wheel horizontal/vertical → slide (debounced) */
     var wheelTimer = null;
     var wheelLock  = false;
     track.parentElement.addEventListener('wheel', function (e) {
@@ -2054,19 +1540,10 @@
         wheelTimer = setTimeout(function () { wheelLock = false; }, 650);
     }, { passive: true });
 
-    /* Show keyboard hint briefly */
-    setTimeout(function () {
-        hint.classList.add('show');
-        setTimeout(function () { hint.classList.remove('show'); }, 4000);
-    }, 1500);
+    setTimeout(function () { hint.classList.add('show'); setTimeout(function () { hint.classList.remove('show'); }, 4000); }, 1500);
 
-    /* Initial activation */
     go(0);
-
-    /* Update window-resize transforms (recompute width) */
-    window.addEventListener('resize', function () {
-        track.style.transform = 'translateX(-' + (current * 100) + 'vw)';
-    });
+    window.addEventListener('resize', function () { track.style.transform = 'translateX(-' + (current * 100) + 'vw)'; });
 })();
 </script>
 
