@@ -84,8 +84,9 @@
     <?php itdgl_render_overview_block([
             'what'     => 'Full-funnel digital marketing &mdash; SEO, performance ads, social, content, email, WhatsApp, CRO + analytics &mdash; run by senior practitioners.',
             'who'      => [
-                '<strong>D2C brands</strong> scaling from &#8377;1Cr to &#8377;100Cr ARR (12 industries covered)',
-                '<strong>B2B SaaS</strong> teams needing pipeline + content authority + GEO/AEO ranking',
+                '<strong>B2B industrial brands</strong> &mdash; Manufacturing, Logistics, Electronics, Pharma, IT, Engineering, EPC (long sales cycles, ABM, technical content)',
+                '<strong>D2C consumer brands</strong> scaling from &#8377;1Cr to &#8377;100Cr ARR (12 industries: jewellery, fashion, F&amp;B, beauty, skincare, etc.)',
+                '<strong>B2B SaaS + IT services</strong> teams needing pipeline + content authority + GEO/AEO ranking',
                 '<strong>Local businesses</strong> in Mumbai, Bangalore, Delhi + USA/UK cities competing in map pack',
             ],
             'how'      => [

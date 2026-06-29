@@ -7,8 +7,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Frequently asked questions about ITD GrowthLabs services &mdash; website + mobile app + SaaS + e-commerce development, digital marketing, SEO, Google Ads, Meta Ads, social media, WhatsApp marketing. Pick a service to see ~12 high-intent FAQs.">
-    <title>FAQs &mdash; All Service Frequently Asked Questions | ITD GrowthLabs</title>
+    <meta name="description" content="Frequently asked questions about digital marketing for B2B + D2C brands in India 2026 &mdash; 19 categories, 228 search-intent FAQs. Manufacturing, Logistics, Pharma, IT, Engineering + Website / App / SaaS / E-commerce development + SEO / Google Ads / Meta Ads / WhatsApp / Social. AI-search + featured-snippet ready.">
+    <title>FAQs &mdash; All Service + B2B Industry Questions | ITD GrowthLabs</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/faqs.php" />
     <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
 
@@ -129,14 +129,19 @@
 
     <section class="faqh-hero">
         <div class="container">
-            <span class="tagline">12 service categories &middot; ~144 questions answered</span>
+            <span class="tagline">19 categories &middot; 228+ questions &middot; B2B + D2C</span>
             <h1>Frequently Asked <span class="grad">Questions</span></h1>
-            <p class="sub">Pick a service to see real questions buyers ask before signing &mdash; pricing, timeline, process, ownership, tools, support, and how to get started.</p>
+            <p class="sub">Two ways to navigate &mdash; <strong>By Service</strong> (pricing, timeline, process, ownership) for buyers shortlisting an agency, OR <strong>By B2B Industry</strong> (Manufacturing, Logistics, Pharma, IT, Engineering) for buyers researching what marketing actually looks like in their industry. All FAQs schema-marked + AI-search optimised for ChatGPT, Perplexity, Google AI Overviews.</p>
         </div>
     </section>
 
     <section class="md-sec">
         <div class="container">
+            <div style="text-align:center;max-width:780px;margin:0 auto 36px;">
+                <span style="display:inline-block;font-size:11px;font-weight:800;letter-spacing:1.6px;text-transform:uppercase;color:#1e40af;background:rgba(30,64,175,0.10);padding:5px 12px;border-radius:14px;margin-bottom:14px;"><i class="fas fa-tools" style="margin-right:5px;"></i>By Service</span>
+                <h2 style="font-size:30px;font-weight:800;color:var(--md-primary);margin:0 0 12px;letter-spacing:-0.3px;">FAQs by service &mdash; pricing, process, ownership, support</h2>
+                <p style="font-size:15.5px;line-height:1.7;color:var(--md-body);margin:0;">12 service categories with 12 buyer-shortlist FAQs each. Real cost ranges in INR + USD, timeline expectations, source-code ownership, AMC + maintenance terms, tool stack, contract structure.</p>
+            </div>
             <div class="faqh-grid">
 
                 <a class="faqh-card" href="/faqs/custom-website-development.php" style="--accent:#1e40af;">
@@ -232,6 +237,76 @@
                     <div class="faqh-card-cat">Marketing</div>
                     <h3 class="faqh-card-title">WhatsApp Marketing</h3>
                     <p class="faqh-card-blurb">Drives 25-40% of revenue for mature D2C brands.</p>
+                    <span class="faqh-card-link">12 questions <i class="fas fa-arrow-right"></i></span>
+                </a>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- BY INDUSTRY (B2B) -->
+    <section class="md-sec alt-warm">
+        <div class="container">
+            <div style="text-align:center;max-width:780px;margin:0 auto 36px;">
+                <span style="display:inline-block;font-size:11px;font-weight:800;letter-spacing:1.6px;text-transform:uppercase;color:#be185d;background:rgba(236,72,153,0.10);padding:5px 12px;border-radius:14px;margin-bottom:14px;"><i class="fas fa-building" style="margin-right:5px;"></i>By B2B Industry</span>
+                <h2 style="font-size:30px;font-weight:800;color:var(--md-primary);margin:0 0 12px;letter-spacing:-0.3px;">FAQs by industry &mdash; questions B2B buyers actually search for</h2>
+                <p style="font-size:15.5px;line-height:1.7;color:var(--md-body);margin:0;">7 B2B industries with 12 search-intent FAQs each &mdash; covering Manufacturing, Logistics, Electronics, Pharma, IT Services, Engineering, and Industrial B2B Services. Built to rank in Google + AI Overviews + ChatGPT + Perplexity for questions your buyers actually ask online.</p>
+            </div>
+            <div class="faqh-grid">
+
+                <a class="faqh-card" href="/faqs/industry-manufacturing.php" style="--accent:#1e40af;">
+                    <div class="faqh-card-icon"><i class="fas fa-industry"></i></div>
+                    <div class="faqh-card-cat">B2B Industry</div>
+                    <h3 class="faqh-card-title">Manufacturing</h3>
+                    <p class="faqh-card-blurb">Lead-gen for industrial + engineered + custom-manufactured products.</p>
+                    <span class="faqh-card-link">12 questions <i class="fas fa-arrow-right"></i></span>
+                </a>
+
+                <a class="faqh-card" href="/faqs/industry-logistics.php" style="--accent:#0891b2;">
+                    <div class="faqh-card-icon"><i class="fas fa-truck-fast"></i></div>
+                    <div class="faqh-card-cat">B2B Industry</div>
+                    <h3 class="faqh-card-title">Logistics &amp; Supply Chain</h3>
+                    <p class="faqh-card-blurb">3PL, freight, last-mile, supply-chain B2B marketing.</p>
+                    <span class="faqh-card-link">12 questions <i class="fas fa-arrow-right"></i></span>
+                </a>
+
+                <a class="faqh-card" href="/faqs/industry-electronics.php" style="--accent:#7c3aed;">
+                    <div class="faqh-card-icon"><i class="fas fa-microchip"></i></div>
+                    <div class="faqh-card-cat">B2B Industry</div>
+                    <h3 class="faqh-card-title">B2B Electronics + Components</h3>
+                    <p class="faqh-card-blurb">OEM + EMS + distributor + semiconductor lead-gen.</p>
+                    <span class="faqh-card-link">12 questions <i class="fas fa-arrow-right"></i></span>
+                </a>
+
+                <a class="faqh-card" href="/faqs/industry-pharma.php" style="--accent:#0ea5e9;">
+                    <div class="faqh-card-icon"><i class="fas fa-pills"></i></div>
+                    <div class="faqh-card-cat">B2B Industry</div>
+                    <h3 class="faqh-card-title">Pharma + Healthcare B2B</h3>
+                    <p class="faqh-card-blurb">Pharma, API, biotech, healthcare B2B with compliance.</p>
+                    <span class="faqh-card-link">12 questions <i class="fas fa-arrow-right"></i></span>
+                </a>
+
+                <a class="faqh-card" href="/faqs/industry-it-services.php" style="--accent:#16a34a;">
+                    <div class="faqh-card-icon"><i class="fas fa-server"></i></div>
+                    <div class="faqh-card-cat">B2B Industry</div>
+                    <h3 class="faqh-card-title">IT Services &amp; Software</h3>
+                    <p class="faqh-card-blurb">IT services + consulting + product engineering pipeline.</p>
+                    <span class="faqh-card-link">12 questions <i class="fas fa-arrow-right"></i></span>
+                </a>
+
+                <a class="faqh-card" href="/faqs/industry-engineering.php" style="--accent:#f97316;">
+                    <div class="faqh-card-icon"><i class="fas fa-gears"></i></div>
+                    <div class="faqh-card-cat">B2B Industry</div>
+                    <h3 class="faqh-card-title">Engineering Services &amp; EPC</h3>
+                    <p class="faqh-card-blurb">Mechanical, civil, electrical, EPC, design services.</p>
+                    <span class="faqh-card-link">12 questions <i class="fas fa-arrow-right"></i></span>
+                </a>
+
+                <a class="faqh-card" href="/faqs/industry-industrial-b2b.php" style="--accent:#dc2626;">
+                    <div class="faqh-card-icon"><i class="fas fa-helmet-safety"></i></div>
+                    <div class="faqh-card-cat">B2B Industry</div>
+                    <h3 class="faqh-card-title">Industrial + B2B Services</h3>
+                    <p class="faqh-card-blurb">Other B2B + industrial services (general).</p>
                     <span class="faqh-card-link">12 questions <i class="fas fa-arrow-right"></i></span>
                 </a>
 
