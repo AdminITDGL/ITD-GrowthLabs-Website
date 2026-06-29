@@ -202,6 +202,12 @@
 
                 <div class="col-lg-4 col-md-6 mb-50"><div class="blog-style-one"><div class="info"><div class="meta"><ul><li><a href="#">ITD GrowthLabs Editorial Team</a></li><li>June 2026</li></ul></div><h3 class="post-title"><a href="../resources/Stripe_vs_Razorpay_Cross_Border_D2C_India_2026.php">Stripe vs Razorpay for Cross-Border D2C 2026 &mdash; Best Payment Gateway for India Brands Selling Abroad</a></h3><a href="../resources/Stripe_vs_Razorpay_Cross_Border_D2C_India_2026.php" class="button-regular">Continue Reading <i class="fas fa-arrow-right"></i></a></div></div></div>
 
+                <div class="col-lg-4 col-md-6 mb-50"><div class="blog-style-one"><div class="info"><div class="meta"><ul><li><a href="#">ITD GrowthLabs Editorial Team</a></li><li>June 2026</li></ul></div><h3 class="post-title"><a href="../resources/Best_D2C_Marketing_Agency_Chennai_2026.php">Best D2C Marketing Agency in Chennai 2026 &mdash; Healthcare, Automotive, Tamil Tier-2</a></h3><a href="../resources/Best_D2C_Marketing_Agency_Chennai_2026.php" class="button-regular">Continue Reading <i class="fas fa-arrow-right"></i></a></div></div></div>
+
+                <div class="col-lg-4 col-md-6 mb-50"><div class="blog-style-one"><div class="info"><div class="meta"><ul><li><a href="#">ITD GrowthLabs Editorial Team</a></li><li>June 2026</li></ul></div><h3 class="post-title"><a href="../resources/Best_D2C_Marketing_Agency_Hyderabad_2026.php">Best D2C Marketing Agency in Hyderabad 2026 &mdash; Pharma, Biotech, Tech + Telugu Tier-2</a></h3><a href="../resources/Best_D2C_Marketing_Agency_Hyderabad_2026.php" class="button-regular">Continue Reading <i class="fas fa-arrow-right"></i></a></div></div></div>
+
+                <div class="col-lg-4 col-md-6 mb-50"><div class="blog-style-one"><div class="info"><div class="meta"><ul><li><a href="#">ITD GrowthLabs Editorial Team</a></li><li>June 2026</li></ul></div><h3 class="post-title"><a href="../resources/Best_D2C_Marketing_Agency_Pune_2026.php">Best D2C Marketing Agency in Pune 2026 &mdash; Automotive, IT, Premium Lifestyle + Marathi Tier-2</a></h3><a href="../resources/Best_D2C_Marketing_Agency_Pune_2026.php" class="button-regular">Continue Reading <i class="fas fa-arrow-right"></i></a></div></div></div>
+
                 <!-- End NEW BOFU BATCH -->
 
                 <!-- Single Item -->
