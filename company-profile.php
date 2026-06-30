@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-    <meta name="description" content="ITD Services | Company Profile — Enterprise software engineering. Custom enterprise software, SaaS platforms, AI + OCR, quantum computing research. Established 2018 · Mumbai · 50+ engineers.">
+    <meta name="description" content="ITD Services (Intelligent Technology Development) | Company Profile — Enterprise software engineering. Custom enterprise software, SaaS platforms, AI + OCR, quantum computing research. Established 2018 · Mumbai · 30+ in-house professionals.">
     <title>ITD Services | Company Profile</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/company-profile.php" />
     <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
@@ -41,9 +41,9 @@
             {"@type":"Person","name":"Prashant Chaudhari","jobTitle":"Co-Founder, Business Strategy & Technology"}
         ],
         "description": "Enterprise software engineering and digital transformation. Established 2018 in Mumbai. Custom enterprise software, SaaS platforms, AI + OCR, mobile, cloud, quantum computing research.",
-        "numberOfEmployees": {"@type":"QuantitativeValue","minValue":50},
+        "numberOfEmployees": {"@type":"QuantitativeValue","minValue":30},
         "address": {"@type":"PostalAddress","streetAddress":"Andheri","addressLocality":"Mumbai","addressRegion":"Maharashtra","postalCode":"400053","addressCountry":"IN"},
-        "contactPoint": [{"@type":"ContactPoint","contactType":"sales","email":"info@itdgrowthlabs.com","telephone":"+91-8450978544"}]
+        "contactPoint": [{"@type":"ContactPoint","contactType":"sales","email":"loy@itdservices.in","telephone":"+91-9699666088"}]
     }
     </script>
 
@@ -60,13 +60,14 @@
     --surface-3:  #eef1f5;
     --line:       #e5e7eb;
     --line-2:     #d1d5db;
-    --text:       #0a0a0a;
-    --text-2:     #1f2937;
+    --brand-blue: #1e3a8a;
+    --text:       #1e3a8a;
+    --text-2:     #1e3a8a;
     --text-3:     #4b5563;
     --text-4:     #6b7280;
     --text-mute:  #9ca3af;
     --text-dim:   #d1d5db;
-    --accent:     #2563eb;
+    --accent:     #1e3a8a;
     --accent-2:   #1d4ed8;
     --accent-soft:#dbeafe;
     --gold:       #b45309;
@@ -156,10 +157,13 @@ a { color: inherit; text-decoration: none; }
 }
 .brand { display: flex; align-items: center; gap: 10px; font-weight: 600; font-size: 14px; color: var(--text); }
 .brand__mark {
-    width: 30px; height: 30px; border-radius: 7px;
-    background: var(--text); color: #fff;
-    font-weight: 800; font-size: 10px; letter-spacing: 0.04em;
+    width: 48px; height: 30px;
+    background: var(--bg);
+    border: 2px solid var(--brand-blue);
+    color: var(--brand-blue);
+    font-weight: 900; font-size: 12px; letter-spacing: 0.04em;
     display: flex; align-items: center; justify-content: center;
+    font-family: 'Inter', sans-serif;
 }
 .brand__txt { display: flex; flex-direction: column; line-height: 1.1; }
 .brand__txt strong { font-size: 14px; font-weight: 700; letter-spacing: -0.01em; }
@@ -275,13 +279,12 @@ a { color: inherit; text-decoration: none; }
 }
 .cover__pill__dot { width: 6px; height: 6px; border-radius: 50%; background: var(--green); box-shadow: 0 0 8px rgba(5,150,105,0.4); }
 .cover__mark {
-    width: 64px; height: 64px; border-radius: 14px;
-    background: var(--text); color: var(--bg);
-    font-weight: 800; font-size: 18px; letter-spacing: 0.04em;
-    display: flex; align-items: center; justify-content: center;
-    margin: 0 auto 28px;
-    box-shadow: 0 20px 50px rgba(0,0,0,0.12);
+    display: block; margin: 0 auto 32px;
+    max-width: 320px; width: 60vw;
+    height: auto;
 }
+.cover__mark .logo-svg { width: 100%; height: auto; display: block; }
+@media (max-width: 600px) { .cover__mark { width: 80vw; max-width: 280px; } }
 .cover h1 { margin-bottom: 18px; }
 .cover h1 .sub {
     display: block; font-size: 0.36em;
@@ -924,12 +927,14 @@ a { color: inherit; text-decoration: none; }
         <section class="slide cover" data-title="Cover">
             <div class="slide-inner">
                 <span class="cover__pill"><span class="cover__pill__dot"></span>Company Profile &middot; 2026</span>
-                <div class="cover__mark">ITD</div>
+                <div class="cover__mark" aria-label="ITD — Intelligent Technology Development">
+                    <img class="logo-svg" src="assets/img/itd-services-logo.png" alt="ITD — Intelligent Technology Development" />
+                </div>
                 <h1 class="display-1">ITD Services<span class="sub">Enterprise software engineering &amp; digital transformation.</span></h1>
                 <div class="cover__meta">
                     <div class="cover__meta-item"><small>Established</small><strong>2018</strong></div>
                     <div class="cover__meta-item"><small>HQ</small><strong>Mumbai</strong></div>
-                    <div class="cover__meta-item"><small>Team</small><strong>50+ Engineers</strong></div>
+                    <div class="cover__meta-item"><small>Team</small><strong>30+ Professionals</strong></div>
                     <div class="cover__meta-item"><small>Group</small><strong>ITD Group</strong></div>
                 </div>
             </div>
@@ -944,7 +949,7 @@ a { color: inherit; text-decoration: none; }
                 <div class="who-grid">
                     <div class="who-text">
                         <p><strong>ITD Services</strong> is an enterprise software engineering and digital transformation company established in <strong>2018</strong>.</p>
-                        <p>Our team of <strong>50+ in-house engineers</strong>, architects, designers, QA, BAs and DevOps practitioners operates from <strong>Andheri, Mumbai</strong>.</p>
+                        <p>Our team of <strong>30+ in-house professionals</strong> &mdash; engineers, architects, designers, QA, BAs and DevOps practitioners &mdash; operates from <strong>Andheri, Mumbai</strong>.</p>
                         <p>We are the technology arm of the <strong>ITD Group of Companies</strong> &mdash; serving clients across India, USA, UK, UAE and Australia.</p>
                     </div>
                     <div class="who-founders">
@@ -1002,11 +1007,6 @@ a { color: inherit; text-decoration: none; }
                     <div class="industry"><i class="fas fa-heartbeat industry__icon"></i><h4 class="industry__name">Healthcare</h4></div>
                     <div class="industry"><i class="fas fa-pills industry__icon"></i><h4 class="industry__name">Pharmaceuticals</h4></div>
                     <div class="industry"><i class="fas fa-cart-shopping industry__icon"></i><h4 class="industry__name">Retail &amp; E-commerce</h4></div>
-                    <div class="industry"><i class="fas fa-shield-halved industry__icon"></i><h4 class="industry__name">Insurance</h4></div>
-                    <div class="industry"><i class="fas fa-graduation-cap industry__icon"></i><h4 class="industry__name">Education</h4></div>
-                    <div class="industry"><i class="fas fa-city industry__icon"></i><h4 class="industry__name">Real Estate</h4></div>
-                    <div class="industry"><i class="fas fa-landmark-flag industry__icon"></i><h4 class="industry__name">Government</h4></div>
-                    <div class="industry"><i class="fas fa-atom industry__icon"></i><h4 class="industry__name">Deep-Tech &amp; R&amp;D</h4></div>
                     <div class="industry"><i class="fas fa-gears industry__icon"></i><h4 class="industry__name">Custom Enterprise</h4></div>
                 </div>
             </div>
@@ -1196,8 +1196,8 @@ a { color: inherit; text-decoration: none; }
                             <div class="project__icon"><i class="fas fa-flask"></i></div>
                             <span class="project__status"><span class="project__status__dot"></span>R&amp;D + Build</span>
                         </div>
-                        <h3>Deep-Tech Data Platform (under NDA)</h3>
-                        <p>Multi-year engagement engineering a high-volume scientific data platform for a deep-tech R&amp;D client.</p>
+                        <h3>Enterprise Data Platform (under NDA)</h3>
+                        <p>Multi-year engagement engineering a high-volume scientific data platform for an R&amp;D-focused enterprise client.</p>
                     </div>
                 </div>
             </div>
@@ -1335,7 +1335,7 @@ a { color: inherit; text-decoration: none; }
                 <div class="stats-grid">
                     <div class="stat"><div class="stat__n" data-target="300" data-suffix="+">0</div><div class="stat__lbl">Enterprise Clients</div><div class="stat__sub">Logistics platform in production</div></div>
                     <div class="stat"><div class="stat__n" data-target="10" data-suffix="M+">0</div><div class="stat__lbl">Records Processed</div><div class="stat__sub">Shipments + invoices + documents</div></div>
-                    <div class="stat"><div class="stat__n" data-target="50" data-suffix="+">0</div><div class="stat__lbl">Engineering Team</div><div class="stat__sub">In-house professionals</div></div>
+                    <div class="stat"><div class="stat__n" data-target="30" data-suffix="+">0</div><div class="stat__lbl">In-House Professionals</div><div class="stat__sub">Engineers, designers, DevOps, QA, BAs</div></div>
                     <div class="stat"><div class="stat__n" data-target="100" data-suffix="+">0</div><div class="stat__lbl">Implementations</div><div class="stat__sub">Custom + product engagements</div></div>
                     <div class="stat"><div class="stat__n" data-target="99.9" data-suffix="%" data-decimals="1">0</div><div class="stat__lbl">Platform Availability</div><div class="stat__sub">Production SLA</div></div>
                     <div class="stat"><div class="stat__n" data-target="7" data-suffix="+">0</div><div class="stat__lbl">Years Operating</div><div class="stat__sub">Established 2018, Mumbai</div></div>
@@ -1356,7 +1356,7 @@ a { color: inherit; text-decoration: none; }
                     <div class="client-tile"><div class="client-tile__name">Skynet</div><div class="client-tile__type">Logistics</div></div>
                     <div class="client-tile"><div class="client-tile__name">300+ More</div><div class="client-tile__type">Logistics Platform</div></div>
                     <div class="client-tile"><div class="client-tile__name">US-Based</div><div class="client-tile__type">Quantum Initiative</div></div>
-                    <div class="client-tile"><div class="client-tile__name">On NDA</div><div class="client-tile__type">Deep-Tech R&amp;D</div></div>
+                    <div class="client-tile"><div class="client-tile__name">On NDA</div><div class="client-tile__type">Enterprise R&amp;D</div></div>
                 </div>
             </div>
         </section>
@@ -1376,14 +1376,21 @@ a { color: inherit; text-decoration: none; }
                 </div>
 
                 <div class="final__cards">
-                    <div class="final-card"><div class="final-card__lbl">Email</div><div class="final-card__t">Enterprise enquiries</div><a href="mailto:info@itdgrowthlabs.com">info@itdgrowthlabs.com</a></div>
-                    <div class="final-card"><div class="final-card__lbl">Phone</div><div class="final-card__t">Direct &amp; WhatsApp</div><a href="tel:+918450978544">+91 84509 78544</a></div>
-                    <div class="final-card"><div class="final-card__lbl">Office</div><div class="final-card__t">Andheri, Mumbai</div><span style="color:var(--text-3);font-size:12.5px;">400053, Maharashtra</span></div>
+                    <div class="final-card"><div class="final-card__lbl">Email</div><div class="final-card__t">Enterprise enquiries</div><a href="mailto:loy@itdservices.in">loy@itdservices.in</a><div style="margin-top:6px;font-size:12px;color:var(--text-4);">Alt: <a href="mailto:info@itdgrowthlabs.com" style="font-size:12px;color:var(--text-3);">info@itdgrowthlabs.com</a></div></div>
+                    <div class="final-card"><div class="final-card__lbl">WhatsApp &amp; Phone</div><div class="final-card__t">Direct line</div><a href="https://wa.me/919699666088" target="_blank" rel="noopener">+91 96996 66088</a></div>
+                    <div class="final-card"><div class="final-card__lbl">Head Office</div><div class="final-card__t">Andheri, Mumbai</div><span style="color:var(--text-3);font-size:12.5px;">400053, Maharashtra</span></div>
                 </div>
 
                 <a href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank" rel="noopener" class="final__cta">
                     Book Discovery Session <i class="fas fa-arrow-right"></i>
                 </a>
+
+                <div style="margin-top:44px;display:flex;flex-direction:column;align-items:center;gap:12px;">
+                    <img src="assets/img/itd-services-logo.png" alt="ITD — Intelligent Technology Development" style="width:200px;height:auto;max-width:60vw;display:block;" />
+                    <div style="font-family:'JetBrains Mono',monospace;font-size:10.5px;letter-spacing:0.16em;text-transform:uppercase;color:var(--text-mute);">
+                        ITD Services &middot; Established 2018 &middot; Mumbai
+                    </div>
+                </div>
             </div>
         </section>
 
