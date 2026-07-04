@@ -462,41 +462,11 @@
 			});
 		});
 
-		/* ==================================================
-		    CTA Redirects -> Contact Us Form
-		================================================== */
-		function getContactUsUrl() {
-			// Root-relative contact page (works on live site + local XAMPP subfolder).
-			var parts = window.location.pathname.split('/').filter(Boolean);
-			var idx = parts.lastIndexOf('GROWTHLAB_STATIC');
-			if (idx !== -1) {
-				return '/' + parts.slice(0, idx + 1).join('/') + '/contact-us.php';
-			}
-			// Live: /services/page.php must NOT use bare "contact-us.php" (that hits /services/contact-us.php).
-			var si = parts.indexOf('services');
-			if (si !== -1) {
-				var prefix = parts.slice(0, si).join('/');
-				return (prefix ? '/' + prefix : '') + '/contact-us.php';
-			}
-			return '/contact-us.php';
-		}
-
-		$('body').on('click', 'a', function(e) {
-			var href = ($(this).attr('href') || '').toString();
-			if (!href) return;
-
-			var isCtaCalendly = href.indexOf('contact-us.php') === 0;
-			var isCtaLpAppDev = href.indexOf('contact-us.php') === 0;
-
-			// Also catch URL variants (with trailing # / querystring)
-			if (!isCtaCalendly && href.indexOf('calendly.com/itdgrowthlabs-info/30min') !== -1) isCtaCalendly = true;
-			if (!isCtaLpAppDev && href.indexOf('itdgrowthlabs.com/lp/app-development.php') !== -1) isCtaLpAppDev = true;
-
-			if (isCtaCalendly || isCtaLpAppDev) {
-				e.preventDefault();
-				window.location.href = getContactUsUrl();
-			}
-		});
+		// Legacy "CTA Redirects -> Contact Us Form" block removed:
+		// it was hijacking every calendly.com/itdgrowthlabs-info click and
+		// force-redirecting to /contact-us.php via window.location.href, which
+		// broke the Book-a-Call flow (Calendly never opened). Calendly is our
+		// booking system now — anchors with target="_blank" open it natively.
 
 	}); // end document ready function
 
