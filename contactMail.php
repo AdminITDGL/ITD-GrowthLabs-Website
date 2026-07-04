@@ -27,14 +27,30 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // if PHPMailer's connect() times out.
     itdgl_log_lead('contactMail', compact('name', 'email', 'mobile', 'service', 'message'));
 
+    // reCAPTCHA v3 verification with 5s timeout so a slow siteverify never hangs
+    // the request. Threshold lowered from 0.5 → 0.3: v3 scores users on behaviour;
+    // legit first-time visitors, VPN/privacy-tool users, and mobile users routinely
+    // score 0.3–0.4. Anything under 0.3 is confidently bot.
     $secretKey = "6Lcm0hosAAAAAO-sjX64qw9HYhBf-tpFkT_RUdqy";
     $response = $_POST['g-recaptcha-response'] ?? '';
-    $url = 'https://www.google.com/recaptcha/api/siteverify?secret=' . $secretKey . '&response=' . $response;
-    $verify = file_get_contents($url);
-    $captcha_success = json_decode($verify);
+    $captcha_success = null;
+    if ($response !== '') {
+        $ctx = stream_context_create(['http' => ['timeout' => 5, 'method' => 'POST',
+            'header' => "Content-Type: application/x-www-form-urlencoded\r\n",
+            'content' => http_build_query(['secret' => $secretKey, 'response' => $response,
+                'remoteip' => $_SERVER['REMOTE_ADDR'] ?? ''])]]);
+        $verify = @file_get_contents('https://www.google.com/recaptcha/api/siteverify', false, $ctx);
+        if ($verify !== false) $captcha_success = json_decode($verify);
+    }
 
-    if (!$captcha_success->success || $captcha_success->score < 0.5) {
-        echo json_encode(['status' => 'error', 'message' => 'Captcha verification failed!']);
+    // Fail-open on verification errors: if Google's endpoint is unreachable or
+    // slow, don't block the user — the honeypot + timestamp + rate-limit in
+    // itdgl_verify_submission() already filter bots. Only block when we have a
+    // definitive score < 0.3 (confidently bot).
+    if ($captcha_success && isset($captcha_success->success) && $captcha_success->success
+        && isset($captcha_success->score) && $captcha_success->score < 0.3) {
+        error_log('[ITDGL-CAPTCHA] Low score reject: ' . $captcha_success->score . ' IP=' . ($_SERVER['REMOTE_ADDR'] ?? ''));
+        echo json_encode(['status' => 'error', 'message' => 'Verification failed. Please refresh and try again.']);
         exit;
     }
 

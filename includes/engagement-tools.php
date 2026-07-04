@@ -10,13 +10,17 @@
 <!-- Floating CTA cluster: Calendly (primary) + WhatsApp (secondary) -->
 <div id="itdgl-float-cluster" style="position:fixed;bottom:25px;right:25px;z-index:9999;display:flex;flex-direction:column;gap:14px;align-items:flex-end;">
 
-    <!-- Book a Call (Calendly) -->
+    <!-- Book a Call (Calendly) — plain anchor, opens in new tab. No JS-only triggers
+         (widget.js popup mode caused a "10-15 clicks needed" bug because the async
+          widget wasn't ready on early clicks; target="_blank" is deterministic). -->
     <a href="https://calendly.com/itdgrowthlabs-info/30min"
-       onclick="if(window.Calendly){Calendly.initPopupWidget({url:'https://calendly.com/itdgrowthlabs-info/30min'});if(typeof gtag==='function')gtag('event','calendly_open',{source:'float_button'});return false;}"
+       onclick="if(typeof gtag==='function')gtag('event','calendly_open',{source:'float_button'});"
        target="_blank"
+       rel="noopener"
        id="calendly-float"
+       data-source="float_button"
        aria-label="Book a free 30-minute consultation"
-       style="background:linear-gradient(135deg,#1565c0,#0d47a1);color:#fff;padding:14px 22px;border-radius:50px;display:flex;align-items:center;gap:10px;box-shadow:0 4px 14px rgba(13,71,161,0.35);text-decoration:none;font-weight:700;font-size:14px;letter-spacing:0.2px;transition:transform 0.25s ease, box-shadow 0.25s ease;" rel="noopener">
+       style="background:linear-gradient(135deg,#1565c0,#0d47a1);color:#fff;padding:14px 22px;border-radius:50px;display:flex;align-items:center;gap:10px;box-shadow:0 4px 14px rgba(13,71,161,0.35);text-decoration:none;font-weight:700;font-size:14px;letter-spacing:0.2px;transition:transform 0.25s ease, box-shadow 0.25s ease;">
         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="3"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/><circle cx="12" cy="16" r="1.5" fill="currentColor"/></svg>
         <span class="cta-label">Book Free Call</span>
     </a>
@@ -50,25 +54,17 @@
     }
 </style>
 
-<!-- Sitewide Calendly inline CTA helper:
-     Any element with class="js-book-call" or href containing 'calendly.com/itdgrowthlabs-info'
-     auto-opens the Calendly popup instead of navigating away. -->
+<!-- Sitewide Calendly click tracking — analytics ONLY, never preventDefault.
+     Every Calendly CTA on the site uses target="_blank" + a plain href, so clicks
+     always open Calendly in a new tab. We just fire the GA4 event for tracking.
+
+     Rationale: the previous version tried to hijack desktop clicks into a popup
+     widget, which caused a "10-15 clicks needed" bug — Calendly's widget.js
+     loads async so early clicks fired before window.Calendly existed, and even
+     when loaded initPopupWidget had visible-latency issues. Plain anchors are
+     deterministic. -->
 <script>
 (function(){
-    // Sitewide Calendly handler — strict-precedence rules so a Book-a-Call click
-    // NEVER goes anywhere unexpected:
-    //
-    //   1. If the anchor has target="_blank" OR the user has Ctrl/Cmd/Shift-clicked
-    //      OR the click is a middle-click → let the browser handle it normally
-    //      (opens Calendly in a new tab). We just fire the GA event and return.
-    //   2. On mobile (<769px) → same: don't preventDefault, let the browser navigate.
-    //   3. On desktop with Calendly widget JS mounted → open the inline popup widget.
-    //   4. If the popup widget throws (CSP, ad-blocker, mount failure) →
-    //      fall back to opening Calendly in a new tab.
-    //
-    // The key fix: target="_blank" anchors are always allowed to navigate naturally,
-    // so the hero "Book a Free 30-min Call" CTA is bullet-proof.
-    var isMobile = window.matchMedia && window.matchMedia('(max-width: 768px)').matches;
     document.addEventListener('click', function(e){
         var a = e.target.closest('a, button');
         if (!a) return;
@@ -76,32 +72,8 @@
         var isCalendlyTrigger = a.classList.contains('js-book-call') ||
                                 /calendly\.com\/itdgrowthlabs-info/i.test(href);
         if (!isCalendlyTrigger) return;
-
-        // Always fire the GA4 event (analytics decoupled from popup state).
         if (typeof gtag === 'function') {
             gtag('event', 'calendly_open', { source: a.dataset.source || 'inline_cta' });
-        }
-
-        // Strict rule #1: target="_blank" anchors must always navigate naturally.
-        // This makes "Book a Free 30-min Call" deterministic — it always opens
-        // Calendly in a new tab, regardless of Calendly widget state.
-        if (a.getAttribute('target') === '_blank') return;
-
-        // Strict rule #2: modified-key clicks open the URL in a new tab — let them.
-        if (e.ctrlKey || e.metaKey || e.shiftKey || e.button === 1) return;
-
-        // Strict rule #3: on mobile, let target navigate (most mobile clicks are
-        // taps, and Calendly's mobile popup is poor UX anyway).
-        if (isMobile || !window.Calendly) return;
-
-        // Desktop + Calendly mounted → open the inline popup widget.
-        e.preventDefault();
-        var url = href && /calendly\.com/i.test(href) ? href : 'https://calendly.com/itdgrowthlabs-info/30min';
-        try {
-            Calendly.initPopupWidget({url: url});
-        } catch (err) {
-            // Popup mount failed (CSP / ad-blocker / load race). Fall back to new tab.
-            window.open(url, '_blank', 'noopener');
         }
     }, false);
 })();
