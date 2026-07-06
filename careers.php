@@ -7,13 +7,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="ITD GrowthLabs careers — 5 open roles in 2026: Web Developer, Graphic Designer + Video Editor, UI/UX Designer, Social Media Associate (Mumbai), Quantum Computing Engineer (Remote). Full-Time + Internship.">
-    <title>Careers &mdash; 5 Open Roles at ITD GrowthLabs (Mumbai + Remote) 2026 | ITD GrowthLabs</title>
+    <meta name="description" content="ITD GrowthLabs careers — 7 open roles in 2026: Web Developer, Graphic Designer + Video Editor, UI/UX Designer, Social Media Associate, Social Media Manager, Content Writer & Strategist (all Mumbai) + Quantum Computing Engineer (Remote). Full-Time + Internship.">
+    <title>Careers &mdash; 7 Open Roles at ITD GrowthLabs (Mumbai + Remote) 2026 | ITD GrowthLabs</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/careers.php" />
     <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
 
     <meta property="og:title" content="Build something that matters — ITD GrowthLabs Careers" />
-    <meta property="og:description" content="5 open roles in 2026. Web Developer, Designer + Video Editor, UI/UX, Social Media (Mumbai), Quantum Computing Engineer (Remote)." />
+    <meta property="og:description" content="7 open roles in 2026. Web Developer, Designer + Video Editor, UI/UX, Social Media Associate, Social Media Manager, Content Writer & Strategist (Mumbai) + Quantum Computing Engineer (Remote)." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://itdgrowthlabs.com/careers.php" />
     <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
@@ -49,6 +49,12 @@
     </script>
     <script type="application/ld+json">
     {"@context": "https://schema.org", "@type": "JobPosting", "title": "Social Media Associate (Full-Time / Internship)", "description": "Manage 3–5 client accounts. Calendars, copy, scheduling, community, reporting.", "datePosted": "2026-06-24", "validThrough": "2026-12-31", "employmentType": ["FULL_TIME", "INTERN"], "hiringOrganization": {"@type": "Organization", "name": "ITD GrowthLabs", "sameAs": "https://itdgrowthlabs.com", "logo": "https://itdgrowthlabs.com/assets/img/logo.jpg"}, "jobLocation": {"@type": "Place", "address": {"@type": "PostalAddress", "streetAddress": "Andheri", "addressLocality": "Mumbai", "addressRegion": "Maharashtra", "postalCode": "400053", "addressCountry": "IN"}}, "url": "https://itdgrowthlabs.com/careers/social-media-associate.php", "totalJobOpenings": 2, "directApply": true, "experienceRequirements": {"@type": "OccupationalExperienceRequirements", "monthsOfExperience": 12}, "baseSalary": {"@type": "MonetaryAmount", "currency": "INR", "value": {"@type": "QuantitativeValue", "minValue": 300000, "maxValue": 800000, "unitText": "YEAR"}}}
+    </script>
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "JobPosting", "title": "Social Media Manager (2–3 Years Experience)", "description": "Own client accounts end-to-end. Calendars, campaigns, creative direction, team coordination, monthly reporting.", "datePosted": "2026-07-06", "validThrough": "2026-12-31", "employmentType": "FULL_TIME", "hiringOrganization": {"@type": "Organization", "name": "ITD GrowthLabs", "sameAs": "https://itdgrowthlabs.com", "logo": "https://itdgrowthlabs.com/assets/img/logo.jpg"}, "jobLocation": {"@type": "Place", "address": {"@type": "PostalAddress", "streetAddress": "Andheri", "addressLocality": "Mumbai", "addressRegion": "Maharashtra", "postalCode": "400053", "addressCountry": "IN"}}, "url": "https://itdgrowthlabs.com/careers/social-media-manager.php", "totalJobOpenings": 1, "directApply": true, "experienceRequirements": {"@type": "OccupationalExperienceRequirements", "monthsOfExperience": 24}, "baseSalary": {"@type": "MonetaryAmount", "currency": "INR", "value": {"@type": "QuantitativeValue", "minValue": 500000, "maxValue": 1200000, "unitText": "YEAR"}}}
+    </script>
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "JobPosting", "title": "Content Writer & Content Strategist (1+ Year Experience)", "description": "SEO content, website copy, blogs, LinkedIn, social copy + content strategy for D2C + B2B clients.", "datePosted": "2026-07-06", "validThrough": "2026-12-31", "employmentType": "FULL_TIME", "hiringOrganization": {"@type": "Organization", "name": "ITD GrowthLabs", "sameAs": "https://itdgrowthlabs.com", "logo": "https://itdgrowthlabs.com/assets/img/logo.jpg"}, "jobLocation": {"@type": "Place", "address": {"@type": "PostalAddress", "streetAddress": "Andheri", "addressLocality": "Mumbai", "addressRegion": "Maharashtra", "postalCode": "400053", "addressCountry": "IN"}}, "url": "https://itdgrowthlabs.com/careers/content-writer-content-strategist.php", "totalJobOpenings": 1, "directApply": true, "experienceRequirements": {"@type": "OccupationalExperienceRequirements", "monthsOfExperience": 12}, "baseSalary": {"@type": "MonetaryAmount", "currency": "INR", "value": {"@type": "QuantitativeValue", "minValue": 350000, "maxValue": 800000, "unitText": "YEAR"}}}
     </script>
     <script type="application/ld+json">
     {"@context": "https://schema.org", "@type": "JobPosting", "title": "Quantum Computing Engineer — Financial Services", "description": "Quantum + quantum-inspired solutions for portfolio optimisation, risk, pricing.", "datePosted": "2026-06-24", "validThrough": "2026-12-31", "employmentType": "FULL_TIME", "hiringOrganization": {"@type": "Organization", "name": "ITD GrowthLabs", "sameAs": "https://itdgrowthlabs.com", "logo": "https://itdgrowthlabs.com/assets/img/logo.jpg"}, "jobLocation": {"@type": "Place", "address": {"@type": "PostalAddress", "addressCountry": "IN"}}, "url": "https://itdgrowthlabs.com/careers/quantum-computing-engineer-financial-services.php", "totalJobOpenings": 1, "directApply": true, "experienceRequirements": {"@type": "OccupationalExperienceRequirements", "monthsOfExperience": 24}, "baseSalary": {"@type": "MonetaryAmount", "currency": "INR", "value": {"@type": "QuantitativeValue", "minValue": 1500000, "maxValue": 4000000, "unitText": "YEAR"}}, "jobLocationType": "TELECOMMUTE", "applicantLocationRequirements": {"@type": "Country", "name": "India"}}
@@ -317,7 +323,7 @@
 
     <section class="careers-hero">
         <div class="container">
-            <span class="eyebrow"><span class="dot"></span>5 open roles &middot; Hiring now &middot; Mumbai + Remote</span>
+            <span class="eyebrow"><span class="dot"></span>7 open roles &middot; Hiring now &middot; Mumbai + Remote</span>
             <h1>Join us. <span class="grad">Build something real.</span></h1>
             <div class="hero-pills">
                 <span><i class="fas fa-rocket"></i>Real work from day one</span>
@@ -326,7 +332,7 @@
                 <span><i class="fas fa-location-dot"></i>Andheri HQ + Remote</span>
             </div>
             <div class="cta-row">
-                <a href="#open-roles" class="cta-primary"><i class="fas fa-briefcase"></i>See 5 open roles</a>
+                <a href="#open-roles" class="cta-primary"><i class="fas fa-briefcase"></i>See 7 open roles</a>
                 <a href="mailto:info@itdgrowthlabs.com?subject=Career%20enquiry" class="cta-secondary"><i class="fas fa-envelope"></i>Don&rsquo;t see your role? Email us</a>
             </div>
         </div>
@@ -335,7 +341,7 @@
     <section class="jobs-section" id="open-roles">
         <div class="container">
             <div class="section-eyebrow">Open positions &middot; 2026</div>
-            <h2>5 roles. 1 senior-led team. Apply in 2 minutes.</h2>
+            <h2>7 roles. 1 senior-led team. Apply in 2 minutes.</h2>
             <p class="sec-sub">Click any role to read the full job description and apply with your CV. We review every application personally and reply within 5 business days &mdash; no ghosting.</p>
             <div class="job-grid">
             <a href="/careers/web-developer.php" class="job-card" style="--card-grad-a:#1e40af;--card-grad-b:#3b82f6;">
@@ -406,6 +412,44 @@
                     <div class="job-card-tags">
                         <span class="tag"><i class="fas fa-briefcase"></i>Full-Time / Internship</span>
                         <span class="tag"><i class="fas fa-location-dot"></i>Mumbai</span>
+                    </div>
+                    <span class="job-card-cta">View role &amp; apply <i class="fas fa-arrow-right"></i></span>
+                </div>
+            </a>
+            <a href="/careers/social-media-manager.php" class="job-card" style="--card-grad-a:#8b5cf6;--card-grad-b:#6366f1;">
+                <div class="job-card-banner">
+                    <div class="job-card-icon"><i class="fas fa-bullhorn"></i></div>
+                    <div class="job-card-meta-row">
+                        <span class="job-card-pill"><i class="fas fa-circle" style="font-size:6px;"></i> 01 open</span>
+                    </div>
+                </div>
+                <div class="job-card-body">
+                    <h3>Social Media Manager</h3>
+                    <p class="job-card-tagline">Strategic lead + campaigns + team coordination</p>
+                    <p class="job-card-blurb">Own 4&ndash;6 client accounts end-to-end. Calendars, campaigns, creative direction, monthly reporting.</p>
+                    <div class="job-card-tags">
+                        <span class="tag"><i class="fas fa-briefcase"></i>Full-Time</span>
+                        <span class="tag"><i class="fas fa-location-dot"></i>Mumbai</span>
+                        <span class="tag"><i class="fas fa-clock"></i>2&ndash;3 yrs</span>
+                    </div>
+                    <span class="job-card-cta">View role &amp; apply <i class="fas fa-arrow-right"></i></span>
+                </div>
+            </a>
+            <a href="/careers/content-writer-content-strategist.php" class="job-card" style="--card-grad-a:#0891b2;--card-grad-b:#06b6d4;">
+                <div class="job-card-banner">
+                    <div class="job-card-icon"><i class="fas fa-pen-nib"></i></div>
+                    <div class="job-card-meta-row">
+                        <span class="job-card-pill"><i class="fas fa-circle" style="font-size:6px;"></i> 01 open</span>
+                    </div>
+                </div>
+                <div class="job-card-body">
+                    <h3>Content Writer &amp; Strategist</h3>
+                    <p class="job-card-tagline">SEO + websites + blogs + LinkedIn + strategy</p>
+                    <p class="job-card-blurb">Write full-funnel content and set content strategy for 5&ndash;8 D2C + B2B clients.</p>
+                    <div class="job-card-tags">
+                        <span class="tag"><i class="fas fa-briefcase"></i>Full-Time</span>
+                        <span class="tag"><i class="fas fa-location-dot"></i>Mumbai</span>
+                        <span class="tag"><i class="fas fa-clock"></i>1+ yr</span>
                     </div>
                     <span class="job-card-cta">View role &amp; apply <i class="fas fa-arrow-right"></i></span>
                 </div>
