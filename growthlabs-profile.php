@@ -134,13 +134,12 @@ p{ margin:0; color:var(--text-3); }
       backdrop-filter:saturate(180%) blur(14px); -webkit-backdrop-filter:saturate(180%) blur(14px);
       border-bottom:1px solid var(--line); }
 .brand{ display:flex; align-items:center; gap:11px; }
-.brand__mark{ display:inline-flex; align-items:center; height:38px; }
-.brand__mark svg{ height:32px; width:auto; display:block; }
-.brand__txt{ display:flex; flex-direction:column; line-height:1.05; }
-.brand__txt strong{ font-family:var(--font-display); font-size:14.5px; font-weight:800;
-      color:var(--ink); letter-spacing:-0.02em; }
-.brand__txt small{ font-family:var(--font-mono); font-size:9.5px; font-weight:500;
-      letter-spacing:0.16em; text-transform:uppercase; color:var(--text-mute); margin-top:2px; }
+.brand__mark{ display:inline-flex; align-items:center; height:44px; text-decoration:none; }
+.brand__mark img{ height:38px; width:auto; display:block; }
+.brand__txt{ display:flex; flex-direction:column; line-height:1.05; padding-left:2px; border-left:1px solid var(--line); margin-left:12px; padding-left:14px; }
+.brand__txt small{ font-family:var(--font-mono); font-size:9.5px; font-weight:600;
+      letter-spacing:0.14em; text-transform:uppercase; color:var(--blue); }
+@media (max-width:700px){ .brand__mark img{ height:32px; } .brand__txt{ display:none; } }
 .slide-title{ flex:1; text-align:center; font-family:var(--font-display); font-size:13px; font-weight:700;
       color:var(--ink); letter-spacing:-0.01em; padding:0 16px;
       overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
@@ -226,14 +225,16 @@ p{ margin:0; color:var(--text-3); }
       background:#10b981; box-shadow:0 0 12px rgba(16,185,129,0.5);
       animation:pulse 2s ease-in-out infinite; }
 @keyframes pulse{ 0%,100%{ opacity:1; } 50%{ opacity:0.5; } }
-.cover__logo{ display:inline-block; margin-bottom:32px; padding:22px 34px;
+.cover__logo{ display:inline-block; margin-bottom:32px; padding:26px 40px;
       background:var(--bg); border:1px solid var(--line); border-radius:22px;
-      box-shadow:var(--shadow); position:relative; overflow:hidden; }
+      box-shadow:var(--shadow); position:relative; overflow:hidden; text-align:center; }
 .cover__logo::before{ content:''; position:absolute; top:-40px; right:-40px; width:140px; height:140px;
       background:var(--gradient-brand); border-radius:50%; opacity:0.08; }
-.cover__logo svg{ display:block; height:64px; width:auto; position:relative; z-index:2; }
-@media (max-width:520px){ .cover__logo{ padding:16px 22px; } .cover__logo svg{ height:44px; } }
-.cover__logo__tag{ display:block; margin-top:6px; font-family:var(--font-mono); font-size:10.5px; font-weight:600;
+.cover__logo img{ display:block; height:auto; width:auto; max-height:96px; max-width:100%;
+      position:relative; z-index:2; margin-inline:auto; }
+@media (max-width:700px){ .cover__logo{ padding:20px 26px; } .cover__logo img{ max-height:64px; } }
+@media (max-width:420px){ .cover__logo{ padding:16px 20px; } .cover__logo img{ max-height:52px; } }
+.cover__logo__tag{ display:block; margin-top:10px; font-family:var(--font-mono); font-size:10.5px; font-weight:600;
       letter-spacing:0.16em; text-transform:uppercase; color:var(--blue); text-align:center; position:relative; z-index:2; }
 .cover h1{ margin-bottom:18px; }
 .cover h1 .sub{ display:block; font-size:0.32em; font-weight:500; color:var(--text-3);
@@ -570,23 +571,10 @@ p{ margin:0; color:var(--text-3); }
 
 <header class="chrome-top">
     <div class="brand">
-        <div class="brand__mark" aria-label="ITD GrowthLabs">
-            <svg viewBox="0 0 68 60" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true">
-                <!-- Outer arrow shafts (navy) -->
-                <line x1="14" y1="52" x2="14" y2="22" stroke="#1e3a8a" stroke-width="6" stroke-linecap="round"/>
-                <line x1="54" y1="52" x2="54" y2="22" stroke="#1e3a8a" stroke-width="6" stroke-linecap="round"/>
-                <!-- Outer arrow heads (navy) -->
-                <path d="M 6 30 L 14 20 L 22 30" stroke="#1e3a8a" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M 46 30 L 54 20 L 62 30" stroke="#1e3a8a" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-                <!-- Curved base joining outer arrows -->
-                <path d="M 14 52 Q 34 62 54 52" stroke="#1e3a8a" stroke-width="6" fill="none" stroke-linecap="round"/>
-                <!-- Center arrow (bright blue, tallest) -->
-                <line x1="34" y1="52" x2="34" y2="12" stroke="#3b82f6" stroke-width="6" stroke-linecap="round"/>
-                <path d="M 26 20 L 34 10 L 42 20" stroke="#3b82f6" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-            </svg>
-        </div>
+        <a href="/" class="brand__mark" aria-label="ITD GrowthLabs">
+            <img src="assets/img/logo.jpg" alt="ITD GrowthLabs" loading="eager">
+        </a>
         <div class="brand__txt">
-            <strong>ITD GrowthLabs</strong>
             <small>Digital Growth Studio</small>
         </div>
     </div>
@@ -608,26 +596,7 @@ p{ margin:0; color:var(--text-3); }
         <span class="cover__pill"><span class="cover__pill__dot"></span>Digital Growth Studio &middot; Mumbai, India</span>
 
         <div class="cover__logo">
-            <svg viewBox="0 0 480 76" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ITD GrowthLabs">
-                <!-- ITD text -->
-                <text x="0" y="60" font-family="Sora, Inter, sans-serif" font-weight="900" font-size="62" letter-spacing="-0.03em" fill="#1e3a8a">ITD</text>
-                <!-- Rocket motif -->
-                <g transform="translate(140, 4)">
-                    <!-- Outer arrow shafts (navy) -->
-                    <line x1="14" y1="66" x2="14" y2="26" stroke="#1e3a8a" stroke-width="6.5" stroke-linecap="round"/>
-                    <line x1="54" y1="66" x2="54" y2="26" stroke="#1e3a8a" stroke-width="6.5" stroke-linecap="round"/>
-                    <!-- Outer arrow heads (navy) -->
-                    <path d="M 6 34 L 14 24 L 22 34" stroke="#1e3a8a" stroke-width="6.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-                    <path d="M 46 34 L 54 24 L 62 34" stroke="#1e3a8a" stroke-width="6.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-                    <!-- Curved base joining outer arrows -->
-                    <path d="M 14 66 Q 34 76 54 66" stroke="#1e3a8a" stroke-width="6.5" fill="none" stroke-linecap="round"/>
-                    <!-- Center arrow (bright blue, tallest) -->
-                    <line x1="34" y1="66" x2="34" y2="14" stroke="#3b82f6" stroke-width="6.5" stroke-linecap="round"/>
-                    <path d="M 26 22 L 34 12 L 42 22" stroke="#3b82f6" stroke-width="6.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-                </g>
-                <!-- GrowthLabs text -->
-                <text x="220" y="60" font-family="Sora, Inter, sans-serif" font-weight="900" font-size="62" letter-spacing="-0.03em" fill="#1e3a8a">GrowthLabs</text>
-            </svg>
+            <img src="assets/img/logo.jpg" alt="ITD GrowthLabs" loading="eager">
             <span class="cover__logo__tag">Digital Growth, Engineered.</span>
         </div>
 
