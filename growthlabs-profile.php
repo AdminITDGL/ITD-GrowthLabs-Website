@@ -59,23 +59,28 @@
     --ink:#0f172a; --ink-2:#1e293b; --ink-3:#334155; --ink-4:#475569;
     --text:#0f172a; --text-2:#334155; --text-3:#475569; --text-4:#64748b; --text-mute:#94a3b8; --text-dim:#cbd5e1;
 
-    /* ITD GrowthLabs brand palette */
-    --orange:#f97316; --orange-2:#ea580c; --orange-3:#c2410c;
-    --red:#ef4444; --red-2:#dc2626; --red-3:#b91c1c;
-    --amber:#f59e0b; --coral:#fb7185;
-    --gradient-brand:linear-gradient(135deg, #f97316 0%, #ef4444 60%, #dc2626 100%);
-    --gradient-brand-soft:linear-gradient(135deg, #fed7aa 0%, #fecaca 100%);
-    --gradient-warm:linear-gradient(135deg, #fff7ed 0%, #fef2f2 100%);
-    --gradient-dark:linear-gradient(135deg, #0f172a 0%, #1e293b 60%, #1e1b4b 100%);
-    --gradient-tech:linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%);
-    --gradient-growth:linear-gradient(135deg, #10b981 0%, #059669 100%);
-    --gradient-creative:linear-gradient(135deg, #ec4899 0%, #f97316 100%);
+    /* ITD GrowthLabs brand palette — BLUE (matches logo) */
+    --blue:#1e40af; --blue-2:#1e3a8a; --blue-3:#172554;
+    --blue-light:#3b82f6; --blue-sky:#60a5fa;
+    --cyan:#0ea5e9; --cyan-2:#0369a1;
+    --indigo:#4338ca; --indigo-2:#3730a3;
+    --teal:#0d9488; --purple:#6d28d9;
+    --gradient-brand:linear-gradient(135deg, #1e3a8a 0%, #2563eb 55%, #3b82f6 100%);
+    --gradient-brand-soft:linear-gradient(135deg, #dbeafe 0%, #bfdbfe 100%);
+    --gradient-warm:linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
+    --gradient-dark:linear-gradient(135deg, #172554 0%, #1e3a8a 60%, #1e40af 100%);
+    --gradient-tech:linear-gradient(135deg, #4338ca 0%, #6366f1 100%);
+    --gradient-growth:linear-gradient(135deg, #0d9488 0%, #0f766e 100%);
+    --gradient-creative:linear-gradient(135deg, #7c3aed 0%, #4338ca 100%);
+    --gradient-sky:linear-gradient(135deg, #0ea5e9 0%, #0369a1 100%);
+    --gradient-royal:linear-gradient(135deg, #1e40af 0%, #3b82f6 100%);
 
     --shadow-sm:0 2px 8px rgba(15,23,42,0.06);
     --shadow:0 8px 24px rgba(15,23,42,0.08);
     --shadow-lg:0 20px 50px rgba(15,23,42,0.14);
-    --shadow-orange:0 12px 30px rgba(249,115,22,0.35);
-    --shadow-red:0 12px 30px rgba(239,68,68,0.35);
+    --shadow-orange:0 12px 30px rgba(30,64,175,0.35);
+    --shadow-red:0 12px 30px rgba(37,99,235,0.35);
+    --shadow-blue:0 12px 30px rgba(30,64,175,0.40);
 
     --chrome-top:64px; --chrome-bottom:84px;
     --font-display:'Sora','Inter',-apple-system,sans-serif;
@@ -92,7 +97,7 @@ h1,h2,h3,h4,h5,h6{ font-family:var(--font-display); font-weight:700; letter-spac
       color:var(--text); margin:0; line-height:1.15; }
 p{ margin:0; color:var(--text-3); }
 .mono{ font-family:var(--font-mono); }
-::selection{ background:#fed7aa; color:var(--orange-3); }
+::selection{ background:#bfdbfe; color:var(--blue-3); }
 
 /* ============ DECK FRAMEWORK ============ */
 .deck{ position:fixed; inset:0; overflow:hidden; background:var(--bg); }
@@ -129,11 +134,8 @@ p{ margin:0; color:var(--text-3); }
       backdrop-filter:saturate(180%) blur(14px); -webkit-backdrop-filter:saturate(180%) blur(14px);
       border-bottom:1px solid var(--line); }
 .brand{ display:flex; align-items:center; gap:11px; }
-.brand__mark{ width:38px; height:38px; border-radius:10px;
-      background:var(--gradient-brand); color:#fff;
-      display:flex; align-items:center; justify-content:center;
-      font-family:var(--font-display); font-weight:800; font-size:13px;
-      box-shadow:var(--shadow-orange); }
+.brand__mark{ display:inline-flex; align-items:center; height:38px; }
+.brand__mark svg{ height:32px; width:auto; display:block; }
 .brand__txt{ display:flex; flex-direction:column; line-height:1.05; }
 .brand__txt strong{ font-family:var(--font-display); font-size:14.5px; font-weight:800;
       color:var(--ink); letter-spacing:-0.02em; }
@@ -187,10 +189,10 @@ p{ margin:0; color:var(--text-3); }
 .eyebrow{ display:inline-flex; align-items:center; gap:10px;
       padding:6px 14px; border-radius:24px; background:var(--gradient-brand-soft);
       font-family:var(--font-mono); font-size:11px; font-weight:600;
-      letter-spacing:0.12em; text-transform:uppercase; color:var(--orange-3); margin-bottom:18px; }
-.eyebrow::before{ content:''; width:6px; height:6px; border-radius:50%; background:var(--orange); }
+      letter-spacing:0.12em; text-transform:uppercase; color:var(--blue-3); margin-bottom:18px; }
+.eyebrow::before{ content:''; width:6px; height:6px; border-radius:50%; background:var(--blue); }
 .eyebrow.dark{ background:rgba(255,255,255,0.10); color:#fff; }
-.eyebrow.dark::before{ background:var(--orange); }
+.eyebrow.dark::before{ background:var(--blue); }
 .eyebrow.plain{ background:var(--surface); color:var(--text-3); }
 .eyebrow.plain::before{ background:var(--text-mute); }
 
@@ -206,9 +208,9 @@ p{ margin:0; color:var(--text-3); }
       background-clip:text; color:transparent; }
 
 /* ============ S01 — COVER ============ */
-.cover{ background:radial-gradient(1400px 700px at 50% -15%, rgba(249,115,22,0.14) 0%, transparent 65%),
-        radial-gradient(1000px 500px at 80% 90%, rgba(239,68,68,0.10) 0%, transparent 60%),
-        linear-gradient(180deg,#ffffff 0%,#fffbf7 100%); }
+.cover{ background:radial-gradient(1400px 700px at 50% -15%, rgba(59,130,246,0.14) 0%, transparent 65%),
+        radial-gradient(1000px 500px at 80% 90%, rgba(30,64,175,0.10) 0%, transparent 60%),
+        linear-gradient(180deg,#ffffff 0%,#f0f7ff 100%); }
 .cover .slide-inner{ text-align:center; align-items:center; }
 .cover__blob{ position:absolute; top:-100px; right:-100px; width:400px; height:400px;
       background:var(--gradient-brand); border-radius:50%; opacity:0.12;
@@ -224,21 +226,15 @@ p{ margin:0; color:var(--text-3); }
       background:#10b981; box-shadow:0 0 12px rgba(16,185,129,0.5);
       animation:pulse 2s ease-in-out infinite; }
 @keyframes pulse{ 0%,100%{ opacity:1; } 50%{ opacity:0.5; } }
-.cover__logo{ display:inline-flex; align-items:center; gap:16px; margin-bottom:32px; padding:16px 26px;
-      background:var(--bg); border:1px solid var(--line); border-radius:20px;
+.cover__logo{ display:inline-block; margin-bottom:32px; padding:22px 34px;
+      background:var(--bg); border:1px solid var(--line); border-radius:22px;
       box-shadow:var(--shadow); position:relative; overflow:hidden; }
-.cover__logo::before{ content:''; position:absolute; top:-30px; right:-30px; width:100px; height:100px;
+.cover__logo::before{ content:''; position:absolute; top:-40px; right:-40px; width:140px; height:140px;
       background:var(--gradient-brand); border-radius:50%; opacity:0.08; }
-.cover__logo__mark{ width:66px; height:66px; border-radius:16px;
-      background:var(--gradient-brand); color:#fff;
-      font-family:var(--font-display); font-weight:900; font-size:24px; letter-spacing:0.02em;
-      display:flex; align-items:center; justify-content:center;
-      box-shadow:var(--shadow-orange); position:relative; z-index:2; }
-.cover__logo__txt{ text-align:left; position:relative; z-index:2; }
-.cover__logo__txt strong{ display:block; font-family:var(--font-display); font-size:24px; font-weight:800;
-      color:var(--ink); letter-spacing:-0.02em; }
-.cover__logo__txt small{ font-family:var(--font-mono); font-size:11px; font-weight:600;
-      letter-spacing:0.14em; text-transform:uppercase; color:var(--orange-3); margin-top:3px; display:block; }
+.cover__logo svg{ display:block; height:64px; width:auto; position:relative; z-index:2; }
+@media (max-width:520px){ .cover__logo{ padding:16px 22px; } .cover__logo svg{ height:44px; } }
+.cover__logo__tag{ display:block; margin-top:6px; font-family:var(--font-mono); font-size:10.5px; font-weight:600;
+      letter-spacing:0.16em; text-transform:uppercase; color:var(--blue); text-align:center; position:relative; z-index:2; }
 .cover h1{ margin-bottom:18px; }
 .cover h1 .sub{ display:block; font-size:0.32em; font-weight:500; color:var(--text-3);
       letter-spacing:-0.015em; margin-top:16px; max-width:820px; margin-inline:auto; line-height:1.55;
@@ -247,7 +243,7 @@ p{ margin:0; color:var(--text-3); }
       max-width:920px; margin-inline:auto; width:100%; }
 .cover__stat{ background:var(--bg); border:1px solid var(--line); border-radius:16px; padding:20px 16px;
       text-align:center; transition:all .25s ease; box-shadow:var(--shadow-sm); }
-.cover__stat:hover{ transform:translateY(-4px); box-shadow:var(--shadow); border-color:var(--orange); }
+.cover__stat:hover{ transform:translateY(-4px); box-shadow:var(--shadow); border-color:var(--blue); }
 .cover__stat strong{ display:block; font-family:var(--font-display); font-size:28px; font-weight:800;
       background:var(--gradient-brand); -webkit-background-clip:text; background-clip:text; color:transparent;
       letter-spacing:-0.03em; margin-bottom:4px; }
@@ -264,10 +260,10 @@ p{ margin:0; color:var(--text-3); }
       background:var(--bg); border:1px solid var(--line-2); color:var(--ink); text-decoration:none;
       font-family:var(--font-display); font-weight:600; font-size:14.5px; letter-spacing:0.01em;
       transition:all .25s ease; }
-.cta-sec:hover{ border-color:var(--orange); color:var(--orange-2); transform:translateY(-2px); }
+.cta-sec:hover{ border-color:var(--blue); color:var(--blue-2); transform:translateY(-2px); }
 .cover__heritage{ margin-top:24px; font-family:var(--font-mono); font-size:10.5px; font-weight:500;
       letter-spacing:0.14em; text-transform:uppercase; color:var(--text-mute); }
-.cover__heritage strong{ color:var(--orange-2); }
+.cover__heritage strong{ color:var(--blue-2); }
 
 /* ============ SECTION HEADER (shared) ============ */
 .sec-head{ margin-bottom:32px; display:grid; grid-template-columns:1fr auto; gap:24px; align-items:end; }
@@ -281,15 +277,15 @@ p{ margin:0; color:var(--text-3); }
 .about-wrap{ display:grid; grid-template-columns:1.1fr 1fr; gap:36px; align-items:center; margin-top:14px; }
 .about-illo{ background:var(--gradient-warm); border-radius:24px; padding:30px;
       display:flex; align-items:center; justify-content:center; min-height:340px;
-      position:relative; overflow:hidden; border:1px solid #fed7aa; }
+      position:relative; overflow:hidden; border:1px solid #bfdbfe; }
 .about-illo svg{ width:100%; height:auto; max-width:360px; position:relative; z-index:2; }
 .about-illo__blob{ position:absolute; width:200px; height:200px; border-radius:50%; opacity:0.4; filter:blur(50px); }
-.about-illo__blob.o{ background:var(--orange); top:-40px; right:-40px; }
-.about-illo__blob.r{ background:var(--red); bottom:-40px; left:-40px; }
+.about-illo__blob.o{ background:var(--blue); top:-40px; right:-40px; }
+.about-illo__blob.r{ background:var(--blue-light); bottom:-40px; left:-40px; }
 .about-grid{ display:grid; grid-template-columns:1fr 1fr; gap:12px; }
 .about-tile{ background:var(--bg); border:1px solid var(--line); border-radius:14px; padding:18px;
       display:flex; flex-direction:column; transition:all .25s ease; }
-.about-tile:hover{ transform:translateY(-3px); box-shadow:var(--shadow); border-color:var(--orange); }
+.about-tile:hover{ transform:translateY(-3px); box-shadow:var(--shadow); border-color:var(--blue); }
 .about-tile__icon{ width:42px; height:42px; border-radius:12px;
       display:flex; align-items:center; justify-content:center;
       font-size:17px; color:#fff; margin-bottom:12px; }
@@ -309,17 +305,17 @@ p{ margin:0; color:var(--text-3); }
       font-family:var(--font-mono); font-size:10.5px; font-weight:600;
       letter-spacing:0.12em; text-transform:uppercase; color:var(--text-3);
       display:inline-flex; align-items:center; gap:6px; border:1px solid var(--line); }
-.svc-cat.digital{ background:#fef2f2; color:var(--red-3); border-color:#fecaca; }
+.svc-cat.digital{ background:#dbeafe; color:#1e40af; border-color:#bfdbfe; }
 .svc-cat.tech{ background:#eef2ff; color:#4338ca; border-color:#c7d2fe; }
-.svc-cat.creative{ background:#fce7f3; color:#be185d; border-color:#fbcfe8; }
-.svc-cat.content{ background:#f0fdf4; color:#166534; border-color:#bbf7d0; }
+.svc-cat.creative{ background:#e0f2fe; color:#0369a1; border-color:#bae6fd; }
+.svc-cat.content{ background:#ccfbf1; color:#0f766e; border-color:#99f6e4; }
 .svc-grid{ display:grid; grid-template-columns:repeat(4,1fr); gap:12px; }
 .svc-card{ background:var(--bg); border:1px solid var(--line); border-radius:14px; padding:18px 16px;
       transition:all .25s ease; display:flex; flex-direction:column; position:relative; overflow:hidden; }
 .svc-card::before{ content:''; position:absolute; top:0; left:0; right:0; height:3px;
       background:var(--gradient-brand); transform:scaleX(0); transform-origin:left;
       transition:transform .3s ease; }
-.svc-card:hover{ transform:translateY(-4px); box-shadow:var(--shadow); border-color:var(--orange); }
+.svc-card:hover{ transform:translateY(-4px); box-shadow:var(--shadow); border-color:var(--blue); }
 .svc-card:hover::before{ transform:scaleX(1); }
 .svc-card__icon{ width:44px; height:44px; border-radius:12px;
       display:flex; align-items:center; justify-content:center;
@@ -341,13 +337,13 @@ p{ margin:0; color:var(--text-3); }
       transition:all .3s ease; min-height:180px;
       display:flex; flex-direction:column; justify-content:flex-end; }
 .ind-tile::before{ content:''; position:absolute; inset:0; opacity:0.9; }
-.ind-tile.g1::before{ background:linear-gradient(135deg,#6366f1 0%,#8b5cf6 100%); }
-.ind-tile.g2::before{ background:linear-gradient(135deg,#f97316 0%,#ea580c 100%); }
-.ind-tile.g3::before{ background:linear-gradient(135deg,#ef4444 0%,#b91c1c 100%); }
-.ind-tile.g4::before{ background:linear-gradient(135deg,#ec4899 0%,#be185d 100%); }
-.ind-tile.g5::before{ background:linear-gradient(135deg,#0ea5e9 0%,#0369a1 100%); }
-.ind-tile.g6::before{ background:linear-gradient(135deg,#10b981 0%,#059669 100%); }
-.ind-tile.g7::before{ background:linear-gradient(135deg,#f59e0b 0%,#d97706 100%); }
+.ind-tile.g1::before{ background:linear-gradient(135deg,#1e3a8a 0%,#2563eb 100%); }
+.ind-tile.g2::before{ background:linear-gradient(135deg,#1e40af 0%,#3b82f6 100%); }
+.ind-tile.g3::before{ background:linear-gradient(135deg,#0369a1 0%,#0ea5e9 100%); }
+.ind-tile.g4::before{ background:linear-gradient(135deg,#4338ca 0%,#6366f1 100%); }
+.ind-tile.g5::before{ background:linear-gradient(135deg,#172554 0%,#1e40af 100%); }
+.ind-tile.g6::before{ background:linear-gradient(135deg,#0d9488 0%,#0f766e 100%); }
+.ind-tile.g7::before{ background:linear-gradient(135deg,#2563eb 0%,#60a5fa 100%); }
 .ind-tile.g8::before{ background:linear-gradient(135deg,#1e293b 0%,#0f172a 100%); }
 .ind-tile:hover{ transform:translateY(-6px) scale(1.02); }
 .ind-tile > *{ position:relative; z-index:2; }
@@ -360,7 +356,7 @@ p{ margin:0; color:var(--text-3); }
 @media (max-width:420px){ .ind-grid{ grid-template-columns:1fr; } }
 
 /* ============ S05 — CLIENTS ============ */
-.client-hero{ background:var(--gradient-warm); border:1px solid #fed7aa;
+.client-hero{ background:var(--gradient-warm); border:1px solid #bfdbfe;
       border-radius:20px; padding:26px 30px; margin-top:14px; text-align:center; }
 .client-hero__row{ display:grid; grid-template-columns:repeat(4,1fr); gap:18px; margin-top:18px; }
 .client-hero__stat strong{ display:block; font-family:var(--font-display); font-size:26px;
@@ -369,17 +365,21 @@ p{ margin:0; color:var(--text-3); }
 .client-hero__stat small{ font-family:var(--font-mono); font-size:10.5px; font-weight:600;
       letter-spacing:0.12em; text-transform:uppercase; color:var(--text-4); }
 @media (max-width:640px){ .client-hero__row{ grid-template-columns:repeat(2,1fr); } }
-.client-wall{ display:grid; grid-template-columns:repeat(4,1fr); gap:14px; margin-top:20px; }
-.client-tile{ background:var(--bg); border:1px solid var(--line); border-radius:14px;
-      padding:22px 20px; display:flex; align-items:center; justify-content:center;
-      min-height:100px; transition:all .25s ease; position:relative; overflow:hidden; }
-.client-tile::after{ content:''; position:absolute; inset:0;
-      background:var(--gradient-brand); opacity:0; transition:opacity .3s ease; z-index:0; }
-.client-tile:hover{ transform:translateY(-3px); box-shadow:var(--shadow); border-color:var(--orange); }
-.client-tile img{ max-width:100%; max-height:56px; width:auto; object-fit:contain;
-      filter:grayscale(0.1); opacity:0.95; position:relative; z-index:2; }
-@media (max-width:900px){ .client-wall{ grid-template-columns:repeat(3,1fr); } }
+.client-wall{ display:grid; grid-template-columns:repeat(4,1fr); gap:18px; margin-top:24px; }
+.client-tile{ background:var(--bg); border:1px solid var(--line); border-radius:18px;
+      padding:32px 26px; display:flex; align-items:center; justify-content:center;
+      min-height:160px; transition:all .3s ease; position:relative; overflow:hidden; }
+.client-tile:hover{ transform:translateY(-4px); box-shadow:var(--shadow-lg); border-color:var(--blue-light); }
+.client-tile img{ max-width:100%; max-height:100px; width:auto; object-fit:contain;
+      filter:none; opacity:1; position:relative; z-index:2;
+      transition:transform .3s ease; }
+.client-tile:hover img{ transform:scale(1.05); }
+@media (max-width:900px){ .client-wall{ grid-template-columns:repeat(3,1fr); }
+    .client-tile{ min-height:140px; padding:26px 20px; }
+    .client-tile img{ max-height:80px; } }
 @media (max-width:600px){ .client-wall{ grid-template-columns:repeat(2,1fr); } }
+@media (max-width:420px){ .client-wall{ grid-template-columns:1fr; }
+    .client-tile{ min-height:130px; } }
 
 /* ============ S06 — TECH STACK ============ */
 .stack-grid{ display:grid; grid-template-columns:repeat(4,1fr); gap:14px; margin-top:14px; }
@@ -390,11 +390,11 @@ p{ margin:0; color:var(--text-3); }
 .stack-cat.c1{ background:var(--gradient-brand); }
 .stack-cat.c2{ background:var(--gradient-tech); }
 .stack-cat.c3{ background:linear-gradient(135deg,#0ea5e9,#0369a1); }
-.stack-cat.c4{ background:linear-gradient(135deg,#8b5cf6,#6d28d9); }
-.stack-cat.c5{ background:linear-gradient(135deg,#10b981,#059669); }
-.stack-cat.c6{ background:linear-gradient(135deg,#ec4899,#be185d); }
-.stack-cat.c7{ background:linear-gradient(135deg,#f59e0b,#c2410c); }
-.stack-cat.c8{ background:linear-gradient(135deg,#ef4444,#991b1b); }
+.stack-cat.c4{ background:linear-gradient(135deg,#2563eb,#1e40af); }
+.stack-cat.c5{ background:linear-gradient(135deg,#0d9488,#0f766e); }
+.stack-cat.c6{ background:linear-gradient(135deg,#6366f1,#4338ca); }
+.stack-cat.c7{ background:linear-gradient(135deg,#3b82f6,#1e40af); }
+.stack-cat.c8{ background:linear-gradient(135deg,#1e293b,#172554); }
 .stack-cat__icon{ width:38px; height:38px; border-radius:10px;
       background:rgba(255,255,255,0.18); color:#fff;
       display:flex; align-items:center; justify-content:center; font-size:15px; margin-bottom:12px; }
@@ -414,10 +414,10 @@ p{ margin:0; color:var(--text-3); }
       display:flex; flex-direction:column; transition:all .3s ease; }
 .case-card:hover{ transform:translateY(-4px); box-shadow:var(--shadow-lg); }
 .case-card__banner{ padding:22px 24px 20px; color:#fff; position:relative; overflow:hidden; }
-.case-card__banner.b1{ background:linear-gradient(135deg,#0f172a,#334155); }
-.case-card__banner.b2{ background:linear-gradient(135deg,#ec4899,#f97316); }
-.case-card__banner.b3{ background:linear-gradient(135deg,#0ea5e9,#0369a1); }
-.case-card__banner.b4{ background:linear-gradient(135deg,#10b981,#065f46); }
+.case-card__banner.b1{ background:linear-gradient(135deg,#1e3a8a,#2563eb); }
+.case-card__banner.b2{ background:linear-gradient(135deg,#0369a1,#0ea5e9); }
+.case-card__banner.b3{ background:linear-gradient(135deg,#4338ca,#6366f1); }
+.case-card__banner.b4{ background:linear-gradient(135deg,#172554,#1e40af); }
 .case-card__banner::before{ content:''; position:absolute; top:-40px; right:-40px; width:140px; height:140px;
       background:rgba(255,255,255,0.10); border-radius:50%; }
 .case-card__banner__tag{ display:inline-block; padding:3px 11px; background:rgba(255,255,255,0.16);
@@ -429,7 +429,7 @@ p{ margin:0; color:var(--text-3); }
 .case-card__body{ padding:18px 22px 20px; flex:1; display:flex; flex-direction:column; }
 .case-card__block{ margin-bottom:10px; display:flex; gap:10px; align-items:flex-start; }
 .case-card__block__ico{ width:28px; height:28px; border-radius:8px; background:var(--surface);
-      color:var(--orange-2); display:flex; align-items:center; justify-content:center;
+      color:var(--blue-2); display:flex; align-items:center; justify-content:center;
       font-size:11px; flex-shrink:0; margin-top:1px; }
 .case-card__block__txt h6{ font-family:var(--font-mono); font-size:9.5px; font-weight:700;
       letter-spacing:0.14em; text-transform:uppercase; color:var(--text-mute); margin-bottom:2px; }
@@ -437,7 +437,7 @@ p{ margin:0; color:var(--text-3); }
 .case-card__results{ margin-top:auto; padding-top:14px; margin-top:12px;
       border-top:1px dashed var(--line-2); display:flex; gap:10px; }
 .case-card__metric{ flex:1; text-align:center; padding:10px 8px; background:var(--gradient-warm);
-      border-radius:10px; border:1px solid #fed7aa; }
+      border-radius:10px; border:1px solid #bfdbfe; }
 .case-card__metric strong{ display:block; font-family:var(--font-display); font-size:20px; font-weight:800;
       background:var(--gradient-brand); -webkit-background-clip:text; background-clip:text;
       color:transparent; letter-spacing:-0.02em; }
@@ -449,7 +449,7 @@ p{ margin:0; color:var(--text-3); }
 .why-grid{ display:grid; grid-template-columns:repeat(3,1fr); gap:14px; margin-top:14px; }
 .why-tile{ background:var(--bg); border:1px solid var(--line); border-radius:16px; padding:22px 20px;
       display:flex; flex-direction:column; gap:10px; transition:all .3s ease; position:relative; overflow:hidden; }
-.why-tile:hover{ transform:translateY(-4px); box-shadow:var(--shadow); border-color:var(--orange); }
+.why-tile:hover{ transform:translateY(-4px); box-shadow:var(--shadow); border-color:var(--blue); }
 .why-tile::before{ content:''; position:absolute; top:-30px; right:-30px; width:100px; height:100px;
       background:var(--gradient-brand); border-radius:50%; opacity:0.06;
       transition:opacity .3s ease; }
@@ -458,7 +458,7 @@ p{ margin:0; color:var(--text-3); }
       background:var(--gradient-brand); -webkit-background-clip:text; background-clip:text;
       color:transparent; letter-spacing:-0.03em; line-height:1; }
 .why-tile__icon{ width:38px; height:38px; border-radius:11px;
-      background:var(--gradient-brand-soft); color:var(--orange-3);
+      background:var(--gradient-brand-soft); color:var(--blue-3);
       display:flex; align-items:center; justify-content:center; font-size:15px; }
 .why-tile h5{ font-family:var(--font-display); font-size:15px; font-weight:800;
       color:var(--ink); letter-spacing:-0.01em; }
@@ -467,7 +467,7 @@ p{ margin:0; color:var(--text-3); }
 @media (max-width:520px){ .why-grid{ grid-template-columns:1fr; } }
 
 /* ============ S09 — FOUNDER ============ */
-.founder-wrap{ background:linear-gradient(135deg,#0f172a 0%,#1e1b4b 60%,#1e293b 100%);
+.founder-wrap{ background:linear-gradient(135deg,#0f172a 0%,#1e3a8a 60%,#1e40af 100%);
       color:#fff; border-radius:24px; padding:44px; margin-top:14px;
       display:grid; grid-template-columns:280px 1fr; gap:44px; align-items:center;
       position:relative; overflow:hidden; box-shadow:var(--shadow-lg); }
@@ -494,28 +494,28 @@ p{ margin:0; color:var(--text-3); }
       box-shadow:var(--shadow-orange); }
 .founder-body{ position:relative; z-index:2; }
 .founder-body__quote{ font-family:var(--font-display); font-size:20px; font-weight:600;
-      color:#fff; line-height:1.4; padding-left:20px; border-left:4px solid var(--orange);
+      color:#fff; line-height:1.4; padding-left:20px; border-left:4px solid var(--blue);
       margin-bottom:20px; letter-spacing:-0.01em; }
-.founder-body__quote em{ font-style:normal; color:var(--orange); }
+.founder-body__quote em{ font-style:normal; color:var(--blue); }
 .founder-body__grid{ display:grid; grid-template-columns:1fr 1fr; gap:16px 24px; }
 .founder-body__grid > div h6{ font-family:var(--font-mono); font-size:10px; font-weight:700;
-      letter-spacing:0.16em; text-transform:uppercase; color:var(--orange); margin-bottom:5px;
+      letter-spacing:0.16em; text-transform:uppercase; color:var(--blue); margin-bottom:5px;
       display:flex; align-items:center; gap:6px; }
 .founder-body__grid > div p{ font-size:13px; color:rgba(255,255,255,0.85); line-height:1.6; }
 @media (max-width:900px){ .founder-wrap{ grid-template-columns:1fr; gap:26px; padding:32px 26px; }
     .founder-body__grid{ grid-template-columns:1fr; } }
 
 /* ============ S10 — CONTACT / FINAL ============ */
-.final{ background:radial-gradient(1200px 600px at 50% 105%, rgba(249,115,22,0.14) 0%, transparent 65%),
-        linear-gradient(180deg,#ffffff 0%,#fffbf7 100%); }
+.final{ background:radial-gradient(1200px 600px at 50% 105%, rgba(59,130,246,0.14) 0%, transparent 65%),
+        linear-gradient(180deg,#ffffff 0%,#f0f7ff 100%); }
 .final .slide-inner{ align-items:center; text-align:center; }
 .contact-grid{ margin-top:30px; display:grid; grid-template-columns:repeat(3,1fr); gap:14px;
       max-width:960px; margin-inline:auto; width:100%; }
 .contact-item{ background:var(--bg); border:1px solid var(--line); border-radius:14px;
       padding:22px 20px; text-align:left; transition:all .25s ease; }
-.contact-item:hover{ transform:translateY(-3px); box-shadow:var(--shadow); border-color:var(--orange); }
+.contact-item:hover{ transform:translateY(-3px); box-shadow:var(--shadow); border-color:var(--blue); }
 .contact-item h6{ font-family:var(--font-mono); font-size:10px; font-weight:700;
-      letter-spacing:0.16em; text-transform:uppercase; color:var(--orange-3); margin-bottom:10px;
+      letter-spacing:0.16em; text-transform:uppercase; color:var(--blue-3); margin-bottom:10px;
       display:flex; align-items:center; gap:8px; }
 .contact-item h6 i{ width:26px; height:26px; border-radius:8px; background:var(--gradient-brand);
       color:#fff; display:inline-flex; align-items:center; justify-content:center;
@@ -524,10 +524,10 @@ p{ margin:0; color:var(--text-3); }
       color:var(--ink); letter-spacing:-0.01em; margin-bottom:3px; }
 .contact-item small{ font-size:12.5px; color:var(--text-4); display:block; line-height:1.5; }
 .contact-item a{ color:inherit; text-decoration:none; }
-.contact-item a:hover{ color:var(--orange-2); }
+.contact-item a:hover{ color:var(--blue-2); }
 @media (max-width:700px){ .contact-grid{ grid-template-columns:1fr; } }
 .final__cta-block{ margin-top:38px; padding:44px 44px;
-      background:linear-gradient(135deg,#0f172a 0%,#1e1b4b 60%,#1e293b 100%);
+      background:linear-gradient(135deg,#0f172a 0%,#1e3a8a 60%,#1e40af 100%);
       color:#fff; border-radius:22px; max-width:960px; margin-inline:auto;
       box-shadow:var(--shadow-lg); position:relative; overflow:hidden; }
 .final__cta-block::before{ content:''; position:absolute; top:-100px; right:-100px; width:300px; height:300px;
@@ -570,7 +570,21 @@ p{ margin:0; color:var(--text-3); }
 
 <header class="chrome-top">
     <div class="brand">
-        <div class="brand__mark">ITD</div>
+        <div class="brand__mark" aria-label="ITD GrowthLabs">
+            <svg viewBox="0 0 68 60" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true">
+                <!-- Outer arrow shafts (navy) -->
+                <line x1="14" y1="52" x2="14" y2="22" stroke="#1e3a8a" stroke-width="6" stroke-linecap="round"/>
+                <line x1="54" y1="52" x2="54" y2="22" stroke="#1e3a8a" stroke-width="6" stroke-linecap="round"/>
+                <!-- Outer arrow heads (navy) -->
+                <path d="M 6 30 L 14 20 L 22 30" stroke="#1e3a8a" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M 46 30 L 54 20 L 62 30" stroke="#1e3a8a" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+                <!-- Curved base joining outer arrows -->
+                <path d="M 14 52 Q 34 62 54 52" stroke="#1e3a8a" stroke-width="6" fill="none" stroke-linecap="round"/>
+                <!-- Center arrow (bright blue, tallest) -->
+                <line x1="34" y1="52" x2="34" y2="12" stroke="#3b82f6" stroke-width="6" stroke-linecap="round"/>
+                <path d="M 26 20 L 34 10 L 42 20" stroke="#3b82f6" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+        </div>
         <div class="brand__txt">
             <strong>ITD GrowthLabs</strong>
             <small>Digital Growth Studio</small>
@@ -594,11 +608,27 @@ p{ margin:0; color:var(--text-3); }
         <span class="cover__pill"><span class="cover__pill__dot"></span>Digital Growth Studio &middot; Mumbai, India</span>
 
         <div class="cover__logo">
-            <div class="cover__logo__mark">ITD</div>
-            <div class="cover__logo__txt">
-                <strong>ITD GrowthLabs</strong>
-                <small>Digital growth, engineered.</small>
-            </div>
+            <svg viewBox="0 0 480 76" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ITD GrowthLabs">
+                <!-- ITD text -->
+                <text x="0" y="60" font-family="Sora, Inter, sans-serif" font-weight="900" font-size="62" letter-spacing="-0.03em" fill="#1e3a8a">ITD</text>
+                <!-- Rocket motif -->
+                <g transform="translate(140, 4)">
+                    <!-- Outer arrow shafts (navy) -->
+                    <line x1="14" y1="66" x2="14" y2="26" stroke="#1e3a8a" stroke-width="6.5" stroke-linecap="round"/>
+                    <line x1="54" y1="66" x2="54" y2="26" stroke="#1e3a8a" stroke-width="6.5" stroke-linecap="round"/>
+                    <!-- Outer arrow heads (navy) -->
+                    <path d="M 6 34 L 14 24 L 22 34" stroke="#1e3a8a" stroke-width="6.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+                    <path d="M 46 34 L 54 24 L 62 34" stroke="#1e3a8a" stroke-width="6.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+                    <!-- Curved base joining outer arrows -->
+                    <path d="M 14 66 Q 34 76 54 66" stroke="#1e3a8a" stroke-width="6.5" fill="none" stroke-linecap="round"/>
+                    <!-- Center arrow (bright blue, tallest) -->
+                    <line x1="34" y1="66" x2="34" y2="14" stroke="#3b82f6" stroke-width="6.5" stroke-linecap="round"/>
+                    <path d="M 26 22 L 34 12 L 42 22" stroke="#3b82f6" stroke-width="6.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+                </g>
+                <!-- GrowthLabs text -->
+                <text x="220" y="60" font-family="Sora, Inter, sans-serif" font-weight="900" font-size="62" letter-spacing="-0.03em" fill="#1e3a8a">GrowthLabs</text>
+            </svg>
+            <span class="cover__logo__tag">Digital Growth, Engineered.</span>
         </div>
 
         <h1 class="display-1">We help brands <span class="grad-text">grow online.</span>
@@ -643,29 +673,29 @@ p{ margin:0; color:var(--text-3); }
                 <svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" fill="none">
                     <defs>
                         <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
-                            <stop offset="0%" stop-color="#f97316"/><stop offset="100%" stop-color="#ef4444"/>
+                            <stop offset="0%" stop-color="#1e3a8a"/><stop offset="100%" stop-color="#3b82f6"/>
                         </linearGradient>
                         <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1">
-                            <stop offset="0%" stop-color="#6366f1"/><stop offset="100%" stop-color="#8b5cf6"/>
+                            <stop offset="0%" stop-color="#4338ca"/><stop offset="100%" stop-color="#6366f1"/>
                         </linearGradient>
                     </defs>
                     <!-- Central hub -->
-                    <circle cx="200" cy="150" r="55" fill="url(#g1)" opacity="0.9"/>
+                    <circle cx="200" cy="150" r="55" fill="url(#g1)" opacity="0.95"/>
                     <text x="200" y="158" text-anchor="middle" fill="#fff" font-family="Sora, sans-serif" font-size="24" font-weight="800">ITD</text>
                     <!-- Orbiting circles -->
-                    <circle cx="80" cy="90" r="28" fill="url(#g2)" opacity="0.85"/>
+                    <circle cx="80" cy="90" r="28" fill="url(#g2)" opacity="0.9"/>
                     <text x="80" y="97" text-anchor="middle" fill="#fff" font-size="18">💡</text>
-                    <circle cx="320" cy="90" r="28" fill="#10b981" opacity="0.85"/>
+                    <circle cx="320" cy="90" r="28" fill="#0ea5e9" opacity="0.9"/>
                     <text x="320" y="97" text-anchor="middle" fill="#fff" font-size="18">📱</text>
-                    <circle cx="80" cy="210" r="28" fill="#ec4899" opacity="0.85"/>
+                    <circle cx="80" cy="210" r="28" fill="#0d9488" opacity="0.9"/>
                     <text x="80" y="217" text-anchor="middle" fill="#fff" font-size="18">🎨</text>
-                    <circle cx="320" cy="210" r="28" fill="#0ea5e9" opacity="0.85"/>
+                    <circle cx="320" cy="210" r="28" fill="#1e40af" opacity="0.9"/>
                     <text x="320" y="217" text-anchor="middle" fill="#fff" font-size="18">📊</text>
                     <!-- Connection lines -->
-                    <line x1="105" y1="105" x2="160" y2="130" stroke="#f97316" stroke-width="2" opacity="0.4" stroke-dasharray="4 4"/>
-                    <line x1="295" y1="105" x2="240" y2="130" stroke="#f97316" stroke-width="2" opacity="0.4" stroke-dasharray="4 4"/>
-                    <line x1="105" y1="195" x2="160" y2="170" stroke="#f97316" stroke-width="2" opacity="0.4" stroke-dasharray="4 4"/>
-                    <line x1="295" y1="195" x2="240" y2="170" stroke="#f97316" stroke-width="2" opacity="0.4" stroke-dasharray="4 4"/>
+                    <line x1="105" y1="105" x2="160" y2="130" stroke="#3b82f6" stroke-width="2" opacity="0.5" stroke-dasharray="4 4"/>
+                    <line x1="295" y1="105" x2="240" y2="130" stroke="#3b82f6" stroke-width="2" opacity="0.5" stroke-dasharray="4 4"/>
+                    <line x1="105" y1="195" x2="160" y2="170" stroke="#3b82f6" stroke-width="2" opacity="0.5" stroke-dasharray="4 4"/>
+                    <line x1="295" y1="195" x2="240" y2="170" stroke="#3b82f6" stroke-width="2" opacity="0.5" stroke-dasharray="4 4"/>
                 </svg>
             </div>
             <div class="about-grid">
@@ -890,101 +920,101 @@ p{ margin:0; color:var(--text-3); }
         <div class="sec-head">
             <div>
                 <span class="eyebrow">Real Results</span>
-                <h2 class="display-2">Four wins we&rsquo;re <span class="grad-text">proud of.</span></h2>
-                <p class="lead">Real brands. Real numbers. Real problems solved. Here&rsquo;s what happens when you get the right team on your side.</p>
+                <h2 class="display-2">Real software. <span class="grad-text">Real results.</span></h2>
+                <p class="lead">Four platforms we&rsquo;ve built and shipped. Real numbers. Real problems solved. Here&rsquo;s what happens when the right team is on your side.</p>
             </div>
             <span class="sec-head__num">07 / 10</span>
         </div>
         <div class="case-grid">
             <div class="case-card">
                 <div class="case-card__banner b1">
-                    <span class="case-card__banner__tag">Logistics &middot; SaaS Platform</span>
-                    <h4>Courier Platform &rarr; &#8377;2Cr ARR</h4>
+                    <span class="case-card__banner__tag">Logistics &middot; SaaS</span>
+                    <h4><i class="fas fa-truck-fast" style="margin-right:8px;opacity:0.85;"></i>Courier Management Software</h4>
                 </div>
                 <div class="case-card__body">
                     <div class="case-card__block">
                         <div class="case-card__block__ico"><i class="fas fa-circle-exclamation"></i></div>
                         <div class="case-card__block__txt"><h6>Problem</h6>
-                            <p>Managing 100K shipments a month on messy spreadsheets. No live tracking.</p></div>
+                            <p>Courier operator moving 100K+ shipments a month on messy spreadsheets. No live tracking, manual dispatch, no client visibility.</p></div>
                     </div>
                     <div class="case-card__block">
                         <div class="case-card__block__ico"><i class="fas fa-lightbulb"></i></div>
                         <div class="case-card__block__txt"><h6>What we built</h6>
-                            <p>Full courier platform &mdash; driver app, live tracking, client dashboard, invoicing.</p></div>
+                            <p>Full courier SaaS &mdash; driver mobile app, live tracking, client dashboard, invoicing, integrations.</p></div>
                     </div>
                     <div class="case-card__results">
                         <div class="case-card__metric"><strong>80%</strong><small>Faster Dispatch</small></div>
                         <div class="case-card__metric"><strong>3&times;</strong><small>Capacity</small></div>
-                        <div class="case-card__metric"><strong>&#8377;2Cr</strong><small>Client ARR</small></div>
+                        <div class="case-card__metric"><strong>&#8377;2Cr</strong><small>Client Revenue</small></div>
                     </div>
                 </div>
             </div>
             <div class="case-card">
                 <div class="case-card__banner b2">
-                    <span class="case-card__banner__tag">D2C Fashion &middot; Marketing</span>
-                    <h4>Fashion Brand &rarr; 4&times; ROAS in 6 Months</h4>
+                    <span class="case-card__banner__tag">D2C Marketplace &middot; Mobile App</span>
+                    <h4><i class="fas fa-fish" style="margin-right:8px;opacity:0.85;"></i>Fresh Fish Marketplace App</h4>
                 </div>
                 <div class="case-card__body">
                     <div class="case-card__block">
                         <div class="case-card__block__ico"><i class="fas fa-circle-exclamation"></i></div>
                         <div class="case-card__block__txt"><h6>Problem</h6>
-                            <p>Ads returning 1.2&times; on spend. Costs going up every month. Panic setting in.</p></div>
+                            <p>Regional seafood supplier wanted to sell fresh fish direct to homes. No app. No delivery system.</p></div>
                     </div>
                     <div class="case-card__block">
                         <div class="case-card__block__ico"><i class="fas fa-lightbulb"></i></div>
-                        <div class="case-card__block__txt"><h6>What we did</h6>
-                            <p>Rebuilt landing pages, added bundles, tightened targeting, tested new creatives weekly.</p></div>
+                        <div class="case-card__block__txt"><h6>What we built</h6>
+                            <p>iOS + Android D2C app &mdash; product catalogue, cold-chain delivery slots, payments, order tracking, loyalty.</p></div>
                     </div>
                     <div class="case-card__results">
-                        <div class="case-card__metric"><strong>4.2&times;</strong><small>ROAS</small></div>
-                        <div class="case-card__metric"><strong>-38%</strong><small>CAC</small></div>
-                        <div class="case-card__metric"><strong>&#8377;1.4Cr</strong><small>Revenue</small></div>
+                        <div class="case-card__metric"><strong>50K+</strong><small>App Users</small></div>
+                        <div class="case-card__metric"><strong>4.6&starf;</strong><small>App Rating</small></div>
+                        <div class="case-card__metric"><strong>&#8377;3Cr+</strong><small>GMV / year</small></div>
                     </div>
                 </div>
             </div>
             <div class="case-card">
                 <div class="case-card__banner b3">
-                    <span class="case-card__banner__tag">B2B Manufacturing &middot; SEO</span>
-                    <h4>Industrial Brand &rarr; 12&times; Organic Growth</h4>
+                    <span class="case-card__banner__tag">Enterprise &middot; Workflow SaaS</span>
+                    <h4><i class="fas fa-gears" style="margin-right:8px;opacity:0.85;"></i>Enterprise Automation Software</h4>
                 </div>
                 <div class="case-card__body">
                     <div class="case-card__block">
                         <div class="case-card__block__ico"><i class="fas fa-circle-exclamation"></i></div>
                         <div class="case-card__block__txt"><h6>Problem</h6>
-                            <p>Zero organic leads. All business came from cold calls. Sales team was tired.</p></div>
+                            <p>Mid-market enterprise drowning in manual approvals, paper forms, and spreadsheet chaos across 200+ staff.</p></div>
                     </div>
                     <div class="case-card__block">
                         <div class="case-card__block__ico"><i class="fas fa-lightbulb"></i></div>
-                        <div class="case-card__block__txt"><h6>What we shipped</h6>
-                            <p>Tech-SEO audit, product-page reboot, 60 blogs, distributor portal, WhatsApp lead capture.</p></div>
+                        <div class="case-card__block__txt"><h6>What we built</h6>
+                            <p>Custom automation platform &mdash; approval workflows, e-forms, dashboards, ERP integration, audit trail.</p></div>
                     </div>
                     <div class="case-card__results">
-                        <div class="case-card__metric"><strong>12&times;</strong><small>Traffic</small></div>
-                        <div class="case-card__metric"><strong>340</strong><small>Monthly Leads</small></div>
-                        <div class="case-card__metric"><strong>92%</strong><small>Distributor NPS</small></div>
+                        <div class="case-card__metric"><strong>70%</strong><small>Time Saved</small></div>
+                        <div class="case-card__metric"><strong>200+</strong><small>Users Live</small></div>
+                        <div class="case-card__metric"><strong>Zero</strong><small>Paper Forms</small></div>
                     </div>
                 </div>
             </div>
             <div class="case-card">
                 <div class="case-card__banner b4">
-                    <span class="case-card__banner__tag">Healthcare &middot; Mobile App</span>
-                    <h4>Doctor App &rarr; 100K Downloads Year One</h4>
+                    <span class="case-card__banner__tag">Logistics &middot; Mobile App</span>
+                    <h4><i class="fas fa-route" style="margin-right:8px;opacity:0.85;"></i>Fleet &amp; Delivery Mobile App</h4>
                 </div>
                 <div class="case-card__body">
                     <div class="case-card__block">
                         <div class="case-card__block__ico"><i class="fas fa-circle-exclamation"></i></div>
                         <div class="case-card__block__txt"><h6>Problem</h6>
-                            <p>Regional hospital had zero digital presence. Patients couldn&rsquo;t book online.</p></div>
+                            <p>Logistics company managing 500+ drivers with phone calls and paper trip sheets. No route intelligence.</p></div>
                     </div>
                     <div class="case-card__block">
                         <div class="case-card__block__ico"><i class="fas fa-lightbulb"></i></div>
-                        <div class="case-card__block__txt"><h6>What we launched</h6>
-                            <p>iOS + Android app, doctor portal, hospital dashboard, telemedicine + booking, launch marketing.</p></div>
+                        <div class="case-card__block__txt"><h6>What we built</h6>
+                            <p>Driver mobile app &mdash; GPS tracking, digital POD, route optimisation, offline sync, admin control tower.</p></div>
                     </div>
                     <div class="case-card__results">
-                        <div class="case-card__metric"><strong>100K+</strong><small>Downloads</small></div>
-                        <div class="case-card__metric"><strong>4.7&starf;</strong><small>Play Rating</small></div>
-                        <div class="case-card__metric"><strong>28K</strong><small>Monthly Users</small></div>
+                        <div class="case-card__metric"><strong>500+</strong><small>Drivers Live</small></div>
+                        <div class="case-card__metric"><strong>35%</strong><small>Fewer KM Driven</small></div>
+                        <div class="case-card__metric"><strong>4.5&starf;</strong><small>Driver Rating</small></div>
                     </div>
                 </div>
             </div>
