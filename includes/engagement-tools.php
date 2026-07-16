@@ -9,52 +9,55 @@
 
 <!-- Floating CTA cluster: Country/Region + Calendly + WhatsApp -->
 <?php
-// Derive current region label from URL path so the region button reflects where
-// the visitor is browsing (India by default, otherwise the country hub they're on).
-$itdgl_curr_path = $_SERVER['PHP_SELF'] ?? '';
-$itdgl_region_map = [
-    'usa'       => ['flag'=>'&#127482;&#127480;', 'label'=>'USA',       'url'=>'/usa/index.php'],
-    'uk'        => ['flag'=>'&#127468;&#127463;', 'label'=>'UK',        'url'=>'/uk/index.php'],
-    'uae'       => ['flag'=>'&#127462;&#127466;', 'label'=>'UAE',       'url'=>'/uae/index.php'],
-    'australia' => ['flag'=>'&#127462;&#127482;', 'label'=>'Australia', 'url'=>'/australia/index.php'],
-    'africa'    => ['flag'=>'&#127487;&#127462;', 'label'=>'Africa',    'url'=>'/africa/index.php'],
+// Inline SVG flags — Windows browsers don't render emoji country flags, so
+// we ship crisp SVGs that work everywhere (no HTTP requests, no font dep).
+$itdgl_ff = [
+    'in' => '<svg viewBox="0 0 60 40" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><rect width="60" height="13.33" y="0" fill="#FF9933"/><rect width="60" height="13.34" y="13.33" fill="#FFFFFF"/><rect width="60" height="13.33" y="26.67" fill="#138808"/><circle cx="30" cy="20" r="3.5" fill="none" stroke="#000080" stroke-width="0.6"/><circle cx="30" cy="20" r="0.8" fill="#000080"/></svg>',
+    'us' => '<svg viewBox="0 0 60 40" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><rect width="60" height="40" fill="#B22234"/><g fill="#FFFFFF"><rect width="60" height="3.08" y="3.08"/><rect width="60" height="3.08" y="9.23"/><rect width="60" height="3.08" y="15.38"/><rect width="60" height="3.08" y="21.54"/><rect width="60" height="3.08" y="27.69"/><rect width="60" height="3.08" y="33.85"/></g><rect width="24" height="21.54" fill="#3C3B6E"/></svg>',
+    'gb' => '<svg viewBox="0 0 60 40" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><rect width="60" height="40" fill="#012169"/><path d="M0,0 L60,40 M60,0 L0,40" stroke="#FFFFFF" stroke-width="6"/><path d="M0,0 L60,40 M60,0 L0,40" stroke="#C8102E" stroke-width="3"/><path d="M30,0 L30,40 M0,20 L60,20" stroke="#FFFFFF" stroke-width="10"/><path d="M30,0 L30,40 M0,20 L60,20" stroke="#C8102E" stroke-width="6"/></svg>',
+    'ae' => '<svg viewBox="0 0 60 40" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><rect width="60" height="13.33" y="0" fill="#00732F"/><rect width="60" height="13.34" y="13.33" fill="#FFFFFF"/><rect width="60" height="13.33" y="26.67" fill="#000000"/><rect width="15" height="40" fill="#FF0000"/></svg>',
+    'au' => '<svg viewBox="0 0 60 40" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><rect width="60" height="40" fill="#012169"/><rect width="30" height="20" fill="#012169"/><path d="M0,0 L30,20 M30,0 L0,20" stroke="#FFFFFF" stroke-width="2.5"/><path d="M0,0 L30,20 M30,0 L0,20" stroke="#C8102E" stroke-width="1.2"/><path d="M15,0 L15,20 M0,10 L30,10" stroke="#FFFFFF" stroke-width="4"/><path d="M15,0 L15,20 M0,10 L30,10" stroke="#C8102E" stroke-width="2.5"/><g fill="#FFFFFF"><circle cx="45" cy="10" r="1.6"/><circle cx="50" cy="20" r="1.8"/><circle cx="40" cy="22" r="1.4"/><circle cx="48" cy="30" r="1.6"/><circle cx="55" cy="28" r="1.2"/></g></svg>',
+    'af' => '<svg viewBox="0 0 60 40" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><rect width="60" height="40" fill="#001489"/><rect width="60" height="20" y="0" fill="#E03C31"/><polygon points="0,0 0,40 18,20" fill="#007749"/><polygon points="0,4 0,36 14,20" fill="#000000"/></svg>',
 ];
-$itdgl_current_region = ['flag'=>'&#127470;&#127475;', 'label'=>'India', 'url'=>'/'];
-foreach ($itdgl_region_map as $slug => $meta) {
-    if (strpos($itdgl_curr_path, '/' . $slug . '/') === 0) { $itdgl_current_region = $meta; break; }
-}
+$itdgl_regions = [
+    'in' => ['url'=>'/',                    'label'=>'India',     'flag'=>$itdgl_ff['in']],
+    'us' => ['url'=>'/usa/index.php',       'label'=>'USA',       'flag'=>$itdgl_ff['us']],
+    'gb' => ['url'=>'/uk/index.php',        'label'=>'UK',        'flag'=>$itdgl_ff['gb']],
+    'ae' => ['url'=>'/uae/index.php',       'label'=>'UAE',       'flag'=>$itdgl_ff['ae']],
+    'au' => ['url'=>'/australia/index.php', 'label'=>'Australia', 'flag'=>$itdgl_ff['au']],
+    'af' => ['url'=>'/africa/index.php',    'label'=>'Africa',    'flag'=>$itdgl_ff['af']],
+];
+$itdgl_self = $_SERVER['PHP_SELF'] ?? '';
+$itdgl_current_key = 'in';
+if      (preg_match('#^/usa/#', $itdgl_self))       $itdgl_current_key = 'us';
+elseif  (preg_match('#^/uk/#', $itdgl_self))        $itdgl_current_key = 'gb';
+elseif  (preg_match('#^/uae/#', $itdgl_self))       $itdgl_current_key = 'ae';
+elseif  (preg_match('#^/australia/#', $itdgl_self)) $itdgl_current_key = 'au';
+elseif  (preg_match('#^/africa/#', $itdgl_self))    $itdgl_current_key = 'af';
+$itdgl_current = $itdgl_regions[$itdgl_current_key];
 ?>
 <div id="itdgl-float-cluster" style="position:fixed;bottom:25px;right:25px;z-index:9999;display:flex;flex-direction:column;gap:12px;align-items:flex-end;">
 
-    <!-- Region / Country selector -->
-    <button type="button" id="itdgl-region-btn" aria-haspopup="true" aria-expanded="false" aria-controls="itdgl-region-panel"
-            aria-label="Change country or region"
-            style="background:#fff;border:1px solid #cbd5e1;padding:9px 15px 9px 12px;border-radius:50px;display:inline-flex;align-items:center;gap:8px;box-shadow:0 3px 12px rgba(15,23,42,0.10);color:#0f172a;font-weight:700;font-size:13.5px;cursor:pointer;transition:transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;line-height:1;">
-        <span style="font-size:18px;line-height:1;" aria-hidden="true"><?php echo $itdgl_current_region['flag']; ?></span>
-        <span class="region-label" style="letter-spacing:0.02em;"><?php echo $itdgl_current_region['label']; ?></span>
-        <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="opacity:0.6;"><polyline points="6 9 12 15 18 9"></polyline></svg>
-    </button>
-
-    <!-- Region overlay panel -->
-    <div id="itdgl-region-panel" role="menu" aria-labelledby="itdgl-region-btn"
-         style="display:none;position:absolute;bottom:calc(100% + 12px);right:0;min-width:220px;background:#fff;border:1px solid #e2e8f0;border-radius:14px;box-shadow:0 20px 50px rgba(15,23,42,0.18);padding:8px 6px;z-index:10000;">
-        <div style="font-family:'JetBrains Mono',monospace;font-size:9.5px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#94a3b8;padding:8px 12px 6px;">Switch region</div>
-        <?php
-        $itdgl_all_regions = array_merge(
-            ['india' => ['flag'=>'&#127470;&#127475;', 'label'=>'India', 'url'=>'/']],
-            $itdgl_region_map
-        );
-        foreach ($itdgl_all_regions as $slug => $r):
-            $is_current = ($r['label'] === $itdgl_current_region['label']);
-        ?>
-        <a href="<?php echo $r['url']; ?>" role="menuitem"
-           style="display:flex;align-items:center;gap:11px;padding:9px 12px;border-radius:8px;text-decoration:none;color:#0f172a;font-size:14px;font-weight:600;transition:background 0.15s ease;<?php echo $is_current ? 'background:#eff6ff;' : ''; ?>"
-           onmouseover="this.style.background='#f1f5f9'" onmouseout="this.style.background='<?php echo $is_current ? "#eff6ff" : "transparent"; ?>'">
-            <span style="font-size:18px;line-height:1;" aria-hidden="true"><?php echo $r['flag']; ?></span>
-            <span style="flex:1;"><?php echo $r['label']; ?></span>
-            <?php if ($is_current): ?><span style="font-family:'JetBrains Mono',monospace;font-size:9px;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;color:#1e40af;">Here</span><?php endif; ?>
-        </a>
-        <?php endforeach; ?>
+    <!-- Region / Country selector — floating -->
+    <div style="position:relative;">
+        <button type="button" id="itdgl-region-float-btn"
+                aria-haspopup="true" aria-expanded="false" aria-controls="itdgl-region-float-panel"
+                aria-label="Change country or region">
+            <span class="rf-flag" aria-hidden="true"><?php echo $itdgl_current['flag']; ?></span>
+            <span class="rf-label"><?php echo htmlspecialchars($itdgl_current['label']); ?></span>
+            <svg xmlns="http://www.w3.org/2000/svg" class="rf-caret" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </button>
+        <div id="itdgl-region-float-panel" role="menu" aria-labelledby="itdgl-region-float-btn" hidden>
+            <div class="rf-head">Switch region</div>
+            <?php foreach ($itdgl_regions as $key => $r): $is = ($key === $itdgl_current_key); ?>
+            <a href="<?php echo htmlspecialchars($r['url']); ?>" role="menuitem"
+               class="rf-item <?php echo $is ? 'is-current' : ''; ?>">
+                <span class="rf-flag" aria-hidden="true"><?php echo $r['flag']; ?></span>
+                <span class="rf-name"><?php echo htmlspecialchars($r['label']); ?></span>
+                <?php if ($is): ?><span class="rf-badge">Here</span><?php endif; ?>
+            </a>
+            <?php endforeach; ?>
+        </div>
     </div>
 
     <!-- Book a Call (Calendly) — plain anchor, opens in new tab. No JS-only triggers
@@ -88,54 +91,146 @@ foreach ($itdgl_region_map as $slug => $meta) {
 <style>
     #calendly-float:hover { transform: translateY(-2px); box-shadow: 0 8px 22px rgba(13,71,161,0.5); color:#fff; }
     #whatsapp-float:hover { transform: scale(1.08); box-shadow: 0 6px 20px rgba(37,211,102,0.5); }
-    #itdgl-region-btn:hover { transform: translateY(-2px); box-shadow: 0 6px 18px rgba(15,23,42,0.16); border-color: #1e40af; }
-    #itdgl-region-btn.is-open { border-color: #1e40af; background: #f0f7ff; }
-    @media (max-width: 768px) {
-        #itdgl-float-cluster { bottom: 15px; right: 15px; gap: 10px; }
-        #calendly-float { padding: 11px 16px; font-size: 13px; }
-        #calendly-float .cta-label { display: inline; }
-        #whatsapp-float { width: 50px; height: 50px; }
-        #whatsapp-float svg { width: 26px; height: 26px; }
-        /* Mobile: collapse region button to flag-only circle, no "India" text or chevron */
-        #itdgl-region-btn { width: 50px; height: 50px; padding: 0; border-radius: 50%; justify-content: center; }
-        #itdgl-region-btn .region-label { display: none; }
-        #itdgl-region-btn svg { display: none; }
-        #itdgl-region-panel { right: 0; min-width: 200px; }
+
+    /* Floating region selector — button */
+    #itdgl-region-float-btn {
+        background: #fff;
+        border: 1px solid #cbd5e1;
+        padding: 8px 14px 8px 10px;
+        border-radius: 50px;
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        box-shadow: 0 3px 12px rgba(15,23,42,0.10);
+        color: #0f172a;
+        font-weight: 700;
+        font-size: 13.5px;
+        cursor: pointer;
+        transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease, background 0.2s ease;
+        line-height: 1;
+        font-family: inherit;
     }
-    @media (max-width: 380px) {
-        #calendly-float .cta-label { display: none; }
-        #calendly-float { padding: 12px; border-radius: 50%; }
+    #itdgl-region-float-btn:hover { transform: translateY(-2px); box-shadow: 0 6px 18px rgba(15,23,42,0.16); border-color: #1e40af; }
+    #itdgl-region-float-btn.is-open { border-color: #1e40af; background: #f0f7ff; }
+    #itdgl-region-float-btn .rf-caret { opacity: 0.55; transition: transform 0.2s ease; }
+    #itdgl-region-float-btn.is-open .rf-caret { transform: rotate(180deg); }
+    #itdgl-region-float-btn .rf-label { letter-spacing: 0.02em; }
+
+    /* Shared flag chip — used in button + menu items */
+    .rf-flag {
+        display: inline-block;
+        width: 24px;
+        height: 16px;
+        border-radius: 2px;
+        overflow: hidden;
+        box-shadow: 0 0 0 1px rgba(15,23,42,0.10);
+        flex: 0 0 24px;
     }
-    /* Region panel enter animation */
-    #itdgl-region-panel.is-open {
-        display: block !important;
+    .rf-flag svg { display: block; width: 100%; height: 100%; }
+
+    /* Floating region selector — panel */
+    #itdgl-region-float-panel {
+        position: absolute;
+        bottom: calc(100% + 12px);
+        right: 0;
+        min-width: 230px;
+        background: #fff;
+        border: 1px solid #e2e8f0;
+        border-radius: 14px;
+        box-shadow: 0 20px 50px rgba(15,23,42,0.18);
+        padding: 8px 6px;
+        z-index: 10000;
+    }
+    #itdgl-region-float-panel[hidden] { display: none !important; }
+    #itdgl-region-float-panel.is-open {
         animation: itdgl-region-in 0.18s ease-out both;
     }
     @keyframes itdgl-region-in {
         from { opacity: 0; transform: translateY(6px); }
         to   { opacity: 1; transform: translateY(0); }
     }
+    #itdgl-region-float-panel .rf-head {
+        font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
+        font-size: 9.5px;
+        font-weight: 700;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+        color: #94a3b8;
+        padding: 8px 12px 6px;
+    }
+    #itdgl-region-float-panel .rf-item {
+        display: flex;
+        align-items: center;
+        gap: 11px;
+        padding: 9px 12px;
+        border-radius: 8px;
+        text-decoration: none;
+        color: #0f172a;
+        font-size: 14px;
+        font-weight: 600;
+        transition: background 0.15s ease;
+    }
+    #itdgl-region-float-panel .rf-item:hover { background: #f1f5f9; }
+    #itdgl-region-float-panel .rf-item.is-current { background: #eff6ff; }
+    #itdgl-region-float-panel .rf-name { flex: 1; }
+    #itdgl-region-float-panel .rf-badge {
+        font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
+        font-size: 9px;
+        font-weight: 700;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+        color: #1e40af;
+    }
+
+    @media (max-width: 768px) {
+        #itdgl-float-cluster { bottom: 15px; right: 15px; gap: 10px; }
+        #calendly-float { padding: 11px 16px; font-size: 13px; }
+        #calendly-float .cta-label { display: inline; }
+        #whatsapp-float { width: 50px; height: 50px; }
+        #whatsapp-float svg { width: 26px; height: 26px; }
+        /* Mobile: collapse region button to flag-only circle */
+        #itdgl-region-float-btn { width: 50px; height: 50px; padding: 0; border-radius: 50%; justify-content: center; }
+        #itdgl-region-float-btn .rf-label,
+        #itdgl-region-float-btn .rf-caret { display: none; }
+        #itdgl-region-float-btn .rf-flag { width: 26px; height: 18px; }
+        #itdgl-region-float-panel { min-width: 210px; }
+    }
+    @media (max-width: 380px) {
+        #calendly-float .cta-label { display: none; }
+        #calendly-float { padding: 12px; border-radius: 50%; }
+    }
 </style>
 
-<!-- Region floating button — open/close panel on click, close on outside-click + Escape -->
+<!-- Region floating button — open/close panel on click, close on outside-click + Escape.
+     Uses btn.contains(e.target) so clicks on the child SVG flag or label span (which
+     bubble up with e.target = child, not button) don't immediately close the panel. -->
 <script>
 (function(){
-    var btn   = document.getElementById('itdgl-region-btn');
-    var panel = document.getElementById('itdgl-region-panel');
+    var btn   = document.getElementById('itdgl-region-float-btn');
+    var panel = document.getElementById('itdgl-region-float-panel');
     if (!btn || !panel) return;
     function setOpen(open){
+        if (open) { panel.removeAttribute('hidden'); }
         panel.classList.toggle('is-open', open);
         btn.classList.toggle('is-open', open);
         btn.setAttribute('aria-expanded', open ? 'true' : 'false');
-        panel.style.display = open ? 'block' : 'none';
+        if (!open) {
+            // Delay hidden attr until animation finishes so we don't kill the fade.
+            setTimeout(function(){
+                if (!panel.classList.contains('is-open')) panel.setAttribute('hidden', '');
+            }, 200);
+        }
     }
     btn.addEventListener('click', function(e){
+        e.preventDefault();
         e.stopPropagation();
         setOpen(!panel.classList.contains('is-open'));
         if (typeof gtag === 'function') gtag('event', 'region_selector_open', { source: 'float_button' });
     });
     document.addEventListener('click', function(e){
-        if (!panel.contains(e.target) && e.target !== btn) setOpen(false);
+        if (!panel.classList.contains('is-open')) return;
+        if (btn.contains(e.target) || panel.contains(e.target)) return;
+        setOpen(false);
     });
     document.addEventListener('keydown', function(e){
         if (e.key === 'Escape') setOpen(false);

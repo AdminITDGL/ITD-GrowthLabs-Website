@@ -98,8 +98,12 @@
            <div class="container d-flex justify-content-between align-items-center">
                <!-- Start Header Navigation -->
                <div class="navbar-header">
-                   <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu" aria-expanded="false" aria-controls="navbar-menu">
-                       <i class="fas fa-bars" aria-hidden="true"></i>
+                   <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu" aria-expanded="false" aria-controls="navbar-menu" style="background:transparent;border:1px solid rgba(15,23,42,0.14);border-radius:8px;padding:10px 12px;">
+                       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#0f172a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:block;">
+                           <line x1="3" y1="6" x2="21" y2="6"></line>
+                           <line x1="3" y1="12" x2="21" y2="12"></line>
+                           <line x1="3" y1="18" x2="21" y2="18"></line>
+                       </svg>
                        <span class="sr-only">Menu</span>
                    </button>
                    <a class="navbar-brand" href="/index.php">
@@ -290,7 +294,10 @@
                <div class="attr-right">
                    <!-- Start Atribute Navigation -->
                    <div class="attr-nav">
-                       <?php include $_SERVER['DOCUMENT_ROOT'] . '/includes/region_selector.php'; ?>
+                       <?php /* Region selector moved to the floating cluster (bottom-right) in
+                              includes/engagement-tools.php — do not include region_selector.php
+                              here or the shared #itdgl-region-btn ID collides + causes a
+                              multi-click bug when opening the floating panel. */ ?>
                        <ul>
                            <li class="button">
                                <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call" data-source="nav_book_call" target="_blank" rel="noopener">Book a Call</a>
