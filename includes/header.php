@@ -99,7 +99,8 @@
                <!-- Start Header Navigation -->
                <div class="navbar-header">
                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu" aria-expanded="false" aria-controls="navbar-menu">
-                       <i class="fa fa-bars"></i>
+                       <i class="fas fa-bars" aria-hidden="true"></i>
+                       <span class="sr-only">Menu</span>
                    </button>
                    <a class="navbar-brand" href="/index.php">
                        <img src="/assets/img/logo.jpg" class="logo" alt="Logo">
@@ -183,6 +184,22 @@
                                                        <li><a href="/services/d2c/electronics-digital-marketing.php"><i class="fas fa-headphones" style="color:#1e40af;margin-right:8px;font-size:11px;"></i>Electronics &amp; Consumer Products</a></li>
                                                        <li><a href="/services/d2c/lifestyle-brands-digital-marketing.php"><i class="fas fa-suitcase" style="color:#6366f1;margin-right:8px;font-size:11px;"></i>Lifestyle Brands</a></li>
                                                        <li><a href="/services/d2c/ecommerce-d2c-digital-marketing.php"><i class="fas fa-cart-shopping" style="color:#ec4899;margin-right:8px;font-size:11px;"></i>E-commerce &amp; Other D2C</a></li>
+                                                   </ul>
+                                               </li>
+                                               <li class="itdgl-has-flyout">
+                                                   <a href="/services/real-estate-digital-marketing.php" style="color:#1e40af;">
+                                                       <strong>Real Estate Marketing</strong>
+                                                       <span class="itdgl-flyout-arrow" aria-hidden="true">&rsaquo;</span>
+                                                       <br><span style="font-size:11.5px;color:#888;font-weight:500;">Builders + brokers &middot; 6 cities</span>
+                                                   </a>
+                                                   <ul class="itdgl-flyout-menu" aria-label="Real Estate cities">
+                                                       <li><a href="/services/real-estate-digital-marketing.php"><i class="fas fa-building" style="color:#1e40af;margin-right:8px;font-size:11px;"></i><strong>National overview</strong></a></li>
+                                                       <li><a href="/mumbai/real-estate-digital-marketing.php"><i class="fas fa-city" style="color:#1e3a8a;margin-right:8px;font-size:11px;"></i>Mumbai</a></li>
+                                                       <li><a href="/bangalore/real-estate-digital-marketing.php"><i class="fas fa-city" style="color:#3b82f6;margin-right:8px;font-size:11px;"></i>Bangalore</a></li>
+                                                       <li><a href="/delhi/real-estate-digital-marketing.php"><i class="fas fa-city" style="color:#1e40af;margin-right:8px;font-size:11px;"></i>Delhi NCR</a></li>
+                                                       <li><a href="/chennai/real-estate-digital-marketing.php"><i class="fas fa-city" style="color:#0369a1;margin-right:8px;font-size:11px;"></i>Chennai</a></li>
+                                                       <li><a href="/hyderabad/real-estate-digital-marketing.php"><i class="fas fa-city" style="color:#4338ca;margin-right:8px;font-size:11px;"></i>Hyderabad</a></li>
+                                                       <li><a href="/ahmedabad/real-estate-digital-marketing.php"><i class="fas fa-city" style="color:#0d9488;margin-right:8px;font-size:11px;"></i>Ahmedabad</a></li>
                                                    </ul>
                                                </li>
                                                <li><a href="/services/seo-auditing-services.php">Search Engine Optimization (SEO)</a></li>

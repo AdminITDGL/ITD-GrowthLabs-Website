@@ -7,8 +7,55 @@
 <link rel="stylesheet" href="https://assets.calendly.com/assets/external/widget.css">
 <script src="https://assets.calendly.com/assets/external/widget.js" async></script>
 
-<!-- Floating CTA cluster: Calendly (primary) + WhatsApp (secondary) -->
-<div id="itdgl-float-cluster" style="position:fixed;bottom:25px;right:25px;z-index:9999;display:flex;flex-direction:column;gap:14px;align-items:flex-end;">
+<!-- Floating CTA cluster: Country/Region + Calendly + WhatsApp -->
+<?php
+// Derive current region label from URL path so the region button reflects where
+// the visitor is browsing (India by default, otherwise the country hub they're on).
+$itdgl_curr_path = $_SERVER['PHP_SELF'] ?? '';
+$itdgl_region_map = [
+    'usa'       => ['flag'=>'&#127482;&#127480;', 'label'=>'USA',       'url'=>'/usa/index.php'],
+    'uk'        => ['flag'=>'&#127468;&#127463;', 'label'=>'UK',        'url'=>'/uk/index.php'],
+    'uae'       => ['flag'=>'&#127462;&#127466;', 'label'=>'UAE',       'url'=>'/uae/index.php'],
+    'australia' => ['flag'=>'&#127462;&#127482;', 'label'=>'Australia', 'url'=>'/australia/index.php'],
+    'africa'    => ['flag'=>'&#127487;&#127462;', 'label'=>'Africa',    'url'=>'/africa/index.php'],
+];
+$itdgl_current_region = ['flag'=>'&#127470;&#127475;', 'label'=>'India', 'url'=>'/'];
+foreach ($itdgl_region_map as $slug => $meta) {
+    if (strpos($itdgl_curr_path, '/' . $slug . '/') === 0) { $itdgl_current_region = $meta; break; }
+}
+?>
+<div id="itdgl-float-cluster" style="position:fixed;bottom:25px;right:25px;z-index:9999;display:flex;flex-direction:column;gap:12px;align-items:flex-end;">
+
+    <!-- Region / Country selector -->
+    <button type="button" id="itdgl-region-btn" aria-haspopup="true" aria-expanded="false" aria-controls="itdgl-region-panel"
+            aria-label="Change country or region"
+            style="background:#fff;border:1px solid #cbd5e1;padding:9px 15px 9px 12px;border-radius:50px;display:inline-flex;align-items:center;gap:8px;box-shadow:0 3px 12px rgba(15,23,42,0.10);color:#0f172a;font-weight:700;font-size:13.5px;cursor:pointer;transition:transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;line-height:1;">
+        <span style="font-size:18px;line-height:1;" aria-hidden="true"><?php echo $itdgl_current_region['flag']; ?></span>
+        <span class="region-label" style="letter-spacing:0.02em;"><?php echo $itdgl_current_region['label']; ?></span>
+        <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="opacity:0.6;"><polyline points="6 9 12 15 18 9"></polyline></svg>
+    </button>
+
+    <!-- Region overlay panel -->
+    <div id="itdgl-region-panel" role="menu" aria-labelledby="itdgl-region-btn"
+         style="display:none;position:absolute;bottom:calc(100% + 12px);right:0;min-width:220px;background:#fff;border:1px solid #e2e8f0;border-radius:14px;box-shadow:0 20px 50px rgba(15,23,42,0.18);padding:8px 6px;z-index:10000;">
+        <div style="font-family:'JetBrains Mono',monospace;font-size:9.5px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#94a3b8;padding:8px 12px 6px;">Switch region</div>
+        <?php
+        $itdgl_all_regions = array_merge(
+            ['india' => ['flag'=>'&#127470;&#127475;', 'label'=>'India', 'url'=>'/']],
+            $itdgl_region_map
+        );
+        foreach ($itdgl_all_regions as $slug => $r):
+            $is_current = ($r['label'] === $itdgl_current_region['label']);
+        ?>
+        <a href="<?php echo $r['url']; ?>" role="menuitem"
+           style="display:flex;align-items:center;gap:11px;padding:9px 12px;border-radius:8px;text-decoration:none;color:#0f172a;font-size:14px;font-weight:600;transition:background 0.15s ease;<?php echo $is_current ? 'background:#eff6ff;' : ''; ?>"
+           onmouseover="this.style.background='#f1f5f9'" onmouseout="this.style.background='<?php echo $is_current ? "#eff6ff" : "transparent"; ?>'">
+            <span style="font-size:18px;line-height:1;" aria-hidden="true"><?php echo $r['flag']; ?></span>
+            <span style="flex:1;"><?php echo $r['label']; ?></span>
+            <?php if ($is_current): ?><span style="font-family:'JetBrains Mono',monospace;font-size:9px;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;color:#1e40af;">Here</span><?php endif; ?>
+        </a>
+        <?php endforeach; ?>
+    </div>
 
     <!-- Book a Call (Calendly) — plain anchor, opens in new tab. No JS-only triggers
          (widget.js popup mode caused a "10-15 clicks needed" bug because the async
@@ -41,18 +88,60 @@
 <style>
     #calendly-float:hover { transform: translateY(-2px); box-shadow: 0 8px 22px rgba(13,71,161,0.5); color:#fff; }
     #whatsapp-float:hover { transform: scale(1.08); box-shadow: 0 6px 20px rgba(37,211,102,0.5); }
+    #itdgl-region-btn:hover { transform: translateY(-2px); box-shadow: 0 6px 18px rgba(15,23,42,0.16); border-color: #1e40af; }
+    #itdgl-region-btn.is-open { border-color: #1e40af; background: #f0f7ff; }
     @media (max-width: 768px) {
         #itdgl-float-cluster { bottom: 15px; right: 15px; gap: 10px; }
         #calendly-float { padding: 11px 16px; font-size: 13px; }
         #calendly-float .cta-label { display: inline; }
         #whatsapp-float { width: 50px; height: 50px; }
         #whatsapp-float svg { width: 26px; height: 26px; }
+        /* Mobile: collapse region button to flag-only circle, no "India" text or chevron */
+        #itdgl-region-btn { width: 50px; height: 50px; padding: 0; border-radius: 50%; justify-content: center; }
+        #itdgl-region-btn .region-label { display: none; }
+        #itdgl-region-btn svg { display: none; }
+        #itdgl-region-panel { right: 0; min-width: 200px; }
     }
     @media (max-width: 380px) {
         #calendly-float .cta-label { display: none; }
         #calendly-float { padding: 12px; border-radius: 50%; }
     }
+    /* Region panel enter animation */
+    #itdgl-region-panel.is-open {
+        display: block !important;
+        animation: itdgl-region-in 0.18s ease-out both;
+    }
+    @keyframes itdgl-region-in {
+        from { opacity: 0; transform: translateY(6px); }
+        to   { opacity: 1; transform: translateY(0); }
+    }
 </style>
+
+<!-- Region floating button — open/close panel on click, close on outside-click + Escape -->
+<script>
+(function(){
+    var btn   = document.getElementById('itdgl-region-btn');
+    var panel = document.getElementById('itdgl-region-panel');
+    if (!btn || !panel) return;
+    function setOpen(open){
+        panel.classList.toggle('is-open', open);
+        btn.classList.toggle('is-open', open);
+        btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+        panel.style.display = open ? 'block' : 'none';
+    }
+    btn.addEventListener('click', function(e){
+        e.stopPropagation();
+        setOpen(!panel.classList.contains('is-open'));
+        if (typeof gtag === 'function') gtag('event', 'region_selector_open', { source: 'float_button' });
+    });
+    document.addEventListener('click', function(e){
+        if (!panel.contains(e.target) && e.target !== btn) setOpen(false);
+    });
+    document.addEventListener('keydown', function(e){
+        if (e.key === 'Escape') setOpen(false);
+    });
+})();
+</script>
 
 <!-- Sitewide Calendly click tracking — analytics ONLY, never preventDefault.
      Every Calendly CTA on the site uses target="_blank" + a plain href, so clicks
