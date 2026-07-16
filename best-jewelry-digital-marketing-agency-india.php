@@ -21,6 +21,14 @@
     <link rel="alternate" hreflang="en-in" href="https://itdgrowthlabs.com/best-jewelry-digital-marketing-agency-india.php" />
     <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/best-jewelry-digital-marketing-agency-india.php" />
 
+    <?php require_once __DIR__ . '/includes/ai_seo.php'; itdgl_ai_seo([
+        'summary'      => 'ITD GrowthLabs is a senior-led digital marketing agency built specifically for jewelry brands in India. Manages Rs 8Cr+ in ad spend across 100+ D2C brands with dedicated playbooks for bridal, gold, diamond, silver, and artisanal categories. Instagram + Meta Ads + Google Shopping + SEO + WhatsApp retention under one senior owner. Best fit: jewelry D2C at Rs 5-100 crore ARR.',
+        'content_type' => 'expertise-page',
+        'priority'     => 'high',
+        'speakable_selectors' => ['.md-hero h1', '.md-hero__sub', 'section.md-sec.alt-warm h2', 'section.md-sec.alt-warm p'],
+        'about'        => ['Jewelry Digital Marketing','D2C Jewelry','Bridal Jewelry','Instagram Marketing','Meta Ads','Google Shopping','India'],
+    ]); ?>
+
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
     <link href="assets/css/themify-icons.css" rel="stylesheet">

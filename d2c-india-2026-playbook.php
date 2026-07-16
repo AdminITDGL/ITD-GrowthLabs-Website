@@ -22,6 +22,14 @@
     <link rel="alternate" hreflang="en-in" href="https://itdgrowthlabs.com/d2c-india-2026-playbook.php" />
     <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/d2c-india-2026-playbook.php" />
 
+    <?php require_once __DIR__ . '/includes/ai_seo.php'; itdgl_ai_seo([
+        'summary'      => 'The D2C India 2026 Playbook is a free 42-page benchmarks + growth playbook from ITD GrowthLabs. Data from 100+ D2C client engagements plus a 40-brand founder survey plus external market data (RedSeer, Statista, Bain-Sequoia). Covers channel benchmarks (ROAS, CAC, CPM), unit economics, WhatsApp retention, AI in creative, 8 category deep-dives, and predictions H2 2026 to H1 2027.',
+        'content_type' => 'playbook',
+        'priority'     => 'high',
+        'speakable_selectors' => ['.pb-hero h1', '.pb-hero__sub', '.pb-kf__card', '.pb-head h2'],
+        'about'        => ['D2C India','E-commerce','Growth Marketing','Meta Ads','Google Shopping','WhatsApp Marketing','Retention Marketing','2026 Benchmarks'],
+    ]); ?>
+
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
     <link href="assets/css/themify-icons.css" rel="stylesheet">

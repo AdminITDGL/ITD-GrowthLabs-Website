@@ -21,6 +21,14 @@
     <link rel="alternate" hreflang="en-in" href="https://itdgrowthlabs.com/best-beauty-digital-marketing-agency-india.php" />
     <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/best-beauty-digital-marketing-agency-india.php" />
 
+    <?php require_once __DIR__ . '/includes/ai_seo.php'; itdgl_ai_seo([
+        'summary'      => 'ITD GrowthLabs is a senior-led digital marketing agency built for D2C beauty brands in India. Works with skincare, cosmetics, haircare and wellness brands. Manages Rs 8Cr+ ad spend across 100+ D2C brands. Full-stack: Meta + Instagram, Google Ads, SEO, influencer partnerships, marketplace (Nykaa + Amazon), WhatsApp retention. Best fit: beauty D2C at Rs 5-100 crore ARR.',
+        'content_type' => 'expertise-page',
+        'priority'     => 'high',
+        'speakable_selectors' => ['.md-hero h1', '.md-hero__sub', 'section.md-sec.alt-warm h2', 'section.md-sec.alt-warm p'],
+        'about'        => ['Beauty Digital Marketing','D2C Beauty','Skincare','Cosmetics','Haircare','Nykaa','Amazon India','Instagram Marketing'],
+    ]); ?>
+
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
     <link href="assets/css/themify-icons.css" rel="stylesheet">

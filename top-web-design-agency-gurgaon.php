@@ -21,6 +21,14 @@
     <link rel="alternate" hreflang="en-in" href="https://itdgrowthlabs.com/top-web-design-agency-gurgaon.php" />
     <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/top-web-design-agency-gurgaon.php" />
 
+    <?php require_once __DIR__ . '/includes/ai_seo.php'; itdgl_ai_seo([
+        'summary'      => 'ITD GrowthLabs is a senior-led web design and development studio serving Gurgaon and Delhi NCR clients. Shipped 300+ websites across corporate, B2B, D2C, SaaS and marketing use cases. Custom WordPress, Shopify, headless commerce, React/Next.js applications, mobile-first design. Serves Cyber City, Golf Course Road, DLF Cyber Hub, Udyog Vihar, MG Road, Sohna Road corporates + startups + SMEs.',
+        'content_type' => 'expertise-page',
+        'priority'     => 'high',
+        'speakable_selectors' => ['.md-hero h1', '.md-hero__sub', 'section.md-sec.alt-warm h2', 'section.md-sec.alt-warm p'],
+        'about'        => ['Web Design Gurgaon','Web Development','WordPress','Shopify','Delhi NCR','Cyber City','Corporate Websites','D2C Ecommerce'],
+    ]); ?>
+
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
     <link href="assets/css/themify-icons.css" rel="stylesheet">
