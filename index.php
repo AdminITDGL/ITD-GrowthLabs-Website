@@ -463,28 +463,28 @@
     .itd-clients__grid {
         display: grid;
         grid-template-columns: repeat(4, 1fr);
-        gap: 18px;
+        gap: 22px;
         align-items: stretch;
     }
     .itd-client-card {
         background: #fff;
         border: 1px solid var(--md-border);
-        border-radius: 14px;
-        padding: 14px 12px;
+        border-radius: 16px;
+        padding: 22px 18px;
         display: flex;
         align-items: center;
         justify-content: center;
-        min-height: 190px;
+        min-height: 240px;
         transition: transform .25s, border-color .25s, box-shadow .25s;
     }
     .itd-client-card:hover {
-        transform: translateY(-3px);
+        transform: translateY(-4px);
         border-color: var(--md-orange);
         box-shadow: var(--md-card-shadow-h);
     }
     .itd-client-card img {
-        max-width: 92%;
-        max-height: 160px;
+        max-width: 100%;
+        max-height: 200px;
         width: auto;
         height: auto;
         object-fit: contain;
@@ -493,15 +493,19 @@
     .itd-clients__foot { text-align:center; font-size: 13px; color: var(--md-muted); margin: 30px 0 0; }
     .itd-clients__foot i { color: var(--md-orange); margin-right: 4px; }
 
-    @media (max-width: 991px) {
+    @media (max-width: 1200px) {
         .itd-clients__grid { grid-template-columns: repeat(3, 1fr); }
-        .itd-client-card { min-height: 170px; }
-        .itd-client-card img { max-height: 140px; }
+        .itd-client-card { min-height: 220px; }
+        .itd-client-card img { max-height: 180px; }
     }
-    @media (max-width: 640px) {
+    @media (max-width: 768px) {
+        .itd-clients__grid { grid-template-columns: repeat(2, 1fr); gap: 14px; }
+        .itd-client-card { min-height: 180px; padding: 16px 12px; }
+        .itd-client-card img { max-height: 150px; }
+    }
+    @media (max-width: 480px) {
         .itd-clients { padding: 40px 0; }
-        .itd-clients__grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
-        .itd-client-card { min-height: 150px; padding: 12px 8px; }
+        .itd-client-card { min-height: 150px; }
         .itd-client-card img { max-height: 120px; }
     }
     </style>
@@ -521,11 +525,15 @@
                     ['file'=>'cariesco-group.png',     'alt'=>'Cariesco Group'],
                     ['file'=>'technocrats.png',        'alt'=>'Technocrats (ISO 9001:2015)'],
                     ['file'=>'m-four-development.png', 'alt'=>'M Four Development'],
+                    ['file'=>'caper.png',              'alt'=>'Caper'],
+                    ['file'=>'pruf.jpg',               'alt'=>'PRUF'],
+                    ['file'=>'presidence.png',         'alt'=>'Presidence'],
+                    ['file'=>'travelkit.png',          'alt'=>'TravelKit'],
                 ] as $c): ?>
                 <div class="itd-client-card">
                     <img src="/assets/img/clients/<?php echo $c['file']; ?>"
                          alt="<?php echo htmlspecialchars($c['alt']); ?>"
-                         loading="lazy" decoding="async" width="200" height="100">
+                         loading="lazy" decoding="async" width="240" height="120">
                 </div>
                 <?php endforeach; ?>
             </div>
