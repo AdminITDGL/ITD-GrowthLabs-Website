@@ -105,25 +105,49 @@
     <!-- ============================================================
          CLIENT LOGOS — real brands shipping on our stack
          ============================================================ -->
-    <section class="itd-clients-about" style="background:#fff;padding:46px 0;border-bottom:1px solid var(--md-border);">
+    <style>
+    .itd-clients-about__grid { display:grid; grid-template-columns:repeat(4,1fr); gap:22px; align-items:stretch; }
+    .itd-clients-about__card { background:#fff; border:1px solid var(--md-border); border-radius:16px; padding:22px 18px; display:flex; align-items:center; justify-content:center; min-height:240px; transition:transform .25s, border-color .25s, box-shadow .25s; }
+    .itd-clients-about__card:hover { transform:translateY(-4px); border-color:var(--md-orange); box-shadow:var(--md-card-shadow-h); }
+    .itd-clients-about__card img { max-width:100%; max-height:200px; width:auto; height:auto; object-fit:contain; display:block; }
+    @media (max-width: 1200px) {
+        .itd-clients-about__grid { grid-template-columns:repeat(3,1fr); }
+        .itd-clients-about__card { min-height:220px; }
+        .itd-clients-about__card img { max-height:180px; }
+    }
+    @media (max-width: 768px) {
+        .itd-clients-about__grid { grid-template-columns:repeat(2,1fr); gap:14px; }
+        .itd-clients-about__card { min-height:180px; padding:16px 12px; }
+        .itd-clients-about__card img { max-height:150px; }
+    }
+    @media (max-width: 480px) {
+        .itd-clients-about__card { min-height:150px; }
+        .itd-clients-about__card img { max-height:120px; }
+    }
+    </style>
+    <section class="itd-clients-about" style="background:#fff;padding:56px 0;border-bottom:1px solid var(--md-border);">
         <div class="container">
-            <div style="text-align:center;margin-bottom:26px;">
+            <div style="text-align:center;margin-bottom:34px;">
                 <span style="display:inline-block;font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--md-orange);font-weight:800;background:rgba(255,107,0,0.08);padding:5px 14px;border-radius:18px;">Brands shipping on our stack</span>
-                <h3 style="font-size:18px;font-weight:700;color:var(--md-heading);margin:10px 0 0;letter-spacing:-0.2px;">A selection of recent client engagements <span style="color:var(--md-muted);font-weight:500;font-size:14.5px;">&mdash; many more under NDA</span></h3>
+                <h3 style="font-size:20px;font-weight:700;color:var(--md-heading);margin:12px 0 0;letter-spacing:-0.2px;">A selection of recent client engagements <span style="color:var(--md-muted);font-weight:500;font-size:15px;">&mdash; many more under NDA</span></h3>
             </div>
-            <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:18px;align-items:stretch;">
+            <div class="itd-clients-about__grid">
                 <?php foreach ([
                     ['file'=>'mindsyn.png',            'alt'=>'MindSyn'],
                     ['file'=>'courierdost.png',        'alt'=>'CourierDost'],
-                    ['file'=>'daakiyawala.png',        'alt'=>'Daakiyawala'],
+                    ['file'=>'acx.png',                'alt'=>'ACX'],
                     ['file'=>'transline-cargo.png',    'alt'=>'Transline Air Cargo Services'],
                     ['file'=>'nex-navalai.png',        'alt'=>'NEX Navalai Enterprises'],
                     ['file'=>'cariesco-group.png',     'alt'=>'Cariesco Group'],
                     ['file'=>'technocrats.png',        'alt'=>'Technocrats (ISO 9001:2015)'],
                     ['file'=>'m-four-development.png', 'alt'=>'M Four Development'],
+                    ['file'=>'caper.png',              'alt'=>'Caper'],
+                    ['file'=>'pruf.jpg',               'alt'=>'PRUF'],
+                    ['file'=>'presidence.png',         'alt'=>'Presidence'],
+                    ['file'=>'travelkit.png',          'alt'=>'TravelKit'],
                 ] as $c): ?>
-                <div style="background:#fff;border:1px solid var(--md-border);border-radius:14px;padding:14px 12px;display:flex;align-items:center;justify-content:center;min-height:190px;transition:transform .25s,border-color .25s,box-shadow .25s;" onmouseover="this.style.transform='translateY(-3px)';this.style.borderColor='var(--md-orange)';this.style.boxShadow='var(--md-card-shadow-h)'" onmouseout="this.style.transform='';this.style.borderColor='var(--md-border)';this.style.boxShadow=''">
-                    <img src="/assets/img/clients/<?php echo $c['file']; ?>" alt="<?php echo htmlspecialchars($c['alt']); ?>" loading="lazy" decoding="async" width="200" height="100" style="max-width:92%;max-height:160px;width:auto;height:auto;object-fit:contain;display:block;">
+                <div class="itd-clients-about__card">
+                    <img src="/assets/img/clients/<?php echo $c['file']; ?>" alt="<?php echo htmlspecialchars($c['alt']); ?>" loading="lazy" decoding="async" width="240" height="120">
                 </div>
                 <?php endforeach; ?>
             </div>

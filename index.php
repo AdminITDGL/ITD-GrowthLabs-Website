@@ -519,7 +519,7 @@
                 <?php foreach ([
                     ['file'=>'mindsyn.png',            'alt'=>'MindSyn'],
                     ['file'=>'courierdost.png',        'alt'=>'CourierDost'],
-                    ['file'=>'daakiyawala.png',        'alt'=>'Daakiyawala'],
+                    ['file'=>'acx.png',                'alt'=>'ACX'],
                     ['file'=>'transline-cargo.png',    'alt'=>'Transline Air Cargo Services'],
                     ['file'=>'nex-navalai.png',        'alt'=>'NEX Navalai Enterprises'],
                     ['file'=>'cariesco-group.png',     'alt'=>'Cariesco Group'],
