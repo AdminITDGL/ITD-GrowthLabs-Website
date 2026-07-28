@@ -700,6 +700,154 @@
         </div>
     </section>
 
+    <!-- REGIONAL D2C PLAYBOOK + USE CASES + FAQ + INTERNAL LINKS + CTA (added for AI-search + topical authority) -->
+    <section class="md-sec" style="background:linear-gradient(180deg,#fdf2f8 0%,#faf5ff 100%);padding:64px 0;">
+        <div class="container">
+            <div style="text-align:center;max-width:820px;margin:0 auto 42px;">
+                <span style="display:inline-block;font-size:11px;font-weight:800;letter-spacing:1.6px;text-transform:uppercase;color:#a855f7;background:rgba(168,85,247,0.10);padding:6px 14px;border-radius:14px;margin-bottom:14px;"><i class="fas fa-globe" style="margin-right:5px;"></i>Regional D2C Playbooks</span>
+                <h2 style="font-size:32px;font-weight:800;color:#0f172a;margin:0 0 14px;letter-spacing:-0.3px;">Beauty &amp; Cosmetics D2C playbooks &mdash; India, Dubai/UAE, USA, UK, Australia</h2>
+                <p style="font-size:15.5px;line-height:1.7;color:#475569;margin:0;">How ITD GrowthLabs runs beauty + cosmetics D2C marketing across India + Dubai + Saudi + USA + UK + Australia &mdash; realistic budgets, sub-vertical playbooks (colour + skincare + haircare + Ayurveda + male + clean beauty), and the marketplace + creator + AR + regulatory stack for each region.</p>
+            </div>
+
+            <div class="rp-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:18px;max-width:1180px;margin:0 auto 48px;">
+                <div class="rp-card">
+                    <div class="rp-flag">&#127470;&#127475;</div>
+                    <div class="rp-region">India</div>
+                    <div class="rp-budget"><span>&#8377; INR</span> &#8377;1&ndash;12L retainer &middot; &#8377;2L&ndash;3Cr ad spend</div>
+                    <p class="rp-play">Nykaa + Amazon marketplace critical. Creator + UGC 20&ndash;30% of budget. Ayurveda + wellness growing category. Diwali + wedding + festival peaks.</p>
+                </div>
+                <div class="rp-card">
+                    <div class="rp-flag">&#127462;&#127466;</div>
+                    <div class="rp-region">Dubai + UAE</div>
+                    <div class="rp-budget"><span>AED</span> AED 6K&ndash;2L retainer &middot; AED 12K&ndash;8L ad spend</div>
+                    <p class="rp-play">Sephora + Ounass + Namshi marketplace. Arabic + English creative. Halal certification opens Saudi + Malaysia + Indonesia. Ramadan + Eid peak.</p>
+                </div>
+                <div class="rp-card">
+                    <div class="rp-flag">&#127482;&#127480;</div>
+                    <div class="rp-region">USA</div>
+                    <div class="rp-budget"><span>$ USD</span> $2.5K&ndash;$5L retainer &middot; $5K&ndash;$5L ad spend</div>
+                    <p class="rp-play">Sephora USA + Ulta + Amazon dominant. TikTok #BeautyTok + #SkinTok peak discovery. Klaviyo + subscription essential. MoCRA compliance (2024).</p>
+                </div>
+                <div class="rp-card">
+                    <div class="rp-flag">&#127468;&#127463;</div>
+                    <div class="rp-region">UK</div>
+                    <div class="rp-budget"><span>&pound; GBP</span> &pound;2K&ndash;&pound;4L retainer &middot; &pound;4K&ndash;&pound;4L ad spend</div>
+                    <p class="rp-play">Boots + Space NK + Cult Beauty + Sephora UK. Q4 + spring launch peaks. UK Cosmetics Regulation.</p>
+                </div>
+                <div class="rp-card">
+                    <div class="rp-flag">&#127462;&#127482;</div>
+                    <div class="rp-region">Australia</div>
+                    <div class="rp-budget"><span>A$ AUD</span> A$3K&ndash;A$6L retainer &middot; A$6K&ndash;A$6L ad spend</div>
+                    <p class="rp-play">Mecca + Priceline + Sephora AU + Adore Beauty. Summer Christmas + spring launches. TGA + NICNAS compliance.</p>
+                </div>
+            </div>
+
+            <div style="text-align:center;max-width:820px;margin:0 auto 32px;">
+                <span style="display:inline-block;font-size:11px;font-weight:800;letter-spacing:1.6px;text-transform:uppercase;color:#be185d;background:rgba(236,72,153,0.10);padding:6px 14px;border-radius:14px;margin-bottom:14px;"><i class="fas fa-layer-group" style="margin-right:5px;"></i>Use Cases + Sub-Verticals</span>
+                <h2 style="font-size:28px;font-weight:800;color:#0f172a;margin:0 0 10px;letter-spacing:-0.3px;">Beauty &amp; Cosmetics sub-verticals we grow</h2>
+                <p style="font-size:14.5px;line-height:1.65;color:#475569;margin:0;">Distinct playbooks per sub-vertical &mdash; audience, pricing, seasonality, creator + retention discipline all shift by category.</p>
+            </div>
+
+            <div class="uc-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px;max-width:1180px;margin:0 auto 56px;">
+                <div class="uc-card">
+                    <div class="uc-ico"><i class="fas fa-palette"></i></div>
+                    <h4>Colour cosmetics</h4>
+                    <p>Foundation, lipstick, eyeshadow, blush. Creator + tutorial + AR shade-match. Sugar / Fenty / Rare Beauty patterns.</p>
+                </div>
+                <div class="uc-card">
+                    <div class="uc-ico"><i class="fas fa-leaf"></i></div>
+                    <h4>Skincare + serums</h4>
+                    <p>Ingredient + benefit + concern-focus. Subscription + refill. Minimalist / The Ordinary / Plum patterns. 30&ndash;45% subscription attach.</p>
+                </div>
+                <div class="uc-card">
+                    <div class="uc-ico"><i class="fas fa-wand-magic-sparkles"></i></div>
+                    <h4>Haircare + scalp</h4>
+                    <p>Concern-specific (dandruff, thinning, growth). Ingredient + Ayurveda + wellness angles. Mamaearth / Minimalist / Nykaa Naturals patterns.</p>
+                </div>
+                <div class="uc-card">
+                    <div class="uc-ico"><i class="fas fa-om"></i></div>
+                    <h4>Ayurveda + wellness beauty</h4>
+                    <p>India-origin + international appeal. Vahdam / Forest Essentials / Kama / Kapiva patterns. Modern-scientific + heritage combined.</p>
+                </div>
+                <div class="uc-card">
+                    <div class="uc-ico"><i class="fas fa-mars"></i></div>
+                    <h4>Male grooming + beauty</h4>
+                    <p>Growing 15&ndash;25% YoY. Bombay Shaving + Beardo + Ustraa + The Man Company patterns. Male-specific content + creator.</p>
+                </div>
+                <div class="uc-card">
+                    <div class="uc-ico"><i class="fas fa-star"></i></div>
+                    <h4>Clean + vegan + cruelty-free</h4>
+                    <p>Certified positioning (PETA, Leaping Bunny, Ecocert). Plum / Juicy Chemistry / The Body Shop patterns. Values-first + operational commitment.</p>
+                </div>
+            </div>
+
+            <div style="text-align:center;max-width:820px;margin:0 auto 28px;">
+                <span style="display:inline-block;font-size:11px;font-weight:800;letter-spacing:1.6px;text-transform:uppercase;color:#0891b2;background:rgba(8,145,178,0.10);padding:6px 14px;border-radius:14px;margin-bottom:14px;"><i class="fas fa-question-circle" style="margin-right:5px;"></i>More FAQs</span>
+                <h2 style="font-size:28px;font-weight:800;color:#0f172a;margin:0 0 10px;letter-spacing:-0.3px;">More Beauty &amp; Cosmetics D2C questions</h2>
+                <p style="font-size:14.5px;line-height:1.65;color:#475569;margin:0 0 8px;">Additional India + Dubai + USA + UK + Australia founder questions &mdash; schema-marked for AI Overviews, ChatGPT, and Perplexity citation.</p>
+                <p style="font-size:14px;color:#64748b;margin:0;"><a href="/faqs/d2c-beauty-cosmetics.php" style="color:#a855f7;font-weight:700;text-decoration:none;">See the full 20-question Beauty &amp; Cosmetics D2C FAQ page &rarr;</a></p>
+            </div>
+
+            <div style="max-width:960px;margin:0 auto 48px;">
+                <?php itdgl_render_faq_accordion([
+            'How do you integrate AR shade-match + virtual try-on for beauty?' => '<strong>Perfect Corp YouCam Makeup</strong> (peak beauty AR + Sephora, Estee Lauder used), <strong>ModiFace</strong> (L\'Oreal-owned), <strong>Mirrar AR</strong> (India). AR shade-match drives 1.5&times;&ndash;2.5&times; conversion lift + 20&ndash;40% returns reduction on foundation + lipstick + eyeshadow + hair colour. Shopify + custom stack integration.',
+            'How do you build creator + UGC pipelines at scale for beauty?' => '200+ creator roster segmented by skin-tone, concern, age, region, language. <strong>India</strong>: skin-tone diverse (Fair to Deep Ebony) + regional-language + concern-specific (acne, anti-aging, brightening). <strong>UAE</strong>: Arabic + English + expat + Arab creators. <strong>USA + UK + AU</strong>: TikTok #SkinTok + #BeautyTok + Instagram + YouTube reviewers. Per quarter 30&ndash;50 creators paid + gifted + revenue-share. UGC harvested for paid ads.',
+            'How do you approach shade-inclusive + fit-inclusive beauty marketing?' => '<strong>Shade range</strong>: 15&ndash;20 minimum India, 30+ USA/UK post-Fenty benchmark. Undertone inclusion (warm, cool, neutral). <strong>Product photography + video</strong>: representative across skin tones. <strong>Creator representation</strong>: diverse roster. <strong>Product descriptors</strong>: descriptive not comparative (avoid \'fair\', \'brown\' as ranking language).',
+            'Do you handle Ayurveda + wellness + modern-scientific positioning?' => 'Yes &mdash; India-origin Ayurveda beauty is fast-growing globally. <strong>Modern-scientific communication</strong>: ingredient + benefit + certification vs traditional-vague positioning. <strong>Heritage storytelling</strong>: authentic Ayurveda + tradition + provenance. <strong>International expansion</strong>: USA + UK + Australia + growing global demand. Vahdam / Forest Essentials / Kama / Kapiva patterns.',
+            'How do you handle Nykaa + Sephora + Amazon + Ulta + Boots retail play?' => '<strong>Nykaa + Nykaa Luxe + Nykaa Man</strong>: peak India beauty marketplace + own-brand pathway. <strong>Sephora India + USA + UK + Middle East</strong>: premium retailer + shelf placement + PR halo. <strong>Amazon India + USA</strong>: Sponsored Products + Sponsored Brands + Sponsored Display. <strong>Boots UK + Priceline AU + Ulta USA</strong>: national mass retail. Marketplace + retail + D2C parallel with separate KPIs + attribution.',
+            'Do you build beauty subscription + refill programs?' => 'Yes &mdash; skincare + haircare + consumable beauty perfect subscription categories. <strong>Refill packs</strong>: sustainability + margin. <strong>Curated boxes</strong>: discovery + new-launch (Birchbox / Ipsy pattern). <strong>Auto-replenish</strong>: predictable repeat. 30&ndash;45% subscription attach rate typical for mature skincare D2C.',
+            'How do you handle regulatory + certification for beauty brands?' => '<strong>India</strong>: BIS Cosmetics + FDA (if Ayurveda + drug claims). <strong>USA</strong>: FDA cosmetic registration + MoCRA compliance (mandatory 2024 update). <strong>UAE + Saudi</strong>: SFDA + ESMA + halal certification. <strong>EU + UK</strong>: EU + UK Cosmetics Regulation + CPNP + SCPN. <strong>Australia</strong>: TGA + NICNAS. Ingredient claims (organic, vegan, cruelty-free) require third-party certification.',
+            'Do you handle male beauty + male grooming D2C marketing?' => 'Yes &mdash; growing 15&ndash;25% YoY globally. <strong>India</strong>: post-Bombay Shaving + Beardo + The Man Company + Ustraa. <strong>USA + UK</strong>: growing male skincare + specialty grooming. <strong>Content + education</strong>: male-specific tutorials + routines + concern-focus. <strong>Creator</strong>: male fitness + lifestyle + grooming creators.',
+            'Do you handle clean + vegan + cruelty-free beauty positioning?' => 'Yes &mdash; values-based positioning increasingly important. <strong>Certification-substantiated</strong>: PETA, Leaping Bunny, Ecocert, EWG Verified. <strong>Operational commitment</strong>: full ingredient audit + supply chain audit + third-party testing. <strong>Content + storytelling</strong>: ongoing values + ingredient + supply chain transparency. Greenwashing risk substantial &mdash; avoid vague claims.',
+            'What Calendly / WhatsApp / contact form workflow do you offer for beauty founders?' => 'Three plain-anchor options &mdash; <a href="https://calendly.com/itdgrowthlabs-info/30min">Calendly 30-min senior discovery call</a>, <a href="https://wa.me/918450978544">WhatsApp us</a>, or <a href="/contact-us.php">contact form</a>. Senior strategist responds within 24 hours with a fixed-quote SOW.',
+                ]); ?>
+            </div>
+
+            <!-- Internal links / topical authority -->
+            <div style="max-width:1140px;margin:0 auto 40px;padding:32px;background:#fff;border-radius:16px;border:1px solid #f1f5f9;">
+                <h3 style="font-size:20px;font-weight:800;color:#0f172a;margin:0 0 6px;text-align:center;">Related services + guides for Beauty &amp; Cosmetics D2C brands</h3>
+                <p style="font-size:14px;color:#64748b;text-align:center;margin:0 0 22px;">Deep-dives into the tools + channels + playbooks that scale D2C brands globally.</p>
+                <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:12px;">
+                    <a href="/services/d2c-digital-marketing.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fas fa-bullseye" style="color:#a855f7;"></i>D2C Digital Marketing (Hub)</a>
+                    <a href="/services/whatsapp-marketing.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fab fa-whatsapp" style="color:#25d366;"></i>WhatsApp Marketing</a>
+                    <a href="/services/seo-services.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fas fa-magnifying-glass-chart" style="color:#f97316;"></i>SEO + AEO + GEO</a>
+                    <a href="/services/meta-ads-services.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fab fa-meta" style="color:#1877f2;"></i>Meta Ads (Facebook + Instagram)</a>
+                    <a href="/services/google-ads-services.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fab fa-google" style="color:#dc2626;"></i>Google Ads (PPC)</a>
+                    <a href="/services/ecommerce-development.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fas fa-cart-shopping" style="color:#16a34a;"></i>E-commerce Development</a>
+                    <a href="/faqs/d2c-beauty-cosmetics.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fas fa-question-circle" style="color:#0891b2;"></i>Beauty &amp; Cosmetics D2C FAQ</a>
+                    <a href="/faqs.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fas fa-list-ul" style="color:#7c3aed;"></i>All FAQs</a>
+                    <a href="/contact-us.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fas fa-envelope" style="color:#ec4899;"></i>Contact Form</a>
+                </div>
+            </div>
+
+            <!-- Inline CTA row (Calendly + WhatsApp + Contact) -->
+            <div style="max-width:960px;margin:0 auto;padding:36px 28px;background:linear-gradient(135deg,#0f172a 0%,#1e1b4b 60%,#1e293b 100%);border-radius:18px;text-align:center;color:#fff;">
+                <h3 style="font-size:22px;font-weight:800;margin:0 0 8px;color:#fff;">Ready to scale your Beauty &amp; Cosmetics brand across India + global markets?</h3>
+                <p style="font-size:14.5px;color:rgba(255,255,255,0.82);margin:0 0 22px;">Three ways to start &mdash; pick whichever fits your workflow. Senior strategist responds within 24 hours with a fixed-quote SOW.</p>
+                <div style="display:flex;gap:12px;justify-content:center;flex-wrap:wrap;">
+                    <a href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank" rel="noopener" data-cta-source="d2c_beauty_region_calendly" style="display:inline-flex;align-items:center;gap:9px;padding:13px 22px;background:linear-gradient(135deg,#ec4899 0%,#a855f7 100%);color:#fff;text-decoration:none;font-weight:800;font-size:14px;border-radius:11px;box-shadow:0 12px 30px rgba(236,72,153,0.40);"><i class="fas fa-calendar-check"></i>Book a 30-min Call</a>
+                    <a href="https://wa.me/918450978544" target="_blank" rel="noopener" data-cta-source="d2c_beauty_region_wa" style="display:inline-flex;align-items:center;gap:9px;padding:13px 22px;background:rgba(37,211,102,0.16);border:1px solid rgba(37,211,102,0.45);color:#a7f3d0;text-decoration:none;font-weight:700;font-size:14px;border-radius:11px;"><i class="fab fa-whatsapp"></i>WhatsApp Us</a>
+                    <a href="/contact-us.php" data-cta-source="d2c_beauty_region_contact" style="display:inline-flex;align-items:center;gap:9px;padding:13px 22px;background:rgba(255,255,255,0.08);border:1px solid rgba(255,255,255,0.22);color:#fff;text-decoration:none;font-weight:700;font-size:14px;border-radius:11px;"><i class="fas fa-envelope"></i>Contact Form</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <style>
+    .rp-card { background:#fff; border:1px solid #f1e8ff; border-radius:14px; padding:22px 18px; text-align:left; transition:transform .2s ease, box-shadow .2s ease; }
+    .rp-card:hover { transform:translateY(-3px); box-shadow:0 14px 30px rgba(168,85,247,0.14); }
+    .rp-flag { font-size:26px; margin-bottom:8px; }
+    .rp-region { font-size:13px; font-weight:800; letter-spacing:1.2px; text-transform:uppercase; color:#a855f7; margin-bottom:8px; }
+    .rp-budget { font-size:15px; font-weight:800; color:#0f172a; margin-bottom:10px; }
+    .rp-budget span { display:inline-block; padding:2px 6px; background:#faf5ff; color:#a855f7; border-radius:6px; font-size:11px; margin-right:6px; }
+    .rp-play { font-size:13px; line-height:1.55; color:#475569; margin:0; }
+    .uc-card { background:#fff; border:1px solid #fce7f3; border-radius:14px; padding:22px 20px; transition:transform .2s ease, border-color .2s ease, box-shadow .2s ease; }
+    .uc-card:hover { transform:translateY(-3px); border-color:#f9a8d4; box-shadow:0 14px 30px rgba(236,72,153,0.14); }
+    .uc-ico { width:44px; height:44px; border-radius:11px; background:linear-gradient(135deg,#ec4899 0%,#a855f7 100%); color:#fff; display:inline-flex; align-items:center; justify-content:center; font-size:18px; margin-bottom:10px; }
+    .uc-card h4 { font-size:16px; font-weight:800; color:#0f172a; margin:0 0 6px; }
+    .uc-card p { font-size:13px; line-height:1.55; color:#475569; margin:0; }
+    </style>
+
     <!-- QUICK ANSWER FOR AI SEARCH — AT END (moved per user feedback) -->
     <section class="md-sec alt-warm">
         <div class="container">

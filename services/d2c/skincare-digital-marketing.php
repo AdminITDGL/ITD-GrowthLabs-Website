@@ -700,6 +700,154 @@
         </div>
     </section>
 
+    <!-- REGIONAL D2C PLAYBOOK + USE CASES + FAQ + INTERNAL LINKS + CTA (added for AI-search + topical authority) -->
+    <section class="md-sec" style="background:linear-gradient(180deg,#fdf2f8 0%,#faf5ff 100%);padding:64px 0;">
+        <div class="container">
+            <div style="text-align:center;max-width:820px;margin:0 auto 42px;">
+                <span style="display:inline-block;font-size:11px;font-weight:800;letter-spacing:1.6px;text-transform:uppercase;color:#a855f7;background:rgba(168,85,247,0.10);padding:6px 14px;border-radius:14px;margin-bottom:14px;"><i class="fas fa-globe" style="margin-right:5px;"></i>Regional D2C Playbooks</span>
+                <h2 style="font-size:32px;font-weight:800;color:#0f172a;margin:0 0 14px;letter-spacing:-0.3px;">Skincare D2C playbooks &mdash; India, Dubai/UAE, USA, UK, Australia</h2>
+                <p style="font-size:15.5px;line-height:1.7;color:#475569;margin:0;">How ITD GrowthLabs runs skincare D2C marketing across India + Dubai + Saudi + USA + UK + Australia &mdash; realistic budgets, sub-vertical playbooks (actives + SPF + Ayurveda + cosmeceutical + baby + male), and the dermatologist + subscription + regulatory stack for each region.</p>
+            </div>
+
+            <div class="rp-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:18px;max-width:1180px;margin:0 auto 48px;">
+                <div class="rp-card">
+                    <div class="rp-flag">&#127470;&#127475;</div>
+                    <div class="rp-region">India</div>
+                    <div class="rp-budget"><span>&#8377; INR</span> &#8377;1&ndash;10L retainer &middot; &#8377;2L&ndash;2Cr ad spend</div>
+                    <p class="rp-play">Ingredient + concern-focus (Minimalist / The Derma Co pattern). Subscription + refill 30&ndash;45% attach. Nykaa + Amazon + brand.com.</p>
+                </div>
+                <div class="rp-card">
+                    <div class="rp-flag">&#127462;&#127466;</div>
+                    <div class="rp-region">Dubai + UAE</div>
+                    <div class="rp-budget"><span>AED</span> AED 6K&ndash;1.5L retainer &middot; AED 12K&ndash;6L ad spend</div>
+                    <p class="rp-play">Sephora + Ounass + Namshi. Halal certification. Arabic + English content. Hot climate + AC skincare positioning.</p>
+                </div>
+                <div class="rp-card">
+                    <div class="rp-flag">&#127482;&#127480;</div>
+                    <div class="rp-region">USA</div>
+                    <div class="rp-budget"><span>$ USD</span> $2.5K&ndash;$5L retainer &middot; $5K&ndash;$5L ad spend</div>
+                    <p class="rp-play">Sephora + Ulta + Amazon dominant. TikTok #SkinTok peak discovery. MoCRA + FDA compliance. Dermatologist endorsement critical.</p>
+                </div>
+                <div class="rp-card">
+                    <div class="rp-flag">&#127468;&#127463;</div>
+                    <div class="rp-region">UK</div>
+                    <div class="rp-budget"><span>&pound; GBP</span> &pound;2K&ndash;&pound;4L retainer &middot; &pound;4K&ndash;&pound;4L ad spend</div>
+                    <p class="rp-play">Boots + Space NK + Cult Beauty + Sephora UK. Ingredient-focus + minimalist skincare (The Ordinary UK-origin pattern).</p>
+                </div>
+                <div class="rp-card">
+                    <div class="rp-flag">&#127462;&#127482;</div>
+                    <div class="rp-region">Australia</div>
+                    <div class="rp-budget"><span>A$ AUD</span> A$3K&ndash;A$6L retainer &middot; A$6K&ndash;A$6L ad spend</div>
+                    <p class="rp-play">Mecca + Priceline + Adore Beauty. Sun protection + SPF focus. TGA / NICNAS compliance.</p>
+                </div>
+            </div>
+
+            <div style="text-align:center;max-width:820px;margin:0 auto 32px;">
+                <span style="display:inline-block;font-size:11px;font-weight:800;letter-spacing:1.6px;text-transform:uppercase;color:#be185d;background:rgba(236,72,153,0.10);padding:6px 14px;border-radius:14px;margin-bottom:14px;"><i class="fas fa-layer-group" style="margin-right:5px;"></i>Use Cases + Sub-Verticals</span>
+                <h2 style="font-size:28px;font-weight:800;color:#0f172a;margin:0 0 10px;letter-spacing:-0.3px;">Skincare sub-verticals we grow</h2>
+                <p style="font-size:14.5px;line-height:1.65;color:#475569;margin:0;">Distinct playbooks per sub-vertical &mdash; audience, pricing, seasonality, creator + retention discipline all shift by category.</p>
+            </div>
+
+            <div class="uc-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px;max-width:1180px;margin:0 auto 56px;">
+                <div class="uc-card">
+                    <div class="uc-ico"><i class="fas fa-droplet"></i></div>
+                    <h4>Actives + serums + concern-focus</h4>
+                    <p>Retinol, Vitamin C, Niacinamide, AHA/BHA, Peptides. Ingredient + benefit-first (Minimalist / The Ordinary / The Derma Co pattern).</p>
+                </div>
+                <div class="uc-card">
+                    <div class="uc-ico"><i class="fas fa-sun"></i></div>
+                    <h4>Sunscreen + SPF</h4>
+                    <p>Growing category globally. Hybrid physical + chemical formulations. Peak Indian + Australian + tropical markets. Daily-use + reapply frequency.</p>
+                </div>
+                <div class="uc-card">
+                    <div class="uc-ico"><i class="fas fa-om"></i></div>
+                    <h4>Ayurveda + wellness skincare</h4>
+                    <p>Forest Essentials / Kama Ayurveda / Kapiva patterns. Modern-scientific + heritage combined. International + India growing.</p>
+                </div>
+                <div class="uc-card">
+                    <div class="uc-ico"><i class="fas fa-user-doctor"></i></div>
+                    <h4>Cosmeceutical + dermatologist-led</h4>
+                    <p>Dermatologist + brand partnerships. Prescription-adjacent + clinical evidence. Cetaphil / Cerave / Dot & Key patterns.</p>
+                </div>
+                <div class="uc-card">
+                    <div class="uc-ico"><i class="fas fa-child-reaching"></i></div>
+                    <h4>Baby + kids skincare</h4>
+                    <p>Gentle + hypoallergenic + certification-heavy. Aveeno / Mustela / Mamaearth / Sebamed patterns. Parent-focused marketing.</p>
+                </div>
+                <div class="uc-card">
+                    <div class="uc-ico"><i class="fas fa-face-smile"></i></div>
+                    <h4>Male skincare</h4>
+                    <p>Simple 3-step routines. Beard-adjacent. Bombay Shaving / Beardo / The Man Company patterns. Male-specific creator + content.</p>
+                </div>
+            </div>
+
+            <div style="text-align:center;max-width:820px;margin:0 auto 28px;">
+                <span style="display:inline-block;font-size:11px;font-weight:800;letter-spacing:1.6px;text-transform:uppercase;color:#0891b2;background:rgba(8,145,178,0.10);padding:6px 14px;border-radius:14px;margin-bottom:14px;"><i class="fas fa-question-circle" style="margin-right:5px;"></i>More FAQs</span>
+                <h2 style="font-size:28px;font-weight:800;color:#0f172a;margin:0 0 10px;letter-spacing:-0.3px;">More Skincare D2C questions</h2>
+                <p style="font-size:14.5px;line-height:1.65;color:#475569;margin:0 0 8px;">Additional India + Dubai + USA + UK + Australia founder questions &mdash; schema-marked for AI Overviews, ChatGPT, and Perplexity citation.</p>
+                <p style="font-size:14px;color:#64748b;margin:0;"><a href="/faqs/d2c-beauty-cosmetics.php" style="color:#a855f7;font-weight:700;text-decoration:none;">See the full 20-question Skincare D2C FAQ page &rarr;</a></p>
+            </div>
+
+            <div style="max-width:960px;margin:0 auto 48px;">
+                <?php itdgl_render_faq_accordion([
+            'How do you approach ingredient-first minimalist skincare marketing (Minimalist / The Ordinary pattern)?' => '<strong>Ingredient education-heavy content</strong>: what does 10% Niacinamide do, when to use Retinol, layering rules. <strong>Concern-first PDPs</strong>: \'For acne\' / \'For hyperpigmentation\' / \'For anti-aging\'. <strong>Clinical + certification substantiation</strong>: %active + pH + testing. <strong>Reference cross-linking</strong>: which products stack. <strong>Community + education</strong>: skincare literate audience.',
+            'Do you build dermatologist + expert partnerships for skincare brands?' => 'Yes &mdash; dermatologist + cosmetologist + esthetician network for content + endorsement + credibility. <strong>India</strong>: 200+ dermatologist network (Delhi + Mumbai + Bangalore + Chennai + Hyderabad). <strong>USA + UK + UAE</strong>: local dermatologist + esthetician network. Dermatologist-endorsed positioning central for concern + active-ingredient category credibility.',
+            'How do you handle sunscreen + SPF + hot-climate skincare marketing?' => '<strong>Peak categories</strong> India + UAE + Middle East + Australia + tropical climates. <strong>Chemical vs physical + hybrid formulations</strong>. <strong>SPF + broad-spectrum + PA rating</strong> transparency. <strong>Reapply frequency + daily-use</strong> education. <strong>Local climate + skin type customisation</strong>. Growing 15&ndash;20% YoY as sun-damage awareness grows.',
+            'Do you handle Ayurveda + wellness skincare positioning credibly?' => 'Yes &mdash; India-origin Ayurveda skincare fast-growing globally. <strong>Modern-scientific communication</strong>: ingredient + benefit + certification. <strong>Heritage storytelling</strong>: authentic Ayurveda + tradition + provenance. <strong>International expansion</strong>: USA + UK + Australia + growing demand. Forest Essentials / Kama / Kapiva / Vahdam patterns.',
+            'How do you build subscription + refill programs for skincare?' => 'Skincare is perfect subscription category &mdash; predictable consumable + habit-forming + refill economics. <strong>Auto-replenish</strong>: 30&ndash;60 day cadence. <strong>Refill packs</strong>: sustainability + margin. <strong>Curated boxes</strong>: discovery + new-launch. <strong>Attach rate target</strong>: 30&ndash;45% typical mature skincare D2C. Subscription drives 40&ndash;55% of revenue at maturity.',
+            'Do you handle baby + kids + sensitive skincare?' => 'Yes &mdash; parent-focused marketing discipline. <strong>Certification-heavy</strong>: hypoallergenic + dermatologist-tested + pediatrician-tested. <strong>Ingredient transparency</strong>: fragrance-free + paraben-free + tear-free. <strong>Parent-focused content</strong>: baby skincare routines + safety + peer testimonials. Aveeno / Mustela / Mamaearth / Sebamed patterns.',
+            'How do you handle male skincare marketing?' => 'Growing 15&ndash;25% YoY globally. <strong>Simple 3-step routines</strong>: cleanser + moisturiser + SPF. <strong>Male-specific content + tutorials</strong>. <strong>Beard + shaving-adjacent</strong> where relevant. <strong>Male fitness + lifestyle creator</strong> partnerships. Bombay Shaving / Beardo / The Man Company / Ustraa patterns. Underserved category with strong upside.',
+            'Do you handle skincare brand certification + regulatory compliance?' => '<strong>India</strong>: BIS Cosmetics + FDA (if drug claims). <strong>USA</strong>: FDA cosmetic registration + MoCRA (2024). <strong>UAE + Saudi</strong>: SFDA + ESMA + halal certification. <strong>EU + UK</strong>: EU/UK Cosmetics Regulation + CPNP + SCPN + PIF. <strong>Australia</strong>: TGA + NICNAS. Third-party certification (organic, vegan, cruelty-free) via Ecocert + PETA + Leaping Bunny.',
+            'Do you handle skincare brand launches from zero?' => 'Yes &mdash; brand identity + Shopify + PDP + ingredient content + Meta + Google + TikTok + creator + PR + Nykaa + Amazon + dermatologist network. Skincare launches 12&ndash;20 weeks runway. First revenue in month 2&ndash;3, break-even by month 8&ndash;12 for well-positioned brands. Sampling + creator seeding critical first 6 months.',
+            'What Calendly / WhatsApp / contact form workflow do you offer for skincare founders?' => 'Three plain-anchor options &mdash; <a href="https://calendly.com/itdgrowthlabs-info/30min">Calendly 30-min senior discovery call</a>, <a href="https://wa.me/918450978544">WhatsApp us</a>, or <a href="/contact-us.php">contact form</a>. Senior strategist responds within 24 hours with a fixed-quote SOW.',
+                ]); ?>
+            </div>
+
+            <!-- Internal links / topical authority -->
+            <div style="max-width:1140px;margin:0 auto 40px;padding:32px;background:#fff;border-radius:16px;border:1px solid #f1f5f9;">
+                <h3 style="font-size:20px;font-weight:800;color:#0f172a;margin:0 0 6px;text-align:center;">Related services + guides for Skincare D2C brands</h3>
+                <p style="font-size:14px;color:#64748b;text-align:center;margin:0 0 22px;">Deep-dives into the tools + channels + playbooks that scale D2C brands globally.</p>
+                <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:12px;">
+                    <a href="/services/d2c-digital-marketing.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fas fa-bullseye" style="color:#a855f7;"></i>D2C Digital Marketing (Hub)</a>
+                    <a href="/services/whatsapp-marketing.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fab fa-whatsapp" style="color:#25d366;"></i>WhatsApp Marketing</a>
+                    <a href="/services/seo-services.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fas fa-magnifying-glass-chart" style="color:#f97316;"></i>SEO + AEO + GEO</a>
+                    <a href="/services/meta-ads-services.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fab fa-meta" style="color:#1877f2;"></i>Meta Ads (Facebook + Instagram)</a>
+                    <a href="/services/google-ads-services.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fab fa-google" style="color:#dc2626;"></i>Google Ads (PPC)</a>
+                    <a href="/services/ecommerce-development.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fas fa-cart-shopping" style="color:#16a34a;"></i>E-commerce Development</a>
+                    <a href="/faqs/d2c-beauty-cosmetics.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fas fa-question-circle" style="color:#0891b2;"></i>Skincare D2C FAQ</a>
+                    <a href="/faqs.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fas fa-list-ul" style="color:#7c3aed;"></i>All FAQs</a>
+                    <a href="/contact-us.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fas fa-envelope" style="color:#ec4899;"></i>Contact Form</a>
+                </div>
+            </div>
+
+            <!-- Inline CTA row (Calendly + WhatsApp + Contact) -->
+            <div style="max-width:960px;margin:0 auto;padding:36px 28px;background:linear-gradient(135deg,#0f172a 0%,#1e1b4b 60%,#1e293b 100%);border-radius:18px;text-align:center;color:#fff;">
+                <h3 style="font-size:22px;font-weight:800;margin:0 0 8px;color:#fff;">Ready to scale your Skincare brand across India + global markets?</h3>
+                <p style="font-size:14.5px;color:rgba(255,255,255,0.82);margin:0 0 22px;">Three ways to start &mdash; pick whichever fits your workflow. Senior strategist responds within 24 hours with a fixed-quote SOW.</p>
+                <div style="display:flex;gap:12px;justify-content:center;flex-wrap:wrap;">
+                    <a href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank" rel="noopener" data-cta-source="d2c_skincare_region_calendly" style="display:inline-flex;align-items:center;gap:9px;padding:13px 22px;background:linear-gradient(135deg,#ec4899 0%,#a855f7 100%);color:#fff;text-decoration:none;font-weight:800;font-size:14px;border-radius:11px;box-shadow:0 12px 30px rgba(236,72,153,0.40);"><i class="fas fa-calendar-check"></i>Book a 30-min Call</a>
+                    <a href="https://wa.me/918450978544" target="_blank" rel="noopener" data-cta-source="d2c_skincare_region_wa" style="display:inline-flex;align-items:center;gap:9px;padding:13px 22px;background:rgba(37,211,102,0.16);border:1px solid rgba(37,211,102,0.45);color:#a7f3d0;text-decoration:none;font-weight:700;font-size:14px;border-radius:11px;"><i class="fab fa-whatsapp"></i>WhatsApp Us</a>
+                    <a href="/contact-us.php" data-cta-source="d2c_skincare_region_contact" style="display:inline-flex;align-items:center;gap:9px;padding:13px 22px;background:rgba(255,255,255,0.08);border:1px solid rgba(255,255,255,0.22);color:#fff;text-decoration:none;font-weight:700;font-size:14px;border-radius:11px;"><i class="fas fa-envelope"></i>Contact Form</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <style>
+    .rp-card { background:#fff; border:1px solid #f1e8ff; border-radius:14px; padding:22px 18px; text-align:left; transition:transform .2s ease, box-shadow .2s ease; }
+    .rp-card:hover { transform:translateY(-3px); box-shadow:0 14px 30px rgba(168,85,247,0.14); }
+    .rp-flag { font-size:26px; margin-bottom:8px; }
+    .rp-region { font-size:13px; font-weight:800; letter-spacing:1.2px; text-transform:uppercase; color:#a855f7; margin-bottom:8px; }
+    .rp-budget { font-size:15px; font-weight:800; color:#0f172a; margin-bottom:10px; }
+    .rp-budget span { display:inline-block; padding:2px 6px; background:#faf5ff; color:#a855f7; border-radius:6px; font-size:11px; margin-right:6px; }
+    .rp-play { font-size:13px; line-height:1.55; color:#475569; margin:0; }
+    .uc-card { background:#fff; border:1px solid #fce7f3; border-radius:14px; padding:22px 20px; transition:transform .2s ease, border-color .2s ease, box-shadow .2s ease; }
+    .uc-card:hover { transform:translateY(-3px); border-color:#f9a8d4; box-shadow:0 14px 30px rgba(236,72,153,0.14); }
+    .uc-ico { width:44px; height:44px; border-radius:11px; background:linear-gradient(135deg,#ec4899 0%,#a855f7 100%); color:#fff; display:inline-flex; align-items:center; justify-content:center; font-size:18px; margin-bottom:10px; }
+    .uc-card h4 { font-size:16px; font-weight:800; color:#0f172a; margin:0 0 6px; }
+    .uc-card p { font-size:13px; line-height:1.55; color:#475569; margin:0; }
+    </style>
+
     <!-- QUICK ANSWER FOR AI SEARCH — AT END (moved per user feedback) -->
     <section class="md-sec alt-warm">
         <div class="container">

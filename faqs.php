@@ -35,8 +35,8 @@
     <script>window.dataLayer=window.dataLayer||[];function gtag(){gtag.q=gtag.q||[];gtag.q.push(arguments);}gtag('js',new Date());gtag('config','AW-17674012925');</script>
 
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"WebPage","name":"FAQs &mdash; All Service Frequently Asked Questions","url":"https://itdgrowthlabs.com/faqs.php","description":"Frequently asked questions about ITD GrowthLabs services","mainEntity":{"@type":"ItemList","numberOfItems":12,"itemListElement":[
-{"@type":"ListItem","position":1,"name":"Custom Website Development FAQs","url":"https://itdgrowthlabs.com/faqs/custom-website-development.php"},{"@type":"ListItem","position":2,"name":"Custom Mobile App Development FAQs","url":"https://itdgrowthlabs.com/faqs/mobile-app-development.php"},{"@type":"ListItem","position":3,"name":"Custom Web Application Development FAQs","url":"https://itdgrowthlabs.com/faqs/web-app-development.php"},{"@type":"ListItem","position":4,"name":"SaaS Development FAQs","url":"https://itdgrowthlabs.com/faqs/saas-development.php"},{"@type":"ListItem","position":5,"name":"E-commerce Development FAQs","url":"https://itdgrowthlabs.com/faqs/ecommerce-development.php"},{"@type":"ListItem","position":6,"name":"Digital Marketing FAQs","url":"https://itdgrowthlabs.com/faqs/digital-marketing.php"},{"@type":"ListItem","position":7,"name":"D2C Digital Marketing FAQs","url":"https://itdgrowthlabs.com/faqs/d2c-marketing.php"},{"@type":"ListItem","position":8,"name":"SEO + AEO + GEO FAQs","url":"https://itdgrowthlabs.com/faqs/seo.php"},{"@type":"ListItem","position":9,"name":"Google Ads (PPC) FAQs","url":"https://itdgrowthlabs.com/faqs/google-ads.php"},{"@type":"ListItem","position":10,"name":"Meta Ads (Facebook + Instagram) FAQs","url":"https://itdgrowthlabs.com/faqs/meta-ads.php"},{"@type":"ListItem","position":11,"name":"Social Media Marketing FAQs","url":"https://itdgrowthlabs.com/faqs/social-media.php"},{"@type":"ListItem","position":12,"name":"WhatsApp Marketing FAQs","url":"https://itdgrowthlabs.com/faqs/whatsapp-marketing.php"}
+    {"@context":"https://schema.org","@type":"WebPage","name":"FAQs &mdash; All Service Frequently Asked Questions","url":"https://itdgrowthlabs.com/faqs.php","description":"Frequently asked questions about ITD GrowthLabs services + B2B industries + D2C industries","mainEntity":{"@type":"ItemList","numberOfItems":16,"itemListElement":[
+{"@type":"ListItem","position":1,"name":"Custom Website Development FAQs","url":"https://itdgrowthlabs.com/faqs/custom-website-development.php"},{"@type":"ListItem","position":2,"name":"Custom Mobile App Development FAQs","url":"https://itdgrowthlabs.com/faqs/mobile-app-development.php"},{"@type":"ListItem","position":3,"name":"Custom Web Application Development FAQs","url":"https://itdgrowthlabs.com/faqs/web-app-development.php"},{"@type":"ListItem","position":4,"name":"SaaS Development FAQs","url":"https://itdgrowthlabs.com/faqs/saas-development.php"},{"@type":"ListItem","position":5,"name":"E-commerce Development FAQs","url":"https://itdgrowthlabs.com/faqs/ecommerce-development.php"},{"@type":"ListItem","position":6,"name":"Digital Marketing FAQs","url":"https://itdgrowthlabs.com/faqs/digital-marketing.php"},{"@type":"ListItem","position":7,"name":"D2C Digital Marketing FAQs","url":"https://itdgrowthlabs.com/faqs/d2c-marketing.php"},{"@type":"ListItem","position":8,"name":"SEO + AEO + GEO FAQs","url":"https://itdgrowthlabs.com/faqs/seo.php"},{"@type":"ListItem","position":9,"name":"Google Ads (PPC) FAQs","url":"https://itdgrowthlabs.com/faqs/google-ads.php"},{"@type":"ListItem","position":10,"name":"Meta Ads (Facebook + Instagram) FAQs","url":"https://itdgrowthlabs.com/faqs/meta-ads.php"},{"@type":"ListItem","position":11,"name":"Social Media Marketing FAQs","url":"https://itdgrowthlabs.com/faqs/social-media.php"},{"@type":"ListItem","position":12,"name":"WhatsApp Marketing FAQs","url":"https://itdgrowthlabs.com/faqs/whatsapp-marketing.php"},{"@type":"ListItem","position":13,"name":"Jewellery D2C Marketing FAQs","url":"https://itdgrowthlabs.com/faqs/d2c-jewellery.php"},{"@type":"ListItem","position":14,"name":"Perfume &amp; Fragrance D2C Marketing FAQs","url":"https://itdgrowthlabs.com/faqs/d2c-perfume-fragrance.php"},{"@type":"ListItem","position":15,"name":"Beauty &amp; Cosmetics D2C Marketing FAQs","url":"https://itdgrowthlabs.com/faqs/d2c-beauty-cosmetics.php"},{"@type":"ListItem","position":16,"name":"Fashion &amp; Clothing D2C Marketing FAQs","url":"https://itdgrowthlabs.com/faqs/d2c-fashion-clothing.php"}
     ]}}
     </script>
 
@@ -129,7 +129,7 @@
 
     <section class="faqh-hero">
         <div class="container">
-            <span class="tagline">19 categories &middot; 228+ questions &middot; B2B + D2C</span>
+            <span class="tagline">23 categories &middot; 308+ questions &middot; Services + B2B + D2C</span>
             <h1>Frequently Asked <span class="grad">Questions</span></h1>
             <p class="sub">Two ways to navigate &mdash; <strong>By Service</strong> (pricing, timeline, process, ownership) for buyers shortlisting an agency, OR <strong>By B2B Industry</strong> (Manufacturing, Logistics, Pharma, IT, Engineering) for buyers researching what marketing actually looks like in their industry. All FAQs schema-marked + AI-search optimised for ChatGPT, Perplexity, Google AI Overviews.</p>
         </div>
@@ -308,6 +308,52 @@
                     <h3 class="faqh-card-title">Industrial + B2B Services</h3>
                     <p class="faqh-card-blurb">Other B2B + industrial services (general).</p>
                     <span class="faqh-card-link">12 questions <i class="fas fa-arrow-right"></i></span>
+                </a>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- BY D2C INDUSTRY -->
+    <section class="md-sec">
+        <div class="container">
+            <div style="text-align:center;max-width:820px;margin:0 auto 36px;">
+                <span style="display:inline-block;font-size:11px;font-weight:800;letter-spacing:1.6px;text-transform:uppercase;color:#a855f7;background:rgba(168,85,247,0.10);padding:5px 12px;border-radius:14px;margin-bottom:14px;"><i class="fas fa-shopping-bag" style="margin-right:5px;"></i>By D2C Industry</span>
+                <h2 style="font-size:30px;font-weight:800;color:var(--md-primary);margin:0 0 12px;letter-spacing:-0.3px;">FAQs by D2C industry &mdash; jewellery, perfume, beauty, fashion</h2>
+                <p style="font-size:15.5px;line-height:1.7;color:var(--md-body);margin:0;">20 India + Dubai/UAE + USA + UK + Australia FAQs per D2C industry. Real budgets in INR + AED + USD + GBP + AUD, ROAS benchmarks, seasonal playbooks (Diwali + wedding + Ramadan + Q4), marketplace strategy (Nykaa + Amazon + Sephora + Myntra), and international expansion. Built to rank in Google + AI Overviews + ChatGPT + Perplexity for the specific buyer questions D2C founders type online.</p>
+            </div>
+            <div class="faqh-grid">
+
+                <a class="faqh-card" href="/faqs/d2c-jewellery.php" style="--accent:#d97706;">
+                    <div class="faqh-card-icon"><i class="fas fa-gem"></i></div>
+                    <div class="faqh-card-cat">D2C Industry</div>
+                    <h3 class="faqh-card-title">Jewellery D2C Marketing</h3>
+                    <p class="faqh-card-blurb">Lab-grown diamond, demi-fine, gold, silver, bridal &mdash; India + Dubai + USA + UK + AU.</p>
+                    <span class="faqh-card-link">20 questions <i class="fas fa-arrow-right"></i></span>
+                </a>
+
+                <a class="faqh-card" href="/faqs/d2c-perfume-fragrance.php" style="--accent:#be185d;">
+                    <div class="faqh-card-icon"><i class="fas fa-spray-can-sparkles"></i></div>
+                    <div class="faqh-card-cat">D2C Industry</div>
+                    <h3 class="faqh-card-title">Perfume &amp; Fragrance D2C Marketing</h3>
+                    <p class="faqh-card-blurb">Attar, oud, EDT, niche perfumery &mdash; UAE + Saudi + India + USA + UK, halal + sampling.</p>
+                    <span class="faqh-card-link">20 questions <i class="fas fa-arrow-right"></i></span>
+                </a>
+
+                <a class="faqh-card" href="/faqs/d2c-beauty-cosmetics.php" style="--accent:#ec4899;">
+                    <div class="faqh-card-icon"><i class="fas fa-palette"></i></div>
+                    <div class="faqh-card-cat">D2C Industry</div>
+                    <h3 class="faqh-card-title">Beauty &amp; Cosmetics D2C Marketing</h3>
+                    <p class="faqh-card-blurb">Skincare, colour, haircare, Ayurveda, wellness &mdash; India + Dubai + USA + UK + AU.</p>
+                    <span class="faqh-card-link">20 questions <i class="fas fa-arrow-right"></i></span>
+                </a>
+
+                <a class="faqh-card" href="/faqs/d2c-fashion-clothing.php" style="--accent:#7c3aed;">
+                    <div class="faqh-card-icon"><i class="fas fa-shirt"></i></div>
+                    <div class="faqh-card-cat">D2C Industry</div>
+                    <h3 class="faqh-card-title">Fashion &amp; Clothing D2C Marketing</h3>
+                    <p class="faqh-card-blurb">Ethnic, western, modest fashion, athleisure &mdash; India + Dubai + USA + UK + AU.</p>
+                    <span class="faqh-card-link">20 questions <i class="fas fa-arrow-right"></i></span>
                 </a>
 
             </div>

@@ -700,6 +700,154 @@
         </div>
     </section>
 
+    <!-- REGIONAL D2C PLAYBOOK + USE CASES + FAQ + INTERNAL LINKS + CTA (added for AI-search + topical authority) -->
+    <section class="md-sec" style="background:linear-gradient(180deg,#fdf2f8 0%,#faf5ff 100%);padding:64px 0;">
+        <div class="container">
+            <div style="text-align:center;max-width:820px;margin:0 auto 42px;">
+                <span style="display:inline-block;font-size:11px;font-weight:800;letter-spacing:1.6px;text-transform:uppercase;color:#a855f7;background:rgba(168,85,247,0.10);padding:6px 14px;border-radius:14px;margin-bottom:14px;"><i class="fas fa-globe" style="margin-right:5px;"></i>Regional D2C Playbooks</span>
+                <h2 style="font-size:32px;font-weight:800;color:#0f172a;margin:0 0 14px;letter-spacing:-0.3px;">Jewellery D2C playbooks &mdash; India, Dubai/UAE, USA, UK, Australia</h2>
+                <p style="font-size:15.5px;line-height:1.7;color:#475569;margin:0;">How ITD GrowthLabs runs jewellery D2C marketing across India + Dubai + Saudi + USA + UK + Australia &mdash; realistic budgets in local currencies, sub-vertical playbooks (lab-grown + demi-fine + bridal + gold + silver), and the operational + regulatory + payment stack for each region.</p>
+            </div>
+
+            <div class="rp-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:18px;max-width:1180px;margin:0 auto 48px;">
+                <div class="rp-card">
+                    <div class="rp-flag">&#127470;&#127475;</div>
+                    <div class="rp-region">India</div>
+                    <div class="rp-budget"><span>&#8377; INR</span> &#8377;1.5&ndash;10L retainer &middot; &#8377;3L&ndash;3Cr ad spend</div>
+                    <p class="rp-play">Wedding season (Oct&ndash;Feb) drives 40&ndash;55% of annual revenue. AR try-on + Razorpay BNPL + WhatsApp reminders. Nykaa Fashion + Amazon.in + Myntra for demi-fine.</p>
+                </div>
+                <div class="rp-card">
+                    <div class="rp-flag">&#127462;&#127466;</div>
+                    <div class="rp-region">Dubai + UAE</div>
+                    <div class="rp-budget"><span>AED</span> AED 8K&ndash;3L retainer &middot; AED 15K&ndash;10L ad spend</div>
+                    <p class="rp-play">DSF + Ramadan + Eid + expat wedding season. Tabby + Tamara BNPL. Arabic + English creative. Dubai Mall + Mall of Emirates adjacency for premium.</p>
+                </div>
+                <div class="rp-card">
+                    <div class="rp-flag">&#127482;&#127480;</div>
+                    <div class="rp-region">USA</div>
+                    <div class="rp-budget"><span>$ USD</span> $3K&ndash;$1L retainer &middot; $5K&ndash;$5L ad spend</div>
+                    <p class="rp-play">Engagement season (Nov&ndash;Feb) + Valentine's + Mother's Day. Affirm + Klarna + Afterpay. TikTok + Instagram + Pinterest for demi-fine + bridal.</p>
+                </div>
+                <div class="rp-card">
+                    <div class="rp-flag">&#127468;&#127463;</div>
+                    <div class="rp-region">UK</div>
+                    <div class="rp-budget"><span>&pound; GBP</span> &pound;2.5K&ndash;&pound;80K retainer &middot; &pound;5K&ndash;&pound;4L ad spend</div>
+                    <p class="rp-play">Q4 + engagement season. Klarna + Clearpay. Hallmarking + Assay Office UK. Selfridges + Liberty for luxury positioning.</p>
+                </div>
+                <div class="rp-card">
+                    <div class="rp-flag">&#127462;&#127482;</div>
+                    <div class="rp-region">Australia</div>
+                    <div class="rp-budget"><span>A$ AUD</span> A$4K&ndash;A$1L retainer &middot; A$6K&ndash;A$4L ad spend</div>
+                    <p class="rp-play">Summer Christmas + Valentine's + engagement season. Afterpay + Zip. Instagram + TikTok + Pinterest. Myer + David Jones for premium retail.</p>
+                </div>
+            </div>
+
+            <div style="text-align:center;max-width:820px;margin:0 auto 32px;">
+                <span style="display:inline-block;font-size:11px;font-weight:800;letter-spacing:1.6px;text-transform:uppercase;color:#be185d;background:rgba(236,72,153,0.10);padding:6px 14px;border-radius:14px;margin-bottom:14px;"><i class="fas fa-layer-group" style="margin-right:5px;"></i>Use Cases + Sub-Verticals</span>
+                <h2 style="font-size:28px;font-weight:800;color:#0f172a;margin:0 0 10px;letter-spacing:-0.3px;">Jewellery sub-verticals we grow</h2>
+                <p style="font-size:14.5px;line-height:1.65;color:#475569;margin:0;">Distinct playbooks per sub-vertical &mdash; audience, pricing, seasonality, creator + retention discipline all shift by category.</p>
+            </div>
+
+            <div class="uc-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px;max-width:1180px;margin:0 auto 56px;">
+                <div class="uc-card">
+                    <div class="uc-ico"><i class="fas fa-ring"></i></div>
+                    <h4>Lab-grown diamond D2C</h4>
+                    <p>Ethical + affordable positioning. IGI/GIA certification. Millennial + Gen Z audience. Fastest-growing jewellery segment globally.</p>
+                </div>
+                <div class="uc-card">
+                    <div class="uc-ico"><i class="fas fa-gem"></i></div>
+                    <h4>Demi-fine + everyday jewellery</h4>
+                    <p>Sub-&#8377;25K / sub-$300 AOV. Higher volume + repeat. Instagram + TikTok creator seeding. Nykaa Fashion + Amazon dominant.</p>
+                </div>
+                <div class="uc-card">
+                    <div class="uc-ico"><i class="fas fa-crown"></i></div>
+                    <h4>Bridal + solitaire + high jewellery</h4>
+                    <p>&#8377;5L&ndash;5Cr AOV. Long consideration + editorial + heritage storytelling. Physical showroom + virtual consultation critical.</p>
+                </div>
+                <div class="uc-card">
+                    <div class="uc-ico"><i class="fas fa-coins"></i></div>
+                    <h4>22K gold + traditional Indian jewellery</h4>
+                    <p>Wedding + festival + investment buying. BIS hallmarking + Kalyan / Tanishq category dynamics. Regional + language-specific creative.</p>
+                </div>
+                <div class="uc-card">
+                    <div class="uc-ico"><i class="fas fa-star"></i></div>
+                    <h4>Silver + fashion jewellery</h4>
+                    <p>&#8377;500&ndash;10K AOV. Impulse purchase + gift + occasion. Marketplace-heavy distribution. UGC + creator content peak.</p>
+                </div>
+                <div class="uc-card">
+                    <div class="uc-ico"><i class="fas fa-globe"></i></div>
+                    <h4>International + diaspora expansion</h4>
+                    <p>India-origin brands 3&times; LTV internationally. Delaware C-corp (USA) / UK Ltd / UAE FZ. Stripe + insured international shipping.</p>
+                </div>
+            </div>
+
+            <div style="text-align:center;max-width:820px;margin:0 auto 28px;">
+                <span style="display:inline-block;font-size:11px;font-weight:800;letter-spacing:1.6px;text-transform:uppercase;color:#0891b2;background:rgba(8,145,178,0.10);padding:6px 14px;border-radius:14px;margin-bottom:14px;"><i class="fas fa-question-circle" style="margin-right:5px;"></i>More FAQs</span>
+                <h2 style="font-size:28px;font-weight:800;color:#0f172a;margin:0 0 10px;letter-spacing:-0.3px;">More Jewellery D2C questions</h2>
+                <p style="font-size:14.5px;line-height:1.65;color:#475569;margin:0 0 8px;">Additional India + Dubai + USA + UK + Australia founder questions &mdash; schema-marked for AI Overviews, ChatGPT, and Perplexity citation.</p>
+                <p style="font-size:14px;color:#64748b;margin:0;"><a href="/faqs/d2c-jewellery.php" style="color:#a855f7;font-weight:700;text-decoration:none;">See the full 20-question Jewellery D2C FAQ page &rarr;</a></p>
+            </div>
+
+            <div style="max-width:960px;margin:0 auto 48px;">
+                <?php itdgl_render_faq_accordion([
+            'How do you handle high-AOV bridal + engagement jewellery marketing?' => 'Long consideration cycle (6&ndash;18 months typical). We build: <strong>retargeting funnels</strong> (first visit &rarr; nurture email/WhatsApp &rarr; virtual consultation &rarr; showroom or D2C purchase), <strong>editorial + heritage content</strong>, <strong>AR try-on for engagement rings</strong>, <strong>Bridal creator + wedding-planner partnerships</strong>, and <strong>hallmarking + certification transparency</strong> (IGI/GIA/BIS). Blended ROAS 3&times;&ndash;5&times; but assisted conversion + LTV significantly higher.',
+            'Do you serve independent + heritage jewellery brands (not just D2C startups)?' => 'Yes &mdash; heritage + independent + family jewellery brands wanting to add D2C + digital to physical retail. We build the D2C stack (Shopify + AR + BNPL + payment) alongside preserving retail heritage. Common India + UAE + USA pattern for family jewellery brands scaling to next generation.',
+            'How do you approach jewellery marketing for tier-2/3 India cities?' => 'Regional-language content (Hindi + Tamil + Telugu + Kannada + Bengali + Gujarati + Marathi essential). WhatsApp-primary + COD-friendly + payment flexibility. Regional wedding + festival + occasion focus. Meta + Google + YouTube regional creator partnerships. Tier-2/3 India is significantly underserved jewellery D2C opportunity.',
+            'What\'s your view on physical showroom vs D2C-only for jewellery?' => 'High-AOV bridal + solitaire benefit from physical showroom + virtual consultation hybrid. Demi-fine + everyday jewellery works D2C-only + selective retail. Silver + fashion jewellery marketplace-primary. Match distribution to AOV + consideration cycle.',
+            'Do you handle Ramadan + Eid + Diwali jewellery gifting campaigns?' => 'Yes &mdash; peak Muslim + Indian occasion buying. <strong>UAE + Saudi + India Muslim</strong>: Ramadan + Eid + Nikah season. <strong>India</strong>: Diwali + Karva Chauth + Dhanteras (peak gold-buying day globally). Prep inventory + creative + Meta/Google budgets 6&ndash;8 weeks ahead. Gift-hamper + custom-engraving + Diwali-appropriate creative essential.',
+            'Do you handle jewellery insurance + shipping + returns operations?' => 'Advisory + integration &mdash; not the operations firm. We integrate insured shipping partners (BlueDart / DTDC secure India, FedEx / DHL international), returns handling workflow, insurance claims process. Return rate target: 4&ndash;8% via AR + accurate sizing + video PDPs.',
+            'How do you build a jewellery brand\'s Instagram + Pinterest presence?' => '<strong>Editorial-quality product photography + lifestyle content</strong>. <strong>Reels + short-video</strong>: styling + occasion + behind-the-scenes. <strong>Pinterest boards</strong>: wedding + occasion + inspiration (peak jewellery Pinterest category). <strong>Creator collabs</strong>: bridal + wedding + occasion creator partnerships. <strong>UGC + customer photos</strong>: post-purchase content.',
+            'Can you handle jewellery brand PR + celebrity + magazine placements?' => 'Yes &mdash; via network partnerships. <strong>Vogue India + Vogue Arabia + Grazia + Cosmopolitan</strong> editorial + product placements. <strong>Bollywood + regional celebrity</strong> partnerships. <strong>Wedding-planner + luxury lifestyle magazine</strong> partnerships. PR + celebrity typically 15&ndash;25% of scaling jewellery brand marketing budget.',
+            'Do you handle sustainable + ethical + fair-trade jewellery positioning?' => 'Yes &mdash; growing consumer segment. <strong>Lab-grown + recycled gold + fair-trade sourcing</strong>. <strong>Certification</strong>: Kimberly Process + Fairmined + Fair Trade. <strong>Supply chain transparency</strong> content. <strong>Millennial + Gen Z + international</strong> primary audience. Ethical positioning increasingly important for premium jewellery internationally.',
+            'What Calendly / WhatsApp / contact form workflow do you offer for jewellery founders?' => 'Three plain-anchor options &mdash; <a href="https://calendly.com/itdgrowthlabs-info/30min">Calendly 30-min senior discovery call</a>, <a href="https://wa.me/918450978544">WhatsApp us</a>, or <a href="/contact-us.php">contact form</a>. Senior strategist &mdash; not SDR &mdash; responds within 24 hours with a fixed-quote SOW. Bring your scope, current numbers, and questions. No scripts, no upsell tactics.',
+                ]); ?>
+            </div>
+
+            <!-- Internal links / topical authority -->
+            <div style="max-width:1140px;margin:0 auto 40px;padding:32px;background:#fff;border-radius:16px;border:1px solid #f1f5f9;">
+                <h3 style="font-size:20px;font-weight:800;color:#0f172a;margin:0 0 6px;text-align:center;">Related services + guides for Jewellery D2C brands</h3>
+                <p style="font-size:14px;color:#64748b;text-align:center;margin:0 0 22px;">Deep-dives into the tools + channels + playbooks that scale D2C brands globally.</p>
+                <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:12px;">
+                    <a href="/services/d2c-digital-marketing.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fas fa-bullseye" style="color:#a855f7;"></i>D2C Digital Marketing (Hub)</a>
+                    <a href="/services/whatsapp-marketing.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fab fa-whatsapp" style="color:#25d366;"></i>WhatsApp Marketing</a>
+                    <a href="/services/seo-services.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fas fa-magnifying-glass-chart" style="color:#f97316;"></i>SEO + AEO + GEO</a>
+                    <a href="/services/meta-ads-services.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fab fa-meta" style="color:#1877f2;"></i>Meta Ads (Facebook + Instagram)</a>
+                    <a href="/services/google-ads-services.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fab fa-google" style="color:#dc2626;"></i>Google Ads (PPC)</a>
+                    <a href="/services/ecommerce-development.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fas fa-cart-shopping" style="color:#16a34a;"></i>E-commerce Development</a>
+                    <a href="/faqs/d2c-jewellery.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fas fa-question-circle" style="color:#0891b2;"></i>Jewellery D2C FAQ</a>
+                    <a href="/faqs.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fas fa-list-ul" style="color:#7c3aed;"></i>All FAQs</a>
+                    <a href="/contact-us.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fas fa-envelope" style="color:#ec4899;"></i>Contact Form</a>
+                </div>
+            </div>
+
+            <!-- Inline CTA row (Calendly + WhatsApp + Contact) -->
+            <div style="max-width:960px;margin:0 auto;padding:36px 28px;background:linear-gradient(135deg,#0f172a 0%,#1e1b4b 60%,#1e293b 100%);border-radius:18px;text-align:center;color:#fff;">
+                <h3 style="font-size:22px;font-weight:800;margin:0 0 8px;color:#fff;">Ready to scale your Jewellery brand across India + global markets?</h3>
+                <p style="font-size:14.5px;color:rgba(255,255,255,0.82);margin:0 0 22px;">Three ways to start &mdash; pick whichever fits your workflow. Senior strategist responds within 24 hours with a fixed-quote SOW.</p>
+                <div style="display:flex;gap:12px;justify-content:center;flex-wrap:wrap;">
+                    <a href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank" rel="noopener" data-cta-source="d2c_jewellery_region_calendly" style="display:inline-flex;align-items:center;gap:9px;padding:13px 22px;background:linear-gradient(135deg,#ec4899 0%,#a855f7 100%);color:#fff;text-decoration:none;font-weight:800;font-size:14px;border-radius:11px;box-shadow:0 12px 30px rgba(236,72,153,0.40);"><i class="fas fa-calendar-check"></i>Book a 30-min Call</a>
+                    <a href="https://wa.me/918450978544" target="_blank" rel="noopener" data-cta-source="d2c_jewellery_region_wa" style="display:inline-flex;align-items:center;gap:9px;padding:13px 22px;background:rgba(37,211,102,0.16);border:1px solid rgba(37,211,102,0.45);color:#a7f3d0;text-decoration:none;font-weight:700;font-size:14px;border-radius:11px;"><i class="fab fa-whatsapp"></i>WhatsApp Us</a>
+                    <a href="/contact-us.php" data-cta-source="d2c_jewellery_region_contact" style="display:inline-flex;align-items:center;gap:9px;padding:13px 22px;background:rgba(255,255,255,0.08);border:1px solid rgba(255,255,255,0.22);color:#fff;text-decoration:none;font-weight:700;font-size:14px;border-radius:11px;"><i class="fas fa-envelope"></i>Contact Form</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <style>
+    .rp-card { background:#fff; border:1px solid #f1e8ff; border-radius:14px; padding:22px 18px; text-align:left; transition:transform .2s ease, box-shadow .2s ease; }
+    .rp-card:hover { transform:translateY(-3px); box-shadow:0 14px 30px rgba(168,85,247,0.14); }
+    .rp-flag { font-size:26px; margin-bottom:8px; }
+    .rp-region { font-size:13px; font-weight:800; letter-spacing:1.2px; text-transform:uppercase; color:#a855f7; margin-bottom:8px; }
+    .rp-budget { font-size:15px; font-weight:800; color:#0f172a; margin-bottom:10px; }
+    .rp-budget span { display:inline-block; padding:2px 6px; background:#faf5ff; color:#a855f7; border-radius:6px; font-size:11px; margin-right:6px; }
+    .rp-play { font-size:13px; line-height:1.55; color:#475569; margin:0; }
+    .uc-card { background:#fff; border:1px solid #fce7f3; border-radius:14px; padding:22px 20px; transition:transform .2s ease, border-color .2s ease, box-shadow .2s ease; }
+    .uc-card:hover { transform:translateY(-3px); border-color:#f9a8d4; box-shadow:0 14px 30px rgba(236,72,153,0.14); }
+    .uc-ico { width:44px; height:44px; border-radius:11px; background:linear-gradient(135deg,#ec4899 0%,#a855f7 100%); color:#fff; display:inline-flex; align-items:center; justify-content:center; font-size:18px; margin-bottom:10px; }
+    .uc-card h4 { font-size:16px; font-weight:800; color:#0f172a; margin:0 0 6px; }
+    .uc-card p { font-size:13px; line-height:1.55; color:#475569; margin:0; }
+    </style>
+
     <!-- QUICK ANSWER FOR AI SEARCH — AT END (moved per user feedback) -->
     <section class="md-sec alt-warm">
         <div class="container">

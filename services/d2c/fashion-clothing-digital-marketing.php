@@ -700,6 +700,154 @@
         </div>
     </section>
 
+    <!-- REGIONAL D2C PLAYBOOK + USE CASES + FAQ + INTERNAL LINKS + CTA (added for AI-search + topical authority) -->
+    <section class="md-sec" style="background:linear-gradient(180deg,#fdf2f8 0%,#faf5ff 100%);padding:64px 0;">
+        <div class="container">
+            <div style="text-align:center;max-width:820px;margin:0 auto 42px;">
+                <span style="display:inline-block;font-size:11px;font-weight:800;letter-spacing:1.6px;text-transform:uppercase;color:#a855f7;background:rgba(168,85,247,0.10);padding:6px 14px;border-radius:14px;margin-bottom:14px;"><i class="fas fa-globe" style="margin-right:5px;"></i>Regional D2C Playbooks</span>
+                <h2 style="font-size:32px;font-weight:800;color:#0f172a;margin:0 0 14px;letter-spacing:-0.3px;">Fashion &amp; Clothing D2C playbooks &mdash; India, Dubai/UAE, USA, UK, Australia</h2>
+                <p style="font-size:15.5px;line-height:1.7;color:#475569;margin:0;">How ITD GrowthLabs runs fashion + clothing D2C marketing across India + Dubai + Saudi + USA + UK + Australia &mdash; realistic budgets, sub-vertical playbooks (ethnic + western + athleisure + modest + luxury + kids), and the marketplace + returns + creator + retention stack for each region.</p>
+            </div>
+
+            <div class="rp-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:18px;max-width:1180px;margin:0 auto 48px;">
+                <div class="rp-card">
+                    <div class="rp-flag">&#127470;&#127475;</div>
+                    <div class="rp-region">India</div>
+                    <div class="rp-budget"><span>&#8377; INR</span> &#8377;1&ndash;12L retainer &middot; &#8377;3L&ndash;3Cr ad spend</div>
+                    <p class="rp-play">Diwali + wedding (Oct&ndash;Feb + Apr&ndash;Jun) + festival season peaks. Myntra + Nykaa Fashion + Ajio + Amazon + brand.com parallel. Regional language + tier-2/3 expansion for ethnic + occasion wear.</p>
+                </div>
+                <div class="rp-card">
+                    <div class="rp-flag">&#127462;&#127466;</div>
+                    <div class="rp-region">Dubai + UAE</div>
+                    <div class="rp-budget"><span>AED</span> AED 6K&ndash;2L retainer &middot; AED 12K&ndash;8L ad spend</div>
+                    <p class="rp-play">Ramadan + Eid + DSF + winter (peak visitor season). Modest fashion + abaya + kaftan + occasion wear peak. Namshi + Ounass + Shein UAE marketplace mix.</p>
+                </div>
+                <div class="rp-card">
+                    <div class="rp-flag">&#127482;&#127480;</div>
+                    <div class="rp-region">USA</div>
+                    <div class="rp-budget"><span>$ USD</span> $2.5K&ndash;$5L retainer &middot; $5K&ndash;$5L ad spend</div>
+                    <p class="rp-play">Q4 + back-to-school + summer + spring launches. TikTok Fashion + Instagram peak channels. Amazon Fashion + Shopify + selective retail.</p>
+                </div>
+                <div class="rp-card">
+                    <div class="rp-flag">&#127468;&#127463;</div>
+                    <div class="rp-region">UK</div>
+                    <div class="rp-budget"><span>&pound; GBP</span> &pound;2K&ndash;&pound;4L retainer &middot; &pound;4K&ndash;&pound;4L ad spend</div>
+                    <p class="rp-play">Q4 + summer sale + Ascot + occasion peaks. ASOS + Selfridges + boutique retail. Klarna + Clearpay standard.</p>
+                </div>
+                <div class="rp-card">
+                    <div class="rp-flag">&#127462;&#127482;</div>
+                    <div class="rp-region">Australia</div>
+                    <div class="rp-budget"><span>A$ AUD</span> A$3K&ndash;A$6L retainer &middot; A$6K&ndash;A$6L ad spend</div>
+                    <p class="rp-play">Summer Christmas + Melbourne Cup + spring racing peaks. Myer + David Jones + The Iconic marketplace. Afterpay + Zip standard.</p>
+                </div>
+            </div>
+
+            <div style="text-align:center;max-width:820px;margin:0 auto 32px;">
+                <span style="display:inline-block;font-size:11px;font-weight:800;letter-spacing:1.6px;text-transform:uppercase;color:#be185d;background:rgba(236,72,153,0.10);padding:6px 14px;border-radius:14px;margin-bottom:14px;"><i class="fas fa-layer-group" style="margin-right:5px;"></i>Use Cases + Sub-Verticals</span>
+                <h2 style="font-size:28px;font-weight:800;color:#0f172a;margin:0 0 10px;letter-spacing:-0.3px;">Fashion &amp; Clothing sub-verticals we grow</h2>
+                <p style="font-size:14.5px;line-height:1.65;color:#475569;margin:0;">Distinct playbooks per sub-vertical &mdash; audience, pricing, seasonality, creator + retention discipline all shift by category.</p>
+            </div>
+
+            <div class="uc-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px;max-width:1180px;margin:0 auto 56px;">
+                <div class="uc-card">
+                    <div class="uc-ico"><i class="fas fa-shirt"></i></div>
+                    <h4>Ethnic wear + Indian occasion</h4>
+                    <p>Sarees, kurtas, lehengas, sherwanis. Wedding + festival focus. Diaspora expansion (USA, UK, UAE, Canada, AU) 25&ndash;40% of scale-brand revenue.</p>
+                </div>
+                <div class="uc-card">
+                    <div class="uc-ico"><i class="fas fa-user-tie"></i></div>
+                    <h4>Western wear + workwear</h4>
+                    <p>Fusion + occasion + workwear + streetwear. Myntra + Ajio + Amazon Fashion + brand.com hybrid. Creator + UGC + video PDPs.</p>
+                </div>
+                <div class="uc-card">
+                    <div class="uc-ico"><i class="fas fa-tshirt"></i></div>
+                    <h4>Athleisure + activewear</h4>
+                    <p>Fit-inclusive + comfort-first + women-focused. BlissClub / Lululemon / Vuori patterns. Community + content + subscription-adjacent.</p>
+                </div>
+                <div class="uc-card">
+                    <div class="uc-ico"><i class="fas fa-hat-cowboy"></i></div>
+                    <h4>Modest fashion + Islamic</h4>
+                    <p>Hijab-friendly + abaya + kaftan + modest activewear. UAE + Saudi + Malaysia + Indonesia + India Muslim + global diaspora.</p>
+                </div>
+                <div class="uc-card">
+                    <div class="uc-ico"><i class="fas fa-baby"></i></div>
+                    <h4>Kids + baby clothing</h4>
+                    <p>Parent-targeted marketing. Safety + certification-heavy. Growth + upgrade cycle built-in repeat purchase. Gifting + occasion + baby-shower.</p>
+                </div>
+                <div class="uc-card">
+                    <div class="uc-ico"><i class="fas fa-gem"></i></div>
+                    <h4>Luxury + heritage + curated</h4>
+                    <p>Editorial + magazine-quality + heritage storytelling. Selective retail + curated D2C. Sabyasachi + Manish Malhotra patterns for India + international.</p>
+                </div>
+            </div>
+
+            <div style="text-align:center;max-width:820px;margin:0 auto 28px;">
+                <span style="display:inline-block;font-size:11px;font-weight:800;letter-spacing:1.6px;text-transform:uppercase;color:#0891b2;background:rgba(8,145,178,0.10);padding:6px 14px;border-radius:14px;margin-bottom:14px;"><i class="fas fa-question-circle" style="margin-right:5px;"></i>More FAQs</span>
+                <h2 style="font-size:28px;font-weight:800;color:#0f172a;margin:0 0 10px;letter-spacing:-0.3px;">More Fashion &amp; Clothing D2C questions</h2>
+                <p style="font-size:14.5px;line-height:1.65;color:#475569;margin:0 0 8px;">Additional India + Dubai + USA + UK + Australia founder questions &mdash; schema-marked for AI Overviews, ChatGPT, and Perplexity citation.</p>
+                <p style="font-size:14px;color:#64748b;margin:0;"><a href="/faqs/d2c-fashion-clothing.php" style="color:#a855f7;font-weight:700;text-decoration:none;">See the full 20-question Fashion &amp; Clothing D2C FAQ page &rarr;</a></p>
+            </div>
+
+            <div style="max-width:960px;margin:0 auto 48px;">
+                <?php itdgl_render_faq_accordion([
+            'How do you handle fashion returns + size accuracy at scale?' => 'Fashion returns 15&ndash;30% typical. <strong>Size charts + fit guides</strong>: accurate + region-specific (India + US + UK + AU sizing differ). <strong>AR / 3D try-on</strong>: Bods, Style3D, True Fit for growing brands. <strong>Video PDPs</strong>: model movement + fit + fabric drape. <strong>Diverse model representation</strong>. Returns discipline + WMS integration critical to unit economics.',
+            'How do you build ethnic wear diaspora marketing (USA + UK + UAE + Canada + AU)?' => '<strong>Meta + Instagram lookalike audiences</strong> built from Indian diaspora post-code + income + interest data. <strong>Regional Indian creator partnerships</strong>: Malayali + Punjabi + Tamil + Gujarati + Bengali diaspora communities. <strong>Occasion + wedding season targeting</strong> (Indian wedding season concentrated globally). <strong>International shipping + duties + returns</strong> operational workflow. Diaspora often 25&ndash;40% of scaling ethnic wear brand revenue.',
+            'Do you handle modest fashion + Islamic-compliant clothing marketing?' => 'Yes &mdash; peak UAE + Saudi + Malaysia + Indonesia + India Muslim + global diaspora market. <strong>Hijab-friendly, abaya, kaftan, modest activewear, modest bridal</strong>. Islamic-appropriate imagery + Arabic content + halal (where fabric-relevant) + Ramadan / Eid gifting focus. Modest fashion global market $300B+ growing 5&ndash;7% annually.',
+            'How do you handle Myntra + Nykaa Fashion + Ajio + Amazon Fashion parallel play?' => '<strong>Marketplace</strong>: trial + volume + brand discovery. Each has distinct positioning (Myntra broad-catalog, Nykaa premium-curated, Ajio Reliance-ecosystem, Amazon universal). <strong>Brand.com</strong>: margin + retention + customer data. <strong>Separate KPIs</strong>: marketplace ROAS + brand.com ROAS + blended. <strong>Pricing consistency</strong>: MRP alignment to avoid cannibalisation. <strong>Attribution model</strong>: captures cross-channel journey.',
+            'Do you handle fashion brand launches from zero?' => 'Yes &mdash; brand identity + Shopify + size + fit + Meta + Google + TikTok + creator + PR + Myntra / marketplace onboarding. Fashion launches 8&ndash;16 weeks runway typical. First revenue in month 2, break-even in month 6&ndash;10 for well-positioned brands. Fashion is creative-intensive &mdash; strong photography + video capability at launch critical.',
+            'How do you approach sustainable + slow-fashion positioning credibly?' => 'Certified sustainability claims only &mdash; GOTS + OEKO-TEX + BCI + Fair Trade + LWG. <strong>Life-cycle transparency</strong>: material, manufacturing, supply chain disclosed. <strong>Small-batch + limited-drop</strong>: less waste + higher perceived value. <strong>Repair + take-back programs</strong>. <strong>Honest positioning</strong>: greenwashing risk substantial with regulator + consumer + activist scrutiny.',
+            'Do you build fashion subscription + capsule wardrobe programs?' => 'Yes &mdash; growing category. <strong>Curated capsule subscriptions</strong> (Stitch Fix pattern), <strong>rental + subscription</strong> (Rent the Runway / Furlenco), <strong>build-your-wardrobe</strong> (Cladwell). Fit + returns operational complexity high. Best for specific segments: workwear + occasion + kids-outgrowing wardrobe.',
+            'How do you handle Ramadan + Diwali + wedding season peaks for fashion?' => '<strong>India wedding (Oct&ndash;Feb + Apr&ndash;Jun)</strong>: peak ethnic + occasion + designer wear. <strong>Diwali (Oct&ndash;Nov)</strong>: ethnic + festive + gifting. <strong>Ramadan + Eid (variable)</strong>: modest + occasion + gifting UAE + Saudi + Muslim India. Prep inventory + creative + Meta/Google/TikTok budgets 6&ndash;10 weeks ahead. Wedding + Ramadan drive 40&ndash;55% of annual revenue for occasion + ethnic + modest fashion brands.',
+            'Do you handle kids fashion + baby clothing brand marketing?' => 'Yes &mdash; parent-focused marketing discipline. <strong>Safety + certification-heavy</strong>: OEKO-TEX + BIS + FDA (USA) + EU regulation for dyes + fabrics. <strong>Growth + upgrade cycle</strong>: kids outgrow fast = built-in repeat. <strong>Gifting + occasion + baby-shower + festival</strong>. <strong>Parent WhatsApp + community</strong> compounds trust + retention.',
+            'What Calendly / WhatsApp / contact form workflow do you offer for fashion founders?' => 'Three plain-anchor options &mdash; <a href="https://calendly.com/itdgrowthlabs-info/30min">Calendly 30-min senior discovery call</a>, <a href="https://wa.me/918450978544">WhatsApp us</a>, or <a href="/contact-us.php">contact form</a>. Senior strategist responds within 24 hours with a fixed-quote SOW. Bring your scope + numbers + questions. No SDRs, no scripts.',
+                ]); ?>
+            </div>
+
+            <!-- Internal links / topical authority -->
+            <div style="max-width:1140px;margin:0 auto 40px;padding:32px;background:#fff;border-radius:16px;border:1px solid #f1f5f9;">
+                <h3 style="font-size:20px;font-weight:800;color:#0f172a;margin:0 0 6px;text-align:center;">Related services + guides for Fashion &amp; Clothing D2C brands</h3>
+                <p style="font-size:14px;color:#64748b;text-align:center;margin:0 0 22px;">Deep-dives into the tools + channels + playbooks that scale D2C brands globally.</p>
+                <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:12px;">
+                    <a href="/services/d2c-digital-marketing.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fas fa-bullseye" style="color:#a855f7;"></i>D2C Digital Marketing (Hub)</a>
+                    <a href="/services/whatsapp-marketing.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fab fa-whatsapp" style="color:#25d366;"></i>WhatsApp Marketing</a>
+                    <a href="/services/seo-services.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fas fa-magnifying-glass-chart" style="color:#f97316;"></i>SEO + AEO + GEO</a>
+                    <a href="/services/meta-ads-services.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fab fa-meta" style="color:#1877f2;"></i>Meta Ads (Facebook + Instagram)</a>
+                    <a href="/services/google-ads-services.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fab fa-google" style="color:#dc2626;"></i>Google Ads (PPC)</a>
+                    <a href="/services/ecommerce-development.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fas fa-cart-shopping" style="color:#16a34a;"></i>E-commerce Development</a>
+                    <a href="/faqs/d2c-fashion-clothing.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fas fa-question-circle" style="color:#0891b2;"></i>Fashion &amp; Clothing D2C FAQ</a>
+                    <a href="/faqs.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fas fa-list-ul" style="color:#7c3aed;"></i>All FAQs</a>
+                    <a href="/contact-us.php" style="display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #e2e8f0;border-radius:10px;text-decoration:none;color:#334155;font-size:13px;font-weight:700;"><i class="fas fa-envelope" style="color:#ec4899;"></i>Contact Form</a>
+                </div>
+            </div>
+
+            <!-- Inline CTA row (Calendly + WhatsApp + Contact) -->
+            <div style="max-width:960px;margin:0 auto;padding:36px 28px;background:linear-gradient(135deg,#0f172a 0%,#1e1b4b 60%,#1e293b 100%);border-radius:18px;text-align:center;color:#fff;">
+                <h3 style="font-size:22px;font-weight:800;margin:0 0 8px;color:#fff;">Ready to scale your Fashion &amp; Clothing brand across India + global markets?</h3>
+                <p style="font-size:14.5px;color:rgba(255,255,255,0.82);margin:0 0 22px;">Three ways to start &mdash; pick whichever fits your workflow. Senior strategist responds within 24 hours with a fixed-quote SOW.</p>
+                <div style="display:flex;gap:12px;justify-content:center;flex-wrap:wrap;">
+                    <a href="https://calendly.com/itdgrowthlabs-info/30min" target="_blank" rel="noopener" data-cta-source="d2c_fashion_region_calendly" style="display:inline-flex;align-items:center;gap:9px;padding:13px 22px;background:linear-gradient(135deg,#ec4899 0%,#a855f7 100%);color:#fff;text-decoration:none;font-weight:800;font-size:14px;border-radius:11px;box-shadow:0 12px 30px rgba(236,72,153,0.40);"><i class="fas fa-calendar-check"></i>Book a 30-min Call</a>
+                    <a href="https://wa.me/918450978544" target="_blank" rel="noopener" data-cta-source="d2c_fashion_region_wa" style="display:inline-flex;align-items:center;gap:9px;padding:13px 22px;background:rgba(37,211,102,0.16);border:1px solid rgba(37,211,102,0.45);color:#a7f3d0;text-decoration:none;font-weight:700;font-size:14px;border-radius:11px;"><i class="fab fa-whatsapp"></i>WhatsApp Us</a>
+                    <a href="/contact-us.php" data-cta-source="d2c_fashion_region_contact" style="display:inline-flex;align-items:center;gap:9px;padding:13px 22px;background:rgba(255,255,255,0.08);border:1px solid rgba(255,255,255,0.22);color:#fff;text-decoration:none;font-weight:700;font-size:14px;border-radius:11px;"><i class="fas fa-envelope"></i>Contact Form</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <style>
+    .rp-card { background:#fff; border:1px solid #f1e8ff; border-radius:14px; padding:22px 18px; text-align:left; transition:transform .2s ease, box-shadow .2s ease; }
+    .rp-card:hover { transform:translateY(-3px); box-shadow:0 14px 30px rgba(168,85,247,0.14); }
+    .rp-flag { font-size:26px; margin-bottom:8px; }
+    .rp-region { font-size:13px; font-weight:800; letter-spacing:1.2px; text-transform:uppercase; color:#a855f7; margin-bottom:8px; }
+    .rp-budget { font-size:15px; font-weight:800; color:#0f172a; margin-bottom:10px; }
+    .rp-budget span { display:inline-block; padding:2px 6px; background:#faf5ff; color:#a855f7; border-radius:6px; font-size:11px; margin-right:6px; }
+    .rp-play { font-size:13px; line-height:1.55; color:#475569; margin:0; }
+    .uc-card { background:#fff; border:1px solid #fce7f3; border-radius:14px; padding:22px 20px; transition:transform .2s ease, border-color .2s ease, box-shadow .2s ease; }
+    .uc-card:hover { transform:translateY(-3px); border-color:#f9a8d4; box-shadow:0 14px 30px rgba(236,72,153,0.14); }
+    .uc-ico { width:44px; height:44px; border-radius:11px; background:linear-gradient(135deg,#ec4899 0%,#a855f7 100%); color:#fff; display:inline-flex; align-items:center; justify-content:center; font-size:18px; margin-bottom:10px; }
+    .uc-card h4 { font-size:16px; font-weight:800; color:#0f172a; margin:0 0 6px; }
+    .uc-card p { font-size:13px; line-height:1.55; color:#475569; margin:0; }
+    </style>
+
     <!-- QUICK ANSWER FOR AI SEARCH — AT END (moved per user feedback) -->
     <section class="md-sec alt-warm">
         <div class="container">
