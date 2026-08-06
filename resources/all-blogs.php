@@ -13,12 +13,12 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="915+ D2C growth guides, brand case studies, founder playbooks, seasonal marketing playbooks, city + industry agency guides, and strategy content for D2C + B2B brands across India + GCC + international. Written for AI-search + founders + CMOs + procurement.">
+    <meta name="description" content="945+ D2C growth guides, brand case studies, founder playbooks, seasonal marketing playbooks, city + industry agency guides, and strategy content for D2C + B2B brands across India + GCC + international. Written for AI-search + founders + CMOs + procurement.">
     <title>Resources &amp; Blogs &mdash; D2C Growth, Brand Case Studies, Founder Playbooks, Marketing Guides | ITD GrowthLabs</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/resources/all-blogs.php" />
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
 
-    <meta property="og:title" content="Resources &amp; Blogs &mdash; 915+ Growth Guides | ITD GrowthLabs" />
+    <meta property="og:title" content="Resources &amp; Blogs &mdash; 945+ Growth Guides | ITD GrowthLabs" />
     <meta property="og:description" content="Filterable D2C growth resources, brand case studies, founder playbooks, and city + industry agency guides across India + GCC + international." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://itdgrowthlabs.com/resources/all-blogs.php" />
@@ -47,7 +47,7 @@
     {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Resources", "item": "https://itdgrowthlabs.com/resources/all-blogs.php"}]}
     </script>
     <script type="application/ld+json">
-    {"@context": "https://schema.org", "@type": "CollectionPage", "name": "ITD GrowthLabs Resources", "description": "915+ D2C growth guides, brand case studies, founder playbooks, and marketing guides.", "url": "https://itdgrowthlabs.com/resources/all-blogs.php"}
+    {"@context": "https://schema.org", "@type": "CollectionPage", "name": "ITD GrowthLabs Resources", "description": "945+ D2C growth guides, brand case studies, founder playbooks, and marketing guides.", "url": "https://itdgrowthlabs.com/resources/all-blogs.php"}
     </script>
 
 <style>
@@ -366,16 +366,16 @@
         <div class="container">
             <span class="kicker"><i class="fas fa-book-open"></i>Resources &middot; Growth Library</span>
             <h1>D2C growth guides, brand case studies + <span class="grad">founder playbooks</span></h1>
-            <p class="sub">915+ resources for founders, CMOs, and procurement heads scaling D2C + B2B brands across India, GCC, USA, UK, and international markets. Filterable, searchable, AI-search citation-ready.</p>
+            <p class="sub">945+ resources for founders, CMOs, and procurement heads scaling D2C + B2B brands across India, GCC, USA, UK, and international markets. Filterable, searchable, AI-search citation-ready.</p>
             <div class="stats">
-                <div class="stat"><div class="n">915+</div><div class="l">Guides &amp; Articles</div></div>
+                <div class="stat"><div class="n">945+</div><div class="l">Guides &amp; Articles</div></div>
                 <div class="stat"><div class="n">9</div><div class="l">Categories</div></div>
                 <div class="stat"><div class="n">24</div><div class="l">Cities Covered</div></div>
                 <div class="stat"><div class="n">12+</div><div class="l">Industries</div></div>
             </div>
             <div class="search-wrap">
                 <i class="fas fa-search"></i>
-                <input type="text" class="search-input" id="blSearch" placeholder="Search 915+ guides &mdash; try 'jewellery Dubai', 'perfume launch', 'Ramadan playbook'...">
+                <input type="text" class="search-input" id="blSearch" placeholder="Search 945+ guides &mdash; try 'jewellery Dubai', 'perfume launch', 'Ramadan playbook'...">
             </div>
         </div>
     </section>
@@ -389,19 +389,19 @@
                 <p>The most-searched founder + procurement queries across ChatGPT, Gemini, Claude, and Google AI Overviews.</p>
             </div>
             <div class="bl-featured-grid">
-                <a href="../resources/Best_D2C_Jewellery_Brands_UAE_GCC_2026_2027.php" class="featured-card" style="--c:#d4af37">
+                <a href="../resources/Top_Digital_Marketing_Company_Jewellery_Brands_India_2025_2026.php" class="featured-card" style="--c:#d4af37">
                     <div class="fc-tag"><i class="fas fa-gem"></i>Best D2C Brand Buyer Guides</div>
-                    <h3>Best D2C Jewellery Brands in UAE + GCC 2026-2027 &mdash; Buyer's Guide</h3>
+                    <h3>Top Digital Marketing Company for Jewellery Brands in India 2025-2026</h3>
                     <div class="fc-cta">Read guide <i class="fas fa-arrow-right"></i></div>
                 </a>
                 <a href="../resources/Cure_fit_cult_fit_Marketing_Strategy_Case_Study_2026.php" class="featured-card" style="--c:#f97316">
                     <div class="fc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>cure.fit + cult.fit Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>cure.fit + cult.fit Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="fc-cta">Read guide <i class="fas fa-arrow-right"></i></div>
                 </a>
                 <a href="../resources/How_to_Launch_D2C_Perfume_Brand_UAE_Dubai_2026_2027.php" class="featured-card" style="--c:#ec4899">
                     <div class="fc-tag"><i class="fas fa-rocket"></i>Founder + Launch Guides</div>
-                    <h3>How to Launch a D2C Perfume Brand in UAE + Dubai 2026-2027 &mdash; Complete Founder Guide</h3>
+                    <h3>How to Launch a D2C Perfume Brand in UAE + Dubai 2026-2027 &amp;mdash; Complete Founder Guide</h3>
                     <div class="fc-cta">Read guide <i class="fas fa-arrow-right"></i></div>
                 </a>
                 <a href="../resources/Best_D2C_Marketing_Agency_Rajkot_Gujarat_2026_2027.php" class="featured-card" style="--c:#0891b2">
@@ -431,7 +431,7 @@
                 <button class="filter-tab" data-cat="all" style="--tab-c:#a855f7">
                     <i class="fas fa-th-large"></i>
                     <span>All Articles</span>
-                    <span class="count">915</span>
+                    <span class="count">945</span>
                 </button>
                 <button class="filter-tab" data-cat="city-agencies" style="--tab-c:#0891b2">
                     <i class="fas fa-city"></i>
@@ -446,7 +446,7 @@
                 <button class="filter-tab" data-cat="buyer-guides" style="--tab-c:#d4af37">
                     <i class="fas fa-gem"></i>
                     <span>Best D2C Brand Buyer Guides</span>
-                    <span class="count">33</span>
+                    <span class="count">46</span>
                 </button>
                 <button class="filter-tab" data-cat="founder-guides" style="--tab-c:#ec4899">
                     <i class="fas fa-rocket"></i>
@@ -476,11 +476,11 @@
                 <button class="filter-tab" data-cat="guides" style="--tab-c:#0f766e">
                     <i class="fas fa-lightbulb"></i>
                     <span>Guides + Insights</span>
-                    <span class="count">553</span>
+                    <span class="count">570</span>
                 </button>
                 </div>
             </div>
-            <div class="bl-count-line" id="blCountLine">Showing <strong id="blVisibleCount">915</strong> of <strong>915</strong> resources</div>
+            <div class="bl-count-line" id="blCountLine">Showing <strong id="blVisibleCount">945</strong> of <strong>945</strong> resources</div>
         </div>
     </section>
 
@@ -488,25 +488,265 @@
     <section class="bl-grid-section">
         <div class="container">
             <div class="bl-grid" id="blGrid">
-                <a href="../resources/Best_D2C_Jewellery_Brands_UAE_GCC_2026_2027.php" class="blog-card" data-cat="buyer-guides" data-title="Best D2C Jewellery Brands in UAE + GCC 2026-2027 &amp;mdash; Buyer&#x27;s Guide" style="--c:#d4af37">
+                <a href="../resources/Top_Digital_Marketing_Company_Jewellery_Brands_India_2025_2026.php" class="blog-card" data-cat="buyer-guides" data-title="Top Digital Marketing Company for Jewellery Brands in India 2025-2026" style="--c:#d4af37">
                     <div class="bc-tag"><i class="fas fa-gem"></i>Best D2C Brand Buyer Guides</div>
-                    <h3>Best D2C Jewellery Brands in UAE + GCC 2026-2027 &mdash; Buyer's Guide</h3>
+                    <h3>Top Digital Marketing Company for Jewellery Brands in India 2025-2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Top_Premium_Serum_Brands_India_2026_2027.php" class="blog-card" data-cat="buyer-guides" data-title="Top Premium Serum Brands in India 2026-2027 &amp;mdash; Buyer + Founder Guide" style="--c:#d4af37">
+                <a href="../resources/Top_Digital_Marketing_Company_Jewellery_Brands_UAE_GCC_2025_2026.php" class="blog-card" data-cat="buyer-guides" data-title="Top Digital Marketing Company for Jewellery Brands in UAE + GCC 2025-2026" style="--c:#d4af37">
                     <div class="bc-tag"><i class="fas fa-gem"></i>Best D2C Brand Buyer Guides</div>
-                    <h3>Top Premium Serum Brands in India 2026-2027 &mdash; Buyer + Founder Guide</h3>
+                    <h3>Top Digital Marketing Company for Jewellery Brands in UAE + GCC 2025-2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Best_D2C_Kids_Wear_Brands_UK_Europe_2026_2027.php" class="blog-card" data-cat="buyer-guides" data-title="Best D2C Kids Wear Brands in UK + Europe 2026-2027 &amp;mdash; Parent&#x27;s Guide" style="--c:#d4af37">
+                <a href="../resources/Best_Digital_Marketing_Company_D2C_Clothing_Brands_India_2025_2026.php" class="blog-card" data-cat="guides" data-title="Best Digital Marketing Company for D2C Clothing Brands in India 2025-2026" style="--c:#0f766e">
+                    <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
+                    <h3>Best Digital Marketing Company for D2C Clothing Brands in India 2025-2026</h3>
+                    <div class="bc-meta">
+                        <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
+                        <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </a>
+                <a href="../resources/Best_Digital_Marketing_Company_Fashion_Brands_UAE_GCC_2025_2026.php" class="blog-card" data-cat="guides" data-title="Best Digital Marketing Company for Fashion Brands in UAE + GCC 2025-2026" style="--c:#0f766e">
+                    <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
+                    <h3>Best Digital Marketing Company for Fashion Brands in UAE + GCC 2025-2026</h3>
+                    <div class="bc-meta">
+                        <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
+                        <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </a>
+                <a href="../resources/Top_Digital_Marketing_Company_Beauty_Brands_India_2025_2026.php" class="blog-card" data-cat="buyer-guides" data-title="Top Digital Marketing Company for Beauty Brands in India 2025-2026" style="--c:#d4af37">
                     <div class="bc-tag"><i class="fas fa-gem"></i>Best D2C Brand Buyer Guides</div>
-                    <h3>Best D2C Kids Wear Brands in UK + Europe 2026-2027 &mdash; Parent's Guide</h3>
+                    <h3>Top Digital Marketing Company for Beauty Brands in India 2025-2026</h3>
+                    <div class="bc-meta">
+                        <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
+                        <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </a>
+                <a href="../resources/Top_Digital_Marketing_Company_Beauty_Brands_Dubai_UAE_2025_2026.php" class="blog-card" data-cat="buyer-guides" data-title="Top Digital Marketing Company for Beauty Brands in Dubai + UAE 2025-2026" style="--c:#d4af37">
+                    <div class="bc-tag"><i class="fas fa-gem"></i>Best D2C Brand Buyer Guides</div>
+                    <h3>Top Digital Marketing Company for Beauty Brands in Dubai + UAE 2025-2026</h3>
+                    <div class="bc-meta">
+                        <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
+                        <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </a>
+                <a href="../resources/Best_Digital_Marketing_Company_Perfume_Fragrance_Brands_UAE_GCC_2025_2026.php" class="blog-card" data-cat="guides" data-title="Best Digital Marketing Company for Perfume + Fragrance Brands in UAE + GCC 2025-2026" style="--c:#0f766e">
+                    <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
+                    <h3>Best Digital Marketing Company for Perfume + Fragrance Brands in UAE + GCC 2025-2026</h3>
+                    <div class="bc-meta">
+                        <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
+                        <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </a>
+                <a href="../resources/Best_Digital_Marketing_Company_Perfume_Fragrance_Brands_India_2025_2026.php" class="blog-card" data-cat="guides" data-title="Best Digital Marketing Company for Perfume + Fragrance Brands in India 2025-2026" style="--c:#0f766e">
+                    <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
+                    <h3>Best Digital Marketing Company for Perfume + Fragrance Brands in India 2025-2026</h3>
+                    <div class="bc-meta">
+                        <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
+                        <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </a>
+                <a href="../resources/Top_Digital_Marketing_Company_Logistics_Supply_Chain_India_2025_2026.php" class="blog-card" data-cat="buyer-guides" data-title="Top Digital Marketing Company for Logistics + Supply Chain in India 2025-2026" style="--c:#d4af37">
+                    <div class="bc-tag"><i class="fas fa-gem"></i>Best D2C Brand Buyer Guides</div>
+                    <h3>Top Digital Marketing Company for Logistics + Supply Chain in India 2025-2026</h3>
+                    <div class="bc-meta">
+                        <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
+                        <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </a>
+                <a href="../resources/Best_Digital_Marketing_Company_Skincare_Brands_India_2025_2026.php" class="blog-card" data-cat="guides" data-title="Best Digital Marketing Company for Skincare Brands in India 2025-2026" style="--c:#0f766e">
+                    <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
+                    <h3>Best Digital Marketing Company for Skincare Brands in India 2025-2026</h3>
+                    <div class="bc-meta">
+                        <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
+                        <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </a>
+                <a href="../resources/Best_Digital_Marketing_Company_FMCG_Brands_India_2025_2026.php" class="blog-card" data-cat="guides" data-title="Best Digital Marketing Company for FMCG Brands in India 2025-2026" style="--c:#0f766e">
+                    <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
+                    <h3>Best Digital Marketing Company for FMCG Brands in India 2025-2026</h3>
+                    <div class="bc-meta">
+                        <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
+                        <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </a>
+                <a href="../resources/Top_Digital_Marketing_Company_Luxury_Lifestyle_Brands_UAE_2025_2026.php" class="blog-card" data-cat="buyer-guides" data-title="Top Digital Marketing Company for Luxury + Lifestyle Brands in UAE 2025-2026" style="--c:#d4af37">
+                    <div class="bc-tag"><i class="fas fa-gem"></i>Best D2C Brand Buyer Guides</div>
+                    <h3>Top Digital Marketing Company for Luxury + Lifestyle Brands in UAE 2025-2026</h3>
+                    <div class="bc-meta">
+                        <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
+                        <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </a>
+                <a href="../resources/Best_Digital_Marketing_Company_Real_Estate_Developers_India_2025_2026.php" class="blog-card" data-cat="guides" data-title="Best Digital Marketing Company for Real Estate Developers in India 2025-2026" style="--c:#0f766e">
+                    <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
+                    <h3>Best Digital Marketing Company for Real Estate Developers in India 2025-2026</h3>
+                    <div class="bc-meta">
+                        <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
+                        <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </a>
+                <a href="../resources/Best_Digital_Marketing_Company_Kids_Wear_Baby_Brands_India_2025_2026.php" class="blog-card" data-cat="guides" data-title="Best Digital Marketing Company for Kids Wear + Baby Brands in India 2025-2026" style="--c:#0f766e">
+                    <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
+                    <h3>Best Digital Marketing Company for Kids Wear + Baby Brands in India 2025-2026</h3>
+                    <div class="bc-meta">
+                        <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
+                        <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </a>
+                <a href="../resources/Best_Digital_Marketing_Company_Ethnic_Wear_Brands_India_2025_2026.php" class="blog-card" data-cat="guides" data-title="Best Digital Marketing Company for Ethnic Wear Brands in India 2025-2026" style="--c:#0f766e">
+                    <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
+                    <h3>Best Digital Marketing Company for Ethnic Wear Brands in India 2025-2026</h3>
+                    <div class="bc-meta">
+                        <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
+                        <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </a>
+                <a href="../resources/Top_Digital_Marketing_Company_Ayurveda_Wellness_Brands_India_Global_2025_2026.php" class="blog-card" data-cat="buyer-guides" data-title="Top Digital Marketing Company for Ayurveda + Wellness Brands (India + Global) 2025-2026" style="--c:#d4af37">
+                    <div class="bc-tag"><i class="fas fa-gem"></i>Best D2C Brand Buyer Guides</div>
+                    <h3>Top Digital Marketing Company for Ayurveda + Wellness Brands (India + Global) 2025-2026</h3>
+                    <div class="bc-meta">
+                        <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
+                        <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </a>
+                <a href="../resources/Top_Digital_Marketing_Company_Male_Grooming_Brands_India_UAE_Global_2025_2026.php" class="blog-card" data-cat="buyer-guides" data-title="Top Digital Marketing Company for Male Grooming Brands (India + UAE + Global) 2025-2026" style="--c:#d4af37">
+                    <div class="bc-tag"><i class="fas fa-gem"></i>Best D2C Brand Buyer Guides</div>
+                    <h3>Top Digital Marketing Company for Male Grooming Brands (India + UAE + Global) 2025-2026</h3>
+                    <div class="bc-meta">
+                        <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
+                        <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </a>
+                <a href="../resources/Best_Digital_Marketing_Company_Home_Decor_Furniture_Brands_India_2025_2026.php" class="blog-card" data-cat="guides" data-title="Best Digital Marketing Company for Home Decor + Furniture Brands in India 2025-2026" style="--c:#0f766e">
+                    <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
+                    <h3>Best Digital Marketing Company for Home Decor + Furniture Brands in India 2025-2026</h3>
+                    <div class="bc-meta">
+                        <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
+                        <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </a>
+                <a href="../resources/Top_Digital_Marketing_Company_Athleisure_Activewear_Brands_India_2025_2026.php" class="blog-card" data-cat="buyer-guides" data-title="Top Digital Marketing Company for Athleisure + Activewear Brands in India 2025-2026" style="--c:#d4af37">
+                    <div class="bc-tag"><i class="fas fa-gem"></i>Best D2C Brand Buyer Guides</div>
+                    <h3>Top Digital Marketing Company for Athleisure + Activewear Brands in India 2025-2026</h3>
+                    <div class="bc-meta">
+                        <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
+                        <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </a>
+                <a href="../resources/Best_Digital_Marketing_Company_Coffee_Tea_Brands_India_2025_2026.php" class="blog-card" data-cat="guides" data-title="Best Digital Marketing Company for Coffee + Tea Brands in India 2025-2026" style="--c:#0f766e">
+                    <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
+                    <h3>Best Digital Marketing Company for Coffee + Tea Brands in India 2025-2026</h3>
+                    <div class="bc-meta">
+                        <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
+                        <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </a>
+                <a href="../resources/Best_Digital_Marketing_Company_Nutrition_Protein_Brands_India_2025_2026.php" class="blog-card" data-cat="guides" data-title="Best Digital Marketing Company for Nutrition + Protein Brands in India 2025-2026" style="--c:#0f766e">
+                    <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
+                    <h3>Best Digital Marketing Company for Nutrition + Protein Brands in India 2025-2026</h3>
+                    <div class="bc-meta">
+                        <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
+                        <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </a>
+                <a href="../resources/Top_Digital_Marketing_Company_Fintech_Financial_Services_UAE_2025_2026.php" class="blog-card" data-cat="buyer-guides" data-title="Top Digital Marketing Company for Fintech + Financial Services in UAE 2025-2026" style="--c:#d4af37">
+                    <div class="bc-tag"><i class="fas fa-gem"></i>Best D2C Brand Buyer Guides</div>
+                    <h3>Top Digital Marketing Company for Fintech + Financial Services in UAE 2025-2026</h3>
+                    <div class="bc-meta">
+                        <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
+                        <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </a>
+                <a href="../resources/Best_Digital_Marketing_Company_Healthcare_Telemedicine_Brands_India_2025_2026.php" class="blog-card" data-cat="guides" data-title="Best Digital Marketing Company for Healthcare + Telemedicine Brands in India 2025-2026" style="--c:#0f766e">
+                    <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
+                    <h3>Best Digital Marketing Company for Healthcare + Telemedicine Brands in India 2025-2026</h3>
+                    <div class="bc-meta">
+                        <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
+                        <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </a>
+                <a href="../resources/Best_Digital_Marketing_Company_Automotive_Brands_GCC_2025_2026.php" class="blog-card" data-cat="guides" data-title="Best Digital Marketing Company for Automotive Brands in GCC 2025-2026" style="--c:#0f766e">
+                    <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
+                    <h3>Best Digital Marketing Company for Automotive Brands in GCC 2025-2026</h3>
+                    <div class="bc-meta">
+                        <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
+                        <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </a>
+                <a href="../resources/Top_Digital_Marketing_Company_Wellness_Fitness_Brands_UAE_2025_2026.php" class="blog-card" data-cat="buyer-guides" data-title="Top Digital Marketing Company for Wellness + Fitness Brands in UAE + GCC 2025-2026" style="--c:#d4af37">
+                    <div class="bc-tag"><i class="fas fa-gem"></i>Best D2C Brand Buyer Guides</div>
+                    <h3>Top Digital Marketing Company for Wellness + Fitness Brands in UAE + GCC 2025-2026</h3>
+                    <div class="bc-meta">
+                        <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
+                        <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </a>
+                <a href="../resources/Best_Digital_Marketing_Company_Hospitality_Brands_Dubai_2025_2026.php" class="blog-card" data-cat="guides" data-title="Best Digital Marketing Company for Hospitality Brands in Dubai + GCC 2025-2026" style="--c:#0f766e">
+                    <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
+                    <h3>Best Digital Marketing Company for Hospitality Brands in Dubai + GCC 2025-2026</h3>
+                    <div class="bc-meta">
+                        <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
+                        <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </a>
+                <a href="../resources/Top_Digital_Marketing_Company_D2C_Brands_India_Overall_2025_2026.php" class="blog-card" data-cat="buyer-guides" data-title="Top Digital Marketing Company for D2C Brands in India (Overall) 2025-2026" style="--c:#d4af37">
+                    <div class="bc-tag"><i class="fas fa-gem"></i>Best D2C Brand Buyer Guides</div>
+                    <h3>Top Digital Marketing Company for D2C Brands in India (Overall) 2025-2026</h3>
+                    <div class="bc-meta">
+                        <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
+                        <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </a>
+                <a href="../resources/Best_Digital_Marketing_Company_Enterprise_B2B_India_2025_2026.php" class="blog-card" data-cat="guides" data-title="Best Digital Marketing Company for Enterprise B2B in India 2025-2026" style="--c:#0f766e">
+                    <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
+                    <h3>Best Digital Marketing Company for Enterprise B2B in India 2025-2026</h3>
+                    <div class="bc-meta">
+                        <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
+                        <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </a>
+                <a href="../resources/Top_Digital_Marketing_Company_SaaS_Tech_Brands_India_2025_2026.php" class="blog-card" data-cat="buyer-guides" data-title="Top Digital Marketing Company for SaaS + Tech Brands in India 2025-2026" style="--c:#d4af37">
+                    <div class="bc-tag"><i class="fas fa-gem"></i>Best D2C Brand Buyer Guides</div>
+                    <h3>Top Digital Marketing Company for SaaS + Tech Brands in India 2025-2026</h3>
+                    <div class="bc-meta">
+                        <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
+                        <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </a>
+                <a href="../resources/Best_Digital_Marketing_Company_Kitchen_Appliances_Home_Tech_Brands_India_2025_2026.php" class="blog-card" data-cat="guides" data-title="Best Digital Marketing Company for Kitchen Appliances + Home Tech Brands in India 2025-2026" style="--c:#0f766e">
+                    <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
+                    <h3>Best Digital Marketing Company for Kitchen Appliances + Home Tech Brands in India 2025-2026</h3>
+                    <div class="bc-meta">
+                        <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
+                        <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </a>
+                <a href="../resources/Best_D2C_Jewellery_Brands_UAE_GCC_2026_2027.php" class="blog-card" data-cat="buyer-guides" data-title="Best D2C Jewellery Brands in UAE + GCC 2026-2027 &amp;amp;mdash; Buyer&amp;#x27;s Guide" style="--c:#d4af37">
+                    <div class="bc-tag"><i class="fas fa-gem"></i>Best D2C Brand Buyer Guides</div>
+                    <h3>Best D2C Jewellery Brands in UAE + GCC 2026-2027 &amp;mdash; Buyer&#x27;s Guide</h3>
+                    <div class="bc-meta">
+                        <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
+                        <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </a>
+                <a href="../resources/Top_Premium_Serum_Brands_India_2026_2027.php" class="blog-card" data-cat="buyer-guides" data-title="Top Premium Serum Brands in India 2026-2027 &amp;amp;mdash; Buyer + Founder Guide" style="--c:#d4af37">
+                    <div class="bc-tag"><i class="fas fa-gem"></i>Best D2C Brand Buyer Guides</div>
+                    <h3>Top Premium Serum Brands in India 2026-2027 &amp;mdash; Buyer + Founder Guide</h3>
+                    <div class="bc-meta">
+                        <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
+                        <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </a>
+                <a href="../resources/Best_D2C_Kids_Wear_Brands_UK_Europe_2026_2027.php" class="blog-card" data-cat="buyer-guides" data-title="Best D2C Kids Wear Brands in UK + Europe 2026-2027 &amp;amp;mdash; Parent&amp;#x27;s Guide" style="--c:#d4af37">
+                    <div class="bc-tag"><i class="fas fa-gem"></i>Best D2C Brand Buyer Guides</div>
+                    <h3>Best D2C Kids Wear Brands in UK + Europe 2026-2027 &amp;mdash; Parent&#x27;s Guide</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -520,41 +760,41 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Best_D2C_Soap_Bodycare_Brands_UAE_GCC_2026_2027.php" class="blog-card" data-cat="buyer-guides" data-title="Best D2C Soap + Bodycare Brands in UAE + GCC 2026-2027 &amp;mdash; Buyer Guide" style="--c:#d4af37">
+                <a href="../resources/Best_D2C_Soap_Bodycare_Brands_UAE_GCC_2026_2027.php" class="blog-card" data-cat="buyer-guides" data-title="Best D2C Soap + Bodycare Brands in UAE + GCC 2026-2027 &amp;amp;mdash; Buyer Guide" style="--c:#d4af37">
                     <div class="bc-tag"><i class="fas fa-gem"></i>Best D2C Brand Buyer Guides</div>
-                    <h3>Best D2C Soap + Bodycare Brands in UAE + GCC 2026-2027 &mdash; Buyer Guide</h3>
+                    <h3>Best D2C Soap + Bodycare Brands in UAE + GCC 2026-2027 &amp;mdash; Buyer Guide</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Top_Sustainable_Fashion_Brands_UK_Europe_2026_2027.php" class="blog-card" data-cat="buyer-guides" data-title="Top Sustainable Fashion Brands in UK + Europe 2026-2027 &amp;mdash; Conscious Buyer Guide" style="--c:#d4af37">
+                <a href="../resources/Top_Sustainable_Fashion_Brands_UK_Europe_2026_2027.php" class="blog-card" data-cat="buyer-guides" data-title="Top Sustainable Fashion Brands in UK + Europe 2026-2027 &amp;amp;mdash; Conscious Buyer Guide" style="--c:#d4af37">
                     <div class="bc-tag"><i class="fas fa-gem"></i>Best D2C Brand Buyer Guides</div>
-                    <h3>Top Sustainable Fashion Brands in UK + Europe 2026-2027 &mdash; Conscious Buyer Guide</h3>
+                    <h3>Top Sustainable Fashion Brands in UK + Europe 2026-2027 &amp;mdash; Conscious Buyer Guide</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Best_D2C_Lab_Grown_Diamond_Brands_India_2026_2027.php" class="blog-card" data-cat="buyer-guides" data-title="Best D2C Lab-Grown Diamond Brands in India 2026-2027 &amp;mdash; Buyer&#x27;s Guide" style="--c:#d4af37">
+                <a href="../resources/Best_D2C_Lab_Grown_Diamond_Brands_India_2026_2027.php" class="blog-card" data-cat="buyer-guides" data-title="Best D2C Lab-Grown Diamond Brands in India 2026-2027 &amp;amp;mdash; Buyer&amp;#x27;s Guide" style="--c:#d4af37">
                     <div class="bc-tag"><i class="fas fa-gem"></i>Best D2C Brand Buyer Guides</div>
-                    <h3>Best D2C Lab-Grown Diamond Brands in India 2026-2027 &mdash; Buyer's Guide</h3>
+                    <h3>Best D2C Lab-Grown Diamond Brands in India 2026-2027 &amp;mdash; Buyer&#x27;s Guide</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Best_Premium_Skincare_Brands_Dubai_UAE_2026_2027.php" class="blog-card" data-cat="guides" data-title="Best Premium Skincare Brands in Dubai + UAE 2026-2027 &amp;mdash; Buyer&#x27;s Guide" style="--c:#0f766e">
+                <a href="../resources/Best_Premium_Skincare_Brands_Dubai_UAE_2026_2027.php" class="blog-card" data-cat="guides" data-title="Best Premium Skincare Brands in Dubai + UAE 2026-2027 &amp;amp;mdash; Buyer&amp;#x27;s Guide" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Best Premium Skincare Brands in Dubai + UAE 2026-2027 &mdash; Buyer's Guide</h3>
+                    <h3>Best Premium Skincare Brands in Dubai + UAE 2026-2027 &amp;mdash; Buyer&#x27;s Guide</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Best_D2C_FMCG_Brands_India_2026_2027.php" class="blog-card" data-cat="buyer-guides" data-title="Best D2C FMCG Brands in India to Watch 2026-2027 &amp;mdash; Buyer + Industry Guide" style="--c:#d4af37">
+                <a href="../resources/Best_D2C_FMCG_Brands_India_2026_2027.php" class="blog-card" data-cat="buyer-guides" data-title="Best D2C FMCG Brands in India to Watch 2026-2027 &amp;amp;mdash; Buyer + Industry Guide" style="--c:#d4af37">
                     <div class="bc-tag"><i class="fas fa-gem"></i>Best D2C Brand Buyer Guides</div>
-                    <h3>Best D2C FMCG Brands in India to Watch 2026-2027 &mdash; Buyer + Industry Guide</h3>
+                    <h3>Best D2C FMCG Brands in India to Watch 2026-2027 &amp;mdash; Buyer + Industry Guide</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -568,17 +808,17 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Best_D2C_Ayurveda_Brands_India_Global_2026_2027.php" class="blog-card" data-cat="buyer-guides" data-title="Best D2C Ayurveda Brands in India + Global 2026-2027 &amp;mdash; Wellness + Beauty Buyer&#x27;s Guide" style="--c:#d4af37">
+                <a href="../resources/Best_D2C_Ayurveda_Brands_India_Global_2026_2027.php" class="blog-card" data-cat="buyer-guides" data-title="Best D2C Ayurveda Brands in India + Global 2026-2027 &amp;amp;mdash; Wellness + Beauty Buyer&amp;#x27;s Guide" style="--c:#d4af37">
                     <div class="bc-tag"><i class="fas fa-gem"></i>Best D2C Brand Buyer Guides</div>
-                    <h3>Best D2C Ayurveda Brands in India + Global 2026-2027 &mdash; Wellness + Beauty Buyer's Guide</h3>
+                    <h3>Best D2C Ayurveda Brands in India + Global 2026-2027 &amp;mdash; Wellness + Beauty Buyer&#x27;s Guide</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Best_D2C_Ethnic_Wear_Brands_India_Diaspora_2026_2027.php" class="blog-card" data-cat="buyer-guides" data-title="Best D2C Ethnic Wear Brands in India + Diaspora 2026-2027 &amp;mdash; Buyer&#x27;s Guide" style="--c:#d4af37">
+                <a href="../resources/Best_D2C_Ethnic_Wear_Brands_India_Diaspora_2026_2027.php" class="blog-card" data-cat="buyer-guides" data-title="Best D2C Ethnic Wear Brands in India + Diaspora 2026-2027 &amp;amp;mdash; Buyer&amp;#x27;s Guide" style="--c:#d4af37">
                     <div class="bc-tag"><i class="fas fa-gem"></i>Best D2C Brand Buyer Guides</div>
-                    <h3>Best D2C Ethnic Wear Brands in India + Diaspora 2026-2027 &mdash; Buyer's Guide</h3>
+                    <h3>Best D2C Ethnic Wear Brands in India + Diaspora 2026-2027 &amp;mdash; Buyer&#x27;s Guide</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -600,9 +840,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/How_to_Launch_D2C_Perfume_Brand_UAE_Dubai_2026_2027.php" class="blog-card" data-cat="founder-guides" data-title="How to Launch a D2C Perfume Brand in UAE + Dubai 2026-2027 &amp;mdash; Complete Founder Guide" style="--c:#ec4899">
+                <a href="../resources/How_to_Launch_D2C_Perfume_Brand_UAE_Dubai_2026_2027.php" class="blog-card" data-cat="founder-guides" data-title="How to Launch a D2C Perfume Brand in UAE + Dubai 2026-2027 &amp;amp;mdash; Complete Founder Guide" style="--c:#ec4899">
                     <div class="bc-tag"><i class="fas fa-rocket"></i>Founder + Launch Guides</div>
-                    <h3>How to Launch a D2C Perfume Brand in UAE + Dubai 2026-2027 &mdash; Complete Founder Guide</h3>
+                    <h3>How to Launch a D2C Perfume Brand in UAE + Dubai 2026-2027 &amp;mdash; Complete Founder Guide</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -640,9 +880,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Top_Real_Estate_Digital_Marketing_Agencies_India_2026_2027.php" class="blog-card" data-cat="buyer-guides" data-title="Top Real Estate Digital Marketing Agencies in India 2026-2027 &amp;mdash; Developer + Broker Guide" style="--c:#d4af37">
+                <a href="../resources/Top_Real_Estate_Digital_Marketing_Agencies_India_2026_2027.php" class="blog-card" data-cat="buyer-guides" data-title="Top Real Estate Digital Marketing Agencies in India 2026-2027 &amp;amp;mdash; Developer + Broker Guide" style="--c:#d4af37">
                     <div class="bc-tag"><i class="fas fa-gem"></i>Best D2C Brand Buyer Guides</div>
-                    <h3>Top Real Estate Digital Marketing Agencies in India 2026-2027 &mdash; Developer + Broker Guide</h3>
+                    <h3>Top Real Estate Digital Marketing Agencies in India 2026-2027 &amp;mdash; Developer + Broker Guide</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -728,9 +968,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Netcore_vs_Insider_vs_CleverTap_D2C_Growth_Platform_Comparison_2026.php" class="blog-card" data-cat="comparisons" data-title="Netcore vs Insider vs CleverTap &amp;mdash; D2C Growth Platform Comparison 2026" style="--c:#dc2626">
+                <a href="../resources/Netcore_vs_Insider_vs_CleverTap_D2C_Growth_Platform_Comparison_2026.php" class="blog-card" data-cat="comparisons" data-title="Netcore vs Insider vs CleverTap &amp;amp;mdash; D2C Growth Platform Comparison 2026" style="--c:#dc2626">
                     <div class="bc-tag"><i class="fas fa-scale-balanced"></i>Brand + Tool Comparisons</div>
-                    <h3>Netcore vs Insider vs CleverTap &mdash; D2C Growth Platform Comparison 2026</h3>
+                    <h3>Netcore vs Insider vs CleverTap &amp;mdash; D2C Growth Platform Comparison 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -744,65 +984,65 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Cure_fit_cult_fit_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="cure.fit + cult.fit Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Cure_fit_cult_fit_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="cure.fit + cult.fit Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>cure.fit + cult.fit Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>cure.fit + cult.fit Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Slurrp_Farm_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Slurrp Farm Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Slurrp_Farm_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Slurrp Farm Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Slurrp Farm Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Slurrp Farm Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/PhysicsWallah_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="PhysicsWallah Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/PhysicsWallah_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="PhysicsWallah Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>PhysicsWallah Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>PhysicsWallah Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/boAt_vs_Nothing_Consumer_Electronics_Comparison_2026.php" class="blog-card" data-cat="comparisons" data-title="boAt vs Nothing &amp;mdash; Consumer Electronics Brand Comparison 2026" style="--c:#dc2626">
+                <a href="../resources/boAt_vs_Nothing_Consumer_Electronics_Comparison_2026.php" class="blog-card" data-cat="comparisons" data-title="boAt vs Nothing &amp;amp;mdash; Consumer Electronics Brand Comparison 2026" style="--c:#dc2626">
                     <div class="bc-tag"><i class="fas fa-scale-balanced"></i>Brand + Tool Comparisons</div>
-                    <h3>boAt vs Nothing &mdash; Consumer Electronics Brand Comparison 2026</h3>
+                    <h3>boAt vs Nothing &amp;mdash; Consumer Electronics Brand Comparison 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/MyGlamm_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="MyGlamm Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/MyGlamm_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="MyGlamm Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>MyGlamm Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>MyGlamm Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/The_Whole_Truth_Foods_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="The Whole Truth Foods Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/The_Whole_Truth_Foods_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="The Whole Truth Foods Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>The Whole Truth Foods Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>The Whole Truth Foods Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Boult_Audio_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Boult Audio Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Boult_Audio_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Boult Audio Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Boult Audio Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Boult Audio Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Blissclub_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="BlissClub Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Blissclub_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="BlissClub Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>BlissClub Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>BlissClub Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -904,65 +1144,65 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Wakefit_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Wakefit Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Wakefit_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Wakefit Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Wakefit Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Wakefit Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Pepperfry_vs_Urban_Ladder_Furniture_Comparison_2026.php" class="blog-card" data-cat="comparisons" data-title="Pepperfry vs Urban Ladder &amp;mdash; Indian Furniture D2C Comparison 2026" style="--c:#dc2626">
+                <a href="../resources/Pepperfry_vs_Urban_Ladder_Furniture_Comparison_2026.php" class="blog-card" data-cat="comparisons" data-title="Pepperfry vs Urban Ladder &amp;amp;mdash; Indian Furniture D2C Comparison 2026" style="--c:#dc2626">
                     <div class="bc-tag"><i class="fas fa-scale-balanced"></i>Brand + Tool Comparisons</div>
-                    <h3>Pepperfry vs Urban Ladder &mdash; Indian Furniture D2C Comparison 2026</h3>
+                    <h3>Pepperfry vs Urban Ladder &amp;mdash; Indian Furniture D2C Comparison 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Sugar_Cosmetics_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Sugar Cosmetics Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Sugar_Cosmetics_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Sugar Cosmetics Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Sugar Cosmetics Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Sugar Cosmetics Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Wow_Skin_Science_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="WOW Skin Science Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Wow_Skin_Science_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="WOW Skin Science Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>WOW Skin Science Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>WOW Skin Science Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Plum_Beauty_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Plum Beauty Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Plum_Beauty_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Plum Beauty Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Plum Beauty Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Plum Beauty Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Kapiva_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Kapiva Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Kapiva_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Kapiva Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Kapiva Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Kapiva Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Zerodha_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Zerodha Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Zerodha_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Zerodha Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Zerodha Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Zerodha Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Furlenco_vs_RentoMojo_Furniture_Rental_Comparison_2026.php" class="blog-card" data-cat="comparisons" data-title="Furlenco vs RentoMojo &amp;mdash; Furniture Rental D2C Comparison 2026" style="--c:#dc2626">
+                <a href="../resources/Furlenco_vs_RentoMojo_Furniture_Rental_Comparison_2026.php" class="blog-card" data-cat="comparisons" data-title="Furlenco vs RentoMojo &amp;amp;mdash; Furniture Rental D2C Comparison 2026" style="--c:#dc2626">
                     <div class="bc-tag"><i class="fas fa-scale-balanced"></i>Brand + Tool Comparisons</div>
-                    <h3>Furlenco vs RentoMojo &mdash; Furniture Rental D2C Comparison 2026</h3>
+                    <h3>Furlenco vs RentoMojo &amp;mdash; Furniture Rental D2C Comparison 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -1032,17 +1272,17 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Klaviyo_vs_Braze_vs_Iterable_D2C_Marketing_Automation_Comparison_2026.php" class="blog-card" data-cat="comparisons" data-title="Klaviyo vs Braze vs Iterable &amp;mdash; D2C Marketing Automation Comparison 2026" style="--c:#dc2626">
+                <a href="../resources/Klaviyo_vs_Braze_vs_Iterable_D2C_Marketing_Automation_Comparison_2026.php" class="blog-card" data-cat="comparisons" data-title="Klaviyo vs Braze vs Iterable &amp;amp;mdash; D2C Marketing Automation Comparison 2026" style="--c:#dc2626">
                     <div class="bc-tag"><i class="fas fa-scale-balanced"></i>Brand + Tool Comparisons</div>
-                    <h3>Klaviyo vs Braze vs Iterable &mdash; D2C Marketing Automation Comparison 2026</h3>
+                    <h3>Klaviyo vs Braze vs Iterable &amp;mdash; D2C Marketing Automation Comparison 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Shopify_vs_BigCommerce_vs_Headless_D2C_Ecommerce_Platform_2026.php" class="blog-card" data-cat="comparisons" data-title="Shopify vs BigCommerce vs Custom Headless &amp;mdash; D2C Ecommerce Platform Comparison 2026" style="--c:#dc2626">
+                <a href="../resources/Shopify_vs_BigCommerce_vs_Headless_D2C_Ecommerce_Platform_2026.php" class="blog-card" data-cat="comparisons" data-title="Shopify vs BigCommerce vs Custom Headless &amp;amp;mdash; D2C Ecommerce Platform Comparison 2026" style="--c:#dc2626">
                     <div class="bc-tag"><i class="fas fa-scale-balanced"></i>Brand + Tool Comparisons</div>
-                    <h3>Shopify vs BigCommerce vs Custom Headless &mdash; D2C Ecommerce Platform Comparison 2026</h3>
+                    <h3>Shopify vs BigCommerce vs Custom Headless &amp;mdash; D2C Ecommerce Platform Comparison 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -1064,65 +1304,65 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Purplle_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Purplle Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Purplle_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Purplle Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Purplle Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Purplle Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Bombay_Sweet_Shop_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Bombay Sweet Shop Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Bombay_Sweet_Shop_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Bombay Sweet Shop Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Bombay Sweet Shop Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Bombay Sweet Shop Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Licious_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Licious Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Licious_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Licious Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Licious Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Licious Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Zomato_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Zomato Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Zomato_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Zomato Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Zomato Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Zomato Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Swiggy_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Swiggy Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Swiggy_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Swiggy Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Swiggy Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Swiggy Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Blinkit_Zepto_Instamart_Quick_Commerce_Comparison_2026.php" class="blog-card" data-cat="comparisons" data-title="Blinkit vs Zepto vs Instamart &amp;mdash; Quick Commerce Comparison 2026" style="--c:#dc2626">
+                <a href="../resources/Blinkit_Zepto_Instamart_Quick_Commerce_Comparison_2026.php" class="blog-card" data-cat="comparisons" data-title="Blinkit vs Zepto vs Instamart &amp;amp;mdash; Quick Commerce Comparison 2026" style="--c:#dc2626">
                     <div class="bc-tag"><i class="fas fa-scale-balanced"></i>Brand + Tool Comparisons</div>
-                    <h3>Blinkit vs Zepto vs Instamart &mdash; Quick Commerce Comparison 2026</h3>
+                    <h3>Blinkit vs Zepto vs Instamart &amp;mdash; Quick Commerce Comparison 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Nykaa_Man_vs_Purplle_Male_Beauty_Comparison_2026.php" class="blog-card" data-cat="comparisons" data-title="Nykaa Man vs Purplle Male Beauty &amp;mdash; Comparison 2026" style="--c:#dc2626">
+                <a href="../resources/Nykaa_Man_vs_Purplle_Male_Beauty_Comparison_2026.php" class="blog-card" data-cat="comparisons" data-title="Nykaa Man vs Purplle Male Beauty &amp;amp;mdash; Comparison 2026" style="--c:#dc2626">
                     <div class="bc-tag"><i class="fas fa-scale-balanced"></i>Brand + Tool Comparisons</div>
-                    <h3>Nykaa Man vs Purplle Male Beauty &mdash; Comparison 2026</h3>
+                    <h3>Nykaa Man vs Purplle Male Beauty &amp;mdash; Comparison 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Nykaa_Fashion_vs_Ajio_vs_Myntra_Comparison_2026.php" class="blog-card" data-cat="comparisons" data-title="Nykaa Fashion vs Ajio vs Myntra &amp;mdash; Indian Fashion E-commerce Comparison 2026" style="--c:#dc2626">
+                <a href="../resources/Nykaa_Fashion_vs_Ajio_vs_Myntra_Comparison_2026.php" class="blog-card" data-cat="comparisons" data-title="Nykaa Fashion vs Ajio vs Myntra &amp;amp;mdash; Indian Fashion E-commerce Comparison 2026" style="--c:#dc2626">
                     <div class="bc-tag"><i class="fas fa-scale-balanced"></i>Brand + Tool Comparisons</div>
-                    <h3>Nykaa Fashion vs Ajio vs Myntra &mdash; Indian Fashion E-commerce Comparison 2026</h3>
+                    <h3>Nykaa Fashion vs Ajio vs Myntra &amp;mdash; Indian Fashion E-commerce Comparison 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -1224,65 +1464,65 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Vahdam_Teas_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Vahdam Teas Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Vahdam_Teas_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Vahdam Teas Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Vahdam Teas Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Vahdam Teas Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Sleepy_Owl_Coffee_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Sleepy Owl Coffee Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Sleepy_Owl_Coffee_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Sleepy Owl Coffee Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Sleepy Owl Coffee Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Sleepy Owl Coffee Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/The_Man_Company_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="The Man Company Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/The_Man_Company_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="The Man Company Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>The Man Company Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>The Man Company Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Ustraa_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Ustraa Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Ustraa_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Ustraa Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Ustraa Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Ustraa Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Chai_Point_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Chai Point Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Chai_Point_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Chai Point Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Chai Point Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Chai Point Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Yoga_Bar_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Yoga Bar Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Yoga_Bar_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Yoga Bar Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Yoga Bar Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Yoga Bar Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/boAt_vs_Noise_Consumer_Electronics_Comparison_2026.php" class="blog-card" data-cat="comparisons" data-title="boAt vs Noise &amp;mdash; Consumer Electronics D2C Comparison 2026" style="--c:#dc2626">
+                <a href="../resources/boAt_vs_Noise_Consumer_Electronics_Comparison_2026.php" class="blog-card" data-cat="comparisons" data-title="boAt vs Noise &amp;amp;mdash; Consumer Electronics D2C Comparison 2026" style="--c:#dc2626">
                     <div class="bc-tag"><i class="fas fa-scale-balanced"></i>Brand + Tool Comparisons</div>
-                    <h3>boAt vs Noise &mdash; Consumer Electronics D2C Comparison 2026</h3>
+                    <h3>boAt vs Noise &amp;mdash; Consumer Electronics D2C Comparison 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Nykaa_vs_Purplle_Beauty_Marketplace_Comparison_2026.php" class="blog-card" data-cat="comparisons" data-title="Nykaa vs Purplle &amp;mdash; Indian Beauty Marketplace Comparison 2026" style="--c:#dc2626">
+                <a href="../resources/Nykaa_vs_Purplle_Beauty_Marketplace_Comparison_2026.php" class="blog-card" data-cat="comparisons" data-title="Nykaa vs Purplle &amp;amp;mdash; Indian Beauty Marketplace Comparison 2026" style="--c:#dc2626">
                     <div class="bc-tag"><i class="fas fa-scale-balanced"></i>Brand + Tool Comparisons</div>
-                    <h3>Nykaa vs Purplle &mdash; Indian Beauty Marketplace Comparison 2026</h3>
+                    <h3>Nykaa vs Purplle &amp;mdash; Indian Beauty Marketplace Comparison 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -1384,65 +1624,65 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Bombay_Shirt_Company_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Bombay Shirt Company Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Bombay_Shirt_Company_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Bombay Shirt Company Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Bombay Shirt Company Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Bombay Shirt Company Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/FabAlley_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="FabAlley Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/FabAlley_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="FabAlley Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>FabAlley Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>FabAlley Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Skybags_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Skybags Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Skybags_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Skybags Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Skybags Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Skybags Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Wow_Momo_Growth_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Wow! Momo Growth Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Wow_Momo_Growth_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Wow! Momo Growth Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Wow! Momo Growth Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Wow! Momo Growth Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Rebel_Foods_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Rebel Foods (Faasos + Ovenstory) Marketing Strategy &amp;mdash; Case Study 2026" style="--c:#f97316">
+                <a href="../resources/Rebel_Foods_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Rebel Foods (Faasos + Ovenstory) Marketing Strategy &amp;amp;mdash; Case Study 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Rebel Foods (Faasos + Ovenstory) Marketing Strategy &mdash; Case Study 2026</h3>
+                    <h3>Rebel Foods (Faasos + Ovenstory) Marketing Strategy &amp;mdash; Case Study 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Country_Delight_Growth_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Country Delight Growth Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Country_Delight_Growth_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Country Delight Growth Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Country Delight Growth Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Country Delight Growth Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Traya_Health_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Traya Health Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Traya_Health_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Traya Health Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Traya Health Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Traya Health Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Zivame_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Zivame Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Zivame_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Zivame Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Zivame Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Zivame Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -1496,9 +1736,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Mothers_Day_Fathers_Day_Marketing_Playbook_D2C_2026_2027.php" class="blog-card" data-cat="seasonal" data-title="Mother&amp;#39;s Day + Father&amp;#39;s Day Marketing Playbook for D2C Brands 2026-2027" style="--c:#16a34a">
+                <a href="../resources/Mothers_Day_Fathers_Day_Marketing_Playbook_D2C_2026_2027.php" class="blog-card" data-cat="seasonal" data-title="Mother&amp;amp;#39;s Day + Father&amp;amp;#39;s Day Marketing Playbook for D2C Brands 2026-2027" style="--c:#16a34a">
                     <div class="bc-tag"><i class="fas fa-calendar-star"></i>Seasonal Playbooks</div>
-                    <h3>Mother&#39;s Day + Father&#39;s Day Marketing Playbook for D2C Brands 2026-2027</h3>
+                    <h3>Mother&amp;#39;s Day + Father&amp;#39;s Day Marketing Playbook for D2C Brands 2026-2027</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -1544,65 +1784,65 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Beardo_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Beardo Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Beardo_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Beardo Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Beardo Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Beardo Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Neemans_Sustainable_Footwear_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Neeman&amp;#39;s Sustainable Footwear &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Neemans_Sustainable_Footwear_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Neeman&amp;amp;#39;s Sustainable Footwear &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Neeman&#39;s Sustainable Footwear &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Neeman&amp;#39;s Sustainable Footwear &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Man_Matters_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Man Matters Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Man_Matters_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Man Matters Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Man Matters Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Man Matters Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Freakins_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Freakins Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Freakins_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Freakins Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Freakins Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Freakins Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Aqualogica_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Aqualogica Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Aqualogica_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Aqualogica Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Aqualogica Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Aqualogica Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Kama_Ayurveda_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Kama Ayurveda Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Kama_Ayurveda_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Kama Ayurveda Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Kama Ayurveda Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Kama Ayurveda Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Beco_Sustainable_D2C_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Beco Sustainable D2C &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Beco_Sustainable_D2C_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Beco Sustainable D2C &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Beco Sustainable D2C &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Beco Sustainable D2C &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Titan_Fastrack_Digital_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Titan Fastrack Digital Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Titan_Fastrack_Digital_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Titan Fastrack Digital Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Titan Fastrack Digital Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Titan Fastrack Digital Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -1680,17 +1920,17 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Klaviyo_vs_WebEngage_vs_MoEngage_D2C_Marketing_Automation_Comparison_2026.php" class="blog-card" data-cat="comparisons" data-title="Klaviyo vs WebEngage vs MoEngage &amp;mdash; D2C Marketing Automation Comparison 2026" style="--c:#dc2626">
+                <a href="../resources/Klaviyo_vs_WebEngage_vs_MoEngage_D2C_Marketing_Automation_Comparison_2026.php" class="blog-card" data-cat="comparisons" data-title="Klaviyo vs WebEngage vs MoEngage &amp;amp;mdash; D2C Marketing Automation Comparison 2026" style="--c:#dc2626">
                     <div class="bc-tag"><i class="fas fa-scale-balanced"></i>Brand + Tool Comparisons</div>
-                    <h3>Klaviyo vs WebEngage vs MoEngage &mdash; D2C Marketing Automation Comparison 2026</h3>
+                    <h3>Klaviyo vs WebEngage vs MoEngage &amp;mdash; D2C Marketing Automation Comparison 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Meta_Advantage_Plus_vs_Google_PMax_D2C_Comparison_2026.php" class="blog-card" data-cat="comparisons" data-title="Meta Advantage+ vs Google Performance Max &amp;mdash; D2C Comparison 2026-2027" style="--c:#dc2626">
+                <a href="../resources/Meta_Advantage_Plus_vs_Google_PMax_D2C_Comparison_2026.php" class="blog-card" data-cat="comparisons" data-title="Meta Advantage+ vs Google Performance Max &amp;amp;mdash; D2C Comparison 2026-2027" style="--c:#dc2626">
                     <div class="bc-tag"><i class="fas fa-scale-balanced"></i>Brand + Tool Comparisons</div>
-                    <h3>Meta Advantage+ vs Google Performance Max &mdash; D2C Comparison 2026-2027</h3>
+                    <h3>Meta Advantage+ vs Google Performance Max &amp;mdash; D2C Comparison 2026-2027</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -1704,49 +1944,49 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Farmley_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Farmley Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Farmley_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Farmley Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Farmley Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Farmley Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Yoga_Bar_Growth_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Yoga Bar (Sprout Life Foods) Growth Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Yoga_Bar_Growth_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Yoga Bar (Sprout Life Foods) Growth Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Yoga Bar (Sprout Life Foods) Growth Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Yoga Bar (Sprout Life Foods) Growth Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Rebel_Foods_Faasos_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Rebel Foods (Faasos + Ovenstory) Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Rebel_Foods_Faasos_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Rebel Foods (Faasos + Ovenstory) Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Rebel Foods (Faasos + Ovenstory) Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Rebel Foods (Faasos + Ovenstory) Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Wow_Momo_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Wow! Momo Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Wow_Momo_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Wow! Momo Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Wow! Momo Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Wow! Momo Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Country_Delight_Milk_Dairy_Growth_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Country Delight (Milk + Dairy) Growth Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Country_Delight_Milk_Dairy_Growth_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Country Delight (Milk + Dairy) Growth Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Country Delight (Milk + Dairy) Growth Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Country Delight (Milk + Dairy) Growth Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Fabelia_Jewelry_D2C_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Fabelia Jewelry D2C Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Fabelia_Jewelry_D2C_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Fabelia Jewelry D2C Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Fabelia Jewelry D2C Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Fabelia Jewelry D2C Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -1800,9 +2040,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Valentines_Day_Marketing_Playbook_D2C_2026_2027.php" class="blog-card" data-cat="seasonal" data-title="Valentine&amp;#39;s Day Marketing Playbook for D2C Brands 2026-2027" style="--c:#16a34a">
+                <a href="../resources/Valentines_Day_Marketing_Playbook_D2C_2026_2027.php" class="blog-card" data-cat="seasonal" data-title="Valentine&amp;amp;#39;s Day Marketing Playbook for D2C Brands 2026-2027" style="--c:#16a34a">
                     <div class="bc-tag"><i class="fas fa-calendar-star"></i>Seasonal Playbooks</div>
-                    <h3>Valentine&#39;s Day Marketing Playbook for D2C Brands 2026-2027</h3>
+                    <h3>Valentine&amp;#39;s Day Marketing Playbook for D2C Brands 2026-2027</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -1848,65 +2088,65 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/WOW_Skin_Science_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="WOW Skin Science Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/WOW_Skin_Science_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="WOW Skin Science Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>WOW Skin Science Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>WOW Skin Science Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Cure_fit_Cult_fit_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Cure.fit (Cult.fit) Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Cure_fit_Cult_fit_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Cure.fit (Cult.fit) Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Cure.fit (Cult.fit) Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Cure.fit (Cult.fit) Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Meesho_Growth_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Meesho Growth Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Meesho_Growth_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Meesho Growth Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Meesho Growth Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Meesho Growth Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Nothing_Carl_Pei_Brand_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Nothing (Carl Pei) Brand Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Nothing_Carl_Pei_Brand_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Nothing (Carl Pei) Brand Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Nothing (Carl Pei) Brand Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Nothing (Carl Pei) Brand Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/iD_Fresh_Food_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="iD Fresh Food Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/iD_Fresh_Food_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="iD Fresh Food Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>iD Fresh Food Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>iD Fresh Food Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Chumbak_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Chumbak Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Chumbak_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Chumbak Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Chumbak Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Chumbak Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Mokobara_vs_Nasher_Miles_Luggage_Comparison_2026.php" class="blog-card" data-cat="comparisons" data-title="Mokobara vs Nasher Miles &amp;mdash; Premium Indian Luggage Comparison 2026" style="--c:#dc2626">
+                <a href="../resources/Mokobara_vs_Nasher_Miles_Luggage_Comparison_2026.php" class="blog-card" data-cat="comparisons" data-title="Mokobara vs Nasher Miles &amp;amp;mdash; Premium Indian Luggage Comparison 2026" style="--c:#dc2626">
                     <div class="bc-tag"><i class="fas fa-scale-balanced"></i>Brand + Tool Comparisons</div>
-                    <h3>Mokobara vs Nasher Miles &mdash; Premium Indian Luggage Comparison 2026</h3>
+                    <h3>Mokobara vs Nasher Miles &amp;mdash; Premium Indian Luggage Comparison 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Wakao_Foods_Plant_Based_Growth_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Wakao Foods (Plant-Based) Growth Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Wakao_Foods_Plant_Based_Growth_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Wakao Foods (Plant-Based) Growth Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Wakao Foods (Plant-Based) Growth Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Wakao Foods (Plant-Based) Growth Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -2016,49 +2256,49 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Rare_Rabbit_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Rare Rabbit Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Rare_Rabbit_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Rare Rabbit Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Rare Rabbit Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Rare Rabbit Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Libas_Digital_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Libas Digital Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Libas_Digital_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Libas Digital Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Libas Digital Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Libas Digital Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Baggit_Brand_Marketing_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Baggit Brand Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Baggit_Brand_Marketing_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Baggit Brand Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Baggit Brand Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Baggit Brand Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Assembly_Travel_Brand_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Assembly Travel Brand Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Assembly_Travel_Brand_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Assembly Travel Brand Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Assembly Travel Brand Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Assembly Travel Brand Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/The_Bear_House_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="The Bear House Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/The_Bear_House_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="The Bear House Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>The Bear House Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>The Bear House Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/HRX_by_Hrithik_Roshan_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="HRX by Hrithik Roshan Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/HRX_by_Hrithik_Roshan_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="HRX by Hrithik Roshan Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>HRX by Hrithik Roshan Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>HRX by Hrithik Roshan Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -2112,33 +2352,33 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Successful_D2C_Brands_Case_Study_Roundup_India_2026.php" class="blog-card" data-cat="case-studies" data-title="Successful D2C Brands in India &amp;mdash; Case Study Roundup 2026" style="--c:#f97316">
+                <a href="../resources/Successful_D2C_Brands_Case_Study_Roundup_India_2026.php" class="blog-card" data-cat="case-studies" data-title="Successful D2C Brands in India &amp;amp;mdash; Case Study Roundup 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Successful D2C Brands in India &mdash; Case Study Roundup 2026</h3>
+                    <h3>Successful D2C Brands in India &amp;mdash; Case Study Roundup 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Snitch_vs_Bewakoof_Menswear_D2C_Comparison_2026.php" class="blog-card" data-cat="comparisons" data-title="Snitch vs Bewakoof &amp;mdash; Menswear D2C Comparison 2026" style="--c:#dc2626">
+                <a href="../resources/Snitch_vs_Bewakoof_Menswear_D2C_Comparison_2026.php" class="blog-card" data-cat="comparisons" data-title="Snitch vs Bewakoof &amp;amp;mdash; Menswear D2C Comparison 2026" style="--c:#dc2626">
                     <div class="bc-tag"><i class="fas fa-scale-balanced"></i>Brand + Tool Comparisons</div>
-                    <h3>Snitch vs Bewakoof &mdash; Menswear D2C Comparison 2026</h3>
+                    <h3>Snitch vs Bewakoof &amp;mdash; Menswear D2C Comparison 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Zara_vs_HM_Fast_Fashion_Strategy_Comparison_2026.php" class="blog-card" data-cat="comparisons" data-title="Zara vs H&amp;amp;M &amp;mdash; Fast Fashion Strategy Comparison 2026" style="--c:#dc2626">
+                <a href="../resources/Zara_vs_HM_Fast_Fashion_Strategy_Comparison_2026.php" class="blog-card" data-cat="comparisons" data-title="Zara vs H&amp;amp;amp;M &amp;amp;mdash; Fast Fashion Strategy Comparison 2026" style="--c:#dc2626">
                     <div class="bc-tag"><i class="fas fa-scale-balanced"></i>Brand + Tool Comparisons</div>
-                    <h3>Zara vs H&amp;M &mdash; Fast Fashion Strategy Comparison 2026</h3>
+                    <h3>Zara vs H&amp;amp;M &amp;mdash; Fast Fashion Strategy Comparison 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/WhatsApp_Marketing_D2C_Complete_Guide_2026_2027.php" class="blog-card" data-cat="guides" data-title="WhatsApp Marketing for D2C Brands &amp;mdash; Complete Guide 2026-2027" style="--c:#0f766e">
+                <a href="../resources/WhatsApp_Marketing_D2C_Complete_Guide_2026_2027.php" class="blog-card" data-cat="guides" data-title="WhatsApp Marketing for D2C Brands &amp;amp;mdash; Complete Guide 2026-2027" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>WhatsApp Marketing for D2C Brands &mdash; Complete Guide 2026-2027</h3>
+                    <h3>WhatsApp Marketing for D2C Brands &amp;mdash; Complete Guide 2026-2027</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -2160,65 +2400,65 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/First_90_Days_D2C_Brand_Launch_2026.php" class="blog-card" data-cat="guides" data-title="First 90 Days of a D2C Brand Launch &amp;mdash; Practical Playbook 2026-2027" style="--c:#0f766e">
+                <a href="../resources/First_90_Days_D2C_Brand_Launch_2026.php" class="blog-card" data-cat="guides" data-title="First 90 Days of a D2C Brand Launch &amp;amp;mdash; Practical Playbook 2026-2027" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>First 90 Days of a D2C Brand Launch &mdash; Practical Playbook 2026-2027</h3>
+                    <h3>First 90 Days of a D2C Brand Launch &amp;mdash; Practical Playbook 2026-2027</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Bewakoof_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Bewakoof Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Bewakoof_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Bewakoof Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Bewakoof Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Bewakoof Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Mokobara_Growth_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Mokobara Growth Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Mokobara_Growth_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Mokobara Growth Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Mokobara Growth Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Mokobara Growth Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/SleepyCat_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="SleepyCat Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/SleepyCat_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="SleepyCat Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>SleepyCat Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>SleepyCat Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Slurrp_Farm_Growth_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Slurrp Farm Growth Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Slurrp_Farm_Growth_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Slurrp Farm Growth Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Slurrp Farm Growth Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Slurrp Farm Growth Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Rage_Coffee_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Rage Coffee Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Rage_Coffee_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Rage Coffee Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Rage Coffee Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Rage Coffee Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Minimalist_Be_Minimalist_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Minimalist (Be Minimalist) Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Minimalist_Be_Minimalist_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Minimalist (Be Minimalist) Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Minimalist (Be Minimalist) Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Minimalist (Be Minimalist) Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Zouk_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Zouk Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Zouk_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Zouk Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Zouk Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Zouk Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -2256,17 +2496,17 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Best_Marketing_Agency_Food_Beverage_Brands_India_Global_2026.php" class="blog-card" data-cat="category-agencies" data-title="Best Marketing Agency for Food &amp;amp; Beverage Brands 2026-2027" style="--c:#7c3aed">
+                <a href="../resources/Best_Marketing_Agency_Food_Beverage_Brands_India_Global_2026.php" class="blog-card" data-cat="category-agencies" data-title="Best Marketing Agency for Food &amp;amp;amp; Beverage Brands 2026-2027" style="--c:#7c3aed">
                     <div class="bc-tag"><i class="fas fa-briefcase"></i>Category Agency Guides</div>
-                    <h3>Best Marketing Agency for Food &amp; Beverage Brands 2026-2027</h3>
+                    <h3>Best Marketing Agency for Food &amp;amp; Beverage Brands 2026-2027</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Best_Marketing_Agency_Health_Wellness_Brands_India_Global_2026.php" class="blog-card" data-cat="category-agencies" data-title="Best Marketing Agency for Health &amp;amp; Wellness Brands 2026-2027" style="--c:#7c3aed">
+                <a href="../resources/Best_Marketing_Agency_Health_Wellness_Brands_India_Global_2026.php" class="blog-card" data-cat="category-agencies" data-title="Best Marketing Agency for Health &amp;amp;amp; Wellness Brands 2026-2027" style="--c:#7c3aed">
                     <div class="bc-tag"><i class="fas fa-briefcase"></i>Category Agency Guides</div>
-                    <h3>Best Marketing Agency for Health &amp; Wellness Brands 2026-2027</h3>
+                    <h3>Best Marketing Agency for Health &amp;amp; Wellness Brands 2026-2027</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -2296,9 +2536,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Marketplace_Growth_Amazon_Flipkart_Nykaa_Myntra_2026.php" class="blog-card" data-cat="guides" data-title="Marketplace Growth Strategy &amp;mdash; Amazon, Flipkart, Nykaa, Myntra 2026-2027" style="--c:#0f766e">
+                <a href="../resources/Marketplace_Growth_Amazon_Flipkart_Nykaa_Myntra_2026.php" class="blog-card" data-cat="guides" data-title="Marketplace Growth Strategy &amp;amp;mdash; Amazon, Flipkart, Nykaa, Myntra 2026-2027" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Marketplace Growth Strategy &mdash; Amazon, Flipkart, Nykaa, Myntra 2026-2027</h3>
+                    <h3>Marketplace Growth Strategy &amp;mdash; Amazon, Flipkart, Nykaa, Myntra 2026-2027</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -2320,57 +2560,57 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Puma_India_Digital_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Puma India Digital Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Puma_India_Digital_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Puma India Digital Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Puma India Digital Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Puma India Digital Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Snitch_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Snitch Marketing Strategy &amp;mdash; How India&amp;#39;s Fastest-Growing Menswear D2C Scaled 2026" style="--c:#f97316">
+                <a href="../resources/Snitch_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Snitch Marketing Strategy &amp;amp;mdash; How India&amp;amp;#39;s Fastest-Growing Menswear D2C Scaled 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Snitch Marketing Strategy &mdash; How India&#39;s Fastest-Growing Menswear D2C Scaled 2026</h3>
+                    <h3>Snitch Marketing Strategy &amp;mdash; How India&amp;#39;s Fastest-Growing Menswear D2C Scaled 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/The_Souled_Store_Growth_Story_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="The Souled Store Growth Story &amp;mdash; Case Study 2026" style="--c:#f97316">
+                <a href="../resources/The_Souled_Store_Growth_Story_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="The Souled Store Growth Story &amp;amp;mdash; Case Study 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>The Souled Store Growth Story &mdash; Case Study 2026</h3>
+                    <h3>The Souled Store Growth Story &amp;mdash; Case Study 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Bombay_Shaving_Company_Growth_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Bombay Shaving Company Growth Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Bombay_Shaving_Company_Growth_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Bombay Shaving Company Growth Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Bombay Shaving Company Growth Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Bombay Shaving Company Growth Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Forest_Essentials_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Forest Essentials Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Forest_Essentials_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Forest Essentials Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Forest Essentials Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Forest Essentials Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Plum_Goodness_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Plum Goodness Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Plum_Goodness_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Plum Goodness Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Plum Goodness Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Plum Goodness Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/MCaffeine_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="MCaffeine Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/MCaffeine_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="MCaffeine Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>MCaffeine Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>MCaffeine Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -2448,9 +2688,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Influencer_Marketing_Cost_India_2026_2027.php" class="blog-card" data-cat="strategy" data-title="Influencer Marketing Cost in India 2026-2027 &amp;mdash; Complete Rate Card" style="--c:#1e40af">
+                <a href="../resources/Influencer_Marketing_Cost_India_2026_2027.php" class="blog-card" data-cat="strategy" data-title="Influencer Marketing Cost in India 2026-2027 &amp;amp;mdash; Complete Rate Card" style="--c:#1e40af">
                     <div class="bc-tag"><i class="fas fa-chart-line"></i>Strategy + Cost + Analytics</div>
-                    <h3>Influencer Marketing Cost in India 2026-2027 &mdash; Complete Rate Card</h3>
+                    <h3>Influencer Marketing Cost in India 2026-2027 &amp;mdash; Complete Rate Card</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -2464,9 +2704,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Conversion_Rate_Optimization_CRO_D2C_Guide_2026.php" class="blog-card" data-cat="guides" data-title="Conversion Rate Optimization (CRO) for D2C Brands &amp;mdash; 2026-2027 Guide" style="--c:#0f766e">
+                <a href="../resources/Conversion_Rate_Optimization_CRO_D2C_Guide_2026.php" class="blog-card" data-cat="guides" data-title="Conversion Rate Optimization (CRO) for D2C Brands &amp;amp;mdash; 2026-2027 Guide" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Conversion Rate Optimization (CRO) for D2C Brands &mdash; 2026-2027 Guide</h3>
+                    <h3>Conversion Rate Optimization (CRO) for D2C Brands &amp;mdash; 2026-2027 Guide</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -2480,49 +2720,49 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Marketing_Strategy_Adidas_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Marketing Strategy of Adidas &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Marketing_Strategy_Adidas_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Marketing Strategy of Adidas &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Marketing Strategy of Adidas &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Marketing Strategy of Adidas &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Nike_vs_Adidas_Digital_Marketing_Strategy_Comparison_2026.php" class="blog-card" data-cat="case-studies" data-title="Nike vs Adidas &amp;mdash; Digital Marketing Strategy Comparison 2026" style="--c:#f97316">
+                <a href="../resources/Nike_vs_Adidas_Digital_Marketing_Strategy_Comparison_2026.php" class="blog-card" data-cat="case-studies" data-title="Nike vs Adidas &amp;amp;mdash; Digital Marketing Strategy Comparison 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Nike vs Adidas &mdash; Digital Marketing Strategy Comparison 2026</h3>
+                    <h3>Nike vs Adidas &amp;mdash; Digital Marketing Strategy Comparison 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/How_Zara_Uses_Digital_Marketing_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="How Zara Uses Digital Marketing &amp;mdash; Case Study 2026" style="--c:#f97316">
+                <a href="../resources/How_Zara_Uses_Digital_Marketing_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="How Zara Uses Digital Marketing &amp;amp;mdash; Case Study 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>How Zara Uses Digital Marketing &mdash; Case Study 2026</h3>
+                    <h3>How Zara Uses Digital Marketing &amp;mdash; Case Study 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/HM_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="H&amp;amp;M Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/HM_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="H&amp;amp;amp;M Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>H&amp;M Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>H&amp;amp;M Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Wakefit_D2C_Journey_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Wakefit&amp;#39;s D2C Journey &amp;mdash; Case Study &amp;amp; Lessons for Furniture D2C 2026" style="--c:#f97316">
+                <a href="../resources/Wakefit_D2C_Journey_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Wakefit&amp;amp;#39;s D2C Journey &amp;amp;mdash; Case Study &amp;amp;amp; Lessons for Furniture D2C 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Wakefit&#39;s D2C Journey &mdash; Case Study &amp; Lessons for Furniture D2C 2026</h3>
+                    <h3>Wakefit&amp;#39;s D2C Journey &amp;mdash; Case Study &amp;amp; Lessons for Furniture D2C 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Blue_Tokai_Coffee_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Blue Tokai Coffee Marketing Strategy &amp;mdash; Case Study 2026" style="--c:#f97316">
+                <a href="../resources/Blue_Tokai_Coffee_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Blue Tokai Coffee Marketing Strategy &amp;amp;mdash; Case Study 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Blue Tokai Coffee Marketing Strategy &mdash; Case Study 2026</h3>
+                    <h3>Blue Tokai Coffee Marketing Strategy &amp;mdash; Case Study 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -2568,9 +2808,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Best_Marketing_Agency_Home_Decor_Brands_India_Global_2026.php" class="blog-card" data-cat="category-agencies" data-title="Best Marketing Agency for Home D&amp;eacute;cor Brands 2026-2027" style="--c:#7c3aed">
+                <a href="../resources/Best_Marketing_Agency_Home_Decor_Brands_India_Global_2026.php" class="blog-card" data-cat="category-agencies" data-title="Best Marketing Agency for Home D&amp;amp;eacute;cor Brands 2026-2027" style="--c:#7c3aed">
                     <div class="bc-tag"><i class="fas fa-briefcase"></i>Category Agency Guides</div>
-                    <h3>Best Marketing Agency for Home D&eacute;cor Brands 2026-2027</h3>
+                    <h3>Best Marketing Agency for Home D&amp;eacute;cor Brands 2026-2027</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -2600,17 +2840,17 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Best_Marketing_Agency_Organic_Sustainable_Brands_2026.php" class="blog-card" data-cat="category-agencies" data-title="Best Marketing Agency for Organic &amp;amp; Sustainable Brands 2026-2027" style="--c:#7c3aed">
+                <a href="../resources/Best_Marketing_Agency_Organic_Sustainable_Brands_2026.php" class="blog-card" data-cat="category-agencies" data-title="Best Marketing Agency for Organic &amp;amp;amp; Sustainable Brands 2026-2027" style="--c:#7c3aed">
                     <div class="bc-tag"><i class="fas fa-briefcase"></i>Category Agency Guides</div>
-                    <h3>Best Marketing Agency for Organic &amp; Sustainable Brands 2026-2027</h3>
+                    <h3>Best Marketing Agency for Organic &amp;amp; Sustainable Brands 2026-2027</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Facebook_Ads_Cost_D2C_Brands_India_2026_2027.php" class="blog-card" data-cat="strategy" data-title="Facebook Ads Cost for D2C Brands in India 2026-2027 &amp;mdash; Benchmarks + CPM / CPC / CPI" style="--c:#1e40af">
+                <a href="../resources/Facebook_Ads_Cost_D2C_Brands_India_2026_2027.php" class="blog-card" data-cat="strategy" data-title="Facebook Ads Cost for D2C Brands in India 2026-2027 &amp;amp;mdash; Benchmarks + CPM / CPC / CPI" style="--c:#1e40af">
                     <div class="bc-tag"><i class="fas fa-chart-line"></i>Strategy + Cost + Analytics</div>
-                    <h3>Facebook Ads Cost for D2C Brands in India 2026-2027 &mdash; Benchmarks + CPM / CPC / CPI</h3>
+                    <h3>Facebook Ads Cost for D2C Brands in India 2026-2027 &amp;mdash; Benchmarks + CPM / CPC / CPI</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -2624,9 +2864,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Customer_Acquisition_Cost_CAC_By_Industry_2026.php" class="blog-card" data-cat="strategy" data-title="Customer Acquisition Cost (CAC) by Industry &amp;mdash; 2026-2027 Benchmarks" style="--c:#1e40af">
+                <a href="../resources/Customer_Acquisition_Cost_CAC_By_Industry_2026.php" class="blog-card" data-cat="strategy" data-title="Customer Acquisition Cost (CAC) by Industry &amp;amp;mdash; 2026-2027 Benchmarks" style="--c:#1e40af">
                     <div class="bc-tag"><i class="fas fa-chart-line"></i>Strategy + Cost + Analytics</div>
-                    <h3>Customer Acquisition Cost (CAC) by Industry &mdash; 2026-2027 Benchmarks</h3>
+                    <h3>Customer Acquisition Cost (CAC) by Industry &amp;mdash; 2026-2027 Benchmarks</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -2640,281 +2880,281 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Scaling_D2C_Brand_10_Lakh_10_Crore_2026.php" class="blog-card" data-cat="guides" data-title="Scaling a D2C Brand from &amp;#8377;10 Lakhs to &amp;#8377;10 Crores &amp;mdash; The Playbook 2026-2027" style="--c:#0f766e">
+                <a href="../resources/Scaling_D2C_Brand_10_Lakh_10_Crore_2026.php" class="blog-card" data-cat="guides" data-title="Scaling a D2C Brand from &amp;amp;#8377;10 Lakhs to &amp;amp;#8377;10 Crores &amp;amp;mdash; The Playbook 2026-2027" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Scaling a D2C Brand from &#8377;10 Lakhs to &#8377;10 Crores &mdash; The Playbook 2026-2027</h3>
+                    <h3>Scaling a D2C Brand from &amp;#8377;10 Lakhs to &amp;#8377;10 Crores &amp;mdash; The Playbook 2026-2027</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/How_Nike_Built_Global_D2C_Brand_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="How Nike Built a Global D2C Brand &amp;mdash; Case Study &amp;amp; Lessons for D2C Founders 2026" style="--c:#f97316">
+                <a href="../resources/How_Nike_Built_Global_D2C_Brand_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="How Nike Built a Global D2C Brand &amp;amp;mdash; Case Study &amp;amp;amp; Lessons for D2C Founders 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>How Nike Built a Global D2C Brand &mdash; Case Study &amp; Lessons for D2C Founders 2026</h3>
+                    <h3>How Nike Built a Global D2C Brand &amp;mdash; Case Study &amp;amp; Lessons for D2C Founders 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/How_Nykaa_Built_India_Largest_Beauty_Brand_2026.php" class="blog-card" data-cat="guides" data-title="How Nykaa Built India&amp;#39;s Largest Beauty Brand &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#0f766e">
+                <a href="../resources/How_Nykaa_Built_India_Largest_Beauty_Brand_2026.php" class="blog-card" data-cat="guides" data-title="How Nykaa Built India&amp;amp;#39;s Largest Beauty Brand &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>How Nykaa Built India&#39;s Largest Beauty Brand &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>How Nykaa Built India&amp;#39;s Largest Beauty Brand &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Mamaearth_Digital_Growth_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Mamaearth&amp;#39;s Digital Growth Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Mamaearth_Digital_Growth_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Mamaearth&amp;amp;#39;s Digital Growth Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Mamaearth&#39;s Digital Growth Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Mamaearth&amp;#39;s Digital Growth Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/boAt_Growth_Strategy_Marketing_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="boAt&amp;#39;s Growth Strategy &amp;mdash; How a Consumer Electronics Brand Became India&amp;#39;s #1 Wearables Player 2026" style="--c:#f97316">
+                <a href="../resources/boAt_Growth_Strategy_Marketing_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="boAt&amp;amp;#39;s Growth Strategy &amp;amp;mdash; How a Consumer Electronics Brand Became India&amp;amp;#39;s #1 Wearables Player 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>boAt&#39;s Growth Strategy &mdash; How a Consumer Electronics Brand Became India&#39;s #1 Wearables Player 2026</h3>
+                    <h3>boAt&amp;#39;s Growth Strategy &amp;mdash; How a Consumer Electronics Brand Became India&amp;#39;s #1 Wearables Player 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Lenskart_Digital_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Lenskart&amp;#39;s Digital Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026" style="--c:#f97316">
+                <a href="../resources/Lenskart_Digital_Marketing_Strategy_Case_Study_2026.php" class="blog-card" data-cat="case-studies" data-title="Lenskart&amp;amp;#39;s Digital Marketing Strategy &amp;amp;mdash; Case Study &amp;amp;amp; Lessons 2026" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Lenskart&#39;s Digital Marketing Strategy &mdash; Case Study &amp; Lessons 2026</h3>
+                    <h3>Lenskart&amp;#39;s Digital Marketing Strategy &amp;mdash; Case Study &amp;amp; Lessons 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Gifting_D2C_India_UAE_Global_Guide_2026.php" class="blog-card" data-cat="guides" data-title="Gifting D2C &amp;mdash; India, UAE &amp;amp; Global Market Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Gifting_D2C_India_UAE_Global_Guide_2026.php" class="blog-card" data-cat="guides" data-title="Gifting D2C &amp;amp;mdash; India, UAE &amp;amp;amp; Global Market Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Gifting D2C &mdash; India, UAE &amp; Global Market Guide 2026</h3>
+                    <h3>Gifting D2C &amp;mdash; India, UAE &amp;amp; Global Market Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Gold_vs_Diamond_Jewelry_D2C_Strategy_2026.php" class="blog-card" data-cat="comparisons" data-title="Gold vs Diamond Jewelry D2C &amp;mdash; Strategy Guide 2026" style="--c:#dc2626">
+                <a href="../resources/Gold_vs_Diamond_Jewelry_D2C_Strategy_2026.php" class="blog-card" data-cat="comparisons" data-title="Gold vs Diamond Jewelry D2C &amp;amp;mdash; Strategy Guide 2026" style="--c:#dc2626">
                     <div class="bc-tag"><i class="fas fa-scale-balanced"></i>Brand + Tool Comparisons</div>
-                    <h3>Gold vs Diamond Jewelry D2C &mdash; Strategy Guide 2026</h3>
+                    <h3>Gold vs Diamond Jewelry D2C &amp;mdash; Strategy Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Ethnic_Wear_D2C_India_Diaspora_Global_2026.php" class="blog-card" data-cat="guides" data-title="Ethnic Wear D2C &amp;mdash; India + Global Diaspora Playbook 2026" style="--c:#0f766e">
+                <a href="../resources/Ethnic_Wear_D2C_India_Diaspora_Global_2026.php" class="blog-card" data-cat="guides" data-title="Ethnic Wear D2C &amp;amp;mdash; India + Global Diaspora Playbook 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Ethnic Wear D2C &mdash; India + Global Diaspora Playbook 2026</h3>
+                    <h3>Ethnic Wear D2C &amp;mdash; India + Global Diaspora Playbook 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Specialty_Sportswear_D2C_Yoga_Running_Cycling_2026.php" class="blog-card" data-cat="guides" data-title="Specialty Sportswear D2C &amp;mdash; Yoga, Running &amp;amp; Cycling Playbook 2026" style="--c:#0f766e">
+                <a href="../resources/Specialty_Sportswear_D2C_Yoga_Running_Cycling_2026.php" class="blog-card" data-cat="guides" data-title="Specialty Sportswear D2C &amp;amp;mdash; Yoga, Running &amp;amp;amp; Cycling Playbook 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Specialty Sportswear D2C &mdash; Yoga, Running &amp; Cycling Playbook 2026</h3>
+                    <h3>Specialty Sportswear D2C &amp;mdash; Yoga, Running &amp;amp; Cycling Playbook 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Ayurveda_Traditional_Wellness_D2C_India_Global_2026.php" class="blog-card" data-cat="guides" data-title="Ayurveda &amp;amp; Traditional Wellness D2C &amp;mdash; India + Global 2026" style="--c:#0f766e">
+                <a href="../resources/Ayurveda_Traditional_Wellness_D2C_India_Global_2026.php" class="blog-card" data-cat="guides" data-title="Ayurveda &amp;amp;amp; Traditional Wellness D2C &amp;amp;mdash; India + Global 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Ayurveda &amp; Traditional Wellness D2C &mdash; India + Global 2026</h3>
+                    <h3>Ayurveda &amp;amp; Traditional Wellness D2C &amp;mdash; India + Global 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/PropTech_Software_Development_India_UAE_2026.php" class="blog-card" data-cat="guides" data-title="PropTech Software Development &amp;mdash; India &amp;amp; UAE Guide 2026" style="--c:#0f766e">
+                <a href="../resources/PropTech_Software_Development_India_UAE_2026.php" class="blog-card" data-cat="guides" data-title="PropTech Software Development &amp;amp;mdash; India &amp;amp;amp; UAE Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>PropTech Software Development &mdash; India &amp; UAE Guide 2026</h3>
+                    <h3>PropTech Software Development &amp;mdash; India &amp;amp; UAE Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Telemedicine_Platform_Development_Complete_2026.php" class="blog-card" data-cat="guides" data-title="Telemedicine Platform Development &amp;mdash; Complete Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Telemedicine_Platform_Development_Complete_2026.php" class="blog-card" data-cat="guides" data-title="Telemedicine Platform Development &amp;amp;mdash; Complete Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Telemedicine Platform Development &mdash; Complete Guide 2026</h3>
+                    <h3>Telemedicine Platform Development &amp;mdash; Complete Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Restaurant_Technology_Stack_Kitchen_Ops_2026.php" class="blog-card" data-cat="guides" data-title="Restaurant Technology Stack &amp;mdash; POS, KDS, Kitchen Ops Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Restaurant_Technology_Stack_Kitchen_Ops_2026.php" class="blog-card" data-cat="guides" data-title="Restaurant Technology Stack &amp;amp;mdash; POS, KDS, Kitchen Ops Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Restaurant Technology Stack &mdash; POS, KDS, Kitchen Ops Guide 2026</h3>
+                    <h3>Restaurant Technology Stack &amp;mdash; POS, KDS, Kitchen Ops Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Salon_Spa_Management_Software_Guide_2026.php" class="blog-card" data-cat="guides" data-title="Salon &amp;amp; Spa Management Software Development Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Salon_Spa_Management_Software_Guide_2026.php" class="blog-card" data-cat="guides" data-title="Salon &amp;amp;amp; Spa Management Software Development Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Salon &amp; Spa Management Software Development Guide 2026</h3>
+                    <h3>Salon &amp;amp; Spa Management Software Development Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Legal_Tech_Lawyer_SaaS_Development_2026.php" class="blog-card" data-cat="guides" data-title="Legal Tech &amp;amp; Lawyer SaaS Development Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Legal_Tech_Lawyer_SaaS_Development_2026.php" class="blog-card" data-cat="guides" data-title="Legal Tech &amp;amp;amp; Lawyer SaaS Development Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Legal Tech &amp; Lawyer SaaS Development Guide 2026</h3>
+                    <h3>Legal Tech &amp;amp; Lawyer SaaS Development Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Prompt_Engineering_For_Teams_Enterprise_2026.php" class="blog-card" data-cat="guides" data-title="Prompt Engineering for Teams &amp;mdash; Enterprise Playbook 2026" style="--c:#0f766e">
+                <a href="../resources/Prompt_Engineering_For_Teams_Enterprise_2026.php" class="blog-card" data-cat="guides" data-title="Prompt Engineering for Teams &amp;amp;mdash; Enterprise Playbook 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Prompt Engineering for Teams &mdash; Enterprise Playbook 2026</h3>
+                    <h3>Prompt Engineering for Teams &amp;mdash; Enterprise Playbook 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Web3_Blockchain_Business_Applications_2026.php" class="blog-card" data-cat="guides" data-title="Web3 &amp;amp; Blockchain &amp;mdash; Business Applications That Actually Work in 2026" style="--c:#0f766e">
+                <a href="../resources/Web3_Blockchain_Business_Applications_2026.php" class="blog-card" data-cat="guides" data-title="Web3 &amp;amp;amp; Blockchain &amp;amp;mdash; Business Applications That Actually Work in 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Web3 &amp; Blockchain &mdash; Business Applications That Actually Work in 2026</h3>
+                    <h3>Web3 &amp;amp; Blockchain &amp;mdash; Business Applications That Actually Work in 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Voice_Commerce_Voice_First_Shopping_2026.php" class="blog-card" data-cat="guides" data-title="Voice Commerce &amp;mdash; Voice-First Shopping Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Voice_Commerce_Voice_First_Shopping_2026.php" class="blog-card" data-cat="guides" data-title="Voice Commerce &amp;amp;mdash; Voice-First Shopping Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Voice Commerce &mdash; Voice-First Shopping Guide 2026</h3>
+                    <h3>Voice Commerce &amp;mdash; Voice-First Shopping Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/AI_HR_Recruiting_Applications_2026.php" class="blog-card" data-cat="guides" data-title="AI in HR &amp;amp; Recruiting &amp;mdash; Real Applications &amp;amp; Ethics Guide 2026" style="--c:#0f766e">
+                <a href="../resources/AI_HR_Recruiting_Applications_2026.php" class="blog-card" data-cat="guides" data-title="AI in HR &amp;amp;amp; Recruiting &amp;amp;mdash; Real Applications &amp;amp;amp; Ethics Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>AI in HR &amp; Recruiting &mdash; Real Applications &amp; Ethics Guide 2026</h3>
+                    <h3>AI in HR &amp;amp; Recruiting &amp;mdash; Real Applications &amp;amp; Ethics Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/AI_Content_Moderation_Platforms_Guide_2026.php" class="blog-card" data-cat="guides" data-title="AI Content Moderation for Platforms &amp;mdash; Guide 2026" style="--c:#0f766e">
+                <a href="../resources/AI_Content_Moderation_Platforms_Guide_2026.php" class="blog-card" data-cat="guides" data-title="AI Content Moderation for Platforms &amp;amp;mdash; Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>AI Content Moderation for Platforms &mdash; Guide 2026</h3>
+                    <h3>AI Content Moderation for Platforms &amp;mdash; Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Digital_Identity_eKYC_Enterprise_Guide_2026.php" class="blog-card" data-cat="guides" data-title="Digital Identity &amp;amp; eKYC &amp;mdash; Enterprise Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Digital_Identity_eKYC_Enterprise_Guide_2026.php" class="blog-card" data-cat="guides" data-title="Digital Identity &amp;amp;amp; eKYC &amp;amp;mdash; Enterprise Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Digital Identity &amp; eKYC &mdash; Enterprise Guide 2026</h3>
+                    <h3>Digital Identity &amp;amp; eKYC &amp;mdash; Enterprise Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Real_Time_Analytics_Streaming_Data_2026.php" class="blog-card" data-cat="guides" data-title="Real-Time Analytics &amp;amp; Streaming Data &amp;mdash; Enterprise Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Real_Time_Analytics_Streaming_Data_2026.php" class="blog-card" data-cat="guides" data-title="Real-Time Analytics &amp;amp;amp; Streaming Data &amp;amp;mdash; Enterprise Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Real-Time Analytics &amp; Streaming Data &mdash; Enterprise Guide 2026</h3>
+                    <h3>Real-Time Analytics &amp;amp; Streaming Data &amp;mdash; Enterprise Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Enterprise_Search_Knowledge_Graphs_2026.php" class="blog-card" data-cat="guides" data-title="Enterprise Search &amp;amp; Knowledge Graphs &amp;mdash; Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Enterprise_Search_Knowledge_Graphs_2026.php" class="blog-card" data-cat="guides" data-title="Enterprise Search &amp;amp;amp; Knowledge Graphs &amp;amp;mdash; Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Enterprise Search &amp; Knowledge Graphs &mdash; Guide 2026</h3>
+                    <h3>Enterprise Search &amp;amp; Knowledge Graphs &amp;mdash; Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Prashant_Chaudhari_Saying_No_To_Client_Engagements_2026.php" class="blog-card" data-cat="guides" data-title="On Saying No to Certain Client Engagements &amp;mdash; By Prashant Chaudhari" style="--c:#0f766e">
+                <a href="../resources/Prashant_Chaudhari_Saying_No_To_Client_Engagements_2026.php" class="blog-card" data-cat="guides" data-title="On Saying No to Certain Client Engagements &amp;amp;mdash; By Prashant Chaudhari" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>On Saying No to Certain Client Engagements &mdash; By Prashant Chaudhari</h3>
+                    <h3>On Saying No to Certain Client Engagements &amp;mdash; By Prashant Chaudhari</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Prashant_Chaudhari_Tech_Marketing_Studio_Choice_2026.php" class="blog-card" data-cat="guides" data-title="Why We Chose to Be a Tech + Marketing Studio, Not Just One &amp;mdash; By Prashant Chaudhari" style="--c:#0f766e">
+                <a href="../resources/Prashant_Chaudhari_Tech_Marketing_Studio_Choice_2026.php" class="blog-card" data-cat="guides" data-title="Why We Chose to Be a Tech + Marketing Studio, Not Just One &amp;amp;mdash; By Prashant Chaudhari" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Why We Chose to Be a Tech + Marketing Studio, Not Just One &mdash; By Prashant Chaudhari</h3>
+                    <h3>Why We Chose to Be a Tech + Marketing Studio, Not Just One &amp;mdash; By Prashant Chaudhari</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Kids_Baby_Products_D2C_Guide_India_UAE_Global_2026.php" class="blog-card" data-cat="guides" data-title="Kids &amp;amp; Baby Products D2C &amp;mdash; India, UAE &amp;amp; Global Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Kids_Baby_Products_D2C_Guide_India_UAE_Global_2026.php" class="blog-card" data-cat="guides" data-title="Kids &amp;amp;amp; Baby Products D2C &amp;amp;mdash; India, UAE &amp;amp;amp; Global Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Kids &amp; Baby Products D2C &mdash; India, UAE &amp; Global Guide 2026</h3>
+                    <h3>Kids &amp;amp; Baby Products D2C &amp;mdash; India, UAE &amp;amp; Global Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Home_Decor_D2C_Growth_India_UAE_Australia_2026.php" class="blog-card" data-cat="guides" data-title="Home Decor D2C &amp;mdash; India, UAE &amp;amp; Australia Growth Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Home_Decor_D2C_Growth_India_UAE_Australia_2026.php" class="blog-card" data-cat="guides" data-title="Home Decor D2C &amp;amp;mdash; India, UAE &amp;amp;amp; Australia Growth Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Home Decor D2C &mdash; India, UAE &amp; Australia Growth Guide 2026</h3>
+                    <h3>Home Decor D2C &amp;mdash; India, UAE &amp;amp; Australia Growth Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Nutraceuticals_Supplements_D2C_India_UAE_USA_2026.php" class="blog-card" data-cat="guides" data-title="Nutraceuticals &amp;amp; Supplements D2C &amp;mdash; India, UAE, USA Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Nutraceuticals_Supplements_D2C_India_UAE_USA_2026.php" class="blog-card" data-cat="guides" data-title="Nutraceuticals &amp;amp;amp; Supplements D2C &amp;amp;mdash; India, UAE, USA Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Nutraceuticals &amp; Supplements D2C &mdash; India, UAE, USA Guide 2026</h3>
+                    <h3>Nutraceuticals &amp;amp; Supplements D2C &amp;mdash; India, UAE, USA Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Pet_Care_D2C_India_UAE_USA_Growth_2026.php" class="blog-card" data-cat="guides" data-title="Pet Care D2C &amp;mdash; India, UAE, USA &amp;amp; Global Growth Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Pet_Care_D2C_India_UAE_USA_Growth_2026.php" class="blog-card" data-cat="guides" data-title="Pet Care D2C &amp;amp;mdash; India, UAE, USA &amp;amp;amp; Global Growth Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Pet Care D2C &mdash; India, UAE, USA &amp; Global Growth Guide 2026</h3>
+                    <h3>Pet Care D2C &amp;mdash; India, UAE, USA &amp;amp; Global Growth Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Coffee_Tea_D2C_Subscription_Global_2026.php" class="blog-card" data-cat="guides" data-title="Coffee &amp;amp; Tea D2C &amp;mdash; Subscription Playbook Global 2026" style="--c:#0f766e">
+                <a href="../resources/Coffee_Tea_D2C_Subscription_Global_2026.php" class="blog-card" data-cat="guides" data-title="Coffee &amp;amp;amp; Tea D2C &amp;amp;mdash; Subscription Playbook Global 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Coffee &amp; Tea D2C &mdash; Subscription Playbook Global 2026</h3>
+                    <h3>Coffee &amp;amp; Tea D2C &amp;mdash; Subscription Playbook Global 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Insurance_Software_Development_India_UAE_2026.php" class="blog-card" data-cat="guides" data-title="Insurance Software Development &amp;mdash; India &amp;amp; UAE Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Insurance_Software_Development_India_UAE_2026.php" class="blog-card" data-cat="guides" data-title="Insurance Software Development &amp;amp;mdash; India &amp;amp;amp; UAE Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Insurance Software Development &mdash; India &amp; UAE Guide 2026</h3>
+                    <h3>Insurance Software Development &amp;mdash; India &amp;amp; UAE Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Data_Analytics_Platform_Development_Enterprise_2026.php" class="blog-card" data-cat="guides" data-title="Data Analytics Platform Development &amp;mdash; Enterprise Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Data_Analytics_Platform_Development_Enterprise_2026.php" class="blog-card" data-cat="guides" data-title="Data Analytics Platform Development &amp;amp;mdash; Enterprise Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Data Analytics Platform Development &mdash; Enterprise Guide 2026</h3>
+                    <h3>Data Analytics Platform Development &amp;mdash; Enterprise Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/AI_Marketing_Applications_Real_Wins_2026.php" class="blog-card" data-cat="guides" data-title="AI in Marketing &amp;mdash; Real Applications That Actually Win in 2026" style="--c:#0f766e">
+                <a href="../resources/AI_Marketing_Applications_Real_Wins_2026.php" class="blog-card" data-cat="guides" data-title="AI in Marketing &amp;amp;mdash; Real Applications That Actually Win in 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>AI in Marketing &mdash; Real Applications That Actually Win in 2026</h3>
+                    <h3>AI in Marketing &amp;mdash; Real Applications That Actually Win in 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Cybersecurity_For_Growing_Businesses_2026.php" class="blog-card" data-cat="guides" data-title="Cybersecurity for Growing Businesses &amp;mdash; 2026 Guide" style="--c:#0f766e">
+                <a href="../resources/Cybersecurity_For_Growing_Businesses_2026.php" class="blog-card" data-cat="guides" data-title="Cybersecurity for Growing Businesses &amp;amp;mdash; 2026 Guide" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Cybersecurity for Growing Businesses &mdash; 2026 Guide</h3>
+                    <h3>Cybersecurity for Growing Businesses &amp;mdash; 2026 Guide</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -2928,169 +3168,169 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/WhatsApp_Commerce_Complete_Guide_India_UAE_2026.php" class="blog-card" data-cat="guides" data-title="WhatsApp Commerce &amp;mdash; Complete Guide for India &amp;amp; UAE 2026" style="--c:#0f766e">
+                <a href="../resources/WhatsApp_Commerce_Complete_Guide_India_UAE_2026.php" class="blog-card" data-cat="guides" data-title="WhatsApp Commerce &amp;amp;mdash; Complete Guide for India &amp;amp;amp; UAE 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>WhatsApp Commerce &mdash; Complete Guide for India &amp; UAE 2026</h3>
+                    <h3>WhatsApp Commerce &amp;mdash; Complete Guide for India &amp;amp; UAE 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Edge_AI_Business_Applications_2026.php" class="blog-card" data-cat="guides" data-title="Edge AI for Business &amp;mdash; Applications &amp;amp; Deployment Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Edge_AI_Business_Applications_2026.php" class="blog-card" data-cat="guides" data-title="Edge AI for Business &amp;amp;mdash; Applications &amp;amp;amp; Deployment Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Edge AI for Business &mdash; Applications &amp; Deployment Guide 2026</h3>
+                    <h3>Edge AI for Business &amp;mdash; Applications &amp;amp; Deployment Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/MLOps_Enterprise_Production_ML_Guide_2026.php" class="blog-card" data-cat="guides" data-title="MLOps for Enterprise &amp;mdash; Production ML Playbook 2026" style="--c:#0f766e">
+                <a href="../resources/MLOps_Enterprise_Production_ML_Guide_2026.php" class="blog-card" data-cat="guides" data-title="MLOps for Enterprise &amp;amp;mdash; Production ML Playbook 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>MLOps for Enterprise &mdash; Production ML Playbook 2026</h3>
+                    <h3>MLOps for Enterprise &amp;mdash; Production ML Playbook 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/SaaS_Pricing_Strategy_India_Global_2026.php" class="blog-card" data-cat="strategy" data-title="SaaS Pricing Strategy &amp;mdash; India + Global Playbook 2026" style="--c:#1e40af">
+                <a href="../resources/SaaS_Pricing_Strategy_India_Global_2026.php" class="blog-card" data-cat="strategy" data-title="SaaS Pricing Strategy &amp;amp;mdash; India + Global Playbook 2026" style="--c:#1e40af">
                     <div class="bc-tag"><i class="fas fa-chart-line"></i>Strategy + Cost + Analytics</div>
-                    <h3>SaaS Pricing Strategy &mdash; India + Global Playbook 2026</h3>
+                    <h3>SaaS Pricing Strategy &amp;mdash; India + Global Playbook 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/No_Code_Low_Code_Enterprise_Reality_2026.php" class="blog-card" data-cat="guides" data-title="No-Code + Low-Code for Enterprise &amp;mdash; Where It Actually Works in 2026" style="--c:#0f766e">
+                <a href="../resources/No_Code_Low_Code_Enterprise_Reality_2026.php" class="blog-card" data-cat="guides" data-title="No-Code + Low-Code for Enterprise &amp;amp;mdash; Where It Actually Works in 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>No-Code + Low-Code for Enterprise &mdash; Where It Actually Works in 2026</h3>
+                    <h3>No-Code + Low-Code for Enterprise &amp;mdash; Where It Actually Works in 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Healthcare_AI_Diagnostic_Clinical_Applications_2026.php" class="blog-card" data-cat="guides" data-title="Healthcare AI &amp;mdash; Diagnostic &amp;amp; Clinical Applications 2026" style="--c:#0f766e">
+                <a href="../resources/Healthcare_AI_Diagnostic_Clinical_Applications_2026.php" class="blog-card" data-cat="guides" data-title="Healthcare AI &amp;amp;mdash; Diagnostic &amp;amp;amp; Clinical Applications 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Healthcare AI &mdash; Diagnostic &amp; Clinical Applications 2026</h3>
+                    <h3>Healthcare AI &amp;mdash; Diagnostic &amp;amp; Clinical Applications 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/EdTech_Platform_Development_Global_2026.php" class="blog-card" data-cat="guides" data-title="EdTech Platform Development &amp;mdash; Global Guide 2026" style="--c:#0f766e">
+                <a href="../resources/EdTech_Platform_Development_Global_2026.php" class="blog-card" data-cat="guides" data-title="EdTech Platform Development &amp;amp;mdash; Global Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>EdTech Platform Development &mdash; Global Guide 2026</h3>
+                    <h3>EdTech Platform Development &amp;mdash; Global Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/D2C_Fulfillment_3PL_India_UAE_Global_2026.php" class="blog-card" data-cat="strategy" data-title="D2C Fulfillment &amp;amp; 3PL &amp;mdash; India, UAE &amp;amp; Global Guide 2026" style="--c:#1e40af">
+                <a href="../resources/D2C_Fulfillment_3PL_India_UAE_Global_2026.php" class="blog-card" data-cat="strategy" data-title="D2C Fulfillment &amp;amp;amp; 3PL &amp;amp;mdash; India, UAE &amp;amp;amp; Global Guide 2026" style="--c:#1e40af">
                     <div class="bc-tag"><i class="fas fa-chart-line"></i>Strategy + Cost + Analytics</div>
-                    <h3>D2C Fulfillment &amp; 3PL &mdash; India, UAE &amp; Global Guide 2026</h3>
+                    <h3>D2C Fulfillment &amp;amp; 3PL &amp;mdash; India, UAE &amp;amp; Global Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Prashant_Chaudhari_India_Next_Decade_Global_Tech_Services_2026.php" class="blog-card" data-cat="guides" data-title="India&amp;#39;s Next Decade in Global Tech Services &amp;mdash; By Prashant Chaudhari" style="--c:#0f766e">
+                <a href="../resources/Prashant_Chaudhari_India_Next_Decade_Global_Tech_Services_2026.php" class="blog-card" data-cat="guides" data-title="India&amp;amp;#39;s Next Decade in Global Tech Services &amp;amp;mdash; By Prashant Chaudhari" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>India&#39;s Next Decade in Global Tech Services &mdash; By Prashant Chaudhari</h3>
+                    <h3>India&amp;#39;s Next Decade in Global Tech Services &amp;mdash; By Prashant Chaudhari</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Prashant_Chaudhari_Building_Long_Term_Client_Relationships_2026.php" class="blog-card" data-cat="guides" data-title="On Building Long-Term Client Relationships &amp;mdash; By Prashant Chaudhari" style="--c:#0f766e">
+                <a href="../resources/Prashant_Chaudhari_Building_Long_Term_Client_Relationships_2026.php" class="blog-card" data-cat="guides" data-title="On Building Long-Term Client Relationships &amp;amp;mdash; By Prashant Chaudhari" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>On Building Long-Term Client Relationships &mdash; By Prashant Chaudhari</h3>
+                    <h3>On Building Long-Term Client Relationships &amp;mdash; By Prashant Chaudhari</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Footwear_D2C_Brand_Building_India_USA_UK_UAE_2026.php" class="blog-card" data-cat="guides" data-title="Footwear D2C Brand Building &amp;mdash; India, USA, UK &amp;amp; UAE Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Footwear_D2C_Brand_Building_India_USA_UK_UAE_2026.php" class="blog-card" data-cat="guides" data-title="Footwear D2C Brand Building &amp;amp;mdash; India, USA, UK &amp;amp;amp; UAE Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Footwear D2C Brand Building &mdash; India, USA, UK &amp; UAE Guide 2026</h3>
+                    <h3>Footwear D2C Brand Building &amp;mdash; India, USA, UK &amp;amp; UAE Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Athleisure_Activewear_D2C_Playbook_Global_2026.php" class="blog-card" data-cat="strategy" data-title="Athleisure &amp;amp; Activewear D2C Playbook &amp;mdash; Global Growth Guide 2026" style="--c:#1e40af">
+                <a href="../resources/Athleisure_Activewear_D2C_Playbook_Global_2026.php" class="blog-card" data-cat="strategy" data-title="Athleisure &amp;amp;amp; Activewear D2C Playbook &amp;amp;mdash; Global Growth Guide 2026" style="--c:#1e40af">
                     <div class="bc-tag"><i class="fas fa-chart-line"></i>Strategy + Cost + Analytics</div>
-                    <h3>Athleisure &amp; Activewear D2C Playbook &mdash; Global Growth Guide 2026</h3>
+                    <h3>Athleisure &amp;amp; Activewear D2C Playbook &amp;mdash; Global Growth Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Personal_Care_Wellness_D2C_Subscription_Models_2026.php" class="blog-card" data-cat="guides" data-title="Personal Care &amp;amp; Wellness D2C &amp;mdash; Subscription Model Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Personal_Care_Wellness_D2C_Subscription_Models_2026.php" class="blog-card" data-cat="guides" data-title="Personal Care &amp;amp;amp; Wellness D2C &amp;amp;mdash; Subscription Model Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Personal Care &amp; Wellness D2C &mdash; Subscription Model Guide 2026</h3>
+                    <h3>Personal Care &amp;amp; Wellness D2C &amp;mdash; Subscription Model Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Perfume_Brand_Digital_Marketing_Dubai_Global_2026.php" class="blog-card" data-cat="guides" data-title="Perfume Brand Digital Marketing &amp;mdash; Dubai &amp;amp; Global Playbook 2026" style="--c:#0f766e">
+                <a href="../resources/Perfume_Brand_Digital_Marketing_Dubai_Global_2026.php" class="blog-card" data-cat="guides" data-title="Perfume Brand Digital Marketing &amp;amp;mdash; Dubai &amp;amp;amp; Global Playbook 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Perfume Brand Digital Marketing &mdash; Dubai &amp; Global Playbook 2026</h3>
+                    <h3>Perfume Brand Digital Marketing &amp;mdash; Dubai &amp;amp; Global Playbook 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Sustainable_D2C_Brands_Positioning_Growth_2026.php" class="blog-card" data-cat="guides" data-title="Sustainable D2C Brands &amp;mdash; Positioning, Growth &amp;amp; Trust Signals 2026" style="--c:#0f766e">
+                <a href="../resources/Sustainable_D2C_Brands_Positioning_Growth_2026.php" class="blog-card" data-cat="guides" data-title="Sustainable D2C Brands &amp;amp;mdash; Positioning, Growth &amp;amp;amp; Trust Signals 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Sustainable D2C Brands &mdash; Positioning, Growth &amp; Trust Signals 2026</h3>
+                    <h3>Sustainable D2C Brands &amp;mdash; Positioning, Growth &amp;amp; Trust Signals 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Logistics_Courier_App_Development_Global_2026.php" class="blog-card" data-cat="guides" data-title="Logistics &amp;amp; Courier App Development &amp;mdash; Global Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Logistics_Courier_App_Development_Global_2026.php" class="blog-card" data-cat="guides" data-title="Logistics &amp;amp;amp; Courier App Development &amp;amp;mdash; Global Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Logistics &amp; Courier App Development &mdash; Global Guide 2026</h3>
+                    <h3>Logistics &amp;amp; Courier App Development &amp;mdash; Global Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Travel_Hospitality_App_Development_Complete_Guide_2026.php" class="blog-card" data-cat="guides" data-title="Travel &amp;amp; Hospitality App Development &amp;mdash; Complete Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Travel_Hospitality_App_Development_Complete_Guide_2026.php" class="blog-card" data-cat="guides" data-title="Travel &amp;amp;amp; Hospitality App Development &amp;amp;mdash; Complete Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Travel &amp; Hospitality App Development &mdash; Complete Guide 2026</h3>
+                    <h3>Travel &amp;amp; Hospitality App Development &amp;mdash; Complete Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Manufacturing_App_Development_Industry_4_2026.php" class="blog-card" data-cat="guides" data-title="Manufacturing App Development &amp;mdash; Industry 4.0 Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Manufacturing_App_Development_Industry_4_2026.php" class="blog-card" data-cat="guides" data-title="Manufacturing App Development &amp;amp;mdash; Industry 4.0 Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Manufacturing App Development &mdash; Industry 4.0 Guide 2026</h3>
+                    <h3>Manufacturing App Development &amp;mdash; Industry 4.0 Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/On_Demand_Service_App_Development_Global_2026.php" class="blog-card" data-cat="guides" data-title="On-Demand Service App Development &amp;mdash; Global Guide 2026" style="--c:#0f766e">
+                <a href="../resources/On_Demand_Service_App_Development_Global_2026.php" class="blog-card" data-cat="guides" data-title="On-Demand Service App Development &amp;amp;mdash; Global Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>On-Demand Service App Development &mdash; Global Guide 2026</h3>
+                    <h3>On-Demand Service App Development &amp;mdash; Global Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Real_Estate_App_Development_India_Dubai_2026.php" class="blog-card" data-cat="guides" data-title="Real Estate App Development &amp;mdash; India &amp;amp; Dubai Market Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Real_Estate_App_Development_India_Dubai_2026.php" class="blog-card" data-cat="guides" data-title="Real Estate App Development &amp;amp;mdash; India &amp;amp;amp; Dubai Market Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Real Estate App Development &mdash; India &amp; Dubai Market Guide 2026</h3>
+                    <h3>Real Estate App Development &amp;mdash; India &amp;amp; Dubai Market Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Business_Process_Automation_Enterprise_Guide_2026.php" class="blog-card" data-cat="guides" data-title="Business Process Automation &amp;mdash; Enterprise Implementation Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Business_Process_Automation_Enterprise_Guide_2026.php" class="blog-card" data-cat="guides" data-title="Business Process Automation &amp;amp;mdash; Enterprise Implementation Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Business Process Automation &mdash; Enterprise Implementation Guide 2026</h3>
+                    <h3>Business Process Automation &amp;mdash; Enterprise Implementation Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -3104,209 +3344,209 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Point_Of_Sale_POS_Software_Development_2026.php" class="blog-card" data-cat="guides" data-title="Point of Sale (POS) Software Development &amp;mdash; Retail &amp;amp; F&amp;amp;B Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Point_Of_Sale_POS_Software_Development_2026.php" class="blog-card" data-cat="guides" data-title="Point of Sale (POS) Software Development &amp;amp;mdash; Retail &amp;amp;amp; F&amp;amp;amp;B Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Point of Sale (POS) Software Development &mdash; Retail &amp; F&amp;B Guide 2026</h3>
+                    <h3>Point of Sale (POS) Software Development &amp;mdash; Retail &amp;amp; F&amp;amp;B Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Loyalty_Program_Software_Development_Guide_2026.php" class="blog-card" data-cat="guides" data-title="Loyalty Program Software Development &amp;mdash; Retail &amp;amp; D2C Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Loyalty_Program_Software_Development_Guide_2026.php" class="blog-card" data-cat="guides" data-title="Loyalty Program Software Development &amp;amp;mdash; Retail &amp;amp;amp; D2C Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Loyalty Program Software Development &mdash; Retail &amp; D2C Guide 2026</h3>
+                    <h3>Loyalty Program Software Development &amp;mdash; Retail &amp;amp; D2C Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Supply_Chain_Management_Software_India_UAE_2026.php" class="blog-card" data-cat="guides" data-title="Supply Chain Management Software &amp;mdash; India &amp;amp; UAE Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Supply_Chain_Management_Software_India_UAE_2026.php" class="blog-card" data-cat="guides" data-title="Supply Chain Management Software &amp;amp;mdash; India &amp;amp;amp; UAE Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Supply Chain Management Software &mdash; India &amp; UAE Guide 2026</h3>
+                    <h3>Supply Chain Management Software &amp;mdash; India &amp;amp; UAE Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/RAG_Systems_Enterprise_Guide_2026.php" class="blog-card" data-cat="guides" data-title="RAG Systems for Enterprise &amp;mdash; Complete Implementation Guide 2026" style="--c:#0f766e">
+                <a href="../resources/RAG_Systems_Enterprise_Guide_2026.php" class="blog-card" data-cat="guides" data-title="RAG Systems for Enterprise &amp;amp;mdash; Complete Implementation Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>RAG Systems for Enterprise &mdash; Complete Implementation Guide 2026</h3>
+                    <h3>RAG Systems for Enterprise &amp;mdash; Complete Implementation Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Voice_AI_Conversational_AI_Development_2026.php" class="blog-card" data-cat="guides" data-title="Voice AI &amp;amp; Conversational AI Development &amp;mdash; Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Voice_AI_Conversational_AI_Development_2026.php" class="blog-card" data-cat="guides" data-title="Voice AI &amp;amp;amp; Conversational AI Development &amp;amp;mdash; Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Voice AI &amp; Conversational AI Development &mdash; Guide 2026</h3>
+                    <h3>Voice AI &amp;amp; Conversational AI Development &amp;mdash; Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/AI_Fraud_Detection_Fintech_Deep_Dive_2026.php" class="blog-card" data-cat="guides" data-title="AI Fraud Detection for Fintech &amp;mdash; 2026 Deep Dive" style="--c:#0f766e">
+                <a href="../resources/AI_Fraud_Detection_Fintech_Deep_Dive_2026.php" class="blog-card" data-cat="guides" data-title="AI Fraud Detection for Fintech &amp;amp;mdash; 2026 Deep Dive" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>AI Fraud Detection for Fintech &mdash; 2026 Deep Dive</h3>
+                    <h3>AI Fraud Detection for Fintech &amp;mdash; 2026 Deep Dive</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Prashant_Chaudhari_Team_Composition_Over_Hiring_Volume_2026.php" class="blog-card" data-cat="guides" data-title="Why Team Composition Beats Hiring Volume &amp;mdash; By Prashant Chaudhari" style="--c:#0f766e">
+                <a href="../resources/Prashant_Chaudhari_Team_Composition_Over_Hiring_Volume_2026.php" class="blog-card" data-cat="guides" data-title="Why Team Composition Beats Hiring Volume &amp;amp;mdash; By Prashant Chaudhari" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Why Team Composition Beats Hiring Volume &mdash; By Prashant Chaudhari</h3>
+                    <h3>Why Team Composition Beats Hiring Volume &amp;mdash; By Prashant Chaudhari</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Prashant_Chaudhari_Marketing_Engineering_Both_Matter_2026.php" class="blog-card" data-cat="guides" data-title="Why Marketing + Engineering Both Matter &amp;mdash; By Prashant Chaudhari" style="--c:#0f766e">
+                <a href="../resources/Prashant_Chaudhari_Marketing_Engineering_Both_Matter_2026.php" class="blog-card" data-cat="guides" data-title="Why Marketing + Engineering Both Matter &amp;amp;mdash; By Prashant Chaudhari" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Why Marketing + Engineering Both Matter &mdash; By Prashant Chaudhari</h3>
+                    <h3>Why Marketing + Engineering Both Matter &amp;mdash; By Prashant Chaudhari</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Prashant_Chaudhari_Building_Global_Tech_Company_From_India_2026.php" class="blog-card" data-cat="guides" data-title="Building a Global Tech Company From India in 2026 &amp;mdash; By Prashant Chaudhari" style="--c:#0f766e">
+                <a href="../resources/Prashant_Chaudhari_Building_Global_Tech_Company_From_India_2026.php" class="blog-card" data-cat="guides" data-title="Building a Global Tech Company From India in 2026 &amp;amp;mdash; By Prashant Chaudhari" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Building a Global Tech Company From India in 2026 &mdash; By Prashant Chaudhari</h3>
+                    <h3>Building a Global Tech Company From India in 2026 &amp;mdash; By Prashant Chaudhari</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Prashant_Chaudhari_Why_UAE_Is_Next_Growth_Frontier_D2C_2026.php" class="blog-card" data-cat="guides" data-title="Why UAE Is the Next Growth Frontier for D2C &amp;mdash; By Prashant Chaudhari" style="--c:#0f766e">
+                <a href="../resources/Prashant_Chaudhari_Why_UAE_Is_Next_Growth_Frontier_D2C_2026.php" class="blog-card" data-cat="guides" data-title="Why UAE Is the Next Growth Frontier for D2C &amp;amp;mdash; By Prashant Chaudhari" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Why UAE Is the Next Growth Frontier for D2C &mdash; By Prashant Chaudhari</h3>
+                    <h3>Why UAE Is the Next Growth Frontier for D2C &amp;mdash; By Prashant Chaudhari</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Prashant_Chaudhari_AI_First_Software_Development_Perspective_2026.php" class="blog-card" data-cat="guides" data-title="AI-First Software Development in 2026 &amp;mdash; A Founder&amp;#39;s Perspective by Prashant Chaudhari" style="--c:#0f766e">
+                <a href="../resources/Prashant_Chaudhari_AI_First_Software_Development_Perspective_2026.php" class="blog-card" data-cat="guides" data-title="AI-First Software Development in 2026 &amp;amp;mdash; A Founder&amp;amp;#39;s Perspective by Prashant Chaudhari" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>AI-First Software Development in 2026 &mdash; A Founder&#39;s Perspective by Prashant Chaudhari</h3>
+                    <h3>AI-First Software Development in 2026 &amp;mdash; A Founder&amp;#39;s Perspective by Prashant Chaudhari</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/D2C_Pricing_Strategy_Beauty_Perfumes_Global_2026.php" class="blog-card" data-cat="strategy" data-title="D2C Pricing Strategy for Beauty &amp;amp; Perfumes &amp;mdash; India, UAE, USA &amp;amp; UK Guide 2026" style="--c:#1e40af">
+                <a href="../resources/D2C_Pricing_Strategy_Beauty_Perfumes_Global_2026.php" class="blog-card" data-cat="strategy" data-title="D2C Pricing Strategy for Beauty &amp;amp;amp; Perfumes &amp;amp;mdash; India, UAE, USA &amp;amp;amp; UK Guide 2026" style="--c:#1e40af">
                     <div class="bc-tag"><i class="fas fa-chart-line"></i>Strategy + Cost + Analytics</div>
-                    <h3>D2C Pricing Strategy for Beauty &amp; Perfumes &mdash; India, UAE, USA &amp; UK Guide 2026</h3>
+                    <h3>D2C Pricing Strategy for Beauty &amp;amp; Perfumes &amp;mdash; India, UAE, USA &amp;amp; UK Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Jewelry_D2C_Digital_Transformation_India_Dubai_2026.php" class="blog-card" data-cat="guides" data-title="Jewelry D2C Digital Transformation &amp;mdash; India &amp;amp; Dubai Market Playbook 2026" style="--c:#0f766e">
+                <a href="../resources/Jewelry_D2C_Digital_Transformation_India_Dubai_2026.php" class="blog-card" data-cat="guides" data-title="Jewelry D2C Digital Transformation &amp;amp;mdash; India &amp;amp;amp; Dubai Market Playbook 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Jewelry D2C Digital Transformation &mdash; India &amp; Dubai Market Playbook 2026</h3>
+                    <h3>Jewelry D2C Digital Transformation &amp;mdash; India &amp;amp; Dubai Market Playbook 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Furniture_D2C_Growth_Playbook_India_UAE_UK_2026.php" class="blog-card" data-cat="strategy" data-title="Furniture D2C Growth Playbook &amp;mdash; India, UAE &amp;amp; UK Markets 2026" style="--c:#1e40af">
+                <a href="../resources/Furniture_D2C_Growth_Playbook_India_UAE_UK_2026.php" class="blog-card" data-cat="strategy" data-title="Furniture D2C Growth Playbook &amp;amp;mdash; India, UAE &amp;amp;amp; UK Markets 2026" style="--c:#1e40af">
                     <div class="bc-tag"><i class="fas fa-chart-line"></i>Strategy + Cost + Analytics</div>
-                    <h3>Furniture D2C Growth Playbook &mdash; India, UAE &amp; UK Markets 2026</h3>
+                    <h3>Furniture D2C Growth Playbook &amp;mdash; India, UAE &amp;amp; UK Markets 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Fashion_D2C_Scaling_Global_India_UAE_Australia_2026.php" class="blog-card" data-cat="guides" data-title="Fashion D2C Scaling &amp;mdash; India, UAE, Australia &amp;amp; UK Global Playbook 2026" style="--c:#0f766e">
+                <a href="../resources/Fashion_D2C_Scaling_Global_India_UAE_Australia_2026.php" class="blog-card" data-cat="guides" data-title="Fashion D2C Scaling &amp;amp;mdash; India, UAE, Australia &amp;amp;amp; UK Global Playbook 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Fashion D2C Scaling &mdash; India, UAE, Australia &amp; UK Global Playbook 2026</h3>
+                    <h3>Fashion D2C Scaling &amp;mdash; India, UAE, Australia &amp;amp; UK Global Playbook 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Food_Beverage_D2C_Market_Insights_India_UAE_Global_2026.php" class="blog-card" data-cat="guides" data-title="Food &amp;amp; Beverage D2C &amp;mdash; Market Insights India, UAE &amp;amp; Global 2026" style="--c:#0f766e">
+                <a href="../resources/Food_Beverage_D2C_Market_Insights_India_UAE_Global_2026.php" class="blog-card" data-cat="guides" data-title="Food &amp;amp;amp; Beverage D2C &amp;amp;mdash; Market Insights India, UAE &amp;amp;amp; Global 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Food &amp; Beverage D2C &mdash; Market Insights India, UAE &amp; Global 2026</h3>
+                    <h3>Food &amp;amp; Beverage D2C &amp;mdash; Market Insights India, UAE &amp;amp; Global 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Cosmetics_D2C_Business_Growth_UAE_Global_2026.php" class="blog-card" data-cat="guides" data-title="Cosmetics D2C Business Growth &amp;mdash; UAE, India &amp;amp; Global Market Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Cosmetics_D2C_Business_Growth_UAE_Global_2026.php" class="blog-card" data-cat="guides" data-title="Cosmetics D2C Business Growth &amp;amp;mdash; UAE, India &amp;amp;amp; Global Market Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Cosmetics D2C Business Growth &mdash; UAE, India &amp; Global Market Guide 2026</h3>
+                    <h3>Cosmetics D2C Business Growth &amp;mdash; UAE, India &amp;amp; Global Market Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Clothing_Fashion_App_Development_Guide_2026.php" class="blog-card" data-cat="guides" data-title="Clothing &amp;amp; Fashion App Development &amp;mdash; Complete Guide for 2026" style="--c:#0f766e">
+                <a href="../resources/Clothing_Fashion_App_Development_Guide_2026.php" class="blog-card" data-cat="guides" data-title="Clothing &amp;amp;amp; Fashion App Development &amp;amp;mdash; Complete Guide for 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Clothing &amp; Fashion App Development &mdash; Complete Guide for 2026</h3>
+                    <h3>Clothing &amp;amp; Fashion App Development &amp;mdash; Complete Guide for 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Jewelry_Shopping_App_Development_Cost_Features_2026.php" class="blog-card" data-cat="strategy" data-title="Jewelry Shopping App Development &amp;mdash; Cost, Features &amp;amp; Roadmap 2026" style="--c:#1e40af">
+                <a href="../resources/Jewelry_Shopping_App_Development_Cost_Features_2026.php" class="blog-card" data-cat="strategy" data-title="Jewelry Shopping App Development &amp;amp;mdash; Cost, Features &amp;amp;amp; Roadmap 2026" style="--c:#1e40af">
                     <div class="bc-tag"><i class="fas fa-chart-line"></i>Strategy + Cost + Analytics</div>
-                    <h3>Jewelry Shopping App Development &mdash; Cost, Features &amp; Roadmap 2026</h3>
+                    <h3>Jewelry Shopping App Development &amp;mdash; Cost, Features &amp;amp; Roadmap 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Beauty_Cosmetics_App_Development_Complete_Guide_2026.php" class="blog-card" data-cat="guides" data-title="Beauty &amp;amp; Cosmetics App Development &amp;mdash; Complete Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Beauty_Cosmetics_App_Development_Complete_Guide_2026.php" class="blog-card" data-cat="guides" data-title="Beauty &amp;amp;amp; Cosmetics App Development &amp;amp;mdash; Complete Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Beauty &amp; Cosmetics App Development &mdash; Complete Guide 2026</h3>
+                    <h3>Beauty &amp;amp; Cosmetics App Development &amp;mdash; Complete Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Grocery_Retail_App_Development_India_UAE_2026.php" class="blog-card" data-cat="guides" data-title="Grocery &amp;amp; Retail App Development &amp;mdash; India, UAE &amp;amp; Quick-Commerce Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Grocery_Retail_App_Development_India_UAE_2026.php" class="blog-card" data-cat="guides" data-title="Grocery &amp;amp;amp; Retail App Development &amp;amp;mdash; India, UAE &amp;amp;amp; Quick-Commerce Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Grocery &amp; Retail App Development &mdash; India, UAE &amp; Quick-Commerce Guide 2026</h3>
+                    <h3>Grocery &amp;amp; Retail App Development &amp;mdash; India, UAE &amp;amp; Quick-Commerce Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Marketplace_App_Development_Multi_Vendor_Guide_2026.php" class="blog-card" data-cat="guides" data-title="Marketplace App Development &amp;mdash; Multi-Vendor Platform Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Marketplace_App_Development_Multi_Vendor_Guide_2026.php" class="blog-card" data-cat="guides" data-title="Marketplace App Development &amp;amp;mdash; Multi-Vendor Platform Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Marketplace App Development &mdash; Multi-Vendor Platform Guide 2026</h3>
+                    <h3>Marketplace App Development &amp;mdash; Multi-Vendor Platform Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Banking_Fintech_App_Development_Compliance_2026.php" class="blog-card" data-cat="guides" data-title="Banking &amp;amp; Fintech App Development &amp;mdash; Compliance-Ready Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Banking_Fintech_App_Development_Compliance_2026.php" class="blog-card" data-cat="guides" data-title="Banking &amp;amp;amp; Fintech App Development &amp;amp;mdash; Compliance-Ready Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Banking &amp; Fintech App Development &mdash; Compliance-Ready Guide 2026</h3>
+                    <h3>Banking &amp;amp; Fintech App Development &amp;mdash; Compliance-Ready Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Healthcare_Hospital_App_Development_HIPAA_2026.php" class="blog-card" data-cat="guides" data-title="Healthcare &amp;amp; Hospital App Development &amp;mdash; HIPAA, HL7 &amp;amp; FHIR Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Healthcare_Hospital_App_Development_HIPAA_2026.php" class="blog-card" data-cat="guides" data-title="Healthcare &amp;amp;amp; Hospital App Development &amp;amp;mdash; HIPAA, HL7 &amp;amp;amp; FHIR Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Healthcare &amp; Hospital App Development &mdash; HIPAA, HL7 &amp; FHIR Guide 2026</h3>
+                    <h3>Healthcare &amp;amp; Hospital App Development &amp;mdash; HIPAA, HL7 &amp;amp; FHIR Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/ERP_Implementation_Cost_Guide_India_UAE_2026.php" class="blog-card" data-cat="strategy" data-title="ERP Implementation Cost Guide &amp;mdash; India, UAE, USA &amp;amp; Global 2026" style="--c:#1e40af">
+                <a href="../resources/ERP_Implementation_Cost_Guide_India_UAE_2026.php" class="blog-card" data-cat="strategy" data-title="ERP Implementation Cost Guide &amp;amp;mdash; India, UAE, USA &amp;amp;amp; Global 2026" style="--c:#1e40af">
                     <div class="bc-tag"><i class="fas fa-chart-line"></i>Strategy + Cost + Analytics</div>
-                    <h3>ERP Implementation Cost Guide &mdash; India, UAE, USA &amp; Global 2026</h3>
+                    <h3>ERP Implementation Cost Guide &amp;mdash; India, UAE, USA &amp;amp; Global 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/CRM_Software_Development_Custom_vs_Salesforce_2026.php" class="blog-card" data-cat="comparisons" data-title="CRM Software Development &amp;mdash; Custom vs Salesforce vs Zoho 2026" style="--c:#dc2626">
+                <a href="../resources/CRM_Software_Development_Custom_vs_Salesforce_2026.php" class="blog-card" data-cat="comparisons" data-title="CRM Software Development &amp;amp;mdash; Custom vs Salesforce vs Zoho 2026" style="--c:#dc2626">
                     <div class="bc-tag"><i class="fas fa-scale-balanced"></i>Brand + Tool Comparisons</div>
-                    <h3>CRM Software Development &mdash; Custom vs Salesforce vs Zoho 2026</h3>
+                    <h3>CRM Software Development &amp;mdash; Custom vs Salesforce vs Zoho 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -3320,417 +3560,417 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/HRMS_Development_India_Global_Companies_2026.php" class="blog-card" data-cat="guides" data-title="HRMS Development for India &amp;amp; Global Companies 2026" style="--c:#0f766e">
+                <a href="../resources/HRMS_Development_India_Global_Companies_2026.php" class="blog-card" data-cat="guides" data-title="HRMS Development for India &amp;amp;amp; Global Companies 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>HRMS Development for India &amp; Global Companies 2026</h3>
+                    <h3>HRMS Development for India &amp;amp; Global Companies 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/OCR_AI_Document_Automation_Enterprise_2026.php" class="blog-card" data-cat="guides" data-title="OCR &amp;amp; AI Document Automation &amp;mdash; Enterprise Guide 2026" style="--c:#0f766e">
+                <a href="../resources/OCR_AI_Document_Automation_Enterprise_2026.php" class="blog-card" data-cat="guides" data-title="OCR &amp;amp;amp; AI Document Automation &amp;amp;mdash; Enterprise Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>OCR &amp; AI Document Automation &mdash; Enterprise Guide 2026</h3>
+                    <h3>OCR &amp;amp; AI Document Automation &amp;mdash; Enterprise Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Order_Management_System_Development_Multichannel_2026.php" class="blog-card" data-cat="guides" data-title="Order Management System (OMS) Development &amp;mdash; Multichannel Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Order_Management_System_Development_Multichannel_2026.php" class="blog-card" data-cat="guides" data-title="Order Management System (OMS) Development &amp;amp;mdash; Multichannel Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Order Management System (OMS) Development &mdash; Multichannel Guide 2026</h3>
+                    <h3>Order Management System (OMS) Development &amp;mdash; Multichannel Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Vendor_Management_Software_B2B_Guide_2026.php" class="blog-card" data-cat="guides" data-title="Vendor Management Software &amp;mdash; B2B Guide for India, UAE &amp;amp; Global 2026" style="--c:#0f766e">
+                <a href="../resources/Vendor_Management_Software_B2B_Guide_2026.php" class="blog-card" data-cat="guides" data-title="Vendor Management Software &amp;amp;mdash; B2B Guide for India, UAE &amp;amp;amp; Global 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Vendor Management Software &mdash; B2B Guide for India, UAE &amp; Global 2026</h3>
+                    <h3>Vendor Management Software &amp;mdash; B2B Guide for India, UAE &amp;amp; Global 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/AI_Agents_Business_Applications_Guide_2026.php" class="blog-card" data-cat="guides" data-title="AI Agents for Business &amp;mdash; Applications, ROI &amp;amp; Implementation Guide 2026" style="--c:#0f766e">
+                <a href="../resources/AI_Agents_Business_Applications_Guide_2026.php" class="blog-card" data-cat="guides" data-title="AI Agents for Business &amp;amp;mdash; Applications, ROI &amp;amp;amp; Implementation Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>AI Agents for Business &mdash; Applications, ROI &amp; Implementation Guide 2026</h3>
+                    <h3>AI Agents for Business &amp;mdash; Applications, ROI &amp;amp; Implementation Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Generative_AI_Enterprise_Use_Cases_Global_2026.php" class="blog-card" data-cat="guides" data-title="Generative AI in Enterprise &amp;mdash; Real Use Cases &amp;amp; ROI (Global 2026)" style="--c:#0f766e">
+                <a href="../resources/Generative_AI_Enterprise_Use_Cases_Global_2026.php" class="blog-card" data-cat="guides" data-title="Generative AI in Enterprise &amp;amp;mdash; Real Use Cases &amp;amp;amp; ROI (Global 2026)" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Generative AI in Enterprise &mdash; Real Use Cases &amp; ROI (Global 2026)</h3>
+                    <h3>Generative AI in Enterprise &amp;mdash; Real Use Cases &amp;amp; ROI (Global 2026)</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/WhatsApp_Automation_D2C_Playbook_India_UAE_2026.php" class="blog-card" data-cat="strategy" data-title="WhatsApp Automation for D2C &amp;amp; Retail &amp;mdash; India + UAE Playbook 2026" style="--c:#1e40af">
+                <a href="../resources/WhatsApp_Automation_D2C_Playbook_India_UAE_2026.php" class="blog-card" data-cat="strategy" data-title="WhatsApp Automation for D2C &amp;amp;amp; Retail &amp;amp;mdash; India + UAE Playbook 2026" style="--c:#1e40af">
                     <div class="bc-tag"><i class="fas fa-chart-line"></i>Strategy + Cost + Analytics</div>
-                    <h3>WhatsApp Automation for D2C &amp; Retail &mdash; India + UAE Playbook 2026</h3>
+                    <h3>WhatsApp Automation for D2C &amp;amp; Retail &amp;mdash; India + UAE Playbook 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Machine_Learning_Business_Applications_ROI_2026.php" class="blog-card" data-cat="guides" data-title="Machine Learning Business Applications &amp;amp; ROI Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Machine_Learning_Business_Applications_ROI_2026.php" class="blog-card" data-cat="guides" data-title="Machine Learning Business Applications &amp;amp;amp; ROI Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Machine Learning Business Applications &amp; ROI Guide 2026</h3>
+                    <h3>Machine Learning Business Applications &amp;amp; ROI Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Workflow_Automation_Enterprise_Guide_2026.php" class="blog-card" data-cat="guides" data-title="Workflow Automation for Enterprise &amp;mdash; The 2026 Guide" style="--c:#0f766e">
+                <a href="../resources/Workflow_Automation_Enterprise_Guide_2026.php" class="blog-card" data-cat="guides" data-title="Workflow Automation for Enterprise &amp;amp;mdash; The 2026 Guide" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Workflow Automation for Enterprise &mdash; The 2026 Guide</h3>
+                    <h3>Workflow Automation for Enterprise &amp;mdash; The 2026 Guide</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Quantum_Computing_Business_Impact_2026.php" class="blog-card" data-cat="guides" data-title="Quantum Computing in Business &amp;mdash; What to Do About It in 2026" style="--c:#0f766e">
+                <a href="../resources/Quantum_Computing_Business_Impact_2026.php" class="blog-card" data-cat="guides" data-title="Quantum Computing in Business &amp;amp;mdash; What to Do About It in 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Quantum Computing in Business &mdash; What to Do About It in 2026</h3>
+                    <h3>Quantum Computing in Business &amp;mdash; What to Do About It in 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Chatbot_Development_LLM_Powered_Business_Guide_2026.php" class="blog-card" data-cat="guides" data-title="LLM-Powered Chatbot Development &amp;mdash; Business Guide 2026" style="--c:#0f766e">
+                <a href="../resources/Chatbot_Development_LLM_Powered_Business_Guide_2026.php" class="blog-card" data-cat="guides" data-title="LLM-Powered Chatbot Development &amp;amp;mdash; Business Guide 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>LLM-Powered Chatbot Development &mdash; Business Guide 2026</h3>
+                    <h3>LLM-Powered Chatbot Development &amp;mdash; Business Guide 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Digital_Marketing_Agency_in_Mumbai_2026_Honest_Comparison.php" class="blog-card" data-cat="guides" data-title="Digital Marketing Agency in Mumbai 2026 &amp;mdash; Honest Comparison &amp;amp; How to Pick the Right One" style="--c:#0f766e">
+                <a href="../resources/Digital_Marketing_Agency_in_Mumbai_2026_Honest_Comparison.php" class="blog-card" data-cat="guides" data-title="Digital Marketing Agency in Mumbai 2026 &amp;amp;mdash; Honest Comparison &amp;amp;amp; How to Pick the Right One" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Digital Marketing Agency in Mumbai 2026 &mdash; Honest Comparison &amp; How to Pick the Right One</h3>
+                    <h3>Digital Marketing Agency in Mumbai 2026 &amp;mdash; Honest Comparison &amp;amp; How to Pick the Right One</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Website_Development_Cost_in_India_2026_Honest_Pricing_Guide.php" class="blog-card" data-cat="strategy" data-title="Website Development Cost in India 2026 &amp;mdash; Honest Pricing Guide (Real Ranges, Hidden Costs)" style="--c:#1e40af">
+                <a href="../resources/Website_Development_Cost_in_India_2026_Honest_Pricing_Guide.php" class="blog-card" data-cat="strategy" data-title="Website Development Cost in India 2026 &amp;amp;mdash; Honest Pricing Guide (Real Ranges, Hidden Costs)" style="--c:#1e40af">
                     <div class="bc-tag"><i class="fas fa-chart-line"></i>Strategy + Cost + Analytics</div>
-                    <h3>Website Development Cost in India 2026 &mdash; Honest Pricing Guide (Real Ranges, Hidden Costs)</h3>
+                    <h3>Website Development Cost in India 2026 &amp;mdash; Honest Pricing Guide (Real Ranges, Hidden Costs)</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Best_Digital_Marketing_Agencies_in_India_2026_Honest_Rankings.php" class="blog-card" data-cat="guides" data-title="Best Digital Marketing Agencies in India 2026 &amp;mdash; Honest Rankings, Pricing &amp;amp; How to Choose" style="--c:#0f766e">
+                <a href="../resources/Best_Digital_Marketing_Agencies_in_India_2026_Honest_Rankings.php" class="blog-card" data-cat="guides" data-title="Best Digital Marketing Agencies in India 2026 &amp;amp;mdash; Honest Rankings, Pricing &amp;amp;amp; How to Choose" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Best Digital Marketing Agencies in India 2026 &mdash; Honest Rankings, Pricing &amp; How to Choose</h3>
+                    <h3>Best Digital Marketing Agencies in India 2026 &amp;mdash; Honest Rankings, Pricing &amp;amp; How to Choose</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Custom_SaaS_Development_Cost_India_2026_Multi_Tenant_Stack_Pricing.php" class="blog-card" data-cat="strategy" data-title="Custom SaaS Development Cost in India 2026 &amp;mdash; Multi-Tenant Architecture, Stack &amp;amp; Realistic Pricing" style="--c:#1e40af">
+                <a href="../resources/Custom_SaaS_Development_Cost_India_2026_Multi_Tenant_Stack_Pricing.php" class="blog-card" data-cat="strategy" data-title="Custom SaaS Development Cost in India 2026 &amp;amp;mdash; Multi-Tenant Architecture, Stack &amp;amp;amp; Realistic Pricing" style="--c:#1e40af">
                     <div class="bc-tag"><i class="fas fa-chart-line"></i>Strategy + Cost + Analytics</div>
-                    <h3>Custom SaaS Development Cost in India 2026 &mdash; Multi-Tenant Architecture, Stack &amp; Realistic Pricing</h3>
+                    <h3>Custom SaaS Development Cost in India 2026 &amp;mdash; Multi-Tenant Architecture, Stack &amp;amp; Realistic Pricing</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Best_D2C_Marketing_Agency_Jewellery_Brands_India_2026.php" class="blog-card" data-cat="city-agencies" data-title="Best D2C Marketing Agency for Jewellery Brands India 2026 &amp;mdash; Cost, ROAS &amp;amp; How to Pick One" style="--c:#0891b2">
+                <a href="../resources/Best_D2C_Marketing_Agency_Jewellery_Brands_India_2026.php" class="blog-card" data-cat="city-agencies" data-title="Best D2C Marketing Agency for Jewellery Brands India 2026 &amp;amp;mdash; Cost, ROAS &amp;amp;amp; How to Pick One" style="--c:#0891b2">
                     <div class="bc-tag"><i class="fas fa-city"></i>City Marketing Agency Guides</div>
-                    <h3>Best D2C Marketing Agency for Jewellery Brands India 2026 &mdash; Cost, ROAS &amp; How to Pick One</h3>
+                    <h3>Best D2C Marketing Agency for Jewellery Brands India 2026 &amp;mdash; Cost, ROAS &amp;amp; How to Pick One</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Best_D2C_Marketing_Agency_Fashion_Clothing_Brands_India_2026.php" class="blog-card" data-cat="city-agencies" data-title="Best D2C Marketing Agency for Fashion &amp;amp; Clothing Brands India 2026 &amp;mdash; Returns, Creator Pipeline, Marketplace Strategy" style="--c:#0891b2">
+                <a href="../resources/Best_D2C_Marketing_Agency_Fashion_Clothing_Brands_India_2026.php" class="blog-card" data-cat="city-agencies" data-title="Best D2C Marketing Agency for Fashion &amp;amp;amp; Clothing Brands India 2026 &amp;amp;mdash; Returns, Creator Pipeline, Marketplace Strategy" style="--c:#0891b2">
                     <div class="bc-tag"><i class="fas fa-city"></i>City Marketing Agency Guides</div>
-                    <h3>Best D2C Marketing Agency for Fashion &amp; Clothing Brands India 2026 &mdash; Returns, Creator Pipeline, Marketplace Strategy</h3>
+                    <h3>Best D2C Marketing Agency for Fashion &amp;amp; Clothing Brands India 2026 &amp;mdash; Returns, Creator Pipeline, Marketplace Strategy</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Best_D2C_Marketing_Agency_Food_Beverage_Brands_India_2026.php" class="blog-card" data-cat="city-agencies" data-title="Best D2C Marketing Agency for Food &amp;amp; Beverage Brands India 2026 &amp;mdash; Subscription, Quick Commerce &amp;amp; Sampling Playbook" style="--c:#0891b2">
+                <a href="../resources/Best_D2C_Marketing_Agency_Food_Beverage_Brands_India_2026.php" class="blog-card" data-cat="city-agencies" data-title="Best D2C Marketing Agency for Food &amp;amp;amp; Beverage Brands India 2026 &amp;amp;mdash; Subscription, Quick Commerce &amp;amp;amp; Sampling Playbook" style="--c:#0891b2">
                     <div class="bc-tag"><i class="fas fa-city"></i>City Marketing Agency Guides</div>
-                    <h3>Best D2C Marketing Agency for Food &amp; Beverage Brands India 2026 &mdash; Subscription, Quick Commerce &amp; Sampling Playbook</h3>
+                    <h3>Best D2C Marketing Agency for Food &amp;amp; Beverage Brands India 2026 &amp;mdash; Subscription, Quick Commerce &amp;amp; Sampling Playbook</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Best_D2C_Marketing_Agency_Cosmetics_Beauty_Brands_India_2026.php" class="blog-card" data-cat="city-agencies" data-title="Best D2C Marketing Agency for Cosmetics &amp;amp; Beauty Brands India 2026 &amp;mdash; Creator Pipeline, AR &amp;amp; Lifecycle Retention" style="--c:#0891b2">
+                <a href="../resources/Best_D2C_Marketing_Agency_Cosmetics_Beauty_Brands_India_2026.php" class="blog-card" data-cat="city-agencies" data-title="Best D2C Marketing Agency for Cosmetics &amp;amp;amp; Beauty Brands India 2026 &amp;amp;mdash; Creator Pipeline, AR &amp;amp;amp; Lifecycle Retention" style="--c:#0891b2">
                     <div class="bc-tag"><i class="fas fa-city"></i>City Marketing Agency Guides</div>
-                    <h3>Best D2C Marketing Agency for Cosmetics &amp; Beauty Brands India 2026 &mdash; Creator Pipeline, AR &amp; Lifecycle Retention</h3>
+                    <h3>Best D2C Marketing Agency for Cosmetics &amp;amp; Beauty Brands India 2026 &amp;mdash; Creator Pipeline, AR &amp;amp; Lifecycle Retention</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Best_D2C_Marketing_Agency_Skincare_Brands_India_2026.php" class="blog-card" data-cat="city-agencies" data-title="Best D2C Marketing Agency for Skincare Brands India 2026 &amp;mdash; Routine Funnels, Dermatologist Authority, Refill Subscriptions" style="--c:#0891b2">
+                <a href="../resources/Best_D2C_Marketing_Agency_Skincare_Brands_India_2026.php" class="blog-card" data-cat="city-agencies" data-title="Best D2C Marketing Agency for Skincare Brands India 2026 &amp;amp;mdash; Routine Funnels, Dermatologist Authority, Refill Subscriptions" style="--c:#0891b2">
                     <div class="bc-tag"><i class="fas fa-city"></i>City Marketing Agency Guides</div>
-                    <h3>Best D2C Marketing Agency for Skincare Brands India 2026 &mdash; Routine Funnels, Dermatologist Authority, Refill Subscriptions</h3>
+                    <h3>Best D2C Marketing Agency for Skincare Brands India 2026 &amp;mdash; Routine Funnels, Dermatologist Authority, Refill Subscriptions</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Best_Digital_Marketing_Agency_Healthcare_Brands_India_2026.php" class="blog-card" data-cat="guides" data-title="Best Digital Marketing Agency for Healthcare Brands India 2026 &amp;mdash; DPDP, YMYL SEO &amp;amp; WhatsApp Consult Flows" style="--c:#0f766e">
+                <a href="../resources/Best_Digital_Marketing_Agency_Healthcare_Brands_India_2026.php" class="blog-card" data-cat="guides" data-title="Best Digital Marketing Agency for Healthcare Brands India 2026 &amp;amp;mdash; DPDP, YMYL SEO &amp;amp;amp; WhatsApp Consult Flows" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Best Digital Marketing Agency for Healthcare Brands India 2026 &mdash; DPDP, YMYL SEO &amp; WhatsApp Consult Flows</h3>
+                    <h3>Best Digital Marketing Agency for Healthcare Brands India 2026 &amp;mdash; DPDP, YMYL SEO &amp;amp; WhatsApp Consult Flows</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Best_D2C_Marketing_Agency_Home_Decor_Brands_India_2026.php" class="blog-card" data-cat="city-agencies" data-title="Best D2C Marketing Agency for Home &amp;amp; D&amp;eacute;cor Brands India 2026 &amp;mdash; AR Visualisation, Pinterest &amp;amp; EMI Strategy" style="--c:#0891b2">
+                <a href="../resources/Best_D2C_Marketing_Agency_Home_Decor_Brands_India_2026.php" class="blog-card" data-cat="city-agencies" data-title="Best D2C Marketing Agency for Home &amp;amp;amp; D&amp;amp;eacute;cor Brands India 2026 &amp;amp;mdash; AR Visualisation, Pinterest &amp;amp;amp; EMI Strategy" style="--c:#0891b2">
                     <div class="bc-tag"><i class="fas fa-city"></i>City Marketing Agency Guides</div>
-                    <h3>Best D2C Marketing Agency for Home &amp; D&eacute;cor Brands India 2026 &mdash; AR Visualisation, Pinterest &amp; EMI Strategy</h3>
+                    <h3>Best D2C Marketing Agency for Home &amp;amp; D&amp;eacute;cor Brands India 2026 &amp;mdash; AR Visualisation, Pinterest &amp;amp; EMI Strategy</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Best_D2C_Marketing_Agency_Electronics_Brands_India_2026.php" class="blog-card" data-cat="city-agencies" data-title="Best D2C Marketing Agency for Electronics Brands India 2026 &amp;mdash; Tech Reviewer Outreach, Amazon DSP &amp;amp; Comparison SEO" style="--c:#0891b2">
+                <a href="../resources/Best_D2C_Marketing_Agency_Electronics_Brands_India_2026.php" class="blog-card" data-cat="city-agencies" data-title="Best D2C Marketing Agency for Electronics Brands India 2026 &amp;amp;mdash; Tech Reviewer Outreach, Amazon DSP &amp;amp;amp; Comparison SEO" style="--c:#0891b2">
                     <div class="bc-tag"><i class="fas fa-city"></i>City Marketing Agency Guides</div>
-                    <h3>Best D2C Marketing Agency for Electronics Brands India 2026 &mdash; Tech Reviewer Outreach, Amazon DSP &amp; Comparison SEO</h3>
+                    <h3>Best D2C Marketing Agency for Electronics Brands India 2026 &amp;mdash; Tech Reviewer Outreach, Amazon DSP &amp;amp; Comparison SEO</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Best_D2C_Marketing_Agency_Mumbai_2026.php" class="blog-card" data-cat="city-agencies" data-title="Best D2C Marketing Agency in Mumbai 2026 &amp;mdash; Picking Guide for Consumer Brand Founders" style="--c:#0891b2">
+                <a href="../resources/Best_D2C_Marketing_Agency_Mumbai_2026.php" class="blog-card" data-cat="city-agencies" data-title="Best D2C Marketing Agency in Mumbai 2026 &amp;amp;mdash; Picking Guide for Consumer Brand Founders" style="--c:#0891b2">
                     <div class="bc-tag"><i class="fas fa-city"></i>City Marketing Agency Guides</div>
-                    <h3>Best D2C Marketing Agency in Mumbai 2026 &mdash; Picking Guide for Consumer Brand Founders</h3>
+                    <h3>Best D2C Marketing Agency in Mumbai 2026 &amp;mdash; Picking Guide for Consumer Brand Founders</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Best_D2C_Marketing_Agency_Bangalore_2026.php" class="blog-card" data-cat="city-agencies" data-title="Best D2C Marketing Agency in Bangalore 2026 &amp;mdash; F&amp;amp;B, Quick Commerce &amp;amp; SaaS-Adjacent" style="--c:#0891b2">
+                <a href="../resources/Best_D2C_Marketing_Agency_Bangalore_2026.php" class="blog-card" data-cat="city-agencies" data-title="Best D2C Marketing Agency in Bangalore 2026 &amp;amp;mdash; F&amp;amp;amp;B, Quick Commerce &amp;amp;amp; SaaS-Adjacent" style="--c:#0891b2">
                     <div class="bc-tag"><i class="fas fa-city"></i>City Marketing Agency Guides</div>
-                    <h3>Best D2C Marketing Agency in Bangalore 2026 &mdash; F&amp;B, Quick Commerce &amp; SaaS-Adjacent</h3>
+                    <h3>Best D2C Marketing Agency in Bangalore 2026 &amp;mdash; F&amp;amp;B, Quick Commerce &amp;amp; SaaS-Adjacent</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Best_D2C_Marketing_Agency_Delhi_NCR_2026.php" class="blog-card" data-cat="city-agencies" data-title="Best D2C Marketing Agency in Delhi NCR 2026 &amp;mdash; Wedding Season, Ethnic &amp;amp; Tier-2 Expansion" style="--c:#0891b2">
+                <a href="../resources/Best_D2C_Marketing_Agency_Delhi_NCR_2026.php" class="blog-card" data-cat="city-agencies" data-title="Best D2C Marketing Agency in Delhi NCR 2026 &amp;amp;mdash; Wedding Season, Ethnic &amp;amp;amp; Tier-2 Expansion" style="--c:#0891b2">
                     <div class="bc-tag"><i class="fas fa-city"></i>City Marketing Agency Guides</div>
-                    <h3>Best D2C Marketing Agency in Delhi NCR 2026 &mdash; Wedding Season, Ethnic &amp; Tier-2 Expansion</h3>
+                    <h3>Best D2C Marketing Agency in Delhi NCR 2026 &amp;mdash; Wedding Season, Ethnic &amp;amp; Tier-2 Expansion</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Best_Performance_Marketing_Agency_India_2026.php" class="blog-card" data-cat="guides" data-title="Best Performance Marketing Agency India 2026 &amp;mdash; Honest Picking Guide for D2C + B2B Founders" style="--c:#0f766e">
+                <a href="../resources/Best_Performance_Marketing_Agency_India_2026.php" class="blog-card" data-cat="guides" data-title="Best Performance Marketing Agency India 2026 &amp;amp;mdash; Honest Picking Guide for D2C + B2B Founders" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Best Performance Marketing Agency India 2026 &mdash; Honest Picking Guide for D2C + B2B Founders</h3>
+                    <h3>Best Performance Marketing Agency India 2026 &amp;mdash; Honest Picking Guide for D2C + B2B Founders</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/D2C_Marketing_Agency_Cost_India_2026_Honest_Retainer_Ranges.php" class="blog-card" data-cat="strategy" data-title="D2C Marketing Agency Cost in India 2026 &amp;mdash; Honest Retainer Ranges, Hidden Costs &amp;amp; In-house vs Agency" style="--c:#1e40af">
+                <a href="../resources/D2C_Marketing_Agency_Cost_India_2026_Honest_Retainer_Ranges.php" class="blog-card" data-cat="strategy" data-title="D2C Marketing Agency Cost in India 2026 &amp;amp;mdash; Honest Retainer Ranges, Hidden Costs &amp;amp;amp; In-house vs Agency" style="--c:#1e40af">
                     <div class="bc-tag"><i class="fas fa-chart-line"></i>Strategy + Cost + Analytics</div>
-                    <h3>D2C Marketing Agency Cost in India 2026 &mdash; Honest Retainer Ranges, Hidden Costs &amp; In-house vs Agency</h3>
+                    <h3>D2C Marketing Agency Cost in India 2026 &amp;mdash; Honest Retainer Ranges, Hidden Costs &amp;amp; In-house vs Agency</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Meta_Ads_vs_Google_Ads_D2C_India_2026_Which_Better.php" class="blog-card" data-cat="comparisons" data-title="Meta Ads vs Google Ads for D2C in India 2026 &amp;mdash; Which Gives Better ROAS?" style="--c:#dc2626">
+                <a href="../resources/Meta_Ads_vs_Google_Ads_D2C_India_2026_Which_Better.php" class="blog-card" data-cat="comparisons" data-title="Meta Ads vs Google Ads for D2C in India 2026 &amp;amp;mdash; Which Gives Better ROAS?" style="--c:#dc2626">
                     <div class="bc-tag"><i class="fas fa-scale-balanced"></i>Brand + Tool Comparisons</div>
-                    <h3>Meta Ads vs Google Ads for D2C in India 2026 &mdash; Which Gives Better ROAS?</h3>
+                    <h3>Meta Ads vs Google Ads for D2C in India 2026 &amp;mdash; Which Gives Better ROAS?</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/SEO_vs_PPC_D2C_India_2026_When_to_Use_Which.php" class="blog-card" data-cat="comparisons" data-title="SEO vs PPC for D2C Brands India 2026 &amp;mdash; When to Use Which, ROI Math &amp;amp; the Compounding Trap" style="--c:#dc2626">
+                <a href="../resources/SEO_vs_PPC_D2C_India_2026_When_to_Use_Which.php" class="blog-card" data-cat="comparisons" data-title="SEO vs PPC for D2C Brands India 2026 &amp;amp;mdash; When to Use Which, ROI Math &amp;amp;amp; the Compounding Trap" style="--c:#dc2626">
                     <div class="bc-tag"><i class="fas fa-scale-balanced"></i>Brand + Tool Comparisons</div>
-                    <h3>SEO vs PPC for D2C Brands India 2026 &mdash; When to Use Which, ROI Math &amp; the Compounding Trap</h3>
+                    <h3>SEO vs PPC for D2C Brands India 2026 &amp;mdash; When to Use Which, ROI Math &amp;amp; the Compounding Trap</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Inhouse_Marketing_Team_vs_Agency_India_2026_When_Each_Wins.php" class="blog-card" data-cat="comparisons" data-title="In-house Marketing Team vs Agency India 2026 &amp;mdash; When Each Wins, Cost Math, Hybrid Models" style="--c:#dc2626">
+                <a href="../resources/Inhouse_Marketing_Team_vs_Agency_India_2026_When_Each_Wins.php" class="blog-card" data-cat="comparisons" data-title="In-house Marketing Team vs Agency India 2026 &amp;amp;mdash; When Each Wins, Cost Math, Hybrid Models" style="--c:#dc2626">
                     <div class="bc-tag"><i class="fas fa-scale-balanced"></i>Brand + Tool Comparisons</div>
-                    <h3>In-house Marketing Team vs Agency India 2026 &mdash; When Each Wins, Cost Math, Hybrid Models</h3>
+                    <h3>In-house Marketing Team vs Agency India 2026 &amp;mdash; When Each Wins, Cost Math, Hybrid Models</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/WATI_vs_Interakt_vs_Gallabox_WhatsApp_Business_D2C_India_2026.php" class="blog-card" data-cat="comparisons" data-title="WATI vs Interakt vs Gallabox &amp;mdash; Best WhatsApp Business Platform for D2C India 2026" style="--c:#dc2626">
+                <a href="../resources/WATI_vs_Interakt_vs_Gallabox_WhatsApp_Business_D2C_India_2026.php" class="blog-card" data-cat="comparisons" data-title="WATI vs Interakt vs Gallabox &amp;amp;mdash; Best WhatsApp Business Platform for D2C India 2026" style="--c:#dc2626">
                     <div class="bc-tag"><i class="fas fa-scale-balanced"></i>Brand + Tool Comparisons</div>
-                    <h3>WATI vs Interakt vs Gallabox &mdash; Best WhatsApp Business Platform for D2C India 2026</h3>
+                    <h3>WATI vs Interakt vs Gallabox &amp;mdash; Best WhatsApp Business Platform for D2C India 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Razorpay_vs_Cashfree_Payment_Gateway_D2C_India_2026.php" class="blog-card" data-cat="comparisons" data-title="Razorpay vs Cashfree &amp;mdash; Best Payment Gateway for D2C India 2026" style="--c:#dc2626">
+                <a href="../resources/Razorpay_vs_Cashfree_Payment_Gateway_D2C_India_2026.php" class="blog-card" data-cat="comparisons" data-title="Razorpay vs Cashfree &amp;amp;mdash; Best Payment Gateway for D2C India 2026" style="--c:#dc2626">
                     <div class="bc-tag"><i class="fas fa-scale-balanced"></i>Brand + Tool Comparisons</div>
-                    <h3>Razorpay vs Cashfree &mdash; Best Payment Gateway for D2C India 2026</h3>
+                    <h3>Razorpay vs Cashfree &amp;mdash; Best Payment Gateway for D2C India 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Shopify_vs_WooCommerce_D2C_India_2026_Best_Platform.php" class="blog-card" data-cat="comparisons" data-title="Shopify vs WooCommerce for D2C India 2026 &amp;mdash; Real Cost, Customisation &amp;amp; Which Wins by Stage" style="--c:#dc2626">
+                <a href="../resources/Shopify_vs_WooCommerce_D2C_India_2026_Best_Platform.php" class="blog-card" data-cat="comparisons" data-title="Shopify vs WooCommerce for D2C India 2026 &amp;amp;mdash; Real Cost, Customisation &amp;amp;amp; Which Wins by Stage" style="--c:#dc2626">
                     <div class="bc-tag"><i class="fas fa-scale-balanced"></i>Brand + Tool Comparisons</div>
-                    <h3>Shopify vs WooCommerce for D2C India 2026 &mdash; Real Cost, Customisation &amp; Which Wins by Stage</h3>
+                    <h3>Shopify vs WooCommerce for D2C India 2026 &amp;mdash; Real Cost, Customisation &amp;amp; Which Wins by Stage</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Klaviyo_vs_Brevo_vs_Mailchimp_Email_Marketing_D2C_India_2026.php" class="blog-card" data-cat="comparisons" data-title="Klaviyo vs Brevo vs Mailchimp &amp;mdash; Best Email Marketing Tool for D2C India 2026" style="--c:#dc2626">
+                <a href="../resources/Klaviyo_vs_Brevo_vs_Mailchimp_Email_Marketing_D2C_India_2026.php" class="blog-card" data-cat="comparisons" data-title="Klaviyo vs Brevo vs Mailchimp &amp;amp;mdash; Best Email Marketing Tool for D2C India 2026" style="--c:#dc2626">
                     <div class="bc-tag"><i class="fas fa-scale-balanced"></i>Brand + Tool Comparisons</div>
-                    <h3>Klaviyo vs Brevo vs Mailchimp &mdash; Best Email Marketing Tool for D2C India 2026</h3>
+                    <h3>Klaviyo vs Brevo vs Mailchimp &amp;mdash; Best Email Marketing Tool for D2C India 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Stripe_vs_Razorpay_Cross_Border_D2C_India_2026.php" class="blog-card" data-cat="comparisons" data-title="Stripe vs Razorpay for Cross-Border D2C 2026 &amp;mdash; Best Payment Gateway for India Brands Selling Abroad" style="--c:#dc2626">
+                <a href="../resources/Stripe_vs_Razorpay_Cross_Border_D2C_India_2026.php" class="blog-card" data-cat="comparisons" data-title="Stripe vs Razorpay for Cross-Border D2C 2026 &amp;amp;mdash; Best Payment Gateway for India Brands Selling Abroad" style="--c:#dc2626">
                     <div class="bc-tag"><i class="fas fa-scale-balanced"></i>Brand + Tool Comparisons</div>
-                    <h3>Stripe vs Razorpay for Cross-Border D2C 2026 &mdash; Best Payment Gateway for India Brands Selling Abroad</h3>
+                    <h3>Stripe vs Razorpay for Cross-Border D2C 2026 &amp;mdash; Best Payment Gateway for India Brands Selling Abroad</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Best_D2C_Marketing_Agency_Chennai_2026.php" class="blog-card" data-cat="city-agencies" data-title="Best D2C Marketing Agency in Chennai 2026 &amp;mdash; Healthcare, Automotive, Tamil Tier-2" style="--c:#0891b2">
+                <a href="../resources/Best_D2C_Marketing_Agency_Chennai_2026.php" class="blog-card" data-cat="city-agencies" data-title="Best D2C Marketing Agency in Chennai 2026 &amp;amp;mdash; Healthcare, Automotive, Tamil Tier-2" style="--c:#0891b2">
                     <div class="bc-tag"><i class="fas fa-city"></i>City Marketing Agency Guides</div>
-                    <h3>Best D2C Marketing Agency in Chennai 2026 &mdash; Healthcare, Automotive, Tamil Tier-2</h3>
+                    <h3>Best D2C Marketing Agency in Chennai 2026 &amp;mdash; Healthcare, Automotive, Tamil Tier-2</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Best_D2C_Marketing_Agency_Hyderabad_2026.php" class="blog-card" data-cat="city-agencies" data-title="Best D2C Marketing Agency in Hyderabad 2026 &amp;mdash; Pharma, Biotech, Tech + Telugu Tier-2" style="--c:#0891b2">
+                <a href="../resources/Best_D2C_Marketing_Agency_Hyderabad_2026.php" class="blog-card" data-cat="city-agencies" data-title="Best D2C Marketing Agency in Hyderabad 2026 &amp;amp;mdash; Pharma, Biotech, Tech + Telugu Tier-2" style="--c:#0891b2">
                     <div class="bc-tag"><i class="fas fa-city"></i>City Marketing Agency Guides</div>
-                    <h3>Best D2C Marketing Agency in Hyderabad 2026 &mdash; Pharma, Biotech, Tech + Telugu Tier-2</h3>
+                    <h3>Best D2C Marketing Agency in Hyderabad 2026 &amp;mdash; Pharma, Biotech, Tech + Telugu Tier-2</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Best_D2C_Marketing_Agency_Pune_2026.php" class="blog-card" data-cat="city-agencies" data-title="Best D2C Marketing Agency in Pune 2026 &amp;mdash; Automotive, IT, Premium Lifestyle + Marathi Tier-2" style="--c:#0891b2">
+                <a href="../resources/Best_D2C_Marketing_Agency_Pune_2026.php" class="blog-card" data-cat="city-agencies" data-title="Best D2C Marketing Agency in Pune 2026 &amp;amp;mdash; Automotive, IT, Premium Lifestyle + Marathi Tier-2" style="--c:#0891b2">
                     <div class="bc-tag"><i class="fas fa-city"></i>City Marketing Agency Guides</div>
-                    <h3>Best D2C Marketing Agency in Pune 2026 &mdash; Automotive, IT, Premium Lifestyle + Marathi Tier-2</h3>
+                    <h3>Best D2C Marketing Agency in Pune 2026 &amp;mdash; Automotive, IT, Premium Lifestyle + Marathi Tier-2</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Multi_Vendor_Marketplace_App_Development_2026_Food_vs_Grocery_vs_Pharmacy_vs_Hyperlocal.php" class="blog-card" data-cat="comparisons" data-title="Multi-Vendor Marketplace App Development 2026 &amp;mdash; Food vs Grocery vs Pharmacy vs Hyperlocal Compared" style="--c:#dc2626">
+                <a href="../resources/Multi_Vendor_Marketplace_App_Development_2026_Food_vs_Grocery_vs_Pharmacy_vs_Hyperlocal.php" class="blog-card" data-cat="comparisons" data-title="Multi-Vendor Marketplace App Development 2026 &amp;amp;mdash; Food vs Grocery vs Pharmacy vs Hyperlocal Compared" style="--c:#dc2626">
                     <div class="bc-tag"><i class="fas fa-scale-balanced"></i>Brand + Tool Comparisons</div>
-                    <h3>Multi-Vendor Marketplace App Development 2026 &mdash; Food vs Grocery vs Pharmacy vs Hyperlocal Compared</h3>
+                    <h3>Multi-Vendor Marketplace App Development 2026 &amp;mdash; Food vs Grocery vs Pharmacy vs Hyperlocal Compared</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Custom_Web_Application_Development_for_SaaS_Startups_2026_Stack_Cost_Timeline.php" class="blog-card" data-cat="strategy" data-title="Custom Web Application Development for SaaS Startups 2026 &amp;mdash; Stack, Cost &amp;amp; Timeline (Honest Guide)" style="--c:#1e40af">
+                <a href="../resources/Custom_Web_Application_Development_for_SaaS_Startups_2026_Stack_Cost_Timeline.php" class="blog-card" data-cat="strategy" data-title="Custom Web Application Development for SaaS Startups 2026 &amp;amp;mdash; Stack, Cost &amp;amp;amp; Timeline (Honest Guide)" style="--c:#1e40af">
                     <div class="bc-tag"><i class="fas fa-chart-line"></i>Strategy + Cost + Analytics</div>
-                    <h3>Custom Web Application Development for SaaS Startups 2026 &mdash; Stack, Cost &amp; Timeline (Honest Guide)</h3>
+                    <h3>Custom Web Application Development for SaaS Startups 2026 &amp;mdash; Stack, Cost &amp;amp; Timeline (Honest Guide)</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/App_Development_Cost_USA_vs_India_2026_Honest_Comparison.php" class="blog-card" data-cat="comparisons" data-title="App Development Cost: USA vs India 2026 &amp;mdash; Honest Breakdown (Real Numbers, Hidden Costs)" style="--c:#dc2626">
+                <a href="../resources/App_Development_Cost_USA_vs_India_2026_Honest_Comparison.php" class="blog-card" data-cat="comparisons" data-title="App Development Cost: USA vs India 2026 &amp;amp;mdash; Honest Breakdown (Real Numbers, Hidden Costs)" style="--c:#dc2626">
                     <div class="bc-tag"><i class="fas fa-scale-balanced"></i>Brand + Tool Comparisons</div>
-                    <h3>App Development Cost: USA vs India 2026 &mdash; Honest Breakdown (Real Numbers, Hidden Costs)</h3>
+                    <h3>App Development Cost: USA vs India 2026 &amp;mdash; Honest Breakdown (Real Numbers, Hidden Costs)</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Shiprocket_vs_Shipway_vs_Custom_Courier_Software_2026_Comparison.php" class="blog-card" data-cat="comparisons" data-title="Shiprocket vs Shipway vs Custom Courier Software 2026 &amp;mdash; Honest Cost &amp;amp; Feature Comparison" style="--c:#dc2626">
+                <a href="../resources/Shiprocket_vs_Shipway_vs_Custom_Courier_Software_2026_Comparison.php" class="blog-card" data-cat="comparisons" data-title="Shiprocket vs Shipway vs Custom Courier Software 2026 &amp;amp;mdash; Honest Cost &amp;amp;amp; Feature Comparison" style="--c:#dc2626">
                     <div class="bc-tag"><i class="fas fa-scale-balanced"></i>Brand + Tool Comparisons</div>
-                    <h3>Shiprocket vs Shipway vs Custom Courier Software 2026 &mdash; Honest Cost &amp; Feature Comparison</h3>
+                    <h3>Shiprocket vs Shipway vs Custom Courier Software 2026 &amp;mdash; Honest Cost &amp;amp; Feature Comparison</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Logistics_App_Development_Cost_India_2026_TMS_Fleet_LastMile.php" class="blog-card" data-cat="strategy" data-title="Logistics App Development Cost in India 2026 &amp;mdash; TMS, Fleet, Last-Mile (Realistic Pricing)" style="--c:#1e40af">
+                <a href="../resources/Logistics_App_Development_Cost_India_2026_TMS_Fleet_LastMile.php" class="blog-card" data-cat="strategy" data-title="Logistics App Development Cost in India 2026 &amp;amp;mdash; TMS, Fleet, Last-Mile (Realistic Pricing)" style="--c:#1e40af">
                     <div class="bc-tag"><i class="fas fa-chart-line"></i>Strategy + Cost + Analytics</div>
-                    <h3>Logistics App Development Cost in India 2026 &mdash; TMS, Fleet, Last-Mile (Realistic Pricing)</h3>
+                    <h3>Logistics App Development Cost in India 2026 &amp;mdash; TMS, Fleet, Last-Mile (Realistic Pricing)</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Transport_Management_System_TMS_Software_Development_Cost_India_2026.php" class="blog-card" data-cat="strategy" data-title="Transport Management System (TMS) Software Development Cost in India 2026 — Features, Modules &amp;amp; Pricing" style="--c:#1e40af">
+                <a href="../resources/Transport_Management_System_TMS_Software_Development_Cost_India_2026.php" class="blog-card" data-cat="strategy" data-title="Transport Management System (TMS) Software Development Cost in India 2026 — Features, Modules &amp;amp;amp; Pricing" style="--c:#1e40af">
                     <div class="bc-tag"><i class="fas fa-chart-line"></i>Strategy + Cost + Analytics</div>
-                    <h3>Transport Management System (TMS) Software Development Cost in India 2026 — Features, Modules &amp; Pricing</h3>
+                    <h3>Transport Management System (TMS) Software Development Cost in India 2026 — Features, Modules &amp;amp; Pricing</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Cold_Chain_Logistics_Technology_2026_IoT_WMS_Real_Time_Tracking.php" class="blog-card" data-cat="guides" data-title="Cold Chain Logistics Technology in 2026 — IoT Sensors, Real-Time Tracking, WMS &amp;amp; Compliance Guide" style="--c:#0f766e">
+                <a href="../resources/Cold_Chain_Logistics_Technology_2026_IoT_WMS_Real_Time_Tracking.php" class="blog-card" data-cat="guides" data-title="Cold Chain Logistics Technology in 2026 — IoT Sensors, Real-Time Tracking, WMS &amp;amp;amp; Compliance Guide" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Cold Chain Logistics Technology in 2026 — IoT Sensors, Real-Time Tracking, WMS &amp; Compliance Guide</h3>
+                    <h3>Cold Chain Logistics Technology in 2026 — IoT Sensors, Real-Time Tracking, WMS &amp;amp; Compliance Guide</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Container_Tracking_Shipping_Software_Development_Guide_2026.php" class="blog-card" data-cat="guides" data-title="Container Tracking &amp;amp; Shipping Software Development Guide 2026 — Cost, Features, EDI &amp;amp; Multi-Modal" style="--c:#0f766e">
+                <a href="../resources/Container_Tracking_Shipping_Software_Development_Guide_2026.php" class="blog-card" data-cat="guides" data-title="Container Tracking &amp;amp;amp; Shipping Software Development Guide 2026 — Cost, Features, EDI &amp;amp;amp; Multi-Modal" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Container Tracking &amp; Shipping Software Development Guide 2026 — Cost, Features, EDI &amp; Multi-Modal</h3>
+                    <h3>Container Tracking &amp;amp; Shipping Software Development Guide 2026 — Cost, Features, EDI &amp;amp; Multi-Modal</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Trucking_Driver_App_Development_Fleet_ELD_India_2026.php" class="blog-card" data-cat="guides" data-title="Trucking &amp;amp; Driver App Development 2026 — Fleet, ELD, Compliance &amp;amp; Cost in India" style="--c:#0f766e">
+                <a href="../resources/Trucking_Driver_App_Development_Fleet_ELD_India_2026.php" class="blog-card" data-cat="guides" data-title="Trucking &amp;amp;amp; Driver App Development 2026 — Fleet, ELD, Compliance &amp;amp;amp; Cost in India" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Trucking &amp; Driver App Development 2026 — Fleet, ELD, Compliance &amp; Cost in India</h3>
+                    <h3>Trucking &amp;amp; Driver App Development 2026 — Fleet, ELD, Compliance &amp;amp; Cost in India</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Insurance_App_Development_India_2026_InsurTech_IRDAI_Cost_Guide.php" class="blog-card" data-cat="strategy" data-title="Insurance App Development in India 2026 — InsurTech Cost, IRDAI Compliance &amp;amp; Features" style="--c:#1e40af">
+                <a href="../resources/Insurance_App_Development_India_2026_InsurTech_IRDAI_Cost_Guide.php" class="blog-card" data-cat="strategy" data-title="Insurance App Development in India 2026 — InsurTech Cost, IRDAI Compliance &amp;amp;amp; Features" style="--c:#1e40af">
                     <div class="bc-tag"><i class="fas fa-chart-line"></i>Strategy + Cost + Analytics</div>
-                    <h3>Insurance App Development in India 2026 — InsurTech Cost, IRDAI Compliance &amp; Features</h3>
+                    <h3>Insurance App Development in India 2026 — InsurTech Cost, IRDAI Compliance &amp;amp; Features</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/EdTech_App_Development_Online_Learning_Live_Classes_LMS_Cost_India_2026.php" class="blog-card" data-cat="strategy" data-title="EdTech App Development 2026 — Online Learning, Live Classes &amp;amp; LMS Cost in India" style="--c:#1e40af">
+                <a href="../resources/EdTech_App_Development_Online_Learning_Live_Classes_LMS_Cost_India_2026.php" class="blog-card" data-cat="strategy" data-title="EdTech App Development 2026 — Online Learning, Live Classes &amp;amp;amp; LMS Cost in India" style="--c:#1e40af">
                     <div class="bc-tag"><i class="fas fa-chart-line"></i>Strategy + Cost + Analytics</div>
-                    <h3>EdTech App Development 2026 — Online Learning, Live Classes &amp; LMS Cost in India</h3>
+                    <h3>EdTech App Development 2026 — Online Learning, Live Classes &amp;amp; LMS Cost in India</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/App_Development_Company_in_Kolkata_2026_Cost_Top_Firms.php" class="blog-card" data-cat="strategy" data-title="App Development Company in Kolkata 2026 — Cost, Top Firms &amp;amp; How to Choose" style="--c:#1e40af">
+                <a href="../resources/App_Development_Company_in_Kolkata_2026_Cost_Top_Firms.php" class="blog-card" data-cat="strategy" data-title="App Development Company in Kolkata 2026 — Cost, Top Firms &amp;amp;amp; How to Choose" style="--c:#1e40af">
                     <div class="bc-tag"><i class="fas fa-chart-line"></i>Strategy + Cost + Analytics</div>
-                    <h3>App Development Company in Kolkata 2026 — Cost, Top Firms &amp; How to Choose</h3>
+                    <h3>App Development Company in Kolkata 2026 — Cost, Top Firms &amp;amp; How to Choose</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Website_Development_Company_in_Chennai_2026_Pricing_Lead_Gen.php" class="blog-card" data-cat="guides" data-title="Website Development Company in Chennai 2026 — Pricing, Top Vendors &amp;amp; Lead-Gen Guide" style="--c:#0f766e">
+                <a href="../resources/Website_Development_Company_in_Chennai_2026_Pricing_Lead_Gen.php" class="blog-card" data-cat="guides" data-title="Website Development Company in Chennai 2026 — Pricing, Top Vendors &amp;amp;amp; Lead-Gen Guide" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Website Development Company in Chennai 2026 — Pricing, Top Vendors &amp; Lead-Gen Guide</h3>
+                    <h3>Website Development Company in Chennai 2026 — Pricing, Top Vendors &amp;amp; Lead-Gen Guide</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -3744,9 +3984,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/App_Development_Company_in_Singapore_2026_Costs_India_Outsource.php" class="blog-card" data-cat="guides" data-title="App Development Company in Singapore 2026 — Costs, Top Vendors &amp;amp; Why Founders Outsource to India" style="--c:#0f766e">
+                <a href="../resources/App_Development_Company_in_Singapore_2026_Costs_India_Outsource.php" class="blog-card" data-cat="guides" data-title="App Development Company in Singapore 2026 — Costs, Top Vendors &amp;amp;amp; Why Founders Outsource to India" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>App Development Company in Singapore 2026 — Costs, Top Vendors &amp; Why Founders Outsource to India</h3>
+                    <h3>App Development Company in Singapore 2026 — Costs, Top Vendors &amp;amp; Why Founders Outsource to India</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -3760,17 +4000,17 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Build_Swiggy_Zomato_Clone_Cost_Features_2026.php" class="blog-card" data-cat="strategy" data-title="How to Build a Swiggy / Zomato Clone in 2026 — Cost, Features &amp; Architecture" style="--c:#1e40af">
+                <a href="../resources/Build_Swiggy_Zomato_Clone_Cost_Features_2026.php" class="blog-card" data-cat="strategy" data-title="How to Build a Swiggy / Zomato Clone in 2026 — Cost, Features &amp;amp; Architecture" style="--c:#1e40af">
                     <div class="bc-tag"><i class="fas fa-chart-line"></i>Strategy + Cost + Analytics</div>
-                    <h3>How to Build a Swiggy / Zomato Clone in 2026 — Cost, Features & Architecture</h3>
+                    <h3>How to Build a Swiggy / Zomato Clone in 2026 — Cost, Features &amp; Architecture</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Hyperlocal_Delivery_App_Development_Cost_2026.php" class="blog-card" data-cat="strategy" data-title="Hyperlocal Delivery App Development Cost &amp; Features (2026)" style="--c:#1e40af">
+                <a href="../resources/Hyperlocal_Delivery_App_Development_Cost_2026.php" class="blog-card" data-cat="strategy" data-title="Hyperlocal Delivery App Development Cost &amp;amp; Features (2026)" style="--c:#1e40af">
                     <div class="bc-tag"><i class="fas fa-chart-line"></i>Strategy + Cost + Analytics</div>
-                    <h3>Hyperlocal Delivery App Development Cost & Features (2026)</h3>
+                    <h3>Hyperlocal Delivery App Development Cost &amp; Features (2026)</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -3792,9 +4032,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Last_Mile_Delivery_Technology_Trends_2026.php" class="blog-card" data-cat="guides" data-title="Last-Mile Delivery Technology Trends 2026 — AI Dispatch, EV Fleets &amp; Drone Delivery" style="--c:#0f766e">
+                <a href="../resources/Last_Mile_Delivery_Technology_Trends_2026.php" class="blog-card" data-cat="guides" data-title="Last-Mile Delivery Technology Trends 2026 — AI Dispatch, EV Fleets &amp;amp; Drone Delivery" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Last-Mile Delivery Technology Trends 2026 — AI Dispatch, EV Fleets & Drone Delivery</h3>
+                    <h3>Last-Mile Delivery Technology Trends 2026 — AI Dispatch, EV Fleets &amp; Drone Delivery</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -3808,17 +4048,17 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Healthcare_App_Development_Cost_India_HIPAA_ABDM_2026.php" class="blog-card" data-cat="strategy" data-title="Healthcare App Development Cost in India 2026 — HIPAA, ABDM &amp; DPDP Compliance Guide" style="--c:#1e40af">
+                <a href="../resources/Healthcare_App_Development_Cost_India_HIPAA_ABDM_2026.php" class="blog-card" data-cat="strategy" data-title="Healthcare App Development Cost in India 2026 — HIPAA, ABDM &amp;amp; DPDP Compliance Guide" style="--c:#1e40af">
                     <div class="bc-tag"><i class="fas fa-chart-line"></i>Strategy + Cost + Analytics</div>
-                    <h3>Healthcare App Development Cost in India 2026 — HIPAA, ABDM & DPDP Compliance Guide</h3>
+                    <h3>Healthcare App Development Cost in India 2026 — HIPAA, ABDM &amp; DPDP Compliance Guide</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Telemedicine_App_Development_Guide_2026.php" class="blog-card" data-cat="guides" data-title="Telemedicine App Development Guide 2026 — Cost, Features &amp; Compliance Architecture" style="--c:#0f766e">
+                <a href="../resources/Telemedicine_App_Development_Guide_2026.php" class="blog-card" data-cat="guides" data-title="Telemedicine App Development Guide 2026 — Cost, Features &amp;amp; Compliance Architecture" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Telemedicine App Development Guide 2026 — Cost, Features & Compliance Architecture</h3>
+                    <h3>Telemedicine App Development Guide 2026 — Cost, Features &amp; Compliance Architecture</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -3840,41 +4080,41 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Fish_Meat_Delivery_App_Development_Licious_FreshToHome_Style.php" class="blog-card" data-cat="guides" data-title="Fish &amp; Meat Delivery App Development in 2026 — Licious / FreshToHome Style" style="--c:#0f766e">
+                <a href="../resources/Fish_Meat_Delivery_App_Development_Licious_FreshToHome_Style.php" class="blog-card" data-cat="guides" data-title="Fish &amp;amp; Meat Delivery App Development in 2026 — Licious / FreshToHome Style" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Fish & Meat Delivery App Development in 2026 — Licious / FreshToHome Style</h3>
+                    <h3>Fish &amp; Meat Delivery App Development in 2026 — Licious / FreshToHome Style</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/App_Development_Company_in_USA_2026_Hire_Guide.php" class="blog-card" data-cat="guides" data-title="App Development Company in USA 2026 — How to Hire &amp; What It Costs" style="--c:#0f766e">
+                <a href="../resources/App_Development_Company_in_USA_2026_Hire_Guide.php" class="blog-card" data-cat="guides" data-title="App Development Company in USA 2026 — How to Hire &amp;amp; What It Costs" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>App Development Company in USA 2026 — How to Hire & What It Costs</h3>
+                    <h3>App Development Company in USA 2026 — How to Hire &amp; What It Costs</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/App_Development_Company_in_UK_2026_Founder_Guide.php" class="blog-card" data-cat="guides" data-title="App Development Company in UK 2026 — London Rates &amp; India Partner Strategy" style="--c:#0f766e">
+                <a href="../resources/App_Development_Company_in_UK_2026_Founder_Guide.php" class="blog-card" data-cat="guides" data-title="App Development Company in UK 2026 — London Rates &amp;amp; India Partner Strategy" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>App Development Company in UK 2026 — London Rates & India Partner Strategy</h3>
+                    <h3>App Development Company in UK 2026 — London Rates &amp; India Partner Strategy</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/App_Development_Company_in_UAE_Dubai_2026.php" class="blog-card" data-cat="guides" data-title="App Development Company in UAE / Dubai 2026 — Local Rates &amp; Free-Zone Setup" style="--c:#0f766e">
+                <a href="../resources/App_Development_Company_in_UAE_Dubai_2026.php" class="blog-card" data-cat="guides" data-title="App Development Company in UAE / Dubai 2026 — Local Rates &amp;amp; Free-Zone Setup" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>App Development Company in UAE / Dubai 2026 — Local Rates & Free-Zone Setup</h3>
+                    <h3>App Development Company in UAE / Dubai 2026 — Local Rates &amp; Free-Zone Setup</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/App_Development_Cost_USA_vs_India_2026.php" class="blog-card" data-cat="comparisons" data-title="App Development Cost USA vs India 2026 — Real Numbers &amp; ROI Math" style="--c:#dc2626">
+                <a href="../resources/App_Development_Cost_USA_vs_India_2026.php" class="blog-card" data-cat="comparisons" data-title="App Development Cost USA vs India 2026 — Real Numbers &amp;amp; ROI Math" style="--c:#dc2626">
                     <div class="bc-tag"><i class="fas fa-scale-balanced"></i>Brand + Tool Comparisons</div>
-                    <h3>App Development Cost USA vs India 2026 — Real Numbers & ROI Math</h3>
+                    <h3>App Development Cost USA vs India 2026 — Real Numbers &amp; ROI Math</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -3912,9 +4152,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/On_Demand_Salon_Beauty_Services_App_Development_Urban_Company_Style_2026.php" class="blog-card" data-cat="guides" data-title="On-Demand Salon &amp; Beauty Services App Development 2026 — Urban Company Style" style="--c:#0f766e">
+                <a href="../resources/On_Demand_Salon_Beauty_Services_App_Development_Urban_Company_Style_2026.php" class="blog-card" data-cat="guides" data-title="On-Demand Salon &amp;amp; Beauty Services App Development 2026 — Urban Company Style" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>On-Demand Salon & Beauty Services App Development 2026 — Urban Company Style</h3>
+                    <h3>On-Demand Salon &amp; Beauty Services App Development 2026 — Urban Company Style</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -3936,9 +4176,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Technical_SEO_Checklist_2026_Core_Web_Vitals_Schema_JS_Rendering.php" class="blog-card" data-cat="guides" data-title="Technical SEO Checklist 2026 — Core Web Vitals, Schema, JS Rendering &amp; INP" style="--c:#0f766e">
+                <a href="../resources/Technical_SEO_Checklist_2026_Core_Web_Vitals_Schema_JS_Rendering.php" class="blog-card" data-cat="guides" data-title="Technical SEO Checklist 2026 — Core Web Vitals, Schema, JS Rendering &amp;amp; INP" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Technical SEO Checklist 2026 — Core Web Vitals, Schema, JS Rendering & INP</h3>
+                    <h3>Technical SEO Checklist 2026 — Core Web Vitals, Schema, JS Rendering &amp; INP</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -3968,9 +4208,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/The_Power_of_Video_Why_It_Dominating_the_Future_of_Digital_Marketing.php" class="blog-card" data-cat="guides" data-title="The Power of Video — Why It&#x27;s Dominating the Future of Digital Marketing" style="--c:#0f766e">
+                <a href="../resources/The_Power_of_Video_Why_It_Dominating_the_Future_of_Digital_Marketing.php" class="blog-card" data-cat="guides" data-title="The Power of Video — Why It&amp;#x27;s Dominating the Future of Digital Marketing" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>The Power of Video — Why It's Dominating the Future of Digital Marketing</h3>
+                    <h3>The Power of Video — Why It&#x27;s Dominating the Future of Digital Marketing</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -4000,9 +4240,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Courier_Management_Software_Features_Benefits_ROI.php" class="blog-card" data-cat="guides" data-title="Courier Management Software: Features, Benefits &amp; ROI" style="--c:#0f766e">
+                <a href="../resources/Courier_Management_Software_Features_Benefits_ROI.php" class="blog-card" data-cat="guides" data-title="Courier Management Software: Features, Benefits &amp;amp; ROI" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Courier Management Software: Features, Benefits & ROI</h3>
+                    <h3>Courier Management Software: Features, Benefits &amp; ROI</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -4064,9 +4304,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Fintech_App_Development_Security_Compliance.php" class="blog-card" data-cat="guides" data-title="Fintech App Development: Security &amp; Compliance" style="--c:#0f766e">
+                <a href="../resources/Fintech_App_Development_Security_Compliance.php" class="blog-card" data-cat="guides" data-title="Fintech App Development: Security &amp;amp; Compliance" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Fintech App Development: Security & Compliance</h3>
+                    <h3>Fintech App Development: Security &amp; Compliance</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -4456,9 +4696,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Travel_Tourism_Website_App_Development.php" class="blog-card" data-cat="guides" data-title="Travel and Tourism Website &amp; App Development" style="--c:#0f766e">
+                <a href="../resources/Travel_Tourism_Website_App_Development.php" class="blog-card" data-cat="guides" data-title="Travel and Tourism Website &amp;amp; App Development" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Travel and Tourism Website & App Development</h3>
+                    <h3>Travel and Tourism Website &amp; App Development</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -4944,9 +5184,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/How_to_Write_SEO-Friendly_Blogs_in_2025_Top_SEO_Writing_Tips_Content_Strategies.php" class="blog-card" data-cat="guides" data-title="How to Write SEO-Friendly Blogs in 2025: Top SEO Writing Tips &amp; Content Strategies" style="--c:#0f766e">
+                <a href="../resources/How_to_Write_SEO-Friendly_Blogs_in_2025_Top_SEO_Writing_Tips_Content_Strategies.php" class="blog-card" data-cat="guides" data-title="How to Write SEO-Friendly Blogs in 2025: Top SEO Writing Tips &amp;amp; Content Strategies" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>How to Write SEO-Friendly Blogs in 2025: Top SEO Writing Tips & Content Strategies</h3>
+                    <h3>How to Write SEO-Friendly Blogs in 2025: Top SEO Writing Tips &amp; Content Strategies</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -5056,9 +5296,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Content_Writing_Services_for_the_Banking_Finance_Industry.php" class="blog-card" data-cat="guides" data-title="Content Writing Services for the Banking &amp; Finance Industry" style="--c:#0f766e">
+                <a href="../resources/Content_Writing_Services_for_the_Banking_Finance_Industry.php" class="blog-card" data-cat="guides" data-title="Content Writing Services for the Banking &amp;amp; Finance Industry" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Content Writing Services for the Banking & Finance Industry</h3>
+                    <h3>Content Writing Services for the Banking &amp; Finance Industry</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -5120,9 +5360,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Automating_Sales_Support_with_WhatsApp_A_Game_Changer.php" class="blog-card" data-cat="guides" data-title="Automating Sales &amp; Support with WhatsApp – A Game Changer" style="--c:#0f766e">
+                <a href="../resources/Automating_Sales_Support_with_WhatsApp_A_Game_Changer.php" class="blog-card" data-cat="guides" data-title="Automating Sales &amp;amp; Support with WhatsApp – A Game Changer" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Automating Sales & Support with WhatsApp – A Game Changer</h3>
+                    <h3>Automating Sales &amp; Support with WhatsApp – A Game Changer</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -5144,9 +5384,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Revolutionizing_WhatsApp_Marketing_How_AI_Chatbots_Drive_Engagement_Sales.php" class="blog-card" data-cat="guides" data-title="Revolutionizing WhatsApp Marketing: How AI Chatbots Drive Engagement &amp; Sales" style="--c:#0f766e">
+                <a href="../resources/Revolutionizing_WhatsApp_Marketing_How_AI_Chatbots_Drive_Engagement_Sales.php" class="blog-card" data-cat="guides" data-title="Revolutionizing WhatsApp Marketing: How AI Chatbots Drive Engagement &amp;amp; Sales" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Revolutionizing WhatsApp Marketing: How AI Chatbots Drive Engagement & Sales</h3>
+                    <h3>Revolutionizing WhatsApp Marketing: How AI Chatbots Drive Engagement &amp; Sales</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -5184,9 +5424,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Creating_Content_That_Attracts_Converts_Leads.php" class="blog-card" data-cat="guides" data-title="Creating Content That Attracts &amp; Converts Leads" style="--c:#0f766e">
+                <a href="../resources/Creating_Content_That_Attracts_Converts_Leads.php" class="blog-card" data-cat="guides" data-title="Creating Content That Attracts &amp;amp; Converts Leads" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Creating Content That Attracts & Converts Leads</h3>
+                    <h3>Creating Content That Attracts &amp; Converts Leads</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -5216,9 +5456,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Boosting_SEO_User_Experience_with_Faster_Website_Speed.php" class="blog-card" data-cat="guides" data-title="Boosting SEO &amp; User Experience with Faster Website Speed" style="--c:#0f766e">
+                <a href="../resources/Boosting_SEO_User_Experience_with_Faster_Website_Speed.php" class="blog-card" data-cat="guides" data-title="Boosting SEO &amp;amp; User Experience with Faster Website Speed" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Boosting SEO & User Experience with Faster Website Speed</h3>
+                    <h3>Boosting SEO &amp; User Experience with Faster Website Speed</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -5272,17 +5512,17 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Boost_Engagement_Conversions_The_Power_of_Website_Personalization.php" class="blog-card" data-cat="guides" data-title="Boost Engagement &amp; Conversions: The Power of Website Personalization" style="--c:#0f766e">
+                <a href="../resources/Boost_Engagement_Conversions_The_Power_of_Website_Personalization.php" class="blog-card" data-cat="guides" data-title="Boost Engagement &amp;amp; Conversions: The Power of Website Personalization" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Boost Engagement & Conversions: The Power of Website Personalization</h3>
+                    <h3>Boost Engagement &amp; Conversions: The Power of Website Personalization</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Website_Redesign_Signs_It_Time_How_It_Boosts_Your_Business.php" class="blog-card" data-cat="guides" data-title="Website Redesign: Signs It’s Time &amp; How It Boosts Your Business" style="--c:#0f766e">
+                <a href="../resources/Website_Redesign_Signs_It_Time_How_It_Boosts_Your_Business.php" class="blog-card" data-cat="guides" data-title="Website Redesign: Signs It’s Time &amp;amp; How It Boosts Your Business" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Website Redesign: Signs It’s Time & How It Boosts Your Business</h3>
+                    <h3>Website Redesign: Signs It’s Time &amp; How It Boosts Your Business</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -5320,9 +5560,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Boost_Engagement_Conversions_The_Ultimate_Guide_to_Crafting_a_Powerful_Call.php" class="blog-card" data-cat="guides" data-title="Boost Engagement &amp; Conversions: The Ultimate Guide to Crafting a Powerful Call-to-Action" style="--c:#0f766e">
+                <a href="../resources/Boost_Engagement_Conversions_The_Ultimate_Guide_to_Crafting_a_Powerful_Call.php" class="blog-card" data-cat="guides" data-title="Boost Engagement &amp;amp; Conversions: The Ultimate Guide to Crafting a Powerful Call-to-Action" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Boost Engagement & Conversions: The Ultimate Guide to Crafting a Powerful Call-to-Action</h3>
+                    <h3>Boost Engagement &amp; Conversions: The Ultimate Guide to Crafting a Powerful Call-to-Action</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -5704,9 +5944,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Write_It_Right_Why_SaaS_Products_Live_or_Die_by_Documentation.php" class="blog-card" data-cat="guides" data-title="&quot;Write It Right: Why SaaS Products Live or Die by Documentation&quot;" style="--c:#0f766e">
+                <a href="../resources/Write_It_Right_Why_SaaS_Products_Live_or_Die_by_Documentation.php" class="blog-card" data-cat="guides" data-title="&amp;quot;Write It Right: Why SaaS Products Live or Die by Documentation&amp;quot;" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>"Write It Right: Why SaaS Products Live or Die by Documentation"</h3>
+                    <h3>&quot;Write It Right: Why SaaS Products Live or Die by Documentation&quot;</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -5776,17 +6016,17 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Mastering_Legal_Compliance_Writing_A_Guide_for_Tech_Firms.php" class="blog-card" data-cat="guides" data-title="Mastering Legal &amp; Compliance Writing: A Guide for Tech Firms" style="--c:#0f766e">
+                <a href="../resources/Mastering_Legal_Compliance_Writing_A_Guide_for_Tech_Firms.php" class="blog-card" data-cat="guides" data-title="Mastering Legal &amp;amp; Compliance Writing: A Guide for Tech Firms" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Mastering Legal & Compliance Writing: A Guide for Tech Firms</h3>
+                    <h3>Mastering Legal &amp; Compliance Writing: A Guide for Tech Firms</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Mastering_the_Art_of_Maintenance_Troubleshooting_Guides.php" class="blog-card" data-cat="guides" data-title="Mastering the Art of Maintenance &amp; Troubleshooting Guides" style="--c:#0f766e">
+                <a href="../resources/Mastering_the_Art_of_Maintenance_Troubleshooting_Guides.php" class="blog-card" data-cat="guides" data-title="Mastering the Art of Maintenance &amp;amp; Troubleshooting Guides" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Mastering the Art of Maintenance & Troubleshooting Guides</h3>
+                    <h3>Mastering the Art of Maintenance &amp; Troubleshooting Guides</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -5800,9 +6040,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Homepage_Content_That_Converts_Proven_Tips_Real_Web_Content_Examples.php" class="blog-card" data-cat="guides" data-title="Homepage Content That Converts: Proven Tips &amp; Real Web Content Examples" style="--c:#0f766e">
+                <a href="../resources/Homepage_Content_That_Converts_Proven_Tips_Real_Web_Content_Examples.php" class="blog-card" data-cat="guides" data-title="Homepage Content That Converts: Proven Tips &amp;amp; Real Web Content Examples" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Homepage Content That Converts: Proven Tips & Real Web Content Examples</h3>
+                    <h3>Homepage Content That Converts: Proven Tips &amp; Real Web Content Examples</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -5816,9 +6056,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Boost_Rankings_Build_Trust_The_Power_of_Website_Copy.php" class="blog-card" data-cat="guides" data-title="Boost Rankings &amp; Build Trust: The Power of Website Copy" style="--c:#0f766e">
+                <a href="../resources/Boost_Rankings_Build_Trust_The_Power_of_Website_Copy.php" class="blog-card" data-cat="guides" data-title="Boost Rankings &amp;amp; Build Trust: The Power of Website Copy" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Boost Rankings & Build Trust: The Power of Website Copy</h3>
+                    <h3>Boost Rankings &amp; Build Trust: The Power of Website Copy</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -5880,9 +6120,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Mastering_the_Art_of_Website_Messaging_Tone_Voice_Matter.php" class="blog-card" data-cat="guides" data-title="Mastering the Art of Website Messaging: Tone &amp; Voice Matter" style="--c:#0f766e">
+                <a href="../resources/Mastering_the_Art_of_Website_Messaging_Tone_Voice_Matter.php" class="blog-card" data-cat="guides" data-title="Mastering the Art of Website Messaging: Tone &amp;amp; Voice Matter" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Mastering the Art of Website Messaging: Tone & Voice Matter</h3>
+                    <h3>Mastering the Art of Website Messaging: Tone &amp; Voice Matter</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -5920,9 +6160,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Crafting_Effective_Medical_Website_Content_Boost_Healthcare_SEO_Patient_Engagement.php" class="blog-card" data-cat="guides" data-title="Crafting Effective Medical Website Content: Boost Healthcare SEO &amp; Patient Engagement" style="--c:#0f766e">
+                <a href="../resources/Crafting_Effective_Medical_Website_Content_Boost_Healthcare_SEO_Patient_Engagement.php" class="blog-card" data-cat="guides" data-title="Crafting Effective Medical Website Content: Boost Healthcare SEO &amp;amp; Patient Engagement" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Crafting Effective Medical Website Content: Boost Healthcare SEO & Patient Engagement</h3>
+                    <h3>Crafting Effective Medical Website Content: Boost Healthcare SEO &amp; Patient Engagement</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -5944,9 +6184,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Essentia_Page_fo_You_Website_Privacy_Term_Disclaimers.php" class="blog-card" data-cat="guides" data-title="Essential Legal Pages for Your Website: Privacy, Terms &amp; Disclaimers" style="--c:#0f766e">
+                <a href="../resources/Essentia_Page_fo_You_Website_Privacy_Term_Disclaimers.php" class="blog-card" data-cat="guides" data-title="Essential Legal Pages for Your Website: Privacy, Terms &amp;amp; Disclaimers" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Essential Legal Pages for Your Website: Privacy, Terms & Disclaimers</h3>
+                    <h3>Essential Legal Pages for Your Website: Privacy, Terms &amp; Disclaimers</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -6056,9 +6296,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Industries_Website_Content_Writing_for_Tech_Logistics_Finance.php" class="blog-card" data-cat="guides" data-title="Industries We Serve: Website Content Writing for Tech, Logistics, Finance &amp; More" style="--c:#0f766e">
+                <a href="../resources/Industries_Website_Content_Writing_for_Tech_Logistics_Finance.php" class="blog-card" data-cat="guides" data-title="Industries We Serve: Website Content Writing for Tech, Logistics, Finance &amp;amp; More" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Industries We Serve: Website Content Writing for Tech, Logistics, Finance & More</h3>
+                    <h3>Industries We Serve: Website Content Writing for Tech, Logistics, Finance &amp; More</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -6088,9 +6328,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/How_Smart_Web_Development_Supercharges_SEO.php" class="blog-card" data-cat="guides" data-title="How Smart Web Development Supercharges SEO &amp; UX" style="--c:#0f766e">
+                <a href="../resources/How_Smart_Web_Development_Supercharges_SEO.php" class="blog-card" data-cat="guides" data-title="How Smart Web Development Supercharges SEO &amp;amp; UX" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>How Smart Web Development Supercharges SEO & UX</h3>
+                    <h3>How Smart Web Development Supercharges SEO &amp; UX</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -6480,9 +6720,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/How_Top_Indian_Agencies_Use_AI_and_Data_for_Smarter_Social_Media_Marketing.php" class="blog-card" data-cat="guides" data-title="How Top Indian Agencies Use AI &amp; Data for Smarter Social Media Marketing" style="--c:#0f766e">
+                <a href="../resources/How_Top_Indian_Agencies_Use_AI_and_Data_for_Smarter_Social_Media_Marketing.php" class="blog-card" data-cat="guides" data-title="How Top Indian Agencies Use AI &amp;amp; Data for Smarter Social Media Marketing" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>How Top Indian Agencies Use AI & Data for Smarter Social Media Marketing</h3>
+                    <h3>How Top Indian Agencies Use AI &amp; Data for Smarter Social Media Marketing</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -6584,17 +6824,17 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Website_Designing_Services_vs_Website_Development_Services.php" class="blog-card" data-cat="comparisons" data-title="Website Designing Services vs Website Development Services — What’s the Difference &amp; Why Both Matter" style="--c:#dc2626">
+                <a href="../resources/Website_Designing_Services_vs_Website_Development_Services.php" class="blog-card" data-cat="comparisons" data-title="Website Designing Services vs Website Development Services — What’s the Difference &amp;amp; Why Both Matter" style="--c:#dc2626">
                     <div class="bc-tag"><i class="fas fa-scale-balanced"></i>Brand + Tool Comparisons</div>
-                    <h3>Website Designing Services vs Website Development Services — What’s the Difference & Why Both Matter</h3>
+                    <h3>Website Designing Services vs Website Development Services — What’s the Difference &amp; Why Both Matter</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/What_Are_Website_Designing_Services_and_Why_They_Matter_for_Your_Business.php" class="blog-card" data-cat="guides" data-title="What Are Website Designing Services &amp; Why They Matter for Your Business" style="--c:#0f766e">
+                <a href="../resources/What_Are_Website_Designing_Services_and_Why_They_Matter_for_Your_Business.php" class="blog-card" data-cat="guides" data-title="What Are Website Designing Services &amp;amp; Why They Matter for Your Business" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>What Are Website Designing Services & Why They Matter for Your Business</h3>
+                    <h3>What Are Website Designing Services &amp; Why They Matter for Your Business</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -6624,33 +6864,33 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Courier_App_Development_Features_Cost.php" class="blog-card" data-cat="guides" data-title="Courier App Development: Features, Cost &amp; Development Process" style="--c:#0f766e">
+                <a href="../resources/Courier_App_Development_Features_Cost.php" class="blog-card" data-cat="guides" data-title="Courier App Development: Features, Cost &amp;amp; Development Process" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Courier App Development: Features, Cost & Development Process</h3>
+                    <h3>Courier App Development: Features, Cost &amp; Development Process</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Fleet_Management_Software_Guide.php" class="blog-card" data-cat="guides" data-title="Fleet Management Software Development: Features, Benefits &amp; Cost" style="--c:#0f766e">
+                <a href="../resources/Fleet_Management_Software_Guide.php" class="blog-card" data-cat="guides" data-title="Fleet Management Software Development: Features, Benefits &amp;amp; Cost" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Fleet Management Software Development: Features, Benefits & Cost</h3>
+                    <h3>Fleet Management Software Development: Features, Benefits &amp; Cost</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/SaaS_Application_Development_Guide.php" class="blog-card" data-cat="guides" data-title="SaaS Application Development: Complete Guide for Startups &amp; Enterprises" style="--c:#0f766e">
+                <a href="../resources/SaaS_Application_Development_Guide.php" class="blog-card" data-cat="guides" data-title="SaaS Application Development: Complete Guide for Startups &amp;amp; Enterprises" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>SaaS Application Development: Complete Guide for Startups & Enterprises</h3>
+                    <h3>SaaS Application Development: Complete Guide for Startups &amp; Enterprises</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/On_Demand_App_Development_Business_Models.php" class="blog-card" data-cat="guides" data-title="On-Demand App Development: Business Models, Features &amp; Cost" style="--c:#0f766e">
+                <a href="../resources/On_Demand_App_Development_Business_Models.php" class="blog-card" data-cat="guides" data-title="On-Demand App Development: Business Models, Features &amp;amp; Cost" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>On-Demand App Development: Business Models, Features & Cost</h3>
+                    <h3>On-Demand App Development: Business Models, Features &amp; Cost</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -6664,33 +6904,33 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/ERP_Software_Development_India.php" class="blog-card" data-cat="guides" data-title="ERP Software Development in India: Features, Modules &amp; Cost" style="--c:#0f766e">
+                <a href="../resources/ERP_Software_Development_India.php" class="blog-card" data-cat="guides" data-title="ERP Software Development in India: Features, Modules &amp;amp; Cost" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>ERP Software Development in India: Features, Modules & Cost</h3>
+                    <h3>ERP Software Development in India: Features, Modules &amp; Cost</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Healthcare_App_Development_Guide.php" class="blog-card" data-cat="guides" data-title="Healthcare App Development: HIPAA Compliance, Features &amp; Cost" style="--c:#0f766e">
+                <a href="../resources/Healthcare_App_Development_Guide.php" class="blog-card" data-cat="guides" data-title="Healthcare App Development: HIPAA Compliance, Features &amp;amp; Cost" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Healthcare App Development: HIPAA Compliance, Features & Cost</h3>
+                    <h3>Healthcare App Development: HIPAA Compliance, Features &amp; Cost</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Ecommerce_App_Development_Complete_Guide.php" class="blog-card" data-cat="guides" data-title="E-Commerce App Development: Features, Tech Stack &amp; Cost in 2026" style="--c:#0f766e">
+                <a href="../resources/Ecommerce_App_Development_Complete_Guide.php" class="blog-card" data-cat="guides" data-title="E-Commerce App Development: Features, Tech Stack &amp;amp; Cost in 2026" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>E-Commerce App Development: Features, Tech Stack & Cost in 2026</h3>
+                    <h3>E-Commerce App Development: Features, Tech Stack &amp; Cost in 2026</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Fintech_App_Development_India.php" class="blog-card" data-cat="guides" data-title="Fintech App Development in India: Regulations, Features &amp; Security" style="--c:#0f766e">
+                <a href="../resources/Fintech_App_Development_India.php" class="blog-card" data-cat="guides" data-title="Fintech App Development in India: Regulations, Features &amp;amp; Security" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Fintech App Development in India: Regulations, Features & Security</h3>
+                    <h3>Fintech App Development in India: Regulations, Features &amp; Security</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -6712,33 +6952,33 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Restaurant_Food_Delivery_App_Development.php" class="blog-card" data-cat="guides" data-title="Restaurant &amp; Food Delivery App Development: Complete Guide" style="--c:#0f766e">
+                <a href="../resources/Restaurant_Food_Delivery_App_Development.php" class="blog-card" data-cat="guides" data-title="Restaurant &amp;amp; Food Delivery App Development: Complete Guide" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Restaurant & Food Delivery App Development: Complete Guide</h3>
+                    <h3>Restaurant &amp; Food Delivery App Development: Complete Guide</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Real_Estate_App_Development_Guide.php" class="blog-card" data-cat="guides" data-title="Real Estate App Development: Property Listing, Virtual Tours &amp; CRM" style="--c:#0f766e">
+                <a href="../resources/Real_Estate_App_Development_Guide.php" class="blog-card" data-cat="guides" data-title="Real Estate App Development: Property Listing, Virtual Tours &amp;amp; CRM" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Real Estate App Development: Property Listing, Virtual Tours & CRM</h3>
+                    <h3>Real Estate App Development: Property Listing, Virtual Tours &amp; CRM</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Education_App_Development_eLearning.php" class="blog-card" data-cat="guides" data-title="Education App Development: eLearning Platforms, LMS &amp; EdTech Solutions" style="--c:#0f766e">
+                <a href="../resources/Education_App_Development_eLearning.php" class="blog-card" data-cat="guides" data-title="Education App Development: eLearning Platforms, LMS &amp;amp; EdTech Solutions" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Education App Development: eLearning Platforms, LMS & EdTech Solutions</h3>
+                    <h3>Education App Development: eLearning Platforms, LMS &amp; EdTech Solutions</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Warehouse_Management_System_Development.php" class="blog-card" data-cat="strategy" data-title="Warehouse Management System (WMS) Development: Features &amp; Architecture" style="--c:#1e40af">
+                <a href="../resources/Warehouse_Management_System_Development.php" class="blog-card" data-cat="strategy" data-title="Warehouse Management System (WMS) Development: Features &amp;amp; Architecture" style="--c:#1e40af">
                     <div class="bc-tag"><i class="fas fa-chart-line"></i>Strategy + Cost + Analytics</div>
-                    <h3>Warehouse Management System (WMS) Development: Features & Architecture</h3>
+                    <h3>Warehouse Management System (WMS) Development: Features &amp; Architecture</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -6760,17 +7000,17 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/MVP_Development_Guide_Startups.php" class="blog-card" data-cat="guides" data-title="MVP Development Guide for Startups: Build, Launch &amp; Validate Fast" style="--c:#0f766e">
+                <a href="../resources/MVP_Development_Guide_Startups.php" class="blog-card" data-cat="guides" data-title="MVP Development Guide for Startups: Build, Launch &amp;amp; Validate Fast" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>MVP Development Guide for Startups: Build, Launch & Validate Fast</h3>
+                    <h3>MVP Development Guide for Startups: Build, Launch &amp; Validate Fast</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/API_Development_Integration_Guide.php" class="blog-card" data-cat="guides" data-title="API Development &amp; Integration: Building Connected Applications" style="--c:#0f766e">
+                <a href="../resources/API_Development_Integration_Guide.php" class="blog-card" data-cat="guides" data-title="API Development &amp;amp; Integration: Building Connected Applications" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>API Development & Integration: Building Connected Applications</h3>
+                    <h3>API Development &amp; Integration: Building Connected Applications</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -6808,9 +7048,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Cloud_Native_Application_Development.php" class="blog-card" data-cat="guides" data-title="Cloud-Native Application Development: Microservices, Containers &amp; Serverless" style="--c:#0f766e">
+                <a href="../resources/Cloud_Native_Application_Development.php" class="blog-card" data-cat="guides" data-title="Cloud-Native Application Development: Microservices, Containers &amp;amp; Serverless" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Cloud-Native Application Development: Microservices, Containers & Serverless</h3>
+                    <h3>Cloud-Native Application Development: Microservices, Containers &amp; Serverless</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -6824,9 +7064,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Booking_Appointment_App_Development.php" class="blog-card" data-cat="guides" data-title="Booking &amp; Appointment App Development: Features &amp; Revenue Models" style="--c:#0f766e">
+                <a href="../resources/Booking_Appointment_App_Development.php" class="blog-card" data-cat="guides" data-title="Booking &amp;amp; Appointment App Development: Features &amp;amp; Revenue Models" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Booking & Appointment App Development: Features & Revenue Models</h3>
+                    <h3>Booking &amp; Appointment App Development: Features &amp; Revenue Models</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -6840,25 +7080,25 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Taxi_Ride_Hailing_App_Development.php" class="blog-card" data-cat="guides" data-title="Taxi &amp; Ride-Hailing App Development: Build Your Own Uber Alternative" style="--c:#0f766e">
+                <a href="../resources/Taxi_Ride_Hailing_App_Development.php" class="blog-card" data-cat="guides" data-title="Taxi &amp;amp; Ride-Hailing App Development: Build Your Own Uber Alternative" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Taxi & Ride-Hailing App Development: Build Your Own Uber Alternative</h3>
+                    <h3>Taxi &amp; Ride-Hailing App Development: Build Your Own Uber Alternative</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Social_Media_App_Development_Guide.php" class="blog-card" data-cat="guides" data-title="Social Media App Development: Features, Architecture &amp; Monetization" style="--c:#0f766e">
+                <a href="../resources/Social_Media_App_Development_Guide.php" class="blog-card" data-cat="guides" data-title="Social Media App Development: Features, Architecture &amp;amp; Monetization" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Social Media App Development: Features, Architecture & Monetization</h3>
+                    <h3>Social Media App Development: Features, Architecture &amp; Monetization</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Fitness_Wellness_App_Development.php" class="blog-card" data-cat="guides" data-title="Fitness &amp; Wellness App Development: Features, Wearable Integration &amp; Cost" style="--c:#0f766e">
+                <a href="../resources/Fitness_Wellness_App_Development.php" class="blog-card" data-cat="guides" data-title="Fitness &amp;amp; Wellness App Development: Features, Wearable Integration &amp;amp; Cost" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Fitness & Wellness App Development: Features, Wearable Integration & Cost</h3>
+                    <h3>Fitness &amp; Wellness App Development: Features, Wearable Integration &amp; Cost</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -6872,9 +7112,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Event_Management_App_Development.php" class="blog-card" data-cat="guides" data-title="Event Management App Development: Ticketing, Registration &amp; Analytics" style="--c:#0f766e">
+                <a href="../resources/Event_Management_App_Development.php" class="blog-card" data-cat="guides" data-title="Event Management App Development: Ticketing, Registration &amp;amp; Analytics" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Event Management App Development: Ticketing, Registration & Analytics</h3>
+                    <h3>Event Management App Development: Ticketing, Registration &amp; Analytics</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -6904,25 +7144,25 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/DevOps_CI_CD_App_Development.php" class="blog-card" data-cat="guides" data-title="DevOps &amp; CI/CD in App Development: Faster Releases, Fewer Bugs" style="--c:#0f766e">
+                <a href="../resources/DevOps_CI_CD_App_Development.php" class="blog-card" data-cat="guides" data-title="DevOps &amp;amp; CI/CD in App Development: Faster Releases, Fewer Bugs" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>DevOps & CI/CD in App Development: Faster Releases, Fewer Bugs</h3>
+                    <h3>DevOps &amp; CI/CD in App Development: Faster Releases, Fewer Bugs</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Multi_Tenant_SaaS_Architecture.php" class="blog-card" data-cat="guides" data-title="Multi-Tenant SaaS Architecture: Design Patterns &amp; Best Practices" style="--c:#0f766e">
+                <a href="../resources/Multi_Tenant_SaaS_Architecture.php" class="blog-card" data-cat="guides" data-title="Multi-Tenant SaaS Architecture: Design Patterns &amp;amp; Best Practices" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Multi-Tenant SaaS Architecture: Design Patterns & Best Practices</h3>
+                    <h3>Multi-Tenant SaaS Architecture: Design Patterns &amp; Best Practices</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/App_Performance_Optimization_Guide.php" class="blog-card" data-cat="guides" data-title="App Performance Optimization: Speed Up Your Mobile &amp; Web Applications" style="--c:#0f766e">
+                <a href="../resources/App_Performance_Optimization_Guide.php" class="blog-card" data-cat="guides" data-title="App Performance Optimization: Speed Up Your Mobile &amp;amp; Web Applications" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>App Performance Optimization: Speed Up Your Mobile & Web Applications</h3>
+                    <h3>App Performance Optimization: Speed Up Your Mobile &amp; Web Applications</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -6952,9 +7192,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Hotel_Travel_Booking_App_Development.php" class="blog-card" data-cat="guides" data-title="Hotel &amp; Travel Booking App Development: Features, APIs &amp; Cost" style="--c:#0f766e">
+                <a href="../resources/Hotel_Travel_Booking_App_Development.php" class="blog-card" data-cat="guides" data-title="Hotel &amp;amp; Travel Booking App Development: Features, APIs &amp;amp; Cost" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Hotel & Travel Booking App Development: Features, APIs & Cost</h3>
+                    <h3>Hotel &amp; Travel Booking App Development: Features, APIs &amp; Cost</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -7000,9 +7240,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Ecommerce_Website_Development_Guide.php" class="blog-card" data-cat="guides" data-title="E-Commerce Website Development: Platform Selection, Features &amp; Cost" style="--c:#0f766e">
+                <a href="../resources/Ecommerce_Website_Development_Guide.php" class="blog-card" data-cat="guides" data-title="E-Commerce Website Development: Platform Selection, Features &amp;amp; Cost" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>E-Commerce Website Development: Platform Selection, Features & Cost</h3>
+                    <h3>E-Commerce Website Development: Platform Selection, Features &amp; Cost</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -7048,25 +7288,25 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Web_Application_Development_Guide_2026.php" class="blog-card" data-cat="guides" data-title="Web Application Development: Technologies, Frameworks &amp; Best Practices" style="--c:#0f766e">
+                <a href="../resources/Web_Application_Development_Guide_2026.php" class="blog-card" data-cat="guides" data-title="Web Application Development: Technologies, Frameworks &amp;amp; Best Practices" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Web Application Development: Technologies, Frameworks & Best Practices</h3>
+                    <h3>Web Application Development: Technologies, Frameworks &amp; Best Practices</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Website_Redesign_ROI_Guide.php" class="blog-card" data-cat="guides" data-title="Website Redesign: When, Why &amp; How to Redesign for Maximum ROI" style="--c:#0f766e">
+                <a href="../resources/Website_Redesign_ROI_Guide.php" class="blog-card" data-cat="guides" data-title="Website Redesign: When, Why &amp;amp; How to Redesign for Maximum ROI" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Website Redesign: When, Why & How to Redesign for Maximum ROI</h3>
+                    <h3>Website Redesign: When, Why &amp; How to Redesign for Maximum ROI</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Single_Page_Application_Development.php" class="blog-card" data-cat="guides" data-title="Single Page Application (SPA) Development: React, Angular &amp; Vue Compared" style="--c:#0f766e">
+                <a href="../resources/Single_Page_Application_Development.php" class="blog-card" data-cat="guides" data-title="Single Page Application (SPA) Development: React, Angular &amp;amp; Vue Compared" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Single Page Application (SPA) Development: React, Angular & Vue Compared</h3>
+                    <h3>Single Page Application (SPA) Development: React, Angular &amp; Vue Compared</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -7080,9 +7320,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Full_Stack_Development_Guide.php" class="blog-card" data-cat="guides" data-title="Full-Stack Development: MERN, MEAN &amp; LAMP Stack Comparison" style="--c:#0f766e">
+                <a href="../resources/Full_Stack_Development_Guide.php" class="blog-card" data-cat="guides" data-title="Full-Stack Development: MERN, MEAN &amp;amp; LAMP Stack Comparison" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Full-Stack Development: MERN, MEAN & LAMP Stack Comparison</h3>
+                    <h3>Full-Stack Development: MERN, MEAN &amp; LAMP Stack Comparison</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -7096,9 +7336,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Web_Security_SSL_HTTPS_Guide.php" class="blog-card" data-cat="guides" data-title="Web Security: SSL, HTTPS &amp; Protecting Your Website from Cyber Threats" style="--c:#0f766e">
+                <a href="../resources/Web_Security_SSL_HTTPS_Guide.php" class="blog-card" data-cat="guides" data-title="Web Security: SSL, HTTPS &amp;amp; Protecting Your Website from Cyber Threats" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Web Security: SSL, HTTPS & Protecting Your Website from Cyber Threats</h3>
+                    <h3>Web Security: SSL, HTTPS &amp; Protecting Your Website from Cyber Threats</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -7112,9 +7352,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Next_js_Website_Development_Guide.php" class="blog-card" data-cat="guides" data-title="Next.js Website Development: SSR, SSG &amp; Full-Stack React Applications" style="--c:#0f766e">
+                <a href="../resources/Next_js_Website_Development_Guide.php" class="blog-card" data-cat="guides" data-title="Next.js Website Development: SSR, SSG &amp;amp; Full-Stack React Applications" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Next.js Website Development: SSR, SSG & Full-Stack React Applications</h3>
+                    <h3>Next.js Website Development: SSR, SSG &amp; Full-Stack React Applications</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -7136,9 +7376,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Web_Hosting_Selection_Guide.php" class="blog-card" data-cat="guides" data-title="Web Hosting Guide: Shared, VPS, Cloud &amp; Dedicated Hosting Compared" style="--c:#0f766e">
+                <a href="../resources/Web_Hosting_Selection_Guide.php" class="blog-card" data-cat="guides" data-title="Web Hosting Guide: Shared, VPS, Cloud &amp;amp; Dedicated Hosting Compared" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Web Hosting Guide: Shared, VPS, Cloud & Dedicated Hosting Compared</h3>
+                    <h3>Web Hosting Guide: Shared, VPS, Cloud &amp; Dedicated Hosting Compared</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -7152,25 +7392,25 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Web_Analytics_Setup_Guide.php" class="blog-card" data-cat="guides" data-title="Web Analytics Setup: GA4, GTM &amp; Conversion Tracking Guide" style="--c:#0f766e">
+                <a href="../resources/Web_Analytics_Setup_Guide.php" class="blog-card" data-cat="guides" data-title="Web Analytics Setup: GA4, GTM &amp;amp; Conversion Tracking Guide" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Web Analytics Setup: GA4, GTM & Conversion Tracking Guide</h3>
+                    <h3>Web Analytics Setup: GA4, GTM &amp; Conversion Tracking Guide</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/CMS_Selection_Guide_Business.php" class="blog-card" data-cat="guides" data-title="CMS Selection Guide: WordPress, Drupal, Joomla &amp; Headless Options" style="--c:#0f766e">
+                <a href="../resources/CMS_Selection_Guide_Business.php" class="blog-card" data-cat="guides" data-title="CMS Selection Guide: WordPress, Drupal, Joomla &amp;amp; Headless Options" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>CMS Selection Guide: WordPress, Drupal, Joomla & Headless Options</h3>
+                    <h3>CMS Selection Guide: WordPress, Drupal, Joomla &amp; Headless Options</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Wireframing_Prototyping_Guide.php" class="blog-card" data-cat="guides" data-title="Wireframing &amp; Prototyping: Design Before You Develop" style="--c:#0f766e">
+                <a href="../resources/Wireframing_Prototyping_Guide.php" class="blog-card" data-cat="guides" data-title="Wireframing &amp;amp; Prototyping: Design Before You Develop" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Wireframing & Prototyping: Design Before You Develop</h3>
+                    <h3>Wireframing &amp; Prototyping: Design Before You Develop</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -7184,9 +7424,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Website_Maintenance_Plan_Guide.php" class="blog-card" data-cat="guides" data-title="Website Maintenance Plan: Keep Your Site Secure, Fast &amp; Updated" style="--c:#0f766e">
+                <a href="../resources/Website_Maintenance_Plan_Guide.php" class="blog-card" data-cat="guides" data-title="Website Maintenance Plan: Keep Your Site Secure, Fast &amp;amp; Updated" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Website Maintenance Plan: Keep Your Site Secure, Fast & Updated</h3>
+                    <h3>Website Maintenance Plan: Keep Your Site Secure, Fast &amp; Updated</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -7200,9 +7440,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Form_Design_UX_Conversion.php" class="blog-card" data-cat="guides" data-title="Form Design UX: Reduce Abandonment &amp; Increase Submissions" style="--c:#0f766e">
+                <a href="../resources/Form_Design_UX_Conversion.php" class="blog-card" data-cat="guides" data-title="Form Design UX: Reduce Abandonment &amp;amp; Increase Submissions" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Form Design UX: Reduce Abandonment & Increase Submissions</h3>
+                    <h3>Form Design UX: Reduce Abandonment &amp; Increase Submissions</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -7240,17 +7480,17 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Local_SEO_Guide_India_Businesses.php" class="blog-card" data-cat="guides" data-title="Local SEO Guide for Indian Businesses: Dominate Google Maps &amp; Local Search" style="--c:#0f766e">
+                <a href="../resources/Local_SEO_Guide_India_Businesses.php" class="blog-card" data-cat="guides" data-title="Local SEO Guide for Indian Businesses: Dominate Google Maps &amp;amp; Local Search" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Local SEO Guide for Indian Businesses: Dominate Google Maps & Local Search</h3>
+                    <h3>Local SEO Guide for Indian Businesses: Dominate Google Maps &amp; Local Search</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Social_Media_Marketing_Strategy_2026.php" class="blog-card" data-cat="case-studies" data-title="Social Media Marketing Strategy 2026: Platforms, Content &amp; Metrics" style="--c:#f97316">
+                <a href="../resources/Social_Media_Marketing_Strategy_2026.php" class="blog-card" data-cat="case-studies" data-title="Social Media Marketing Strategy 2026: Platforms, Content &amp;amp; Metrics" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Social Media Marketing Strategy 2026: Platforms, Content & Metrics</h3>
+                    <h3>Social Media Marketing Strategy 2026: Platforms, Content &amp; Metrics</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -7296,9 +7536,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Video_Marketing_Strategy_Business.php" class="blog-card" data-cat="case-studies" data-title="Video Marketing Strategy: YouTube, Reels &amp; Short-Form Content for Business" style="--c:#f97316">
+                <a href="../resources/Video_Marketing_Strategy_Business.php" class="blog-card" data-cat="case-studies" data-title="Video Marketing Strategy: YouTube, Reels &amp;amp; Short-Form Content for Business" style="--c:#f97316">
                     <div class="bc-tag"><i class="fas fa-book-open"></i>Brand Case Studies</div>
-                    <h3>Video Marketing Strategy: YouTube, Reels & Short-Form Content for Business</h3>
+                    <h3>Video Marketing Strategy: YouTube, Reels &amp; Short-Form Content for Business</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -7312,25 +7552,25 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Brand_Building_Digital_Strategy.php" class="blog-card" data-cat="strategy" data-title="Brand Building in the Digital Age: Strategy, Identity &amp; Consistency" style="--c:#1e40af">
+                <a href="../resources/Brand_Building_Digital_Strategy.php" class="blog-card" data-cat="strategy" data-title="Brand Building in the Digital Age: Strategy, Identity &amp;amp; Consistency" style="--c:#1e40af">
                     <div class="bc-tag"><i class="fas fa-chart-line"></i>Strategy + Cost + Analytics</div>
-                    <h3>Brand Building in the Digital Age: Strategy, Identity & Consistency</h3>
+                    <h3>Brand Building in the Digital Age: Strategy, Identity &amp; Consistency</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Influencer_Marketing_B2B_Guide.php" class="blog-card" data-cat="guides" data-title="Influencer Marketing for B2B: LinkedIn, Twitter &amp; Industry Experts" style="--c:#0f766e">
+                <a href="../resources/Influencer_Marketing_B2B_Guide.php" class="blog-card" data-cat="guides" data-title="Influencer Marketing for B2B: LinkedIn, Twitter &amp;amp; Industry Experts" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Influencer Marketing for B2B: LinkedIn, Twitter & Industry Experts</h3>
+                    <h3>Influencer Marketing for B2B: LinkedIn, Twitter &amp; Industry Experts</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Schema_Markup_SEO_Guide.php" class="blog-card" data-cat="guides" data-title="Schema Markup for SEO: Get Rich Snippets &amp; Better Search Visibility" style="--c:#0f766e">
+                <a href="../resources/Schema_Markup_SEO_Guide.php" class="blog-card" data-cat="guides" data-title="Schema Markup for SEO: Get Rich Snippets &amp;amp; Better Search Visibility" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Schema Markup for SEO: Get Rich Snippets & Better Search Visibility</h3>
+                    <h3>Schema Markup for SEO: Get Rich Snippets &amp; Better Search Visibility</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -7352,17 +7592,17 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Competitor_Analysis_SEO_Marketing.php" class="blog-card" data-cat="guides" data-title="Competitor Analysis for SEO &amp; Digital Marketing: Spy, Learn, Win" style="--c:#0f766e">
+                <a href="../resources/Competitor_Analysis_SEO_Marketing.php" class="blog-card" data-cat="guides" data-title="Competitor Analysis for SEO &amp;amp; Digital Marketing: Spy, Learn, Win" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Competitor Analysis for SEO & Digital Marketing: Spy, Learn, Win</h3>
+                    <h3>Competitor Analysis for SEO &amp; Digital Marketing: Spy, Learn, Win</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/International_SEO_Strategy_Guide.php" class="blog-card" data-cat="strategy" data-title="International SEO Strategy: Rank in Multiple Countries &amp; Languages" style="--c:#1e40af">
+                <a href="../resources/International_SEO_Strategy_Guide.php" class="blog-card" data-cat="strategy" data-title="International SEO Strategy: Rank in Multiple Countries &amp;amp; Languages" style="--c:#1e40af">
                     <div class="bc-tag"><i class="fas fa-chart-line"></i>Strategy + Cost + Analytics</div>
-                    <h3>International SEO Strategy: Rank in Multiple Countries & Languages</h3>
+                    <h3>International SEO Strategy: Rank in Multiple Countries &amp; Languages</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -7384,9 +7624,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Remarketing_Retargeting_Guide.php" class="blog-card" data-cat="guides" data-title="Remarketing &amp; Retargeting: Bring Back Lost Visitors and Convert Them" style="--c:#0f766e">
+                <a href="../resources/Remarketing_Retargeting_Guide.php" class="blog-card" data-cat="guides" data-title="Remarketing &amp;amp; Retargeting: Bring Back Lost Visitors and Convert Them" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Remarketing & Retargeting: Bring Back Lost Visitors and Convert Them</h3>
+                    <h3>Remarketing &amp; Retargeting: Bring Back Lost Visitors and Convert Them</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -7408,9 +7648,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Marketing_ROI_Measurement_Guide.php" class="blog-card" data-cat="guides" data-title="Marketing ROI Measurement: Track, Attribute &amp; Optimize Every Rupee Spent" style="--c:#0f766e">
+                <a href="../resources/Marketing_ROI_Measurement_Guide.php" class="blog-card" data-cat="guides" data-title="Marketing ROI Measurement: Track, Attribute &amp;amp; Optimize Every Rupee Spent" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Marketing ROI Measurement: Track, Attribute & Optimize Every Rupee Spent</h3>
+                    <h3>Marketing ROI Measurement: Track, Attribute &amp; Optimize Every Rupee Spent</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -7448,9 +7688,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Marketing_Automation_Tools_Strategy.php" class="blog-card" data-cat="strategy" data-title="Marketing Automation: Tools, Workflows &amp; Strategy for Growth" style="--c:#1e40af">
+                <a href="../resources/Marketing_Automation_Tools_Strategy.php" class="blog-card" data-cat="strategy" data-title="Marketing Automation: Tools, Workflows &amp;amp; Strategy for Growth" style="--c:#1e40af">
                     <div class="bc-tag"><i class="fas fa-chart-line"></i>Strategy + Cost + Analytics</div>
-                    <h3>Marketing Automation: Tools, Workflows & Strategy for Growth</h3>
+                    <h3>Marketing Automation: Tools, Workflows &amp; Strategy for Growth</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -7464,17 +7704,17 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Voice_Search_Optimization_Guide_2026.php" class="blog-card" data-cat="strategy" data-title="Voice Search Optimization: Prepare for Alexa, Siri &amp; Google Assistant" style="--c:#1e40af">
+                <a href="../resources/Voice_Search_Optimization_Guide_2026.php" class="blog-card" data-cat="strategy" data-title="Voice Search Optimization: Prepare for Alexa, Siri &amp;amp; Google Assistant" style="--c:#1e40af">
                     <div class="bc-tag"><i class="fas fa-chart-line"></i>Strategy + Cost + Analytics</div>
-                    <h3>Voice Search Optimization: Prepare for Alexa, Siri & Google Assistant</h3>
+                    <h3>Voice Search Optimization: Prepare for Alexa, Siri &amp; Google Assistant</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Predictive_Analytics_Business_Guide.php" class="blog-card" data-cat="guides" data-title="Predictive Analytics for Business: Forecast Trends &amp; Make Smarter Decisions" style="--c:#0f766e">
+                <a href="../resources/Predictive_Analytics_Business_Guide.php" class="blog-card" data-cat="guides" data-title="Predictive Analytics for Business: Forecast Trends &amp;amp; Make Smarter Decisions" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Predictive Analytics for Business: Forecast Trends & Make Smarter Decisions</h3>
+                    <h3>Predictive Analytics for Business: Forecast Trends &amp; Make Smarter Decisions</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -7504,25 +7744,25 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Natural_Language_Processing_Business_Apps.php" class="blog-card" data-cat="guides" data-title="NLP in Business Applications: Sentiment Analysis, Chatbots &amp; Text Mining" style="--c:#0f766e">
+                <a href="../resources/Natural_Language_Processing_Business_Apps.php" class="blog-card" data-cat="guides" data-title="NLP in Business Applications: Sentiment Analysis, Chatbots &amp;amp; Text Mining" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>NLP in Business Applications: Sentiment Analysis, Chatbots & Text Mining</h3>
+                    <h3>NLP in Business Applications: Sentiment Analysis, Chatbots &amp; Text Mining</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/AI_Customer_Service_Automation.php" class="blog-card" data-cat="guides" data-title="AI in Customer Service: Chatbots, Ticket Routing &amp; Self-Service Portals" style="--c:#0f766e">
+                <a href="../resources/AI_Customer_Service_Automation.php" class="blog-card" data-cat="guides" data-title="AI in Customer Service: Chatbots, Ticket Routing &amp;amp; Self-Service Portals" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>AI in Customer Service: Chatbots, Ticket Routing & Self-Service Portals</h3>
+                    <h3>AI in Customer Service: Chatbots, Ticket Routing &amp; Self-Service Portals</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Computer_Vision_Business_Applications.php" class="blog-card" data-cat="guides" data-title="Computer Vision for Business: Quality Inspection, Security &amp; Analytics" style="--c:#0f766e">
+                <a href="../resources/Computer_Vision_Business_Applications.php" class="blog-card" data-cat="guides" data-title="Computer Vision for Business: Quality Inspection, Security &amp;amp; Analytics" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Computer Vision for Business: Quality Inspection, Security & Analytics</h3>
+                    <h3>Computer Vision for Business: Quality Inspection, Security &amp; Analytics</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -7552,9 +7792,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Data_Pipeline_ETL_Development.php" class="blog-card" data-cat="guides" data-title="Data Pipeline &amp; ETL Development: Move, Transform &amp; Analyze Data at Scale" style="--c:#0f766e">
+                <a href="../resources/Data_Pipeline_ETL_Development.php" class="blog-card" data-cat="guides" data-title="Data Pipeline &amp;amp; ETL Development: Move, Transform &amp;amp; Analyze Data at Scale" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Data Pipeline & ETL Development: Move, Transform & Analyze Data at Scale</h3>
+                    <h3>Data Pipeline &amp; ETL Development: Move, Transform &amp; Analyze Data at Scale</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -7592,25 +7832,25 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/AI_Search_Landscape_2026.php" class="blog-card" data-cat="guides" data-title="AI Search Landscape 2026: Google AI Overviews, Perplexity &amp; Beyond" style="--c:#0f766e">
+                <a href="../resources/AI_Search_Landscape_2026.php" class="blog-card" data-cat="guides" data-title="AI Search Landscape 2026: Google AI Overviews, Perplexity &amp;amp; Beyond" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>AI Search Landscape 2026: Google AI Overviews, Perplexity & Beyond</h3>
+                    <h3>AI Search Landscape 2026: Google AI Overviews, Perplexity &amp; Beyond</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Workflow_Automation_No_Code_Low_Code.php" class="blog-card" data-cat="guides" data-title="Workflow Automation with No-Code &amp; Low-Code Platforms" style="--c:#0f766e">
+                <a href="../resources/Workflow_Automation_No_Code_Low_Code.php" class="blog-card" data-cat="guides" data-title="Workflow Automation with No-Code &amp;amp; Low-Code Platforms" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Workflow Automation with No-Code & Low-Code Platforms</h3>
+                    <h3>Workflow Automation with No-Code &amp; Low-Code Platforms</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/AI_Ethics_Responsible_AI_Business.php" class="blog-card" data-cat="guides" data-title="AI Ethics &amp; Responsible AI: Building Trustworthy AI Systems" style="--c:#0f766e">
+                <a href="../resources/AI_Ethics_Responsible_AI_Business.php" class="blog-card" data-cat="guides" data-title="AI Ethics &amp;amp; Responsible AI: Building Trustworthy AI Systems" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>AI Ethics & Responsible AI: Building Trustworthy AI Systems</h3>
+                    <h3>AI Ethics &amp; Responsible AI: Building Trustworthy AI Systems</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -7632,9 +7872,9 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/IT_Services_Company_UAE_Dubai.php" class="blog-card" data-cat="guides" data-title="IT Services Company in UAE &amp; Dubai: Custom Software &amp; App Development" style="--c:#0f766e">
+                <a href="../resources/IT_Services_Company_UAE_Dubai.php" class="blog-card" data-cat="guides" data-title="IT Services Company in UAE &amp;amp; Dubai: Custom Software &amp;amp; App Development" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>IT Services Company in UAE & Dubai: Custom Software & App Development</h3>
+                    <h3>IT Services Company in UAE &amp; Dubai: Custom Software &amp; App Development</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -7704,41 +7944,41 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Healthcare_Technology_Solutions_India.php" class="blog-card" data-cat="guides" data-title="Healthcare Technology Solutions in India: Telemedicine, EHR &amp; Patient Apps" style="--c:#0f766e">
+                <a href="../resources/Healthcare_Technology_Solutions_India.php" class="blog-card" data-cat="guides" data-title="Healthcare Technology Solutions in India: Telemedicine, EHR &amp;amp; Patient Apps" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Healthcare Technology Solutions in India: Telemedicine, EHR & Patient Apps</h3>
+                    <h3>Healthcare Technology Solutions in India: Telemedicine, EHR &amp; Patient Apps</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Ecommerce_Technology_D2C_Brands.php" class="blog-card" data-cat="guides" data-title="E-Commerce Technology for D2C Brands: Platforms, Apps &amp; Marketing" style="--c:#0f766e">
+                <a href="../resources/Ecommerce_Technology_D2C_Brands.php" class="blog-card" data-cat="guides" data-title="E-Commerce Technology for D2C Brands: Platforms, Apps &amp;amp; Marketing" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>E-Commerce Technology for D2C Brands: Platforms, Apps & Marketing</h3>
+                    <h3>E-Commerce Technology for D2C Brands: Platforms, Apps &amp; Marketing</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Education_Technology_India_eLearning.php" class="blog-card" data-cat="guides" data-title="Education Technology in India: eLearning Platforms, LMS &amp; EdTech Apps" style="--c:#0f766e">
+                <a href="../resources/Education_Technology_India_eLearning.php" class="blog-card" data-cat="guides" data-title="Education Technology in India: eLearning Platforms, LMS &amp;amp; EdTech Apps" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Education Technology in India: eLearning Platforms, LMS & EdTech Apps</h3>
+                    <h3>Education Technology in India: eLearning Platforms, LMS &amp; EdTech Apps</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Real_Estate_Technology_PropTech_India.php" class="blog-card" data-cat="guides" data-title="Real Estate Technology (PropTech) in India: Listings, Virtual Tours &amp; CRM" style="--c:#0f766e">
+                <a href="../resources/Real_Estate_Technology_PropTech_India.php" class="blog-card" data-cat="guides" data-title="Real Estate Technology (PropTech) in India: Listings, Virtual Tours &amp;amp; CRM" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Real Estate Technology (PropTech) in India: Listings, Virtual Tours & CRM</h3>
+                    <h3>Real Estate Technology (PropTech) in India: Listings, Virtual Tours &amp; CRM</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Fintech_Landscape_India_2026.php" class="blog-card" data-cat="guides" data-title="Fintech Landscape in India 2026: UPI, Digital Lending &amp; Neo-Banking" style="--c:#0f766e">
+                <a href="../resources/Fintech_Landscape_India_2026.php" class="blog-card" data-cat="guides" data-title="Fintech Landscape in India 2026: UPI, Digital Lending &amp;amp; Neo-Banking" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Fintech Landscape in India 2026: UPI, Digital Lending & Neo-Banking</h3>
+                    <h3>Fintech Landscape in India 2026: UPI, Digital Lending &amp; Neo-Banking</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
@@ -7760,49 +8000,49 @@
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/App_Development_Company_Hyderabad.php" class="blog-card" data-cat="guides" data-title="App Development Company in Hyderabad: Custom Software &amp; Mobile Apps" style="--c:#0f766e">
+                <a href="../resources/App_Development_Company_Hyderabad.php" class="blog-card" data-cat="guides" data-title="App Development Company in Hyderabad: Custom Software &amp;amp; Mobile Apps" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>App Development Company in Hyderabad: Custom Software & Mobile Apps</h3>
+                    <h3>App Development Company in Hyderabad: Custom Software &amp; Mobile Apps</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/IT_Outsourcing_India_Benefits_Guide.php" class="blog-card" data-cat="guides" data-title="IT Outsourcing to India: Benefits, Risks &amp; How to Get It Right" style="--c:#0f766e">
+                <a href="../resources/IT_Outsourcing_India_Benefits_Guide.php" class="blog-card" data-cat="guides" data-title="IT Outsourcing to India: Benefits, Risks &amp;amp; How to Get It Right" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>IT Outsourcing to India: Benefits, Risks & How to Get It Right</h3>
+                    <h3>IT Outsourcing to India: Benefits, Risks &amp; How to Get It Right</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Startup_Ecosystem_Mumbai_Technology.php" class="blog-card" data-cat="guides" data-title="Mumbai Startup Ecosystem: Technology, Funding &amp; Growth Opportunities" style="--c:#0f766e">
+                <a href="../resources/Startup_Ecosystem_Mumbai_Technology.php" class="blog-card" data-cat="guides" data-title="Mumbai Startup Ecosystem: Technology, Funding &amp;amp; Growth Opportunities" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Mumbai Startup Ecosystem: Technology, Funding & Growth Opportunities</h3>
+                    <h3>Mumbai Startup Ecosystem: Technology, Funding &amp; Growth Opportunities</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Digital_Marketing_Company_Mumbai.php" class="blog-card" data-cat="guides" data-title="Digital Marketing Services in Mumbai: SEO, PPC &amp; Social Media Experts" style="--c:#0f766e">
+                <a href="../resources/Digital_Marketing_Company_Mumbai.php" class="blog-card" data-cat="guides" data-title="Digital Marketing Services in Mumbai: SEO, PPC &amp;amp; Social Media Experts" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Digital Marketing Services in Mumbai: SEO, PPC & Social Media Experts</h3>
+                    <h3>Digital Marketing Services in Mumbai: SEO, PPC &amp; Social Media Experts</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Enterprise_Software_Development_India.php" class="blog-card" data-cat="guides" data-title="Enterprise Software Development in India: ERP, CRM &amp; Custom Platforms" style="--c:#0f766e">
+                <a href="../resources/Enterprise_Software_Development_India.php" class="blog-card" data-cat="guides" data-title="Enterprise Software Development in India: ERP, CRM &amp;amp; Custom Platforms" style="--c:#0f766e">
                     <div class="bc-tag"><i class="fas fa-lightbulb"></i>Guides + Insights</div>
-                    <h3>Enterprise Software Development in India: ERP, CRM & Custom Platforms</h3>
+                    <h3>Enterprise Software Development in India: ERP, CRM &amp; Custom Platforms</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
                     </div>
                 </a>
-                <a href="../resources/Sustainability_Technology_Green_Apps.php" class="blog-card" data-cat="strategy" data-title="Sustainability Technology: Green Apps &amp; Carbon Footprint Tracking" style="--c:#1e40af">
+                <a href="../resources/Sustainability_Technology_Green_Apps.php" class="blog-card" data-cat="strategy" data-title="Sustainability Technology: Green Apps &amp;amp; Carbon Footprint Tracking" style="--c:#1e40af">
                     <div class="bc-tag"><i class="fas fa-chart-line"></i>Strategy + Cost + Analytics</div>
-                    <h3>Sustainability Technology: Green Apps & Carbon Footprint Tracking</h3>
+                    <h3>Sustainability Technology: Green Apps &amp; Carbon Footprint Tracking</h3>
                     <div class="bc-meta">
                         <span><i class="fas fa-user"></i>ITD GrowthLabs</span>
                         <span class="bc-arrow">Read <i class="fas fa-arrow-right"></i></span>
