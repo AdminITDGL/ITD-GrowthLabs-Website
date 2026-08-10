@@ -57,6 +57,15 @@
     {"@context": "https://schema.org", "@type": "JobPosting", "title": "Content Writer & Content Strategist (1+ Year Experience)", "description": "SEO content, website copy, blogs, LinkedIn, social copy + content strategy for D2C + B2B clients.", "datePosted": "2026-07-06", "validThrough": "2026-12-31", "employmentType": "FULL_TIME", "hiringOrganization": {"@type": "Organization", "name": "ITD GrowthLabs", "sameAs": "https://itdgrowthlabs.com", "logo": "https://itdgrowthlabs.com/assets/img/logo.jpg"}, "jobLocation": {"@type": "Place", "address": {"@type": "PostalAddress", "streetAddress": "Andheri", "addressLocality": "Mumbai", "addressRegion": "Maharashtra", "postalCode": "400053", "addressCountry": "IN"}}, "url": "https://itdgrowthlabs.com/careers/content-writer-content-strategist.php", "totalJobOpenings": 1, "directApply": true, "experienceRequirements": {"@type": "OccupationalExperienceRequirements", "monthsOfExperience": 12}, "baseSalary": {"@type": "MonetaryAmount", "currency": "INR", "value": {"@type": "QuantitativeValue", "minValue": 350000, "maxValue": 800000, "unitText": "YEAR"}}}
     </script>
     <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "JobPosting", "title": "Brand Manager / Campaign Manager (2-4 Years Experience)", "description": "Own brand + campaign strategy for 4-6 India + GCC + international client brands. Build positioning + narrative, plan 360-degree campaigns end-to-end, direct creative + content + design + video pods, run client QBRs + brand workshops. Strategy + leadership seat like an in-house CMO for multiple clients.", "datePosted": "2026-08-06", "validThrough": "2026-12-31", "employmentType": "FULL_TIME", "hiringOrganization": {"@type": "Organization", "name": "ITD GrowthLabs", "sameAs": "https://itdgrowthlabs.com", "logo": "https://itdgrowthlabs.com/assets/img/logo.jpg"}, "jobLocation": {"@type": "Place", "address": {"@type": "PostalAddress", "streetAddress": "Andheri", "addressLocality": "Mumbai", "addressRegion": "Maharashtra", "postalCode": "400053", "addressCountry": "IN"}}, "url": "https://itdgrowthlabs.com/careers/brand-manager-campaign-manager.php", "totalJobOpenings": 1, "directApply": true, "experienceRequirements": {"@type": "OccupationalExperienceRequirements", "monthsOfExperience": 24}, "baseSalary": {"@type": "MonetaryAmount", "currency": "INR", "value": {"@type": "QuantitativeValue", "minValue": 700000, "maxValue": 1500000, "unitText": "YEAR"}}}
+    </script>
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "JobPosting", "title": "Senior Social Media Manager / Team Lead (3-5 Years Experience)", "description": "Lead a pod of Social Media Managers + Associates + own strategy across 8-12 India + GCC + international client accounts + coordinate with performance marketing pod. Set social direction, review calendars + creatives + campaigns, run monthly client QBRs, drive innovation on Reels + Shorts + Snapchat + TikTok, lead pitches, hire + grow team.", "datePosted": "2026-08-06", "validThrough": "2026-12-31", "employmentType": "FULL_TIME", "hiringOrganization": {"@type": "Organization", "name": "ITD GrowthLabs", "sameAs": "https://itdgrowthlabs.com", "logo": "https://itdgrowthlabs.com/assets/img/logo.jpg"}, "jobLocation": {"@type": "Place", "address": {"@type": "PostalAddress", "streetAddress": "Andheri", "addressLocality": "Mumbai", "addressRegion": "Maharashtra", "postalCode": "400053", "addressCountry": "IN"}}, "url": "https://itdgrowthlabs.com/careers/senior-social-media-manager.php", "totalJobOpenings": 1, "directApply": true, "experienceRequirements": {"@type": "OccupationalExperienceRequirements", "monthsOfExperience": 36}, "baseSalary": {"@type": "MonetaryAmount", "currency": "INR", "value": {"@type": "QuantitativeValue", "minValue": 900000, "maxValue": 1800000, "unitText": "YEAR"}}}
+    </script>
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "JobPosting", "title": "Performance Marketing Manager (2-4 Years Experience)", "description": "Own end-to-end paid marketing + ROAS for 5-8 India + GCC + international client accounts across D2C + B2B + real estate + fintech + hospitality. Build + launch + optimise Meta + Google + YouTube + Snapchat + TikTok + LinkedIn + programmatic campaigns. Own budget allocation + bid strategy + creative refresh + conversion tracking + attribution. ITD manages Rs 8Cr+ in ad spend across 100+ D2C brands.", "datePosted": "2026-08-06", "validThrough": "2026-12-31", "employmentType": "FULL_TIME", "hiringOrganization": {"@type": "Organization", "name": "ITD GrowthLabs", "sameAs": "https://itdgrowthlabs.com", "logo": "https://itdgrowthlabs.com/assets/img/logo.jpg"}, "jobLocation": {"@type": "Place", "address": {"@type": "PostalAddress", "streetAddress": "Andheri", "addressLocality": "Mumbai", "addressRegion": "Maharashtra", "postalCode": "400053", "addressCountry": "IN"}}, "url": "https://itdgrowthlabs.com/careers/performance-marketing-manager.php", "totalJobOpenings": 1, "directApply": true, "experienceRequirements": {"@type": "OccupationalExperienceRequirements", "monthsOfExperience": 24}, "baseSalary": {"@type": "MonetaryAmount", "currency": "INR", "value": {"@type": "QuantitativeValue", "minValue": 800000, "maxValue": 1600000, "unitText": "YEAR"}}}
+    </script>
+    <script type="application/ld+json">
     {"@context": "https://schema.org", "@type": "JobPosting", "title": "Quantum Computing Engineer — Financial Services", "description": "Quantum + quantum-inspired solutions for portfolio optimisation, risk, pricing.", "datePosted": "2026-06-24", "validThrough": "2026-12-31", "employmentType": "FULL_TIME", "hiringOrganization": {"@type": "Organization", "name": "ITD GrowthLabs", "sameAs": "https://itdgrowthlabs.com", "logo": "https://itdgrowthlabs.com/assets/img/logo.jpg"}, "jobLocation": {"@type": "Place", "address": {"@type": "PostalAddress", "addressCountry": "IN"}}, "url": "https://itdgrowthlabs.com/careers/quantum-computing-engineer-financial-services.php", "totalJobOpenings": 1, "directApply": true, "experienceRequirements": {"@type": "OccupationalExperienceRequirements", "monthsOfExperience": 24}, "baseSalary": {"@type": "MonetaryAmount", "currency": "INR", "value": {"@type": "QuantitativeValue", "minValue": 1500000, "maxValue": 4000000, "unitText": "YEAR"}}, "jobLocationType": "TELECOMMUTE", "applicantLocationRequirements": {"@type": "Country", "name": "India"}}
     </script>
 
@@ -431,6 +440,66 @@
                         <span class="tag"><i class="fas fa-briefcase"></i>Full-Time</span>
                         <span class="tag"><i class="fas fa-location-dot"></i>Mumbai</span>
                         <span class="tag"><i class="fas fa-clock"></i>2&ndash;3 yrs</span>
+                    </div>
+                    <span class="job-card-cta">View role &amp; apply <i class="fas fa-arrow-right"></i></span>
+                </div>
+            </a>
+            <a href="/careers/brand-manager-campaign-manager.php" class="job-card" style="--card-grad-a:#ec4899;--card-grad-b:#a855f7;">
+                <div class="job-card-banner">
+                    <div class="job-card-icon"><i class="fas fa-crown"></i></div>
+                    <div class="job-card-meta-row">
+                        <span class="job-card-pill"><i class="fas fa-circle" style="font-size:6px;"></i> 01 open</span>
+                        <span class="job-card-pill" style="background:rgba(236,72,153,0.16);color:#ec4899;border-color:rgba(236,72,153,0.35);"><i class="fas fa-star" style="font-size:9px;"></i> Senior</span>
+                    </div>
+                </div>
+                <div class="job-card-body">
+                    <h3>Brand Manager / Campaign Manager</h3>
+                    <p class="job-card-tagline">Brand strategy + client campaigns + creative direction</p>
+                    <p class="job-card-blurb">Own brand + campaign strategy for 4&ndash;6 India + GCC + international clients. Positioning, narrative, 360-degree campaigns, QBRs.</p>
+                    <div class="job-card-tags">
+                        <span class="tag"><i class="fas fa-briefcase"></i>Full-Time</span>
+                        <span class="tag"><i class="fas fa-location-dot"></i>Mumbai</span>
+                        <span class="tag"><i class="fas fa-clock"></i>2&ndash;4 yrs</span>
+                    </div>
+                    <span class="job-card-cta">View role &amp; apply <i class="fas fa-arrow-right"></i></span>
+                </div>
+            </a>
+            <a href="/careers/senior-social-media-manager.php" class="job-card" style="--card-grad-a:#8b5cf6;--card-grad-b:#c026d3;">
+                <div class="job-card-banner">
+                    <div class="job-card-icon"><i class="fas fa-share-nodes"></i></div>
+                    <div class="job-card-meta-row">
+                        <span class="job-card-pill"><i class="fas fa-circle" style="font-size:6px;"></i> 01 open</span>
+                        <span class="job-card-pill" style="background:rgba(139,92,246,0.16);color:#8b5cf6;border-color:rgba(139,92,246,0.35);"><i class="fas fa-star" style="font-size:9px;"></i> Senior</span>
+                    </div>
+                </div>
+                <div class="job-card-body">
+                    <h3>Senior Social Media Manager / Team Lead</h3>
+                    <p class="job-card-tagline">Team lead + 8&ndash;12 accounts + performance coordination</p>
+                    <p class="job-card-blurb">Lead a pod of Social Media Managers + Associates. Own strategy across 8&ndash;12 client accounts + coordinate with performance team.</p>
+                    <div class="job-card-tags">
+                        <span class="tag"><i class="fas fa-briefcase"></i>Full-Time</span>
+                        <span class="tag"><i class="fas fa-location-dot"></i>Mumbai</span>
+                        <span class="tag"><i class="fas fa-clock"></i>3&ndash;5 yrs</span>
+                    </div>
+                    <span class="job-card-cta">View role &amp; apply <i class="fas fa-arrow-right"></i></span>
+                </div>
+            </a>
+            <a href="/careers/performance-marketing-manager.php" class="job-card" style="--card-grad-a:#0891b2;--card-grad-b:#0f766e;">
+                <div class="job-card-banner">
+                    <div class="job-card-icon"><i class="fas fa-chart-line"></i></div>
+                    <div class="job-card-meta-row">
+                        <span class="job-card-pill"><i class="fas fa-circle" style="font-size:6px;"></i> 01 open</span>
+                        <span class="job-card-pill" style="background:rgba(8,145,178,0.16);color:#0891b2;border-color:rgba(8,145,178,0.35);"><i class="fas fa-star" style="font-size:9px;"></i> Senior</span>
+                    </div>
+                </div>
+                <div class="job-card-body">
+                    <h3>Performance Marketing Manager</h3>
+                    <p class="job-card-tagline">Meta + Google + programmatic + ROAS + attribution</p>
+                    <p class="job-card-blurb">Own paid marketing + ROAS for 5&ndash;8 clients across D2C + B2B + real estate + fintech + hospitality. &#8377;10L&ndash;&#8377;3 Cr monthly ad spend.</p>
+                    <div class="job-card-tags">
+                        <span class="tag"><i class="fas fa-briefcase"></i>Full-Time</span>
+                        <span class="tag"><i class="fas fa-location-dot"></i>Mumbai</span>
+                        <span class="tag"><i class="fas fa-clock"></i>2&ndash;4 yrs</span>
                     </div>
                     <span class="job-card-cta">View role &amp; apply <i class="fas fa-arrow-right"></i></span>
                 </div>
