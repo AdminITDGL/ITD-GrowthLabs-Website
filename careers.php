@@ -7,13 +7,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="ITD GrowthLabs careers — 7 open roles in 2026: Web Developer, Graphic Designer + Video Editor, UI/UX Designer, Social Media Associate, Social Media Manager, Content Writer & Strategist (all Mumbai) + Quantum Computing Engineer (Remote). Full-Time + Internship.">
-    <title>Careers &mdash; 7 Open Roles at ITD GrowthLabs (Mumbai + Remote) 2026 | ITD GrowthLabs</title>
+    <meta name="description" content="ITD GrowthLabs careers — 11 open roles in 2026: Sales Executive, Brand Manager, Sr Social Media Manager, Performance Marketing Manager, Web Developer, Designer + Video Editor, UI/UX, Social Media Associate, Social Media Manager, Content Writer (all Mumbai) + Quantum Computing Engineer (Remote). Full-Time + Internship.">
+    <title>Careers &mdash; 11 Open Roles at ITD GrowthLabs (Mumbai + Remote) 2026 | ITD GrowthLabs</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/careers.php" />
     <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
 
     <meta property="og:title" content="Build something that matters — ITD GrowthLabs Careers" />
-    <meta property="og:description" content="7 open roles in 2026. Web Developer, Designer + Video Editor, UI/UX, Social Media Associate, Social Media Manager, Content Writer & Strategist (Mumbai) + Quantum Computing Engineer (Remote)." />
+    <meta property="og:description" content="11 open roles in 2026. Sales Executive + Brand Manager + Sr Social Media Manager + Performance Marketing Manager + Web Developer + Designer + Video Editor + UI/UX + Social Media Associate + Social Media Manager + Content Writer (Mumbai) + Quantum Computing Engineer (Remote)." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://itdgrowthlabs.com/careers.php" />
     <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
@@ -64,6 +64,9 @@
     </script>
     <script type="application/ld+json">
     {"@context": "https://schema.org", "@type": "JobPosting", "title": "Performance Marketing Manager (2-4 Years Experience)", "description": "Own end-to-end paid marketing + ROAS for 5-8 India + GCC + international client accounts across D2C + B2B + real estate + fintech + hospitality. Build + launch + optimise Meta + Google + YouTube + Snapchat + TikTok + LinkedIn + programmatic campaigns. Own budget allocation + bid strategy + creative refresh + conversion tracking + attribution. ITD manages Rs 8Cr+ in ad spend across 100+ D2C brands.", "datePosted": "2026-08-06", "validThrough": "2026-12-31", "employmentType": "FULL_TIME", "hiringOrganization": {"@type": "Organization", "name": "ITD GrowthLabs", "sameAs": "https://itdgrowthlabs.com", "logo": "https://itdgrowthlabs.com/assets/img/logo.jpg"}, "jobLocation": {"@type": "Place", "address": {"@type": "PostalAddress", "streetAddress": "Andheri", "addressLocality": "Mumbai", "addressRegion": "Maharashtra", "postalCode": "400053", "addressCountry": "IN"}}, "url": "https://itdgrowthlabs.com/careers/performance-marketing-manager.php", "totalJobOpenings": 1, "directApply": true, "experienceRequirements": {"@type": "OccupationalExperienceRequirements", "monthsOfExperience": 24}, "baseSalary": {"@type": "MonetaryAmount", "currency": "INR", "value": {"@type": "QuantitativeValue", "minValue": 800000, "maxValue": 1600000, "unitText": "YEAR"}}}
+    </script>
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "JobPosting", "title": "Sales Executive - Digital Marketing Services (1-3 Years Experience)", "description": "Own new-client conversations + proposals + presentations for ITD GrowthLabs digital marketing + brand campaign + creative + performance services. Talk to inbound + outbound prospects, understand brand + marketing needs, build tailored proposals + presentations, attend client + partner meetings virtual + on-site Mumbai + occasional travel, close deals in the Rs 50K-Rs 10L monthly retainer range. Quota-carrying + commission-earning sales seat with attractive commission on top of base.", "datePosted": "2026-08-10", "validThrough": "2026-12-31", "employmentType": "FULL_TIME", "hiringOrganization": {"@type": "Organization", "name": "ITD GrowthLabs", "sameAs": "https://itdgrowthlabs.com", "logo": "https://itdgrowthlabs.com/assets/img/logo.jpg"}, "jobLocation": {"@type": "Place", "address": {"@type": "PostalAddress", "streetAddress": "Andheri", "addressLocality": "Mumbai", "addressRegion": "Maharashtra", "postalCode": "400053", "addressCountry": "IN"}}, "url": "https://itdgrowthlabs.com/careers/sales-executive.php", "totalJobOpenings": 2, "directApply": true, "experienceRequirements": {"@type": "OccupationalExperienceRequirements", "monthsOfExperience": 12}, "baseSalary": {"@type": "MonetaryAmount", "currency": "INR", "value": {"@type": "QuantitativeValue", "minValue": 400000, "maxValue": 900000, "unitText": "YEAR"}}}
     </script>
     <script type="application/ld+json">
     {"@context": "https://schema.org", "@type": "JobPosting", "title": "Quantum Computing Engineer — Financial Services", "description": "Quantum + quantum-inspired solutions for portfolio optimisation, risk, pricing.", "datePosted": "2026-06-24", "validThrough": "2026-12-31", "employmentType": "FULL_TIME", "hiringOrganization": {"@type": "Organization", "name": "ITD GrowthLabs", "sameAs": "https://itdgrowthlabs.com", "logo": "https://itdgrowthlabs.com/assets/img/logo.jpg"}, "jobLocation": {"@type": "Place", "address": {"@type": "PostalAddress", "addressCountry": "IN"}}, "url": "https://itdgrowthlabs.com/careers/quantum-computing-engineer-financial-services.php", "totalJobOpenings": 1, "directApply": true, "experienceRequirements": {"@type": "OccupationalExperienceRequirements", "monthsOfExperience": 24}, "baseSalary": {"@type": "MonetaryAmount", "currency": "INR", "value": {"@type": "QuantitativeValue", "minValue": 1500000, "maxValue": 4000000, "unitText": "YEAR"}}, "jobLocationType": "TELECOMMUTE", "applicantLocationRequirements": {"@type": "Country", "name": "India"}}
@@ -332,7 +335,7 @@
 
     <section class="careers-hero">
         <div class="container">
-            <span class="eyebrow"><span class="dot"></span>7 open roles &middot; Hiring now &middot; Mumbai + Remote</span>
+            <span class="eyebrow"><span class="dot"></span>11 open roles &middot; Hiring now &middot; Mumbai + Remote</span>
             <h1>Join us. <span class="grad">Build something real.</span></h1>
             <div class="hero-pills">
                 <span><i class="fas fa-rocket"></i>Real work from day one</span>
@@ -341,7 +344,7 @@
                 <span><i class="fas fa-location-dot"></i>Andheri HQ + Remote</span>
             </div>
             <div class="cta-row">
-                <a href="#open-roles" class="cta-primary"><i class="fas fa-briefcase"></i>See 7 open roles</a>
+                <a href="#open-roles" class="cta-primary"><i class="fas fa-briefcase"></i>See 11 open roles</a>
                 <a href="mailto:info@itdgrowthlabs.com?subject=Career%20enquiry" class="cta-secondary"><i class="fas fa-envelope"></i>Don&rsquo;t see your role? Email us</a>
             </div>
         </div>
@@ -350,9 +353,29 @@
     <section class="jobs-section" id="open-roles">
         <div class="container">
             <div class="section-eyebrow">Open positions &middot; 2026</div>
-            <h2>7 roles. 1 senior-led team. Apply in 2 minutes.</h2>
+            <h2>11 roles. 1 senior-led team. Apply in 2 minutes.</h2>
             <p class="sec-sub">Click any role to read the full job description and apply with your CV. We review every application personally and reply within 5 business days &mdash; no ghosting.</p>
             <div class="job-grid">
+            <a href="/careers/sales-executive.php" class="job-card" style="--card-grad-a:#f59e0b;--card-grad-b:#ef4444;">
+                <div class="job-card-banner">
+                    <div class="job-card-icon"><i class="fas fa-handshake"></i></div>
+                    <div class="job-card-meta-row">
+                        <span class="job-card-pill"><i class="fas fa-circle" style="font-size:6px;"></i> 02 open</span>
+                        <span class="job-card-pill" style="background:rgba(245,158,11,0.16);color:#d97706;border-color:rgba(245,158,11,0.35);"><i class="fas fa-bolt" style="font-size:9px;"></i> Just added</span>
+                    </div>
+                </div>
+                <div class="job-card-body">
+                    <h3>Sales Executive &ndash; Digital Marketing</h3>
+                    <p class="job-card-tagline">Client conversations + proposals + presentations + closing</p>
+                    <p class="job-card-blurb">Own inbound + outbound client conversations, build tailored proposals + presentations, attend client meetings, close &#8377;50K&ndash;&#8377;10L / month retainers. Fixed base + attractive commission.</p>
+                    <div class="job-card-tags">
+                        <span class="tag"><i class="fas fa-briefcase"></i>Full-Time</span>
+                        <span class="tag"><i class="fas fa-location-dot"></i>Mumbai</span>
+                        <span class="tag"><i class="fas fa-clock"></i>1&ndash;3 yrs</span>
+                    </div>
+                    <span class="job-card-cta">View role &amp; apply <i class="fas fa-arrow-right"></i></span>
+                </div>
+            </a>
             <a href="/careers/web-developer.php" class="job-card" style="--card-grad-a:#1e40af;--card-grad-b:#3b82f6;">
                 <div class="job-card-banner">
                     <div class="job-card-icon"><i class="fas fa-code"></i></div>
