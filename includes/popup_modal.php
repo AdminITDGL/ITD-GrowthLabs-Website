@@ -535,9 +535,96 @@ $itdgl_calendly_url = 'https://calendly.com/itdgrowthlabs-info/30min?hide_event_
 .itdgl-popup-alt-ctas a.wa { background: #25D366; color: #fff !important; box-shadow: 0 4px 12px rgba(37,211,102,0.30); }
 .itdgl-popup-alt-ctas a.wa:hover { background: #1da856; box-shadow: 0 8px 20px rgba(37,211,102,0.45); }
 .itdgl-popup-alt-ctas a.pdf,
-.itdgl-popup-alt-ctas a.contact { background: rgba(255,255,255,0.08); color: #fff !important; border: 1px solid rgba(255,255,255,0.25); }
+.itdgl-popup-alt-ctas a.contact,
+.itdgl-popup-alt-ctas button.pdf { background: rgba(255,255,255,0.08); color: #fff !important; border: 1px solid rgba(255,255,255,0.25); }
 .itdgl-popup-alt-ctas a.pdf:hover,
-.itdgl-popup-alt-ctas a.contact:hover { background: rgba(255,255,255,0.16); }
+.itdgl-popup-alt-ctas a.contact:hover,
+.itdgl-popup-alt-ctas button.pdf:hover { background: rgba(255,255,255,0.16); }
+.itdgl-popup-alt-ctas button.pdf {
+    flex: 1; min-width: 130px;
+    display: inline-flex; align-items: center; justify-content: center; gap: 6px;
+    padding: 9px 12px; border-radius: 8px;
+    font-size: 12.5px; font-weight: 700;
+    font-family: inherit;
+    cursor: pointer;
+    transition: transform .2s ease, box-shadow .2s ease;
+}
+.itdgl-popup-alt-ctas button.pdf:hover { transform: translateY(-2px); }
+
+/* PDF lead-capture gate (slides down after user clicks the brochure button) */
+.itdgl-pdf-gate {
+    background: rgba(255,255,255,0.06);
+    border: 1px solid rgba(255,255,255,0.14);
+    border-radius: 10px;
+    padding: 14px 14px 12px;
+    margin: 0 0 14px;
+    animation: itdglPdfGateSlide .2s ease-out;
+}
+@keyframes itdglPdfGateSlide {
+    from { opacity: 0; transform: translateY(-4px); }
+    to   { opacity: 1; transform: translateY(0); }
+}
+.itdgl-pdf-gate-header {
+    display: flex; align-items: center; justify-content: space-between;
+    margin-bottom: 4px;
+}
+.itdgl-pdf-gate-header strong {
+    font-size: 13.5px; color: #fff; font-weight: 800;
+}
+.itdgl-pdf-gate-close {
+    background: transparent; border: none; color: rgba(255,255,255,0.65);
+    font-size: 20px; line-height: 1; cursor: pointer; padding: 0 6px;
+}
+.itdgl-pdf-gate-close:hover { color: #fff; }
+.itdgl-pdf-gate-sub {
+    margin: 0 0 12px; font-size: 12px; color: rgba(255,255,255,0.72); line-height: 1.5;
+}
+.itdgl-pdf-gate form input[type="text"],
+.itdgl-pdf-gate form input[type="email"],
+.itdgl-pdf-gate form input[type="tel"] {
+    width: 100%;
+    padding: 9px 11px;
+    margin-bottom: 8px;
+    border: 1px solid rgba(255,255,255,0.20);
+    border-radius: 7px;
+    background: rgba(255,255,255,0.08);
+    color: #fff;
+    font-size: 12.5px;
+    font-family: inherit;
+    outline: none;
+    transition: border-color .15s ease, background .15s ease;
+}
+.itdgl-pdf-gate form input:focus {
+    border-color: var(--ip-accent);
+    background: rgba(255,255,255,0.12);
+}
+.itdgl-pdf-gate form input::placeholder { color: rgba(255,255,255,0.45); }
+.itdgl-pdf-gate-submit {
+    width: 100%;
+    padding: 10px 14px;
+    background: linear-gradient(135deg, #ff5722 0%, #ef4444 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    font-size: 13px;
+    font-weight: 800;
+    font-family: inherit;
+    cursor: pointer;
+    transition: transform .15s ease, box-shadow .15s ease;
+    box-shadow: 0 4px 12px rgba(255,87,34,0.28);
+    display: flex; align-items: center; justify-content: center; gap: 6px;
+}
+.itdgl-pdf-gate-submit:hover:not(:disabled) {
+    transform: translateY(-1px);
+    box-shadow: 0 6px 16px rgba(255,87,34,0.42);
+}
+.itdgl-pdf-gate-submit:disabled { opacity: 0.65; cursor: wait; }
+.itdgl-pdf-gate-note {
+    margin: 8px 0 0; font-size: 11.5px; text-align: center;
+    color: rgba(255,255,255,0.72); min-height: 14px;
+}
+.itdgl-pdf-gate-note.success { color: #22c55e; font-weight: 700; }
+.itdgl-pdf-gate-note.error   { color: #f87171; font-weight: 700; }
 
 .itdgl-popup-trust { margin-top: auto; padding-top: 16px; }
 .itdgl-popup-trust-row {
@@ -631,15 +718,43 @@ $itdgl_calendly_url = 'https://calendly.com/itdgrowthlabs-info/30min?hide_event_
                             <i class="fab fa-whatsapp" style="font-size:15px;"></i> WhatsApp
                         </a>
                         <?php if ($itdgl_has_pdf): ?>
-                        <a class="pdf" href="<?php echo htmlspecialchars($itdgl_pdf_url); ?>" target="_blank" rel="noopener" onclick="if(typeof gtag==='function')gtag('event','pdf_download',{source:'popup_pdf_secondary',popup_source:<?php echo json_encode($itdgl_cfg['source']); ?>});">
+                        <button type="button" class="pdf" id="itdglPdfGateBtn" onclick="itdglOpenPdfGate();">
                             <i class="fas fa-file-pdf" style="font-size:13px;"></i> <?php echo htmlspecialchars($itdgl_pdf_label); ?>
-                        </a>
+                        </button>
                         <?php else: ?>
                         <a class="contact" href="<?php echo htmlspecialchars($itdgl_contact_url); ?>">
                             <i class="fas fa-envelope" style="font-size:13px;"></i> Contact form
                         </a>
                         <?php endif; ?>
                     </div>
+
+                    <?php if ($itdgl_has_pdf): ?>
+                    <!-- Lead-capture gate for PDF download -->
+                    <div class="itdgl-pdf-gate" id="itdglPdfGate" style="display:none;">
+                        <div class="itdgl-pdf-gate-header">
+                            <strong>Get the marketing brochure</strong>
+                            <button type="button" class="itdgl-pdf-gate-close" onclick="itdglClosePdfGate();" aria-label="Close">&times;</button>
+                        </div>
+                        <p class="itdgl-pdf-gate-sub">Enter your details &mdash; PDF downloads instantly + we&rsquo;ll send a copy to your inbox.</p>
+                        <form id="itdglPdfGateForm" novalidate>
+                            <input type="text" name="name" placeholder="Full name" required autocomplete="name">
+                            <input type="email" name="email" placeholder="Work email" required autocomplete="email">
+                            <input type="tel" name="mobile" placeholder="Mobile / WhatsApp (with country code)" required autocomplete="tel">
+                            <input type="hidden" name="source" value="popup_marketing_brochure_download">
+                            <input type="hidden" name="popup_source" value="<?php echo htmlspecialchars($itdgl_cfg['source']); ?>">
+                            <input type="hidden" name="pdf_url" value="<?php echo htmlspecialchars($itdgl_pdf_url); ?>">
+                            <!-- honeypot + form-ts for spam protection (names match includes/spam_protection.php) -->
+                            <input type="text" name="website_hp" style="position:absolute;left:-9999px;" tabindex="-1" autocomplete="off">
+                            <input type="text" name="username_hp" style="position:absolute;left:-9999px;" tabindex="-1" autocomplete="off">
+                            <input type="hidden" name="form_ts" value="<?php echo time(); ?>">
+                            <button type="submit" class="itdgl-pdf-gate-submit">
+                                <span class="btn-label"><i class="fas fa-download"></i> Get the PDF</span>
+                                <span class="btn-loading" style="display:none;"><i class="fas fa-spinner fa-spin"></i> Sending&hellip;</span>
+                            </button>
+                            <p class="itdgl-pdf-gate-note" id="itdglPdfGateNote"></p>
+                        </form>
+                    </div>
+                    <?php endif; ?>
 
                     <div class="itdgl-popup-trust">
                         <div class="itdgl-popup-trust-row">
@@ -810,5 +925,94 @@ $itdgl_calendly_url = 'https://calendly.com/itdgrowthlabs-info/30min?hide_event_
         if (!bar || !modalEl) return;
         modalEl.addEventListener('show.bs.modal', function() { bar.classList.add('hidden'); });
         modalEl.addEventListener('hidden.bs.modal', function() { bar.classList.remove('hidden'); });
+    });
+
+    /* ============================================================
+       PDF LEAD-CAPTURE GATE
+       Reveals the inline form when user clicks the brochure button.
+       On submit → POST to leadCaptureMail.php → trigger PDF download.
+       ============================================================ */
+    function itdglOpenPdfGate() {
+        var gate = document.getElementById('itdglPdfGate');
+        var btn  = document.getElementById('itdglPdfGateBtn');
+        if (!gate) return;
+        gate.style.display = 'block';
+        if (btn) btn.style.display = 'none';
+        // Focus the first field for keyboard-first users
+        var firstInput = gate.querySelector('input[name="name"]');
+        if (firstInput) firstInput.focus();
+        if (typeof gtag === 'function') gtag('event', 'pdf_gate_open', {source: 'popup_marketing_brochure_download'});
+    }
+    function itdglClosePdfGate() {
+        var gate = document.getElementById('itdglPdfGate');
+        var btn  = document.getElementById('itdglPdfGateBtn');
+        if (!gate) return;
+        gate.style.display = 'none';
+        if (btn) btn.style.display = '';
+    }
+    document.addEventListener('DOMContentLoaded', function() {
+        var form = document.getElementById('itdglPdfGateForm');
+        if (!form) return;
+        form.addEventListener('submit', function(ev) {
+            ev.preventDefault();
+            var submitBtn = form.querySelector('.itdgl-pdf-gate-submit');
+            var btnLabel  = form.querySelector('.btn-label');
+            var btnLoad   = form.querySelector('.btn-loading');
+            var note      = document.getElementById('itdglPdfGateNote');
+            var pdfUrl    = form.querySelector('input[name="pdf_url"]').value || '/assets/ITD-GrowthLabs-Marketing-Profile.pdf';
+            note.className = 'itdgl-pdf-gate-note';
+            note.textContent = '';
+
+            var email = (form.querySelector('input[name="email"]').value || '').trim();
+            if (!email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+                note.className = 'itdgl-pdf-gate-note error';
+                note.textContent = 'Please enter a valid email address.';
+                return;
+            }
+
+            submitBtn.disabled = true;
+            if (btnLabel) btnLabel.style.display = 'none';
+            if (btnLoad)  btnLoad.style.display  = '';
+
+            var fd = new FormData(form);
+            fetch('/leadCaptureMail.php', {
+                method: 'POST',
+                body: fd,
+                credentials: 'same-origin'
+            })
+            .then(function(r) { return r.json().catch(function() { return {status: 'success'}; }); })
+            .then(function(json) {
+                if (json && json.status === 'error') {
+                    throw new Error(json.message || 'Something went wrong');
+                }
+                note.className = 'itdgl-pdf-gate-note success';
+                note.textContent = 'Sent! Your PDF is downloading…';
+                if (typeof gtag === 'function') {
+                    gtag('event', 'pdf_download', {source: 'popup_marketing_brochure_download'});
+                    gtag('event', 'generate_lead', {source: 'popup_marketing_brochure_download'});
+                }
+                // Trigger the PDF download in a new tab so the popup stays intact.
+                var a = document.createElement('a');
+                a.href = pdfUrl;
+                a.target = '_blank';
+                a.rel = 'noopener';
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+                // Reset button state after a moment
+                setTimeout(function() {
+                    submitBtn.disabled = false;
+                    if (btnLabel) btnLabel.style.display = '';
+                    if (btnLoad)  btnLoad.style.display  = 'none';
+                }, 1400);
+            })
+            .catch(function(err) {
+                note.className = 'itdgl-pdf-gate-note error';
+                note.textContent = (err && err.message) ? err.message : 'Please try again in a moment.';
+                submitBtn.disabled = false;
+                if (btnLabel) btnLabel.style.display = '';
+                if (btnLoad)  btnLoad.style.display  = 'none';
+            });
+        });
     });
 </script>
