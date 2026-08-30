@@ -132,6 +132,22 @@
         </div>
     </div>
 
+        <!-- SKINCARE-CLUSTER-PANEL-v1 -->
+    <div style="max-width:1080px;margin:24px auto 40px;padding:0 20px;">
+      <div style="background:linear-gradient(135deg,#fef2f2 0%,#fdf2f8 100%);border-left:5px solid #ec4899;border-radius:12px;padding:28px 32px;font-family:inherit;box-shadow:0 2px 8px rgba(219,39,119,0.08);">
+        <div style="font-size:12px;letter-spacing:0.6px;color:#db2777;font-weight:700;margin-bottom:6px;">FROM THE ITD SKINCARE D2C PLAYBOOK &mdash; 50-PIECE CLUSTER</div>
+        <h3 style="color:#831843;font-size:22px;margin:0 0 12px;line-height:1.35;">Building a skincare D2C brand or evaluating your marketing? Start here.</h3>
+        <p style="color:#475569;font-size:15px;line-height:1.7;margin:0 0 18px;">ITD publishes a full 50-piece D2C skincare playbook covering positioning, launch budgets, Shopify + WhatsApp + subscription, compliance (CDSCO + ASCI + ESMA + SFDA + halal), agency evaluation, and India + GCC benchmarks. Most relevant reads:</p>
+        <ul style="list-style:none;padding:0;margin:0;">
+      <li style="margin-bottom:10px;line-height:1.6;"><a href="/industries/digital-marketing-for-skincare-brands.php" style="color:#db2777;font-weight:600;text-decoration:none;">Digital Marketing Agency for Skincare Brands (D2C, India + GCC)</a></li>
+      <li style="margin-bottom:10px;line-height:1.6;"><a href="/resources/how_to_launch_skincare_brand_dubai_gcc_saudi.php" style="color:#db2777;font-weight:600;text-decoration:none;">How to launch a skincare D2C brand in Dubai + GCC + Saudi</a></li>
+      <li style="margin-bottom:10px;line-height:1.6;"><a href="/resources/best_skincare_agency_dubai_uae.php" style="color:#db2777;font-weight:600;text-decoration:none;">Best skincare marketing agency in Dubai + UAE</a></li>
+      <li style="margin-bottom:10px;line-height:1.6;"><a href="/resources/top_skincare_agency_riyadh_jeddah_saudi.php" style="color:#db2777;font-weight:600;text-decoration:none;">Top skincare agency Riyadh + Jeddah + Saudi</a></li>
+      <li style="margin-bottom:10px;line-height:1.6;"><a href="/resources/halal_vegan_clean_skincare_d2c_gcc.php" style="color:#db2777;font-weight:600;text-decoration:none;">Halal + vegan + clean skincare — GCC opportunity</a></li>
+      <li style="margin-bottom:10px;line-height:1.6;"><a href="/resources/book_skincare_d2c_strategy_call_free_audit.php" style="color:#db2777;font-weight:600;text-decoration:none;">Book free 30-min skincare D2C strategy call</a></li>
+        </ul>
+      </div>
+    </div>
     <?php include("../includes/blog_author_bio.php") ?>
     <?php include("../includes/footer.php") ?>
 
