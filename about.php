@@ -135,9 +135,7 @@
                 <?php foreach ([
                     ['file'=>'mindsyn.png',            'alt'=>'MindSyn'],
                     ['file'=>'courierdost.png',        'alt'=>'CourierDost'],
-                    ['file'=>'acx.png',                'alt'=>'ACX'],
                     ['file'=>'transline-cargo.png',    'alt'=>'Transline Air Cargo Services'],
-                    ['file'=>'nex-navalai.png',        'alt'=>'NEX Navalai Enterprises'],
                     ['file'=>'cariesco-group.png',     'alt'=>'Cariesco Group'],
                     ['file'=>'technocrats.png',        'alt'=>'Technocrats (ISO 9001:2015)'],
                     ['file'=>'m-four-development.png', 'alt'=>'M Four Development'],

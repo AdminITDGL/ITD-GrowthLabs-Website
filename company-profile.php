@@ -1351,7 +1351,6 @@ a { color: inherit; text-decoration: none; }
                 <p class="lead" style="margin-top:14px;">Additional references available under NDA on request.</p>
 
                 <div class="clients-wall">
-                    <div class="client-tile"><div class="client-tile__name">Navlai</div><div class="client-tile__type">Enterprise</div></div>
                     <div class="client-tile"><div class="client-tile__name">Bombino</div><div class="client-tile__type">Enterprise</div></div>
                     <div class="client-tile"><div class="client-tile__name">Skynet</div><div class="client-tile__type">Logistics</div></div>
                     <div class="client-tile"><div class="client-tile__name">300+ More</div><div class="client-tile__type">Logistics Platform</div></div>
