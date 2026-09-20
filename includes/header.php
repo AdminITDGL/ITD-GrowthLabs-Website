@@ -209,6 +209,7 @@
                                                <li><a href="/services/seo-auditing-services.php">Search Engine Optimization (SEO)</a></li>
                                                <li><a href="/services/google-search-ads-services.php">Google Ads (PPC)</a></li>
                                                <li><a href="/services/meta_ads.php">Meta Ads Management</a></li>
+                                               <li><a href="/services/linkedin-personal-branding.php" style="color:#0a66c2;"><i class="fab fa-linkedin" style="margin-right:6px;font-size:12px;"></i><strong>LinkedIn Personal Branding</strong></a></li>
                                                <li><a href="/services/social-media-marketing.php">Social Media Marketing</a></li>
                                            </ul>
                                        </div>

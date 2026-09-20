@@ -24,6 +24,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $email  = isset($_POST['email'])  ? filter_var($_POST['email'], FILTER_SANITIZE_EMAIL) : '';
     $mobile = isset($_POST['mobile']) ? htmlspecialchars($_POST['mobile'])                 : '';
 
+    // Optional extra fields (used by LinkedIn Personal Branding package selection + other forms)
+    $package       = isset($_POST['package'])        ? htmlspecialchars($_POST['package'])        : '';
+    $roleIndustry  = isset($_POST['role_industry'])  ? htmlspecialchars($_POST['role_industry'])  : '';
+    $city          = isset($_POST['city'])           ? htmlspecialchars($_POST['city'])           : '';
+    $message       = isset($_POST['message'])        ? htmlspecialchars($_POST['message'])        : '';
+
     if (empty($email) || !filter_var($email, FILTER_VALIDATE_EMAIL)) {
         echo json_encode(['status' => 'error', 'message' => 'Invalid email']);
         exit;
@@ -97,6 +103,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     itdgl_log_lead('leadCapture_' . $source, [
         'name' => $name, 'email' => $email, 'mobile' => $mobile,
         'source' => $source, 'source_label' => $sourceLabel,
+        'package' => $package, 'role_industry' => $roleIndustry,
+        'city' => $city, 'message' => $message,
     ]);
 
     // ── Real leads (download / contact / etc): email the team as before ─────
@@ -111,10 +119,19 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $mail->addAddress('kushal@itdservices.in',  'ITD GrowthLabs');
         $mail->addReplyTo($email, $name);
         $mail->isHTML(true);
-        $mail->Subject = "New Lead: {$sourceLabel} — {$name}" . ($mobile ? " ({$mobile})" : '');
-        $mail->Body    = itdgl_internal_email(
-            "Lead Captured: {$sourceLabel}",
-            ['Name' => $name, 'Email' => $email, 'Mobile' => $mobile, 'Source' => $sourceLabel],
+        $pkgTag        = $package ? " — [{$package}]" : '';
+        $mail->Subject = "New Lead: {$sourceLabel}{$pkgTag} — {$name}" . ($mobile ? " ({$mobile})" : '');
+
+        // Build fields array — include package + role + city + message if present
+        $fields = ['Name' => $name, 'Email' => $email, 'Mobile' => $mobile, 'Source' => $sourceLabel];
+        if (!empty($package))      $fields['Package Selected'] = $package;
+        if (!empty($roleIndustry)) $fields['Role + Industry']  = $roleIndustry;
+        if (!empty($city))         $fields['City']             = $city;
+        if (!empty($message))      $fields['Message']          = $message;
+
+        $mail->Body = itdgl_internal_email(
+            "Lead Captured: {$sourceLabel}" . ($package ? " — {$package}" : ''),
+            $fields,
             $mobile
         );
         $mail->send();
