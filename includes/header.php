@@ -236,6 +236,7 @@
                                <li><a href="/industries/logistics.php">Logistics & Supply Chain</a></li>
                                <li><a href="/industries/manufacturing.php">Manufacturing</a></li>
                                <li><a href="/industries/healthcare.php">Healthcare</a></li>
+                               <li><a href="/industries/digital-marketing-for-doctors.php" style="color:#065f46;"><i class="fas fa-user-doctor" style="margin-right:6px;font-size:12px;"></i><strong>Doctors + Medical Clinics</strong></a></li>
                                <li><a href="/industries/realestate.php">Real Estate</a></li>
                                <li><a href="/industries/education.php">Education & EdTech</a></li>
                                <li><a href="/industries/ecommerce.php">E-Commerce & D2C</a></li>
