@@ -16,9 +16,21 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $source = isset($_POST['source']) ? htmlspecialchars($_POST['source']) : 'unknown';
     $isNewsletter = ($source === 'newsletter_bar');
 
-    // Centralised bot / spam protection (honeypot + timestamp + content filter + rate-limit).
-    // Newsletter signups also get dedupe to block dot-abuse bot farms.
-    itdgl_verify_submission($isNewsletter ? ['dedupe' => true] : []);
+    // High-abuse sources get STRICT + dedupe protection:
+    //   - popup_marketing_brochure_download: attracted a bot flood 2026-09
+    //   - popup_profile_download: same PDF-gate risk pattern
+    //   - newsletter_bar: bot farms use dot-abuse aliases
+    $strictSources = ['popup_marketing_brochure_download', 'popup_profile_download'];
+    $useStrict     = in_array($source, $strictSources, true);
+    $useDedupe     = $useStrict || $isNewsletter;
+
+    // Centralised bot / spam protection. On failure, itdgl_verify_submission()
+    // SILENT-DROPS: bot receives 200 success response but nothing is emailed.
+    // Bots that get 'error' retry forever with new payloads; on 'success' they stop.
+    itdgl_verify_submission([
+        'strict' => $useStrict,
+        'dedupe' => $useDedupe,
+    ]);
 
     $name   = isset($_POST['name'])   ? htmlspecialchars($_POST['name'])                   : '';
     $email  = isset($_POST['email'])  ? filter_var($_POST['email'], FILTER_SANITIZE_EMAIL) : '';
@@ -117,7 +129,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $mail->setFrom('info@itdgrowthlabs.com', 'ITD GrowthLabs Website');
         $mail->addAddress('info@itdgrowthlabs.com', 'ITD GrowthLabs');
         $mail->addAddress('kushal@itdservices.in',  'ITD GrowthLabs');
-        $mail->addReplyTo($email, $name);
+        // IMPORTANT: Reply-To must be our own domain to prevent Gmail's
+        // "This message appears to be sent from your account but Gmail couldn't
+        //  verify this" warning. Setting Reply-To to the submitter's email
+        //  triggers that anti-spoofing warning + damages sender reputation.
+        //  Submitter's contact details are in the body; team clicks Email/Call
+        //  buttons in the email template to respond.
+        $mail->addReplyTo('info@itdgrowthlabs.com', 'ITD GrowthLabs');
         $mail->isHTML(true);
         $pkgTag        = $package ? " — [{$package}]" : '';
         $mail->Subject = "New Lead: {$sourceLabel}{$pkgTag} — {$name}" . ($mobile ? " ({$mobile})" : '');

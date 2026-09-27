@@ -743,10 +743,17 @@ $itdgl_calendly_url = 'https://calendly.com/itdgrowthlabs-info/30min?hide_event_
                             <input type="hidden" name="source" value="popup_marketing_brochure_download">
                             <input type="hidden" name="popup_source" value="<?php echo htmlspecialchars($itdgl_cfg['source']); ?>">
                             <input type="hidden" name="pdf_url" value="<?php echo htmlspecialchars($itdgl_pdf_url); ?>">
-                            <!-- honeypot + form-ts for spam protection (names match includes/spam_protection.php) -->
-                            <input type="text" name="website_hp" style="position:absolute;left:-9999px;" tabindex="-1" autocomplete="off">
-                            <input type="text" name="username_hp" style="position:absolute;left:-9999px;" tabindex="-1" autocomplete="off">
-                            <input type="hidden" name="form_ts" value="<?php echo time(); ?>">
+                            <!-- honeypot + form-ts + js_nonce for spam protection (names match includes/spam_protection.php) -->
+                            <!-- Honeypots use realistic-looking labels to defeat modern bots that skip aria-hidden/visually-hidden fields -->
+                            <label style="position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden;" aria-hidden="true">
+                                Company website (leave blank): <input type="text" name="website_hp" tabindex="-1" autocomplete="off" value="">
+                            </label>
+                            <label style="position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden;" aria-hidden="true">
+                                Username (leave blank): <input type="text" name="username_hp" tabindex="-1" autocomplete="off" value="">
+                            </label>
+                            <!-- form_ts + js_nonce are set by JS on submit — bots that don't run JS fail immediately -->
+                            <input type="hidden" name="form_ts"   value="">
+                            <input type="hidden" name="js_nonce"  value="">
                             <button type="submit" class="itdgl-pdf-gate-submit">
                                 <span class="btn-label"><i class="fas fa-download"></i> Get the PDF</span>
                                 <span class="btn-loading" style="display:none;"><i class="fas fa-spinner fa-spin"></i> Sending&hellip;</span>
@@ -941,6 +948,11 @@ $itdgl_calendly_url = 'https://calendly.com/itdgrowthlabs-info/30min?hide_event_
         // Focus the first field for keyboard-first users
         var firstInput = gate.querySelector('input[name="name"]');
         if (firstInput) firstInput.focus();
+        // Spam protection: stamp form_ts NOW so we can measure real time-on-form.
+        // Bots that scrape the form and hit submit instantly will have age = 0-2s
+        // (fails server min=8s check). Real users take 15-60s to fill 3 fields.
+        var tsEl = gate.querySelector('input[name="form_ts"]');
+        if (tsEl) tsEl.value = Math.floor(Date.now() / 1000);
         if (typeof gtag === 'function') gtag('event', 'pdf_gate_open', {source: 'popup_marketing_brochure_download'});
     }
     function itdglClosePdfGate() {
@@ -974,6 +986,33 @@ $itdgl_calendly_url = 'https://calendly.com/itdgrowthlabs-info/30min?hide_event_
             if (btnLabel) btnLabel.style.display = 'none';
             if (btnLoad)  btnLoad.style.display  = '';
 
+            // Compute js_nonce = SHA-256(form_ts + '|' + salt) right before submit.
+            // form_ts was set by itdglOpenPdfGate() when the modal opened.
+            // Salt must match includes/spam_protection.php::itdgl_js_nonce_check() default.
+            // Bots that don't run JS won't have js_nonce → server silent-drops.
+            (function() {
+                var tsInput = form.querySelector('input[name="form_ts"]');
+                var nonceInput = form.querySelector('input[name="js_nonce"]');
+                // Fallback: if form_ts wasn't stamped at open (edge case), stamp now.
+                if (tsInput && !tsInput.value) tsInput.value = Math.floor(Date.now() / 1000);
+                if (tsInput && nonceInput && window.crypto && window.crypto.subtle) {
+                    var salt = 'itdgl-form-2026';
+                    var msg = new TextEncoder().encode(tsInput.value + '|' + salt);
+                    crypto.subtle.digest('SHA-256', msg).then(function(buf) {
+                        var arr = Array.from(new Uint8Array(buf));
+                        nonceInput.value = arr.map(function(b) { return b.toString(16).padStart(2, '0'); }).join('');
+                        itdglSubmitFetch();
+                    }).catch(function() {
+                        // SubtleCrypto failed — proceed anyway; server will silent-drop.
+                        itdglSubmitFetch();
+                    });
+                } else {
+                    // Browser too old for SubtleCrypto (very rare in 2026). Submit without nonce.
+                    itdglSubmitFetch();
+                }
+            })();
+
+            function itdglSubmitFetch() {
             var fd = new FormData(form);
             fetch('/leadCaptureMail.php', {
                 method: 'POST',
@@ -1013,6 +1052,7 @@ $itdgl_calendly_url = 'https://calendly.com/itdgrowthlabs-info/30min?hide_event_
                 if (btnLabel) btnLabel.style.display = '';
                 if (btnLoad)  btnLoad.style.display  = 'none';
             });
+            } // end itdglSubmitFetch()
         });
     });
 </script>
