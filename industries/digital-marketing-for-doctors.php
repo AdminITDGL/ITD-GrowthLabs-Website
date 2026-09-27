@@ -4,9 +4,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Digital Marketing for Doctors + Medical Clinics in Mumbai + Maharashtra 2026 | ITD GrowthLabs</title>
-    <meta name="description" content="Full-stack digital marketing for doctors + medical clinics across Mumbai, Thane, Dombivli, Kalyan, Navi Mumbai, Vashi, Belapur, Dadar, Pune, Nashik + Nagpur. Social media + Reels + photography + video shoots + performance ads + Google Business Profile + patient lead generation. Trusted by Dermatrix + others. Packages from Rs 35,000/month.">
-    <meta name="keywords" content="digital marketing for doctors mumbai, medical clinic marketing agency thane, dermatology marketing mumbai, doctor social media agency, clinic instagram reels agency, patient lead generation mumbai, doctor google ads agency">
+    <title>Digital Marketing for Doctors + Medical Clinics — India + GCC + International 2026 | ITD GrowthLabs</title>
+    <meta name="description" content="Full-stack digital marketing for doctors + medical clinics across Mumbai, Delhi, Bangalore, Ahmedabad, Pune, Hyderabad, Chennai + all major India cities + Dubai + Abu Dhabi + Riyadh + Doha + international. Social media + Reels + photography + video shoots + performance ads + Google Business Profile + patient lead generation. Trusted by a premium 5+ clinic brand + others. Packages from Rs 35,000/month.">
+    <meta name="keywords" content="digital marketing for doctors india, medical clinic marketing agency mumbai, dermatology marketing agency, doctor social media agency, clinic instagram reels agency, patient lead generation, doctor google ads agency, GCC clinic marketing, dubai clinic marketing">
     <meta name="author" content="ITD GrowthLabs">
     <meta name="robots" content="index, follow, max-image-preview:large">
     <link rel="canonical" href="https://itdgrowthlabs.com/industries/digital-marketing-for-doctors.php">
@@ -14,8 +14,8 @@
 
     <meta property="og:type" content="service">
     <meta property="og:site_name" content="ITD GrowthLabs">
-    <meta property="og:title" content="Digital Marketing for Doctors + Medical Clinics in Mumbai + Maharashtra 2026 | ITD GrowthLabs">
-    <meta property="og:description" content="Full-stack digital marketing for doctors + medical clinics. Dermatrix case study + Rs 35K/mo starter. Mumbai + all Maharashtra.">
+    <meta property="og:title" content="Digital Marketing for Doctors + Medical Clinics — India + GCC + International 2026 | ITD GrowthLabs">
+    <meta property="og:description" content="Full-stack digital marketing for doctors + medical clinics. Rs 35K/mo starter. All India + GCC + International.">
     <meta property="og:url" content="https://itdgrowthlabs.com/industries/digital-marketing-for-doctors.php">
     <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg">
     <meta name="twitter:card" content="summary_large_image">
@@ -37,19 +37,19 @@
     <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-ZR348BRLFX');</script>
 
     <!-- Schema: MedicalBusiness — signals to Google + AI Overviews this is a medical-adjacent service -->
-    <script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","serviceType":"Digital Marketing for Doctors + Medical Clinics","name":"ITD GrowthLabs — Full-Stack Doctor + Clinic Marketing Agency","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com","logo":"https://itdgrowthlabs.com/assets/img/logo.jpg","sameAs":["https://www.linkedin.com/company/itd-growthlabs/"]},"areaServed":[{"@type":"City","name":"Mumbai"},{"@type":"City","name":"Thane"},{"@type":"City","name":"Dombivli"},{"@type":"City","name":"Kalyan"},{"@type":"City","name":"Navi Mumbai"},{"@type":"City","name":"Vashi"},{"@type":"City","name":"Belapur"},{"@type":"City","name":"Dadar"},{"@type":"City","name":"Pune"},{"@type":"City","name":"Nashik"},{"@type":"City","name":"Nagpur"},{"@type":"AdministrativeArea","name":"Maharashtra"}],"audience":{"@type":"MedicalAudience","audienceType":"Dermatologist, Dentist, IVF Specialist, Orthopedic Surgeon, Cardiologist, Cosmetic Surgeon, Trichologist, ENT Specialist, Pediatrician, General Practitioner, Multi-Specialty Clinic Owner"},"description":"Full-stack digital marketing agency for doctors + medical clinics across Mumbai + Maharashtra. Social media + Reels + on-site photography + video shoots + Meta + Google ads + Google Business Profile + patient lead generation + website + booking + WhatsApp + branding. Dermatrix case study. Packages from Rs 35,000/month.","url":"https://itdgrowthlabs.com/industries/digital-marketing-for-doctors.php","offers":[{"@type":"Offer","name":"Starter Clinic Package","priceCurrency":"INR","price":"35000","description":"GMB optimization + weekly social + monthly Reels + basic paid ads"},{"@type":"Offer","name":"Growth Clinic Package","priceCurrency":"INR","price":"75000","description":"Full-stack social + on-site video shoots + Meta + Google ads + WhatsApp + weekly review"},{"@type":"Offer","name":"Premium Clinic Package","priceCurrency":"INR","price":"1,50,000","description":"Everything in Growth + celebrity + PR + patient lead-gen + monthly QBR"},{"@type":"Offer","name":"Enterprise Clinic Package","priceCurrency":"INR","price":"3,00,000","description":"Multi-location + advanced attribution + celebrity + PR + investor-narrative + full pod"}]}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","serviceType":"Digital Marketing for Doctors + Medical Clinics","name":"ITD GrowthLabs — Full-Stack Doctor + Clinic Marketing Agency","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com","logo":"https://itdgrowthlabs.com/assets/img/logo.jpg","sameAs":["https://www.linkedin.com/company/itd-growthlabs/"]},"areaServed":[{"@type":"City","name":"Mumbai"},{"@type":"City","name":"Delhi"},{"@type":"City","name":"Bangalore"},{"@type":"City","name":"Ahmedabad"},{"@type":"City","name":"Hyderabad"},{"@type":"City","name":"Chennai"},{"@type":"City","name":"Pune"},{"@type":"City","name":"Kolkata"},{"@type":"City","name":"Gurgaon"},{"@type":"City","name":"Noida"},{"@type":"City","name":"Jaipur"},{"@type":"City","name":"Chandigarh"},{"@type":"City","name":"Thane"},{"@type":"City","name":"Navi Mumbai"},{"@type":"City","name":"Nashik"},{"@type":"City","name":"Nagpur"},{"@type":"City","name":"Dubai"},{"@type":"City","name":"Abu Dhabi"},{"@type":"City","name":"Sharjah"},{"@type":"City","name":"Riyadh"},{"@type":"City","name":"Jeddah"},{"@type":"City","name":"Doha"},{"@type":"City","name":"Kuwait City"},{"@type":"City","name":"Manama"},{"@type":"City","name":"Muscat"},{"@type":"City","name":"London"},{"@type":"City","name":"Singapore"},{"@type":"Country","name":"India"},{"@type":"Country","name":"United Arab Emirates"},{"@type":"Country","name":"Saudi Arabia"},{"@type":"Country","name":"Qatar"},{"@type":"Country","name":"Kuwait"},{"@type":"Country","name":"Bahrain"},{"@type":"Country","name":"Oman"},{"@type":"Country","name":"United Kingdom"},{"@type":"Country","name":"Singapore"}],"audience":{"@type":"MedicalAudience","audienceType":"Dermatologist, Dentist, IVF Specialist, Orthopedic Surgeon, Cardiologist, Cosmetic Surgeon, Trichologist, ENT Specialist, Pediatrician, General Practitioner, Multi-Specialty Clinic Owner"},"description":"Full-stack digital marketing agency for doctors + medical clinics across India + GCC + international. Social media + Reels + on-site photography + video shoots + Meta + Google ads + Google Business Profile + patient lead generation + website + booking + WhatsApp + branding. Trusted by a premium 5+ clinic dermatology brand + 20+ clinics. Packages from Rs 35,000/month.","url":"https://itdgrowthlabs.com/industries/digital-marketing-for-doctors.php","offers":[{"@type":"Offer","name":"Starter Clinic Package","priceCurrency":"INR","price":"35000","description":"GMB optimization + weekly social + monthly Reels + basic paid ads"},{"@type":"Offer","name":"Growth Clinic Package","priceCurrency":"INR","price":"75000","description":"Full-stack social + on-site video shoots + Meta + Google ads + WhatsApp + weekly review"},{"@type":"Offer","name":"Premium Clinic Package","priceCurrency":"INR","price":"1,50,000","description":"Everything in Growth + celebrity + PR + patient lead-gen + monthly QBR"},{"@type":"Offer","name":"Enterprise Clinic Package","priceCurrency":"INR","price":"3,00,000","description":"Multi-location + advanced attribution + celebrity + PR + investor-narrative + full pod"}]}</script>
 
     <!-- Schema: FAQPage (top 6 questions for AI-Overview citation) -->
-    <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does digital marketing cost for a doctor or medical clinic in Mumbai?","acceptedAnswer":{"@type":"Answer","text":"4 tiers: Starter Rs 35,000/month (solo doctor + Rs 3-8 lakh/month clinic revenue), Growth Rs 75,000/month (2-3 doctor clinics, Rs 10-40 lakh/month revenue), Premium Rs 1,50,000/month (multi-location or premium single-clinic Rs 40 lakh-2 crore/month), Enterprise Rs 3,00,000/month (chains + hospitals Rs 2+ crore/month). Ad spend separate + transparent pass-through (no markup). Serves Mumbai + Thane + Dombivli + Kalyan + Navi Mumbai + Pune + Nashik + Nagpur + all Maharashtra."}},{"@type":"Question","name":"What services does ITD provide for doctors and medical clinics?","acceptedAnswer":{"@type":"Answer","text":"Full-stack: social media management (Instagram + Facebook + YouTube), Instagram Reels + viral short-form content, on-site photography + video shoots at your clinic (we bring the team + equipment), Meta + Google performance ads, Google Business Profile + local SEO (map pack ranking), patient lead generation via WhatsApp + landing pages, website + online booking + WhatsApp Cloud API integration, content marketing + educational content, branding + PR + celebrity partnerships (Premium+). We work with dermatologists, dentists, IVF specialists, orthopedics, cardiologists, cosmetic surgeons, trichologists, ENT + eye specialists, pediatricians, and multi-specialty clinics."}},{"@type":"Question","name":"What is your experience with dermatology / skin clinic marketing?","acceptedAnswer":{"@type":"Answer","text":"We currently run full-stack marketing for Dermatrix (D-E-R-Matrix), a leading dermatology + skin clinic brand — social media management, Instagram Reels + viral content, organic content strategy, and paid performance marketing. Case study available on discovery call. We also serve 20+ other clinic clients across dermatology + trichology + hair transplant + dental + cosmetic surgery verticals across Maharashtra."}},{"@type":"Question","name":"Which cities does ITD serve for doctor and clinic marketing?",'"acceptedAnswer":{"@type":"Answer","text":"Mumbai (Andheri + Bandra + Powai + Juhu + Colaba + Malad + Goregaon + Ghatkopar + Mulund), Thane (Ghodbunder Road + Hiranandani + Vasant Vihar + Kolshet + Majiwada), Navi Mumbai (Vashi + Nerul + Belapur + Kharghar + Kamothe + Panvel), Dadar, Dombivli (East + West + MIDC + Kopar), Kalyan (West + East + Khadakpada + Adharwadi), Ulhasnagar, Bhiwandi, Pune, Nashik, Nagpur + rest of Maharashtra. Remote onboarding + on-site photography/video shoots for Mumbai metro clinics."}},{"@type":"Question","name":"How does ITD compare to Revolotech and other doctor marketing agencies?","acceptedAnswer":{"@type":"Answer","text":"ITD is full-stack (social + Reels + on-site video + photography + ads + GMB + WhatsApp + lead-gen + branding) vs paid-ads-only competitors. Real case study — Dermatrix, currently active. Transparent 4-tier pricing (Rs 35K to 3L per month) vs hidden pricing. Maharashtra city-native (Mumbai + Thane + Navi Mumbai + Dombivli + Kalyan + Nashik + Nagpur) with on-site team availability. Compliance-safe workflow (MMC + MCI + ASCI review of every asset)."}},{"@type":"Question","name":"How do I book a free growth audit with ITD?","acceptedAnswer":{"@type":"Answer","text":"Book a free 30-minute Calendly discovery call. Prashant Chaudhari (Business Head) or a senior partner runs the call. We audit your current GMB + Instagram + Facebook + website + WhatsApp + benchmark against 3-5 competing Mumbai clinics in your specialty + share a customized 90-day plan within 3 working days. Or use the package selection form on this page — we respond within 24 hours."}}]}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does digital marketing cost for a doctor or medical clinic?","acceptedAnswer":{"@type":"Answer","text":"4 tiers: Starter Rs 35,000/month (solo doctor + Rs 3-8 lakh/month clinic revenue), Growth Rs 75,000/month (2-3 doctor clinics, Rs 10-40 lakh/month revenue), Premium Rs 1,50,000/month (multi-location or premium single-clinic Rs 40 lakh-2 crore/month), Enterprise Rs 3,00,000/month (chains + hospitals Rs 2+ crore/month). Ad spend separate + transparent pass-through (no markup). Serves all major India cities (Mumbai + Delhi + Bangalore + Ahmedabad + Pune + Hyderabad + Chennai + Kolkata + Gurgaon + Noida + Jaipur + Chandigarh + Thane + Nashik + Nagpur) + GCC (Dubai + Abu Dhabi + Sharjah + Riyadh + Jeddah + Doha + Kuwait City + Manama + Muscat) + international (London + Singapore)."}},{"@type":"Question","name":"What services does ITD provide for doctors and medical clinics?","acceptedAnswer":{"@type":"Answer","text":"Full-stack: social media management (Instagram + Facebook + YouTube), Instagram Reels + viral short-form content, on-site photography + video shoots at your clinic (we bring the team + equipment), Meta + Google performance ads, Google Business Profile + local SEO (map pack ranking), patient lead generation via WhatsApp + landing pages, website + online booking + WhatsApp Cloud API integration, content marketing + educational content, branding + PR + celebrity partnerships (Premium+). We work with dermatologists, dentists, IVF specialists, orthopedics, cardiologists, cosmetic surgeons, trichologists, ENT + eye specialists, pediatricians, and multi-specialty clinics."}},{"@type":"Question","name":"What is your experience with dermatology / skin clinic marketing?","acceptedAnswer":{"@type":"Answer","text":"We currently run full-stack marketing for a premium dermatology + skin clinic brand with 5+ clinics across India — social media management, Instagram Reels + viral content, organic content strategy, and paid performance marketing. Case study available on discovery call (client name shared under NDA). We also serve 20+ other clinic clients across dermatology + trichology + hair transplant + dental + cosmetic surgery verticals across India + GCC."}},{"@type":"Question","name":"Which cities does ITD serve for doctor and clinic marketing?","acceptedAnswer":{"@type":"Answer","text":"India: Mumbai (Andheri + Bandra + Powai + Juhu + Colaba + Malad + Goregaon + Ghatkopar + Mulund + Dadar), Delhi + NCR (Gurgaon + Noida), Bangalore, Ahmedabad, Hyderabad, Chennai, Pune, Kolkata, Jaipur, Chandigarh, Lucknow, Kochi, Indore, Coimbatore, Thane, Navi Mumbai, Nashik, Nagpur + all major India cities. GCC: Dubai, Abu Dhabi, Sharjah, Riyadh, Jeddah, Dammam, Doha, Kuwait City, Manama, Muscat. International: London, Singapore, Toronto, Sydney + more on request. Remote onboarding globally + on-site photography/video shoots for India + GCC metro clinics."}},{"@type":"Question","name":"What makes ITD's approach unique for doctors and clinics?","acceptedAnswer":{"@type":"Answer","text":"ITD is a full-stack agency: social + Reels + on-site video + photography + Meta+Google ads + GMB + WhatsApp + patient lead-gen + website + branding — all under one team. Real case studies from a premium 5+ clinic dermatology brand + 20+ active clinic clients. Transparent 4-tier pricing (Rs 35K to 3L per month) — no hidden fees. Serves all major India + GCC + international cities with on-site team availability across metro India + GCC. Compliance-safe workflow (MMC + MCI + ASCI review of every asset). Zero ad-spend markup."}},{"@type":"Question","name":"How do I book a free growth audit with ITD?","acceptedAnswer":{"@type":"Answer","text":"Book a free 30-minute Calendly discovery call. A senior partner runs the call. We audit your current GMB + Instagram + Facebook + website + WhatsApp + benchmark against 3-5 competing clinics in your specialty + city + share a customized 90-day plan within 3 working days. Or use the package selection form on this page — we respond within 24 hours."}}]}</script>
 
     <!-- Schema: BreadcrumbList -->
     <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://itdgrowthlabs.com/"},{"@type":"ListItem","position":2,"name":"Industries","item":"https://itdgrowthlabs.com/"},{"@type":"ListItem","position":3,"name":"Digital Marketing for Doctors + Medical Clinics","item":"https://itdgrowthlabs.com/industries/digital-marketing-for-doctors.php"}]}</script>
 
     <!-- Schema: LocalBusiness -->
-    <script type="application/ld+json">{"@context":"https://schema.org","@type":["LocalBusiness","MarketingService"],"name":"ITD GrowthLabs — Doctor + Clinic Marketing Agency for Mumbai + Maharashtra","description":"Full-stack digital marketing for doctors + medical clinics across Mumbai + Maharashtra.","url":"https://itdgrowthlabs.com/industries/digital-marketing-for-doctors.php","areaServed":[{"@type":"City","name":"Mumbai"},{"@type":"City","name":"Thane"},{"@type":"City","name":"Navi Mumbai"},{"@type":"City","name":"Pune"},{"@type":"City","name":"Nashik"},{"@type":"City","name":"Nagpur"}],"address":{"@type":"PostalAddress","addressLocality":"Mumbai","addressRegion":"Maharashtra","addressCountry":"IN"},"priceRange":"Rs 35,000-3,00,000/month"}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":["LocalBusiness","MarketingService"],"name":"ITD GrowthLabs — Doctor + Clinic Marketing Agency for India + GCC + International","description":"Full-stack digital marketing for doctors + medical clinics across India + GCC + International.","url":"https://itdgrowthlabs.com/industries/digital-marketing-for-doctors.php","areaServed":[{"@type":"City","name":"Mumbai"},{"@type":"City","name":"Delhi"},{"@type":"City","name":"Bangalore"},{"@type":"City","name":"Ahmedabad"},{"@type":"City","name":"Hyderabad"},{"@type":"City","name":"Chennai"},{"@type":"City","name":"Pune"},{"@type":"City","name":"Kolkata"},{"@type":"City","name":"Dubai"},{"@type":"City","name":"Abu Dhabi"},{"@type":"City","name":"Riyadh"},{"@type":"City","name":"Doha"},{"@type":"City","name":"London"},{"@type":"City","name":"Singapore"}],"address":{"@type":"PostalAddress","addressLocality":"Mumbai","addressRegion":"Maharashtra","addressCountry":"IN"},"priceRange":"Rs 35,000-3,00,000/month"}</script>
 
     <!-- Schema: Article -->
-    <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Digital Marketing for Doctors + Medical Clinics in Mumbai + Maharashtra 2026","description":"Full-stack digital marketing agency for doctors + medical clinics. Dermatrix case study. Rs 35K/mo starter.","author":{"@type":"Organization","name":"ITD GrowthLabs"},"publisher":{"@type":"Organization","name":"ITD GrowthLabs","logo":{"@type":"ImageObject","url":"https://itdgrowthlabs.com/assets/img/logo.jpg"}},"datePublished":"2026-09-27","dateModified":"2026-09-27","mainEntityOfPage":{"@type":"WebPage","@id":"https://itdgrowthlabs.com/industries/digital-marketing-for-doctors.php"},"inLanguage":"en"}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Digital Marketing for Doctors + Medical Clinics — India + GCC + International 2026","description":"Full-stack digital marketing agency for doctors + medical clinics. Rs 35K/mo starter. Trusted by a premium 5+ clinic brand.","author":{"@type":"Organization","name":"ITD GrowthLabs"},"publisher":{"@type":"Organization","name":"ITD GrowthLabs","logo":{"@type":"ImageObject","url":"https://itdgrowthlabs.com/assets/img/logo.jpg"}},"datePublished":"2026-09-27","dateModified":"2026-09-27","mainEntityOfPage":{"@type":"WebPage","@id":"https://itdgrowthlabs.com/industries/digital-marketing-for-doctors.php"},"inLanguage":"en"}</script>
 
     <style>
       :root{--doc-teal:#065f46;--doc-teal2:#0d9488;--doc-teal3:#14b8a6;--doc-gold:#d97706;--doc-bg:#f0fdfa;--doc-ink:#0f172a;--doc-muted:#64748b}
@@ -181,11 +181,11 @@
 
     <!-- HERO -->
     <section class="doc-hero">
-      <div class="eyebrow"><i class="fas fa-user-doctor"></i> For Doctors + Medical Clinics · Maharashtra-Focused</div>
+      <div class="eyebrow"><i class="fas fa-user-doctor"></i> For Doctors + Medical Clinics · India + GCC + International</div>
       <h1>Full-Stack Digital Marketing for Doctors + Medical Clinics &mdash; <span class="accent">Get More Patients from Google + Instagram + WhatsApp</span></h1>
-      <p class="lede">We manage everything: Google Business Profile, Instagram Reels + viral content, on-site photography + video shoots at your clinic, Meta + Google ads, WhatsApp booking, patient lead-gen, website + branding. Currently trusted by <strong>Dermatrix</strong> + 20+ Maharashtra clinics. Packages from <strong>Rs 35,000/month</strong>.</p>
+      <p class="lede">We manage everything: Google Business Profile, Instagram Reels + viral content, on-site photography + video shoots at your clinic, Meta + Google ads, WhatsApp booking, patient lead-gen, website + branding. Currently trusted by <strong>a premium 5+ clinic dermatology brand</strong> + 20+ clinics across India + GCC. Packages from <strong>Rs 35,000/month</strong>.</p>
       <div class="cities-strip">
-        <strong>Serving:</strong> Mumbai · Thane · Dombivli · Kalyan · Navi Mumbai · Vashi · Belapur · Dadar · Andheri · Bandra · Powai · Juhu · Malad · Mulund · Ghatkopar · Ulhasnagar · Bhiwandi · Pune · Nashik · Nagpur + all Maharashtra
+        <strong>Serving:</strong> Mumbai · Delhi · Bangalore · Ahmedabad · Pune · Hyderabad · Chennai · Kolkata · Gurgaon · Noida · Jaipur · Chandigarh · Thane · Nashik · Nagpur · Dubai · Abu Dhabi · Sharjah · Riyadh · Jeddah · Doha · Kuwait City · Manama · Muscat · London · Singapore + all major cities globally
       </div>
       <div class="cta-row">
         <a class="cta-primary" href="#packages">See Packages + Book Free Growth Audit &darr;</a>
@@ -194,23 +194,23 @@
       <div class="stats">
         <div class="stat"><div class="num">20+</div><div class="lbl">Clinic Clients</div></div>
         <div class="stat"><div class="num">Rs 8Cr+</div><div class="lbl">Annual Ad Spend Managed</div></div>
-        <div class="stat"><div class="num">12+</div><div class="lbl">Maharashtra Cities</div></div>
+        <div class="stat"><div class="num">India + GCC</div><div class="lbl">+ International Reach</div></div>
         <div class="stat"><div class="num">100%</div><div class="lbl">ASCI + MMC Compliant</div></div>
       </div>
     </section>
 
-    <!-- DERMATRIX CASE STUDY -->
+    <!-- FLAGSHIP DERMATOLOGY CASE STUDY (anonymized) -->
     <section class="doc-case">
       <div class="doc-case-wrap">
         <div>
-          <div class="badge"><i class="fas fa-star"></i> Live Client Case Study</div>
-          <h2>How We're Scaling Dermatrix &mdash; a Growing Dermatology Brand</h2>
-          <p><strong>Dermatrix</strong> is a leading dermatology + skin clinic brand in Mumbai. ITD manages the complete digital marketing operations: Instagram + Facebook social media management, viral Reels + short-form video content, organic content strategy, and paid performance marketing across Meta + Google. Full case study + verified metrics available on discovery call.</p>
+          <div class="badge"><i class="fas fa-star"></i> Flagship Live Case Study</div>
+          <h2>How We're Scaling a Premium Dermatology Brand &mdash; 5+ Clinics Across India</h2>
+          <p>Our flagship dermatology client is a premium multi-location skin clinic brand with 5+ clinics across Mumbai + tier-1 India cities. ITD manages the complete digital marketing operations: Instagram + Facebook social media management, viral Reels + short-form video content, organic content strategy, and paid performance marketing across Meta + Google. Full case study + verified metrics available on discovery call under NDA (client name shared privately).</p>
           <ul>
             <li>Instagram Reels + viral content production (weekly cadence)</li>
             <li>Organic social media growth via educational + before-after (compliance-safe) content</li>
             <li>Meta + Google performance ads with LTV/CAC attribution</li>
-            <li>Google Business Profile + local SEO for Mumbai clinic footfall</li>
+            <li>Google Business Profile + local SEO across 5+ locations</li>
             <li>WhatsApp booking + patient consultation nurture flows</li>
           </ul>
         </div>
@@ -230,7 +230,7 @@
     <section class="doc-section">
       <div class="doc-container">
         <h2>What We Do &mdash; Full-Stack Doctor + Clinic Marketing</h2>
-        <p class="section-lede">Unlike ad-only agencies (Revolotech + others), we handle every touchpoint doctors and patients experience online. Nothing outsourced. Nothing juggled between vendors.</p>
+        <p class="section-lede">We handle every touchpoint doctors and patients experience online. Nothing outsourced. Nothing juggled between vendors.</p>
         <div class="doc-grid">
           <div class="doc-card">
             <span class="ico"><i class="fab fa-instagram"></i></span>
@@ -281,73 +281,62 @@
       </div>
     </section>
 
-    <!-- WHY BETTER THAN COMPETITORS -->
+    <!-- WHAT MAKES ITD DIFFERENT (no competitor comparison) -->
     <section class="doc-section alt">
       <div class="doc-container">
-        <h2>Why ITD GrowthLabs Beats Revolotech + Ad-Only Agencies</h2>
-        <p class="section-lede">Ad-only agencies get you clicks. We build your entire clinic brand + patient acquisition engine.</p>
-        <div class="doc-compare">
-          <table>
-            <thead>
-              <tr>
-                <th style="width:32%;">Capability</th>
-                <th style="width:34%;">ITD GrowthLabs</th>
-                <th style="width:34%;">Revolotech + Ad-Only Agencies</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td><strong>Live Client Case Study</strong></td>
-                <td class="itd">✅ Dermatrix (dermatology brand) — active, verifiable</td>
-                <td class="competitor">❌ Only client logos shown, no case studies</td>
-              </tr>
-              <tr>
-                <td><strong>Pricing Transparency</strong></td>
-                <td class="itd">✅ 4 tiers publicly displayed (Rs 35K to Rs 3L/mo)</td>
-                <td class="competitor">❌ "Depends on services selected" — hidden</td>
-              </tr>
-              <tr>
-                <td><strong>Service Coverage</strong></td>
-                <td class="itd">✅ Social + Reels + on-site video + photography + ads + GMB + WhatsApp + website + branding</td>
-                <td class="competitor">⚠ Google + Meta + YouTube ads only</td>
-              </tr>
-              <tr>
-                <td><strong>On-Site Video / Photo Shoots</strong></td>
-                <td class="itd">✅ Team travels to your clinic across Maharashtra</td>
-                <td class="competitor">❌ Not offered</td>
-              </tr>
-              <tr>
-                <td><strong>Maharashtra City Focus</strong></td>
-                <td class="itd">✅ Mumbai + Thane + Dombivli + Kalyan + Navi Mumbai + Pune + Nashik + Nagpur + all Maharashtra</td>
-                <td class="competitor">⚠ Pan-India generic</td>
-              </tr>
-              <tr>
-                <td><strong>ASCI + MMC Compliance Review</strong></td>
-                <td class="itd">✅ Every creative + post pre-published through compliance review</td>
-                <td class="competitor">⚠ Claimed but no explicit workflow shown</td>
-              </tr>
-              <tr>
-                <td><strong>Ad Spend Transparency</strong></td>
-                <td class="itd">✅ Client sees platform invoices — no markup on ad spend</td>
-                <td class="competitor">⚠ Not disclosed</td>
-              </tr>
-              <tr>
-                <td><strong>WhatsApp Cloud API + Booking</strong></td>
-                <td class="itd">✅ Full setup: welcome + qualifying + booking + reminder + follow-up</td>
-                <td class="competitor">❌ Not offered</td>
-              </tr>
-              <tr>
-                <td><strong>Contract Flexibility</strong></td>
-                <td class="itd">✅ 6-month MSA with cancellation option after month 3</td>
-                <td class="competitor">⚠ Not disclosed</td>
-              </tr>
-              <tr>
-                <td><strong>Founder + Senior Access</strong></td>
-                <td class="itd">✅ Prashant Chaudhari (Business Head) on discovery + quarterly QBRs</td>
-                <td class="competitor">⚠ Not guaranteed</td>
-              </tr>
-            </tbody>
-          </table>
+        <h2>What Makes ITD Different</h2>
+        <p class="section-lede">Ten reasons medical clinics across India + GCC choose ITD GrowthLabs as their long-term marketing partner.</p>
+        <div class="doc-grid">
+          <div class="doc-card">
+            <span class="ico"><i class="fas fa-star"></i></span>
+            <h3>Real Case Studies</h3>
+            <p>Live flagship engagement with a premium 5+ clinic dermatology brand + 20+ active clinic clients across India + GCC. Case study PDFs shared under NDA on discovery call.</p>
+          </div>
+          <div class="doc-card">
+            <span class="ico"><i class="fas fa-tags"></i></span>
+            <h3>Transparent 4-Tier Pricing</h3>
+            <p>Publicly displayed: Starter Rs 35K, Growth Rs 75K, Premium Rs 1.5L, Enterprise Rs 3L per month. USD + AED equivalents shown. No hidden fees.</p>
+          </div>
+          <div class="doc-card">
+            <span class="ico"><i class="fas fa-layer-group"></i></span>
+            <h3>True Full-Stack Coverage</h3>
+            <p>Social + Reels + on-site video + photography + Meta + Google ads + GMB + WhatsApp + website + branding + patient lead-gen — one team, one contract, no vendor juggling.</p>
+          </div>
+          <div class="doc-card">
+            <span class="ico"><i class="fas fa-video"></i></span>
+            <h3>On-Site Video + Photo Shoots</h3>
+            <p>Full production team travels to your clinic across India metros + GCC. Cameras + lighting + audio + director + wardrobe coordination all brought on-site.</p>
+          </div>
+          <div class="doc-card">
+            <span class="ico"><i class="fas fa-globe"></i></span>
+            <h3>India + GCC + International</h3>
+            <p>Serves all major India cities + 9+ GCC cities + London + Singapore. On-site shoots for India metro + Dubai + Abu Dhabi + Riyadh + Doha.</p>
+          </div>
+          <div class="doc-card">
+            <span class="ico"><i class="fas fa-shield-halved"></i></span>
+            <h3>ASCI + MMC Compliance</h3>
+            <p>Every creative + post + Reel + ad reviewed for ASCI + MMC/MCI compliance before publish. Dedicated compliance advisor on Growth+ tier.</p>
+          </div>
+          <div class="doc-card">
+            <span class="ico"><i class="fas fa-receipt"></i></span>
+            <h3>Zero Ad-Spend Markup</h3>
+            <p>Meta + Google ad spend passes through at exactly what platforms bill — no hidden margin. You see platform invoices directly.</p>
+          </div>
+          <div class="doc-card">
+            <span class="ico"><i class="fab fa-whatsapp"></i></span>
+            <h3>WhatsApp Cloud API + Booking</h3>
+            <p>End-to-end WhatsApp setup: welcome + qualifying + booking + reminder + follow-up + review request. 15-min response SLA business hours.</p>
+          </div>
+          <div class="doc-card">
+            <span class="ico"><i class="fas fa-handshake"></i></span>
+            <h3>Contract Flexibility</h3>
+            <p>6-month Master Service Agreement with cancellation option after month 3. IP + creative + data 100% client-owned. 30-day exit.</p>
+          </div>
+          <div class="doc-card">
+            <span class="ico"><i class="fas fa-user-tie"></i></span>
+            <h3>Senior Partner Access</h3>
+            <p>Senior partners run every discovery call + quarterly QBR. Not handed off to junior account executives after signing.</p>
+          </div>
         </div>
       </div>
     </section>
@@ -356,12 +345,12 @@
     <section class="doc-section">
       <div class="doc-container">
         <h2>How We Do It &mdash; Our 5-Phase Clinic Marketing Process</h2>
-        <p class="section-lede">A repeatable process refined across 20+ Mumbai + Maharashtra clinic engagements. From day-1 audit to compounding month-12+ patient inflow.</p>
+        <p class="section-lede">A repeatable process refined across 20+ clinic engagements in India + GCC. From day-1 audit to compounding month-12+ patient inflow.</p>
         <div class="doc-process">
           <div class="step">
             <span class="num">1</span>
             <h4>Audit + Discovery (Week 1-2)</h4>
-            <p>Current GMB + Instagram + Facebook + website + WhatsApp + ad spend audit. Competitor benchmark against 3-5 clinics in your specialty + city. Compliance review of existing content. 90-day plan delivered.</p>
+            <p>Current GMB + Instagram + Facebook + website + WhatsApp + ad spend audit. Benchmark against 3-5 leading clinics in your specialty + city (India or GCC). Compliance review of existing content. 90-day plan delivered.</p>
           </div>
           <div class="step">
             <span class="num">2</span>
@@ -391,26 +380,47 @@
     <section class="doc-section alt">
       <div class="doc-container">
         <h2>Who Is It For &mdash; Specialties We Serve</h2>
-        <p class="section-lede">Purpose-built for Maharashtra doctors + specialty clinics + multi-specialty chains + hospitals.</p>
+        <p class="section-lede">Purpose-built for doctors + specialty clinics + multi-specialty chains + hospitals across India + GCC + international markets.</p>
         <div class="doc-specs-grid">
-          <div class="doc-spec"><strong><i class="fas fa-face-smile" style="margin-right:8px;color:#0d9488;"></i>Dermatology + Skin Clinics</strong><span>Acne + pigmentation + laser + HydraFacial + Botox + fillers. Compliance-safe before-after. Dermatrix-style workflow.</span></div>
+          <div class="doc-spec"><strong><i class="fas fa-face-smile" style="margin-right:8px;color:#0d9488;"></i>Dermatology + Skin Clinics</strong><span>Acne + pigmentation + laser + HydraFacial + Botox + fillers. Compliance-safe before-after. Same playbook we run for our flagship 5+ clinic dermatology brand.</span></div>
           <div class="doc-spec"><strong><i class="fas fa-tooth" style="margin-right:8px;color:#0d9488;"></i>Dental + Orthodontics</strong><span>General dentistry + implants + orthodontics + cosmetic dentistry + smile makeover.</span></div>
           <div class="doc-spec"><strong><i class="fas fa-baby" style="margin-right:8px;color:#0d9488;"></i>IVF + Fertility Centers</strong><span>IVF + IUI + surrogacy + fertility preservation. Long-cycle patient nurture + high-AOV consultation.</span></div>
           <div class="doc-spec"><strong><i class="fas fa-bone" style="margin-right:8px;color:#0d9488;"></i>Orthopedics + Physiotherapy</strong><span>Joint replacement + sports injury + spine + rehab + sports medicine.</span></div>
           <div class="doc-spec"><strong><i class="fas fa-heart-pulse" style="margin-right:8px;color:#0d9488;"></i>Cardiology + Heart Specialists</strong><span>Cardiac consultation + angioplasty + preventive cardiology + wellness screening.</span></div>
           <div class="doc-spec"><strong><i class="fas fa-scissors" style="margin-right:8px;color:#0d9488;"></i>Cosmetic + Plastic Surgery</strong><span>Rhinoplasty + facelift + liposuction + breast surgery + Mommy Makeover. High-AOV surgical consultation.</span></div>
-          <div class="doc-spec"><strong><i class="fas fa-cannabis" style="margin-right:8px;color:#0d9488;"></i>Trichology + Hair Clinics</strong><span>PRP + GFC + mesotherapy + hair transplant (FUE + FUT + DHI). Dermatrix-adjacent playbook.</span></div>
+          <div class="doc-spec"><strong><i class="fas fa-cannabis" style="margin-right:8px;color:#0d9488;"></i>Trichology + Hair Clinics</strong><span>PRP + GFC + mesotherapy + hair transplant (FUE + FUT + DHI). Adjacent to our dermatology flagship playbook.</span></div>
           <div class="doc-spec"><strong><i class="fas fa-ear-listen" style="margin-right:8px;color:#0d9488;"></i>ENT + Eye Specialists</strong><span>ENT + audiology + hearing aids + LASIK + cataract + oculoplasty.</span></div>
           <div class="doc-spec"><strong><i class="fas fa-child" style="margin-right:8px;color:#0d9488;"></i>Pediatrics + Child Care</strong><span>Pediatric consultation + vaccination + child nutrition + pediatric surgery.</span></div>
           <div class="doc-spec"><strong><i class="fas fa-hospital" style="margin-right:8px;color:#0d9488;"></i>General Practice + Polyclinics + Hospitals</strong><span>Family medicine + multi-specialty polyclinics + small/mid hospitals. Multi-location + chain support at Enterprise tier.</span></div>
         </div>
-        <h3 style="color:#065f46;font-size:22px;text-align:center;margin:44px 0 8px;">Cities We Serve</h3>
-        <p style="text-align:center;color:#64748b;margin:0 0 14px;font-size:14.5px;">On-site photography + video shoots available across Mumbai metro. Remote management for all Maharashtra cities.</p>
+        <h3 style="color:#065f46;font-size:22px;text-align:center;margin:44px 0 8px;">Cities We Serve &mdash; India + GCC + International</h3>
+        <p style="text-align:center;color:#64748b;margin:0 0 14px;font-size:14.5px;">On-site photography + video shoots available across India + GCC metros. Remote management for all cities globally.</p>
+
+        <h4 style="color:#065f46;font-size:15px;text-align:center;margin:24px 0 8px;letter-spacing:0.5px;text-transform:uppercase;">India &mdash; Tier 1 + Metro</h4>
         <div class="doc-cities">
           <span class="chip gold">Mumbai</span>
+          <span class="chip gold">Delhi</span>
+          <span class="chip gold">Bangalore</span>
+          <span class="chip gold">Ahmedabad</span>
+          <span class="chip gold">Hyderabad</span>
+          <span class="chip gold">Chennai</span>
+          <span class="chip gold">Pune</span>
+          <span class="chip gold">Kolkata</span>
+          <span class="chip">Gurgaon</span>
+          <span class="chip">Noida</span>
+          <span class="chip">Jaipur</span>
+          <span class="chip">Chandigarh</span>
+          <span class="chip">Lucknow</span>
+          <span class="chip">Indore</span>
+          <span class="chip">Kochi</span>
+          <span class="chip">Coimbatore</span>
+          <span class="chip">Nagpur</span>
+          <span class="chip">Nashik</span>
+        </div>
+
+        <h4 style="color:#065f46;font-size:15px;text-align:center;margin:24px 0 8px;letter-spacing:0.5px;text-transform:uppercase;">Mumbai Metro &mdash; On-Site Coverage</h4>
+        <div class="doc-cities">
           <span class="chip">Thane</span>
-          <span class="chip">Dombivli</span>
-          <span class="chip">Kalyan</span>
           <span class="chip">Navi Mumbai</span>
           <span class="chip">Vashi</span>
           <span class="chip">Belapur</span>
@@ -423,14 +433,36 @@
           <span class="chip">Goregaon</span>
           <span class="chip">Ghatkopar</span>
           <span class="chip">Mulund</span>
+          <span class="chip">Dombivli</span>
+          <span class="chip">Kalyan</span>
           <span class="chip">Ulhasnagar</span>
-          <span class="chip">Bhiwandi</span>
-          <span class="chip gold">Pune</span>
-          <span class="chip gold">Nashik</span>
-          <span class="chip gold">Nagpur</span>
-          <span class="chip">Aurangabad</span>
-          <span class="chip">Kolhapur</span>
-          <span class="chip">Solapur</span>
+        </div>
+
+        <h4 style="color:#065f46;font-size:15px;text-align:center;margin:24px 0 8px;letter-spacing:0.5px;text-transform:uppercase;">GCC &mdash; Gulf Cooperation Council</h4>
+        <div class="doc-cities">
+          <span class="chip gold">Dubai</span>
+          <span class="chip gold">Abu Dhabi</span>
+          <span class="chip gold">Sharjah</span>
+          <span class="chip gold">Riyadh</span>
+          <span class="chip gold">Jeddah</span>
+          <span class="chip">Dammam</span>
+          <span class="chip">Doha</span>
+          <span class="chip">Kuwait City</span>
+          <span class="chip">Manama</span>
+          <span class="chip">Muscat</span>
+        </div>
+
+        <h4 style="color:#065f46;font-size:15px;text-align:center;margin:24px 0 8px;letter-spacing:0.5px;text-transform:uppercase;">International</h4>
+        <div class="doc-cities">
+          <span class="chip gold">London</span>
+          <span class="chip gold">Singapore</span>
+          <span class="chip">Toronto</span>
+          <span class="chip">Sydney</span>
+          <span class="chip">Melbourne</span>
+          <span class="chip">Auckland</span>
+          <span class="chip">New York</span>
+          <span class="chip">San Francisco</span>
+          <span class="chip">Kuala Lumpur</span>
         </div>
       </div>
     </section>
@@ -551,18 +583,58 @@
             <label for="doc_city">City</label>
             <select id="doc_city" name="city">
               <option value="">— Select city —</option>
-              <option value="Mumbai">Mumbai</option>
-              <option value="Thane">Thane</option>
-              <option value="Dombivli">Dombivli</option>
-              <option value="Kalyan">Kalyan</option>
-              <option value="Navi Mumbai">Navi Mumbai</option>
-              <option value="Vashi">Vashi</option>
-              <option value="Belapur">Belapur</option>
-              <option value="Dadar">Dadar</option>
-              <option value="Pune">Pune</option>
-              <option value="Nashik">Nashik</option>
-              <option value="Nagpur">Nagpur</option>
-              <option value="Other">Other Maharashtra city</option>
+              <optgroup label="India — Tier 1">
+                <option value="Mumbai">Mumbai</option>
+                <option value="Delhi">Delhi</option>
+                <option value="Bangalore">Bangalore</option>
+                <option value="Ahmedabad">Ahmedabad</option>
+                <option value="Hyderabad">Hyderabad</option>
+                <option value="Chennai">Chennai</option>
+                <option value="Pune">Pune</option>
+                <option value="Kolkata">Kolkata</option>
+                <option value="Gurgaon">Gurgaon</option>
+                <option value="Noida">Noida</option>
+                <option value="Jaipur">Jaipur</option>
+                <option value="Chandigarh">Chandigarh</option>
+              </optgroup>
+              <optgroup label="India — Mumbai Metro">
+                <option value="Thane">Thane</option>
+                <option value="Navi Mumbai">Navi Mumbai</option>
+                <option value="Dombivli">Dombivli</option>
+                <option value="Kalyan">Kalyan</option>
+                <option value="Vashi">Vashi</option>
+                <option value="Belapur">Belapur</option>
+                <option value="Dadar">Dadar</option>
+              </optgroup>
+              <optgroup label="India — Other">
+                <option value="Nashik">Nashik</option>
+                <option value="Nagpur">Nagpur</option>
+                <option value="Lucknow">Lucknow</option>
+                <option value="Indore">Indore</option>
+                <option value="Kochi">Kochi</option>
+                <option value="Coimbatore">Coimbatore</option>
+                <option value="Other India">Other India city</option>
+              </optgroup>
+              <optgroup label="GCC">
+                <option value="Dubai">Dubai</option>
+                <option value="Abu Dhabi">Abu Dhabi</option>
+                <option value="Sharjah">Sharjah</option>
+                <option value="Riyadh">Riyadh</option>
+                <option value="Jeddah">Jeddah</option>
+                <option value="Dammam">Dammam</option>
+                <option value="Doha">Doha</option>
+                <option value="Kuwait City">Kuwait City</option>
+                <option value="Manama">Manama</option>
+                <option value="Muscat">Muscat</option>
+              </optgroup>
+              <optgroup label="International">
+                <option value="London">London</option>
+                <option value="Singapore">Singapore</option>
+                <option value="Toronto">Toronto</option>
+                <option value="Sydney">Sydney</option>
+                <option value="New York">New York</option>
+                <option value="Other International">Other International city</option>
+              </optgroup>
             </select>
 
             <label for="doc_msg">Anything else? (optional)</label>
@@ -585,11 +657,11 @@
         <div class="doc-faq">
           <div class="doc-faq-item"><h3>1. How much does digital marketing cost for a doctor in Mumbai?</h3><div>4 tiers: <strong>Starter Rs 35,000/mo</strong> (solo doctor), <strong>Growth Rs 75,000/mo</strong> (2-3 doctor clinics), <strong>Premium Rs 1,50,000/mo</strong> (multi-location), <strong>Enterprise Rs 3,00,000/mo</strong> (chains + hospitals). Ad spend separate + transparent (no markup).</div></div>
           <div class="doc-faq-item"><h3>2. What services do you offer for doctors and clinics?</h3><div>Full-stack: social media management, Instagram Reels + viral content, on-site photography + video shoots at your clinic, Meta + Google performance ads, Google Business Profile + local SEO, patient lead generation, website + booking + WhatsApp Cloud API, content marketing, branding + PR. No vendor juggling.</div></div>
-          <div class="doc-faq-item"><h3>3. What is your experience with dermatology / skin clinics?</h3><div>We currently run full-stack marketing for <strong>Dermatrix</strong>, a growing dermatology brand in Mumbai — Instagram Reels + viral content + organic content strategy + paid Meta + Google performance. Case study PDF + verified metrics shared under NDA on discovery call.</div></div>
-          <div class="doc-faq-item"><h3>4. Which cities do you serve?</h3><div>Mumbai (Andheri + Bandra + Powai + Juhu + Colaba + Malad + Goregaon + Ghatkopar + Mulund + Dadar), Thane, Navi Mumbai (Vashi + Nerul + Belapur + Kharghar), Dombivli, Kalyan, Ulhasnagar, Bhiwandi, Pune, Nashik, Nagpur + rest of Maharashtra. On-site shoots for Mumbai metro; remote management everywhere.</div></div>
+          <div class="doc-faq-item"><h3>3. What is your experience with dermatology / skin clinics?</h3><div>We currently run full-stack marketing for a premium 5+ clinic dermatology brand across India — Instagram Reels + viral content + organic content strategy + paid Meta + Google performance. Client name shared privately on discovery call under NDA. We also support 5+ other dermatology + trichology + cosmetic surgery clinics across India + GCC.</div></div>
+          <div class="doc-faq-item"><h3>4. Which cities do you serve?</h3><div><strong>India:</strong> Mumbai (Andheri + Bandra + Powai + Juhu + Malad + Goregaon + Ghatkopar + Mulund + Dadar), Delhi, Bangalore, Ahmedabad, Hyderabad, Chennai, Pune, Kolkata, Gurgaon, Noida, Jaipur, Chandigarh, Lucknow, Indore, Kochi, Coimbatore, Thane, Navi Mumbai, Dombivli, Kalyan, Nashik, Nagpur + all major India cities. <strong>GCC:</strong> Dubai, Abu Dhabi, Sharjah, Riyadh, Jeddah, Dammam, Doha, Kuwait City, Manama, Muscat. <strong>International:</strong> London, Singapore, Toronto, Sydney + more on request. On-site shoots for India + GCC metros; remote management globally.</div></div>
           <div class="doc-faq-item"><h3>5. Do you handle ASCI + MMC compliance for medical advertising?</h3><div>Yes — every creative + post + Reel + ad goes through compliance review before publish. No guaranteed-outcome language, no unauthorized medical advice via DM, before-after with proper consent + disclaimer. Compliance advisor on Growth+ tiers.</div></div>
           <div class="doc-faq-item"><h3>6. Do you actually come to my clinic for photo/video shoots?</h3><div>Yes — our team (photographer + videographer + director) comes to your clinic across Mumbai metro (Mumbai + Thane + Navi Mumbai + Dombivli + Kalyan). Full production kit + coordination with your front desk. Frequency: quarterly (Growth), monthly (Premium), weekly (Enterprise).</div></div>
-          <div class="doc-faq-item"><h3>7. How do you compare to Revolotech and other ad-only agencies?</h3><div>Revolotech + similar competitors offer paid ads only. ITD is full-stack: social + Reels + on-site video + photography + ads + GMB + WhatsApp + website + branding. Plus real case studies (Dermatrix + others), transparent 4-tier pricing, Maharashtra city focus, ASCI compliance workflow, ad-spend transparency (no markup).</div></div>
+          <div class="doc-faq-item"><h3>7. What makes ITD's approach different?</h3><div>Ten things: (1) real live case studies including a premium 5+ clinic dermatology brand + 20+ active clinics, (2) transparent 4-tier pricing publicly displayed, (3) true full-stack coverage (social + Reels + on-site video + photography + ads + GMB + WhatsApp + website + branding — one team), (4) on-site photography + video shoots at your clinic across India + GCC metros, (5) India + GCC + international coverage, (6) ASCI + MMC/MCI compliance workflow, (7) zero ad-spend markup, (8) WhatsApp Cloud API + booking, (9) 6-month MSA with month-3 exit option, (10) senior partner on discovery + QBRs.</div></div>
           <div class="doc-faq-item"><h3>8. How much ad spend should I budget for my clinic?</h3><div>Starter: Rs 30-80K/month. Growth: Rs 80K-2 lakh/month. Premium: Rs 2-6 lakh/month. Enterprise: Rs 6-25 lakh/month. Ad spend is SEPARATE from retainer + transparent pass-through — you see exactly what platforms bill.</div></div>
           <div class="doc-faq-item"><h3>9. How many patient inquiries can I expect per month?</h3><div>Depends on specialty + AOV + city + ad spend. Realistic range for a Growth-tier dermatology / dental / cosmetic clinic in Mumbai: 40-150 qualified inquiries/month at month 3-6, growing to 100-400/month at month 12+. WhatsApp CTWA drives 30-50% of high-AOV conversions.</div></div>
           <div class="doc-faq-item"><h3>10. What if I don't have great before-after photos yet?</h3><div>On-site shoots handle this. Our team comes to your clinic + captures new before-after (with patient consent + disclaimer) plus facility + procedure + team content in the same session. Compliance-safe format from day one.</div></div>
