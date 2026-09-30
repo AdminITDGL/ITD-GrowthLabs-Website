@@ -211,6 +211,7 @@
                                                <li><a href="/services/meta_ads.php">Meta Ads Management</a></li>
                                                <li><a href="/services/linkedin-personal-branding.php" style="color:#0a66c2;"><i class="fab fa-linkedin" style="margin-right:6px;font-size:12px;"></i><strong>LinkedIn Personal Branding</strong></a></li>
                                                <li><a href="/services/performance-marketing-packages.php" style="color:#d97706;"><i class="fas fa-bolt" style="margin-right:6px;font-size:12px;"></i><strong>Performance Marketing Packages</strong><br><span style="font-size:11px;color:#888;font-weight:500;">From Rs 25K/mo &middot; retainer + commission + lead-gen</span></a></li>
+                                               <li><a href="/services/whatsapp-chatbot-development.php" style="color:#128c7e;"><i class="fab fa-whatsapp" style="margin-right:6px;font-size:12px;"></i><strong>WhatsApp Chatbot Development</strong><br><span style="font-size:11px;color:#888;font-weight:500;">From Rs 45K setup &middot; WABA + bot + integrations</span></a></li>
                                                <li><a href="/services/social-media-marketing.php">Social Media Marketing</a></li>
                                            </ul>
                                        </div>
