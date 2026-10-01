@@ -62,6 +62,8 @@
 
     <?php include(__DIR__ . "/../includes/header.php"); ?>
     <?php include(__DIR__ . "/../includes/gromento_partner_strip.php"); ?>
+    <?php include(__DIR__ . "/../includes/realestate_developers_strip.php"); ?>
+    <?php include(__DIR__ . "/../includes/realestate_developer_journey.php"); ?>
     <?php require_once(__DIR__ . "/../includes/ui_modern.php"); ?>
 
     <?php itdgl_render_modern_hero([

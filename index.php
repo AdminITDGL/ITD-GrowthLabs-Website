@@ -8,21 +8,21 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="ITD GrowthLabs is a tech &amp; marketing studio from India building custom apps, SaaS platforms, websites &amp; AI-driven lead generation for 300+ businesses across India, USA, UK, UAE, Australia &amp; Africa. 55+ engineers, 97% client retention, fixed-quote pricing.">
-    <title>ITD GrowthLabs &mdash; Custom Apps, SaaS, Websites &amp; Lead Generation for B2B and D2C Companies</title>
+    <meta name="description" content="ITD GrowthLabs is a technology and marketing company for D2C, B2B, and Real Estate brands. End-to-end: custom apps, SaaS platforms, websites, performance marketing, lead generation, WhatsApp chatbots, branding and content. 300+ projects shipped, 55+ engineers and marketers, 97% client retention, fixed-quote pricing. India + GCC + International.">
+    <title>ITD GrowthLabs &mdash; Technology &amp; Marketing Company for D2C, B2B and Real Estate | End-to-End Marketing</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/" />
     <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
 
-    <meta property="og:title" content="ITD GrowthLabs &mdash; Custom Apps, SaaS, Websites &amp; Lead Generation for B2B and D2C Companies" />
-    <meta property="og:description" content="Senior-led India studio building custom apps, SaaS, websites and lead generation systems. 300+ projects shipped, 97% client retention, fixed-quote pricing." />
+    <meta property="og:title" content="ITD GrowthLabs &mdash; Technology &amp; Marketing Company for D2C, B2B and Real Estate | End-to-End Marketing" />
+    <meta property="og:description" content="End-to-end technology and marketing partner for D2C, B2B and Real Estate: custom apps, SaaS, websites, performance marketing, lead generation, WhatsApp chatbots, branding, content. India + GCC + International." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://itdgrowthlabs.com/" />
     <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
     <meta property="og:image:alt" content="ITD GrowthLabs" />
     <meta property="og:site_name" content="ITD GrowthLabs" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="ITD GrowthLabs &mdash; Custom Apps, SaaS, Websites &amp; Lead Generation" />
-    <meta name="twitter:description" content="Senior-led India studio. 300+ projects shipped. 97% client retention. Fixed-quote pricing." />
+    <meta name="twitter:title" content="ITD GrowthLabs &mdash; Technology &amp; Marketing Company for D2C, B2B and Real Estate" />
+    <meta name="twitter:description" content="End-to-end tech + marketing partner: custom apps, SaaS, websites, performance marketing, lead-gen, WhatsApp chatbots, branding, content. India + GCC + International." />
     <meta name="twitter:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg" />
 
     <link rel="alternate" hreflang="en-in" href="https://itdgrowthlabs.com/" />
@@ -129,7 +129,6 @@
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4XDB2GZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <?php include("./includes/header.php"); ?>
-    <?php include(__DIR__ . "/includes/gromento_partner_strip.php"); ?>
     <?php require_once(__DIR__ . "/includes/ui_modern.php"); ?>
 
     <!-- ============================================================
@@ -544,6 +543,8 @@
             </p>
         </div>
     </section>
+
+    <?php include(__DIR__ . "/includes/realestate_developers_strip.php"); ?>
 
     <!-- ============================================================
          WHAT WE FOCUS ON — services first, then ready-to-deploy apps
