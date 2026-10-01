@@ -61,6 +61,7 @@
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4XDB2GZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <?php include(__DIR__ . "/../includes/header.php"); ?>
+    <?php include(__DIR__ . "/../includes/gromento_partner_strip.php"); ?>
     <?php require_once(__DIR__ . "/../includes/ui_modern.php"); ?>
 
     <?php itdgl_render_modern_hero([

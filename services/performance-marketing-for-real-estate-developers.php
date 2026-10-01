@@ -135,6 +135,7 @@
 </head>
 <body>
     <?php include("../includes/header.php") ?>
+    <?php include(__DIR__ . "/../includes/gromento_partner_strip.php"); ?>
 
     
     <section class="pm-hero">
