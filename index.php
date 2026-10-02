@@ -509,6 +509,9 @@
         .itd-client-card img { max-height: 120px; }
     }
     </style>
+
+    <?php include(__DIR__ . "/includes/home_top_trust_band.php"); ?>
+
     <section class="itd-clients">
         <div class="container">
             <div class="itd-clients__head">
