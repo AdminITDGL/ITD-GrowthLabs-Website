@@ -544,6 +544,8 @@
         </div>
     </section>
 
+    <?php include(__DIR__ . "/includes/home_v2_sections.php"); ?>
+
     <?php include(__DIR__ . "/includes/realestate_developers_strip.php"); ?>
 
     <!-- ============================================================
