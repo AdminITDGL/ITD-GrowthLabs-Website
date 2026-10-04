@@ -5,32 +5,33 @@
  * (listed first) with Real Estate developers (listed after) + headline
  * numbers. First proof visitors see.
  *
- * Ordering (per user ask): D2C brands + B2B companies come first, then
- * real estate developers.
+ * boost=true gives the logo a larger max-height + lighter cell padding so
+ * source files that ship with extra transparent whitespace don't render
+ * smaller than the big marquee brands.
  */
 $itdgl_mixed_logos = [
   // D2C + B2B + Technology clients first
-  ['src'=>'/assets/img/clients/mindsyn.png',                            'alt'=>'MindSyn',                  'cat'=>'Technology'],
-  ['src'=>'/assets/img/clients/caper.png',                              'alt'=>'Caper',                    'cat'=>'D2C'],
-  ['src'=>'/assets/img/clients/pruf.jpg',                               'alt'=>'PRUF',                     'cat'=>'D2C'],
-  ['src'=>'/assets/img/clients/travelkit.png',                          'alt'=>'TravelKit',                'cat'=>'D2C'],
-  ['src'=>'/assets/img/clients/courierdost.png',                        'alt'=>'CourierDost',              'cat'=>'Logistics / SaaS'],
-  ['src'=>'/assets/img/clients/acx.png',                                'alt'=>'ACX',                      'cat'=>'B2B'],
-  ['src'=>'/assets/img/clients/transline-cargo.png',                    'alt'=>'Transline Air Cargo',      'cat'=>'Logistics'],
-  ['src'=>'/assets/img/clients/nex-navalai.png',                        'alt'=>'NEX Navalai Enterprises',  'cat'=>'B2B'],
-  ['src'=>'/assets/img/clients/cariesco-group.png',                     'alt'=>'Cariesco Group',           'cat'=>'B2B'],
-  ['src'=>'/assets/img/clients/technocrats.png',                        'alt'=>'Technocrats',              'cat'=>'B2B'],
-  ['src'=>'/assets/img/clients/m-four-development.png',                 'alt'=>'M Four Development',       'cat'=>'Real Estate'],
-  ['src'=>'/assets/img/clients/presidence.png',                         'alt'=>'Presidence',               'cat'=>'B2B'],
+  ['src'=>'/assets/img/clients/mindsyn.png',                            'alt'=>'MindSyn',                  'cat'=>'Technology',        'boost'=>true],
+  ['src'=>'/assets/img/clients/caper.png',                              'alt'=>'Caper',                    'cat'=>'D2C',               'boost'=>true],
+  ['src'=>'/assets/img/clients/pruf.jpg',                               'alt'=>'PRUF',                     'cat'=>'D2C',               'boost'=>false],
+  ['src'=>'/assets/img/clients/travelkit.png',                          'alt'=>'TravelKit',                'cat'=>'D2C',               'boost'=>false],
+  ['src'=>'/assets/img/clients/courierdost.png',                        'alt'=>'CourierDost',              'cat'=>'Logistics / SaaS',  'boost'=>true],
+  ['src'=>'/assets/img/clients/acx.png',                                'alt'=>'ACX',                      'cat'=>'B2B',               'boost'=>false],
+  ['src'=>'/assets/img/clients/transline-cargo.png',                    'alt'=>'Transline Air Cargo',      'cat'=>'Logistics',         'boost'=>false],
+  ['src'=>'/assets/img/clients/nex-navalai.png',                        'alt'=>'NEX Navalai Enterprises',  'cat'=>'B2B',               'boost'=>true],
+  ['src'=>'/assets/img/clients/cariesco-group.png',                     'alt'=>'Cariesco Group',           'cat'=>'B2B',               'boost'=>true],
+  ['src'=>'/assets/img/clients/technocrats.png',                        'alt'=>'Technocrats',              'cat'=>'B2B',               'boost'=>true],
+  ['src'=>'/assets/img/clients/m-four-development.png',                 'alt'=>'M Four Development',       'cat'=>'Real Estate',       'boost'=>false],
+  ['src'=>'/assets/img/clients/presidence.png',                         'alt'=>'Presidence',               'cat'=>'B2B',               'boost'=>false],
   // Then real estate developer brands
-  ['src'=>'/assets/img/realestate-clients/lodha.png',                   'alt'=>'Lodha',                    'cat'=>'Real Estate'],
-  ['src'=>'/assets/img/realestate-clients/godrej-properties.jpg',       'alt'=>'Godrej Properties',        'cat'=>'Real Estate'],
-  ['src'=>'/assets/img/realestate-clients/mahindra-lifespaces.png',     'alt'=>'Mahindra Lifespaces',      'cat'=>'Real Estate'],
-  ['src'=>'/assets/img/realestate-clients/prestige-group.png',          'alt'=>'Prestige Group',           'cat'=>'Real Estate'],
-  ['src'=>'/assets/img/realestate-clients/sobha-realty.png',            'alt'=>'Sobha Realty',             'cat'=>'Real Estate'],
-  ['src'=>'/assets/img/realestate-clients/danube-properties.png',       'alt'=>'Danube Properties',        'cat'=>'Real Estate'],
-  ['src'=>'/assets/img/realestate-clients/arihant-superstructures.jpg', 'alt'=>'Arihant Superstructures',  'cat'=>'Real Estate'],
-  ['src'=>'/assets/img/realestate-clients/m4-group.png',                'alt'=>'M4 Group',                 'cat'=>'Real Estate'],
+  ['src'=>'/assets/img/realestate-clients/lodha.png',                   'alt'=>'Lodha',                    'cat'=>'Real Estate',       'boost'=>false],
+  ['src'=>'/assets/img/realestate-clients/godrej-properties.jpg',       'alt'=>'Godrej Properties',        'cat'=>'Real Estate',       'boost'=>false],
+  ['src'=>'/assets/img/realestate-clients/mahindra-lifespaces.png',     'alt'=>'Mahindra Lifespaces',      'cat'=>'Real Estate',       'boost'=>false],
+  ['src'=>'/assets/img/realestate-clients/prestige-group.png',          'alt'=>'Prestige Group',           'cat'=>'Real Estate',       'boost'=>false],
+  ['src'=>'/assets/img/realestate-clients/sobha-realty.png',            'alt'=>'Sobha Realty',             'cat'=>'Real Estate',       'boost'=>false],
+  ['src'=>'/assets/img/realestate-clients/danube-properties.png',       'alt'=>'Danube Properties',        'cat'=>'Real Estate',       'boost'=>false],
+  ['src'=>'/assets/img/realestate-clients/arihant-superstructures.jpg', 'alt'=>'Arihant Superstructures',  'cat'=>'Real Estate',       'boost'=>false],
+  ['src'=>'/assets/img/realestate-clients/m4-group.png',                'alt'=>'M4 Group',                 'cat'=>'Real Estate',       'boost'=>false],
 ];
 ?>
 <style>
@@ -46,11 +47,18 @@ $itdgl_mixed_logos = [
   .htb-num .n{font-size:22px;font-weight:800;color:#fbbf24;line-height:1;letter-spacing:-0.02em;}
   .htb-num .l{font-size:10.5px;color:#dbeafe;margin-top:5px;letter-spacing:0.3px;text-transform:uppercase;font-weight:600;}
 
-  /* ---- Logos: fewer columns, taller cells, larger images (per user ask) ---- */
+  /* ---- Logos ---- */
   .htb-logos{display:grid;grid-template-columns:repeat(5,1fr);gap:16px;}
   .htb-logo{background:#fff;border-radius:12px;padding:22px 20px;height:140px;display:flex;align-items:center;justify-content:center;transition:transform .18s,box-shadow .18s;position:relative;}
   .htb-logo:hover{transform:translateY(-3px);box-shadow:0 14px 28px rgba(0,0,0,0.3);}
   .htb-logo img{max-width:100%;max-height:92px;width:auto;height:auto;object-fit:contain;}
+
+  /* Boost — for logos whose source files have extra whitespace or small marks (Caper, MindSyn,
+     CourierDost, NEX Navalai, Cariesco, Technocrats, etc.). Tighter cell padding + larger max
+     dimensions so these render visually equivalent to Lodha, Sobha, Godrej et al. */
+  .htb-logo.boost{padding:14px 12px;}
+  .htb-logo.boost img{max-height:116px;max-width:92%;}
+
   .htb-logo .cat-tag{position:absolute;bottom:-7px;left:50%;transform:translateX(-50%);background:#0f1e3d;color:#fde68a;font-size:9px;font-weight:800;letter-spacing:0.4px;text-transform:uppercase;padding:2px 8px;border-radius:99px;opacity:0;transition:opacity .18s;white-space:nowrap;}
   .htb-logo:hover .cat-tag{opacity:1;}
 
@@ -62,6 +70,8 @@ $itdgl_mixed_logos = [
     .htb-nums{grid-template-columns:repeat(4,1fr);}
     .htb-logo{height:120px;padding:18px 16px;}
     .htb-logo img{max-height:78px;}
+    .htb-logo.boost{padding:10px 10px;}
+    .htb-logo.boost img{max-height:100px;max-width:92%;}
   }
   @media (max-width:720px){
     .htb-wrap{padding:40px 18px 36px;}
@@ -69,12 +79,15 @@ $itdgl_mixed_logos = [
     .htb-logos{grid-template-columns:repeat(3,1fr);gap:12px;}
     .htb-logo{height:108px;padding:14px 12px;}
     .htb-logo img{max-height:72px;}
+    .htb-logo.boost{padding:8px 8px;}
+    .htb-logo.boost img{max-height:92px;max-width:94%;}
     .htb-nums{grid-template-columns:repeat(2,1fr);}
   }
   @media (max-width:460px){
     .htb-logos{grid-template-columns:repeat(2,1fr);}
     .htb-logo{height:96px;}
     .htb-logo img{max-height:64px;}
+    .htb-logo.boost img{max-height:82px;max-width:94%;}
   }
 </style>
 <section class="htb-wrap" aria-label="Brands we support">
@@ -94,7 +107,7 @@ $itdgl_mixed_logos = [
     </div>
     <div class="htb-logos">
       <?php foreach ($itdgl_mixed_logos as $logo): ?>
-        <div class="htb-logo" title="<?php echo htmlspecialchars($logo['alt'] . ' — ' . $logo['cat'], ENT_QUOTES); ?>">
+        <div class="htb-logo<?php echo !empty($logo['boost']) ? ' boost' : ''; ?>" title="<?php echo htmlspecialchars($logo['alt'] . ' — ' . $logo['cat'], ENT_QUOTES); ?>">
           <img src="<?php echo htmlspecialchars($logo['src'], ENT_QUOTES); ?>" alt="<?php echo htmlspecialchars($logo['alt'], ENT_QUOTES); ?>" loading="lazy">
           <span class="cat-tag"><?php echo htmlspecialchars($logo['cat'], ENT_QUOTES); ?></span>
         </div>
