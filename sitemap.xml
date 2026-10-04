@@ -21635,4 +21635,12 @@
     <priority>0.80</priority>
   </url>
 <!-- RE-MUMBAI-END -->
+<!-- LEGAL-POLICIES-START -->
+  <url>
+    <loc>https://itdgrowthlabs.com/legal/client-logo-usage.php</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.40</priority>
+  </url>
+<!-- LEGAL-POLICIES-END -->
 </urlset>

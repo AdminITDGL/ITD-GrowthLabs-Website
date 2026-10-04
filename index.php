@@ -60,7 +60,7 @@
         "alternateName": "ITD GrowthLabs Pvt Ltd",
         "url": "https://itdgrowthlabs.com",
         "logo": "https://itdgrowthlabs.com/assets/img/logo.jpg",
-        "description": "Senior-led India studio building custom apps, SaaS platforms, websites and AI-driven lead generation for B2B and D2C companies across India, USA, UK, UAE, Australia and Africa.",
+        "description": "India's marketing-first and technology-expert partner for D2C, B2B, Technology and Real Estate brands. Nine core services: branding, marketing, performance marketing, video production, content, social media management, lead generation, technology automation, and AI. 300+ projects shipped across India, GCC, UK, USA, Australia and more.",
         "foundingDate": "2024",
         "numberOfEmployees": {"@type": "QuantitativeValue", "value": 55},
         "address": {"@type": "PostalAddress", "addressLocality": "Mumbai", "addressRegion": "Maharashtra", "addressCountry": "IN", "streetAddress": "Andheri"},
@@ -72,8 +72,7 @@
             "https://www.instagram.com/itdgrowthlabs/",
             "https://www.facebook.com/itdgrowthlabs/",
             "https://twitter.com/itdgrowthlabs",
-            "https://www.youtube.com/@itdgrowthlabs",
-            "https://clutch.co/profile/itd-growthlabs"
+            "https://www.youtube.com/@itdgrowthlabs"
         ],
         "areaServed": [
             {"@type": "Country", "name": "India"},
@@ -346,44 +345,60 @@
             <div class="h-hero__inner">
                 <span class="h-hero__eyebrow">
                     <span class="pulse"></span>
-                    Senior-led India studio
+                    Tech &amp; marketing studio
+                    <span class="dot"></span>
+                    India + GCC
                     <span class="dot"></span>
                     300+ projects shipped
-                    <span class="dot"></span>
-                    6 countries
                 </span>
 
                 <h1>
-                    Build. Market. Scale.<br>
-                    One team for<br>
-                    <span class="rotator-wrap">
-                        <span class="h-hero__rotator r-blue" id="hero-rotator">websites</span><span class="h-hero__period">.</span>
+                    Performance marketing,<br>
+                    organic growth + technology &mdash;<br>
+                    <span class="rotator-wrap">for
+                        <span class="h-hero__rotator r-blue" id="hero-rotator">D2C brands</span><span class="h-hero__period">.</span>
                     </span>
                 </h1>
 
-                <p class="h-hero__sub">A <strong>tech &amp; marketing studio</strong> trusted by <strong>300+ businesses</strong> across India, USA, UK, UAE &amp; Australia.</p>
+                <p class="h-hero__sub">India's <strong>marketing-first + technology-expert</strong> partner. 300+ projects shipped for <strong>founders, marketing managers and technology leaders</strong> across India, GCC, UK, USA + more.</p>
 
-                <!-- Dynamic service spotlight — 5 cards, one highlights at a time, rotates in sync with headline -->
+                <!-- 9 core services — one highlights at a time, syncs with headline rotator -->
                 <div class="h-hero__services" id="hero-services">
-                    <a href="/website_development.php" class="h-svc active" data-key="web">
-                        <div class="h-svc__icon"><i class="fas fa-globe"></i></div>
-                        <span class="h-svc__title">Websites</span>
+                    <a href="/services/social-media-marketing.php" class="h-svc active" data-key="branding">
+                        <div class="h-svc__icon"><i class="fas fa-fingerprint"></i></div>
+                        <span class="h-svc__title">Branding</span>
                     </a>
-                    <a href="/services/App-Development.php" class="h-svc" data-key="mobile">
+                    <a href="/services/performance-marketing-packages.php" class="h-svc" data-key="perf">
+                        <div class="h-svc__icon"><i class="fas fa-chart-line"></i></div>
+                        <span class="h-svc__title">Performance Marketing</span>
+                    </a>
+                    <a href="/services/seo-auditing-services.php" class="h-svc" data-key="organic">
+                        <div class="h-svc__icon"><i class="fas fa-seedling"></i></div>
+                        <span class="h-svc__title">Organic Growth</span>
+                    </a>
+                    <a href="/services/social-media-marketing.php" class="h-svc" data-key="video">
+                        <div class="h-svc__icon"><i class="fas fa-video"></i></div>
+                        <span class="h-svc__title">Video Production</span>
+                    </a>
+                    <a href="/services/social-media-marketing.php" class="h-svc" data-key="social">
+                        <div class="h-svc__icon"><i class="fab fa-instagram"></i></div>
+                        <span class="h-svc__title">Social Media</span>
+                    </a>
+                    <a href="/services/lead-generation-packages.php" class="h-svc" data-key="lead">
+                        <div class="h-svc__icon"><i class="fas fa-user-plus"></i></div>
+                        <span class="h-svc__title">Lead Generation</span>
+                    </a>
+                    <a href="/services/App-Development.php" class="h-svc" data-key="tech">
                         <div class="h-svc__icon"><i class="fas fa-mobile-screen-button"></i></div>
-                        <span class="h-svc__title">Mobile Apps</span>
+                        <span class="h-svc__title">Technology &amp; Apps</span>
                     </a>
-                    <a href="/services/web_app_development.php" class="h-svc" data-key="webapp">
-                        <div class="h-svc__icon"><i class="fas fa-window-restore"></i></div>
-                        <span class="h-svc__title">Web Apps &amp; SaaS</span>
+                    <a href="/services/whatsapp-chatbot-development.php" class="h-svc" data-key="whatsapp">
+                        <div class="h-svc__icon"><i class="fab fa-whatsapp"></i></div>
+                        <span class="h-svc__title">WhatsApp Automation</span>
                     </a>
-                    <a href="/digital_marketing.php" class="h-svc" data-key="mkt">
-                        <div class="h-svc__icon"><i class="fas fa-bullseye"></i></div>
-                        <span class="h-svc__title">Digital Marketing</span>
-                    </a>
-                    <a href="/ai_automation.php" class="h-svc" data-key="ai">
+                    <a href="/services/ai-powered-whatsapp-chatbot.php" class="h-svc" data-key="ai">
                         <div class="h-svc__icon"><i class="fas fa-robot"></i></div>
-                        <span class="h-svc__title">AI Automation</span>
+                        <span class="h-svc__title">AI</span>
                     </a>
                 </div>
 
@@ -393,9 +408,10 @@
                 </div>
 
                 <div class="h-hero__pills">
-                    <span><i class="fas fa-shield-check"></i> Fixed-quote pricing</span>
-                    <span><i class="fas fa-code-branch"></i> 100% code ownership</span>
-                    <span><i class="fas fa-bolt"></i> 48-hr quote turnaround</span>
+                    <span><i class="fas fa-receipt"></i> Zero ad-spend markup</span>
+                    <span><i class="fas fa-shield-check"></i> 97% client retention</span>
+                    <span><i class="fas fa-layer-group"></i> 9 core services</span>
+                    <span><i class="fas fa-handshake"></i> Fixed-quote on custom builds</span>
                 </div>
             </div>
         </div>
@@ -414,14 +430,22 @@
     </section>
 
     <script>
-    // Hero rotator — headline word + service spotlight cycle in sync
+    // Hero rotator — headline industry + service spotlight cycle in sync.
+    // Industries (D2C / B2B / Technology / Real Estate / Jewelry / Skincare)
+    // rotate in the H1 while the active 9-service card below shifts to a
+    // service that typically pairs with that industry — reinforcing the
+    // "straightforward: for X industry we do Y service" positioning.
     (function () {
         var items = [
-            { word: 'websites',            cls: 'r-blue',   svcKey: 'web' },
-            { word: 'mobile apps',         cls: 'r-red',    svcKey: 'mobile' },
-            { word: 'web apps &amp; SaaS', cls: 'r-purple', svcKey: 'webapp' },
-            { word: 'digital marketing',   cls: 'r-yellow', svcKey: 'mkt' },
-            { word: 'AI automation',       cls: 'r-green',  svcKey: 'ai' },
+            { word: 'D2C brands',          cls: 'r-blue',   svcKey: 'perf' },
+            { word: 'B2B companies',       cls: 'r-purple', svcKey: 'lead' },
+            { word: 'Technology brands',   cls: 'r-green',  svcKey: 'tech' },
+            { word: 'Real Estate',         cls: 'r-yellow', svcKey: 'organic' },
+            { word: 'Jewelry brands',      cls: 'r-red',    svcKey: 'social' },
+            { word: 'Skincare brands',     cls: 'r-blue',   svcKey: 'video' },
+            { word: 'founders + growth',   cls: 'r-purple', svcKey: 'branding' },
+            { word: 'any industry',        cls: 'r-green',  svcKey: 'ai' },
+            { word: 'any business',        cls: 'r-yellow', svcKey: 'whatsapp' },
         ];
         var idx = 0;
         var el   = document.getElementById('hero-rotator');
@@ -447,8 +471,9 @@
     })();
     </script>
 
-    <!-- Trust badges -->
-    <?php $tb_source = 'home'; include(__DIR__ . '/includes/trust-badges.php'); ?>
+    <!-- Third-party review badges removed per user ask — client logos below
+         now carry the social-proof role on the homepage. The trust-badges
+         include is still available for other pages that need it. -->
 
     <!-- Trusted-by client logos band — see includes/home_top_trust_band.php
          (replaced the former itd-clients grid; logos now surface in the new

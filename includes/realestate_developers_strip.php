@@ -47,5 +47,5 @@ $itdgl_re_devs = [
       </div>
     <?php endforeach; ?>
   </div>
-  <p class="itdgl-redev-attr">All developer names and logos shown above are trademarks of their respective owners and are used solely to indicate category and scale of brands we actively support through direct engagements and partnership channels. Logos do not imply endorsement, exclusive representation, or active contractual retainer with ITD GrowthLabs.</p>
+  <p class="itdgl-redev-attr">All developer names and logos shown above are trademarks of their respective owners and are used solely to indicate category and scale of brands we actively support through direct engagements, partnership channels and joint-venture projects. Logos do not imply endorsement, exclusive representation, or active contractual retainer with ITD GrowthLabs. Full attribution policy: <a href="/legal/client-logo-usage.php" style="color:#8a6520;border-bottom:1px solid #c89b3c">Client Logo &amp; Brand Attribution Policy</a>.</p>
 </section>

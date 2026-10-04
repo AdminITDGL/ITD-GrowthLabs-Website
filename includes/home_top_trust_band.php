@@ -100,6 +100,6 @@ $itdgl_mixed_logos = [
         </div>
       <?php endforeach; ?>
     </div>
-    <p class="htb-attr">All names and logos shown are trademarks of their respective owners and are used solely to indicate the category and scale of brands we support through direct engagements and partnership channels. Logos do not imply endorsement, exclusive representation, or active contractual retainer with ITD GrowthLabs.</p>
+    <p class="htb-attr">All names and logos shown are trademarks of their respective owners and are used solely to indicate the category and scale of brands we support through direct engagements, partnership channels and joint-venture projects. Logos do not imply endorsement, exclusive representation, or active contractual retainer with ITD GrowthLabs. Full attribution policy: <a href="/legal/client-logo-usage.php" style="color:#fde68a;border-bottom:1px solid rgba(253,230,138,0.4)">Client Logo &amp; Brand Attribution Policy</a>.</p>
   </div>
 </section>
