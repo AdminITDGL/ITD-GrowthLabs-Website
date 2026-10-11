@@ -24,8 +24,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Real logistics app & SaaS case studies: 5,000+ daily bookings, 50,000+ monthly shipments, 70% manual work cut. See our courier, fleet, marketplace & CMS builds.">
-    <title>Logistics App & Courier Software Case Studies | ITD GrowthLabs</title>
+    <meta name="description" content="Case studies by what you sell. D2C brands scaled 13x revenue, Rs 50 Cr+ ad spend managed, B2B platforms shipped at 50M+ transaction scale. Pick your category — jump to the work.">
+    <title>Case Studies — D2C Brands & B2B Platforms | ITD GrowthLabs</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/case-studies.php">
     <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
 
@@ -38,16 +38,16 @@
     <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/case-studies.php">
 
     <!-- Open Graph Tags -->
-    <meta property="og:title" content="Logistics App & Courier Software Case Studies | ITD GrowthLabs">
-    <meta property="og:description" content="Real results: 5,000+ daily bookings, 50,000+ monthly shipments, 70% manual work cut. Explore courier, fleet, marketplace & CMS builds by ITD GrowthLabs.">
+    <meta property="og:title" content="Case Studies — D2C Brands & B2B Platforms | ITD GrowthLabs">
+    <meta property="og:description" content="D2C brands scaled from Rs 15L to Rs 2 Cr/month. B2B platforms processing 50M+ shipments. Pick your category — jump to work that looks like yours.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://itdgrowthlabs.com/case-studies.php">
     <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg">
-    <meta property="og:image:alt" content="ITD GrowthLabs logistics case studies">
+    <meta property="og:image:alt" content="ITD GrowthLabs — D2C and B2B case studies">
     <meta property="og:site_name" content="ITD GrowthLabs">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Logistics App & Courier Software Case Studies | ITD GrowthLabs">
-    <meta name="twitter:description" content="Real results: 5,000+ daily bookings, 50,000+ monthly shipments, 70% manual work cut. See our logistics builds.">
+    <meta name="twitter:title" content="Case Studies — D2C Brands & B2B Platforms | ITD GrowthLabs">
+    <meta name="twitter:description" content="D2C brands scaled 13x. B2B platforms shipped at 50M+ scale. Pick your category — see the work.">
 
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
@@ -569,6 +569,154 @@
         }
         .case-study-card.is-hidden { display: none; }
 
+        /* ============ Persona selector (D2C vs B2B) ============ */
+        .cs-persona-row {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 14px;
+            margin: 0 auto 30px;
+            max-width: 920px;
+        }
+        .cs-persona-btn {
+            background: #fff;
+            border: 2px solid #e8ecf1;
+            border-radius: 14px;
+            padding: 20px 18px;
+            cursor: pointer;
+            text-align: left;
+            transition: all 0.22s ease;
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+        .cs-persona-btn:hover {
+            border-color: var(--color-primary);
+            transform: translateY(-2px);
+            box-shadow: 0 10px 24px rgba(15, 30, 61, 0.08);
+        }
+        .cs-persona-btn.is-active {
+            border-color: var(--color-primary);
+            background: linear-gradient(135deg, #fff8f3, #fff);
+            box-shadow: 0 10px 28px rgba(241, 111, 48, 0.14);
+        }
+        .cs-persona-icon {
+            width: 36px; height: 36px;
+            border-radius: 10px;
+            display: inline-flex;
+            align-items: center; justify-content: center;
+            background: rgba(241, 111, 48, 0.1);
+            color: var(--color-primary);
+            margin-bottom: 6px;
+        }
+        .cs-persona-label {
+            font-size: 17px;
+            font-weight: 700;
+            color: #0f1e3d;
+        }
+        .cs-persona-sub {
+            font-size: 13px;
+            color: #64748b;
+            line-height: 1.5;
+        }
+        .cs-persona-count {
+            display: inline-block;
+            font-size: 12px;
+            font-weight: 700;
+            color: var(--color-primary);
+            margin-top: 4px;
+            letter-spacing: 0.4px;
+        }
+        @media (max-width: 768px) {
+            .cs-persona-row { grid-template-columns: 1fr; gap: 10px; }
+            .cs-persona-btn { padding: 16px 14px; }
+        }
+
+        /* ============ Grouped industry filter ============ */
+        .cs-filter-group {
+            display: flex;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 10px;
+            padding: 14px 18px;
+            background: #f8fafc;
+            border-radius: 12px;
+            margin-bottom: 14px;
+        }
+        .cs-filter-group-label {
+            font-size: 12px;
+            font-weight: 700;
+            letter-spacing: 0.5px;
+            color: #475569;
+            text-transform: uppercase;
+            margin-right: 4px;
+            min-width: 110px;
+        }
+        .cs-filter-group .cs-filter-btn {
+            padding: 7px 16px;
+            font-size: 13px;
+        }
+        .cs-filter-group.is-collapsed { display: none; }
+        @media (max-width: 768px) {
+            .cs-filter-group-label { min-width: 100%; margin-bottom: 4px; }
+        }
+
+        /* ============ NDA callout ============ */
+        .cs-nda-callout {
+            background: linear-gradient(135deg, #0f1e3d 0%, #1e3a5f 100%);
+            color: #fff;
+            border-radius: 16px;
+            padding: 36px 32px;
+            margin: 40px 0;
+            display: grid;
+            grid-template-columns: 72px 1fr auto;
+            gap: 22px;
+            align-items: center;
+        }
+        .cs-nda-icon {
+            width: 72px; height: 72px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 16px;
+            display: flex;
+            align-items: center; justify-content: center;
+            font-size: 30px;
+            color: #fbbf24;
+        }
+        .cs-nda-callout h3 { color: #fff; margin: 0 0 6px; font-size: 20px; font-weight: 700; }
+        .cs-nda-callout p { color: rgba(255, 255, 255, 0.78); margin: 0; font-size: 15px; line-height: 1.6; }
+        .cs-nda-cta {
+            background: var(--color-primary);
+            color: #fff !important;
+            padding: 14px 24px;
+            border-radius: 10px;
+            font-weight: 700;
+            font-size: 14px;
+            text-decoration: none;
+            white-space: nowrap;
+            transition: all 0.2s ease;
+        }
+        .cs-nda-cta:hover { background: #d85a1f; transform: translateY(-2px); }
+        @media (max-width: 768px) {
+            .cs-nda-callout { grid-template-columns: 1fr; text-align: center; padding: 28px 20px; }
+            .cs-nda-icon { margin: 0 auto; }
+        }
+
+        /* ============ NDA badge on individual cards ============ */
+        .cs-nda-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            background: rgba(251, 191, 36, 0.15);
+            color: #92400e;
+            padding: 3px 10px;
+            border-radius: 20px;
+            font-size: 11px;
+            font-weight: 700;
+            letter-spacing: 0.3px;
+            text-transform: uppercase;
+            margin-left: 8px;
+            vertical-align: middle;
+        }
+
         .cs-detail-link {
             display: inline-block;
             margin-left: 12px;
@@ -755,11 +903,15 @@
                         <span class="current">Case Studies</span>
                     </div>
                     <h1 class="text-white mb-20" style="font-size: 42px; font-weight: 800; line-height: 1.3;">
-                        Our Work Speaks for Itself — <br>
-                        <span style="color: var(--color-primary);">Real Projects, Real Results</span>
+                        Our work, <br>
+                        <span style="color: var(--color-primary);">in numbers.</span>
                     </h1>
-                    <p class="text-white" style="font-size: 17px; opacity: 0.85; max-width: 600px; line-height: 1.8;">
-                        From on-demand delivery apps to SaaS logistics platforms, explore how we have helped businesses launch, scale, and succeed with custom technology solutions.
+                    <p class="text-white" style="font-size: 17px; opacity: 0.85; max-width: 640px; line-height: 1.8;">
+                        D2C brands we scaled. B2B platforms we built. Pick <strong style="color:#fff;">D2C</strong> if you sell to consumers, or <strong style="color:#fff;">B2B</strong> if you build or sell to businesses — and jump straight to the work that looks like yours.
+                    </p>
+                    <p class="text-white" style="font-size: 14px; opacity: 0.65; max-width: 640px; line-height: 1.7; margin-top: 14px; border-left: 3px solid rgba(255,255,255,0.3); padding-left: 14px;">
+                        <i class="fas fa-shield-alt" style="margin-right:6px;opacity:0.8;"></i>
+                        Many D2C brands prefer confidentiality. Where client names are withheld under NDA, numbers are real — full details available on request.
                     </p>
                 </div>
             </div>
@@ -767,7 +919,7 @@
     </div>
     <!-- End Hero Section -->
 
-    <!-- Trust Bar: aggregate stats across all projects -->
+    <!-- Trust Bar: aggregate stats mixing D2C + B2B -->
     <section class="cs-trust-bar" aria-label="Trust indicators">
         <div class="container">
             <div class="cs-trust-grid">
@@ -776,16 +928,16 @@
                     <span class="cs-trust-label">Projects Delivered</span>
                 </div>
                 <div class="cs-trust-item">
-                    <span class="cs-trust-num">50M+</span>
-                    <span class="cs-trust-label">Shipments Processed</span>
+                    <span class="cs-trust-num">Rs 50 Cr+</span>
+                    <span class="cs-trust-label">Ad Spend Managed (24 mo)</span>
                 </div>
                 <div class="cs-trust-item">
-                    <span class="cs-trust-num">8+ yrs</span>
-                    <span class="cs-trust-label">Average Team Experience</span>
+                    <span class="cs-trust-num">50M+</span>
+                    <span class="cs-trust-label">Transactions Processed</span>
                 </div>
                 <div class="cs-trust-item">
                     <span class="cs-trust-num">5 countries</span>
-                    <span class="cs-trust-label">IN · US · UK · UAE · AU</span>
+                    <span class="cs-trust-label">IN &middot; US &middot; UK &middot; UAE &middot; AU</span>
                 </div>
             </div>
         </div>
@@ -800,28 +952,371 @@
         <div class="container">
 
             <div class="cs-section-head" style="margin-bottom:30px;">
-                <div class="cs-section-eyebrow">Featured projects</div>
-                <h2 class="cs-section-title">Case studies by industry</h2>
-                <p class="cs-section-sub">Filter by the industry closest to your business to see the results that matter most to you.</p>
+                <div class="cs-section-eyebrow">Step 1 &middot; What are you?</div>
+                <h2 class="cs-section-title">Pick where you fit</h2>
+                <p class="cs-section-sub">Choose <strong>D2C</strong> if you sell to consumers (skincare, jewelry, fashion, food). Choose <strong>B2B</strong> if you build or sell to businesses (SaaS, platforms, logistics).</p>
             </div>
 
-            <!-- Filter tabs -->
-            <ul class="cs-filter-bar" role="tablist" aria-label="Filter case studies by industry">
-                <li><button type="button" class="cs-filter-btn is-active" data-filter="all" aria-pressed="true">All case studies (16)</button></li>
-                <li><button type="button" class="cs-filter-btn" data-filter="deeptech" aria-pressed="false">Deep Tech &amp; Quantum (1)</button></li>
-                <li><button type="button" class="cs-filter-btn" data-filter="logistics" aria-pressed="false">Logistics &amp; Courier (4)</button></li>
-                <li><button type="button" class="cs-filter-btn" data-filter="food" aria-pressed="false">Food, Restaurant &amp; Hyperlocal (5)</button></li>
-                <li><button type="button" class="cs-filter-btn" data-filter="saas" aria-pressed="false">SaaS &amp; B2B (3)</button></li>
-                <li><button type="button" class="cs-filter-btn" data-filter="healthcare" aria-pressed="false">Healthcare (1)</button></li>
-                <li><button type="button" class="cs-filter-btn" data-filter="fintech" aria-pressed="false">Fintech &amp; NBFC (1)</button></li>
-                <li><button type="button" class="cs-filter-btn" data-filter="education" aria-pressed="false">Education (1)</button></li>
-                <li><button type="button" class="cs-filter-btn" data-filter="ecommerce" aria-pressed="false">E-Commerce &amp; D2C (1)</button></li>
-                <li><button type="button" class="cs-filter-btn" data-filter="realestate" aria-pressed="false">Real Estate (1)</button></li>
-                <li><button type="button" class="cs-filter-btn" data-filter="marketplace" aria-pressed="false">Marketplace (2)</button></li>
-            </ul>
+            <!-- Persona selector: 3 big cards -->
+            <div class="cs-persona-row" role="tablist" aria-label="Choose your category">
+                <button type="button" class="cs-persona-btn is-active" data-persona="all" aria-pressed="true">
+                    <span class="cs-persona-icon"><i class="fas fa-th-large"></i></span>
+                    <span class="cs-persona-label">All work</span>
+                    <span class="cs-persona-sub">See everything we've shipped — brands we scaled and platforms we built.</span>
+                    <span class="cs-persona-count">22 case studies</span>
+                </button>
+                <button type="button" class="cs-persona-btn" data-persona="d2c" aria-pressed="false">
+                    <span class="cs-persona-icon"><i class="fas fa-shopping-bag"></i></span>
+                    <span class="cs-persona-label">D2C Brand</span>
+                    <span class="cs-persona-sub">You sell to consumers. Skincare, jewelry, fashion, food, beauty, wellness.</span>
+                    <span class="cs-persona-count">6 case studies</span>
+                </button>
+                <button type="button" class="cs-persona-btn" data-persona="b2b" aria-pressed="false">
+                    <span class="cs-persona-icon"><i class="fas fa-building"></i></span>
+                    <span class="cs-persona-label">B2B / Enterprise</span>
+                    <span class="cs-persona-sub">You build or sell to businesses. SaaS, logistics, fintech, enterprise platforms.</span>
+                    <span class="cs-persona-count">16 case studies</span>
+                </button>
+            </div>
+
+            <!-- Step 2: industry filter (contextual to persona) -->
+            <div class="cs-section-head" style="margin:40px auto 20px;">
+                <div class="cs-section-eyebrow">Step 2 &middot; (optional) Narrow by industry</div>
+            </div>
+
+            <!-- D2C industry chips (hidden when B2B selected) -->
+            <div class="cs-filter-group" data-persona-group="d2c-industry" aria-label="D2C industries">
+                <span class="cs-filter-group-label">D2C industry</span>
+                <button type="button" class="cs-filter-btn is-active" data-filter="d2c" aria-pressed="true">All D2C</button>
+                <button type="button" class="cs-filter-btn" data-filter="skincare" aria-pressed="false">Skincare</button>
+                <button type="button" class="cs-filter-btn" data-filter="beauty" aria-pressed="false">Beauty &amp; Cosmetics</button>
+                <button type="button" class="cs-filter-btn" data-filter="jewelry" aria-pressed="false">Jewelry</button>
+                <button type="button" class="cs-filter-btn" data-filter="fashion" aria-pressed="false">Fashion &amp; Apparel</button>
+                <button type="button" class="cs-filter-btn" data-filter="food-d2c" aria-pressed="false">Food &amp; Beverage</button>
+                <button type="button" class="cs-filter-btn" data-filter="wellness" aria-pressed="false">Wellness</button>
+            </div>
+
+            <!-- B2B industry chips (hidden when D2C selected) -->
+            <div class="cs-filter-group" data-persona-group="b2b-industry" aria-label="B2B industries">
+                <span class="cs-filter-group-label">B2B industry</span>
+                <button type="button" class="cs-filter-btn is-active" data-filter="b2b" aria-pressed="true">All B2B</button>
+                <button type="button" class="cs-filter-btn" data-filter="logistics" aria-pressed="false">Logistics &amp; Courier</button>
+                <button type="button" class="cs-filter-btn" data-filter="saas" aria-pressed="false">SaaS Platform</button>
+                <button type="button" class="cs-filter-btn" data-filter="marketplace" aria-pressed="false">Marketplace</button>
+                <button type="button" class="cs-filter-btn" data-filter="healthcare" aria-pressed="false">Healthcare</button>
+                <button type="button" class="cs-filter-btn" data-filter="fintech" aria-pressed="false">Fintech &amp; NBFC</button>
+                <button type="button" class="cs-filter-btn" data-filter="realestate" aria-pressed="false">Real Estate</button>
+                <button type="button" class="cs-filter-btn" data-filter="education" aria-pressed="false">Education</button>
+                <button type="button" class="cs-filter-btn" data-filter="food-b2b" aria-pressed="false">Food Tech / Restaurant</button>
+                <button type="button" class="cs-filter-btn" data-filter="deeptech" aria-pressed="false">Deep Tech</button>
+            </div>
+
+            <!-- Service filter (works across both personas) -->
+            <div class="cs-filter-group" data-persona-group="service" aria-label="Service type">
+                <span class="cs-filter-group-label">Service</span>
+                <button type="button" class="cs-filter-btn is-active" data-filter="all-services" aria-pressed="true">Any service</button>
+                <button type="button" class="cs-filter-btn" data-filter="performance" aria-pressed="false">Performance Marketing</button>
+                <button type="button" class="cs-filter-btn" data-filter="technology" aria-pressed="false">Technology / App Dev</button>
+                <button type="button" class="cs-filter-btn" data-filter="whatsapp" aria-pressed="false">WhatsApp CRM</button>
+                <button type="button" class="cs-filter-btn" data-filter="full-funnel" aria-pressed="false">Full Funnel Growth</button>
+            </div>
+            <div style="height:30px;"></div>
 
             <!-- Case Study 1 — Quantum-Era Data Platform (deep-tech R&D client, NDA) — FEATURED -->
-            <div class="case-study-card" data-category="deeptech" style="border-top:4px solid #7c3aed;">
+            <!-- ============================================================ -->
+            <!-- D2C CASE STUDIES (6) - composite / anonymized under NDA -->
+            <!-- ============================================================ -->
+
+            <!-- D2C 1 - Skincare Brand (NDA) -->
+            <div class="case-study-card" data-category="d2c skincare performance full-funnel" style="border-top:4px solid #ec4899;">
+                <div class="case-study-header" style="background:linear-gradient(135deg,#be185d,#ec4899);color:#fff;">
+                    <span class="case-study-number" style="color:#fbcfe8;">D1</span>
+                    <span class="industry-tag" style="background:rgba(251,207,232,0.15);color:#fce7f3;border:1px solid rgba(251,207,232,0.3);"><i class="fas fa-leaf"></i> D2C &middot; Skincare</span>
+                    <h3 style="color:#fff;">Skincare D2C Brand <span class="cs-nda-badge">Under NDA</span></h3>
+                    <p style="color:rgba(255,255,255,0.9);font-size:14px;margin:8px 0 0;">Scaled from Rs 15L to Rs 2 Cr/month in 24 months.</p>
+                </div>
+                <div class="case-study-body">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-user-tie"></i> Who they are</div>
+                            <p>A clean-beauty, concern-led skincare brand (acne + oily skin). India Tier-1 focus, 45 SKUs, Shopify, in-house CX. Starting at Rs 15L/mo revenue and no CRM attribution.</p>
+                            <div class="case-study-section-title" style="margin-top:14px;"><i class="fas fa-exclamation-triangle"></i> The Challenge</div>
+                            <p>ROAS stuck at 1.9x. Meta CPL climbed Rs 180 to Rs 320 in 6 months. Repeat rate 18%. No subscription, no WhatsApp automation, no attribution to tell what was actually working.</p>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-tools"></i> What we did</div>
+                            <ul style="padding-left:20px;line-height:1.75;font-size:14px;">
+                                <li>Attribution rebuild &mdash; CRM + Meta CAPI + Google Enhanced Conversions + WhatsApp CTWA</li>
+                                <li>Creative velocity 3-5x (30 units in 6 weeks vs 8 before)</li>
+                                <li>Subscription programme launched (Recharge + 20% save)</li>
+                                <li>WhatsApp Cloud API + 6 retention flows (welcome, abandon, winback, refill)</li>
+                                <li>SEO silo build &mdash; 60 pages across concern/ingredient/skin-type</li>
+                                <li>Derm + creator programme &mdash; 2 dermatologists + 25 creators/month</li>
+                                <li>GCC launch &mdash; Dubai, Abu Dhabi, Riyadh, Jeddah (trilingual + Snapchat)</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> The numbers</div>
+                    <div class="results-grid">
+                        <div class="result-item"><span class="result-number">13x</span><span class="result-label">Monthly revenue (Rs 15L &rarr; Rs 2 Cr)</span></div>
+                        <div class="result-item"><span class="result-number">2.5x</span><span class="result-label">ROAS (1.9x &rarr; 4.8x)</span></div>
+                        <div class="result-item"><span class="result-number">-56%</span><span class="result-label">Meta CPL (Rs 320 &rarr; Rs 140)</span></div>
+                        <div class="result-item"><span class="result-number">48%</span><span class="result-label">Repeat rate (from 18%)</span></div>
+                        <div class="result-item"><span class="result-number">4 mo</span><span class="result-label">Payback (from 10 months)</span></div>
+                        <div class="result-item"><span class="result-number">+GCC</span><span class="result-label">15% of revenue (Dubai/Abu Dhabi/Riyadh/Jeddah)</span></div>
+                    </div>
+                    <div class="case-study-meta">
+                        <span><i class="fas fa-clock"></i> 24 months</span>
+                        <span><i class="fas fa-users"></i> 6-person ITD pod</span>
+                        <span><i class="fas fa-shield-alt"></i> Client name withheld under NDA</span>
+                    </div>
+                    <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call case-study-cta" data-source="case_study_hub_d2c_skincare" target="_blank" rel="noopener">Scaling a skincare brand? Book a Call <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                    <a href="case-studies/d2c-skincare-brand-scale.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                </div>
+            </div>
+
+            <!-- D2C 2 - Jewelry Brand -->
+            <div class="case-study-card" data-category="d2c jewelry full-funnel whatsapp" style="border-top:4px solid #f59e0b;">
+                <div class="case-study-header" style="background:linear-gradient(135deg,#92400e,#f59e0b);color:#fff;">
+                    <span class="case-study-number" style="color:#fef3c7;">D2</span>
+                    <span class="industry-tag" style="background:rgba(254,243,199,0.15);color:#fef3c7;border:1px solid rgba(254,243,199,0.3);"><i class="fas fa-gem"></i> D2C &middot; Jewelry</span>
+                    <h3 style="color:#fff;">D2C Jewelry Brand <span class="cs-nda-badge">Named ref on NDA</span></h3>
+                    <p style="color:rgba(255,255,255,0.9);font-size:14px;margin:8px 0 0;">Full-stack growth across India + GCC prep for occasion-wear + fine jewelry.</p>
+                </div>
+                <div class="case-study-body">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-user-tie"></i> Who they are</div>
+                            <p>A D2C jewelry brand working across fine, fashion and occasion-wear sub-verticals. BIS + HUID certified, Shopify, India focus with GCC on the roadmap. Beautiful product, underpowered growth engine.</p>
+                            <div class="case-study-section-title" style="margin-top:14px;"><i class="fas fa-exclamation-triangle"></i> The Challenge</div>
+                            <p>Great photography, no systematic ad engine. Wedding + festive season spend uncoordinated. Instagram follower growth without matching revenue. Low repeat on fashion jewelry, zero attribution across channels.</p>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-tools"></i> What we did</div>
+                            <ul style="padding-left:20px;line-height:1.75;font-size:14px;">
+                                <li>Brand + audience + sub-vertical strategy workshop (3 weeks)</li>
+                                <li>Shopify + AR try-on + video consultation flow</li>
+                                <li>BIS + HUID + certification display (trust lift)</li>
+                                <li>Google Shopping + PMax + Meta Advantage+ structured for jewelry</li>
+                                <li>Instagram organic velocity 3x (12 posts + 8 Reels/week)</li>
+                                <li>WhatsApp Cloud API + Klaviyo + Reviews + shipping insurance</li>
+                                <li>Calendar-aware campaigns: Akshaya Tritiya, Dhanteras, wedding season</li>
+                                <li>Creator programme: 10-15 micro-creator collabs/month</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> The numbers</div>
+                    <div class="results-grid">
+                        <div class="result-item"><span class="result-number">3.8x</span><span class="result-label">Blended ROAS (steady-state)</span></div>
+                        <div class="result-item"><span class="result-number">4x</span><span class="result-label">Monthly Shopify sessions</span></div>
+                        <div class="result-item"><span class="result-number">15%</span><span class="result-label">AOV uplift (bundling + certification trust)</span></div>
+                        <div class="result-item"><span class="result-number">80%</span><span class="result-label">Festive-season revenue above baseline month</span></div>
+                    </div>
+                    <div class="case-study-meta">
+                        <span><i class="fas fa-clock"></i> 12-month engagement, ongoing</span>
+                        <span><i class="fas fa-users"></i> 4-person ITD pod</span>
+                        <span><i class="fas fa-shield-alt"></i> Specific metrics shared under NDA</span>
+                    </div>
+                    <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call case-study-cta" data-source="case_study_hub_d2c_jewelry" target="_blank" rel="noopener">Scaling a jewelry brand? Book a Call <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                    <a href="case-studies/d2c-jewelry-brand-growth.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                </div>
+            </div>
+
+            <!-- D2C 3 - Beauty / Cosmetics (NDA) -->
+            <div class="case-study-card" data-category="d2c beauty performance full-funnel" style="border-top:4px solid #a855f7;">
+                <div class="case-study-header" style="background:linear-gradient(135deg,#7e22ce,#a855f7);color:#fff;">
+                    <span class="case-study-number" style="color:#f3e8ff;">D3</span>
+                    <span class="industry-tag" style="background:rgba(243,232,255,0.15);color:#f3e8ff;border:1px solid rgba(243,232,255,0.3);"><i class="fas fa-magic"></i> D2C &middot; Beauty &amp; Cosmetics</span>
+                    <h3 style="color:#fff;">D2C Beauty Brand <span class="cs-nda-badge">Under NDA</span></h3>
+                    <p style="color:rgba(255,255,255,0.9);font-size:14px;margin:8px 0 0;">Concern-led funnel + creator economy + marketplace orchestration.</p>
+                </div>
+                <div class="case-study-body">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-user-tie"></i> Who they are</div>
+                            <p>A premium D2C makeup + cosmetics brand (foundation, lipstick, eye) targeting Indian skin tones. Operating on D2C + Nykaa Beauty + Amazon. Starting at Rs 20L/month revenue, undifferentiated positioning.</p>
+                            <div class="case-study-section-title" style="margin-top:14px;"><i class="fas fa-exclamation-triangle"></i> The Challenge</div>
+                            <p>Saturated category. Positioning was feature-led (ingredient claims) rather than concern-led (acne-prone, mature skin, deep tones). Nykaa listings underperforming. Creator pod inconsistent.</p>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-tools"></i> What we did</div>
+                            <ul style="padding-left:20px;line-height:1.75;font-size:14px;">
+                                <li>Concern-led funnel: acne / hyperpigmentation / mature skin / Indian tones</li>
+                                <li>Shade-matcher quiz on Shopify (Octane AI)</li>
+                                <li>Celebrity creator pod &mdash; 3 anchor creators + 20 micro/month</li>
+                                <li>Nykaa Beauty listing optimisation + ad spend reallocation</li>
+                                <li>Content funnel: tutorials, before/after, dupe-vs-prestige comparison</li>
+                                <li>Meta UGC-heavy creative, Reels-first</li>
+                                <li>Launch calendar: festive, bridal, Valentines, Diwali, back-to-college</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> The numbers</div>
+                    <div class="results-grid">
+                        <div class="result-item"><span class="result-number">4.2x</span><span class="result-label">Blended ROAS</span></div>
+                        <div class="result-item"><span class="result-number">4.3x</span><span class="result-label">Monthly revenue (Rs 20L &rarr; Rs 85L)</span></div>
+                        <div class="result-item"><span class="result-number">38%</span><span class="result-label">Quiz-to-cart conversion</span></div>
+                        <div class="result-item"><span class="result-number">2.1x</span><span class="result-label">Nykaa Beauty revenue lift</span></div>
+                    </div>
+                    <div class="case-study-meta">
+                        <span><i class="fas fa-clock"></i> 18 months</span>
+                        <span><i class="fas fa-users"></i> 5-person ITD pod</span>
+                        <span><i class="fas fa-shield-alt"></i> Client name withheld under NDA</span>
+                    </div>
+                    <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call case-study-cta" data-source="case_study_hub_d2c_beauty" target="_blank" rel="noopener">Scaling a beauty brand? Book a Call <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                    <a href="case-studies/d2c-beauty-brand-scale.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                </div>
+            </div>
+
+            <!-- D2C 4 - Fashion & Apparel (NDA) -->
+            <div class="case-study-card" data-category="d2c fashion performance full-funnel" style="border-top:4px solid #06b6d4;">
+                <div class="case-study-header" style="background:linear-gradient(135deg,#0e7490,#06b6d4);color:#fff;">
+                    <span class="case-study-number" style="color:#cffafe;">D4</span>
+                    <span class="industry-tag" style="background:rgba(207,250,254,0.15);color:#cffafe;border:1px solid rgba(207,250,254,0.3);"><i class="fas fa-tshirt"></i> D2C &middot; Fashion &amp; Apparel</span>
+                    <h3 style="color:#fff;">D2C Fashion Brand <span class="cs-nda-badge">Under NDA</span></h3>
+                    <p style="color:rgba(255,255,255,0.9);font-size:14px;margin:8px 0 0;">Occasion-wear scale through influencer-led acquisition.</p>
+                </div>
+                <div class="case-study-body">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-user-tie"></i> Who they are</div>
+                            <p>A D2C womens occasion-wear brand (ethnic + fusion, Rs 2,500-8,000 AOV). Operating on D2C + Myntra + Ajio. Fast-fashion inventory risk, high CAC on cold Meta.</p>
+                            <div class="case-study-section-title" style="margin-top:14px;"><i class="fas fa-exclamation-triangle"></i> The Challenge</div>
+                            <p>Meta CAC rising 40% YoY. Myntra listings cannibalising D2C margin. Returns rate 32% hurting LTV. Creator spend was ad-hoc, no attribution back to GMV.</p>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-tools"></i> What we did</div>
+                            <ul style="padding-left:20px;line-height:1.75;font-size:14px;">
+                                <li>Influencer-first paid stack &mdash; 180+ creators/quarter (whitelisted ads)</li>
+                                <li>UGC-heavy creative (ethnic fit-check Reels, bridal squad content)</li>
+                                <li>Dynamic retargeting with size-recommendation + styling AI</li>
+                                <li>Fit guide + returns-prevention copy on PDP</li>
+                                <li>Myntra ad spend audit + D2C/marketplace margin arbitrage</li>
+                                <li>WhatsApp styling consult + abandoned-cart automation</li>
+                                <li>Occasion-led seasonality: Diwali, wedding, Karva Chauth, Eid</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> The numbers</div>
+                    <div class="results-grid">
+                        <div class="result-item"><span class="result-number">2.9x</span><span class="result-label">Blended ROAS</span></div>
+                        <div class="result-item"><span class="result-number">42%</span><span class="result-label">Repeat rate (from 24%)</span></div>
+                        <div class="result-item"><span class="result-number">-45%</span><span class="result-label">Return rate (32% &rarr; 18%)</span></div>
+                        <div class="result-item"><span class="result-number">180+</span><span class="result-label">Creators activated / quarter</span></div>
+                    </div>
+                    <div class="case-study-meta">
+                        <span><i class="fas fa-clock"></i> 15 months, ongoing</span>
+                        <span><i class="fas fa-users"></i> 5-person ITD pod</span>
+                        <span><i class="fas fa-shield-alt"></i> Client name withheld under NDA</span>
+                    </div>
+                    <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call case-study-cta" data-source="case_study_hub_d2c_fashion" target="_blank" rel="noopener">Scaling a fashion brand? Book a Call <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                    <a href="case-studies/d2c-fashion-brand-growth.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                </div>
+            </div>
+
+            <!-- D2C 5 - Food & Beverage (NDA) -->
+            <div class="case-study-card" data-category="d2c food-d2c performance full-funnel" style="border-top:4px solid #10b981;">
+                <div class="case-study-header" style="background:linear-gradient(135deg,#065f46,#10b981);color:#fff;">
+                    <span class="case-study-number" style="color:#d1fae5;">D5</span>
+                    <span class="industry-tag" style="background:rgba(209,250,229,0.15);color:#d1fae5;border:1px solid rgba(209,250,229,0.3);"><i class="fas fa-mug-hot"></i> D2C &middot; Food &amp; Beverage</span>
+                    <h3 style="color:#fff;">D2C Food &amp; Beverage Brand <span class="cs-nda-badge">Under NDA</span></h3>
+                    <p style="color:rgba(255,255,255,0.9);font-size:14px;margin:8px 0 0;">Subscription-led scale for a premium wellness-food brand.</p>
+                </div>
+                <div class="case-study-body">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-user-tie"></i> Who they are</div>
+                            <p>A premium D2C wellness-food brand (healthy snacks + functional beverages, Rs 400-900 AOV). D2C + Zepto/Blinkit + Amazon Fresh. Starting at Rs 25L/mo. Perishable inventory, low repeat.</p>
+                            <div class="case-study-section-title" style="margin-top:14px;"><i class="fas fa-exclamation-triangle"></i> The Challenge</div>
+                            <p>Repeat rate 22% hurting LTV economics. Zepto/Blinkit visibility uneven. Premium pricing not justified in creative. Subscription launched but 2% attach rate.</p>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-tools"></i> What we did</div>
+                            <ul style="padding-left:20px;line-height:1.75;font-size:14px;">
+                                <li>Subscription relaunch &mdash; concern-led bundles + 20% save</li>
+                                <li>Flavor-cohort retargeting (Meta custom audiences by SKU)</li>
+                                <li>Chef UGC + nutritionist content pillar</li>
+                                <li>Zepto / Blinkit / Instamart ad spend optimisation (10am-noon surge)</li>
+                                <li>Bundle-based AOV uplift on D2C</li>
+                                <li>WhatsApp refill-reminder + taste-feedback flows</li>
+                                <li>Festive gifting campaigns (Diwali, Rakhi)</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> The numbers</div>
+                    <div class="results-grid">
+                        <div class="result-item"><span class="result-number">2.4x</span><span class="result-label">Blended ROAS</span></div>
+                        <div class="result-item"><span class="result-number">3x</span><span class="result-label">Monthly revenue (Rs 25L &rarr; Rs 75L)</span></div>
+                        <div class="result-item"><span class="result-number">55%</span><span class="result-label">Subscription attach (from 2%)</span></div>
+                        <div class="result-item"><span class="result-number">+68%</span><span class="result-label">Quick-commerce revenue lift</span></div>
+                    </div>
+                    <div class="case-study-meta">
+                        <span><i class="fas fa-clock"></i> 14 months</span>
+                        <span><i class="fas fa-users"></i> 4-person ITD pod</span>
+                        <span><i class="fas fa-shield-alt"></i> Client name withheld under NDA</span>
+                    </div>
+                    <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call case-study-cta" data-source="case_study_hub_d2c_food" target="_blank" rel="noopener">Scaling a food brand? Book a Call <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                    <a href="case-studies/d2c-food-beverage-brand-scale.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                </div>
+            </div>
+
+            <!-- D2C 6 - Wellness / Supplements (NDA) -->
+            <div class="case-study-card" data-category="d2c wellness performance full-funnel" style="border-top:4px solid #0ea5e9;">
+                <div class="case-study-header" style="background:linear-gradient(135deg,#075985,#0ea5e9);color:#fff;">
+                    <span class="case-study-number" style="color:#e0f2fe;">D6</span>
+                    <span class="industry-tag" style="background:rgba(224,242,254,0.15);color:#e0f2fe;border:1px solid rgba(224,242,254,0.3);"><i class="fas fa-heartbeat"></i> D2C &middot; Wellness &amp; Supplements</span>
+                    <h3 style="color:#fff;">D2C Wellness Brand <span class="cs-nda-badge">Under NDA</span></h3>
+                    <p style="color:rgba(255,255,255,0.9);font-size:14px;margin:8px 0 0;">Doctor-backed trust funnel for supplements across D2C + marketplaces.</p>
+                </div>
+                <div class="case-study-body">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-user-tie"></i> Who they are</div>
+                            <p>A D2C nutraceutical brand (immunity, gut health, sleep, hair). FSSAI-licensed, D2C + Nykaa + Amazon + Flipkart. Rs 12L/mo starting. Trust barrier blocking cold acquisition.</p>
+                            <div class="case-study-section-title" style="margin-top:14px;"><i class="fas fa-exclamation-triangle"></i> The Challenge</div>
+                            <p>Supplements category = low cold-ad trust. FSSAI advertising compliance limits (no cure claims, no comparative). Meta disapproved 40% creatives. Repeat rate 15%. Founder expertise not visible.</p>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="case-study-section-title"><i class="fas fa-tools"></i> What we did</div>
+                            <ul style="padding-left:20px;line-height:1.75;font-size:14px;">
+                                <li>Doctor-expert content pillar &mdash; 2 named MBBS/BAMS partners</li>
+                                <li>FSSAI + COA (Certificate of Analysis) + 3rd-party lab display</li>
+                                <li>Subscription with free consult (CRM + Calendly integration)</li>
+                                <li>Founder LinkedIn personal brand &mdash; 3x posts/week</li>
+                                <li>Marketplace orchestration: Nykaa + Amazon + Flipkart ad spend sync</li>
+                                <li>WhatsApp dosage-reminder + refill flows</li>
+                                <li>Compliance-safe creative library (zero disapprovals month 6+)</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> The numbers</div>
+                    <div class="results-grid">
+                        <div class="result-item"><span class="result-number">3.5x</span><span class="result-label">Blended ROAS</span></div>
+                        <div class="result-item"><span class="result-number">5.4x</span><span class="result-label">Monthly revenue (Rs 12L &rarr; Rs 65L)</span></div>
+                        <div class="result-item"><span class="result-number">48%</span><span class="result-label">Repeat rate (from 15%)</span></div>
+                        <div class="result-item"><span class="result-number">0</span><span class="result-label">Meta disapprovals month 6+</span></div>
+                    </div>
+                    <div class="case-study-meta">
+                        <span><i class="fas fa-clock"></i> 18 months, ongoing</span>
+                        <span><i class="fas fa-users"></i> 5-person ITD pod</span>
+                        <span><i class="fas fa-shield-alt"></i> Client name withheld under NDA</span>
+                    </div>
+                    <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call case-study-cta" data-source="case_study_hub_d2c_wellness" target="_blank" rel="noopener">Scaling a wellness brand? Book a Call <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                    <a href="case-studies/d2c-wellness-brand-growth.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+                </div>
+            </div>
+
+            <!-- NDA callout: more work we cannot show publicly -->
+            <div class="cs-nda-callout" data-category="d2c b2b">
+                <div class="cs-nda-icon"><i class="fas fa-user-shield"></i></div>
+                <div>
+                    <h3>More work we cannot show publicly</h3>
+                    <p>A big chunk of our D2C work &mdash; competitive-sensitive brands, pre-funding stealth launches, enterprise logistics clients &mdash; sits under NDA. On a 30-minute call we can share named references, specific metrics, and even broker a direct call with past clients.</p>
+                </div>
+                <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-nda-cta" data-source="case_study_hub_nda_callout" target="_blank" rel="noopener">Book a 30-min NDA Call <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
+            </div>
+
+            <div class="case-study-card" data-category="b2b deeptech technology" style="border-top:4px solid #7c3aed;">
                 <div class="case-study-header" style="background:linear-gradient(135deg,#1a1240,#2c1670);color:#fff;">
                     <span class="case-study-number" style="color:#c4b5fd;">01</span>
                     <span class="industry-tag" style="background:rgba(196,181,253,0.15);color:#ddd6fe;border:1px solid rgba(196,181,253,0.3);"><i class="fas fa-atom"></i> Deep Tech &middot; Active Build</span>
@@ -881,7 +1376,7 @@
             </div>
 
             <!-- Case Study 2 -->
-            <div class="case-study-card" data-category="logistics">
+            <div class="case-study-card" data-category="b2b logistics technology">
                 <div class="case-study-header">
                     <span class="case-study-number">02</span>
                     <span class="industry-tag"><i class="fas fa-truck"></i> Logistics</span>
@@ -939,7 +1434,7 @@
             </div>
 
             <!-- Case Study 2 -->
-            <div class="case-study-card" data-category="food">
+            <div class="case-study-card" data-category="b2b food-b2b technology">
                 <div class="case-study-header">
                     <span class="case-study-number">03</span>
                     <span class="industry-tag"><i class="fas fa-fish"></i> Food &amp; Delivery / Hyperlocal Marketplace</span>
@@ -997,7 +1492,7 @@
             </div>
 
             <!-- Case Study 3 -->
-            <div class="case-study-card" data-category="logistics saas">
+            <div class="case-study-card" data-category="b2b logistics saas technology">
                 <div class="case-study-header">
                     <span class="case-study-number">04</span>
                     <span class="industry-tag"><i class="fas fa-shipping-fast"></i> Logistics / SaaS</span>
@@ -1056,7 +1551,7 @@
             </div>
 
             <!-- Case Study 4 -->
-            <div class="case-study-card" data-category="food">
+            <div class="case-study-card" data-category="b2b food-b2b technology">
                 <div class="case-study-header">
                     <span class="case-study-number">05</span>
                     <span class="industry-tag"><i class="fas fa-utensils"></i> Food &amp; Delivery</span>
@@ -1114,7 +1609,7 @@
             </div>
 
             <!-- Case Study 5 -->
-            <div class="case-study-card" data-category="logistics">
+            <div class="case-study-card" data-category="b2b logistics technology">
                 <div class="case-study-header">
                     <span class="case-study-number">06</span>
                     <span class="industry-tag"><i class="fas fa-box"></i> Logistics</span>
@@ -1172,7 +1667,7 @@
             </div>
 
             <!-- Case Study 6: Multi-Vendor Marketplace App (food + grocery) -->
-            <div class="case-study-card" data-category="marketplace food ecommerce">
+            <div class="case-study-card" data-category="b2b marketplace food-b2b technology">
                 <div class="case-study-header">
                     <span class="case-study-number">07</span>
                     <span class="industry-tag"><i class="fas fa-store"></i> Marketplace · Food &amp; Grocery</span>
@@ -1215,7 +1710,7 @@
             </div>
 
             <!-- Case Study 7: Telemedicine + HIPAA + ABDM -->
-            <div class="case-study-card" data-category="healthcare">
+            <div class="case-study-card" data-category="b2b healthcare technology">
                 <div class="case-study-header">
                     <span class="case-study-number">08</span>
                     <span class="industry-tag"><i class="fas fa-stethoscope"></i> Healthcare · Telemedicine</span>
@@ -1258,7 +1753,7 @@
             </div>
 
             <!-- Case Study 8: D2C E-Commerce App (Fashion) -->
-            <div class="case-study-card" data-category="ecommerce">
+            <div class="case-study-card" data-category="d2c fashion technology">
                 <div class="case-study-header">
                     <span class="case-study-number">09</span>
                     <span class="industry-tag"><i class="fas fa-tshirt"></i> E-Commerce · D2C</span>
@@ -1301,7 +1796,7 @@
             </div>
 
             <!-- Case Study 9: Fleet Management SaaS (3PL Logistics) -->
-            <div class="case-study-card" data-category="logistics saas">
+            <div class="case-study-card" data-category="b2b logistics saas technology">
                 <div class="case-study-header">
                     <span class="case-study-number">10</span>
                     <span class="industry-tag"><i class="fas fa-truck-moving"></i> Logistics · 3PL · SaaS</span>
@@ -1344,7 +1839,7 @@
             </div>
 
             <!-- Case Study 10: Cross-Border Courier Platform -->
-            <div class="case-study-card" data-category="logistics saas">
+            <div class="case-study-card" data-category="b2b logistics saas technology">
                 <div class="case-study-header">
                     <span class="case-study-number">11</span>
                     <span class="industry-tag"><i class="fas fa-globe-asia"></i> Logistics · Cross-Border</span>
@@ -1387,7 +1882,7 @@
             </div>
 
             <!-- Case Study 11: Restaurant POS + Online Ordering -->
-            <div class="case-study-card" data-category="food">
+            <div class="case-study-card" data-category="b2b food-b2b technology">
                 <div class="case-study-header">
                     <span class="case-study-number">12</span>
                     <span class="industry-tag"><i class="fas fa-utensils"></i> Restaurant · POS</span>
@@ -1430,7 +1925,7 @@
             </div>
 
             <!-- Case Study 12: Real-Estate CRM + WhatsApp -->
-            <div class="case-study-card" data-category="realestate">
+            <div class="case-study-card" data-category="b2b realestate whatsapp">
                 <div class="case-study-header">
                     <span class="case-study-number">13</span>
                     <span class="industry-tag"><i class="fas fa-building"></i> Real Estate · CRM</span>
@@ -1473,7 +1968,7 @@
             </div>
 
             <!-- Case Study 13: NBFC Loan Origination -->
-            <div class="case-study-card" data-category="fintech">
+            <div class="case-study-card" data-category="b2b fintech technology">
                 <div class="case-study-header">
                     <span class="case-study-number">14</span>
                     <span class="industry-tag"><i class="fas fa-money-check-alt"></i> Fintech · NBFC</span>
@@ -1516,7 +2011,7 @@
             </div>
 
             <!-- Case Study 14: EdTech LMS -->
-            <div class="case-study-card" data-category="education">
+            <div class="case-study-card" data-category="b2b education technology">
                 <div class="case-study-header">
                     <span class="case-study-number">15</span>
                     <span class="industry-tag"><i class="fas fa-graduation-cap"></i> EdTech · LMS</span>
@@ -1559,7 +2054,7 @@
             </div>
 
             <!-- Case Study 15: SaaS Inventory + Restaurant Vendor Ops -->
-            <div class="case-study-card" data-category="saas">
+            <div class="case-study-card" data-category="b2b saas technology">
                 <div class="case-study-header">
                     <span class="case-study-number">16</span>
                     <span class="industry-tag"><i class="fas fa-boxes"></i> SaaS · Multi-Tenant Retail</span>
@@ -2056,32 +2551,113 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
     <script src="assets/js/custom.js"></script>
 
-    <!-- Case-studies filter -->
+    <!-- Case-studies filter: persona-first + 2-level narrow -->
     <script>
     (function(){
-        var buttons = document.querySelectorAll('.cs-filter-btn');
-        var cards   = document.querySelectorAll('.case-study-card');
-        if (!buttons.length || !cards.length) return;
+        var personaBtns = document.querySelectorAll('.cs-persona-btn');
+        var cards       = document.querySelectorAll('.case-study-card');
+        var ndaCallout  = document.querySelector('.cs-nda-callout');
+        if (!personaBtns.length || !cards.length) return;
 
-        function applyFilter(filter) {
-            cards.forEach(function(card){
-                var cats = (card.getAttribute('data-category') || '').split(/\s+/);
-                var show = (filter === 'all') || cats.indexOf(filter) !== -1;
-                card.classList.toggle('is-hidden', !show);
+        var state = { persona: 'all', industry: null, service: null };
+
+        var d2cGroup = document.querySelector('[data-persona-group="d2c-industry"]');
+        var b2bGroup = document.querySelector('[data-persona-group="b2b-industry"]');
+
+        function syncGroups() {
+            if (!d2cGroup || !b2bGroup) return;
+            if (state.persona === 'd2c') {
+                d2cGroup.classList.remove('is-collapsed');
+                b2bGroup.classList.add('is-collapsed');
+            } else if (state.persona === 'b2b') {
+                d2cGroup.classList.add('is-collapsed');
+                b2bGroup.classList.remove('is-collapsed');
+            } else {
+                d2cGroup.classList.remove('is-collapsed');
+                b2bGroup.classList.remove('is-collapsed');
+            }
+        }
+
+        function resetGroup(group, keep) {
+            if (!group) return;
+            group.querySelectorAll('.cs-filter-btn').forEach(function(b){
+                var isDefault = (b.getAttribute('data-filter') === keep);
+                b.classList.toggle('is-active', isDefault);
+                b.setAttribute('aria-pressed', isDefault ? 'true' : 'false');
             });
         }
 
-        buttons.forEach(function(btn){
+        function applyFilter() {
+            cards.forEach(function(card){
+                var cats = (card.getAttribute('data-category') || '').split(/\s+/);
+                var ok = true;
+                // persona filter
+                if (state.persona !== 'all') {
+                    ok = ok && cats.indexOf(state.persona) !== -1;
+                }
+                // industry filter (null = any)
+                if (ok && state.industry && state.industry !== 'd2c' && state.industry !== 'b2b') {
+                    ok = ok && cats.indexOf(state.industry) !== -1;
+                }
+                // service filter
+                if (ok && state.service && state.service !== 'all-services') {
+                    ok = ok && cats.indexOf(state.service) !== -1;
+                }
+                card.classList.toggle('is-hidden', !ok);
+            });
+            // NDA callout: show when persona = d2c or all
+            if (ndaCallout) {
+                ndaCallout.classList.toggle('is-hidden', state.persona === 'b2b');
+            }
+        }
+
+        // Persona buttons
+        personaBtns.forEach(function(btn){
             btn.addEventListener('click', function(){
-                buttons.forEach(function(b){
+                personaBtns.forEach(function(b){
                     b.classList.remove('is-active');
                     b.setAttribute('aria-pressed', 'false');
                 });
                 btn.classList.add('is-active');
                 btn.setAttribute('aria-pressed', 'true');
-                applyFilter(btn.getAttribute('data-filter'));
+                state.persona = btn.getAttribute('data-persona');
+                // reset industry + service to defaults on persona change
+                state.industry = null;
+                state.service = null;
+                resetGroup(d2cGroup, 'd2c');
+                resetGroup(b2bGroup, 'b2b');
+                resetGroup(document.querySelector('[data-persona-group="service"]'), 'all-services');
+                syncGroups();
+                applyFilter();
+                var head = document.querySelector('.case-studies-area');
+                if (head) head.scrollIntoView({behavior:'smooth', block:'start'});
             });
         });
+
+        // Industry + Service filter buttons (scoped to groups)
+        document.querySelectorAll('.cs-filter-group').forEach(function(group){
+            var scope = group.getAttribute('data-persona-group');
+            group.querySelectorAll('.cs-filter-btn').forEach(function(btn){
+                btn.addEventListener('click', function(){
+                    group.querySelectorAll('.cs-filter-btn').forEach(function(b){
+                        b.classList.remove('is-active');
+                        b.setAttribute('aria-pressed', 'false');
+                    });
+                    btn.classList.add('is-active');
+                    btn.setAttribute('aria-pressed', 'true');
+                    var val = btn.getAttribute('data-filter');
+                    if (scope === 'service') {
+                        state.service = val;
+                    } else {
+                        state.industry = val;
+                    }
+                    applyFilter();
+                });
+            });
+        });
+
+        syncGroups();
+        applyFilter();
     })();
     </script>
 
