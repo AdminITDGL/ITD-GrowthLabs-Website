@@ -880,6 +880,229 @@
             font-size: 15px;
             line-height: 1.75;
         }
+
+        /* ============ MEGA CARDS (redesign) ============ */
+        .cs-mega-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(460px, 1fr));
+            gap: 28px;
+            margin: 10px 0 40px;
+        }
+        @media (max-width: 540px) {
+            .cs-mega-grid { grid-template-columns: 1fr; gap: 20px; }
+        }
+        .cs-mega-card {
+            background: #fff;
+            border-radius: 20px;
+            overflow: hidden;
+            border: 1px solid #e8ecf1;
+            box-shadow: 0 4px 20px rgba(15, 30, 61, 0.05);
+            transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.3s ease, border-color 0.2s ease;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+        }
+        .cs-mega-card:hover {
+            transform: translateY(-6px);
+            box-shadow: 0 24px 56px rgba(15, 30, 61, 0.15);
+            border-color: #d1d5db;
+        }
+        .cs-mega-card.is-hidden { display: none; }
+
+        .cs-mega-visual {
+            position: relative;
+            min-height: 140px;
+            padding: 22px 24px;
+            overflow: hidden;
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+        }
+        .cs-mega-bg-icon {
+            position: absolute;
+            right: -10px;
+            bottom: -30px;
+            font-size: 180px;
+            color: rgba(255, 255, 255, 0.12);
+            line-height: 1;
+            transform: rotate(-12deg);
+            pointer-events: none;
+            transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1), color 0.3s ease;
+        }
+        .cs-mega-card:hover .cs-mega-bg-icon {
+            transform: rotate(-6deg) scale(1.08);
+            color: rgba(255, 255, 255, 0.2);
+        }
+        .cs-mega-visual-top {
+            position: relative;
+            z-index: 2;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            align-items: center;
+            width: 100%;
+            justify-content: space-between;
+        }
+        .cs-mega-persona-tag {
+            display: inline-block;
+            background: rgba(255, 255, 255, 0.22);
+            color: #fff;
+            padding: 7px 14px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 700;
+            letter-spacing: 0.3px;
+            text-transform: uppercase;
+            backdrop-filter: blur(6px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+        .cs-mega-nda-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            background: rgba(0, 0, 0, 0.22);
+            color: #fff;
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 11px;
+            font-weight: 700;
+            letter-spacing: 0.3px;
+            text-transform: uppercase;
+        }
+        .cs-mega-nda-badge i { opacity: 0.9; }
+
+        .cs-mega-body {
+            padding: 24px 26px 26px;
+            display: flex;
+            flex-direction: column;
+            gap: 18px;
+            flex: 1;
+        }
+        .cs-mega-title {
+            margin: 0;
+            font-size: 20px;
+            font-weight: 700;
+            color: #0f1e3d;
+            line-height: 1.35;
+        }
+        .cs-mega-title strong { color: var(--color-primary); font-weight: 800; }
+        .cs-mega-sub {
+            margin: -8px 0 0;
+            font-size: 14px;
+            color: #64748b;
+            line-height: 1.55;
+        }
+
+        .cs-mega-stats {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 10px;
+            padding: 16px;
+            background: linear-gradient(135deg, #f8fafc, #ffffff);
+            border-radius: 12px;
+            border: 1px solid #e8ecf1;
+        }
+        .cs-mega-stat { text-align: center; }
+        .cs-mega-stat strong {
+            display: block;
+            font-size: 22px;
+            font-weight: 800;
+            color: #0f1e3d;
+            line-height: 1;
+            margin-bottom: 4px;
+            letter-spacing: -0.3px;
+        }
+        .cs-mega-stat span {
+            display: block;
+            font-size: 11px;
+            color: #64748b;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.3px;
+            line-height: 1.3;
+        }
+        @media (max-width: 500px) {
+            .cs-mega-stats { grid-template-columns: repeat(2, 1fr); }
+        }
+
+        .cs-mega-services-wrap { }
+        .cs-mega-services-label {
+            font-size: 11px;
+            font-weight: 800;
+            letter-spacing: 0.6px;
+            text-transform: uppercase;
+            color: #94a3b8;
+            margin-bottom: 10px;
+        }
+        .cs-mega-services {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+        .cs-mega-chip {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            background: #f1f5f9;
+            color: #334155;
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 600;
+            border: 1px solid #e2e8f0;
+            transition: all 0.18s ease;
+        }
+        .cs-mega-chip i {
+            color: var(--color-primary);
+            font-size: 11px;
+        }
+        .cs-mega-card:hover .cs-mega-chip {
+            background: #fff8f3;
+            border-color: rgba(241, 111, 48, 0.3);
+        }
+
+        .cs-mega-ctas {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            padding-top: 10px;
+            border-top: 1px solid #f1f5f9;
+            margin-top: auto;
+        }
+        .cs-mega-cta-primary {
+            flex: 1;
+            min-width: 180px;
+            background: var(--color-primary);
+            color: #fff !important;
+            padding: 12px 18px;
+            border-radius: 10px;
+            font-size: 13px;
+            font-weight: 700;
+            text-align: center;
+            text-decoration: none;
+            transition: all 0.2s ease;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 6px;
+        }
+        .cs-mega-cta-primary:hover { background: #d85a1f; transform: translateY(-2px); color: #fff !important; }
+        .cs-mega-cta-secondary {
+            padding: 12px 18px;
+            border: 2px solid #e2e8f0;
+            color: #475569 !important;
+            border-radius: 10px;
+            font-size: 13px;
+            font-weight: 700;
+            text-decoration: none;
+            transition: all 0.2s ease;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            white-space: nowrap;
+        }
+        .cs-mega-cta-secondary:hover { border-color: var(--color-primary); color: var(--color-primary) !important; }
+
     </style>
 </head>
 
@@ -891,62 +1114,10 @@
 
     <?php include(__DIR__ . "/includes/header.php"); ?>
 
-    <!-- Start Hero Section
-    ============================================= -->
-    <div class="hero-case-studies pt-150 pb-80">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8">
-                    <div class="hero-breadcrumb">
-                        <a href="index.php">Home</a>
-                        <span><i class="fas fa-chevron-right"></i></span>
-                        <span class="current">Case Studies</span>
-                    </div>
-                    <h1 class="text-white mb-20" style="font-size: 42px; font-weight: 800; line-height: 1.3;">
-                        Our work, <br>
-                        <span style="color: var(--color-primary);">in numbers.</span>
-                    </h1>
-                    <p class="text-white" style="font-size: 17px; opacity: 0.85; max-width: 640px; line-height: 1.8;">
-                        D2C brands we scaled. B2B platforms we built. Pick <strong style="color:#fff;">D2C</strong> if you sell to consumers, or <strong style="color:#fff;">B2B</strong> if you build or sell to businesses — and jump straight to the work that looks like yours.
-                    </p>
-                    <p class="text-white" style="font-size: 14px; opacity: 0.65; max-width: 640px; line-height: 1.7; margin-top: 14px; border-left: 3px solid rgba(255,255,255,0.3); padding-left: 14px;">
-                        <i class="fas fa-shield-alt" style="margin-right:6px;opacity:0.8;"></i>
-                        Many D2C brands prefer confidentiality. Where client names are withheld under NDA, numbers are real — full details available on request.
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Hero Section -->
 
-    <!-- Trust Bar: aggregate stats mixing D2C + B2B -->
-    <section class="cs-trust-bar" aria-label="Trust indicators">
-        <div class="container">
-            <div class="cs-trust-grid">
-                <div class="cs-trust-item">
-                    <span class="cs-trust-num">300+</span>
-                    <span class="cs-trust-label">Projects Delivered</span>
-                </div>
-                <div class="cs-trust-item">
-                    <span class="cs-trust-num">Rs 50 Cr+</span>
-                    <span class="cs-trust-label">Ad Spend Managed (24 mo)</span>
-                </div>
-                <div class="cs-trust-item">
-                    <span class="cs-trust-num">50M+</span>
-                    <span class="cs-trust-label">Transactions Processed</span>
-                </div>
-                <div class="cs-trust-item">
-                    <span class="cs-trust-num">5 countries</span>
-                    <span class="cs-trust-label">IN &middot; US &middot; UK &middot; UAE &middot; AU</span>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <!-- Start Case Studies Section
     ============================================= -->
-    <!-- Trust badges before the case-study grid -->
-    <?php $tb_source = 'case_studies_hub'; include(__DIR__ . '/includes/trust-badges.php'); ?>
 
     <div class="case-studies-area default-padding">
         <div class="container">
@@ -1022,1210 +1193,832 @@
             </div>
             <div style="height:30px;"></div>
 
-            <!-- Case Study 1 — Quantum-Era Data Platform (deep-tech R&D client, NDA) — FEATURED -->
-            <!-- ============================================================ -->
-            <!-- D2C CASE STUDIES (6) - composite / anonymized under NDA -->
-            <!-- ============================================================ -->
-
-            <!-- D2C 1 - Skincare Brand (NDA) -->
-            <div class="case-study-card" data-category="d2c skincare performance full-funnel" style="border-top:4px solid #ec4899;">
-                <div class="case-study-header" style="background:linear-gradient(135deg,#be185d,#ec4899);color:#fff;">
-                    <span class="case-study-number" style="color:#fbcfe8;">D1</span>
-                    <span class="industry-tag" style="background:rgba(251,207,232,0.15);color:#fce7f3;border:1px solid rgba(251,207,232,0.3);"><i class="fas fa-leaf"></i> D2C &middot; Skincare</span>
-                    <h3 style="color:#fff;">Skincare D2C Brand <span class="cs-nda-badge">Under NDA</span></h3>
-                    <p style="color:rgba(255,255,255,0.9);font-size:14px;margin:8px 0 0;">Scaled from Rs 15L to Rs 2 Cr/month in 24 months.</p>
+            <!-- MEGA case study grid - redesigned for visual + user-experience -->
+            <div class="cs-mega-grid">
+            <article class="cs-mega-card" data-category="d2c skincare performance full-funnel">
+                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#be185d 0%,#ec4899 100%);">
+                    <div class="cs-mega-bg-icon"><i class="fas fa-leaf"></i></div>
+                    <div class="cs-mega-visual-top">
+                        <span class="cs-mega-persona-tag">D2C &middot; Skincare</span>
+                        <span class="cs-mega-nda-badge"><i class="fas fa-shield-alt"></i> Under NDA</span>
+                    </div>
                 </div>
-                <div class="case-study-body">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-user-tie"></i> Who they are</div>
-                            <p>A clean-beauty, concern-led skincare brand (acne + oily skin). India Tier-1 focus, 45 SKUs, Shopify, in-house CX. Starting at Rs 15L/mo revenue and no CRM attribution.</p>
-                            <div class="case-study-section-title" style="margin-top:14px;"><i class="fas fa-exclamation-triangle"></i> The Challenge</div>
-                            <p>ROAS stuck at 1.9x. Meta CPL climbed Rs 180 to Rs 320 in 6 months. Repeat rate 18%. No subscription, no WhatsApp automation, no attribution to tell what was actually working.</p>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-tools"></i> What we did</div>
-                            <ul style="padding-left:20px;line-height:1.75;font-size:14px;">
-                                <li>Attribution rebuild &mdash; CRM + Meta CAPI + Google Enhanced Conversions + WhatsApp CTWA</li>
-                                <li>Creative velocity 3-5x (30 units in 6 weeks vs 8 before)</li>
-                                <li>Subscription programme launched (Recharge + 20% save)</li>
-                                <li>WhatsApp Cloud API + 6 retention flows (welcome, abandon, winback, refill)</li>
-                                <li>SEO silo build &mdash; 60 pages across concern/ingredient/skin-type</li>
-                                <li>Derm + creator programme &mdash; 2 dermatologists + 25 creators/month</li>
-                                <li>GCC launch &mdash; Dubai, Abu Dhabi, Riyadh, Jeddah (trilingual + Snapchat)</li>
-                            </ul>
+                <div class="cs-mega-body">
+                    <h3 class="cs-mega-title">Scaled a skincare brand <strong>Rs 15L -&gt; Rs 2 Cr/mo</strong></h3>
+                    <p class="cs-mega-sub">Clean-beauty, concern-led. India + GCC. 24-month engagement.</p>
+                    <div class="cs-mega-stats">
+                        <div class="cs-mega-stat"><strong>13x</strong><span>Revenue</span></div>
+                        <div class="cs-mega-stat"><strong>2.5x</strong><span>ROAS lift</span></div>
+                        <div class="cs-mega-stat"><strong>48%</strong><span>Repeat rate</span></div>
+                        <div class="cs-mega-stat"><strong>-56%</strong><span>CPL</span></div>
+                    </div>
+                    <div class="cs-mega-services-wrap">
+                        <div class="cs-mega-services-label">What we delivered</div>
+                        <div class="cs-mega-services">
+                            <span class="cs-mega-chip"><i class="fab fa-shopify"></i> Shopify + CRM</span>
+                        <span class="cs-mega-chip"><i class="fab fa-meta"></i> Meta + Google Ads</span>
+                        <span class="cs-mega-chip"><i class="fab fa-whatsapp"></i> WhatsApp CRM</span>
+                        <span class="cs-mega-chip"><i class="fas fa-search"></i> SEO Silo (60 pages)</span>
+                        <span class="cs-mega-chip"><i class="fas fa-video"></i> Creator Pod</span>
+                        <span class="cs-mega-chip"><i class="fas fa-globe"></i> GCC Launch</span>
                         </div>
                     </div>
-                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> The numbers</div>
-                    <div class="results-grid">
-                        <div class="result-item"><span class="result-number">13x</span><span class="result-label">Monthly revenue (Rs 15L &rarr; Rs 2 Cr)</span></div>
-                        <div class="result-item"><span class="result-number">2.5x</span><span class="result-label">ROAS (1.9x &rarr; 4.8x)</span></div>
-                        <div class="result-item"><span class="result-number">-56%</span><span class="result-label">Meta CPL (Rs 320 &rarr; Rs 140)</span></div>
-                        <div class="result-item"><span class="result-number">48%</span><span class="result-label">Repeat rate (from 18%)</span></div>
-                        <div class="result-item"><span class="result-number">4 mo</span><span class="result-label">Payback (from 10 months)</span></div>
-                        <div class="result-item"><span class="result-number">+GCC</span><span class="result-label">15% of revenue (Dubai/Abu Dhabi/Riyadh/Jeddah)</span></div>
+                    <div class="cs-mega-ctas">
+                        <a href="/case-studies/d2c-skincare-brand-scale.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_d2c-skincare-brand-scale" target="_blank" rel="noopener">Book Similar Call</a>
                     </div>
-                    <div class="case-study-meta">
-                        <span><i class="fas fa-clock"></i> 24 months</span>
-                        <span><i class="fas fa-users"></i> 6-person ITD pod</span>
-                        <span><i class="fas fa-shield-alt"></i> Client name withheld under NDA</span>
+                </div>
+            </article>
+            <article class="cs-mega-card" data-category="d2c jewelry full-funnel whatsapp">
+                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#92400e 0%,#f59e0b 100%);">
+                    <div class="cs-mega-bg-icon"><i class="fas fa-gem"></i></div>
+                    <div class="cs-mega-visual-top">
+                        <span class="cs-mega-persona-tag">D2C &middot; Jewelry</span>
+                        <span class="cs-mega-nda-badge"><i class="fas fa-shield-alt"></i> Named ref on NDA</span>
                     </div>
-                    <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call case-study-cta" data-source="case_study_hub_d2c_skincare" target="_blank" rel="noopener">Scaling a skincare brand? Book a Call <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                    <a href="case-studies/d2c-skincare-brand-scale.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
                 </div>
-            </div>
-
-            <!-- D2C 2 - Jewelry Brand -->
-            <div class="case-study-card" data-category="d2c jewelry full-funnel whatsapp" style="border-top:4px solid #f59e0b;">
-                <div class="case-study-header" style="background:linear-gradient(135deg,#92400e,#f59e0b);color:#fff;">
-                    <span class="case-study-number" style="color:#fef3c7;">D2</span>
-                    <span class="industry-tag" style="background:rgba(254,243,199,0.15);color:#fef3c7;border:1px solid rgba(254,243,199,0.3);"><i class="fas fa-gem"></i> D2C &middot; Jewelry</span>
-                    <h3 style="color:#fff;">D2C Jewelry Brand <span class="cs-nda-badge">Named ref on NDA</span></h3>
-                    <p style="color:rgba(255,255,255,0.9);font-size:14px;margin:8px 0 0;">Full-stack growth across India + GCC prep for occasion-wear + fine jewelry.</p>
-                </div>
-                <div class="case-study-body">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-user-tie"></i> Who they are</div>
-                            <p>A D2C jewelry brand working across fine, fashion and occasion-wear sub-verticals. BIS + HUID certified, Shopify, India focus with GCC on the roadmap. Beautiful product, underpowered growth engine.</p>
-                            <div class="case-study-section-title" style="margin-top:14px;"><i class="fas fa-exclamation-triangle"></i> The Challenge</div>
-                            <p>Great photography, no systematic ad engine. Wedding + festive season spend uncoordinated. Instagram follower growth without matching revenue. Low repeat on fashion jewelry, zero attribution across channels.</p>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-tools"></i> What we did</div>
-                            <ul style="padding-left:20px;line-height:1.75;font-size:14px;">
-                                <li>Brand + audience + sub-vertical strategy workshop (3 weeks)</li>
-                                <li>Shopify + AR try-on + video consultation flow</li>
-                                <li>BIS + HUID + certification display (trust lift)</li>
-                                <li>Google Shopping + PMax + Meta Advantage+ structured for jewelry</li>
-                                <li>Instagram organic velocity 3x (12 posts + 8 Reels/week)</li>
-                                <li>WhatsApp Cloud API + Klaviyo + Reviews + shipping insurance</li>
-                                <li>Calendar-aware campaigns: Akshaya Tritiya, Dhanteras, wedding season</li>
-                                <li>Creator programme: 10-15 micro-creator collabs/month</li>
-                            </ul>
+                <div class="cs-mega-body">
+                    <h3 class="cs-mega-title">Jewelry D2C brand <strong>full-stack growth engine</strong></h3>
+                    <p class="cs-mega-sub">Fine + occasion + fashion jewelry. India to GCC roadmap. Ongoing.</p>
+                    <div class="cs-mega-stats">
+                        <div class="cs-mega-stat"><strong>3.8x</strong><span>Blended ROAS</span></div>
+                        <div class="cs-mega-stat"><strong>4x</strong><span>Shopify sessions</span></div>
+                        <div class="cs-mega-stat"><strong>+15%</strong><span>AOV</span></div>
+                        <div class="cs-mega-stat"><strong>+80%</strong><span>Festive revenue</span></div>
+                    </div>
+                    <div class="cs-mega-services-wrap">
+                        <div class="cs-mega-services-label">What we delivered</div>
+                        <div class="cs-mega-services">
+                            <span class="cs-mega-chip"><i class="fab fa-shopify"></i> Shopify + AR</span>
+                        <span class="cs-mega-chip"><i class="fab fa-google"></i> Google Shopping + PMax</span>
+                        <span class="cs-mega-chip"><i class="fab fa-meta"></i> Meta Advantage+</span>
+                        <span class="cs-mega-chip"><i class="fab fa-instagram"></i> Instagram Organic 3x</span>
+                        <span class="cs-mega-chip"><i class="fab fa-whatsapp"></i> WhatsApp Cloud API</span>
+                        <span class="cs-mega-chip"><i class="fas fa-calendar"></i> Festive Calendar</span>
                         </div>
                     </div>
-                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> The numbers</div>
-                    <div class="results-grid">
-                        <div class="result-item"><span class="result-number">3.8x</span><span class="result-label">Blended ROAS (steady-state)</span></div>
-                        <div class="result-item"><span class="result-number">4x</span><span class="result-label">Monthly Shopify sessions</span></div>
-                        <div class="result-item"><span class="result-number">15%</span><span class="result-label">AOV uplift (bundling + certification trust)</span></div>
-                        <div class="result-item"><span class="result-number">80%</span><span class="result-label">Festive-season revenue above baseline month</span></div>
+                    <div class="cs-mega-ctas">
+                        <a href="/case-studies/d2c-jewelry-brand-growth.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_d2c-jewelry-brand-growth" target="_blank" rel="noopener">Book Similar Call</a>
                     </div>
-                    <div class="case-study-meta">
-                        <span><i class="fas fa-clock"></i> 12-month engagement, ongoing</span>
-                        <span><i class="fas fa-users"></i> 4-person ITD pod</span>
-                        <span><i class="fas fa-shield-alt"></i> Specific metrics shared under NDA</span>
+                </div>
+            </article>
+            <article class="cs-mega-card" data-category="d2c beauty performance full-funnel">
+                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#7e22ce 0%,#a855f7 100%);">
+                    <div class="cs-mega-bg-icon"><i class="fas fa-magic"></i></div>
+                    <div class="cs-mega-visual-top">
+                        <span class="cs-mega-persona-tag">D2C &middot; Beauty & Cosmetics</span>
+                        <span class="cs-mega-nda-badge"><i class="fas fa-shield-alt"></i> Under NDA</span>
                     </div>
-                    <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call case-study-cta" data-source="case_study_hub_d2c_jewelry" target="_blank" rel="noopener">Scaling a jewelry brand? Book a Call <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                    <a href="case-studies/d2c-jewelry-brand-growth.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
                 </div>
-            </div>
-
-            <!-- D2C 3 - Beauty / Cosmetics (NDA) -->
-            <div class="case-study-card" data-category="d2c beauty performance full-funnel" style="border-top:4px solid #a855f7;">
-                <div class="case-study-header" style="background:linear-gradient(135deg,#7e22ce,#a855f7);color:#fff;">
-                    <span class="case-study-number" style="color:#f3e8ff;">D3</span>
-                    <span class="industry-tag" style="background:rgba(243,232,255,0.15);color:#f3e8ff;border:1px solid rgba(243,232,255,0.3);"><i class="fas fa-magic"></i> D2C &middot; Beauty &amp; Cosmetics</span>
-                    <h3 style="color:#fff;">D2C Beauty Brand <span class="cs-nda-badge">Under NDA</span></h3>
-                    <p style="color:rgba(255,255,255,0.9);font-size:14px;margin:8px 0 0;">Concern-led funnel + creator economy + marketplace orchestration.</p>
-                </div>
-                <div class="case-study-body">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-user-tie"></i> Who they are</div>
-                            <p>A premium D2C makeup + cosmetics brand (foundation, lipstick, eye) targeting Indian skin tones. Operating on D2C + Nykaa Beauty + Amazon. Starting at Rs 20L/month revenue, undifferentiated positioning.</p>
-                            <div class="case-study-section-title" style="margin-top:14px;"><i class="fas fa-exclamation-triangle"></i> The Challenge</div>
-                            <p>Saturated category. Positioning was feature-led (ingredient claims) rather than concern-led (acne-prone, mature skin, deep tones). Nykaa listings underperforming. Creator pod inconsistent.</p>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-tools"></i> What we did</div>
-                            <ul style="padding-left:20px;line-height:1.75;font-size:14px;">
-                                <li>Concern-led funnel: acne / hyperpigmentation / mature skin / Indian tones</li>
-                                <li>Shade-matcher quiz on Shopify (Octane AI)</li>
-                                <li>Celebrity creator pod &mdash; 3 anchor creators + 20 micro/month</li>
-                                <li>Nykaa Beauty listing optimisation + ad spend reallocation</li>
-                                <li>Content funnel: tutorials, before/after, dupe-vs-prestige comparison</li>
-                                <li>Meta UGC-heavy creative, Reels-first</li>
-                                <li>Launch calendar: festive, bridal, Valentines, Diwali, back-to-college</li>
-                            </ul>
+                <div class="cs-mega-body">
+                    <h3 class="cs-mega-title">Beauty brand <strong>Rs 20L -&gt; Rs 85L/mo</strong> on concern-led funnel</h3>
+                    <p class="cs-mega-sub">Premium cosmetics for Indian skin tones. D2C + Nykaa + Amazon.</p>
+                    <div class="cs-mega-stats">
+                        <div class="cs-mega-stat"><strong>4.3x</strong><span>Revenue</span></div>
+                        <div class="cs-mega-stat"><strong>4.2x</strong><span>ROAS</span></div>
+                        <div class="cs-mega-stat"><strong>38%</strong><span>Quiz-to-cart</span></div>
+                        <div class="cs-mega-stat"><strong>2.1x</strong><span>Nykaa lift</span></div>
+                    </div>
+                    <div class="cs-mega-services-wrap">
+                        <div class="cs-mega-services-label">What we delivered</div>
+                        <div class="cs-mega-services">
+                            <span class="cs-mega-chip"><i class="fab fa-shopify"></i> Shopify + Shade Quiz</span>
+                        <span class="cs-mega-chip"><i class="fab fa-meta"></i> Meta UGC Ads</span>
+                        <span class="cs-mega-chip"><i class="fas fa-store"></i> Nykaa Beauty Ops</span>
+                        <span class="cs-mega-chip"><i class="fas fa-star"></i> Celebrity Creator Pod</span>
+                        <span class="cs-mega-chip"><i class="fas fa-video"></i> Reels-First Creative</span>
+                        <span class="cs-mega-chip"><i class="fas fa-camera"></i> Tutorial Library</span>
                         </div>
                     </div>
-                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> The numbers</div>
-                    <div class="results-grid">
-                        <div class="result-item"><span class="result-number">4.2x</span><span class="result-label">Blended ROAS</span></div>
-                        <div class="result-item"><span class="result-number">4.3x</span><span class="result-label">Monthly revenue (Rs 20L &rarr; Rs 85L)</span></div>
-                        <div class="result-item"><span class="result-number">38%</span><span class="result-label">Quiz-to-cart conversion</span></div>
-                        <div class="result-item"><span class="result-number">2.1x</span><span class="result-label">Nykaa Beauty revenue lift</span></div>
+                    <div class="cs-mega-ctas">
+                        <a href="/case-studies/d2c-beauty-brand-scale.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_d2c-beauty-brand-scale" target="_blank" rel="noopener">Book Similar Call</a>
                     </div>
-                    <div class="case-study-meta">
-                        <span><i class="fas fa-clock"></i> 18 months</span>
-                        <span><i class="fas fa-users"></i> 5-person ITD pod</span>
-                        <span><i class="fas fa-shield-alt"></i> Client name withheld under NDA</span>
+                </div>
+            </article>
+            <article class="cs-mega-card" data-category="d2c fashion performance full-funnel">
+                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#0e7490 0%,#06b6d4 100%);">
+                    <div class="cs-mega-bg-icon"><i class="fas fa-tshirt"></i></div>
+                    <div class="cs-mega-visual-top">
+                        <span class="cs-mega-persona-tag">D2C &middot; Fashion & Apparel</span>
+                        <span class="cs-mega-nda-badge"><i class="fas fa-shield-alt"></i> Under NDA</span>
                     </div>
-                    <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call case-study-cta" data-source="case_study_hub_d2c_beauty" target="_blank" rel="noopener">Scaling a beauty brand? Book a Call <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                    <a href="case-studies/d2c-beauty-brand-scale.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
                 </div>
-            </div>
-
-            <!-- D2C 4 - Fashion & Apparel (NDA) -->
-            <div class="case-study-card" data-category="d2c fashion performance full-funnel" style="border-top:4px solid #06b6d4;">
-                <div class="case-study-header" style="background:linear-gradient(135deg,#0e7490,#06b6d4);color:#fff;">
-                    <span class="case-study-number" style="color:#cffafe;">D4</span>
-                    <span class="industry-tag" style="background:rgba(207,250,254,0.15);color:#cffafe;border:1px solid rgba(207,250,254,0.3);"><i class="fas fa-tshirt"></i> D2C &middot; Fashion &amp; Apparel</span>
-                    <h3 style="color:#fff;">D2C Fashion Brand <span class="cs-nda-badge">Under NDA</span></h3>
-                    <p style="color:rgba(255,255,255,0.9);font-size:14px;margin:8px 0 0;">Occasion-wear scale through influencer-led acquisition.</p>
-                </div>
-                <div class="case-study-body">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-user-tie"></i> Who they are</div>
-                            <p>A D2C womens occasion-wear brand (ethnic + fusion, Rs 2,500-8,000 AOV). Operating on D2C + Myntra + Ajio. Fast-fashion inventory risk, high CAC on cold Meta.</p>
-                            <div class="case-study-section-title" style="margin-top:14px;"><i class="fas fa-exclamation-triangle"></i> The Challenge</div>
-                            <p>Meta CAC rising 40% YoY. Myntra listings cannibalising D2C margin. Returns rate 32% hurting LTV. Creator spend was ad-hoc, no attribution back to GMV.</p>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-tools"></i> What we did</div>
-                            <ul style="padding-left:20px;line-height:1.75;font-size:14px;">
-                                <li>Influencer-first paid stack &mdash; 180+ creators/quarter (whitelisted ads)</li>
-                                <li>UGC-heavy creative (ethnic fit-check Reels, bridal squad content)</li>
-                                <li>Dynamic retargeting with size-recommendation + styling AI</li>
-                                <li>Fit guide + returns-prevention copy on PDP</li>
-                                <li>Myntra ad spend audit + D2C/marketplace margin arbitrage</li>
-                                <li>WhatsApp styling consult + abandoned-cart automation</li>
-                                <li>Occasion-led seasonality: Diwali, wedding, Karva Chauth, Eid</li>
-                            </ul>
+                <div class="cs-mega-body">
+                    <h3 class="cs-mega-title">Fashion brand <strong>influencer-led occasion-wear scale</strong></h3>
+                    <p class="cs-mega-sub">Ethnic + fusion occasion wear. D2C + Myntra + Ajio.</p>
+                    <div class="cs-mega-stats">
+                        <div class="cs-mega-stat"><strong>2.9x</strong><span>ROAS</span></div>
+                        <div class="cs-mega-stat"><strong>42%</strong><span>Repeat rate</span></div>
+                        <div class="cs-mega-stat"><strong>-45%</strong><span>Return rate</span></div>
+                        <div class="cs-mega-stat"><strong>180+</strong><span>Creators/qtr</span></div>
+                    </div>
+                    <div class="cs-mega-services-wrap">
+                        <div class="cs-mega-services-label">What we delivered</div>
+                        <div class="cs-mega-services">
+                            <span class="cs-mega-chip"><i class="fas fa-store"></i> Shopify + Myntra Ops</span>
+                        <span class="cs-mega-chip"><i class="fab fa-meta"></i> Meta Branded Content</span>
+                        <span class="cs-mega-chip"><i class="fas fa-users"></i> 180+ Creator Pod</span>
+                        <span class="cs-mega-chip"><i class="fab fa-whatsapp"></i> WhatsApp Styling</span>
+                        <span class="cs-mega-chip"><i class="fas fa-ruler"></i> Size AI + Fit Guide</span>
+                        <span class="cs-mega-chip"><i class="fas fa-calendar"></i> Occasion Calendar</span>
                         </div>
                     </div>
-                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> The numbers</div>
-                    <div class="results-grid">
-                        <div class="result-item"><span class="result-number">2.9x</span><span class="result-label">Blended ROAS</span></div>
-                        <div class="result-item"><span class="result-number">42%</span><span class="result-label">Repeat rate (from 24%)</span></div>
-                        <div class="result-item"><span class="result-number">-45%</span><span class="result-label">Return rate (32% &rarr; 18%)</span></div>
-                        <div class="result-item"><span class="result-number">180+</span><span class="result-label">Creators activated / quarter</span></div>
+                    <div class="cs-mega-ctas">
+                        <a href="/case-studies/d2c-fashion-brand-growth.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_d2c-fashion-brand-growth" target="_blank" rel="noopener">Book Similar Call</a>
                     </div>
-                    <div class="case-study-meta">
-                        <span><i class="fas fa-clock"></i> 15 months, ongoing</span>
-                        <span><i class="fas fa-users"></i> 5-person ITD pod</span>
-                        <span><i class="fas fa-shield-alt"></i> Client name withheld under NDA</span>
+                </div>
+            </article>
+            <article class="cs-mega-card" data-category="d2c food-d2c performance full-funnel">
+                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#065f46 0%,#10b981 100%);">
+                    <div class="cs-mega-bg-icon"><i class="fas fa-mug-hot"></i></div>
+                    <div class="cs-mega-visual-top">
+                        <span class="cs-mega-persona-tag">D2C &middot; Food & Beverage</span>
+                        <span class="cs-mega-nda-badge"><i class="fas fa-shield-alt"></i> Under NDA</span>
                     </div>
-                    <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call case-study-cta" data-source="case_study_hub_d2c_fashion" target="_blank" rel="noopener">Scaling a fashion brand? Book a Call <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                    <a href="case-studies/d2c-fashion-brand-growth.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
                 </div>
-            </div>
-
-            <!-- D2C 5 - Food & Beverage (NDA) -->
-            <div class="case-study-card" data-category="d2c food-d2c performance full-funnel" style="border-top:4px solid #10b981;">
-                <div class="case-study-header" style="background:linear-gradient(135deg,#065f46,#10b981);color:#fff;">
-                    <span class="case-study-number" style="color:#d1fae5;">D5</span>
-                    <span class="industry-tag" style="background:rgba(209,250,229,0.15);color:#d1fae5;border:1px solid rgba(209,250,229,0.3);"><i class="fas fa-mug-hot"></i> D2C &middot; Food &amp; Beverage</span>
-                    <h3 style="color:#fff;">D2C Food &amp; Beverage Brand <span class="cs-nda-badge">Under NDA</span></h3>
-                    <p style="color:rgba(255,255,255,0.9);font-size:14px;margin:8px 0 0;">Subscription-led scale for a premium wellness-food brand.</p>
-                </div>
-                <div class="case-study-body">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-user-tie"></i> Who they are</div>
-                            <p>A premium D2C wellness-food brand (healthy snacks + functional beverages, Rs 400-900 AOV). D2C + Zepto/Blinkit + Amazon Fresh. Starting at Rs 25L/mo. Perishable inventory, low repeat.</p>
-                            <div class="case-study-section-title" style="margin-top:14px;"><i class="fas fa-exclamation-triangle"></i> The Challenge</div>
-                            <p>Repeat rate 22% hurting LTV economics. Zepto/Blinkit visibility uneven. Premium pricing not justified in creative. Subscription launched but 2% attach rate.</p>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-tools"></i> What we did</div>
-                            <ul style="padding-left:20px;line-height:1.75;font-size:14px;">
-                                <li>Subscription relaunch &mdash; concern-led bundles + 20% save</li>
-                                <li>Flavor-cohort retargeting (Meta custom audiences by SKU)</li>
-                                <li>Chef UGC + nutritionist content pillar</li>
-                                <li>Zepto / Blinkit / Instamart ad spend optimisation (10am-noon surge)</li>
-                                <li>Bundle-based AOV uplift on D2C</li>
-                                <li>WhatsApp refill-reminder + taste-feedback flows</li>
-                                <li>Festive gifting campaigns (Diwali, Rakhi)</li>
-                            </ul>
+                <div class="cs-mega-body">
+                    <h3 class="cs-mega-title">Food brand <strong>Rs 25L -&gt; Rs 75L/mo</strong> via subscription</h3>
+                    <p class="cs-mega-sub">Premium wellness-food. D2C + Zepto + Blinkit + Amazon Fresh.</p>
+                    <div class="cs-mega-stats">
+                        <div class="cs-mega-stat"><strong>3x</strong><span>Revenue</span></div>
+                        <div class="cs-mega-stat"><strong>2.4x</strong><span>ROAS</span></div>
+                        <div class="cs-mega-stat"><strong>55%</strong><span>Sub attach</span></div>
+                        <div class="cs-mega-stat"><strong>+68%</strong><span>QCom revenue</span></div>
+                    </div>
+                    <div class="cs-mega-services-wrap">
+                        <div class="cs-mega-services-label">What we delivered</div>
+                        <div class="cs-mega-services">
+                            <span class="cs-mega-chip"><i class="fab fa-shopify"></i> Shopify + Recharge</span>
+                        <span class="cs-mega-chip"><i class="fas fa-bolt"></i> Zepto/Blinkit Ads</span>
+                        <span class="cs-mega-chip"><i class="fab fa-meta"></i> Flavor-Cohort Ads</span>
+                        <span class="cs-mega-chip"><i class="fab fa-whatsapp"></i> WhatsApp Refill</span>
+                        <span class="cs-mega-chip"><i class="fas fa-utensils"></i> Chef UGC Content</span>
+                        <span class="cs-mega-chip"><i class="fas fa-gift"></i> Festive Gifting</span>
                         </div>
                     </div>
-                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> The numbers</div>
-                    <div class="results-grid">
-                        <div class="result-item"><span class="result-number">2.4x</span><span class="result-label">Blended ROAS</span></div>
-                        <div class="result-item"><span class="result-number">3x</span><span class="result-label">Monthly revenue (Rs 25L &rarr; Rs 75L)</span></div>
-                        <div class="result-item"><span class="result-number">55%</span><span class="result-label">Subscription attach (from 2%)</span></div>
-                        <div class="result-item"><span class="result-number">+68%</span><span class="result-label">Quick-commerce revenue lift</span></div>
+                    <div class="cs-mega-ctas">
+                        <a href="/case-studies/d2c-food-beverage-brand-scale.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_d2c-food-beverage-brand-scale" target="_blank" rel="noopener">Book Similar Call</a>
                     </div>
-                    <div class="case-study-meta">
-                        <span><i class="fas fa-clock"></i> 14 months</span>
-                        <span><i class="fas fa-users"></i> 4-person ITD pod</span>
-                        <span><i class="fas fa-shield-alt"></i> Client name withheld under NDA</span>
+                </div>
+            </article>
+            <article class="cs-mega-card" data-category="d2c wellness performance full-funnel">
+                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#075985 0%,#0ea5e9 100%);">
+                    <div class="cs-mega-bg-icon"><i class="fas fa-heartbeat"></i></div>
+                    <div class="cs-mega-visual-top">
+                        <span class="cs-mega-persona-tag">D2C &middot; Wellness & Supplements</span>
+                        <span class="cs-mega-nda-badge"><i class="fas fa-shield-alt"></i> Under NDA</span>
                     </div>
-                    <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call case-study-cta" data-source="case_study_hub_d2c_food" target="_blank" rel="noopener">Scaling a food brand? Book a Call <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                    <a href="case-studies/d2c-food-beverage-brand-scale.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
                 </div>
-            </div>
-
-            <!-- D2C 6 - Wellness / Supplements (NDA) -->
-            <div class="case-study-card" data-category="d2c wellness performance full-funnel" style="border-top:4px solid #0ea5e9;">
-                <div class="case-study-header" style="background:linear-gradient(135deg,#075985,#0ea5e9);color:#fff;">
-                    <span class="case-study-number" style="color:#e0f2fe;">D6</span>
-                    <span class="industry-tag" style="background:rgba(224,242,254,0.15);color:#e0f2fe;border:1px solid rgba(224,242,254,0.3);"><i class="fas fa-heartbeat"></i> D2C &middot; Wellness &amp; Supplements</span>
-                    <h3 style="color:#fff;">D2C Wellness Brand <span class="cs-nda-badge">Under NDA</span></h3>
-                    <p style="color:rgba(255,255,255,0.9);font-size:14px;margin:8px 0 0;">Doctor-backed trust funnel for supplements across D2C + marketplaces.</p>
-                </div>
-                <div class="case-study-body">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-user-tie"></i> Who they are</div>
-                            <p>A D2C nutraceutical brand (immunity, gut health, sleep, hair). FSSAI-licensed, D2C + Nykaa + Amazon + Flipkart. Rs 12L/mo starting. Trust barrier blocking cold acquisition.</p>
-                            <div class="case-study-section-title" style="margin-top:14px;"><i class="fas fa-exclamation-triangle"></i> The Challenge</div>
-                            <p>Supplements category = low cold-ad trust. FSSAI advertising compliance limits (no cure claims, no comparative). Meta disapproved 40% creatives. Repeat rate 15%. Founder expertise not visible.</p>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-tools"></i> What we did</div>
-                            <ul style="padding-left:20px;line-height:1.75;font-size:14px;">
-                                <li>Doctor-expert content pillar &mdash; 2 named MBBS/BAMS partners</li>
-                                <li>FSSAI + COA (Certificate of Analysis) + 3rd-party lab display</li>
-                                <li>Subscription with free consult (CRM + Calendly integration)</li>
-                                <li>Founder LinkedIn personal brand &mdash; 3x posts/week</li>
-                                <li>Marketplace orchestration: Nykaa + Amazon + Flipkart ad spend sync</li>
-                                <li>WhatsApp dosage-reminder + refill flows</li>
-                                <li>Compliance-safe creative library (zero disapprovals month 6+)</li>
-                            </ul>
+                <div class="cs-mega-body">
+                    <h3 class="cs-mega-title">Wellness brand <strong>Rs 12L -&gt; Rs 65L/mo</strong> trust-funnel</h3>
+                    <p class="cs-mega-sub">Nutraceutical. D2C + Nykaa + Amazon + Flipkart. FSSAI compliance.</p>
+                    <div class="cs-mega-stats">
+                        <div class="cs-mega-stat"><strong>5.4x</strong><span>Revenue</span></div>
+                        <div class="cs-mega-stat"><strong>3.5x</strong><span>ROAS</span></div>
+                        <div class="cs-mega-stat"><strong>48%</strong><span>Repeat rate</span></div>
+                        <div class="cs-mega-stat"><strong>0</strong><span>Meta disapprovals</span></div>
+                    </div>
+                    <div class="cs-mega-services-wrap">
+                        <div class="cs-mega-services-label">What we delivered</div>
+                        <div class="cs-mega-services">
+                            <span class="cs-mega-chip"><i class="fab fa-shopify"></i> Shopify + Calendly</span>
+                        <span class="cs-mega-chip"><i class="fas fa-user-md"></i> Doctor Content Pillar</span>
+                        <span class="cs-mega-chip"><i class="fas fa-shield-alt"></i> FSSAI + COA Display</span>
+                        <span class="cs-mega-chip"><i class="fab fa-linkedin"></i> Founder LinkedIn PB</span>
+                        <span class="cs-mega-chip"><i class="fas fa-store"></i> Nykaa + Amazon + Flipkart</span>
+                        <span class="cs-mega-chip"><i class="fab fa-whatsapp"></i> WhatsApp Dosage</span>
                         </div>
                     </div>
-                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> The numbers</div>
-                    <div class="results-grid">
-                        <div class="result-item"><span class="result-number">3.5x</span><span class="result-label">Blended ROAS</span></div>
-                        <div class="result-item"><span class="result-number">5.4x</span><span class="result-label">Monthly revenue (Rs 12L &rarr; Rs 65L)</span></div>
-                        <div class="result-item"><span class="result-number">48%</span><span class="result-label">Repeat rate (from 15%)</span></div>
-                        <div class="result-item"><span class="result-number">0</span><span class="result-label">Meta disapprovals month 6+</span></div>
+                    <div class="cs-mega-ctas">
+                        <a href="/case-studies/d2c-wellness-brand-growth.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_d2c-wellness-brand-growth" target="_blank" rel="noopener">Book Similar Call</a>
                     </div>
-                    <div class="case-study-meta">
-                        <span><i class="fas fa-clock"></i> 18 months, ongoing</span>
-                        <span><i class="fas fa-users"></i> 5-person ITD pod</span>
-                        <span><i class="fas fa-shield-alt"></i> Client name withheld under NDA</span>
-                    </div>
-                    <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call case-study-cta" data-source="case_study_hub_d2c_wellness" target="_blank" rel="noopener">Scaling a wellness brand? Book a Call <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                    <a href="case-studies/d2c-wellness-brand-growth.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
                 </div>
+            </article>
+            <article class="cs-mega-card" data-category="d2c fashion technology">
+                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#9d174d 0%,#f472b6 100%);">
+                    <div class="cs-mega-bg-icon"><i class="fas fa-mobile-alt"></i></div>
+                    <div class="cs-mega-visual-top">
+                        <span class="cs-mega-persona-tag">D2C &middot; Fashion / Tech Build</span>
+                        
+                    </div>
+                </div>
+                <div class="cs-mega-body">
+                    <h3 class="cs-mega-title">D2C fashion brand <strong>mobile commerce app</strong></h3>
+                    <p class="cs-mega-sub">iOS + Android with Shopify sync + push + loyalty + personalisation.</p>
+                    <div class="cs-mega-stats">
+                        <div class="cs-mega-stat"><strong>iOS +</strong><span>Android</span></div>
+                        <div class="cs-mega-stat"><strong>Live</strong><span>Shopify sync</span></div>
+                        <div class="cs-mega-stat"><strong>Push</strong><span>Lifecycle flows</span></div>
+                        <div class="cs-mega-stat"><strong>30%</strong><span>App repeat uplift</span></div>
+                    </div>
+                    <div class="cs-mega-services-wrap">
+                        <div class="cs-mega-services-label">What we delivered</div>
+                        <div class="cs-mega-services">
+                            <span class="cs-mega-chip"><i class="fab fa-apple"></i> iOS Native</span>
+                        <span class="cs-mega-chip"><i class="fab fa-android"></i> Android Native</span>
+                        <span class="cs-mega-chip"><i class="fab fa-shopify"></i> Shopify Headless</span>
+                        <span class="cs-mega-chip"><i class="fas fa-bell"></i> Push Notifications</span>
+                        <span class="cs-mega-chip"><i class="fas fa-user-circle"></i> Login + Loyalty</span>
+                        <span class="cs-mega-chip"><i class="fas fa-brain"></i> Recommendation Engine</span>
+                        </div>
+                    </div>
+                    <div class="cs-mega-ctas">
+                        <a href="/case-studies/d2c-ecommerce-mobile-app-fashion-brand.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_d2c-ecommerce-mobile-app-fashion-brand" target="_blank" rel="noopener">Book Similar Call</a>
+                    </div>
+                </div>
+            </article>
+            <article class="cs-mega-card" data-category="b2b deeptech technology">
+                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#1a1240 0%,#7c3aed 100%);">
+                    <div class="cs-mega-bg-icon"><i class="fas fa-atom"></i></div>
+                    <div class="cs-mega-visual-top">
+                        <span class="cs-mega-persona-tag">B2B &middot; Deep Tech</span>
+                        <span class="cs-mega-nda-badge"><i class="fas fa-shield-alt"></i> Under NDA</span>
+                    </div>
+                </div>
+                <div class="cs-mega-body">
+                    <h3 class="cs-mega-title">Quantum-era data platform for a <strong>deep-tech R&amp;D client</strong></h3>
+                    <p class="cs-mega-sub">Dedicated Python + DevOps pod. Active engagement.</p>
+                    <div class="cs-mega-stats">
+                        <div class="cs-mega-stat"><strong>Active</strong><span>Build in progress</span></div>
+                        <div class="cs-mega-stat"><strong>Large</strong><span>Scale datasets</span></div>
+                        <div class="cs-mega-stat"><strong>LT</strong><span>Roadmap partner</span></div>
+                        <div class="cs-mega-stat"><strong>Python</strong><span>+ DevOps pod</span></div>
+                    </div>
+                    <div class="cs-mega-services-wrap">
+                        <div class="cs-mega-services-label">What we delivered</div>
+                        <div class="cs-mega-services">
+                            <span class="cs-mega-chip"><i class="fab fa-python"></i> Python Services</span>
+                        <span class="cs-mega-chip"><i class="fas fa-server"></i> DevOps + Cloud</span>
+                        <span class="cs-mega-chip"><i class="fas fa-stream"></i> Data Pipelines</span>
+                        <span class="cs-mega-chip"><i class="fas fa-sync"></i> CI/CD</span>
+                        <span class="cs-mega-chip"><i class="fas fa-chart-line"></i> Observability</span>
+                        <span class="cs-mega-chip"><i class="fas fa-cube"></i> Containerised</span>
+                        </div>
+                    </div>
+                    <div class="cs-mega-ctas">
+                        <a href="/case-studies/quantum-era-data-platform.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_quantum-era-data-platform" target="_blank" rel="noopener">Book Similar Call</a>
+                    </div>
+                </div>
+            </article>
+            <article class="cs-mega-card" data-category="b2b logistics technology">
+                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#0c4a6e 0%,#0284c7 100%);">
+                    <div class="cs-mega-bg-icon"><i class="fas fa-truck"></i></div>
+                    <div class="cs-mega-visual-top">
+                        <span class="cs-mega-persona-tag">B2B &middot; Logistics & Courier</span>
+                        
+                    </div>
+                </div>
+                <div class="cs-mega-body">
+                    <h3 class="cs-mega-title">Courier Management System for a <strong>mid-sized 3PL</strong></h3>
+                    <p class="cs-mega-sub">Admin + Driver + Customer apps + billing + reporting.</p>
+                    <div class="cs-mega-stats">
+                        <div class="cs-mega-stat"><strong>50K+</strong><span>Monthly shipments</span></div>
+                        <div class="cs-mega-stat"><strong>3</strong><span>Apps shipped</span></div>
+                        <div class="cs-mega-stat"><strong>-70%</strong><span>Manual ops</span></div>
+                        <div class="cs-mega-stat"><strong>API</strong><span>+ Webhook ready</span></div>
+                    </div>
+                    <div class="cs-mega-services-wrap">
+                        <div class="cs-mega-services-label">What we delivered</div>
+                        <div class="cs-mega-services">
+                            <span class="cs-mega-chip"><i class="fas fa-tachometer-alt"></i> Admin Dashboard</span>
+                        <span class="cs-mega-chip"><i class="fas fa-mobile-alt"></i> Driver App</span>
+                        <span class="cs-mega-chip"><i class="fas fa-user-circle"></i> Customer App</span>
+                        <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Billing</span>
+                        <span class="cs-mega-chip"><i class="fas fa-chart-bar"></i> Reports</span>
+                        <span class="cs-mega-chip"><i class="fas fa-plug"></i> API + Webhooks</span>
+                        </div>
+                    </div>
+                    <div class="cs-mega-ctas">
+                        <a href="/case-studies/courier-management-system.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_courier-management-system" target="_blank" rel="noopener">Book Similar Call</a>
+                    </div>
+                </div>
+            </article>
+            <article class="cs-mega-card" data-category="b2b logistics saas technology">
+                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#14532d 0%,#22c55e 100%);">
+                    <div class="cs-mega-bg-icon"><i class="fas fa-globe-asia"></i></div>
+                    <div class="cs-mega-visual-top">
+                        <span class="cs-mega-persona-tag">B2B &middot; Logistics SaaS</span>
+                        
+                    </div>
+                </div>
+                <div class="cs-mega-body">
+                    <h3 class="cs-mega-title">Cross-border courier <strong>SaaS platform</strong></h3>
+                    <p class="cs-mega-sub">Multi-tenant SaaS for cross-border logistics ops.</p>
+                    <div class="cs-mega-stats">
+                        <div class="cs-mega-stat"><strong>Multi-tenant</strong><span>Architecture</span></div>
+                        <div class="cs-mega-stat"><strong>5+</strong><span>Carrier integrations</span></div>
+                        <div class="cs-mega-stat"><strong>Live</strong><span>In production</span></div>
+                        <div class="cs-mega-stat"><strong>API-first</strong><span>+ Reporting</span></div>
+                    </div>
+                    <div class="cs-mega-services-wrap">
+                        <div class="cs-mega-services-label">What we delivered</div>
+                        <div class="cs-mega-services">
+                            <span class="cs-mega-chip"><i class="fas fa-layer-group"></i> Multi-tenant SaaS</span>
+                        <span class="cs-mega-chip"><i class="fas fa-plug"></i> Carrier Integrations</span>
+                        <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Billing + Subscription</span>
+                        <span class="cs-mega-chip"><i class="fas fa-chart-bar"></i> Analytics</span>
+                        <span class="cs-mega-chip"><i class="fas fa-users"></i> Role-based Access</span>
+                        <span class="cs-mega-chip"><i class="fas fa-shield-alt"></i> Compliance</span>
+                        </div>
+                    </div>
+                    <div class="cs-mega-ctas">
+                        <a href="/case-studies/cross-border-courier-platform-saas.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_cross-border-courier-platform-saas" target="_blank" rel="noopener">Book Similar Call</a>
+                    </div>
+                </div>
+            </article>
+            <article class="cs-mega-card" data-category="b2b education technology">
+                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#581c87 0%,#9333ea 100%);">
+                    <div class="cs-mega-bg-icon"><i class="fas fa-graduation-cap"></i></div>
+                    <div class="cs-mega-visual-top">
+                        <span class="cs-mega-persona-tag">B2B &middot; EdTech</span>
+                        
+                    </div>
+                </div>
+                <div class="cs-mega-body">
+                    <h3 class="cs-mega-title">EdTech LMS with <strong>live classes + payments</strong></h3>
+                    <p class="cs-mega-sub">Full LMS: live classes, video, assessments, payments, mobile apps.</p>
+                    <div class="cs-mega-stats">
+                        <div class="cs-mega-stat"><strong>5K+</strong><span>Daily sessions</span></div>
+                        <div class="cs-mega-stat"><strong>Live</strong><span>Streaming built-in</span></div>
+                        <div class="cs-mega-stat"><strong>Mobile</strong><span>+ Web</span></div>
+                        <div class="cs-mega-stat"><strong>Multi-batch</strong><span>Enrollment</span></div>
+                    </div>
+                    <div class="cs-mega-services-wrap">
+                        <div class="cs-mega-services-label">What we delivered</div>
+                        <div class="cs-mega-services">
+                            <span class="cs-mega-chip"><i class="fas fa-video"></i> Live Class Streaming</span>
+                        <span class="cs-mega-chip"><i class="fas fa-book-reader"></i> LMS Core</span>
+                        <span class="cs-mega-chip"><i class="fas fa-mobile-alt"></i> iOS + Android</span>
+                        <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Payments</span>
+                        <span class="cs-mega-chip"><i class="fas fa-tasks"></i> Assessment Engine</span>
+                        <span class="cs-mega-chip"><i class="fas fa-chart-line"></i> Analytics</span>
+                        </div>
+                    </div>
+                    <div class="cs-mega-ctas">
+                        <a href="/case-studies/edtech-lms-live-classes-platform.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_edtech-lms-live-classes-platform" target="_blank" rel="noopener">Book Similar Call</a>
+                    </div>
+                </div>
+            </article>
+            <article class="cs-mega-card" data-category="b2b logistics saas technology">
+                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#1e3a8a 0%,#3b82f6 100%);">
+                    <div class="cs-mega-bg-icon"><i class="fas fa-shipping-fast"></i></div>
+                    <div class="cs-mega-visual-top">
+                        <span class="cs-mega-persona-tag">B2B &middot; Fleet SaaS</span>
+                        
+                    </div>
+                </div>
+                <div class="cs-mega-body">
+                    <h3 class="cs-mega-title">Fleet management <strong>SaaS for a 3PL operator</strong></h3>
+                    <p class="cs-mega-sub">GPS + driver app + analytics + billing, multi-tenant.</p>
+                    <div class="cs-mega-stats">
+                        <div class="cs-mega-stat"><strong>500+</strong><span>Vehicles tracked</span></div>
+                        <div class="cs-mega-stat"><strong>Real-time</strong><span>GPS + geofence</span></div>
+                        <div class="cs-mega-stat"><strong>SaaS</strong><span>Multi-tenant</span></div>
+                        <div class="cs-mega-stat"><strong>API</strong><span>+ Reports</span></div>
+                    </div>
+                    <div class="cs-mega-services-wrap">
+                        <div class="cs-mega-services-label">What we delivered</div>
+                        <div class="cs-mega-services">
+                            <span class="cs-mega-chip"><i class="fas fa-map-marked-alt"></i> Live GPS Tracking</span>
+                        <span class="cs-mega-chip"><i class="fas fa-mobile-alt"></i> Driver App</span>
+                        <span class="cs-mega-chip"><i class="fas fa-chart-area"></i> Analytics Dashboard</span>
+                        <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Trip Billing</span>
+                        <span class="cs-mega-chip"><i class="fas fa-fence"></i> Geofencing</span>
+                        <span class="cs-mega-chip"><i class="fas fa-exchange-alt"></i> API Integrations</span>
+                        </div>
+                    </div>
+                    <div class="cs-mega-ctas">
+                        <a href="/case-studies/fleet-management-saas-3pl-logistics.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_fleet-management-saas-3pl-logistics" target="_blank" rel="noopener">Book Similar Call</a>
+                    </div>
+                </div>
+            </article>
+            <article class="cs-mega-card" data-category="b2b food-b2b technology">
+                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#7c2d12 0%,#ea580c 100%);">
+                    <div class="cs-mega-bg-icon"><i class="fas fa-utensils"></i></div>
+                    <div class="cs-mega-visual-top">
+                        <span class="cs-mega-persona-tag">B2B &middot; Food Tech</span>
+                        
+                    </div>
+                </div>
+                <div class="cs-mega-body">
+                    <h3 class="cs-mega-title">Vendor ops system for <strong>food delivery platform</strong></h3>
+                    <p class="cs-mega-sub">Order management + POS + inventory for merchants.</p>
+                    <div class="cs-mega-stats">
+                        <div class="cs-mega-stat"><strong>2K+</strong><span>Daily orders</span></div>
+                        <div class="cs-mega-stat"><strong>Multi-outlet</strong><span>Chain-ready</span></div>
+                        <div class="cs-mega-stat"><strong>Live</strong><span>Order flow</span></div>
+                        <div class="cs-mega-stat"><strong>POS</strong><span>Integrated</span></div>
+                    </div>
+                    <div class="cs-mega-services-wrap">
+                        <div class="cs-mega-services-label">What we delivered</div>
+                        <div class="cs-mega-services">
+                            <span class="cs-mega-chip"><i class="fas fa-cash-register"></i> POS Integration</span>
+                        <span class="cs-mega-chip"><i class="fas fa-clipboard-list"></i> Order Mgmt</span>
+                        <span class="cs-mega-chip"><i class="fas fa-boxes"></i> Inventory</span>
+                        <span class="cs-mega-chip"><i class="fas fa-store-alt"></i> Multi-outlet</span>
+                        <span class="cs-mega-chip"><i class="fas fa-chart-bar"></i> Vendor Reports</span>
+                        <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Settlements</span>
+                        </div>
+                    </div>
+                    <div class="cs-mega-ctas">
+                        <a href="/case-studies/food-delivery-vendor-operations-system.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_food-delivery-vendor-operations-system" target="_blank" rel="noopener">Book Similar Call</a>
+                    </div>
+                </div>
+            </article>
+            <article class="cs-mega-card" data-category="b2b marketplace food-b2b technology">
+                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#92400e 0%,#f59e0b 100%);">
+                    <div class="cs-mega-bg-icon"><i class="fas fa-store"></i></div>
+                    <div class="cs-mega-visual-top">
+                        <span class="cs-mega-persona-tag">B2B &middot; Marketplace</span>
+                        
+                    </div>
+                </div>
+                <div class="cs-mega-body">
+                    <h3 class="cs-mega-title">Multi-vendor marketplace app for <strong>food + grocery</strong></h3>
+                    <p class="cs-mega-sub">Customer + Vendor + Rider + Admin, all native.</p>
+                    <div class="cs-mega-stats">
+                        <div class="cs-mega-stat"><strong>4</strong><span>Apps shipped</span></div>
+                        <div class="cs-mega-stat"><strong>Native</strong><span>iOS + Android</span></div>
+                        <div class="cs-mega-stat"><strong>Live</strong><span>Payments</span></div>
+                        <div class="cs-mega-stat"><strong>Driver</strong><span>Live tracking</span></div>
+                    </div>
+                    <div class="cs-mega-services-wrap">
+                        <div class="cs-mega-services-label">What we delivered</div>
+                        <div class="cs-mega-services">
+                            <span class="cs-mega-chip"><i class="fas fa-mobile-alt"></i> Customer App</span>
+                        <span class="cs-mega-chip"><i class="fas fa-store-alt"></i> Vendor App</span>
+                        <span class="cs-mega-chip"><i class="fas fa-motorcycle"></i> Rider App</span>
+                        <span class="cs-mega-chip"><i class="fas fa-tachometer-alt"></i> Admin Dashboard</span>
+                        <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Payments</span>
+                        <span class="cs-mega-chip"><i class="fas fa-map-marker-alt"></i> Live Tracking</span>
+                        </div>
+                    </div>
+                    <div class="cs-mega-ctas">
+                        <a href="/case-studies/multi-vendor-marketplace-app-food-grocery.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_multi-vendor-marketplace-app-food-grocery" target="_blank" rel="noopener">Book Similar Call</a>
+                    </div>
+                </div>
+            </article>
+            <article class="cs-mega-card" data-category="b2b fintech technology">
+                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#064e3b 0%,#059669 100%);">
+                    <div class="cs-mega-bg-icon"><i class="fas fa-coins"></i></div>
+                    <div class="cs-mega-visual-top">
+                        <span class="cs-mega-persona-tag">B2B &middot; Fintech / NBFC</span>
+                        
+                    </div>
+                </div>
+                <div class="cs-mega-body">
+                    <h3 class="cs-mega-title">NBFC <strong>loan origination dashboard</strong></h3>
+                    <p class="cs-mega-sub">KYC + underwriting + disbursal + collections workflow.</p>
+                    <div class="cs-mega-stats">
+                        <div class="cs-mega-stat"><strong>Live</strong><span>In production</span></div>
+                        <div class="cs-mega-stat"><strong>KYC</strong><span>Aadhaar + PAN</span></div>
+                        <div class="cs-mega-stat"><strong>Multi-stage</strong><span>Workflow</span></div>
+                        <div class="cs-mega-stat"><strong>Audit</strong><span>Trail built-in</span></div>
+                    </div>
+                    <div class="cs-mega-services-wrap">
+                        <div class="cs-mega-services-label">What we delivered</div>
+                        <div class="cs-mega-services">
+                            <span class="cs-mega-chip"><i class="fas fa-id-card"></i> KYC + eSign</span>
+                        <span class="cs-mega-chip"><i class="fas fa-check-double"></i> Underwriting</span>
+                        <span class="cs-mega-chip"><i class="fas fa-money-check-alt"></i> Disbursal</span>
+                        <span class="cs-mega-chip"><i class="fas fa-handshake"></i> Collections</span>
+                        <span class="cs-mega-chip"><i class="fas fa-shield-alt"></i> Compliance + Audit</span>
+                        <span class="cs-mega-chip"><i class="fas fa-chart-line"></i> Portfolio Analytics</span>
+                        </div>
+                    </div>
+                    <div class="cs-mega-ctas">
+                        <a href="/case-studies/nbfc-loan-origination-dashboard-fintech.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_nbfc-loan-origination-dashboard-fintech" target="_blank" rel="noopener">Book Similar Call</a>
+                    </div>
+                </div>
+            </article>
+            <article class="cs-mega-card" data-category="b2b logistics technology">
+                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#1e40af 0%,#60a5fa 100%);">
+                    <div class="cs-mega-bg-icon"><i class="fas fa-box-open"></i></div>
+                    <div class="cs-mega-visual-top">
+                        <span class="cs-mega-persona-tag">B2B &middot; Logistics App</span>
+                        
+                    </div>
+                </div>
+                <div class="cs-mega-body">
+                    <h3 class="cs-mega-title">On-demand <strong>courier booking app</strong></h3>
+                    <p class="cs-mega-sub">Customer-side booking, pricing, tracking, payments.</p>
+                    <div class="cs-mega-stats">
+                        <div class="cs-mega-stat"><strong>5K+</strong><span>Daily bookings</span></div>
+                        <div class="cs-mega-stat"><strong>iOS +</strong><span>Android</span></div>
+                        <div class="cs-mega-stat"><strong>Live</strong><span>Rider matching</span></div>
+                        <div class="cs-mega-stat"><strong>Payments</strong><span>Integrated</span></div>
+                    </div>
+                    <div class="cs-mega-services-wrap">
+                        <div class="cs-mega-services-label">What we delivered</div>
+                        <div class="cs-mega-services">
+                            <span class="cs-mega-chip"><i class="fas fa-mobile-alt"></i> Customer App</span>
+                        <span class="cs-mega-chip"><i class="fas fa-calculator"></i> Dynamic Pricing</span>
+                        <span class="cs-mega-chip"><i class="fas fa-map-marker-alt"></i> Live Tracking</span>
+                        <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Payments</span>
+                        <span class="cs-mega-chip"><i class="fas fa-bell"></i> Push + SMS</span>
+                        <span class="cs-mega-chip"><i class="fas fa-user-tag"></i> Referrals</span>
+                        </div>
+                    </div>
+                    <div class="cs-mega-ctas">
+                        <a href="/case-studies/on-demand-courier-booking-app.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_on-demand-courier-booking-app" target="_blank" rel="noopener">Book Similar Call</a>
+                    </div>
+                </div>
+            </article>
+            <article class="cs-mega-card" data-category="b2b marketplace food-b2b technology">
+                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#164e63 0%,#0ea5e9 100%);">
+                    <div class="cs-mega-bg-icon"><i class="fas fa-fish"></i></div>
+                    <div class="cs-mega-visual-top">
+                        <span class="cs-mega-persona-tag">B2B &middot; Marketplace / Food</span>
+                        
+                    </div>
+                </div>
+                <div class="cs-mega-body">
+                    <h3 class="cs-mega-title">Fish delivery <strong>marketplace app</strong></h3>
+                    <p class="cs-mega-sub">Perishable-first marketplace: live inventory, cold-chain-aware.</p>
+                    <div class="cs-mega-stats">
+                        <div class="cs-mega-stat"><strong>Live</strong><span>Inventory sync</span></div>
+                        <div class="cs-mega-stat"><strong>Cold-chain</strong><span>SLA aware</span></div>
+                        <div class="cs-mega-stat"><strong>Multi-vendor</strong><span>Catalog</span></div>
+                        <div class="cs-mega-stat"><strong>Driver</strong><span>Routing</span></div>
+                    </div>
+                    <div class="cs-mega-services-wrap">
+                        <div class="cs-mega-services-label">What we delivered</div>
+                        <div class="cs-mega-services">
+                            <span class="cs-mega-chip"><i class="fas fa-mobile-alt"></i> Customer App</span>
+                        <span class="cs-mega-chip"><i class="fas fa-sync"></i> Live Inventory</span>
+                        <span class="cs-mega-chip"><i class="fas fa-truck"></i> Driver App</span>
+                        <span class="cs-mega-chip"><i class="fas fa-snowflake"></i> Cold-chain SLA</span>
+                        <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Payments</span>
+                        <span class="cs-mega-chip"><i class="fas fa-store-alt"></i> Multi-vendor</span>
+                        </div>
+                    </div>
+                    <div class="cs-mega-ctas">
+                        <a href="/case-studies/online-fish-delivery-marketplace-app.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_online-fish-delivery-marketplace-app" target="_blank" rel="noopener">Book Similar Call</a>
+                    </div>
+                </div>
+            </article>
+            <article class="cs-mega-card" data-category="b2b realestate whatsapp">
+                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#78350f 0%,#f59e0b 100%);">
+                    <div class="cs-mega-bg-icon"><i class="fas fa-building"></i></div>
+                    <div class="cs-mega-visual-top">
+                        <span class="cs-mega-persona-tag">B2B &middot; Real Estate</span>
+                        
+                    </div>
+                </div>
+                <div class="cs-mega-body">
+                    <h3 class="cs-mega-title">Real estate CRM with <strong>WhatsApp automation</strong></h3>
+                    <p class="cs-mega-sub">Lead-to-walkthrough automation for property teams.</p>
+                    <div class="cs-mega-stats">
+                        <div class="cs-mega-stat"><strong>Live</strong><span>In production</span></div>
+                        <div class="cs-mega-stat"><strong>Auto</strong><span>Lead routing</span></div>
+                        <div class="cs-mega-stat"><strong>WhatsApp</strong><span>+ Email + SMS</span></div>
+                        <div class="cs-mega-stat"><strong>Multi-user</strong><span>Teams</span></div>
+                    </div>
+                    <div class="cs-mega-services-wrap">
+                        <div class="cs-mega-services-label">What we delivered</div>
+                        <div class="cs-mega-services">
+                            <span class="cs-mega-chip"><i class="fas fa-user-plus"></i> Lead Capture</span>
+                        <span class="cs-mega-chip"><i class="fab fa-whatsapp"></i> WhatsApp Auto</span>
+                        <span class="cs-mega-chip"><i class="fas fa-building"></i> Property Mgmt</span>
+                        <span class="cs-mega-chip"><i class="fas fa-funnel-dollar"></i> Lead Scoring</span>
+                        <span class="cs-mega-chip"><i class="fas fa-calendar-check"></i> Visit Scheduling</span>
+                        <span class="cs-mega-chip"><i class="fas fa-chart-pie"></i> Pipeline Reports</span>
+                        </div>
+                    </div>
+                    <div class="cs-mega-ctas">
+                        <a href="/case-studies/real-estate-crm-whatsapp-automation.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_real-estate-crm-whatsapp-automation" target="_blank" rel="noopener">Book Similar Call</a>
+                    </div>
+                </div>
+            </article>
+            <article class="cs-mega-card" data-category="b2b food-b2b technology">
+                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#991b1b 0%,#ef4444 100%);">
+                    <div class="cs-mega-bg-icon"><i class="fas fa-concierge-bell"></i></div>
+                    <div class="cs-mega-visual-top">
+                        <span class="cs-mega-persona-tag">B2B &middot; Restaurant Tech</span>
+                        
+                    </div>
+                </div>
+                <div class="cs-mega-body">
+                    <h3 class="cs-mega-title">Restaurant <strong>POS + online ordering platform</strong></h3>
+                    <p class="cs-mega-sub">Dine-in POS, online ordering, KDS, inventory, reports.</p>
+                    <div class="cs-mega-stats">
+                        <div class="cs-mega-stat"><strong>Live</strong><span>Multi-outlet</span></div>
+                        <div class="cs-mega-stat"><strong>KDS</strong><span>Kitchen display</span></div>
+                        <div class="cs-mega-stat"><strong>Online +</strong><span>Dine-in</span></div>
+                        <div class="cs-mega-stat"><strong>Settlements</strong><span>Auto</span></div>
+                    </div>
+                    <div class="cs-mega-services-wrap">
+                        <div class="cs-mega-services-label">What we delivered</div>
+                        <div class="cs-mega-services">
+                            <span class="cs-mega-chip"><i class="fas fa-cash-register"></i> POS</span>
+                        <span class="cs-mega-chip"><i class="fas fa-tv"></i> Kitchen Display</span>
+                        <span class="cs-mega-chip"><i class="fas fa-shopping-cart"></i> Online Ordering</span>
+                        <span class="cs-mega-chip"><i class="fas fa-boxes"></i> Inventory</span>
+                        <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Payments</span>
+                        <span class="cs-mega-chip"><i class="fas fa-chart-bar"></i> Reports</span>
+                        </div>
+                    </div>
+                    <div class="cs-mega-ctas">
+                        <a href="/case-studies/restaurant-pos-online-ordering-platform.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_restaurant-pos-online-ordering-platform" target="_blank" rel="noopener">Book Similar Call</a>
+                    </div>
+                </div>
+            </article>
+            <article class="cs-mega-card" data-category="b2b saas technology">
+                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#365314 0%,#84cc16 100%);">
+                    <div class="cs-mega-bg-icon"><i class="fas fa-boxes"></i></div>
+                    <div class="cs-mega-visual-top">
+                        <span class="cs-mega-persona-tag">B2B &middot; Retail SaaS</span>
+                        
+                    </div>
+                </div>
+                <div class="cs-mega-body">
+                    <h3 class="cs-mega-title">SaaS <strong>inventory management</strong> for retail chains</h3>
+                    <p class="cs-mega-sub">Multi-location, barcode, reorder, reports, integrations.</p>
+                    <div class="cs-mega-stats">
+                        <div class="cs-mega-stat"><strong>Multi-site</strong><span>Live sync</span></div>
+                        <div class="cs-mega-stat"><strong>Barcode</strong><span>+ Scanner</span></div>
+                        <div class="cs-mega-stat"><strong>Integrations</strong><span>Tally + more</span></div>
+                        <div class="cs-mega-stat"><strong>Reports</strong><span>Daily</span></div>
+                    </div>
+                    <div class="cs-mega-services-wrap">
+                        <div class="cs-mega-services-label">What we delivered</div>
+                        <div class="cs-mega-services">
+                            <span class="cs-mega-chip"><i class="fas fa-barcode"></i> Barcode + SKU</span>
+                        <span class="cs-mega-chip"><i class="fas fa-map-marker-alt"></i> Multi-location</span>
+                        <span class="cs-mega-chip"><i class="fas fa-sync"></i> Live Sync</span>
+                        <span class="cs-mega-chip"><i class="fas fa-exchange-alt"></i> Tally / ERP Integrations</span>
+                        <span class="cs-mega-chip"><i class="fas fa-truck-loading"></i> Reorder Logic</span>
+                        <span class="cs-mega-chip"><i class="fas fa-chart-area"></i> Reports</span>
+                        </div>
+                    </div>
+                    <div class="cs-mega-ctas">
+                        <a href="/case-studies/saas-inventory-management-retail-chains.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_saas-inventory-management-retail-chains" target="_blank" rel="noopener">Book Similar Call</a>
+                    </div>
+                </div>
+            </article>
+            <article class="cs-mega-card" data-category="b2b logistics saas technology">
+                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#1e40af 0%,#3b82f6 100%);">
+                    <div class="cs-mega-bg-icon"><i class="fas fa-route"></i></div>
+                    <div class="cs-mega-visual-top">
+                        <span class="cs-mega-persona-tag">B2B &middot; Logistics SaaS</span>
+                        
+                    </div>
+                </div>
+                <div class="cs-mega-body">
+                    <h3 class="cs-mega-title">Smart logistics <strong>SaaS platform</strong></h3>
+                    <p class="cs-mega-sub">Fleet + tracking + billing + analytics in one platform.</p>
+                    <div class="cs-mega-stats">
+                        <div class="cs-mega-stat"><strong>SaaS</strong><span>Multi-tenant</span></div>
+                        <div class="cs-mega-stat"><strong>Fleet</strong><span>+ Tracking</span></div>
+                        <div class="cs-mega-stat"><strong>Billing</strong><span>Automated</span></div>
+                        <div class="cs-mega-stat"><strong>API</strong><span>+ Webhooks</span></div>
+                    </div>
+                    <div class="cs-mega-services-wrap">
+                        <div class="cs-mega-services-label">What we delivered</div>
+                        <div class="cs-mega-services">
+                            <span class="cs-mega-chip"><i class="fas fa-truck"></i> Fleet Mgmt</span>
+                        <span class="cs-mega-chip"><i class="fas fa-map-marked-alt"></i> Live Tracking</span>
+                        <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Auto Billing</span>
+                        <span class="cs-mega-chip"><i class="fas fa-chart-line"></i> Analytics</span>
+                        <span class="cs-mega-chip"><i class="fas fa-plug"></i> API + Webhooks</span>
+                        <span class="cs-mega-chip"><i class="fas fa-shield-alt"></i> Role-based Access</span>
+                        </div>
+                    </div>
+                    <div class="cs-mega-ctas">
+                        <a href="/case-studies/smart-logistics-saas-platform.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_smart-logistics-saas-platform" target="_blank" rel="noopener">Book Similar Call</a>
+                    </div>
+                </div>
+            </article>
+            <article class="cs-mega-card" data-category="b2b healthcare technology">
+                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#0c4a6e 0%,#06b6d4 100%);">
+                    <div class="cs-mega-bg-icon"><i class="fas fa-user-md"></i></div>
+                    <div class="cs-mega-visual-top">
+                        <span class="cs-mega-persona-tag">B2B &middot; Healthcare / Telemed</span>
+                        
+                    </div>
+                </div>
+                <div class="cs-mega-body">
+                    <h3 class="cs-mega-title">Telemedicine app <strong>HIPAA + ABDM compliant</strong></h3>
+                    <p class="cs-mega-sub">Video consult + EHR + prescription + payments.</p>
+                    <div class="cs-mega-stats">
+                        <div class="cs-mega-stat"><strong>HIPAA</strong><span>+ ABDM compliant</span></div>
+                        <div class="cs-mega-stat"><strong>Live</strong><span>Video + Chat</span></div>
+                        <div class="cs-mega-stat"><strong>EHR</strong><span>Integrated</span></div>
+                        <div class="cs-mega-stat"><strong>eRx</strong><span>Enabled</span></div>
+                    </div>
+                    <div class="cs-mega-services-wrap">
+                        <div class="cs-mega-services-label">What we delivered</div>
+                        <div class="cs-mega-services">
+                            <span class="cs-mega-chip"><i class="fas fa-video"></i> Video Consult</span>
+                        <span class="cs-mega-chip"><i class="fas fa-file-medical"></i> EHR Records</span>
+                        <span class="cs-mega-chip"><i class="fas fa-prescription"></i> e-Prescription</span>
+                        <span class="cs-mega-chip"><i class="fas fa-shield-virus"></i> HIPAA + ABDM</span>
+                        <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Payments</span>
+                        <span class="cs-mega-chip"><i class="fas fa-mobile-alt"></i> Patient + Doctor Apps</span>
+                        </div>
+                    </div>
+                    <div class="cs-mega-ctas">
+                        <a href="/case-studies/telemedicine-app-hipaa-abdm-compliant.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_telemedicine-app-hipaa-abdm-compliant" target="_blank" rel="noopener">Book Similar Call</a>
+                    </div>
+                </div>
+            </article>
             </div>
 
             <!-- NDA callout: more work we cannot show publicly -->
-            <div class="cs-nda-callout" data-category="d2c b2b">
+            <aside class="cs-nda-callout" data-category="d2c b2b">
                 <div class="cs-nda-icon"><i class="fas fa-user-shield"></i></div>
                 <div>
                     <h3>More work we cannot show publicly</h3>
                     <p>A big chunk of our D2C work &mdash; competitive-sensitive brands, pre-funding stealth launches, enterprise logistics clients &mdash; sits under NDA. On a 30-minute call we can share named references, specific metrics, and even broker a direct call with past clients.</p>
                 </div>
                 <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-nda-cta" data-source="case_study_hub_nda_callout" target="_blank" rel="noopener">Book a 30-min NDA Call <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-            </div>
-
-            <div class="case-study-card" data-category="b2b deeptech technology" style="border-top:4px solid #7c3aed;">
-                <div class="case-study-header" style="background:linear-gradient(135deg,#1a1240,#2c1670);color:#fff;">
-                    <span class="case-study-number" style="color:#c4b5fd;">01</span>
-                    <span class="industry-tag" style="background:rgba(196,181,253,0.15);color:#ddd6fe;border:1px solid rgba(196,181,253,0.3);"><i class="fas fa-atom"></i> Deep Tech &middot; Active Build</span>
-                    <h3 style="color:#fff;">Quantum-Era Data Platform for a Deep-Tech R&amp;D Client</h3>
-                </div>
-                <div class="case-study-body">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-exclamation-circle"></i> The Work</div>
-                            <p>A deep-tech R&amp;D firm (client identity withheld under NDA) operating at the frontier of quantum-era data processing. We are their engineering partner, building the platform designed to execute and process the client&rsquo;s large datasets &mdash; pipelines, infrastructure, observability and roadmap engineering, week after week.</p>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-lightbulb"></i> Our Engagement</div>
-                            <p>A dedicated build pod with deep expertise in <strong>Python development</strong>, <strong>DevOps</strong> and the related stack that runs data-scale platforms in production. Active engagement &mdash; the team owns the codebase, the infrastructure, and the shared roadmap, end to end.</p>
-                        </div>
-                    </div>
-
-                    <div class="case-study-section-title"><i class="fas fa-code"></i> Stack &amp; Disciplines</div>
-                    <div class="mb-4">
-                        <span class="tech-badge">Python</span>
-                        <span class="tech-badge">DevOps &amp; Infrastructure</span>
-                        <span class="tech-badge">Data Pipelines</span>
-                        <span class="tech-badge">Queued / Batched Processing</span>
-                        <span class="tech-badge">Containerised Deploy</span>
-                        <span class="tech-badge">CI/CD</span>
-                        <span class="tech-badge">Observability</span>
-                        <span class="tech-badge">Cloud Infrastructure</span>
-                    </div>
-
-                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> Engagement signals</div>
-                    <div class="results-grid">
-                        <div class="result-item">
-                            <span class="result-number">Active</span>
-                            <span class="result-label">Build in progress at a deep-tech client</span>
-                        </div>
-                        <div class="result-item">
-                            <span class="result-number">Large Datasets</span>
-                            <span class="result-label">Execute &amp; process at scale</span>
-                        </div>
-                        <div class="result-item">
-                            <span class="result-number">Python + DevOps</span>
-                            <span class="result-label">Dedicated specialist team</span>
-                        </div>
-                        <div class="result-item">
-                            <span class="result-number">Roadmap Partner</span>
-                            <span class="result-label">Long-term build engagement</span>
-                        </div>
-                    </div>
-
-                    <div class="case-study-meta">
-                        <span><i class="fas fa-link"></i> Client: a deep-tech client</span>
-                        <span><i class="fas fa-users"></i> Engagement: Active</span>
-                    </div>
-                    <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call case-study-cta" data-source="case_study_hub_the client" target="_blank" rel="noopener">Building a deep-tech product? Book a Call <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                    <a href="case-studies/quantum-era-data-platform.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                </div>
-            </div>
-
-            <!-- Case Study 2 -->
-            <div class="case-study-card" data-category="b2b logistics technology">
-                <div class="case-study-header">
-                    <span class="case-study-number">02</span>
-                    <span class="industry-tag"><i class="fas fa-truck"></i> Logistics</span>
-                    <h3>On-Demand Courier Booking &amp; Delivery Application</h3>
-                </div>
-                <div class="case-study-body">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-exclamation-circle"></i> The Challenge</div>
-                            <p>A growing logistics startup needed a platform to connect customers with nearby courier partners for same-day delivery across multiple cities. Their existing manual process could not scale to meet rising demand.</p>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-lightbulb"></i> Our Solution</div>
-                            <p>Built a full-stack on-demand courier app with a customer app (booking, tracking, payments), courier partner app (job assignments, navigation, earnings dashboard), and admin dashboard (fleet management, analytics, dispute resolution).</p>
-                        </div>
-                    </div>
-
-                    <div class="case-study-section-title"><i class="fas fa-code"></i> Tech Stack</div>
-                    <div class="mb-4">
-                        <span class="tech-badge">Flutter</span>
-                        <span class="tech-badge">Node.js</span>
-                        <span class="tech-badge">Firebase</span>
-                        <span class="tech-badge">Google Maps API</span>
-                        <span class="tech-badge">Razorpay</span>
-                    </div>
-
-                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> Results</div>
-                    <div class="results-grid">
-                        <div class="result-item">
-                            <span class="result-number">5,000+</span>
-                            <span class="result-label">Daily Bookings in 6 Months</span>
-                        </div>
-                        <div class="result-item">
-                            <span class="result-number">35%</span>
-                            <span class="result-label">Reduction in Delivery Time</span>
-                        </div>
-                        <div class="result-item">
-                            <span class="result-number">4.6 &#9733;</span>
-                            <span class="result-label">App Store Rating</span>
-                        </div>
-                        <div class="result-item">
-                            <span class="result-number">200+</span>
-                            <span class="result-label">Courier Partners Onboarded</span>
-                        </div>
-                    </div>
-
-                    <div class="case-study-meta">
-                        <span><i class="fas fa-calendar-alt"></i> Timeline: 5 Months</span>
-                        <span><i class="fas fa-users"></i> Team: 8 Members</span>
-                    </div>
-
-                    <a href="contact-us.php" class="case-study-cta">Start a Similar Project <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                    <a href="case-studies/on-demand-courier-booking-app.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                </div>
-            </div>
-
-            <!-- Case Study 2 -->
-            <div class="case-study-card" data-category="b2b food-b2b technology">
-                <div class="case-study-header">
-                    <span class="case-study-number">03</span>
-                    <span class="industry-tag"><i class="fas fa-fish"></i> Food &amp; Delivery / Hyperlocal Marketplace</span>
-                    <h3>Online Fish Delivery &amp; Marketplace Application</h3>
-                </div>
-                <div class="case-study-body">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-exclamation-circle"></i> The Challenge</div>
-                            <p>A seafood business needed to digitize their operations with an online ordering platform connecting customers to nearby fish markets. Manual phone-based ordering was limiting growth and customer reach.</p>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-lightbulb"></i> Our Solution</div>
-                            <p>Developed a multi-vendor marketplace app with real-time inventory from local markets, scheduled and express delivery options, quality assurance tracking, and a vendor management portal for seamless operations.</p>
-                        </div>
-                    </div>
-
-                    <div class="case-study-section-title"><i class="fas fa-code"></i> Tech Stack</div>
-                    <div class="mb-4">
-                        <span class="tech-badge">React Native</span>
-                        <span class="tech-badge">Laravel</span>
-                        <span class="tech-badge">MySQL</span>
-                        <span class="tech-badge">AWS</span>
-                        <span class="tech-badge">WhatsApp API</span>
-                    </div>
-
-                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> Results</div>
-                    <div class="results-grid">
-                        <div class="result-item">
-                            <span class="result-number">15,000+</span>
-                            <span class="result-label">Registered Customers in 4 Months</span>
-                        </div>
-                        <div class="result-item">
-                            <span class="result-number">800+</span>
-                            <span class="result-label">Daily Orders at Peak</span>
-                        </div>
-                        <div class="result-item">
-                            <span class="result-number">3 Cities</span>
-                            <span class="result-label">Expansion Within First Year</span>
-                        </div>
-                        <div class="result-item">
-                            <span class="result-number">92%</span>
-                            <span class="result-label">Customer Satisfaction Score</span>
-                        </div>
-                    </div>
-
-                    <div class="case-study-meta">
-                        <span><i class="fas fa-calendar-alt"></i> Timeline: 4 Months</span>
-                        <span><i class="fas fa-users"></i> Team: 6 Members</span>
-                    </div>
-
-                    <a href="contact-us.php" class="case-study-cta">Start a Similar Project <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                    <a href="case-studies/online-fish-delivery-marketplace-app.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                </div>
-            </div>
-
-            <!-- Case Study 3 -->
-            <div class="case-study-card" data-category="b2b logistics saas technology">
-                <div class="case-study-header">
-                    <span class="case-study-number">04</span>
-                    <span class="industry-tag"><i class="fas fa-shipping-fast"></i> Logistics / SaaS</span>
-                    <h3>Smart Logistics Platform — Rate Comparison, Booking &amp; End-to-End Delivery Management</h3>
-                </div>
-                <div class="case-study-body">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-exclamation-circle"></i> The Challenge</div>
-                            <p>A logistics aggregator needed a centralized platform to compare shipping rates across multiple courier companies and manage the entire shipment lifecycle from booking to delivery confirmation.</p>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-lightbulb"></i> Our Solution</div>
-                            <p>Built a SaaS logistics platform with a multi-carrier rate comparison engine, automated booking via API integrations with 15+ courier services, real-time tracking dashboard, invoice management, and analytics and reporting modules.</p>
-                        </div>
-                    </div>
-
-                    <div class="case-study-section-title"><i class="fas fa-code"></i> Tech Stack</div>
-                    <div class="mb-4">
-                        <span class="tech-badge">Node.js</span>
-                        <span class="tech-badge">React</span>
-                        <span class="tech-badge">PostgreSQL</span>
-                        <span class="tech-badge">Redis</span>
-                        <span class="tech-badge">AWS</span>
-                        <span class="tech-badge">REST APIs</span>
-                    </div>
-
-                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> Results</div>
-                    <div class="results-grid">
-                        <div class="result-item">
-                            <span class="result-number">50,000+</span>
-                            <span class="result-label">Shipments Processed Monthly</span>
-                        </div>
-                        <div class="result-item">
-                            <span class="result-number">20%</span>
-                            <span class="result-label">Average Cost Savings for Users</span>
-                        </div>
-                        <div class="result-item">
-                            <span class="result-number">15+</span>
-                            <span class="result-label">Carrier Integrations</span>
-                        </div>
-                        <div class="result-item">
-                            <span class="result-number">Rs 2 Cr+</span>
-                            <span class="result-label">GMV Processed in Year One</span>
-                        </div>
-                    </div>
-
-                    <div class="case-study-meta">
-                        <span><i class="fas fa-calendar-alt"></i> Timeline: 7 Months</span>
-                        <span><i class="fas fa-users"></i> Team: 10 Members</span>
-                    </div>
-
-                    <a href="contact-us.php" class="case-study-cta">Start a Similar Project <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                    <a href="case-studies/smart-logistics-saas-platform.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                </div>
-            </div>
-
-            <!-- Case Study 4 -->
-            <div class="case-study-card" data-category="b2b food-b2b technology">
-                <div class="case-study-header">
-                    <span class="case-study-number">05</span>
-                    <span class="industry-tag"><i class="fas fa-utensils"></i> Food &amp; Delivery</span>
-                    <h3>Vendor &amp; Operations Management System for Food Delivery</h3>
-                </div>
-                <div class="case-study-body">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-exclamation-circle"></i> The Challenge</div>
-                            <p>A food delivery platform needed a powerful backend system to manage vendors, orders, deliveries, and operations from a centralized dashboard. Scattered spreadsheets and manual coordination were causing delays and errors.</p>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-lightbulb"></i> Our Solution</div>
-                            <p>Developed an admin and vendor management portal with order lifecycle management, real-time delivery assignment and tracking, vendor onboarding and payout system, and performance analytics for data-driven decisions.</p>
-                        </div>
-                    </div>
-
-                    <div class="case-study-section-title"><i class="fas fa-code"></i> Tech Stack</div>
-                    <div class="mb-4">
-                        <span class="tech-badge">PHP Laravel</span>
-                        <span class="tech-badge">Vue.js</span>
-                        <span class="tech-badge">MySQL</span>
-                        <span class="tech-badge">Firebase Cloud Messaging</span>
-                        <span class="tech-badge">Google Maps</span>
-                    </div>
-
-                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> Results</div>
-                    <div class="results-grid">
-                        <div class="result-item">
-                            <span class="result-number">500+</span>
-                            <span class="result-label">Vendors Managed from One Dashboard</span>
-                        </div>
-                        <div class="result-item">
-                            <span class="result-number">40%</span>
-                            <span class="result-label">Faster Order Processing</span>
-                        </div>
-                        <div class="result-item">
-                            <span class="result-number">99.2%</span>
-                            <span class="result-label">Order Accuracy Rate</span>
-                        </div>
-                        <div class="result-item">
-                            <span class="result-number">Rs 50L</span>
-                            <span class="result-label">Monthly GMV</span>
-                        </div>
-                    </div>
-
-                    <div class="case-study-meta">
-                        <span><i class="fas fa-calendar-alt"></i> Timeline: 4 Months</span>
-                        <span><i class="fas fa-users"></i> Team: 7 Members</span>
-                    </div>
-
-                    <a href="contact-us.php" class="case-study-cta">Start a Similar Project <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                    <a href="case-studies/food-delivery-vendor-operations-system.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                </div>
-            </div>
-
-            <!-- Case Study 5 -->
-            <div class="case-study-card" data-category="b2b logistics technology">
-                <div class="case-study-header">
-                    <span class="case-study-number">06</span>
-                    <span class="industry-tag"><i class="fas fa-box"></i> Logistics</span>
-                    <h3>Courier Management System (Web Application)</h3>
-                </div>
-                <div class="case-study-body">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-exclamation-circle"></i> The Challenge</div>
-                            <p>A courier company needed to replace their Excel-based operations with a professional web system for order management, vendor coordination, invoicing, and sales tracking. Manual processes were causing billing errors and delayed reporting.</p>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-lightbulb"></i> Our Solution</div>
-                            <p>Built a comprehensive web-based CMS with order entry and lifecycle tracking, vendor management with automated payouts, invoice generation and billing, sales team tracking and commission management, and MIS reports with analytics dashboard.</p>
-                        </div>
-                    </div>
-
-                    <div class="case-study-section-title"><i class="fas fa-code"></i> Tech Stack</div>
-                    <div class="mb-4">
-                        <span class="tech-badge">PHP</span>
-                        <span class="tech-badge">jQuery</span>
-                        <span class="tech-badge">MySQL</span>
-                        <span class="tech-badge">Bootstrap</span>
-                        <span class="tech-badge">Chart.js</span>
-                    </div>
-
-                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> Results</div>
-                    <div class="results-grid">
-                        <div class="result-item">
-                            <span class="result-number">70%</span>
-                            <span class="result-label">Reduction in Manual Data Entry</span>
-                        </div>
-                        <div class="result-item">
-                            <span class="result-number">3x Faster</span>
-                            <span class="result-label">Invoice Generation</span>
-                        </div>
-                        <div class="result-item">
-                            <span class="result-number">0%</span>
-                            <span class="result-label">Billing Errors (from 5%)</span>
-                        </div>
-                        <div class="result-item">
-                            <span class="result-number">100%</span>
-                            <span class="result-label">Sales Performance Visibility</span>
-                        </div>
-                    </div>
-
-                    <div class="case-study-meta">
-                        <span><i class="fas fa-calendar-alt"></i> Timeline: 3 Months</span>
-                        <span><i class="fas fa-users"></i> Team: 5 Members</span>
-                    </div>
-
-                    <a href="contact-us.php" class="case-study-cta">Start a Similar Project <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                    <a href="case-studies/courier-management-system.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                </div>
-            </div>
-
-            <!-- Case Study 6: Multi-Vendor Marketplace App (food + grocery) -->
-            <div class="case-study-card" data-category="b2b marketplace food-b2b technology">
-                <div class="case-study-header">
-                    <span class="case-study-number">07</span>
-                    <span class="industry-tag"><i class="fas fa-store"></i> Marketplace · Food &amp; Grocery</span>
-                    <h3>Multi-Vendor Marketplace App for Food &amp; Grocery</h3>
-                </div>
-                <div class="case-study-body">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-exclamation-circle"></i> The Challenge</div>
-                            <p>A regional grocery brand was bleeding 22-28% per order to national aggregators. They needed their own multi-vendor marketplace — customer + vendor + rider apps + admin — to cut commissions and own the customer relationship.</p>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-lightbulb"></i> Our Solution</div>
-                            <p>Built a four-app marketplace on a single Laravel API: customer app (Flutter), vendor app (Flutter), rider app (Flutter), admin web (React). Configuration-first city onboarding. Inventory honesty system cut cancellations from 8% to 1.4%.</p>
-                        </div>
-                    </div>
-                    <div class="case-study-section-title"><i class="fas fa-code"></i> Tech Stack</div>
-                    <div class="mb-4">
-                        <span class="tech-badge">Flutter</span>
-                        <span class="tech-badge">Laravel 10</span>
-                        <span class="tech-badge">MySQL</span>
-                        <span class="tech-badge">Firebase RTDB</span>
-                        <span class="tech-badge">Razorpay</span>
-                        <span class="tech-badge">AWS</span>
-                    </div>
-                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> Results</div>
-                    <div class="results-grid">
-                        <div class="result-item"><span class="result-number">12,000+</span><span class="result-label">Monthly Active Users</span></div>
-                        <div class="result-item"><span class="result-number">320+</span><span class="result-label">Vendors Onboarded</span></div>
-                        <div class="result-item"><span class="result-number">850+</span><span class="result-label">Daily Orders</span></div>
-                        <div class="result-item"><span class="result-number">Zero</span><span class="result-label">Aggregator Commissions</span></div>
-                    </div>
-                    <div class="case-study-meta">
-                        <span><i class="fas fa-calendar-alt"></i> Timeline: 5 Months</span>
-                        <span><i class="fas fa-users"></i> Team: 9 + 1 PM + 2 Designers</span>
-                    </div>
-                    <a href="contact-us.php" class="case-study-cta">Start a Similar Project <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                    <a href="case-studies/multi-vendor-marketplace-app-food-grocery.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                </div>
-            </div>
-
-            <!-- Case Study 7: Telemedicine + HIPAA + ABDM -->
-            <div class="case-study-card" data-category="b2b healthcare technology">
-                <div class="case-study-header">
-                    <span class="case-study-number">08</span>
-                    <span class="industry-tag"><i class="fas fa-stethoscope"></i> Healthcare · Telemedicine</span>
-                    <h3>Telemedicine App with HIPAA &amp; ABDM Compliance</h3>
-                </div>
-                <div class="case-study-body">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-exclamation-circle"></i> The Challenge</div>
-                            <p>A primary-care telehealth startup needed a platform that satisfied HIPAA (US) and ABDM (India) on day one — with FHIR-compliant EHR, doctor verification, and prescription credibility. Without ABDM, no pharmacy fulfilment.</p>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-lightbulb"></i> Our Solution</div>
-                            <p>Patient app + doctor app + EHR + compliance-aware data layer. ABDM HIE-CM consent flow modelled as 11-state machine. Zero compliance incidents in 12 months. Penetration-tested by CERT-In auditor.</p>
-                        </div>
-                    </div>
-                    <div class="case-study-section-title"><i class="fas fa-code"></i> Tech Stack</div>
-                    <div class="mb-4">
-                        <span class="tech-badge">React Native</span>
-                        <span class="tech-badge">NestJS</span>
-                        <span class="tech-badge">PostgreSQL</span>
-                        <span class="tech-badge">FHIR R4</span>
-                        <span class="tech-badge">AWS HIPAA</span>
-                        <span class="tech-badge">ABDM HIE-CM</span>
-                    </div>
-                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> Results</div>
-                    <div class="results-grid">
-                        <div class="result-item"><span class="result-number">80,000+</span><span class="result-label">Patient Records</span></div>
-                        <div class="result-item"><span class="result-number">14,000+</span><span class="result-label">Monthly Consults</span></div>
-                        <div class="result-item"><span class="result-number">320+</span><span class="result-label">Verified Doctors</span></div>
-                        <div class="result-item"><span class="result-number">100%</span><span class="result-label">ABDM-Compliant Rx</span></div>
-                    </div>
-                    <div class="case-study-meta">
-                        <span><i class="fas fa-calendar-alt"></i> Timeline: 9 Months</span>
-                        <span><i class="fas fa-users"></i> Team: 11 + 1 PM + 1 Compliance Lead</span>
-                    </div>
-                    <a href="contact-us.php" class="case-study-cta">Start a Similar Project <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                    <a href="case-studies/telemedicine-app-hipaa-abdm-compliant.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                </div>
-            </div>
-
-            <!-- Case Study 8: D2C E-Commerce App (Fashion) -->
-            <div class="case-study-card" data-category="d2c fashion technology">
-                <div class="case-study-header">
-                    <span class="case-study-number">09</span>
-                    <span class="industry-tag"><i class="fas fa-tshirt"></i> E-Commerce · D2C</span>
-                    <h3>D2C E-Commerce Mobile App for a Fashion Brand</h3>
-                </div>
-                <div class="case-study-body">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-exclamation-circle"></i> The Challenge</div>
-                            <p>A D2C fashion brand was paying Meta Rs 1,400 per acquisition while ending up with 14% repeat-rate and a stagnant LTV. Marketplaces ate margin and customer data. They needed an owned-app channel that drove repeat without paid spend.</p>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-lightbulb"></i> Our Solution</div>
-                            <p>Flutter app on Shopify Storefront API + Klaviyo + WhatsApp engagement loop. Push-driven re-engagement, post-purchase WhatsApp flow, and a wardrobe-style profile that lifted repeat rate to 41%. Cut CAC 38% in five months.</p>
-                        </div>
-                    </div>
-                    <div class="case-study-section-title"><i class="fas fa-code"></i> Tech Stack</div>
-                    <div class="mb-4">
-                        <span class="tech-badge">Flutter</span>
-                        <span class="tech-badge">Node.js</span>
-                        <span class="tech-badge">Shopify Storefront API</span>
-                        <span class="tech-badge">Klaviyo</span>
-                        <span class="tech-badge">WhatsApp Cloud API</span>
-                        <span class="tech-badge">Razorpay</span>
-                    </div>
-                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> Results</div>
-                    <div class="results-grid">
-                        <div class="result-item"><span class="result-number">38%</span><span class="result-label">CAC Reduction</span></div>
-                        <div class="result-item"><span class="result-number">41%</span><span class="result-label">Repeat-Order Rate</span></div>
-                        <div class="result-item"><span class="result-number">Rs 4.2 Cr</span><span class="result-label">App-Driven GMV</span></div>
-                        <div class="result-item"><span class="result-number">4.8 &#9733;</span><span class="result-label">App Rating</span></div>
-                    </div>
-                    <div class="case-study-meta">
-                        <span><i class="fas fa-calendar-alt"></i> Timeline: 4 Months</span>
-                        <span><i class="fas fa-users"></i> Team: 6 + 1 PM + 1 Designer</span>
-                    </div>
-                    <a href="contact-us.php" class="case-study-cta">Start a Similar Project <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                    <a href="case-studies/d2c-ecommerce-mobile-app-fashion-brand.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                </div>
-            </div>
-
-            <!-- Case Study 9: Fleet Management SaaS (3PL Logistics) -->
-            <div class="case-study-card" data-category="b2b logistics saas technology">
-                <div class="case-study-header">
-                    <span class="case-study-number">10</span>
-                    <span class="industry-tag"><i class="fas fa-truck-moving"></i> Logistics · 3PL · SaaS</span>
-                    <h3>Fleet Management SaaS for a 14-Hub 3PL</h3>
-                </div>
-                <div class="case-study-body">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-exclamation-circle"></i> The Challenge</div>
-                            <p>A 14-hub 3PL was running on a tangle of carrier portals, Excel and WhatsApp. Cost-per-delivery was creeping; lost shipments were eroding contracts. They needed a single platform spanning hub-to-hub, last-mile, fleet, and customer billing.</p>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-lightbulb"></i> Our Solution</div>
-                            <p>Custom SaaS with hub-ops console, driver app, customer portal, and a route-optimisation engine. Cut cost-per-delivery 22%, hit zero lost shipments in the first 90 days. NestJS + Postgres + Bull queues across 50,000+ monthly shipments.</p>
-                        </div>
-                    </div>
-                    <div class="case-study-section-title"><i class="fas fa-code"></i> Tech Stack</div>
-                    <div class="mb-4">
-                        <span class="tech-badge">NestJS</span>
-                        <span class="tech-badge">PostgreSQL</span>
-                        <span class="tech-badge">Bull MQ</span>
-                        <span class="tech-badge">Flutter</span>
-                        <span class="tech-badge">React</span>
-                        <span class="tech-badge">Google OR-Tools</span>
-                    </div>
-                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> Results</div>
-                    <div class="results-grid">
-                        <div class="result-item"><span class="result-number">22%</span><span class="result-label">Cost-Per-Delivery Cut</span></div>
-                        <div class="result-item"><span class="result-number">50,000+</span><span class="result-label">Monthly Shipments</span></div>
-                        <div class="result-item"><span class="result-number">Zero</span><span class="result-label">Lost Shipments (90-day)</span></div>
-                        <div class="result-item"><span class="result-number">14</span><span class="result-label">Hubs Live</span></div>
-                    </div>
-                    <div class="case-study-meta">
-                        <span><i class="fas fa-calendar-alt"></i> Timeline: 7 Months</span>
-                        <span><i class="fas fa-users"></i> Team: 9 + 1 PM</span>
-                    </div>
-                    <a href="contact-us.php" class="case-study-cta">Start a Similar Project <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                    <a href="case-studies/fleet-management-saas-3pl-logistics.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                </div>
-            </div>
-
-            <!-- Case Study 10: Cross-Border Courier Platform -->
-            <div class="case-study-card" data-category="b2b logistics saas technology">
-                <div class="case-study-header">
-                    <span class="case-study-number">11</span>
-                    <span class="industry-tag"><i class="fas fa-globe-asia"></i> Logistics · Cross-Border</span>
-                    <h3>Cross-Border Courier Platform (India · UAE · UK)</h3>
-                </div>
-                <div class="case-study-body">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-exclamation-circle"></i> The Challenge</div>
-                            <p>A cross-border courier ran into 11% customs holds, 9% invoice disputes, six carriers with six APIs, and three currencies. Domestic platforms broke at every cross-border seam. They needed one platform with a customs rules engine and multi-PSP billing.</p>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-lightbulb"></i> Our Solution</div>
-                            <p>Single API surface across 6 carriers, a configurable customs rules engine, multi-currency invoicing on Stripe + Razorpay multi-PSP. Hit 99.4% on-time, 0.4% customs holds, 0.5% invoice disputes. India ↔ UAE ↔ UK live; Singapore in design.</p>
-                        </div>
-                    </div>
-                    <div class="case-study-section-title"><i class="fas fa-code"></i> Tech Stack</div>
-                    <div class="mb-4">
-                        <span class="tech-badge">NestJS</span>
-                        <span class="tech-badge">PostgreSQL</span>
-                        <span class="tech-badge">Stripe</span>
-                        <span class="tech-badge">Razorpay</span>
-                        <span class="tech-badge">React</span>
-                        <span class="tech-badge">AWS Multi-Region</span>
-                    </div>
-                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> Results</div>
-                    <div class="results-grid">
-                        <div class="result-item"><span class="result-number">99.4%</span><span class="result-label">On-Time Delivery</span></div>
-                        <div class="result-item"><span class="result-number">9,000+</span><span class="result-label">Monthly Shipments</span></div>
-                        <div class="result-item"><span class="result-number">0.4%</span><span class="result-label">Customs Holds (from 11%)</span></div>
-                        <div class="result-item"><span class="result-number">Rs 4.6 Cr</span><span class="result-label">Annual Revenue Recovered</span></div>
-                    </div>
-                    <div class="case-study-meta">
-                        <span><i class="fas fa-calendar-alt"></i> Timeline: 6 Months</span>
-                        <span><i class="fas fa-users"></i> Team: 8 + 1 PM</span>
-                    </div>
-                    <a href="contact-us.php" class="case-study-cta">Start a Similar Project <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                    <a href="case-studies/cross-border-courier-platform-saas.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                </div>
-            </div>
-
-            <!-- Case Study 11: Restaurant POS + Online Ordering -->
-            <div class="case-study-card" data-category="b2b food-b2b technology">
-                <div class="case-study-header">
-                    <span class="case-study-number">12</span>
-                    <span class="industry-tag"><i class="fas fa-utensils"></i> Restaurant · POS</span>
-                    <h3>Restaurant POS &amp; Online Ordering Platform (14-Outlet QSR)</h3>
-                </div>
-                <div class="case-study-body">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-exclamation-circle"></i> The Challenge</div>
-                            <p>A 14-outlet QSR chain was leaking 25-28% of every order to aggregators. They needed an owned POS, customer ordering app, and kitchen display — to bring orders back to their channel and end the aggregator margin tax.</p>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-lightbulb"></i> Our Solution</div>
-                            <p>Customer app + POS terminal + kitchen display + admin web. ESC/POS direct printer integration, offline-tolerant POS with local-first SQLite, central master menu. Cut commissions 38%, saved Rs 1.4 Cr annually.</p>
-                        </div>
-                    </div>
-                    <div class="case-study-section-title"><i class="fas fa-code"></i> Tech Stack</div>
-                    <div class="mb-4">
-                        <span class="tech-badge">Flutter</span>
-                        <span class="tech-badge">NestJS</span>
-                        <span class="tech-badge">PostgreSQL</span>
-                        <span class="tech-badge">Redis</span>
-                        <span class="tech-badge">Razorpay</span>
-                        <span class="tech-badge">ESC/POS</span>
-                    </div>
-                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> Results</div>
-                    <div class="results-grid">
-                        <div class="result-item"><span class="result-number">38%</span><span class="result-label">Aggregator Commissions Cut</span></div>
-                        <div class="result-item"><span class="result-number">14</span><span class="result-label">Outlets Live</span></div>
-                        <div class="result-item"><span class="result-number">28%</span><span class="result-label">Repeat-Order Rate</span></div>
-                        <div class="result-item"><span class="result-number">Rs 1.4 Cr</span><span class="result-label">Annual Savings</span></div>
-                    </div>
-                    <div class="case-study-meta">
-                        <span><i class="fas fa-calendar-alt"></i> Timeline: 5 Months</span>
-                        <span><i class="fas fa-users"></i> Team: 7 + 1 PM + 1 Designer</span>
-                    </div>
-                    <a href="contact-us.php" class="case-study-cta">Start a Similar Project <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                    <a href="case-studies/restaurant-pos-online-ordering-platform.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                </div>
-            </div>
-
-            <!-- Case Study 12: Real-Estate CRM + WhatsApp -->
-            <div class="case-study-card" data-category="b2b realestate whatsapp">
-                <div class="case-study-header">
-                    <span class="case-study-number">13</span>
-                    <span class="industry-tag"><i class="fas fa-building"></i> Real Estate · CRM</span>
-                    <h3>Real-Estate CRM with WhatsApp Automation</h3>
-                </div>
-                <div class="case-study-body">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-exclamation-circle"></i> The Challenge</div>
-                            <p>A 9-property residential developer was burning Rs 800 per portal lead and converting 0.8% to site visits. Time-to-first-touch averaged 14 hours. Channel partners had no app, no visibility, no skin in the game.</p>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-lightbulb"></i> Our Solution</div>
-                            <p>CRM + sales-team app + channel-partner app + WhatsApp Cloud API engine. Multi-source lead ingestion, instant ack, drip nurture, partner self-service. Lifted site-visit conversion 4.2x; cut average response time to 48 seconds.</p>
-                        </div>
-                    </div>
-                    <div class="case-study-section-title"><i class="fas fa-code"></i> Tech Stack</div>
-                    <div class="mb-4">
-                        <span class="tech-badge">Laravel 10</span>
-                        <span class="tech-badge">PostgreSQL</span>
-                        <span class="tech-badge">React</span>
-                        <span class="tech-badge">React Native</span>
-                        <span class="tech-badge">WhatsApp Cloud API</span>
-                        <span class="tech-badge">Twilio</span>
-                    </div>
-                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> Results</div>
-                    <div class="results-grid">
-                        <div class="result-item"><span class="result-number">4.2x</span><span class="result-label">Site-Visit Conversion</span></div>
-                        <div class="result-item"><span class="result-number">28,000+</span><span class="result-label">Leads Managed</span></div>
-                        <div class="result-item"><span class="result-number">87%</span><span class="result-label">WhatsApp Open Rate</span></div>
-                        <div class="result-item"><span class="result-number">48 sec</span><span class="result-label">Avg First-Response</span></div>
-                    </div>
-                    <div class="case-study-meta">
-                        <span><i class="fas fa-calendar-alt"></i> Timeline: 5 Months</span>
-                        <span><i class="fas fa-users"></i> Team: 6 + 1 PM + 1 RevOps</span>
-                    </div>
-                    <a href="contact-us.php" class="case-study-cta">Start a Similar Project <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                    <a href="case-studies/real-estate-crm-whatsapp-automation.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                </div>
-            </div>
-
-            <!-- Case Study 13: NBFC Loan Origination -->
-            <div class="case-study-card" data-category="b2b fintech technology">
-                <div class="case-study-header">
-                    <span class="case-study-number">14</span>
-                    <span class="industry-tag"><i class="fas fa-money-check-alt"></i> Fintech · NBFC</span>
-                    <h3>NBFC Loan Origination Platform — Same-Day Disbursal at Scale</h3>
-                </div>
-                <div class="case-study-body">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-exclamation-circle"></i> The Challenge</div>
-                            <p>An NBFC was disbursing personal loans on a 22-day TAT — competitive death in a sector where neo-banks promise same-day. Manual KYC, late bureau pulls, hard-coded policy, RBI digital-lending audit gaps. Nine-month deadline.</p>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-lightbulb"></i> Our Solution</div>
-                            <p>Borrower app + agent app + underwriting console + configurable rules engine + AA-orchestrated KYC/bureau. Java Spring core with immutable hash-chained audit trail. Compressed TAT to under 24h for 78% of loans. Zero RBI audit findings.</p>
-                        </div>
-                    </div>
-                    <div class="case-study-section-title"><i class="fas fa-code"></i> Tech Stack</div>
-                    <div class="mb-4">
-                        <span class="tech-badge">Java Spring Boot 3</span>
-                        <span class="tech-badge">PostgreSQL</span>
-                        <span class="tech-badge">Kafka</span>
-                        <span class="tech-badge">React Native</span>
-                        <span class="tech-badge">React</span>
-                        <span class="tech-badge">AWS Multi-Region</span>
-                    </div>
-                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> Results</div>
-                    <div class="results-grid">
-                        <div class="result-item"><span class="result-number">&lt;24h</span><span class="result-label">TAT for 78% of Loans</span></div>
-                        <div class="result-item"><span class="result-number">14,000+</span><span class="result-label">Monthly Applications</span></div>
-                        <div class="result-item"><span class="result-number">Rs 320 Cr</span><span class="result-label">Monthly Gross Disbursal</span></div>
-                        <div class="result-item"><span class="result-number">Zero</span><span class="result-label">RBI Audit Findings</span></div>
-                    </div>
-                    <div class="case-study-meta">
-                        <span><i class="fas fa-calendar-alt"></i> Timeline: 11 Months</span>
-                        <span><i class="fas fa-users"></i> Team: 13 + 1 PM + 2 Compliance</span>
-                    </div>
-                    <a href="contact-us.php" class="case-study-cta">Start a Similar Project <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                    <a href="case-studies/nbfc-loan-origination-dashboard-fintech.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                </div>
-            </div>
-
-            <!-- Case Study 14: EdTech LMS -->
-            <div class="case-study-card" data-category="b2b education technology">
-                <div class="case-study-header">
-                    <span class="case-study-number">15</span>
-                    <span class="industry-tag"><i class="fas fa-graduation-cap"></i> EdTech · LMS</span>
-                    <h3>EdTech LMS with Live Classes (60,000 Students)</h3>
-                </div>
-                <div class="case-study-body">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-exclamation-circle"></i> The Challenge</div>
-                            <p>An EdTech startup was running on free Zoom + WhatsApp + Google Drive. The system fell over at 4,000 students. Parents had zero visibility. Mocks took 3-4 days to grade. They needed a real platform to capture the next admission cycle.</p>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-lightbulb"></i> Our Solution</div>
-                            <p>Student + teacher + parent + admin apps with self-hosted WebRTC SFU (mediasoup). HLS-streamed VOD, instant-grade mocks, parent visibility. Saved Rs 18L/month vs managed SFUs. 92% live class uptime at the student edge.</p>
-                        </div>
-                    </div>
-                    <div class="case-study-section-title"><i class="fas fa-code"></i> Tech Stack</div>
-                    <div class="mb-4">
-                        <span class="tech-badge">React Native</span>
-                        <span class="tech-badge">React</span>
-                        <span class="tech-badge">Node.js</span>
-                        <span class="tech-badge">mediasoup (WebRTC)</span>
-                        <span class="tech-badge">FFmpeg</span>
-                        <span class="tech-badge">AWS CloudFront</span>
-                    </div>
-                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> Results</div>
-                    <div class="results-grid">
-                        <div class="result-item"><span class="result-number">60,000+</span><span class="result-label">Active Students</span></div>
-                        <div class="result-item"><span class="result-number">220+</span><span class="result-label">Teachers Onboarded</span></div>
-                        <div class="result-item"><span class="result-number">92%</span><span class="result-label">Live Class Uptime</span></div>
-                        <div class="result-item"><span class="result-number">38%</span><span class="result-label">Cancellation Drop</span></div>
-                    </div>
-                    <div class="case-study-meta">
-                        <span><i class="fas fa-calendar-alt"></i> Timeline: 9 Months</span>
-                        <span><i class="fas fa-users"></i> Team: 10 + 1 PM + 1 Designer</span>
-                    </div>
-                    <a href="contact-us.php" class="case-study-cta">Start a Similar Project <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                    <a href="case-studies/edtech-lms-live-classes-platform.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                </div>
-            </div>
-
-            <!-- Case Study 15: SaaS Inventory + Restaurant Vendor Ops -->
-            <div class="case-study-card" data-category="b2b saas technology">
-                <div class="case-study-header">
-                    <span class="case-study-number">16</span>
-                    <span class="industry-tag"><i class="fas fa-boxes"></i> SaaS · Multi-Tenant Retail</span>
-                    <h3>SaaS Inventory Management for 60+ Retail Stores</h3>
-                </div>
-                <div class="case-study-body">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-exclamation-circle"></i> The Challenge</div>
-                            <p>A retail chain wanted to productise their internal inventory tooling and resell it. The legacy app was hard-coded for one chain, single-tenant, deskbound. Onboarding new chains was a 6-week dev project — that is not a SaaS.</p>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="case-study-section-title"><i class="fas fa-lightbulb"></i> Our Solution</div>
-                            <p>Multi-tenant rebuild with row-level org_id + RLS, configurable rules engine, Flutter scanner app (turns any phone into a scanner). 4 chains live, 60+ stores, 45% stockout reduction. Onboarding new chains: 3-5 days vs 6 weeks.</p>
-                        </div>
-                    </div>
-                    <div class="case-study-section-title"><i class="fas fa-code"></i> Tech Stack</div>
-                    <div class="mb-4">
-                        <span class="tech-badge">NestJS</span>
-                        <span class="tech-badge">PostgreSQL (RLS)</span>
-                        <span class="tech-badge">Redis</span>
-                        <span class="tech-badge">React</span>
-                        <span class="tech-badge">Flutter</span>
-                        <span class="tech-badge">AWS</span>
-                    </div>
-                    <div class="case-study-section-title"><i class="fas fa-chart-line"></i> Results</div>
-                    <div class="results-grid">
-                        <div class="result-item"><span class="result-number">60+</span><span class="result-label">Retail Stores Live</span></div>
-                        <div class="result-item"><span class="result-number">4</span><span class="result-label">Customer Chains</span></div>
-                        <div class="result-item"><span class="result-number">45%</span><span class="result-label">Stockout Reduction</span></div>
-                        <div class="result-item"><span class="result-number">3-5 days</span><span class="result-label">New Chain Onboarding</span></div>
-                    </div>
-                    <div class="case-study-meta">
-                        <span><i class="fas fa-calendar-alt"></i> Timeline: 7 Months</span>
-                        <span><i class="fas fa-users"></i> Team: 8 + 1 PM + 1 SaaS-PM</span>
-                    </div>
-                    <a href="contact-us.php" class="case-study-cta">Start a Similar Project <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                    <a href="case-studies/saas-inventory-management-retail-chains.php" class="cs-detail-link">View Full Case Study <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
-                </div>
-            </div>
-
+            </aside>
         </div>
     </div>
+
     <!-- End Case Studies Section -->
 
     <!-- Start Testimonials Section
     ============================================= -->
-    <section class="cs-section alt" aria-labelledby="cs-testimonials-title">
-        <div class="container">
-            <div class="cs-section-head">
-                <div class="cs-section-eyebrow">What clients say</div>
-                <h2 class="cs-section-title" id="cs-testimonials-title">Founders, ops leads, and CTOs we've shipped for</h2>
-                <p class="cs-section-sub">Short quotes from the people who used the platforms day to day.</p>
-            </div>
-            <div class="row">
-                <div class="col-lg-6 col-md-6 mb-4">
-                    <div class="cs-testimonial">
-                        <div class="cs-testimonial-stars"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></div>
-                        <p class="cs-testimonial-quote">"We went from spreadsheet chaos to running 5,000+ daily bookings on a single dashboard. Driver app dispatch alone saved us two full-time coordinators."</p>
-                        <div class="cs-testimonial-author">Operations Director</div>
-                        <div class="cs-testimonial-role">On-Demand Courier Platform · Mumbai</div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 mb-4">
-                    <div class="cs-testimonial">
-                        <div class="cs-testimonial-stars"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></div>
-                        <p class="cs-testimonial-quote">"The multi-carrier rate engine paid for the whole build within six months. Our customers save 18–22% on average and we don't have to babysit carrier APIs anymore."</p>
-                        <div class="cs-testimonial-author">Co-Founder &amp; CTO</div>
-                        <div class="cs-testimonial-role">Logistics SaaS Startup · Bangalore</div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 mb-4">
-                    <div class="cs-testimonial">
-                        <div class="cs-testimonial-stars"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></div>
-                        <p class="cs-testimonial-quote">"Billing used to be our #1 customer complaint. After switching to the new CMS, invoice errors went to zero and we generate MIS reports in minutes instead of days."</p>
-                        <div class="cs-testimonial-author">Finance Head</div>
-                        <div class="cs-testimonial-role">Regional Courier Company · India</div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 mb-4">
-                    <div class="cs-testimonial">
-                        <div class="cs-testimonial-stars"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></div>
-                        <p class="cs-testimonial-quote">"ITD's team shipped our hyperlocal marketplace faster than our internal estimates. Four months from wireframe to 15,000 registered users — they knew what to cut and what to build first."</p>
-                        <div class="cs-testimonial-author">Founder</div>
-                        <div class="cs-testimonial-role">Hyperlocal Seafood Marketplace · Kochi</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End Testimonials Section -->
-
-    <!-- Start Delivery Process Section
-    ============================================= -->
-    <section class="cs-section" aria-labelledby="cs-process-title">
-        <div class="container">
-            <div class="cs-section-head">
-                <div class="cs-section-eyebrow">Our delivery process</div>
-                <h2 class="cs-section-title" id="cs-process-title">How every project ships</h2>
-                <p class="cs-section-sub">A 5-phase sequence refined over 300+ projects. Each phase has a clear exit criterion so the next one starts with the right inputs.</p>
-            </div>
-            <div class="cs-process-grid">
-                <div class="cs-process-card">
-                    <div class="cs-process-icon"><i class="fas fa-search"></i></div>
-                    <h4>1. Discovery</h4>
-                    <p>Goal workshop, user flow mapping, feature-scope freeze, and technology decisions. Exits with a signed-off BRD.</p>
-                </div>
-                <div class="cs-process-card">
-                    <div class="cs-process-icon"><i class="fas fa-pencil-ruler"></i></div>
-                    <h4>2. UX &amp; design</h4>
-                    <p>Wireframes, clickable prototypes, visual design system, and mobile/responsive breakpoints. Exits with client sign-off on every screen.</p>
-                </div>
-                <div class="cs-process-card">
-                    <div class="cs-process-icon"><i class="fas fa-code"></i></div>
-                    <h4>3. Engineering</h4>
-                    <p>Weekly sprints, demo calls, staging deploys. API-first build with automated tests. Exits with feature-complete staging build.</p>
-                </div>
-                <div class="cs-process-card">
-                    <div class="cs-process-icon"><i class="fas fa-vial"></i></div>
-                    <h4>4. QA &amp; launch</h4>
-                    <p>Device/browser matrix tests, load tests, payment gateway verification, app-store submission, production cutover. Exits with go-live sign-off.</p>
-                </div>
-                <div class="cs-process-card">
-                    <div class="cs-process-icon"><i class="fas fa-headset"></i></div>
-                    <h4>5. Support</h4>
-                    <p>3 months bug-fix cover free, then optional AMC for monitoring, security patches, and roadmap upgrades. Most logistics clients stay on AMC.</p>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End Delivery Process Section -->
-
-    <!-- Start FAQ Section
-    ============================================= -->
+    <!-- SEO / AEO / GEO Case Study FAQ -->
     <section class="cs-section alt" aria-labelledby="cs-faq-title">
         <div class="container">
             <div class="cs-section-head">
                 <div class="cs-section-eyebrow">Frequently asked</div>
-                <h2 class="cs-section-title" id="cs-faq-title">Questions we get before a kickoff call</h2>
-                <p class="cs-section-sub">Answered from 300+ projects. If your question isn't here, drop us a line — we reply within one business day.</p>
+                <h2 id="cs-faq-title" class="cs-section-title">Questions prospective clients ask</h2>
+                <p class="cs-section-sub">The things people usually want to know before booking a call.</p>
             </div>
-            <div class="row">
-                <div class="col-lg-10 offset-lg-1">
-                    <details class="cs-faq-item" open>
-                        <summary class="cs-faq-q">How long does it take to build a logistics or courier app?</summary>
-                        <div class="cs-faq-a">A production-grade logistics app with customer app, driver app, and admin dashboard typically takes 4–7 months depending on scope. MVPs with core booking and tracking flows can ship in 3–4 months. Our team averages 4–6 months for full delivery, including API integrations with courier partners, payment gateways, and mapping services.</div>
-                    </details>
-                    <details class="cs-faq-item">
-                        <summary class="cs-faq-q">Which industries does ITD GrowthLabs build software for?</summary>
-                        <div class="cs-faq-a">Our deepest expertise is logistics and courier management (5,000+ daily bookings at scale), but we also build for hyperlocal marketplaces, food delivery, fintech, healthcare, SaaS, education, and D2C e-commerce. Over 300 projects across India, USA, UK, UAE, and Australia.</div>
-                    </details>
-                    <details class="cs-faq-item">
-                        <summary class="cs-faq-q">Do I own the source code and infrastructure after the project?</summary>
-                        <div class="cs-faq-a">Yes. Clients receive full source code, IP assignment, and complete handover of infrastructure accounts (AWS, Firebase, app stores, payment gateways). We do not lock clients into proprietary licensing — every build is delivered as a transferable asset.</div>
-                    </details>
-                    <details class="cs-faq-item">
-                        <summary class="cs-faq-q">How much does a logistics app development project cost?</summary>
-                        <div class="cs-faq-a">Logistics app costs in India typically range from INR 6–8 lakh for a focused MVP to INR 25–40 lakh for a full multi-app platform with driver app, customer app, admin panel, and API integrations. Pricing depends on feature depth, integrations, and team size. See our <a href="products/courier-management-software.php">Courier Management Software</a> product page for a fixed-scope option starting at INR 1.5 lakh.</div>
-                    </details>
-                    <details class="cs-faq-item">
-                        <summary class="cs-faq-q">Do you provide post-launch support and maintenance?</summary>
-                        <div class="cs-faq-a">Yes. Every project includes 3 months of free bug-fix support, followed by optional monthly AMC packages covering infrastructure monitoring, security patches, minor feature additions, and performance optimization. Most logistics clients stay on AMC to keep pace with carrier API changes and OS updates.</div>
-                    </details>
-                    <details class="cs-faq-item">
-                        <summary class="cs-faq-q">How is customer and shipment data secured in your platforms?</summary>
-                        <div class="cs-faq-a">All our builds use HTTPS/TLS 1.2+, encrypted-at-rest databases, role-based access control, and audit logging. Payment integrations are PCI-DSS compliant via gateway providers (Razorpay, Stripe). For enterprise clients we add VPC deployment, IP whitelisting, and SOC 2-aligned operational procedures.</div>
-                    </details>
-                </div>
+            <div class="cs-faq-list">
+                <details class="cs-faq-item">
+                    <summary class="cs-faq-q">Do you work with D2C brands or only B2B / Enterprise?</summary>
+                    <div class="cs-faq-a">Both. Roughly half our book is D2C marketing (skincare, jewelry, fashion, beauty, food, wellness) and half is B2B / enterprise technology (logistics SaaS, fintech, healthcare, marketplaces, deep-tech). Pick the persona at the top of this page to see work that looks like yours.</div>
+                </details>
+                <details class="cs-faq-item">
+                    <summary class="cs-faq-q">Why are most of your D2C case studies anonymized?</summary>
+                    <div class="cs-faq-a">D2C is a fiercely competitive space. Most of our brand clients prefer confidentiality while they are still scaling — competitors watching their creative, ad spend ratios, or vendor stack is a real risk. On a 30-minute discovery call we are happy to share the brand name, named references, and specific metrics under NDA.</div>
+                </details>
+                <details class="cs-faq-item">
+                    <summary class="cs-faq-q">Can you share named client references?</summary>
+                    <div class="cs-faq-a">Yes, after a short discovery call. We can connect you directly with past clients — founders, CMOs, Heads of Growth — to ask about delivery quality, attribution honesty, and what it is like to work with the team. We do not route reference calls through us; you talk to them directly.</div>
+                </details>
+                <details class="cs-faq-item">
+                    <summary class="cs-faq-q">What is the typical duration of a D2C engagement?</summary>
+                    <div class="cs-faq-a">Minimum 6 months to see compounding; most mature engagements run 12 to 24 months. Our skincare case study on this page is a 24-month engagement that scaled from Rs 15L to Rs 2 Cr monthly revenue. We also run shorter 90-day sprints for brands that want to test fit before committing.</div>
+                </details>
+                <details class="cs-faq-item">
+                    <summary class="cs-faq-q">What is the minimum budget to work with ITD?</summary>
+                    <div class="cs-faq-a">Our D2C Growth tier starts at Rs 1 to 1.5L per month retainer (ad spend is pass-through, billed by the client directly on platforms). Enterprise B2B platform builds are typically Rs 15L+ per quarter depending on scope. We publish all tier pricing on <a href="/pricing.php">pricing.php</a>.</div>
+                </details>
+                <details class="cs-faq-item">
+                    <summary class="cs-faq-q">Do you work internationally?</summary>
+                    <div class="cs-faq-a">Yes. Active engagements across India, UAE (Dubai, Abu Dhabi), Saudi Arabia (Riyadh, Jeddah), UK, US, and Australia. Our skincare case study expanded into Dubai + Abu Dhabi + Riyadh + Jeddah with trilingual creative + Snapchat + local compliance. See our <a href="/services/digital-marketing-dubai.php">Dubai page</a> and <a href="/services/digital-marketing-london.php">London page</a>.</div>
+                </details>
+                <details class="cs-faq-item">
+                    <summary class="cs-faq-q">What is included in a 30-minute discovery call?</summary>
+                    <div class="cs-faq-a">A direct call with senior leadership (not an SDR). We review your current attribution, ROAS, repeat rate, retention funnel or your product roadmap. You walk away with a 90-day action plan, named references, and a fixed-quote proposal within 48 hours. Zero commitment.</div>
+                </details>
+                <details class="cs-faq-item">
+                    <summary class="cs-faq-q">How is ITD different from a traditional creative agency?</summary>
+                    <div class="cs-faq-a">We are a tech + marketing studio, not a creative shop. We rebuild attribution, write production code, run performance ads, build the subscription funnel, ship the mobile app &mdash; often inside the same engagement. One of our skincare clients ran the SEO silo, the WhatsApp CRM, and the subscription infrastructure all through our pod. Agencies hand you a deck; we hand you a working system.</div>
+                </details>
+                <details class="cs-faq-item">
+                    <summary class="cs-faq-q">Can you help us if we are pre-launch?</summary>
+                    <div class="cs-faq-a">Yes. We have pre-funding stealth launches on both sides &mdash; D2C brands that are weeks away from first product drop, and B2B platforms that are code-first and not yet in market. We help with brand positioning, Shopify / app build, launch creative, first retention loops, and first-paid-spend playbooks.</div>
+                </details>
+                <details class="cs-faq-item">
+                    <summary class="cs-faq-q">What tech stack do you build B2B platforms on?</summary>
+                    <div class="cs-faq-a">Backend: Python, Node, PHP (Laravel), Go for high-throughput services. Frontend: React, Next.js, Vue. Mobile: Flutter + native iOS / Android. Infra: AWS + GCP + DigitalOcean, containerised, CI/CD. Data: PostgreSQL, Mongo, Redis, Kafka. We pick stack to fit the problem; we don't do framework-first builds.</div>
+                </details>
+            </div>
+            <div style="text-align:center; margin-top:36px;">
+                <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call" data-source="cs_faq_cta" target="_blank" rel="noopener" style="display:inline-block; padding:16px 36px; background:var(--color-primary); color:#fff; border-radius:10px; font-weight:700; font-size:15px; text-decoration:none; box-shadow:0 10px 28px rgba(241,111,48,0.25);">Have a different question? Book a 30-min Call <i class="fas fa-arrow-right" style="margin-left:8px;"></i></a>
             </div>
         </div>
     </section>
+
+    <!-- FAQPage schema for SEO + AEO + GEO -->
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do you work with D2C brands or only B2B / Enterprise?","acceptedAnswer":{"@type":"Answer","text":"Both. Roughly half our book is D2C marketing (skincare, jewelry, fashion, beauty, food, wellness) and half is B2B / enterprise technology (logistics SaaS, fintech, healthcare, marketplaces, deep-tech). Pick the persona at the top of this page to see work that looks like yours."}},{"@type":"Question","name":"Why are most of your D2C case studies anonymized?","acceptedAnswer":{"@type":"Answer","text":"D2C is a fiercely competitive space. Most of our brand clients prefer confidentiality while they are still scaling \u2014 competitors watching their creative, ad spend ratios, or vendor stack is a real risk. On a 30-minute discovery call we are happy to share the brand name, named references, and specific metrics under NDA."}},{"@type":"Question","name":"Can you share named client references?","acceptedAnswer":{"@type":"Answer","text":"Yes, after a short discovery call. We can connect you directly with past clients \u2014 founders, CMOs, Heads of Growth \u2014 to ask about delivery quality, attribution honesty, and what it is like to work with the team. We do not route reference calls through us; you talk to them directly."}},{"@type":"Question","name":"What is the typical duration of a D2C engagement?","acceptedAnswer":{"@type":"Answer","text":"Minimum 6 months to see compounding; most mature engagements run 12 to 24 months. Our skincare case study on this page is a 24-month engagement that scaled from Rs 15L to Rs 2 Cr monthly revenue. We also run shorter 90-day sprints for brands that want to test fit before committing."}},{"@type":"Question","name":"What is the minimum budget to work with ITD?","acceptedAnswer":{"@type":"Answer","text":"Our D2C Growth tier starts at Rs 1 to 1.5L per month retainer (ad spend is pass-through, billed by the client directly on platforms). Enterprise B2B platform builds are typically Rs 15L+ per quarter depending on scope. We publish all tier pricing on pricing.php."}},{"@type":"Question","name":"Do you work internationally?","acceptedAnswer":{"@type":"Answer","text":"Yes. Active engagements across India, UAE (Dubai, Abu Dhabi), Saudi Arabia (Riyadh, Jeddah), UK, US, and Australia. Our skincare case study expanded into Dubai + Abu Dhabi + Riyadh + Jeddah with trilingual creative + Snapchat + local compliance. See our Dubai page and London page."}},{"@type":"Question","name":"What is included in a 30-minute discovery call?","acceptedAnswer":{"@type":"Answer","text":"A direct call with senior leadership (not an SDR). We review your current attribution, ROAS, repeat rate, retention funnel or your product roadmap. You walk away with a 90-day action plan, named references, and a fixed-quote proposal within 48 hours. Zero commitment."}},{"@type":"Question","name":"How is ITD different from a traditional creative agency?","acceptedAnswer":{"@type":"Answer","text":"We are a tech + marketing studio, not a creative shop. We rebuild attribution, write production code, run performance ads, build the subscription funnel, ship the mobile app -- often inside the same engagement. One of our skincare clients ran the SEO silo, the WhatsApp CRM, and the subscription infrastructure all through our pod. Agencies hand you a deck; we hand you a working system."}},{"@type":"Question","name":"Can you help us if we are pre-launch?","acceptedAnswer":{"@type":"Answer","text":"Yes. We have pre-funding stealth launches on both sides -- D2C brands that are weeks away from first product drop, and B2B platforms that are code-first and not yet in market. We help with brand positioning, Shopify / app build, launch creative, first retention loops, and first-paid-spend playbooks."}},{"@type":"Question","name":"What tech stack do you build B2B platforms on?","acceptedAnswer":{"@type":"Answer","text":"Backend: Python, Node, PHP (Laravel), Go for high-throughput services. Frontend: React, Next.js, Vue. Mobile: Flutter + native iOS / Android. Infra: AWS + GCP + DigitalOcean, containerised, CI/CD. Data: PostgreSQL, Mongo, Redis, Kafka. We pick stack to fit the problem; we don't do framework-first builds."}}]}</script>
     <!-- End FAQ Section -->
 
     <!-- Start Bottom CTA Section
