@@ -24,8 +24,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Case studies by what you sell. D2C brands scaled 13x revenue, Rs 50 Cr+ ad spend managed, B2B platforms shipped at 50M+ transaction scale. Pick your category — jump to the work.">
-    <title>Case Studies — D2C Brands & B2B Platforms | ITD GrowthLabs</title>
+    <meta name="description" content="Case studies and business solutions by ITD GrowthLabs across D2C consumer brands, retail store launches, B2B and manufacturing, logistics and courier, and technology product development. Pick your category and see relevant work.">
+    <title>Case Studies &amp; Business Solutions &mdash; D2C, Retail, B2B, Logistics, Technology | ITD GrowthLabs</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/case-studies.php">
     <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
 
@@ -38,8 +38,8 @@
     <link rel="alternate" hreflang="x-default" href="https://itdgrowthlabs.com/case-studies.php">
 
     <!-- Open Graph Tags -->
-    <meta property="og:title" content="Case Studies — D2C Brands & B2B Platforms | ITD GrowthLabs">
-    <meta property="og:description" content="D2C brands scaled from Rs 15L to Rs 2 Cr/month. B2B platforms processing 50M+ shipments. Pick your category — jump to work that looks like yours.">
+    <meta property="og:title" content="Case Studies &amp; Business Solutions | ITD GrowthLabs">
+    <meta property="og:description" content="D2C brands scaled. Retail stores launched. B2B lead-gen built. Logistics marketing + tech. Technology products shipped. Pick your category and see relevant work.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://itdgrowthlabs.com/case-studies.php">
     <meta property="og:image" content="https://itdgrowthlabs.com/assets/img/logo.jpg">
@@ -216,1737 +216,1728 @@
     }
     </script>
 
+    
     <style>
-        .case-study-card {
-            background: #fff;
-            border-radius: 15px;
-            overflow: hidden;
-            box-shadow: 0 5px 30px rgba(0, 0, 0, 0.08);
-            transition: all 0.3s ease;
-            margin-bottom: 40px;
-            border: 1px solid #f0f0f0;
+        :root {
+            --cs-ink: #0f1e3d;
+            --cs-ink-soft: #334155;
+            --cs-muted: #64748b;
+            --cs-line: #e8ecf1;
+            --cs-bg-alt: #f8fafc;
+            --cs-primary: var(--color-primary, #f16f30);
         }
 
-        
-        @keyframes fadeInSimple {
-            from { opacity: 0; transform: translateY(20px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-        .case-study-card {
-            animation: fadeInSimple 0.6s ease forwards;
-        }
-        .case-study-card:nth-child(2) { animation-delay: 0.15s; }
-        .case-study-card:nth-child(3) { animation-delay: 0.3s; }
-        .case-study-card:nth-child(4) { animation-delay: 0.45s; }
-        .case-study-card:nth-child(5) { animation-delay: 0.6s; }
-
-        .case-study-card:hover {
-            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15);
-            transform: translateY(-5px);
-        }
-
-        .case-study-header {
-            padding: 30px 35px 20px;
-            border-bottom: 1px solid #f0f0f0;
-        }
-
-        .case-study-body {
-            padding: 25px 35px 30px;
-        }
-
-        .industry-tag {
-            display: inline-block;
-            background: var(--color-primary);
+        /* ========== HERO ========== */
+        .cs-hero {
+            background: linear-gradient(135deg, #0f1e3d 0%, #1e3a5f 50%, #312e81 100%);
             color: #fff;
-            padding: 5px 16px;
-            border-radius: 20px;
-            font-size: 13px;
-            font-weight: 600;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-            margin-bottom: 15px;
-        }
-
-        .case-study-card h3 {
-            font-size: 22px;
-            font-weight: 700;
-            color: var(--color-heading);
-            margin-bottom: 0;
-            line-height: 1.4;
-        }
-
-        .case-study-section-title {
-            font-size: 15px;
-            font-weight: 700;
-            color: var(--color-heading);
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-            margin-bottom: 10px;
-            display: flex;
-            align-items: center;
-            gap: 8px;
-        }
-
-        .case-study-section-title i {
-            color: var(--color-primary);
-            font-size: 16px;
-        }
-
-        .case-study-body p {
-            color: var(--color-paragraph);
-            line-height: 1.8;
-            margin-bottom: 20px;
-        }
-
-        .tech-badge {
-            display: inline-block;
-            background: #f5f7fa;
-            color: var(--color-heading);
-            padding: 6px 14px;
-            border-radius: 6px;
-            font-size: 13px;
-            font-weight: 500;
-            margin: 3px 4px;
-            border: 1px solid #e8ecf1;
-            transition: all 0.2s ease;
-        }
-
-        .tech-badge:hover {
-            background: var(--color-primary);
-            color: #fff;
-            border-color: var(--color-primary);
-        }
-
-        .results-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 15px;
-            margin-bottom: 20px;
-        }
-
-        .result-item {
-            background: linear-gradient(135deg, #f8f9fa 0%, #fff 100%);
-            border-radius: 10px;
-            padding: 18px 15px;
-            text-align: center;
-            border: 1px solid #eef1f5;
-        }
-
-        .result-item .result-number {
-            font-size: 24px;
-            font-weight: 800;
-            color: var(--color-primary);
-            display: block;
-            margin-bottom: 5px;
-            line-height: 1.2;
-        }
-
-        .result-item .result-label {
-            font-size: 13px;
-            color: var(--color-paragraph);
-            font-weight: 500;
-        }
-
-        .case-study-meta {
-            display: flex;
-            gap: 25px;
-            padding-top: 15px;
-            border-top: 1px solid #f0f0f0;
-            margin-top: 5px;
-            margin-bottom: 20px;
-        }
-
-        .case-study-meta span {
-            font-size: 14px;
-            color: var(--color-paragraph);
-            font-weight: 500;
-        }
-
-        .case-study-meta span i {
-            color: var(--color-primary);
-            margin-right: 6px;
-        }
-
-        .case-study-cta {
-            display: inline-block;
-            background: var(--color-primary);
-            color: #fff;
-            padding: 12px 28px;
-            border-radius: 30px;
-            font-size: 14px;
-            font-weight: 600;
-            text-decoration: none;
-            transition: all 0.3s ease;
-        }
-
-        .case-study-cta:hover {
-            background: var(--color-heading);
-            color: #fff;
-            transform: translateY(-2px);
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
-        }
-
-        .hero-case-studies {
-            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            padding: 140px 0 80px;
             position: relative;
             overflow: hidden;
         }
-
-        .hero-case-studies::before {
-            content: '';
+        .cs-hero::before, .cs-hero::after {
+            content: "";
             position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            background: url(assets/img/shape/banner-3.jpg) center/cover no-repeat;
-            opacity: 0.15;
-        }
-
-        .hero-case-studies .container {
-            position: relative;
-            z-index: 2;
-        }
-
-        .hero-breadcrumb {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            margin-bottom: 20px;
-        }
-
-        .hero-breadcrumb a {
-            color: rgba(255, 255, 255, 0.7);
-            font-size: 14px;
-            text-decoration: none;
-            transition: color 0.3s;
-        }
-
-        .hero-breadcrumb a:hover {
-            color: #fff;
-        }
-
-        .hero-breadcrumb span {
-            color: rgba(255, 255, 255, 0.4);
-            font-size: 12px;
-        }
-
-        .hero-breadcrumb .current {
-            color: var(--color-primary);
-            font-size: 14px;
-            font-weight: 600;
-        }
-
-        .bottom-cta-section {
-            background: linear-gradient(135deg, var(--color-primary) 0%, #e65100 100%);
-            position: relative;
-            overflow: hidden;
-        }
-
-        .bottom-cta-section::before {
-            content: '';
-            position: absolute;
-            top: -50%;
-            right: -20%;
-            width: 400px;
-            height: 400px;
-            background: rgba(255, 255, 255, 0.05);
             border-radius: 50%;
+            filter: blur(120px);
+            opacity: 0.3;
+            pointer-events: none;
         }
-
-        .bottom-cta-section::after {
-            content: '';
-            position: absolute;
-            bottom: -30%;
-            left: -10%;
-            width: 300px;
-            height: 300px;
-            background: rgba(255, 255, 255, 0.05);
-            border-radius: 50%;
-        }
-
-        .case-study-number {
-            position: absolute;
-            top: 20px;
-            right: 25px;
-            font-size: 60px;
-            font-weight: 900;
-            color: rgba(0, 0, 0, 0.04);
-            line-height: 1;
-        }
-
-        .case-study-header {
-            position: relative;
-        }
-
-        @media (max-width: 768px) {
-            .case-study-header {
-                padding: 25px 20px 15px;
-            }
-
-            .case-study-body {
-                padding: 20px 20px 25px;
-            }
-
-            .results-grid {
-                grid-template-columns: repeat(2, 1fr);
-            }
-
-            .case-study-meta {
-                flex-wrap: wrap;
-                gap: 15px;
-            }
-
-            .case-study-card h3 {
-                font-size: 19px;
-            }
-
-            .case-study-number {
-                font-size: 40px;
-            }
-        }
-
-        /* ── Trust bar, filter tabs, testimonials, process, FAQ ───────────── */
-        .cs-trust-bar {
-            background: #fff;
-            border-top: 1px solid #eef1f5;
-            border-bottom: 1px solid #eef1f5;
-            padding: 28px 0;
-        }
-        .cs-trust-grid {
-            display: grid;
-            grid-template-columns: repeat(4, 1fr);
-            gap: 20px;
-            text-align: center;
-        }
-        .cs-trust-item .cs-trust-num {
-            font-size: 30px;
-            font-weight: 800;
-            color: var(--color-primary);
-            line-height: 1;
-            display: block;
-            margin-bottom: 6px;
-        }
-        .cs-trust-item .cs-trust-label {
+        .cs-hero::before { background: #ec4899; width: 400px; height: 400px; top: -100px; right: -50px; }
+        .cs-hero::after  { background: #22d3ee; width: 400px; height: 400px; bottom: -150px; left: -100px; }
+        .cs-hero-content { position: relative; z-index: 2; max-width: 820px; }
+        .cs-hero-eyebrow {
+            display: inline-block;
+            padding: 8px 16px;
+            background: rgba(255,255,255,0.12);
+            border: 1px solid rgba(255,255,255,0.18);
+            border-radius: 24px;
             font-size: 13px;
-            color: #555;
-            font-weight: 500;
+            font-weight: 600;
             letter-spacing: 0.3px;
+            margin-bottom: 24px;
+            backdrop-filter: blur(8px);
         }
-        @media (max-width: 768px) {
-            .cs-trust-grid { grid-template-columns: repeat(2, 1fr); gap: 18px; }
-            .cs-trust-item .cs-trust-num { font-size: 24px; }
-        }
-
-        .cs-filter-bar {
-            display: flex;
-            justify-content: center;
-            flex-wrap: wrap;
-            gap: 10px;
-            margin: 0 0 40px;
-            padding: 0;
-            list-style: none;
-        }
-        .cs-filter-btn {
-            background: #f5f7fa;
-            color: #333;
-            border: 1px solid #e8ecf1;
-            padding: 9px 22px;
-            border-radius: 30px;
-            font-size: 14px;
-            font-weight: 600;
-            cursor: pointer;
-            transition: all 0.25s ease;
-        }
-        .cs-filter-btn:hover {
-            border-color: var(--color-primary);
-            color: var(--color-primary);
-        }
-        .cs-filter-btn.is-active {
-            background: var(--color-primary);
+        .cs-hero-eyebrow i { margin-right: 6px; color: #fbbf24; }
+        .cs-hero-title {
+            font-size: 56px;
+            font-weight: 800;
+            line-height: 1.1;
+            margin: 0 0 24px;
             color: #fff;
-            border-color: var(--color-primary);
+            letter-spacing: -1.2px;
         }
-        .case-study-card.is-hidden { display: none; }
-
-        /* ============ Persona selector (D2C vs B2B) ============ */
-        .cs-persona-row {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 14px;
-            margin: 0 auto 30px;
-            max-width: 920px;
+        .cs-hero-highlight {
+            background: linear-gradient(135deg, var(--cs-primary), #fbbf24);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
         }
-        .cs-persona-btn {
-            background: #fff;
-            border: 2px solid #e8ecf1;
-            border-radius: 14px;
-            padding: 20px 18px;
-            cursor: pointer;
-            text-align: left;
-            transition: all 0.22s ease;
-            display: flex;
-            flex-direction: column;
-            gap: 4px;
+        .cs-hero-sub {
+            font-size: 19px;
+            line-height: 1.65;
+            opacity: 0.88;
+            margin: 0 0 36px;
+            max-width: 720px;
+            color: #fff;
         }
-        .cs-persona-btn:hover {
-            border-color: var(--color-primary);
-            transform: translateY(-2px);
-            box-shadow: 0 10px 24px rgba(15, 30, 61, 0.08);
-        }
-        .cs-persona-btn.is-active {
-            border-color: var(--color-primary);
-            background: linear-gradient(135deg, #fff8f3, #fff);
-            box-shadow: 0 10px 28px rgba(241, 111, 48, 0.14);
-        }
-        .cs-persona-icon {
-            width: 36px; height: 36px;
-            border-radius: 10px;
+        .cs-hero-sub strong { color: #fff; font-weight: 700; }
+        .cs-hero-ctas { display: flex; flex-wrap: wrap; gap: 14px; }
+        .cs-hero-cta-primary, .cs-hero-cta-secondary {
             display: inline-flex;
-            align-items: center; justify-content: center;
-            background: rgba(241, 111, 48, 0.1);
-            color: var(--color-primary);
-            margin-bottom: 6px;
-        }
-        .cs-persona-label {
-            font-size: 17px;
-            font-weight: 700;
-            color: #0f1e3d;
-        }
-        .cs-persona-sub {
-            font-size: 13px;
-            color: #64748b;
-            line-height: 1.5;
-        }
-        .cs-persona-count {
-            display: inline-block;
-            font-size: 12px;
-            font-weight: 700;
-            color: var(--color-primary);
-            margin-top: 4px;
-            letter-spacing: 0.4px;
-        }
-        @media (max-width: 768px) {
-            .cs-persona-row { grid-template-columns: 1fr; gap: 10px; }
-            .cs-persona-btn { padding: 16px 14px; }
-        }
-
-        /* ============ Grouped industry filter ============ */
-        .cs-filter-group {
-            display: flex;
             align-items: center;
-            flex-wrap: wrap;
             gap: 10px;
-            padding: 14px 18px;
-            background: #f8fafc;
+            padding: 16px 32px;
             border-radius: 12px;
-            margin-bottom: 14px;
-        }
-        .cs-filter-group-label {
-            font-size: 12px;
             font-weight: 700;
-            letter-spacing: 0.5px;
-            color: #475569;
-            text-transform: uppercase;
-            margin-right: 4px;
-            min-width: 110px;
-        }
-        .cs-filter-group .cs-filter-btn {
-            padding: 7px 16px;
-            font-size: 13px;
-        }
-        .cs-filter-group.is-collapsed { display: none; }
-        @media (max-width: 768px) {
-            .cs-filter-group-label { min-width: 100%; margin-bottom: 4px; }
-        }
-
-        /* ============ NDA callout ============ */
-        .cs-nda-callout {
-            background: linear-gradient(135deg, #0f1e3d 0%, #1e3a5f 100%);
-            color: #fff;
-            border-radius: 16px;
-            padding: 36px 32px;
-            margin: 40px 0;
-            display: grid;
-            grid-template-columns: 72px 1fr auto;
-            gap: 22px;
-            align-items: center;
-        }
-        .cs-nda-icon {
-            width: 72px; height: 72px;
-            background: rgba(255, 255, 255, 0.1);
-            border-radius: 16px;
-            display: flex;
-            align-items: center; justify-content: center;
-            font-size: 30px;
-            color: #fbbf24;
-        }
-        .cs-nda-callout h3 { color: #fff; margin: 0 0 6px; font-size: 20px; font-weight: 700; }
-        .cs-nda-callout p { color: rgba(255, 255, 255, 0.78); margin: 0; font-size: 15px; line-height: 1.6; }
-        .cs-nda-cta {
-            background: var(--color-primary);
-            color: #fff !important;
-            padding: 14px 24px;
-            border-radius: 10px;
-            font-weight: 700;
-            font-size: 14px;
+            font-size: 15px;
             text-decoration: none;
-            white-space: nowrap;
             transition: all 0.2s ease;
         }
-        .cs-nda-cta:hover { background: #d85a1f; transform: translateY(-2px); }
+        .cs-hero-cta-primary {
+            background: var(--cs-primary);
+            color: #fff !important;
+            box-shadow: 0 10px 30px rgba(241, 111, 48, 0.35);
+        }
+        .cs-hero-cta-primary:hover { transform: translateY(-3px); box-shadow: 0 16px 40px rgba(241, 111, 48, 0.45); color: #fff !important; }
+        .cs-hero-cta-secondary {
+            background: rgba(255,255,255,0.1);
+            border: 1px solid rgba(255,255,255,0.2);
+            color: #fff !important;
+            backdrop-filter: blur(8px);
+        }
+        .cs-hero-cta-secondary:hover { background: rgba(255,255,255,0.18); color: #fff !important; transform: translateY(-3px); }
         @media (max-width: 768px) {
-            .cs-nda-callout { grid-template-columns: 1fr; text-align: center; padding: 28px 20px; }
-            .cs-nda-icon { margin: 0 auto; }
+            .cs-hero { padding: 100px 0 60px; }
+            .cs-hero-title { font-size: 36px; }
+            .cs-hero-sub { font-size: 16px; }
+            .cs-hero-ctas { flex-direction: column; }
+            .cs-hero-cta-primary, .cs-hero-cta-secondary { justify-content: center; }
         }
 
-        /* ============ NDA badge on individual cards ============ */
-        .cs-nda-badge {
-            display: inline-flex;
-            align-items: center;
-            gap: 5px;
-            background: rgba(251, 191, 36, 0.15);
-            color: #92400e;
-            padding: 3px 10px;
-            border-radius: 20px;
-            font-size: 11px;
-            font-weight: 700;
-            letter-spacing: 0.3px;
-            text-transform: uppercase;
-            margin-left: 8px;
-            vertical-align: middle;
-        }
-
-        .cs-detail-link {
-            display: inline-block;
-            margin-left: 12px;
-            padding: 12px 24px;
-            border: 2px solid var(--color-primary);
-            color: var(--color-primary);
-            border-radius: 30px;
-            font-size: 14px;
-            font-weight: 600;
-            text-decoration: none;
-            transition: all 0.3s ease;
-        }
-        .cs-detail-link:hover {
-            background: var(--color-primary);
-            color: #fff;
-        }
-
-        .cs-section {
-            padding: 70px 0;
-            background: #fff;
-        }
-        .cs-section.alt { background: #f8fafc; }
-        .cs-section-head { text-align: center; max-width: 720px; margin: 0 auto 45px; }
+        /* ========== 5-CATEGORY SELECTOR ========== */
+        .cs-selector-section { padding: 90px 0 70px; background: #fff; }
+        .cs-selector-head { text-align: center; max-width: 720px; margin: 0 auto 50px; }
         .cs-section-eyebrow {
-            color: var(--color-primary);
-            font-size: 13px;
-            font-weight: 700;
+            display: inline-block;
+            font-size: 12px;
+            font-weight: 800;
+            color: var(--cs-primary);
             letter-spacing: 1.5px;
             text-transform: uppercase;
-            margin-bottom: 10px;
-        }
-        .cs-section-title {
-            font-size: 32px;
-            font-weight: 800;
-            color: var(--color-heading);
             margin-bottom: 14px;
-            line-height: 1.25;
         }
-        .cs-section-sub { color: #555; font-size: 16px; line-height: 1.7; }
-
-        .cs-testimonial {
+        .cs-selector-title { font-size: 42px; font-weight: 800; color: var(--cs-ink); margin: 0 0 14px; letter-spacing: -0.8px; }
+        .cs-selector-sub { font-size: 17px; color: var(--cs-muted); line-height: 1.6; }
+        .cs-selector-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+            gap: 22px;
+        }
+        .cs-selector-card {
             background: #fff;
-            border: 1px solid #eef1f5;
+            border: 2px solid var(--cs-line);
+            border-radius: 20px;
+            padding: 30px 26px 26px;
+            text-decoration: none;
+            color: var(--cs-ink);
+            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            min-height: 280px;
+        }
+        .cs-selector-card::before {
+            content: "";
+            position: absolute;
+            top: 0; left: 0; right: 0;
+            height: 5px;
+            background: var(--cat-color);
+            transform: scaleX(0.3);
+            transform-origin: left;
+            transition: transform 0.3s ease;
+        }
+        .cs-selector-card:hover {
+            transform: translateY(-6px);
+            box-shadow: 0 24px 56px rgba(15, 30, 61, 0.12);
+            border-color: var(--cat-color);
+            color: var(--cs-ink);
+        }
+        .cs-selector-card:hover::before { transform: scaleX(1); }
+        .cs-selector-icon {
+            width: 56px; height: 56px;
             border-radius: 14px;
-            padding: 28px;
-            height: 100%;
-            box-shadow: 0 3px 15px rgba(0,0,0,0.04);
-            transition: transform .25s ease, box-shadow .25s ease;
-        }
-        .cs-testimonial:hover {
-            transform: translateY(-4px);
-            box-shadow: 0 10px 30px rgba(0,0,0,0.08);
-        }
-        .cs-testimonial-stars { color: #ffa800; margin-bottom: 12px; font-size: 14px; }
-        .cs-testimonial-quote {
-            color: #333;
-            font-size: 15px;
-            line-height: 1.75;
-            font-style: italic;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
             margin-bottom: 18px;
         }
-        .cs-testimonial-author {
-            font-size: 14px;
-            font-weight: 700;
-            color: var(--color-heading);
-        }
-        .cs-testimonial-role {
-            font-size: 13px;
-            color: #777;
-            font-weight: 500;
-        }
-
-        .cs-process-grid {
-            display: grid;
-            grid-template-columns: repeat(5, 1fr);
-            gap: 20px;
-            counter-reset: cs-step;
-        }
-        .cs-process-card {
-            background: #fff;
-            border: 1px solid #eef1f5;
-            border-radius: 14px;
-            padding: 28px 22px;
-            position: relative;
-            text-align: left;
-        }
-        .cs-process-card::before {
-            counter-increment: cs-step;
-            content: counter(cs-step, decimal-leading-zero);
+        .cs-selector-badge {
             position: absolute;
-            top: 18px;
-            right: 20px;
-            font-size: 32px;
+            top: 20px; right: 22px;
+            font-size: 11px;
             font-weight: 800;
-            color: rgba(0,0,0,0.06);
-            line-height: 1;
+            letter-spacing: 1px;
+            color: var(--cs-muted);
+            background: var(--cs-bg-alt);
+            padding: 4px 10px;
+            border-radius: 20px;
         }
-        .cs-process-icon {
-            width: 46px;
-            height: 46px;
+        .cs-selector-card h3 { font-size: 18px; font-weight: 700; color: var(--cs-ink); margin: 0 0 10px; line-height: 1.35; }
+        .cs-selector-card p { font-size: 14px; color: var(--cs-muted); line-height: 1.6; margin: 0 0 20px; flex: 1; }
+        .cs-selector-explore {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 13px;
+            font-weight: 700;
+            color: var(--cat-color);
+            transition: gap 0.2s ease;
+        }
+        .cs-selector-card:hover .cs-selector-explore { gap: 10px; }
+        .cs-view-all-link {
+            color: var(--cs-muted);
+            text-decoration: none;
+            font-size: 14px;
+            font-weight: 600;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .cs-view-all-link:hover { color: var(--cs-primary); }
+
+        /* ========== CATEGORY SECTION ========== */
+        .cs-cat-section { padding: 90px 0 70px; background: #fff; border-top: 1px solid var(--cs-line); }
+        .cs-cat-section:nth-of-type(odd) { background: var(--cs-bg-alt); }
+        .cs-cat-head { max-width: 820px; margin: 0 auto 50px; text-align: center; }
+        .cs-cat-order { display: inline-block; font-size: 12px; font-weight: 800; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 14px; }
+        .cs-cat-title { font-size: 40px; font-weight: 800; color: var(--cs-ink); margin: 0 0 20px; letter-spacing: -0.8px; display: inline-flex; align-items: center; justify-content: center; flex-wrap: wrap; }
+        .cs-cat-intro { font-size: 17px; color: var(--cs-ink-soft); line-height: 1.7; margin: 0; }
+
+        .cs-pillars-row { margin: 50px 0 60px; }
+        .cs-pillars-label {
+            font-size: 12px;
+            font-weight: 800;
+            color: var(--cs-muted);
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            text-align: center;
+            margin-bottom: 24px;
+            position: relative;
+        }
+        .cs-pillars-label::before, .cs-pillars-label::after {
+            content: "";
+            position: absolute;
+            top: 50%; width: 80px;
+            height: 1px;
+            background: var(--cs-line);
+        }
+        .cs-pillars-label::before { right: calc(50% + 110px); }
+        .cs-pillars-label::after  { left:  calc(50% + 110px); }
+        .cs-pillars-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+            gap: 18px;
+        }
+        .cs-pillar {
+            background: #fff;
+            border: 1px solid var(--cs-line);
+            border-radius: 14px;
+            padding: 24px 22px;
+            transition: all 0.2s ease;
+        }
+        .cs-pillar:hover { border-color: var(--cs-primary); transform: translateY(-3px); box-shadow: 0 10px 28px rgba(15,30,61,0.08); }
+        .cs-pillar-icon {
+            width: 44px; height: 44px;
             border-radius: 10px;
-            background: linear-gradient(135deg, var(--color-primary), #e65100);
-            color: #fff;
-            display: flex;
+            background: #fff8f3;
+            color: var(--cs-primary);
+            display: inline-flex;
             align-items: center;
             justify-content: center;
             font-size: 18px;
-            margin-bottom: 16px;
-        }
-        .cs-process-card h4 {
-            font-size: 16px;
-            font-weight: 700;
-            color: var(--color-heading);
-            margin-bottom: 8px;
-        }
-        .cs-process-card p {
-            font-size: 13.5px;
-            line-height: 1.65;
-            color: #555;
-            margin: 0;
-        }
-        @media (max-width: 992px) {
-            .cs-process-grid { grid-template-columns: repeat(2, 1fr); }
-        }
-        @media (max-width: 520px) {
-            .cs-process-grid { grid-template-columns: 1fr; }
-        }
-
-        .cs-faq-item {
-            background: #fff;
-            border: 1px solid #eef1f5;
-            border-radius: 12px;
             margin-bottom: 14px;
-            overflow: hidden;
         }
-        .cs-faq-q {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding: 20px 26px;
-            cursor: pointer;
-            font-size: 16px;
-            font-weight: 700;
-            color: var(--color-heading);
-            user-select: none;
-            list-style: none;
-        }
-        .cs-faq-q::-webkit-details-marker { display: none; }
-        .cs-faq-q::after {
-            content: '+';
-            font-size: 22px;
-            font-weight: 400;
-            color: var(--color-primary);
-            transition: transform .25s ease;
-            margin-left: 18px;
-        }
-        .cs-faq-item[open] .cs-faq-q::after { content: '−'; }
-        .cs-faq-a {
-            padding: 0 26px 22px;
-            color: #444;
-            font-size: 15px;
-            line-height: 1.75;
-        }
+        .cs-pillar h4 { font-size: 15px; font-weight: 700; color: var(--cs-ink); margin: 0 0 8px; line-height: 1.35; }
+        .cs-pillar p { font-size: 13px; color: var(--cs-muted); line-height: 1.6; margin: 0; }
 
-        /* ============ MEGA CARDS (redesign) ============ */
-        .cs-mega-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(460px, 1fr));
-            gap: 28px;
-            margin: 10px 0 40px;
+        .cs-projects-head {
+            display: flex;
+            align-items: flex-end;
+            justify-content: space-between;
+            margin: 0 0 24px;
+            padding-bottom: 14px;
+            border-bottom: 1px solid var(--cs-line);
         }
-        @media (max-width: 540px) {
-            .cs-mega-grid { grid-template-columns: 1fr; gap: 20px; }
-        }
+        .cs-projects-title { font-size: 22px; font-weight: 700; color: var(--cs-ink); margin: 0; }
+        .cs-projects-count { font-size: 13px; color: var(--cs-muted); font-weight: 600; }
+
+        /* ========== MEGA CARDS ========== */
+        .cs-mega-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(460px, 1fr)); gap: 28px; margin: 10px 0 40px; }
+        @media (max-width: 540px) { .cs-mega-grid { grid-template-columns: 1fr; gap: 20px; } }
         .cs-mega-card {
             background: #fff;
             border-radius: 20px;
             overflow: hidden;
-            border: 1px solid #e8ecf1;
+            border: 1px solid var(--cs-line);
             box-shadow: 0 4px 20px rgba(15, 30, 61, 0.05);
             transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.3s ease, border-color 0.2s ease;
-            display: flex;
-            flex-direction: column;
-            position: relative;
+            display: flex; flex-direction: column; position: relative;
         }
-        .cs-mega-card:hover {
-            transform: translateY(-6px);
-            box-shadow: 0 24px 56px rgba(15, 30, 61, 0.15);
-            border-color: #d1d5db;
-        }
+        .cs-mega-card:hover { transform: translateY(-6px); box-shadow: 0 24px 56px rgba(15, 30, 61, 0.15); border-color: #d1d5db; }
         .cs-mega-card.is-hidden { display: none; }
-
         .cs-mega-visual {
-            position: relative;
-            min-height: 140px;
-            padding: 22px 24px;
-            overflow: hidden;
-            display: flex;
-            align-items: flex-start;
-            justify-content: space-between;
+            position: relative; min-height: 140px; padding: 22px 24px; overflow: hidden;
+            display: flex; align-items: flex-start; justify-content: space-between;
         }
         .cs-mega-bg-icon {
-            position: absolute;
-            right: -10px;
-            bottom: -30px;
-            font-size: 180px;
-            color: rgba(255, 255, 255, 0.12);
-            line-height: 1;
-            transform: rotate(-12deg);
-            pointer-events: none;
+            position: absolute; right: -10px; bottom: -30px;
+            font-size: 180px; color: rgba(255, 255, 255, 0.12);
+            line-height: 1; transform: rotate(-12deg); pointer-events: none;
             transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1), color 0.3s ease;
         }
-        .cs-mega-card:hover .cs-mega-bg-icon {
-            transform: rotate(-6deg) scale(1.08);
-            color: rgba(255, 255, 255, 0.2);
-        }
+        .cs-mega-card:hover .cs-mega-bg-icon { transform: rotate(-6deg) scale(1.08); color: rgba(255, 255, 255, 0.2); }
         .cs-mega-visual-top {
-            position: relative;
-            z-index: 2;
-            display: flex;
-            flex-wrap: wrap;
-            gap: 8px;
-            align-items: center;
-            width: 100%;
-            justify-content: space-between;
+            position: relative; z-index: 2;
+            display: flex; flex-wrap: wrap; gap: 8px; align-items: center;
+            width: 100%; justify-content: space-between;
         }
         .cs-mega-persona-tag {
             display: inline-block;
             background: rgba(255, 255, 255, 0.22);
-            color: #fff;
-            padding: 7px 14px;
-            border-radius: 20px;
-            font-size: 12px;
-            font-weight: 700;
-            letter-spacing: 0.3px;
-            text-transform: uppercase;
-            backdrop-filter: blur(6px);
-            border: 1px solid rgba(255, 255, 255, 0.2);
+            color: #fff; padding: 7px 14px; border-radius: 20px;
+            font-size: 11px; font-weight: 700; letter-spacing: 0.3px; text-transform: uppercase;
+            backdrop-filter: blur(6px); border: 1px solid rgba(255, 255, 255, 0.2);
         }
         .cs-mega-nda-badge {
-            display: inline-flex;
-            align-items: center;
-            gap: 5px;
-            background: rgba(0, 0, 0, 0.22);
-            color: #fff;
-            padding: 6px 12px;
-            border-radius: 20px;
-            font-size: 11px;
-            font-weight: 700;
-            letter-spacing: 0.3px;
-            text-transform: uppercase;
+            display: inline-flex; align-items: center; gap: 5px;
+            background: rgba(0, 0, 0, 0.22); color: #fff;
+            padding: 6px 12px; border-radius: 20px;
+            font-size: 10px; font-weight: 700; letter-spacing: 0.3px; text-transform: uppercase;
         }
-        .cs-mega-nda-badge i { opacity: 0.9; }
-
-        .cs-mega-body {
-            padding: 24px 26px 26px;
-            display: flex;
-            flex-direction: column;
-            gap: 18px;
-            flex: 1;
-        }
-        .cs-mega-title {
-            margin: 0;
-            font-size: 20px;
-            font-weight: 700;
-            color: #0f1e3d;
-            line-height: 1.35;
-        }
-        .cs-mega-title strong { color: var(--color-primary); font-weight: 800; }
-        .cs-mega-sub {
-            margin: -8px 0 0;
-            font-size: 14px;
-            color: #64748b;
-            line-height: 1.55;
-        }
-
+        .cs-mega-body { padding: 24px 26px 26px; display: flex; flex-direction: column; gap: 18px; flex: 1; }
+        .cs-mega-title { margin: 0; font-size: 20px; font-weight: 700; color: var(--cs-ink); line-height: 1.35; }
+        .cs-mega-title strong { color: var(--cs-primary); font-weight: 800; }
+        .cs-mega-sub { margin: -8px 0 0; font-size: 14px; color: var(--cs-muted); line-height: 1.55; }
         .cs-mega-stats {
-            display: grid;
-            grid-template-columns: repeat(4, 1fr);
-            gap: 10px;
-            padding: 16px;
-            background: linear-gradient(135deg, #f8fafc, #ffffff);
-            border-radius: 12px;
-            border: 1px solid #e8ecf1;
+            display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;
+            padding: 16px; background: linear-gradient(135deg, #f8fafc, #ffffff);
+            border-radius: 12px; border: 1px solid var(--cs-line);
         }
         .cs-mega-stat { text-align: center; }
-        .cs-mega-stat strong {
-            display: block;
-            font-size: 22px;
-            font-weight: 800;
-            color: #0f1e3d;
-            line-height: 1;
-            margin-bottom: 4px;
-            letter-spacing: -0.3px;
-        }
-        .cs-mega-stat span {
-            display: block;
-            font-size: 11px;
-            color: #64748b;
-            font-weight: 600;
-            text-transform: uppercase;
-            letter-spacing: 0.3px;
-            line-height: 1.3;
-        }
-        @media (max-width: 500px) {
-            .cs-mega-stats { grid-template-columns: repeat(2, 1fr); }
-        }
-
-        .cs-mega-services-wrap { }
-        .cs-mega-services-label {
-            font-size: 11px;
-            font-weight: 800;
-            letter-spacing: 0.6px;
-            text-transform: uppercase;
-            color: #94a3b8;
-            margin-bottom: 10px;
-        }
-        .cs-mega-services {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 6px;
-        }
+        .cs-mega-stat strong { display: block; font-size: 20px; font-weight: 800; color: var(--cs-ink); line-height: 1; margin-bottom: 4px; letter-spacing: -0.3px; }
+        .cs-mega-stat span { display: block; font-size: 10px; color: var(--cs-muted); font-weight: 600; text-transform: uppercase; letter-spacing: 0.3px; line-height: 1.3; }
+        @media (max-width: 500px) { .cs-mega-stats { grid-template-columns: repeat(2, 1fr); } }
+        .cs-mega-services-label { font-size: 11px; font-weight: 800; letter-spacing: 0.6px; text-transform: uppercase; color: #94a3b8; margin-bottom: 10px; }
+        .cs-mega-services { display: flex; flex-wrap: wrap; gap: 6px; }
         .cs-mega-chip {
-            display: inline-flex;
-            align-items: center;
-            gap: 6px;
-            background: #f1f5f9;
-            color: #334155;
-            padding: 6px 12px;
-            border-radius: 20px;
-            font-size: 12px;
-            font-weight: 600;
-            border: 1px solid #e2e8f0;
-            transition: all 0.18s ease;
+            display: inline-flex; align-items: center; gap: 6px;
+            background: #f1f5f9; color: #334155; padding: 6px 12px;
+            border-radius: 20px; font-size: 12px; font-weight: 600;
+            border: 1px solid #e2e8f0; transition: all 0.18s ease;
         }
-        .cs-mega-chip i {
-            color: var(--color-primary);
-            font-size: 11px;
-        }
-        .cs-mega-card:hover .cs-mega-chip {
-            background: #fff8f3;
-            border-color: rgba(241, 111, 48, 0.3);
-        }
-
-        .cs-mega-ctas {
-            display: flex;
-            gap: 10px;
-            flex-wrap: wrap;
-            padding-top: 10px;
-            border-top: 1px solid #f1f5f9;
-            margin-top: auto;
-        }
+        .cs-mega-chip i { color: var(--cs-primary); font-size: 11px; }
+        .cs-mega-card:hover .cs-mega-chip { background: #fff8f3; border-color: rgba(241, 111, 48, 0.3); }
+        .cs-mega-ctas { display: flex; gap: 10px; flex-wrap: wrap; padding-top: 10px; border-top: 1px solid #f1f5f9; margin-top: auto; }
         .cs-mega-cta-primary {
-            flex: 1;
-            min-width: 180px;
-            background: var(--color-primary);
-            color: #fff !important;
-            padding: 12px 18px;
-            border-radius: 10px;
-            font-size: 13px;
-            font-weight: 700;
-            text-align: center;
-            text-decoration: none;
+            flex: 1; min-width: 180px;
+            background: var(--cs-primary); color: #fff !important;
+            padding: 12px 18px; border-radius: 10px;
+            font-size: 13px; font-weight: 700;
+            text-align: center; text-decoration: none;
             transition: all 0.2s ease;
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            gap: 6px;
+            display: inline-flex; align-items: center; justify-content: center; gap: 6px;
         }
         .cs-mega-cta-primary:hover { background: #d85a1f; transform: translateY(-2px); color: #fff !important; }
         .cs-mega-cta-secondary {
-            padding: 12px 18px;
-            border: 2px solid #e2e8f0;
-            color: #475569 !important;
-            border-radius: 10px;
-            font-size: 13px;
-            font-weight: 700;
-            text-decoration: none;
-            transition: all 0.2s ease;
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
+            padding: 12px 18px; border: 2px solid #e2e8f0;
+            color: #475569 !important; border-radius: 10px;
+            font-size: 13px; font-weight: 700;
+            text-decoration: none; transition: all 0.2s ease;
+            display: inline-flex; align-items: center; justify-content: center;
             white-space: nowrap;
         }
-        .cs-mega-cta-secondary:hover { border-color: var(--color-primary); color: var(--color-primary) !important; }
+        .cs-mega-cta-secondary:hover { border-color: var(--cs-primary); color: var(--cs-primary) !important; }
 
+        /* ========== CATEGORY CTA ========== */
+        .cs-cat-cta {
+            display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;
+            gap: 28px; padding: 44px 40px; border-radius: 20px; margin-top: 40px; color: #fff;
+        }
+        .cs-cat-cta-text h3 { color: #fff; font-size: 26px; font-weight: 800; margin: 0 0 8px; letter-spacing: -0.4px; }
+        .cs-cat-cta-text p { color: rgba(255,255,255,0.85); font-size: 15px; margin: 0; line-height: 1.6; max-width: 620px; }
+        .cs-cat-cta-btns { display: flex; gap: 10px; flex-wrap: wrap; }
+        .cs-cat-cta-primary, .cs-cat-cta-secondary {
+            display: inline-flex; align-items: center; gap: 8px;
+            padding: 14px 24px; border-radius: 10px;
+            font-weight: 700; font-size: 14px;
+            text-decoration: none; transition: all 0.2s ease;
+            white-space: nowrap;
+        }
+        .cs-cat-cta-primary { background: #fff; color: var(--cs-ink) !important; }
+        .cs-cat-cta-primary:hover { transform: translateY(-2px); box-shadow: 0 10px 30px rgba(0,0,0,0.15); }
+        .cs-cat-cta-secondary { background: rgba(0,0,0,0.18); color: #fff !important; border: 1px solid rgba(255,255,255,0.2); }
+        .cs-cat-cta-secondary:hover { background: rgba(0,0,0,0.3); transform: translateY(-2px); }
+        @media (max-width: 768px) {
+            .cs-cat-cta { padding: 32px 24px; }
+            .cs-cat-cta-text h3 { font-size: 22px; }
+            .cs-cat-cta-btns { width: 100%; }
+            .cs-cat-cta-primary, .cs-cat-cta-secondary { flex: 1; justify-content: center; }
+        }
+
+        /* ========== NDA CALLOUT ========== */
+        .cs-nda-callout {
+            background: linear-gradient(135deg, #0f1e3d 0%, #1e3a5f 100%);
+            color: #fff; border-radius: 16px; padding: 36px 32px;
+            display: grid; grid-template-columns: 72px 1fr auto; gap: 22px; align-items: center;
+        }
+        .cs-nda-icon { width: 72px; height: 72px; background: rgba(255, 255, 255, 0.1); border-radius: 16px; display: flex; align-items: center; justify-content: center; font-size: 30px; color: #fbbf24; }
+        .cs-nda-callout h3 { color: #fff; margin: 0 0 6px; font-size: 20px; font-weight: 700; }
+        .cs-nda-callout p { color: rgba(255, 255, 255, 0.78); margin: 0; font-size: 15px; line-height: 1.6; }
+        .cs-nda-cta { background: var(--cs-primary); color: #fff !important; padding: 14px 24px; border-radius: 10px; font-weight: 700; font-size: 14px; text-decoration: none; white-space: nowrap; transition: all 0.2s ease; }
+        .cs-nda-cta:hover { background: #d85a1f; transform: translateY(-2px); }
+        @media (max-width: 768px) { .cs-nda-callout { grid-template-columns: 1fr; text-align: center; padding: 28px 20px; } .cs-nda-icon { margin: 0 auto; } }
+
+        /* ========== FAQ ========== */
+        .cs-section { padding: 70px 0; background: #fff; }
+        .cs-section.alt { background: var(--cs-bg-alt); }
+        .cs-section-head { text-align: center; max-width: 720px; margin: 0 auto 45px; }
+        .cs-section-title { font-size: 32px; font-weight: 800; color: var(--cs-ink); margin: 0 0 12px; letter-spacing: -0.5px; }
+        .cs-section-sub { color: var(--cs-muted); font-size: 16px; line-height: 1.7; }
+        .cs-faq-list { max-width: 820px; margin: 0 auto; }
+        .cs-faq-item { background: #fff; border: 1px solid var(--cs-line); border-radius: 12px; margin-bottom: 10px; overflow: hidden; }
+        .cs-faq-q {
+            display: flex; align-items: center; justify-content: space-between;
+            padding: 20px 24px; cursor: pointer; list-style: none;
+            font-size: 16px; font-weight: 700; color: var(--cs-ink);
+            transition: background 0.2s ease;
+        }
+        .cs-faq-q::-webkit-details-marker { display: none; }
+        .cs-faq-q:hover { background: var(--cs-bg-alt); }
+        .cs-faq-q::after { content: "+"; font-size: 24px; color: var(--cs-primary); font-weight: 400; transition: transform 0.2s ease; }
+        .cs-faq-item[open] .cs-faq-q::after { content: "-"; }
+        .cs-faq-a { padding: 0 24px 20px; font-size: 15px; color: var(--cs-ink-soft); line-height: 1.7; }
+        .cs-faq-a a { color: var(--cs-primary); text-decoration: underline; }
+        .cs-faq-cta {
+            display: inline-block; padding: 16px 36px;
+            background: var(--cs-primary); color: #fff !important;
+            border-radius: 10px; font-weight: 700; font-size: 15px;
+            text-decoration: none; box-shadow: 0 10px 28px rgba(241,111,48,0.25);
+        }
+        .cs-faq-cta:hover { background: #d85a1f; transform: translateY(-2px); color: #fff !important; }
     </style>
+
 </head>
 
 <body>
     <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4XDB2GZ"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4XDB2GZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <?php include(__DIR__ . "/includes/header.php"); ?>
 
-
-
-    <!-- Start Case Studies Section
-    ============================================= -->
-
-    <div class="case-studies-area default-padding">
+    <!-- HERO -->
+    <section class="cs-hero">
         <div class="container">
+            <div class="cs-hero-content">
+                <span class="cs-hero-eyebrow"><i class="fas fa-sparkles"></i> Case Studies &middot; Business Solutions</span>
+                <h1 class="cs-hero-title">What Are You Building? <br><span class="cs-hero-highlight">Let's Build It Together.</span></h1>
+                <p class="cs-hero-sub">From launching a consumer brand to scaling a B2B business or developing a technology product, ITD GrowthLabs brings <strong>strategy, technology, and marketing</strong> together to help businesses move forward.</p>
+                <div class="cs-hero-ctas">
+                    <a href="#categories" class="cs-hero-cta-primary">Explore Our Work <i class="fas fa-arrow-down"></i></a>
+                    <a href="/contact.php?src=cs_hero" class="cs-hero-cta-secondary">Discuss Your Project <i class="fas fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </div>
+    </section>
 
-            <div class="cs-section-head" style="margin-bottom:30px;">
-                <div class="cs-section-eyebrow">Step 1 &middot; What are you?</div>
-                <h2 class="cs-section-title">Pick where you fit</h2>
-                <p class="cs-section-sub">Choose <strong>D2C</strong> if you sell to consumers (skincare, jewelry, fashion, food). Choose <strong>B2B</strong> if you build or sell to businesses (SaaS, platforms, logistics).</p>
+    <!-- 5-CATEGORY SELECTOR -->
+    <section class="cs-selector-section" id="categories">
+        <div class="container">
+            <div class="cs-selector-head">
+                <span class="cs-section-eyebrow">Start Here</span>
+                <h2 class="cs-selector-title">Pick what you're building</h2>
+                <p class="cs-selector-sub">Choose the category closest to your business. We'll show you relevant projects, services, and how we can help.</p>
+            </div>
+            <div class="cs-selector-grid">
+                <a href="#cat-d2c" class="cs-selector-card" style="--cat-color:#ec4899;">
+                    <div class="cs-selector-icon" style="background:#ec4899; color:#fff;"><i class="fas fa-shopping-bag"></i></div>
+                    <div class="cs-selector-badge">01</div>
+                    <h3>D2C and Consumer Brands</h3>
+                    <p>For founders launching or scaling a consumer brand &mdash; skincare, beauty, jewelry, fashion, food, wellness.</p>
+                    <span class="cs-selector-explore">Explore Solutions <i class="fas fa-arrow-right"></i></span>
+                </a>
+                <a href="#cat-retail" class="cs-selector-card" style="--cat-color:#f59e0b;">
+                    <div class="cs-selector-icon" style="background:#f59e0b; color:#fff;"><i class="fas fa-store-alt"></i></div>
+                    <div class="cs-selector-badge">02</div>
+                    <h3>Retail and Store Launches</h3>
+                    <p>For brands opening a new retail outlet or entering a new city or market.</p>
+                    <span class="cs-selector-explore">Explore Solutions <i class="fas fa-arrow-right"></i></span>
+                </a>
+                <a href="#cat-b2b" class="cs-selector-card" style="--cat-color:#3b82f6;">
+                    <div class="cs-selector-icon" style="background:#3b82f6; color:#fff;"><i class="fas fa-industry"></i></div>
+                    <div class="cs-selector-badge">03</div>
+                    <h3>B2B and Manufacturing</h3>
+                    <p>For manufacturers, industrial businesses, wholesalers, distributors, exporters, and B2B service companies.</p>
+                    <span class="cs-selector-explore">Explore Solutions <i class="fas fa-arrow-right"></i></span>
+                </a>
+                <a href="#cat-logistics" class="cs-selector-card" style="--cat-color:#0284c7;">
+                    <div class="cs-selector-icon" style="background:#0284c7; color:#fff;"><i class="fas fa-truck"></i></div>
+                    <div class="cs-selector-badge">04</div>
+                    <h3>Logistics and Courier Businesses</h3>
+                    <p>For courier companies, freight forwarders, logistics providers, international shipping, fulfilment, and transport operators.</p>
+                    <span class="cs-selector-explore">Explore Solutions <i class="fas fa-arrow-right"></i></span>
+                </a>
+                <a href="#cat-tech" class="cs-selector-card" style="--cat-color:#7c3aed;">
+                    <div class="cs-selector-icon" style="background:#7c3aed; color:#fff;"><i class="fas fa-code"></i></div>
+                    <div class="cs-selector-badge">05</div>
+                    <h3>Technology and Product Development</h3>
+                    <p>For founders building an app, SaaS, marketplace, booking system, portal, or internal business tool.</p>
+                    <span class="cs-selector-explore">Explore Solutions <i class="fas fa-arrow-right"></i></span>
+                </a>
+            </div>
+            <div style="text-align:center; margin-top:36px;">
+                <a href="#cat-d2c" class="cs-view-all-link">Or scroll through all 5 categories <i class="fas fa-arrow-down"></i></a>
+            </div>
+        </div>
+    </section>
+
+    <!-- CATEGORY 01 - D2C and Consumer Brands -->
+    <section class="cs-cat-section" id="cat-d2c" data-cat-color="#ec4899">
+        <div class="container">
+            <div class="cs-cat-head">
+                <span class="cs-cat-order" style="color:#ec4899;">Category 01 of 05</span>
+                <h2 class="cs-cat-title"><i class="fas fa-shopping-bag" style="color:#ec4899; margin-right:14px;"></i>D2C and Consumer Brands</h2>
+                <p class="cs-cat-intro">For founders launching or scaling a consumer brand &mdash; skincare, beauty, jewelry, fashion, food, wellness. We bring brand strategy, Shopify + website, performance ads, content, influencer, SEO, and marketplace enablement under one roof.</p>
             </div>
 
-            <!-- Persona selector: 3 big cards -->
-            <div class="cs-persona-row" role="tablist" aria-label="Choose your category">
-                <button type="button" class="cs-persona-btn is-active" data-persona="all" aria-pressed="true">
-                    <span class="cs-persona-icon"><i class="fas fa-th-large"></i></span>
-                    <span class="cs-persona-label">All work</span>
-                    <span class="cs-persona-sub">See everything we've shipped — brands we scaled and platforms we built.</span>
-                    <span class="cs-persona-count">22 case studies</span>
-                </button>
-                <button type="button" class="cs-persona-btn" data-persona="d2c" aria-pressed="false">
-                    <span class="cs-persona-icon"><i class="fas fa-shopping-bag"></i></span>
-                    <span class="cs-persona-label">D2C Brand</span>
-                    <span class="cs-persona-sub">You sell to consumers. Skincare, jewelry, fashion, food, beauty, wellness.</span>
-                    <span class="cs-persona-count">6 case studies</span>
-                </button>
-                <button type="button" class="cs-persona-btn" data-persona="b2b" aria-pressed="false">
-                    <span class="cs-persona-icon"><i class="fas fa-building"></i></span>
-                    <span class="cs-persona-label">B2B / Enterprise</span>
-                    <span class="cs-persona-sub">You build or sell to businesses. SaaS, logistics, fintech, enterprise platforms.</span>
-                    <span class="cs-persona-count">16 case studies</span>
-                </button>
+            <div class="cs-pillars-row">
+                <div class="cs-pillars-label">What we help with</div>
+                <div class="cs-pillars-grid">
+                <div class="cs-pillar">
+                    <div class="cs-pillar-icon"><i class="fas fa-palette"></i></div>
+                    <h4>Brand Strategy & Positioning</h4>
+                    <p>Audience + category + competitive analysis. Positioning + differentiation. Messaging + brand communication direction.</p>
+                </div>
+                <div class="cs-pillar">
+                    <div class="cs-pillar-icon"><i class="fas fa-laptop-code"></i></div>
+                    <h4>Digital Presence</h4>
+                    <p>Brand websites. Shopify stores. Product + landing pages. Analytics + tracking + integrations.</p>
+                </div>
+                <div class="cs-pillar">
+                    <div class="cs-pillar-icon"><i class="fas fa-bullhorn"></i></div>
+                    <h4>Marketing & Acquisition</h4>
+                    <p>Social media. Content + photo + video + reels. Meta + Google Ads. Performance marketing. Influencer. SEO + AI-search.</p>
+                </div>
+                <div class="cs-pillar">
+                    <div class="cs-pillar-icon"><i class="fas fa-store"></i></div>
+                    <h4>E-commerce Enablement</h4>
+                    <p>Marketplace onboarding. Listing optimisation. Digital merchandising. Operational integrations.</p>
+                </div>
+                </div>
             </div>
 
-            <!-- Step 2: industry filter (contextual to persona) -->
-            <div class="cs-section-head" style="margin:40px auto 20px;">
-                <div class="cs-section-eyebrow">Step 2 &middot; (optional) Narrow by industry</div>
+            <div class="cs-projects-head">
+                <h3 class="cs-projects-title">Projects we've worked on</h3>
+                <span class="cs-projects-count">7 case studies</span>
             </div>
 
-            <!-- D2C industry chips (hidden when B2B selected) -->
-            <div class="cs-filter-group" data-persona-group="d2c-industry" aria-label="D2C industries">
-                <span class="cs-filter-group-label">D2C industry</span>
-                <button type="button" class="cs-filter-btn is-active" data-filter="d2c" aria-pressed="true">All D2C</button>
-                <button type="button" class="cs-filter-btn" data-filter="skincare" aria-pressed="false">Skincare</button>
-                <button type="button" class="cs-filter-btn" data-filter="beauty" aria-pressed="false">Beauty &amp; Cosmetics</button>
-                <button type="button" class="cs-filter-btn" data-filter="jewelry" aria-pressed="false">Jewelry</button>
-                <button type="button" class="cs-filter-btn" data-filter="fashion" aria-pressed="false">Fashion &amp; Apparel</button>
-                <button type="button" class="cs-filter-btn" data-filter="food-d2c" aria-pressed="false">Food &amp; Beverage</button>
-                <button type="button" class="cs-filter-btn" data-filter="wellness" aria-pressed="false">Wellness</button>
-            </div>
-
-            <!-- B2B industry chips (hidden when D2C selected) -->
-            <div class="cs-filter-group" data-persona-group="b2b-industry" aria-label="B2B industries">
-                <span class="cs-filter-group-label">B2B industry</span>
-                <button type="button" class="cs-filter-btn is-active" data-filter="b2b" aria-pressed="true">All B2B</button>
-                <button type="button" class="cs-filter-btn" data-filter="logistics" aria-pressed="false">Logistics &amp; Courier</button>
-                <button type="button" class="cs-filter-btn" data-filter="saas" aria-pressed="false">SaaS Platform</button>
-                <button type="button" class="cs-filter-btn" data-filter="marketplace" aria-pressed="false">Marketplace</button>
-                <button type="button" class="cs-filter-btn" data-filter="healthcare" aria-pressed="false">Healthcare</button>
-                <button type="button" class="cs-filter-btn" data-filter="fintech" aria-pressed="false">Fintech &amp; NBFC</button>
-                <button type="button" class="cs-filter-btn" data-filter="realestate" aria-pressed="false">Real Estate</button>
-                <button type="button" class="cs-filter-btn" data-filter="education" aria-pressed="false">Education</button>
-                <button type="button" class="cs-filter-btn" data-filter="food-b2b" aria-pressed="false">Food Tech / Restaurant</button>
-                <button type="button" class="cs-filter-btn" data-filter="deeptech" aria-pressed="false">Deep Tech</button>
-            </div>
-
-            <!-- Service filter (works across both personas) -->
-            <div class="cs-filter-group" data-persona-group="service" aria-label="Service type">
-                <span class="cs-filter-group-label">Service</span>
-                <button type="button" class="cs-filter-btn is-active" data-filter="all-services" aria-pressed="true">Any service</button>
-                <button type="button" class="cs-filter-btn" data-filter="performance" aria-pressed="false">Performance Marketing</button>
-                <button type="button" class="cs-filter-btn" data-filter="technology" aria-pressed="false">Technology / App Dev</button>
-                <button type="button" class="cs-filter-btn" data-filter="whatsapp" aria-pressed="false">WhatsApp CRM</button>
-                <button type="button" class="cs-filter-btn" data-filter="full-funnel" aria-pressed="false">Full Funnel Growth</button>
-            </div>
-            <div style="height:30px;"></div>
-
-            <!-- MEGA case study grid - redesigned for visual + user-experience -->
             <div class="cs-mega-grid">
-            <article class="cs-mega-card" data-category="d2c skincare performance full-funnel">
-                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#be185d 0%,#ec4899 100%);">
-                    <div class="cs-mega-bg-icon"><i class="fas fa-leaf"></i></div>
-                    <div class="cs-mega-visual-top">
-                        <span class="cs-mega-persona-tag">D2C &middot; Skincare</span>
-                        <span class="cs-mega-nda-badge"><i class="fas fa-shield-alt"></i> Under NDA</span>
-                    </div>
-                </div>
-                <div class="cs-mega-body">
-                    <h3 class="cs-mega-title">Scaled a skincare brand <strong>Rs 15L -&gt; Rs 2 Cr/mo</strong></h3>
-                    <p class="cs-mega-sub">Clean-beauty, concern-led. India + GCC. 24-month engagement.</p>
-                    <div class="cs-mega-stats">
-                        <div class="cs-mega-stat"><strong>13x</strong><span>Revenue</span></div>
-                        <div class="cs-mega-stat"><strong>2.5x</strong><span>ROAS lift</span></div>
-                        <div class="cs-mega-stat"><strong>48%</strong><span>Repeat rate</span></div>
-                        <div class="cs-mega-stat"><strong>-56%</strong><span>CPL</span></div>
-                    </div>
-                    <div class="cs-mega-services-wrap">
-                        <div class="cs-mega-services-label">What we delivered</div>
-                        <div class="cs-mega-services">
-                            <span class="cs-mega-chip"><i class="fab fa-shopify"></i> Shopify + CRM</span>
-                        <span class="cs-mega-chip"><i class="fab fa-meta"></i> Meta + Google Ads</span>
-                        <span class="cs-mega-chip"><i class="fab fa-whatsapp"></i> WhatsApp CRM</span>
-                        <span class="cs-mega-chip"><i class="fas fa-search"></i> SEO Silo (60 pages)</span>
-                        <span class="cs-mega-chip"><i class="fas fa-video"></i> Creator Pod</span>
-                        <span class="cs-mega-chip"><i class="fas fa-globe"></i> GCC Launch</span>
+                <article class="cs-mega-card" data-category="d2c skincare performance full-funnel">
+                    <div class="cs-mega-visual" style="background:linear-gradient(135deg,#be185d 0%,#ec4899 100%);">
+                        <div class="cs-mega-bg-icon"><i class="fas fa-leaf"></i></div>
+                        <div class="cs-mega-visual-top">
+                            <span class="cs-mega-persona-tag">D2C &middot; Skincare</span>
+                            <span class="cs-mega-nda-badge"><i class="fas fa-shield-alt"></i> Under NDA</span>
                         </div>
                     </div>
-                    <div class="cs-mega-ctas">
-                        <a href="/case-studies/d2c-skincare-brand-scale.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
-                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_d2c-skincare-brand-scale" target="_blank" rel="noopener">Book Similar Call</a>
-                    </div>
-                </div>
-            </article>
-            <article class="cs-mega-card" data-category="d2c jewelry full-funnel whatsapp">
-                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#92400e 0%,#f59e0b 100%);">
-                    <div class="cs-mega-bg-icon"><i class="fas fa-gem"></i></div>
-                    <div class="cs-mega-visual-top">
-                        <span class="cs-mega-persona-tag">D2C &middot; Jewelry</span>
-                        <span class="cs-mega-nda-badge"><i class="fas fa-shield-alt"></i> Named ref on NDA</span>
-                    </div>
-                </div>
-                <div class="cs-mega-body">
-                    <h3 class="cs-mega-title">Jewelry D2C brand <strong>full-stack growth engine</strong></h3>
-                    <p class="cs-mega-sub">Fine + occasion + fashion jewelry. India to GCC roadmap. Ongoing.</p>
-                    <div class="cs-mega-stats">
-                        <div class="cs-mega-stat"><strong>3.8x</strong><span>Blended ROAS</span></div>
-                        <div class="cs-mega-stat"><strong>4x</strong><span>Shopify sessions</span></div>
-                        <div class="cs-mega-stat"><strong>+15%</strong><span>AOV</span></div>
-                        <div class="cs-mega-stat"><strong>+80%</strong><span>Festive revenue</span></div>
-                    </div>
-                    <div class="cs-mega-services-wrap">
-                        <div class="cs-mega-services-label">What we delivered</div>
-                        <div class="cs-mega-services">
-                            <span class="cs-mega-chip"><i class="fab fa-shopify"></i> Shopify + AR</span>
-                        <span class="cs-mega-chip"><i class="fab fa-google"></i> Google Shopping + PMax</span>
-                        <span class="cs-mega-chip"><i class="fab fa-meta"></i> Meta Advantage+</span>
-                        <span class="cs-mega-chip"><i class="fab fa-instagram"></i> Instagram Organic 3x</span>
-                        <span class="cs-mega-chip"><i class="fab fa-whatsapp"></i> WhatsApp Cloud API</span>
-                        <span class="cs-mega-chip"><i class="fas fa-calendar"></i> Festive Calendar</span>
+                    <div class="cs-mega-body">
+                        <h3 class="cs-mega-title">Scaled a clean-beauty skincare brand <strong>Rs 15L to Rs 2.4 Cr/month</strong></h3>
+                        <p class="cs-mega-sub">Concern-led acne + oily skin range. India + GCC. 24-month full-funnel engagement.</p>
+                        <div class="cs-mega-stats">
+                            <div class="cs-mega-stat"><strong>16x</strong><span>Revenue</span></div>
+                            <div class="cs-mega-stat"><strong>4.9x</strong><span>ROAS</span></div>
+                            <div class="cs-mega-stat"><strong>52%</strong><span>Repeat</span></div>
+                            <div class="cs-mega-stat"><strong>-58%</strong><span>CPL</span></div>
+                        </div>
+                        <div class="cs-mega-services-wrap">
+                            <div class="cs-mega-services-label">What we delivered</div>
+                            <div class="cs-mega-services">
+                                <span class="cs-mega-chip"><i class="fab fa-shopify"></i> Shopify + CRM</span>
+                            <span class="cs-mega-chip"><i class="fab fa-meta"></i> Meta + Google Ads</span>
+                            <span class="cs-mega-chip"><i class="fab fa-whatsapp"></i> WhatsApp CRM</span>
+                            <span class="cs-mega-chip"><i class="fas fa-search"></i> SEO Silo (60+ pages)</span>
+                            <span class="cs-mega-chip"><i class="fas fa-video"></i> Dermatologist + Creator Pod</span>
+                            <span class="cs-mega-chip"><i class="fas fa-globe"></i> GCC 4-city launch</span>
+                            <span class="cs-mega-chip"><i class="fas fa-sync"></i> Subscription (0 to 32%)</span>
+                            <span class="cs-mega-chip"><i class="fas fa-camera"></i> Content + UGC Library</span>
+                            </div>
+                        </div>
+                        <div class="cs-mega-ctas">
+                            <a href="/case-studies/d2c-skincare-brand-scale.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                            <a href="/contact.php?src=cs_d2c-skincare-brand-scale" class="cs-mega-cta-secondary">Discuss a Similar Project</a>
                         </div>
                     </div>
-                    <div class="cs-mega-ctas">
-                        <a href="/case-studies/d2c-jewelry-brand-growth.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
-                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_d2c-jewelry-brand-growth" target="_blank" rel="noopener">Book Similar Call</a>
-                    </div>
-                </div>
-            </article>
-            <article class="cs-mega-card" data-category="d2c beauty performance full-funnel">
-                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#7e22ce 0%,#a855f7 100%);">
-                    <div class="cs-mega-bg-icon"><i class="fas fa-magic"></i></div>
-                    <div class="cs-mega-visual-top">
-                        <span class="cs-mega-persona-tag">D2C &middot; Beauty & Cosmetics</span>
-                        <span class="cs-mega-nda-badge"><i class="fas fa-shield-alt"></i> Under NDA</span>
-                    </div>
-                </div>
-                <div class="cs-mega-body">
-                    <h3 class="cs-mega-title">Beauty brand <strong>Rs 20L -&gt; Rs 85L/mo</strong> on concern-led funnel</h3>
-                    <p class="cs-mega-sub">Premium cosmetics for Indian skin tones. D2C + Nykaa + Amazon.</p>
-                    <div class="cs-mega-stats">
-                        <div class="cs-mega-stat"><strong>4.3x</strong><span>Revenue</span></div>
-                        <div class="cs-mega-stat"><strong>4.2x</strong><span>ROAS</span></div>
-                        <div class="cs-mega-stat"><strong>38%</strong><span>Quiz-to-cart</span></div>
-                        <div class="cs-mega-stat"><strong>2.1x</strong><span>Nykaa lift</span></div>
-                    </div>
-                    <div class="cs-mega-services-wrap">
-                        <div class="cs-mega-services-label">What we delivered</div>
-                        <div class="cs-mega-services">
-                            <span class="cs-mega-chip"><i class="fab fa-shopify"></i> Shopify + Shade Quiz</span>
-                        <span class="cs-mega-chip"><i class="fab fa-meta"></i> Meta UGC Ads</span>
-                        <span class="cs-mega-chip"><i class="fas fa-store"></i> Nykaa Beauty Ops</span>
-                        <span class="cs-mega-chip"><i class="fas fa-star"></i> Celebrity Creator Pod</span>
-                        <span class="cs-mega-chip"><i class="fas fa-video"></i> Reels-First Creative</span>
-                        <span class="cs-mega-chip"><i class="fas fa-camera"></i> Tutorial Library</span>
+                </article>
+                <article class="cs-mega-card" data-category="d2c jewelry full-funnel whatsapp">
+                    <div class="cs-mega-visual" style="background:linear-gradient(135deg,#92400e 0%,#f59e0b 100%);">
+                        <div class="cs-mega-bg-icon"><i class="fas fa-gem"></i></div>
+                        <div class="cs-mega-visual-top">
+                            <span class="cs-mega-persona-tag">D2C &middot; Jewelry</span>
+                            <span class="cs-mega-nda-badge"><i class="fas fa-shield-alt"></i> Named ref on NDA</span>
                         </div>
                     </div>
-                    <div class="cs-mega-ctas">
-                        <a href="/case-studies/d2c-beauty-brand-scale.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
-                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_d2c-beauty-brand-scale" target="_blank" rel="noopener">Book Similar Call</a>
-                    </div>
-                </div>
-            </article>
-            <article class="cs-mega-card" data-category="d2c fashion performance full-funnel">
-                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#0e7490 0%,#06b6d4 100%);">
-                    <div class="cs-mega-bg-icon"><i class="fas fa-tshirt"></i></div>
-                    <div class="cs-mega-visual-top">
-                        <span class="cs-mega-persona-tag">D2C &middot; Fashion & Apparel</span>
-                        <span class="cs-mega-nda-badge"><i class="fas fa-shield-alt"></i> Under NDA</span>
-                    </div>
-                </div>
-                <div class="cs-mega-body">
-                    <h3 class="cs-mega-title">Fashion brand <strong>influencer-led occasion-wear scale</strong></h3>
-                    <p class="cs-mega-sub">Ethnic + fusion occasion wear. D2C + Myntra + Ajio.</p>
-                    <div class="cs-mega-stats">
-                        <div class="cs-mega-stat"><strong>2.9x</strong><span>ROAS</span></div>
-                        <div class="cs-mega-stat"><strong>42%</strong><span>Repeat rate</span></div>
-                        <div class="cs-mega-stat"><strong>-45%</strong><span>Return rate</span></div>
-                        <div class="cs-mega-stat"><strong>180+</strong><span>Creators/qtr</span></div>
-                    </div>
-                    <div class="cs-mega-services-wrap">
-                        <div class="cs-mega-services-label">What we delivered</div>
-                        <div class="cs-mega-services">
-                            <span class="cs-mega-chip"><i class="fas fa-store"></i> Shopify + Myntra Ops</span>
-                        <span class="cs-mega-chip"><i class="fab fa-meta"></i> Meta Branded Content</span>
-                        <span class="cs-mega-chip"><i class="fas fa-users"></i> 180+ Creator Pod</span>
-                        <span class="cs-mega-chip"><i class="fab fa-whatsapp"></i> WhatsApp Styling</span>
-                        <span class="cs-mega-chip"><i class="fas fa-ruler"></i> Size AI + Fit Guide</span>
-                        <span class="cs-mega-chip"><i class="fas fa-calendar"></i> Occasion Calendar</span>
+                    <div class="cs-mega-body">
+                        <h3 class="cs-mega-title">Jewelry brand <strong>full-stack growth engine</strong></h3>
+                        <p class="cs-mega-sub">Fine + occasion + fashion jewelry. India to GCC roadmap. Ongoing.</p>
+                        <div class="cs-mega-stats">
+                            <div class="cs-mega-stat"><strong>4.2x</strong><span>Blended ROAS</span></div>
+                            <div class="cs-mega-stat"><strong>5x</strong><span>Shopify sessions</span></div>
+                            <div class="cs-mega-stat"><strong>+22%</strong><span>AOV</span></div>
+                            <div class="cs-mega-stat"><strong>+95%</strong><span>Festive revenue</span></div>
+                        </div>
+                        <div class="cs-mega-services-wrap">
+                            <div class="cs-mega-services-label">What we delivered</div>
+                            <div class="cs-mega-services">
+                                <span class="cs-mega-chip"><i class="fab fa-shopify"></i> Shopify + AR Try-on</span>
+                            <span class="cs-mega-chip"><i class="fab fa-google"></i> Google Shopping + PMax</span>
+                            <span class="cs-mega-chip"><i class="fab fa-meta"></i> Meta Advantage+</span>
+                            <span class="cs-mega-chip"><i class="fab fa-instagram"></i> Instagram Organic 3x</span>
+                            <span class="cs-mega-chip"><i class="fab fa-whatsapp"></i> WhatsApp Cloud API</span>
+                            <span class="cs-mega-chip"><i class="fas fa-calendar"></i> Dhanteras + Akshaya Tritiya + Wedding</span>
+                            <span class="cs-mega-chip"><i class="fas fa-shield-alt"></i> BIS + HUID Trust</span>
+                            <span class="cs-mega-chip"><i class="fas fa-user-friends"></i> Micro-Creator Pod</span>
+                            </div>
+                        </div>
+                        <div class="cs-mega-ctas">
+                            <a href="/case-studies/d2c-jewelry-brand-growth.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                            <a href="/contact.php?src=cs_d2c-jewelry-brand-growth" class="cs-mega-cta-secondary">Discuss a Similar Project</a>
                         </div>
                     </div>
-                    <div class="cs-mega-ctas">
-                        <a href="/case-studies/d2c-fashion-brand-growth.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
-                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_d2c-fashion-brand-growth" target="_blank" rel="noopener">Book Similar Call</a>
-                    </div>
-                </div>
-            </article>
-            <article class="cs-mega-card" data-category="d2c food-d2c performance full-funnel">
-                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#065f46 0%,#10b981 100%);">
-                    <div class="cs-mega-bg-icon"><i class="fas fa-mug-hot"></i></div>
-                    <div class="cs-mega-visual-top">
-                        <span class="cs-mega-persona-tag">D2C &middot; Food & Beverage</span>
-                        <span class="cs-mega-nda-badge"><i class="fas fa-shield-alt"></i> Under NDA</span>
-                    </div>
-                </div>
-                <div class="cs-mega-body">
-                    <h3 class="cs-mega-title">Food brand <strong>Rs 25L -&gt; Rs 75L/mo</strong> via subscription</h3>
-                    <p class="cs-mega-sub">Premium wellness-food. D2C + Zepto + Blinkit + Amazon Fresh.</p>
-                    <div class="cs-mega-stats">
-                        <div class="cs-mega-stat"><strong>3x</strong><span>Revenue</span></div>
-                        <div class="cs-mega-stat"><strong>2.4x</strong><span>ROAS</span></div>
-                        <div class="cs-mega-stat"><strong>55%</strong><span>Sub attach</span></div>
-                        <div class="cs-mega-stat"><strong>+68%</strong><span>QCom revenue</span></div>
-                    </div>
-                    <div class="cs-mega-services-wrap">
-                        <div class="cs-mega-services-label">What we delivered</div>
-                        <div class="cs-mega-services">
-                            <span class="cs-mega-chip"><i class="fab fa-shopify"></i> Shopify + Recharge</span>
-                        <span class="cs-mega-chip"><i class="fas fa-bolt"></i> Zepto/Blinkit Ads</span>
-                        <span class="cs-mega-chip"><i class="fab fa-meta"></i> Flavor-Cohort Ads</span>
-                        <span class="cs-mega-chip"><i class="fab fa-whatsapp"></i> WhatsApp Refill</span>
-                        <span class="cs-mega-chip"><i class="fas fa-utensils"></i> Chef UGC Content</span>
-                        <span class="cs-mega-chip"><i class="fas fa-gift"></i> Festive Gifting</span>
+                </article>
+                <article class="cs-mega-card" data-category="d2c beauty performance full-funnel">
+                    <div class="cs-mega-visual" style="background:linear-gradient(135deg,#7e22ce 0%,#a855f7 100%);">
+                        <div class="cs-mega-bg-icon"><i class="fas fa-magic"></i></div>
+                        <div class="cs-mega-visual-top">
+                            <span class="cs-mega-persona-tag">D2C &middot; Beauty & Cosmetics</span>
+                            <span class="cs-mega-nda-badge"><i class="fas fa-shield-alt"></i> Under NDA</span>
                         </div>
                     </div>
-                    <div class="cs-mega-ctas">
-                        <a href="/case-studies/d2c-food-beverage-brand-scale.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
-                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_d2c-food-beverage-brand-scale" target="_blank" rel="noopener">Book Similar Call</a>
-                    </div>
-                </div>
-            </article>
-            <article class="cs-mega-card" data-category="d2c wellness performance full-funnel">
-                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#075985 0%,#0ea5e9 100%);">
-                    <div class="cs-mega-bg-icon"><i class="fas fa-heartbeat"></i></div>
-                    <div class="cs-mega-visual-top">
-                        <span class="cs-mega-persona-tag">D2C &middot; Wellness & Supplements</span>
-                        <span class="cs-mega-nda-badge"><i class="fas fa-shield-alt"></i> Under NDA</span>
-                    </div>
-                </div>
-                <div class="cs-mega-body">
-                    <h3 class="cs-mega-title">Wellness brand <strong>Rs 12L -&gt; Rs 65L/mo</strong> trust-funnel</h3>
-                    <p class="cs-mega-sub">Nutraceutical. D2C + Nykaa + Amazon + Flipkart. FSSAI compliance.</p>
-                    <div class="cs-mega-stats">
-                        <div class="cs-mega-stat"><strong>5.4x</strong><span>Revenue</span></div>
-                        <div class="cs-mega-stat"><strong>3.5x</strong><span>ROAS</span></div>
-                        <div class="cs-mega-stat"><strong>48%</strong><span>Repeat rate</span></div>
-                        <div class="cs-mega-stat"><strong>0</strong><span>Meta disapprovals</span></div>
-                    </div>
-                    <div class="cs-mega-services-wrap">
-                        <div class="cs-mega-services-label">What we delivered</div>
-                        <div class="cs-mega-services">
-                            <span class="cs-mega-chip"><i class="fab fa-shopify"></i> Shopify + Calendly</span>
-                        <span class="cs-mega-chip"><i class="fas fa-user-md"></i> Doctor Content Pillar</span>
-                        <span class="cs-mega-chip"><i class="fas fa-shield-alt"></i> FSSAI + COA Display</span>
-                        <span class="cs-mega-chip"><i class="fab fa-linkedin"></i> Founder LinkedIn PB</span>
-                        <span class="cs-mega-chip"><i class="fas fa-store"></i> Nykaa + Amazon + Flipkart</span>
-                        <span class="cs-mega-chip"><i class="fab fa-whatsapp"></i> WhatsApp Dosage</span>
+                    <div class="cs-mega-body">
+                        <h3 class="cs-mega-title">Beauty brand <strong>Rs 20L to Rs 1.1 Cr/mo</strong> via concern-led funnel</h3>
+                        <p class="cs-mega-sub">Premium cosmetics for Indian skin tones. D2C + Nykaa + Amazon.</p>
+                        <div class="cs-mega-stats">
+                            <div class="cs-mega-stat"><strong>5.5x</strong><span>Revenue</span></div>
+                            <div class="cs-mega-stat"><strong>4.6x</strong><span>ROAS</span></div>
+                            <div class="cs-mega-stat"><strong>42%</strong><span>Quiz-to-cart</span></div>
+                            <div class="cs-mega-stat"><strong>2.4x</strong><span>Nykaa lift</span></div>
+                        </div>
+                        <div class="cs-mega-services-wrap">
+                            <div class="cs-mega-services-label">What we delivered</div>
+                            <div class="cs-mega-services">
+                                <span class="cs-mega-chip"><i class="fab fa-shopify"></i> Shopify + Shade Quiz</span>
+                            <span class="cs-mega-chip"><i class="fab fa-meta"></i> Meta UGC Ads</span>
+                            <span class="cs-mega-chip"><i class="fas fa-store"></i> Nykaa Beauty Ops</span>
+                            <span class="cs-mega-chip"><i class="fas fa-star"></i> Celebrity Creator Pod</span>
+                            <span class="cs-mega-chip"><i class="fas fa-video"></i> Reels-First Creative</span>
+                            <span class="cs-mega-chip"><i class="fas fa-camera"></i> Tutorial Library</span>
+                            <span class="cs-mega-chip"><i class="fas fa-palette"></i> Shade-matcher AI</span>
+                            <span class="cs-mega-chip"><i class="fas fa-gift"></i> Festive + Bridal Campaigns</span>
+                            </div>
+                        </div>
+                        <div class="cs-mega-ctas">
+                            <a href="/case-studies/d2c-beauty-brand-scale.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                            <a href="/contact.php?src=cs_d2c-beauty-brand-scale" class="cs-mega-cta-secondary">Discuss a Similar Project</a>
                         </div>
                     </div>
-                    <div class="cs-mega-ctas">
-                        <a href="/case-studies/d2c-wellness-brand-growth.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
-                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_d2c-wellness-brand-growth" target="_blank" rel="noopener">Book Similar Call</a>
-                    </div>
-                </div>
-            </article>
-            <article class="cs-mega-card" data-category="d2c fashion technology">
-                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#9d174d 0%,#f472b6 100%);">
-                    <div class="cs-mega-bg-icon"><i class="fas fa-mobile-alt"></i></div>
-                    <div class="cs-mega-visual-top">
-                        <span class="cs-mega-persona-tag">D2C &middot; Fashion / Tech Build</span>
-                        
-                    </div>
-                </div>
-                <div class="cs-mega-body">
-                    <h3 class="cs-mega-title">D2C fashion brand <strong>mobile commerce app</strong></h3>
-                    <p class="cs-mega-sub">iOS + Android with Shopify sync + push + loyalty + personalisation.</p>
-                    <div class="cs-mega-stats">
-                        <div class="cs-mega-stat"><strong>iOS +</strong><span>Android</span></div>
-                        <div class="cs-mega-stat"><strong>Live</strong><span>Shopify sync</span></div>
-                        <div class="cs-mega-stat"><strong>Push</strong><span>Lifecycle flows</span></div>
-                        <div class="cs-mega-stat"><strong>30%</strong><span>App repeat uplift</span></div>
-                    </div>
-                    <div class="cs-mega-services-wrap">
-                        <div class="cs-mega-services-label">What we delivered</div>
-                        <div class="cs-mega-services">
-                            <span class="cs-mega-chip"><i class="fab fa-apple"></i> iOS Native</span>
-                        <span class="cs-mega-chip"><i class="fab fa-android"></i> Android Native</span>
-                        <span class="cs-mega-chip"><i class="fab fa-shopify"></i> Shopify Headless</span>
-                        <span class="cs-mega-chip"><i class="fas fa-bell"></i> Push Notifications</span>
-                        <span class="cs-mega-chip"><i class="fas fa-user-circle"></i> Login + Loyalty</span>
-                        <span class="cs-mega-chip"><i class="fas fa-brain"></i> Recommendation Engine</span>
+                </article>
+                <article class="cs-mega-card" data-category="d2c fashion performance full-funnel">
+                    <div class="cs-mega-visual" style="background:linear-gradient(135deg,#0e7490 0%,#06b6d4 100%);">
+                        <div class="cs-mega-bg-icon"><i class="fas fa-tshirt"></i></div>
+                        <div class="cs-mega-visual-top">
+                            <span class="cs-mega-persona-tag">D2C &middot; Fashion & Apparel</span>
+                            <span class="cs-mega-nda-badge"><i class="fas fa-shield-alt"></i> Under NDA</span>
                         </div>
                     </div>
-                    <div class="cs-mega-ctas">
-                        <a href="/case-studies/d2c-ecommerce-mobile-app-fashion-brand.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
-                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_d2c-ecommerce-mobile-app-fashion-brand" target="_blank" rel="noopener">Book Similar Call</a>
-                    </div>
-                </div>
-            </article>
-            <article class="cs-mega-card" data-category="b2b deeptech technology">
-                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#1a1240 0%,#7c3aed 100%);">
-                    <div class="cs-mega-bg-icon"><i class="fas fa-atom"></i></div>
-                    <div class="cs-mega-visual-top">
-                        <span class="cs-mega-persona-tag">B2B &middot; Deep Tech</span>
-                        <span class="cs-mega-nda-badge"><i class="fas fa-shield-alt"></i> Under NDA</span>
-                    </div>
-                </div>
-                <div class="cs-mega-body">
-                    <h3 class="cs-mega-title">Quantum-era data platform for a <strong>deep-tech R&amp;D client</strong></h3>
-                    <p class="cs-mega-sub">Dedicated Python + DevOps pod. Active engagement.</p>
-                    <div class="cs-mega-stats">
-                        <div class="cs-mega-stat"><strong>Active</strong><span>Build in progress</span></div>
-                        <div class="cs-mega-stat"><strong>Large</strong><span>Scale datasets</span></div>
-                        <div class="cs-mega-stat"><strong>LT</strong><span>Roadmap partner</span></div>
-                        <div class="cs-mega-stat"><strong>Python</strong><span>+ DevOps pod</span></div>
-                    </div>
-                    <div class="cs-mega-services-wrap">
-                        <div class="cs-mega-services-label">What we delivered</div>
-                        <div class="cs-mega-services">
-                            <span class="cs-mega-chip"><i class="fab fa-python"></i> Python Services</span>
-                        <span class="cs-mega-chip"><i class="fas fa-server"></i> DevOps + Cloud</span>
-                        <span class="cs-mega-chip"><i class="fas fa-stream"></i> Data Pipelines</span>
-                        <span class="cs-mega-chip"><i class="fas fa-sync"></i> CI/CD</span>
-                        <span class="cs-mega-chip"><i class="fas fa-chart-line"></i> Observability</span>
-                        <span class="cs-mega-chip"><i class="fas fa-cube"></i> Containerised</span>
+                    <div class="cs-mega-body">
+                        <h3 class="cs-mega-title">Fashion brand <strong>creator-led occasion-wear scale</strong></h3>
+                        <p class="cs-mega-sub">Ethnic + fusion occasion wear. D2C + Myntra + Ajio. 15-month engagement.</p>
+                        <div class="cs-mega-stats">
+                            <div class="cs-mega-stat"><strong>3.4x</strong><span>ROAS</span></div>
+                            <div class="cs-mega-stat"><strong>48%</strong><span>Repeat rate</span></div>
+                            <div class="cs-mega-stat"><strong>-50%</strong><span>Return rate</span></div>
+                            <div class="cs-mega-stat"><strong>240+</strong><span>Creators/qtr</span></div>
+                        </div>
+                        <div class="cs-mega-services-wrap">
+                            <div class="cs-mega-services-label">What we delivered</div>
+                            <div class="cs-mega-services">
+                                <span class="cs-mega-chip"><i class="fas fa-store"></i> Shopify + Myntra Ops</span>
+                            <span class="cs-mega-chip"><i class="fab fa-meta"></i> Meta Branded Content Ads</span>
+                            <span class="cs-mega-chip"><i class="fas fa-users"></i> 240+ Creator Pod</span>
+                            <span class="cs-mega-chip"><i class="fab fa-whatsapp"></i> WhatsApp Styling Consult</span>
+                            <span class="cs-mega-chip"><i class="fas fa-ruler"></i> Size AI + Fit Guide</span>
+                            <span class="cs-mega-chip"><i class="fas fa-calendar"></i> Diwali + Wedding + Eid Campaigns</span>
+                            <span class="cs-mega-chip"><i class="fas fa-camera"></i> UGC Content Library</span>
+                            <span class="cs-mega-chip"><i class="fas fa-undo"></i> Returns Prevention Flow</span>
+                            </div>
+                        </div>
+                        <div class="cs-mega-ctas">
+                            <a href="/case-studies/d2c-fashion-brand-growth.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                            <a href="/contact.php?src=cs_d2c-fashion-brand-growth" class="cs-mega-cta-secondary">Discuss a Similar Project</a>
                         </div>
                     </div>
-                    <div class="cs-mega-ctas">
-                        <a href="/case-studies/quantum-era-data-platform.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
-                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_quantum-era-data-platform" target="_blank" rel="noopener">Book Similar Call</a>
-                    </div>
-                </div>
-            </article>
-            <article class="cs-mega-card" data-category="b2b logistics technology">
-                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#0c4a6e 0%,#0284c7 100%);">
-                    <div class="cs-mega-bg-icon"><i class="fas fa-truck"></i></div>
-                    <div class="cs-mega-visual-top">
-                        <span class="cs-mega-persona-tag">B2B &middot; Logistics & Courier</span>
-                        
-                    </div>
-                </div>
-                <div class="cs-mega-body">
-                    <h3 class="cs-mega-title">Courier Management System for a <strong>mid-sized 3PL</strong></h3>
-                    <p class="cs-mega-sub">Admin + Driver + Customer apps + billing + reporting.</p>
-                    <div class="cs-mega-stats">
-                        <div class="cs-mega-stat"><strong>50K+</strong><span>Monthly shipments</span></div>
-                        <div class="cs-mega-stat"><strong>3</strong><span>Apps shipped</span></div>
-                        <div class="cs-mega-stat"><strong>-70%</strong><span>Manual ops</span></div>
-                        <div class="cs-mega-stat"><strong>API</strong><span>+ Webhook ready</span></div>
-                    </div>
-                    <div class="cs-mega-services-wrap">
-                        <div class="cs-mega-services-label">What we delivered</div>
-                        <div class="cs-mega-services">
-                            <span class="cs-mega-chip"><i class="fas fa-tachometer-alt"></i> Admin Dashboard</span>
-                        <span class="cs-mega-chip"><i class="fas fa-mobile-alt"></i> Driver App</span>
-                        <span class="cs-mega-chip"><i class="fas fa-user-circle"></i> Customer App</span>
-                        <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Billing</span>
-                        <span class="cs-mega-chip"><i class="fas fa-chart-bar"></i> Reports</span>
-                        <span class="cs-mega-chip"><i class="fas fa-plug"></i> API + Webhooks</span>
+                </article>
+                <article class="cs-mega-card" data-category="d2c food-d2c performance full-funnel">
+                    <div class="cs-mega-visual" style="background:linear-gradient(135deg,#065f46 0%,#10b981 100%);">
+                        <div class="cs-mega-bg-icon"><i class="fas fa-mug-hot"></i></div>
+                        <div class="cs-mega-visual-top">
+                            <span class="cs-mega-persona-tag">D2C &middot; Food & Beverage</span>
+                            <span class="cs-mega-nda-badge"><i class="fas fa-shield-alt"></i> Under NDA</span>
                         </div>
                     </div>
-                    <div class="cs-mega-ctas">
-                        <a href="/case-studies/courier-management-system.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
-                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_courier-management-system" target="_blank" rel="noopener">Book Similar Call</a>
-                    </div>
-                </div>
-            </article>
-            <article class="cs-mega-card" data-category="b2b logistics saas technology">
-                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#14532d 0%,#22c55e 100%);">
-                    <div class="cs-mega-bg-icon"><i class="fas fa-globe-asia"></i></div>
-                    <div class="cs-mega-visual-top">
-                        <span class="cs-mega-persona-tag">B2B &middot; Logistics SaaS</span>
-                        
-                    </div>
-                </div>
-                <div class="cs-mega-body">
-                    <h3 class="cs-mega-title">Cross-border courier <strong>SaaS platform</strong></h3>
-                    <p class="cs-mega-sub">Multi-tenant SaaS for cross-border logistics ops.</p>
-                    <div class="cs-mega-stats">
-                        <div class="cs-mega-stat"><strong>Multi-tenant</strong><span>Architecture</span></div>
-                        <div class="cs-mega-stat"><strong>5+</strong><span>Carrier integrations</span></div>
-                        <div class="cs-mega-stat"><strong>Live</strong><span>In production</span></div>
-                        <div class="cs-mega-stat"><strong>API-first</strong><span>+ Reporting</span></div>
-                    </div>
-                    <div class="cs-mega-services-wrap">
-                        <div class="cs-mega-services-label">What we delivered</div>
-                        <div class="cs-mega-services">
-                            <span class="cs-mega-chip"><i class="fas fa-layer-group"></i> Multi-tenant SaaS</span>
-                        <span class="cs-mega-chip"><i class="fas fa-plug"></i> Carrier Integrations</span>
-                        <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Billing + Subscription</span>
-                        <span class="cs-mega-chip"><i class="fas fa-chart-bar"></i> Analytics</span>
-                        <span class="cs-mega-chip"><i class="fas fa-users"></i> Role-based Access</span>
-                        <span class="cs-mega-chip"><i class="fas fa-shield-alt"></i> Compliance</span>
+                    <div class="cs-mega-body">
+                        <h3 class="cs-mega-title">Food brand <strong>Rs 25L to Rs 90L/mo</strong> via subscription</h3>
+                        <p class="cs-mega-sub">Premium wellness-food. D2C + Zepto + Blinkit + Amazon Fresh.</p>
+                        <div class="cs-mega-stats">
+                            <div class="cs-mega-stat"><strong>3.6x</strong><span>Revenue</span></div>
+                            <div class="cs-mega-stat"><strong>2.8x</strong><span>ROAS</span></div>
+                            <div class="cs-mega-stat"><strong>62%</strong><span>Sub attach</span></div>
+                            <div class="cs-mega-stat"><strong>+82%</strong><span>QCom revenue</span></div>
+                        </div>
+                        <div class="cs-mega-services-wrap">
+                            <div class="cs-mega-services-label">What we delivered</div>
+                            <div class="cs-mega-services">
+                                <span class="cs-mega-chip"><i class="fab fa-shopify"></i> Shopify + Recharge</span>
+                            <span class="cs-mega-chip"><i class="fas fa-bolt"></i> Zepto/Blinkit Ads</span>
+                            <span class="cs-mega-chip"><i class="fab fa-meta"></i> Flavor-Cohort Ads</span>
+                            <span class="cs-mega-chip"><i class="fab fa-whatsapp"></i> WhatsApp Refill + Feedback</span>
+                            <span class="cs-mega-chip"><i class="fas fa-utensils"></i> Chef UGC + Nutritionist</span>
+                            <span class="cs-mega-chip"><i class="fas fa-gift"></i> Festive Gifting SKUs</span>
+                            <span class="cs-mega-chip"><i class="fas fa-cubes"></i> Bundle AOV Lift</span>
+                            <span class="cs-mega-chip"><i class="fas fa-chart-line"></i> LTV + Cohort Analytics</span>
+                            </div>
+                        </div>
+                        <div class="cs-mega-ctas">
+                            <a href="/case-studies/d2c-food-beverage-brand-scale.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                            <a href="/contact.php?src=cs_d2c-food-beverage-brand-scale" class="cs-mega-cta-secondary">Discuss a Similar Project</a>
                         </div>
                     </div>
-                    <div class="cs-mega-ctas">
-                        <a href="/case-studies/cross-border-courier-platform-saas.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
-                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_cross-border-courier-platform-saas" target="_blank" rel="noopener">Book Similar Call</a>
-                    </div>
-                </div>
-            </article>
-            <article class="cs-mega-card" data-category="b2b education technology">
-                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#581c87 0%,#9333ea 100%);">
-                    <div class="cs-mega-bg-icon"><i class="fas fa-graduation-cap"></i></div>
-                    <div class="cs-mega-visual-top">
-                        <span class="cs-mega-persona-tag">B2B &middot; EdTech</span>
-                        
-                    </div>
-                </div>
-                <div class="cs-mega-body">
-                    <h3 class="cs-mega-title">EdTech LMS with <strong>live classes + payments</strong></h3>
-                    <p class="cs-mega-sub">Full LMS: live classes, video, assessments, payments, mobile apps.</p>
-                    <div class="cs-mega-stats">
-                        <div class="cs-mega-stat"><strong>5K+</strong><span>Daily sessions</span></div>
-                        <div class="cs-mega-stat"><strong>Live</strong><span>Streaming built-in</span></div>
-                        <div class="cs-mega-stat"><strong>Mobile</strong><span>+ Web</span></div>
-                        <div class="cs-mega-stat"><strong>Multi-batch</strong><span>Enrollment</span></div>
-                    </div>
-                    <div class="cs-mega-services-wrap">
-                        <div class="cs-mega-services-label">What we delivered</div>
-                        <div class="cs-mega-services">
-                            <span class="cs-mega-chip"><i class="fas fa-video"></i> Live Class Streaming</span>
-                        <span class="cs-mega-chip"><i class="fas fa-book-reader"></i> LMS Core</span>
-                        <span class="cs-mega-chip"><i class="fas fa-mobile-alt"></i> iOS + Android</span>
-                        <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Payments</span>
-                        <span class="cs-mega-chip"><i class="fas fa-tasks"></i> Assessment Engine</span>
-                        <span class="cs-mega-chip"><i class="fas fa-chart-line"></i> Analytics</span>
+                </article>
+                <article class="cs-mega-card" data-category="d2c wellness performance full-funnel">
+                    <div class="cs-mega-visual" style="background:linear-gradient(135deg,#075985 0%,#0ea5e9 100%);">
+                        <div class="cs-mega-bg-icon"><i class="fas fa-heartbeat"></i></div>
+                        <div class="cs-mega-visual-top">
+                            <span class="cs-mega-persona-tag">D2C &middot; Wellness & Supplements</span>
+                            <span class="cs-mega-nda-badge"><i class="fas fa-shield-alt"></i> Under NDA</span>
                         </div>
                     </div>
-                    <div class="cs-mega-ctas">
-                        <a href="/case-studies/edtech-lms-live-classes-platform.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
-                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_edtech-lms-live-classes-platform" target="_blank" rel="noopener">Book Similar Call</a>
-                    </div>
-                </div>
-            </article>
-            <article class="cs-mega-card" data-category="b2b logistics saas technology">
-                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#1e3a8a 0%,#3b82f6 100%);">
-                    <div class="cs-mega-bg-icon"><i class="fas fa-shipping-fast"></i></div>
-                    <div class="cs-mega-visual-top">
-                        <span class="cs-mega-persona-tag">B2B &middot; Fleet SaaS</span>
-                        
-                    </div>
-                </div>
-                <div class="cs-mega-body">
-                    <h3 class="cs-mega-title">Fleet management <strong>SaaS for a 3PL operator</strong></h3>
-                    <p class="cs-mega-sub">GPS + driver app + analytics + billing, multi-tenant.</p>
-                    <div class="cs-mega-stats">
-                        <div class="cs-mega-stat"><strong>500+</strong><span>Vehicles tracked</span></div>
-                        <div class="cs-mega-stat"><strong>Real-time</strong><span>GPS + geofence</span></div>
-                        <div class="cs-mega-stat"><strong>SaaS</strong><span>Multi-tenant</span></div>
-                        <div class="cs-mega-stat"><strong>API</strong><span>+ Reports</span></div>
-                    </div>
-                    <div class="cs-mega-services-wrap">
-                        <div class="cs-mega-services-label">What we delivered</div>
-                        <div class="cs-mega-services">
-                            <span class="cs-mega-chip"><i class="fas fa-map-marked-alt"></i> Live GPS Tracking</span>
-                        <span class="cs-mega-chip"><i class="fas fa-mobile-alt"></i> Driver App</span>
-                        <span class="cs-mega-chip"><i class="fas fa-chart-area"></i> Analytics Dashboard</span>
-                        <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Trip Billing</span>
-                        <span class="cs-mega-chip"><i class="fas fa-fence"></i> Geofencing</span>
-                        <span class="cs-mega-chip"><i class="fas fa-exchange-alt"></i> API Integrations</span>
+                    <div class="cs-mega-body">
+                        <h3 class="cs-mega-title">Wellness brand <strong>Rs 12L to Rs 80L/mo</strong> trust funnel</h3>
+                        <p class="cs-mega-sub">Nutraceutical. D2C + Nykaa + Amazon + Flipkart. FSSAI compliant.</p>
+                        <div class="cs-mega-stats">
+                            <div class="cs-mega-stat"><strong>6.6x</strong><span>Revenue</span></div>
+                            <div class="cs-mega-stat"><strong>3.9x</strong><span>ROAS</span></div>
+                            <div class="cs-mega-stat"><strong>52%</strong><span>Repeat</span></div>
+                            <div class="cs-mega-stat"><strong>0</strong><span>Meta disapprovals</span></div>
+                        </div>
+                        <div class="cs-mega-services-wrap">
+                            <div class="cs-mega-services-label">What we delivered</div>
+                            <div class="cs-mega-services">
+                                <span class="cs-mega-chip"><i class="fab fa-shopify"></i> Shopify + Calendly</span>
+                            <span class="cs-mega-chip"><i class="fas fa-user-md"></i> Doctor Content Pillar</span>
+                            <span class="cs-mega-chip"><i class="fas fa-shield-alt"></i> FSSAI + COA Display</span>
+                            <span class="cs-mega-chip"><i class="fab fa-linkedin"></i> Founder LinkedIn PB</span>
+                            <span class="cs-mega-chip"><i class="fas fa-store"></i> Nykaa + Amazon + Flipkart</span>
+                            <span class="cs-mega-chip"><i class="fab fa-whatsapp"></i> WhatsApp Dosage Flow</span>
+                            <span class="cs-mega-chip"><i class="fas fa-flask"></i> 3rd-party Lab Tests</span>
+                            <span class="cs-mega-chip"><i class="fas fa-award"></i> Compliance-Safe Creative</span>
+                            </div>
+                        </div>
+                        <div class="cs-mega-ctas">
+                            <a href="/case-studies/d2c-wellness-brand-growth.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                            <a href="/contact.php?src=cs_d2c-wellness-brand-growth" class="cs-mega-cta-secondary">Discuss a Similar Project</a>
                         </div>
                     </div>
-                    <div class="cs-mega-ctas">
-                        <a href="/case-studies/fleet-management-saas-3pl-logistics.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
-                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_fleet-management-saas-3pl-logistics" target="_blank" rel="noopener">Book Similar Call</a>
-                    </div>
-                </div>
-            </article>
-            <article class="cs-mega-card" data-category="b2b food-b2b technology">
-                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#7c2d12 0%,#ea580c 100%);">
-                    <div class="cs-mega-bg-icon"><i class="fas fa-utensils"></i></div>
-                    <div class="cs-mega-visual-top">
-                        <span class="cs-mega-persona-tag">B2B &middot; Food Tech</span>
-                        
-                    </div>
-                </div>
-                <div class="cs-mega-body">
-                    <h3 class="cs-mega-title">Vendor ops system for <strong>food delivery platform</strong></h3>
-                    <p class="cs-mega-sub">Order management + POS + inventory for merchants.</p>
-                    <div class="cs-mega-stats">
-                        <div class="cs-mega-stat"><strong>2K+</strong><span>Daily orders</span></div>
-                        <div class="cs-mega-stat"><strong>Multi-outlet</strong><span>Chain-ready</span></div>
-                        <div class="cs-mega-stat"><strong>Live</strong><span>Order flow</span></div>
-                        <div class="cs-mega-stat"><strong>POS</strong><span>Integrated</span></div>
-                    </div>
-                    <div class="cs-mega-services-wrap">
-                        <div class="cs-mega-services-label">What we delivered</div>
-                        <div class="cs-mega-services">
-                            <span class="cs-mega-chip"><i class="fas fa-cash-register"></i> POS Integration</span>
-                        <span class="cs-mega-chip"><i class="fas fa-clipboard-list"></i> Order Mgmt</span>
-                        <span class="cs-mega-chip"><i class="fas fa-boxes"></i> Inventory</span>
-                        <span class="cs-mega-chip"><i class="fas fa-store-alt"></i> Multi-outlet</span>
-                        <span class="cs-mega-chip"><i class="fas fa-chart-bar"></i> Vendor Reports</span>
-                        <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Settlements</span>
+                </article>
+                <article class="cs-mega-card" data-category="d2c fashion technology">
+                    <div class="cs-mega-visual" style="background:linear-gradient(135deg,#9d174d 0%,#f472b6 100%);">
+                        <div class="cs-mega-bg-icon"><i class="fas fa-mobile-alt"></i></div>
+                        <div class="cs-mega-visual-top">
+                            <span class="cs-mega-persona-tag">D2C &middot; Fashion / Mobile App</span>
+                            
                         </div>
                     </div>
-                    <div class="cs-mega-ctas">
-                        <a href="/case-studies/food-delivery-vendor-operations-system.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
-                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_food-delivery-vendor-operations-system" target="_blank" rel="noopener">Book Similar Call</a>
-                    </div>
-                </div>
-            </article>
-            <article class="cs-mega-card" data-category="b2b marketplace food-b2b technology">
-                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#92400e 0%,#f59e0b 100%);">
-                    <div class="cs-mega-bg-icon"><i class="fas fa-store"></i></div>
-                    <div class="cs-mega-visual-top">
-                        <span class="cs-mega-persona-tag">B2B &middot; Marketplace</span>
-                        
-                    </div>
-                </div>
-                <div class="cs-mega-body">
-                    <h3 class="cs-mega-title">Multi-vendor marketplace app for <strong>food + grocery</strong></h3>
-                    <p class="cs-mega-sub">Customer + Vendor + Rider + Admin, all native.</p>
-                    <div class="cs-mega-stats">
-                        <div class="cs-mega-stat"><strong>4</strong><span>Apps shipped</span></div>
-                        <div class="cs-mega-stat"><strong>Native</strong><span>iOS + Android</span></div>
-                        <div class="cs-mega-stat"><strong>Live</strong><span>Payments</span></div>
-                        <div class="cs-mega-stat"><strong>Driver</strong><span>Live tracking</span></div>
-                    </div>
-                    <div class="cs-mega-services-wrap">
-                        <div class="cs-mega-services-label">What we delivered</div>
-                        <div class="cs-mega-services">
-                            <span class="cs-mega-chip"><i class="fas fa-mobile-alt"></i> Customer App</span>
-                        <span class="cs-mega-chip"><i class="fas fa-store-alt"></i> Vendor App</span>
-                        <span class="cs-mega-chip"><i class="fas fa-motorcycle"></i> Rider App</span>
-                        <span class="cs-mega-chip"><i class="fas fa-tachometer-alt"></i> Admin Dashboard</span>
-                        <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Payments</span>
-                        <span class="cs-mega-chip"><i class="fas fa-map-marker-alt"></i> Live Tracking</span>
+                    <div class="cs-mega-body">
+                        <h3 class="cs-mega-title">D2C fashion brand <strong>mobile commerce app</strong></h3>
+                        <p class="cs-mega-sub">iOS + Android with Shopify sync + push + loyalty + personalisation.</p>
+                        <div class="cs-mega-stats">
+                            <div class="cs-mega-stat"><strong>iOS +</strong><span>Android</span></div>
+                            <div class="cs-mega-stat"><strong>Live</strong><span>Shopify sync</span></div>
+                            <div class="cs-mega-stat"><strong>Push</strong><span>Lifecycle flows</span></div>
+                            <div class="cs-mega-stat"><strong>38%</strong><span>App repeat uplift</span></div>
+                        </div>
+                        <div class="cs-mega-services-wrap">
+                            <div class="cs-mega-services-label">What we delivered</div>
+                            <div class="cs-mega-services">
+                                <span class="cs-mega-chip"><i class="fab fa-apple"></i> iOS Native</span>
+                            <span class="cs-mega-chip"><i class="fab fa-android"></i> Android Native</span>
+                            <span class="cs-mega-chip"><i class="fab fa-shopify"></i> Shopify Headless</span>
+                            <span class="cs-mega-chip"><i class="fas fa-bell"></i> Push Notifications</span>
+                            <span class="cs-mega-chip"><i class="fas fa-user-circle"></i> Login + Loyalty</span>
+                            <span class="cs-mega-chip"><i class="fas fa-brain"></i> Recommendation Engine</span>
+                            </div>
+                        </div>
+                        <div class="cs-mega-ctas">
+                            <a href="/case-studies/d2c-ecommerce-mobile-app-fashion-brand.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                            <a href="/contact.php?src=cs_d2c-ecommerce-mobile-app-fashion-brand" class="cs-mega-cta-secondary">Discuss a Similar Project</a>
                         </div>
                     </div>
-                    <div class="cs-mega-ctas">
-                        <a href="/case-studies/multi-vendor-marketplace-app-food-grocery.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
-                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_multi-vendor-marketplace-app-food-grocery" target="_blank" rel="noopener">Book Similar Call</a>
-                    </div>
-                </div>
-            </article>
-            <article class="cs-mega-card" data-category="b2b fintech technology">
-                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#064e3b 0%,#059669 100%);">
-                    <div class="cs-mega-bg-icon"><i class="fas fa-coins"></i></div>
-                    <div class="cs-mega-visual-top">
-                        <span class="cs-mega-persona-tag">B2B &middot; Fintech / NBFC</span>
-                        
-                    </div>
-                </div>
-                <div class="cs-mega-body">
-                    <h3 class="cs-mega-title">NBFC <strong>loan origination dashboard</strong></h3>
-                    <p class="cs-mega-sub">KYC + underwriting + disbursal + collections workflow.</p>
-                    <div class="cs-mega-stats">
-                        <div class="cs-mega-stat"><strong>Live</strong><span>In production</span></div>
-                        <div class="cs-mega-stat"><strong>KYC</strong><span>Aadhaar + PAN</span></div>
-                        <div class="cs-mega-stat"><strong>Multi-stage</strong><span>Workflow</span></div>
-                        <div class="cs-mega-stat"><strong>Audit</strong><span>Trail built-in</span></div>
-                    </div>
-                    <div class="cs-mega-services-wrap">
-                        <div class="cs-mega-services-label">What we delivered</div>
-                        <div class="cs-mega-services">
-                            <span class="cs-mega-chip"><i class="fas fa-id-card"></i> KYC + eSign</span>
-                        <span class="cs-mega-chip"><i class="fas fa-check-double"></i> Underwriting</span>
-                        <span class="cs-mega-chip"><i class="fas fa-money-check-alt"></i> Disbursal</span>
-                        <span class="cs-mega-chip"><i class="fas fa-handshake"></i> Collections</span>
-                        <span class="cs-mega-chip"><i class="fas fa-shield-alt"></i> Compliance + Audit</span>
-                        <span class="cs-mega-chip"><i class="fas fa-chart-line"></i> Portfolio Analytics</span>
-                        </div>
-                    </div>
-                    <div class="cs-mega-ctas">
-                        <a href="/case-studies/nbfc-loan-origination-dashboard-fintech.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
-                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_nbfc-loan-origination-dashboard-fintech" target="_blank" rel="noopener">Book Similar Call</a>
-                    </div>
-                </div>
-            </article>
-            <article class="cs-mega-card" data-category="b2b logistics technology">
-                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#1e40af 0%,#60a5fa 100%);">
-                    <div class="cs-mega-bg-icon"><i class="fas fa-box-open"></i></div>
-                    <div class="cs-mega-visual-top">
-                        <span class="cs-mega-persona-tag">B2B &middot; Logistics App</span>
-                        
-                    </div>
-                </div>
-                <div class="cs-mega-body">
-                    <h3 class="cs-mega-title">On-demand <strong>courier booking app</strong></h3>
-                    <p class="cs-mega-sub">Customer-side booking, pricing, tracking, payments.</p>
-                    <div class="cs-mega-stats">
-                        <div class="cs-mega-stat"><strong>5K+</strong><span>Daily bookings</span></div>
-                        <div class="cs-mega-stat"><strong>iOS +</strong><span>Android</span></div>
-                        <div class="cs-mega-stat"><strong>Live</strong><span>Rider matching</span></div>
-                        <div class="cs-mega-stat"><strong>Payments</strong><span>Integrated</span></div>
-                    </div>
-                    <div class="cs-mega-services-wrap">
-                        <div class="cs-mega-services-label">What we delivered</div>
-                        <div class="cs-mega-services">
-                            <span class="cs-mega-chip"><i class="fas fa-mobile-alt"></i> Customer App</span>
-                        <span class="cs-mega-chip"><i class="fas fa-calculator"></i> Dynamic Pricing</span>
-                        <span class="cs-mega-chip"><i class="fas fa-map-marker-alt"></i> Live Tracking</span>
-                        <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Payments</span>
-                        <span class="cs-mega-chip"><i class="fas fa-bell"></i> Push + SMS</span>
-                        <span class="cs-mega-chip"><i class="fas fa-user-tag"></i> Referrals</span>
-                        </div>
-                    </div>
-                    <div class="cs-mega-ctas">
-                        <a href="/case-studies/on-demand-courier-booking-app.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
-                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_on-demand-courier-booking-app" target="_blank" rel="noopener">Book Similar Call</a>
-                    </div>
-                </div>
-            </article>
-            <article class="cs-mega-card" data-category="b2b marketplace food-b2b technology">
-                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#164e63 0%,#0ea5e9 100%);">
-                    <div class="cs-mega-bg-icon"><i class="fas fa-fish"></i></div>
-                    <div class="cs-mega-visual-top">
-                        <span class="cs-mega-persona-tag">B2B &middot; Marketplace / Food</span>
-                        
-                    </div>
-                </div>
-                <div class="cs-mega-body">
-                    <h3 class="cs-mega-title">Fish delivery <strong>marketplace app</strong></h3>
-                    <p class="cs-mega-sub">Perishable-first marketplace: live inventory, cold-chain-aware.</p>
-                    <div class="cs-mega-stats">
-                        <div class="cs-mega-stat"><strong>Live</strong><span>Inventory sync</span></div>
-                        <div class="cs-mega-stat"><strong>Cold-chain</strong><span>SLA aware</span></div>
-                        <div class="cs-mega-stat"><strong>Multi-vendor</strong><span>Catalog</span></div>
-                        <div class="cs-mega-stat"><strong>Driver</strong><span>Routing</span></div>
-                    </div>
-                    <div class="cs-mega-services-wrap">
-                        <div class="cs-mega-services-label">What we delivered</div>
-                        <div class="cs-mega-services">
-                            <span class="cs-mega-chip"><i class="fas fa-mobile-alt"></i> Customer App</span>
-                        <span class="cs-mega-chip"><i class="fas fa-sync"></i> Live Inventory</span>
-                        <span class="cs-mega-chip"><i class="fas fa-truck"></i> Driver App</span>
-                        <span class="cs-mega-chip"><i class="fas fa-snowflake"></i> Cold-chain SLA</span>
-                        <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Payments</span>
-                        <span class="cs-mega-chip"><i class="fas fa-store-alt"></i> Multi-vendor</span>
-                        </div>
-                    </div>
-                    <div class="cs-mega-ctas">
-                        <a href="/case-studies/online-fish-delivery-marketplace-app.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
-                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_online-fish-delivery-marketplace-app" target="_blank" rel="noopener">Book Similar Call</a>
-                    </div>
-                </div>
-            </article>
-            <article class="cs-mega-card" data-category="b2b realestate whatsapp">
-                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#78350f 0%,#f59e0b 100%);">
-                    <div class="cs-mega-bg-icon"><i class="fas fa-building"></i></div>
-                    <div class="cs-mega-visual-top">
-                        <span class="cs-mega-persona-tag">B2B &middot; Real Estate</span>
-                        
-                    </div>
-                </div>
-                <div class="cs-mega-body">
-                    <h3 class="cs-mega-title">Real estate CRM with <strong>WhatsApp automation</strong></h3>
-                    <p class="cs-mega-sub">Lead-to-walkthrough automation for property teams.</p>
-                    <div class="cs-mega-stats">
-                        <div class="cs-mega-stat"><strong>Live</strong><span>In production</span></div>
-                        <div class="cs-mega-stat"><strong>Auto</strong><span>Lead routing</span></div>
-                        <div class="cs-mega-stat"><strong>WhatsApp</strong><span>+ Email + SMS</span></div>
-                        <div class="cs-mega-stat"><strong>Multi-user</strong><span>Teams</span></div>
-                    </div>
-                    <div class="cs-mega-services-wrap">
-                        <div class="cs-mega-services-label">What we delivered</div>
-                        <div class="cs-mega-services">
-                            <span class="cs-mega-chip"><i class="fas fa-user-plus"></i> Lead Capture</span>
-                        <span class="cs-mega-chip"><i class="fab fa-whatsapp"></i> WhatsApp Auto</span>
-                        <span class="cs-mega-chip"><i class="fas fa-building"></i> Property Mgmt</span>
-                        <span class="cs-mega-chip"><i class="fas fa-funnel-dollar"></i> Lead Scoring</span>
-                        <span class="cs-mega-chip"><i class="fas fa-calendar-check"></i> Visit Scheduling</span>
-                        <span class="cs-mega-chip"><i class="fas fa-chart-pie"></i> Pipeline Reports</span>
-                        </div>
-                    </div>
-                    <div class="cs-mega-ctas">
-                        <a href="/case-studies/real-estate-crm-whatsapp-automation.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
-                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_real-estate-crm-whatsapp-automation" target="_blank" rel="noopener">Book Similar Call</a>
-                    </div>
-                </div>
-            </article>
-            <article class="cs-mega-card" data-category="b2b food-b2b technology">
-                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#991b1b 0%,#ef4444 100%);">
-                    <div class="cs-mega-bg-icon"><i class="fas fa-concierge-bell"></i></div>
-                    <div class="cs-mega-visual-top">
-                        <span class="cs-mega-persona-tag">B2B &middot; Restaurant Tech</span>
-                        
-                    </div>
-                </div>
-                <div class="cs-mega-body">
-                    <h3 class="cs-mega-title">Restaurant <strong>POS + online ordering platform</strong></h3>
-                    <p class="cs-mega-sub">Dine-in POS, online ordering, KDS, inventory, reports.</p>
-                    <div class="cs-mega-stats">
-                        <div class="cs-mega-stat"><strong>Live</strong><span>Multi-outlet</span></div>
-                        <div class="cs-mega-stat"><strong>KDS</strong><span>Kitchen display</span></div>
-                        <div class="cs-mega-stat"><strong>Online +</strong><span>Dine-in</span></div>
-                        <div class="cs-mega-stat"><strong>Settlements</strong><span>Auto</span></div>
-                    </div>
-                    <div class="cs-mega-services-wrap">
-                        <div class="cs-mega-services-label">What we delivered</div>
-                        <div class="cs-mega-services">
-                            <span class="cs-mega-chip"><i class="fas fa-cash-register"></i> POS</span>
-                        <span class="cs-mega-chip"><i class="fas fa-tv"></i> Kitchen Display</span>
-                        <span class="cs-mega-chip"><i class="fas fa-shopping-cart"></i> Online Ordering</span>
-                        <span class="cs-mega-chip"><i class="fas fa-boxes"></i> Inventory</span>
-                        <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Payments</span>
-                        <span class="cs-mega-chip"><i class="fas fa-chart-bar"></i> Reports</span>
-                        </div>
-                    </div>
-                    <div class="cs-mega-ctas">
-                        <a href="/case-studies/restaurant-pos-online-ordering-platform.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
-                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_restaurant-pos-online-ordering-platform" target="_blank" rel="noopener">Book Similar Call</a>
-                    </div>
-                </div>
-            </article>
-            <article class="cs-mega-card" data-category="b2b saas technology">
-                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#365314 0%,#84cc16 100%);">
-                    <div class="cs-mega-bg-icon"><i class="fas fa-boxes"></i></div>
-                    <div class="cs-mega-visual-top">
-                        <span class="cs-mega-persona-tag">B2B &middot; Retail SaaS</span>
-                        
-                    </div>
-                </div>
-                <div class="cs-mega-body">
-                    <h3 class="cs-mega-title">SaaS <strong>inventory management</strong> for retail chains</h3>
-                    <p class="cs-mega-sub">Multi-location, barcode, reorder, reports, integrations.</p>
-                    <div class="cs-mega-stats">
-                        <div class="cs-mega-stat"><strong>Multi-site</strong><span>Live sync</span></div>
-                        <div class="cs-mega-stat"><strong>Barcode</strong><span>+ Scanner</span></div>
-                        <div class="cs-mega-stat"><strong>Integrations</strong><span>Tally + more</span></div>
-                        <div class="cs-mega-stat"><strong>Reports</strong><span>Daily</span></div>
-                    </div>
-                    <div class="cs-mega-services-wrap">
-                        <div class="cs-mega-services-label">What we delivered</div>
-                        <div class="cs-mega-services">
-                            <span class="cs-mega-chip"><i class="fas fa-barcode"></i> Barcode + SKU</span>
-                        <span class="cs-mega-chip"><i class="fas fa-map-marker-alt"></i> Multi-location</span>
-                        <span class="cs-mega-chip"><i class="fas fa-sync"></i> Live Sync</span>
-                        <span class="cs-mega-chip"><i class="fas fa-exchange-alt"></i> Tally / ERP Integrations</span>
-                        <span class="cs-mega-chip"><i class="fas fa-truck-loading"></i> Reorder Logic</span>
-                        <span class="cs-mega-chip"><i class="fas fa-chart-area"></i> Reports</span>
-                        </div>
-                    </div>
-                    <div class="cs-mega-ctas">
-                        <a href="/case-studies/saas-inventory-management-retail-chains.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
-                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_saas-inventory-management-retail-chains" target="_blank" rel="noopener">Book Similar Call</a>
-                    </div>
-                </div>
-            </article>
-            <article class="cs-mega-card" data-category="b2b logistics saas technology">
-                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#1e40af 0%,#3b82f6 100%);">
-                    <div class="cs-mega-bg-icon"><i class="fas fa-route"></i></div>
-                    <div class="cs-mega-visual-top">
-                        <span class="cs-mega-persona-tag">B2B &middot; Logistics SaaS</span>
-                        
-                    </div>
-                </div>
-                <div class="cs-mega-body">
-                    <h3 class="cs-mega-title">Smart logistics <strong>SaaS platform</strong></h3>
-                    <p class="cs-mega-sub">Fleet + tracking + billing + analytics in one platform.</p>
-                    <div class="cs-mega-stats">
-                        <div class="cs-mega-stat"><strong>SaaS</strong><span>Multi-tenant</span></div>
-                        <div class="cs-mega-stat"><strong>Fleet</strong><span>+ Tracking</span></div>
-                        <div class="cs-mega-stat"><strong>Billing</strong><span>Automated</span></div>
-                        <div class="cs-mega-stat"><strong>API</strong><span>+ Webhooks</span></div>
-                    </div>
-                    <div class="cs-mega-services-wrap">
-                        <div class="cs-mega-services-label">What we delivered</div>
-                        <div class="cs-mega-services">
-                            <span class="cs-mega-chip"><i class="fas fa-truck"></i> Fleet Mgmt</span>
-                        <span class="cs-mega-chip"><i class="fas fa-map-marked-alt"></i> Live Tracking</span>
-                        <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Auto Billing</span>
-                        <span class="cs-mega-chip"><i class="fas fa-chart-line"></i> Analytics</span>
-                        <span class="cs-mega-chip"><i class="fas fa-plug"></i> API + Webhooks</span>
-                        <span class="cs-mega-chip"><i class="fas fa-shield-alt"></i> Role-based Access</span>
-                        </div>
-                    </div>
-                    <div class="cs-mega-ctas">
-                        <a href="/case-studies/smart-logistics-saas-platform.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
-                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_smart-logistics-saas-platform" target="_blank" rel="noopener">Book Similar Call</a>
-                    </div>
-                </div>
-            </article>
-            <article class="cs-mega-card" data-category="b2b healthcare technology">
-                <div class="cs-mega-visual" style="background:linear-gradient(135deg,#0c4a6e 0%,#06b6d4 100%);">
-                    <div class="cs-mega-bg-icon"><i class="fas fa-user-md"></i></div>
-                    <div class="cs-mega-visual-top">
-                        <span class="cs-mega-persona-tag">B2B &middot; Healthcare / Telemed</span>
-                        
-                    </div>
-                </div>
-                <div class="cs-mega-body">
-                    <h3 class="cs-mega-title">Telemedicine app <strong>HIPAA + ABDM compliant</strong></h3>
-                    <p class="cs-mega-sub">Video consult + EHR + prescription + payments.</p>
-                    <div class="cs-mega-stats">
-                        <div class="cs-mega-stat"><strong>HIPAA</strong><span>+ ABDM compliant</span></div>
-                        <div class="cs-mega-stat"><strong>Live</strong><span>Video + Chat</span></div>
-                        <div class="cs-mega-stat"><strong>EHR</strong><span>Integrated</span></div>
-                        <div class="cs-mega-stat"><strong>eRx</strong><span>Enabled</span></div>
-                    </div>
-                    <div class="cs-mega-services-wrap">
-                        <div class="cs-mega-services-label">What we delivered</div>
-                        <div class="cs-mega-services">
-                            <span class="cs-mega-chip"><i class="fas fa-video"></i> Video Consult</span>
-                        <span class="cs-mega-chip"><i class="fas fa-file-medical"></i> EHR Records</span>
-                        <span class="cs-mega-chip"><i class="fas fa-prescription"></i> e-Prescription</span>
-                        <span class="cs-mega-chip"><i class="fas fa-shield-virus"></i> HIPAA + ABDM</span>
-                        <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Payments</span>
-                        <span class="cs-mega-chip"><i class="fas fa-mobile-alt"></i> Patient + Doctor Apps</span>
-                        </div>
-                    </div>
-                    <div class="cs-mega-ctas">
-                        <a href="/case-studies/telemedicine-app-hipaa-abdm-compliant.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
-                        <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-mega-cta-secondary" data-source="cs_mega_telemedicine-app-hipaa-abdm-compliant" target="_blank" rel="noopener">Book Similar Call</a>
-                    </div>
-                </div>
-            </article>
+                </article>
             </div>
 
-            <!-- NDA callout: more work we cannot show publicly -->
-            <aside class="cs-nda-callout" data-category="d2c b2b">
+            <div class="cs-cat-cta" style="background:linear-gradient(135deg,#ec4899 0%, #0f1e3d 100%);">
+                <div class="cs-cat-cta-text">
+                    <h3>Planning to Launch or Scale Your Brand?</h3>
+                    <p>A 30-min call. We'll look at your category, positioning, ad engine, and funnel &mdash; and tell you what we'd do first.</p>
+                </div>
+                <div class="cs-cat-cta-btns">
+                    <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-cat-cta-primary" data-source="cs_cat_d2c_calendly" target="_blank" rel="noopener"><i class="fas fa-calendar-alt"></i> Book a 30-min Call</a>
+                    <a href="https://wa.me/918450978544" class="cs-cat-cta-secondary" target="_blank" rel="noopener"><i class="fab fa-whatsapp"></i> WhatsApp Us</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CATEGORY 02 - Retail and Store Launches -->
+    <section class="cs-cat-section" id="cat-retail" data-cat-color="#f59e0b">
+        <div class="container">
+            <div class="cs-cat-head">
+                <span class="cs-cat-order" style="color:#f59e0b;">Category 02 of 05</span>
+                <h2 class="cs-cat-title"><i class="fas fa-store-alt" style="color:#f59e0b; margin-right:14px;"></i>Retail and Store Launches</h2>
+                <p class="cs-cat-intro">For brands opening a new retail outlet or entering a new city or market. A store launch is more than social posts &mdash; it's a connected pre-launch, launch, and post-launch marketing system.</p>
+            </div>
+
+            <div class="cs-pillars-row">
+                <div class="cs-pillars-label">What we help with</div>
+                <div class="cs-pillars-grid">
+                <div class="cs-pillar">
+                    <div class="cs-pillar-icon"><i class="fas fa-compass"></i></div>
+                    <h4>Phase 1 &middot; Launch Strategy</h4>
+                    <p>Brand + market + location + audience + competition. Local positioning. Pre-launch, launch, post-launch planning.</p>
+                </div>
+                <div class="cs-pillar">
+                    <div class="cs-pillar-icon"><i class="fas fa-image"></i></div>
+                    <h4>Phase 2 &middot; Digital Presence & Launch Assets</h4>
+                    <p>Launch landing page. Google Business Profile. Launch creatives, reels, videos. Location-based campaign planning.</p>
+                </div>
+                <div class="cs-pillar">
+                    <div class="cs-pillar-icon"><i class="fas fa-bullseye"></i></div>
+                    <h4>Phase 3 &middot; Demand Generation</h4>
+                    <p>Local Meta + Google Ads. Influencer + creator coordination. Launch event promotion. WhatsApp enquiry journeys. Store-visit tracking.</p>
+                </div>
+                <div class="cs-pillar">
+                    <div class="cs-pillar-icon"><i class="fas fa-rocket"></i></div>
+                    <h4>Phase 4 &middot; Post-Launch Growth</h4>
+                    <p>Ongoing social + content. Local search visibility. Paid + remarketing. Performance reporting + optimisation.</p>
+                </div>
+                </div>
+            </div>
+
+            <div class="cs-projects-head">
+                <h3 class="cs-projects-title">Projects we've worked on</h3>
+                <span class="cs-projects-count">2 case studies</span>
+            </div>
+
+            <div class="cs-mega-grid">
+                <article class="cs-mega-card" data-category="retail jewelry full-funnel">
+                    <div class="cs-mega-visual" style="background:linear-gradient(135deg,#92400e 0%,#fbbf24 100%);">
+                        <div class="cs-mega-bg-icon"><i class="fas fa-store-alt"></i></div>
+                        <div class="cs-mega-visual-top">
+                            <span class="cs-mega-persona-tag">RETAIL &middot; Jewellery Store Launch</span>
+                            <span class="cs-mega-nda-badge"><i class="fas fa-shield-alt"></i> Client name withheld under NDA</span>
+                        </div>
+                    </div>
+                    <div class="cs-mega-body">
+                        <h3 class="cs-mega-title">Jewellery brand <strong>flagship store launch</strong> in a Tier-1 city</h3>
+                        <p class="cs-mega-sub">Pre-launch to post-launch marketing for a new retail outlet. Launch creative, local demand generation, store-visit tracking.</p>
+                        <div class="cs-mega-stats">
+                            <div class="cs-mega-stat"><strong>4-phase</strong><span>Launch system</span></div>
+                            <div class="cs-mega-stat"><strong>3,200+</strong><span>Launch-week enquiries</span></div>
+                            <div class="cs-mega-stat"><strong>28%</strong><span>Walk-in conversion</span></div>
+                            <div class="cs-mega-stat"><strong>1,100+</strong><span>Google Business reviews y1</span></div>
+                        </div>
+                        <div class="cs-mega-services-wrap">
+                            <div class="cs-mega-services-label">What we delivered</div>
+                            <div class="cs-mega-services">
+                                <span class="cs-mega-chip"><i class="fas fa-bullhorn"></i> Local launch strategy + positioning</span>
+                            <span class="cs-mega-chip"><i class="fas fa-video"></i> Launch creatives + reels + videos</span>
+                            <span class="cs-mega-chip"><i class="fab fa-instagram"></i> Instagram pre-launch teaser campaign</span>
+                            <span class="cs-mega-chip"><i class="fas fa-map-marked-alt"></i> Google Business + local SEO</span>
+                            <span class="cs-mega-chip"><i class="fab fa-meta"></i> Geo-fenced Meta + Google Ads</span>
+                            <span class="cs-mega-chip"><i class="fab fa-whatsapp"></i> WhatsApp enquiry + follow-up flows</span>
+                            <span class="cs-mega-chip"><i class="fas fa-users"></i> Micro-influencer activation (city creators)</span>
+                            <span class="cs-mega-chip"><i class="fas fa-calendar-check"></i> Launch event + press coordination</span>
+                            <span class="cs-mega-chip"><i class="fas fa-tags"></i> Festive + wedding-season remarketing</span>
+                            <span class="cs-mega-chip"><i class="fas fa-chart-pie"></i> Store-visit + enquiry attribution</span>
+                            </div>
+                        </div>
+                        <div class="cs-mega-ctas">
+                            <a href="https://wa.me/918450978544" class="cs-mega-cta-primary" target="_blank" rel="noopener">Discuss This on WhatsApp <i class="fas fa-arrow-right"></i></a>
+                            <a href="/contact.php?src=cs_jewellery_store_launch" class="cs-mega-cta-secondary">Discuss a Similar Project</a>
+                        </div>
+                    </div>
+                </article>
+                <article class="cs-mega-card" data-category="retail perfume full-funnel">
+                    <div class="cs-mega-visual" style="background:linear-gradient(135deg,#581c87 0%,#c084fc 100%);">
+                        <div class="cs-mega-bg-icon"><i class="fas fa-spray-can"></i></div>
+                        <div class="cs-mega-visual-top">
+                            <span class="cs-mega-persona-tag">RETAIL &middot; GCC Brand - India Entry</span>
+                            <span class="cs-mega-nda-badge"><i class="fas fa-shield-alt"></i> Client name withheld under NDA &middot; Scope in execution</span>
+                        </div>
+                    </div>
+                    <div class="cs-mega-body">
+                        <h3 class="cs-mega-title">Dubai-based perfume brand <strong>entering the Indian market</strong></h3>
+                        <p class="cs-mega-sub">International perfume house localising for Indian consumers. Market entry strategy, retail store launch, digital presence rebuild, performance marketing.</p>
+                        <div class="cs-mega-stats">
+                            <div class="cs-mega-stat"><strong>India entry</strong><span>Market scoping</span></div>
+                            <div class="cs-mega-stat"><strong>Trilingual</strong><span>EN + HI + regional</span></div>
+                            <div class="cs-mega-stat"><strong>Store + D2C</strong><span>Dual-channel</span></div>
+                            <div class="cs-mega-stat"><strong>90-day</strong><span>Launch roadmap</span></div>
+                        </div>
+                        <div class="cs-mega-services-wrap">
+                            <div class="cs-mega-services-label">What we delivered</div>
+                            <div class="cs-mega-services">
+                                <span class="cs-mega-chip"><i class="fas fa-compass"></i> India market entry strategy + consumer research</span>
+                            <span class="cs-mega-chip"><i class="fas fa-pencil-alt"></i> Positioning localised for Indian buyer</span>
+                            <span class="cs-mega-chip"><i class="fab fa-shopify"></i> Indian D2C store (Shopify) + payments + logistics</span>
+                            <span class="cs-mega-chip"><i class="fas fa-store-alt"></i> Retail store launch support (city 1)</span>
+                            <span class="cs-mega-chip"><i class="fab fa-instagram"></i> Social + content calendar built for India</span>
+                            <span class="cs-mega-chip"><i class="fab fa-meta"></i> Performance marketing (Meta + Google)</span>
+                            <span class="cs-mega-chip"><i class="fas fa-users"></i> Indian creator + influencer onboarding</span>
+                            <span class="cs-mega-chip"><i class="fab fa-whatsapp"></i> WhatsApp enquiry + sampling programme</span>
+                            <span class="cs-mega-chip"><i class="fas fa-truck-loading"></i> Fulfilment partner coordination (3PL)</span>
+                            <span class="cs-mega-chip"><i class="fas fa-language"></i> Trilingual creative (EN + HI + regional)</span>
+                            <span class="cs-mega-chip"><i class="fas fa-newspaper"></i> Press + PR launch outreach</span>
+                            <span class="cs-mega-chip"><i class="fas fa-flag"></i> GCC-to-India brand narrative</span>
+                            </div>
+                        </div>
+                        <div class="cs-mega-ctas">
+                            <a href="https://wa.me/918450978544" class="cs-mega-cta-primary" target="_blank" rel="noopener">Discuss This on WhatsApp <i class="fas fa-arrow-right"></i></a>
+                            <a href="/contact.php?src=cs_gcc_brand_india_entry" class="cs-mega-cta-secondary">Discuss a Similar Project</a>
+                        </div>
+                    </div>
+                </article>
+            </div>
+
+            <div class="cs-cat-cta" style="background:linear-gradient(135deg,#f59e0b 0%, #0f1e3d 100%);">
+                <div class="cs-cat-cta-text">
+                    <h3>Planning a Store Launch?</h3>
+                    <p>Pre-launch to post-launch marketing system. Local campaigns, launch creative, WhatsApp enquiries, store-visit attribution. Let's plan your launch.</p>
+                </div>
+                <div class="cs-cat-cta-btns">
+                    <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-cat-cta-primary" data-source="cs_cat_retail_calendly" target="_blank" rel="noopener"><i class="fas fa-calendar-alt"></i> Book a 30-min Call</a>
+                    <a href="https://wa.me/918450978544" class="cs-cat-cta-secondary" target="_blank" rel="noopener"><i class="fab fa-whatsapp"></i> WhatsApp Us</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CATEGORY 03 - B2B and Manufacturing -->
+    <section class="cs-cat-section" id="cat-b2b" data-cat-color="#3b82f6">
+        <div class="container">
+            <div class="cs-cat-head">
+                <span class="cs-cat-order" style="color:#3b82f6;">Category 03 of 05</span>
+                <h2 class="cs-cat-title"><i class="fas fa-industry" style="color:#3b82f6; margin-right:14px;"></i>B2B and Manufacturing</h2>
+                <p class="cs-cat-intro">For manufacturers, industrial businesses, wholesalers, distributors, exporters, and B2B service companies. B2B growth is about credibility, reaching decision-makers, generating relevant enquiries, and supporting a longer sales cycle.</p>
+            </div>
+
+            <div class="cs-pillars-row">
+                <div class="cs-pillars-label">What we help with</div>
+                <div class="cs-pillars-grid">
+                <div class="cs-pillar">
+                    <div class="cs-pillar-icon"><i class="fas fa-globe-asia"></i></div>
+                    <h4>B2B Digital Presence</h4>
+                    <p>Corporate websites. Product + service catalogues. Industry-specific landing pages. Enquiry forms. Company profile decks. Product brochures + sales collateral.</p>
+                </div>
+                <div class="cs-pillar">
+                    <div class="cs-pillar-icon"><i class="fas fa-funnel-dollar"></i></div>
+                    <h4>B2B Lead Generation</h4>
+                    <p>Google Ads. LinkedIn Ads. Meta Ads where appropriate. B2B SEO + AI-search. Landing pages + enquiry journeys. Campaign + lead-source reporting.</p>
+                </div>
+                <div class="cs-pillar">
+                    <div class="cs-pillar-icon"><i class="fas fa-video"></i></div>
+                    <h4>Content & Credibility</h4>
+                    <p>Manufacturing facility videos. Product demo videos. Industrial photography. Founder content. Social media. Application case studies. Pitch decks.</p>
+                </div>
+                <div class="cs-pillar">
+                    <div class="cs-pillar-icon"><i class="fas fa-plane"></i></div>
+                    <h4>Export & International</h4>
+                    <p>Market-specific landing pages. International search campaigns. Export product + service communication. Lead gen for selected geographies.</p>
+                </div>
+                </div>
+            </div>
+
+            <div class="cs-projects-head">
+                <h3 class="cs-projects-title">Projects we've worked on</h3>
+                <span class="cs-projects-count">2 case studies</span>
+            </div>
+
+            <div class="cs-mega-grid">
+                <article class="cs-mega-card" data-category="b2b manufacturing lead-gen">
+                    <div class="cs-mega-visual" style="background:linear-gradient(135deg,#1e3a8a 0%,#3b82f6 100%);">
+                        <div class="cs-mega-bg-icon"><i class="fas fa-industry"></i></div>
+                        <div class="cs-mega-visual-top">
+                            <span class="cs-mega-persona-tag">B2B &middot; Industrial Manufacturer</span>
+                            <span class="cs-mega-nda-badge"><i class="fas fa-shield-alt"></i> Under NDA</span>
+                        </div>
+                    </div>
+                    <div class="cs-mega-body">
+                        <h3 class="cs-mega-title">Industrial manufacturer <strong>qualified lead-gen engine</strong></h3>
+                        <p class="cs-mega-sub">B2B manufacturer: corporate website rebuild, LinkedIn + Google Ads lead-gen, facility-video content pipeline.</p>
+                        <div class="cs-mega-stats">
+                            <div class="cs-mega-stat"><strong>4.5x</strong><span>Monthly enquiries</span></div>
+                            <div class="cs-mega-stat"><strong>Rs 12 Cr</strong><span>Pipeline (12 mo)</span></div>
+                            <div class="cs-mega-stat"><strong>38%</strong><span>Enquiry to meeting</span></div>
+                            <div class="cs-mega-stat"><strong>18</strong><span>Industry landing pages</span></div>
+                        </div>
+                        <div class="cs-mega-services-wrap">
+                            <div class="cs-mega-services-label">What we delivered</div>
+                            <div class="cs-mega-services">
+                                <span class="cs-mega-chip"><i class="fas fa-building"></i> Corporate website rebuild + 18 product pages</span>
+                            <span class="cs-mega-chip"><i class="fab fa-linkedin"></i> LinkedIn Lead Gen Form Ads</span>
+                            <span class="cs-mega-chip"><i class="fab fa-google"></i> Google Ads + Shopping for products</span>
+                            <span class="cs-mega-chip"><i class="fas fa-file-pdf"></i> Product catalogues + brochures</span>
+                            <span class="cs-mega-chip"><i class="fas fa-video"></i> Facility walkthrough videos</span>
+                            <span class="cs-mega-chip"><i class="fas fa-image"></i> Industrial product photography</span>
+                            <span class="cs-mega-chip"><i class="fas fa-search"></i> B2B SEO (long-tail product queries)</span>
+                            <span class="cs-mega-chip"><i class="fas fa-funnel-dollar"></i> Enquiry forms + CRM + lead scoring</span>
+                            <span class="cs-mega-chip"><i class="fas fa-chart-pie"></i> Lead-source + pipeline attribution</span>
+                            <span class="cs-mega-chip"><i class="fas fa-file-powerpoint"></i> Sales decks + pitch presentations</span>
+                            </div>
+                        </div>
+                        <div class="cs-mega-ctas">
+                            <a href="https://wa.me/918450978544" class="cs-mega-cta-primary" target="_blank" rel="noopener">Discuss This on WhatsApp <i class="fas fa-arrow-right"></i></a>
+                            <a href="/contact.php?src=cs_industrial_manufacturer" class="cs-mega-cta-secondary">Discuss a Similar Project</a>
+                        </div>
+                    </div>
+                </article>
+                <article class="cs-mega-card" data-category="b2b manufacturing lead-gen export">
+                    <div class="cs-mega-visual" style="background:linear-gradient(135deg,#064e3b 0%,#059669 100%);">
+                        <div class="cs-mega-bg-icon"><i class="fas fa-flask"></i></div>
+                        <div class="cs-mega-visual-top">
+                            <span class="cs-mega-persona-tag">B2B &middot; Specialty Chemicals Export</span>
+                            <span class="cs-mega-nda-badge"><i class="fas fa-shield-alt"></i> Under NDA</span>
+                        </div>
+                    </div>
+                    <div class="cs-mega-body">
+                        <h3 class="cs-mega-title">Chemicals exporter <strong>international lead-gen</strong></h3>
+                        <p class="cs-mega-sub">Specialty-chemicals exporter: market-specific landing pages, international search campaigns, export-focused communication.</p>
+                        <div class="cs-mega-stats">
+                            <div class="cs-mega-stat"><strong>8</strong><span>Export markets live</span></div>
+                            <div class="cs-mega-stat"><strong>3.2x</strong><span>Enquiry quality</span></div>
+                            <div class="cs-mega-stat"><strong>+280%</strong><span>Organic (18 mo)</span></div>
+                            <div class="cs-mega-stat"><strong>Rs 5 Cr+</strong><span>Export deals Y1</span></div>
+                        </div>
+                        <div class="cs-mega-services-wrap">
+                            <div class="cs-mega-services-label">What we delivered</div>
+                            <div class="cs-mega-services">
+                                <span class="cs-mega-chip"><i class="fas fa-globe"></i> Market-specific landing pages (8 geographies)</span>
+                            <span class="cs-mega-chip"><i class="fab fa-google"></i> Google Ads for international buyers</span>
+                            <span class="cs-mega-chip"><i class="fab fa-linkedin"></i> LinkedIn Ads targeting procurement roles</span>
+                            <span class="cs-mega-chip"><i class="fas fa-file-alt"></i> Technical datasheets + MSDS libraries</span>
+                            <span class="cs-mega-chip"><i class="fas fa-search"></i> Export SEO (country + application queries)</span>
+                            <span class="cs-mega-chip"><i class="fas fa-envelope"></i> Multilingual enquiry forms</span>
+                            <span class="cs-mega-chip"><i class="fas fa-id-badge"></i> Compliance + certification display (REACH / FDA)</span>
+                            <span class="cs-mega-chip"><i class="fas fa-chart-line"></i> Lead attribution per market</span>
+                            <span class="cs-mega-chip"><i class="fas fa-handshake"></i> Trade show follow-up automation</span>
+                            <span class="cs-mega-chip"><i class="fas fa-truck"></i> Export logistics coordination support</span>
+                            </div>
+                        </div>
+                        <div class="cs-mega-ctas">
+                            <a href="https://wa.me/918450978544" class="cs-mega-cta-primary" target="_blank" rel="noopener">Discuss This on WhatsApp <i class="fas fa-arrow-right"></i></a>
+                            <a href="/contact.php?src=cs_specialty_chemicals_export" class="cs-mega-cta-secondary">Discuss a Similar Project</a>
+                        </div>
+                    </div>
+                </article>
+            </div>
+
+            <div class="cs-cat-cta" style="background:linear-gradient(135deg,#3b82f6 0%, #0f1e3d 100%);">
+                <div class="cs-cat-cta-text">
+                    <h3>Looking to Generate Qualified Business Enquiries?</h3>
+                    <p>Corporate website + lead-gen stack designed for B2B sales cycles. Credibility content, LinkedIn + Google ads, enquiry workflows that your sales team will actually use.</p>
+                </div>
+                <div class="cs-cat-cta-btns">
+                    <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-cat-cta-primary" data-source="cs_cat_b2b_calendly" target="_blank" rel="noopener"><i class="fas fa-calendar-alt"></i> Book a 30-min Call</a>
+                    <a href="https://wa.me/918450978544" class="cs-cat-cta-secondary" target="_blank" rel="noopener"><i class="fab fa-whatsapp"></i> WhatsApp Us</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CATEGORY 04 - Logistics and Courier Businesses -->
+    <section class="cs-cat-section" id="cat-logistics" data-cat-color="#0284c7">
+        <div class="container">
+            <div class="cs-cat-head">
+                <span class="cs-cat-order" style="color:#0284c7;">Category 04 of 05</span>
+                <h2 class="cs-cat-title"><i class="fas fa-truck" style="color:#0284c7; margin-right:14px;"></i>Logistics and Courier Businesses</h2>
+                <p class="cs-cat-intro">For courier companies, freight forwarders, logistics providers, international shipping, fulfilment, and transport operators. One of our strongest specialist areas &mdash; both marketing and technology.</p>
+            </div>
+
+            <div class="cs-pillars-row">
+                <div class="cs-pillars-label">What we help with</div>
+                <div class="cs-pillars-grid">
+                <div class="cs-pillar">
+                    <div class="cs-pillar-icon"><i class="fas fa-globe"></i></div>
+                    <h4>Websites & Digital Presence</h4>
+                    <p>Courier + logistics websites. Shipping service pages. Rate + shipment enquiry journeys. Tracking + booking integrations. Google Business + local SEO.</p>
+                </div>
+                <div class="cs-pillar">
+                    <div class="cs-pillar-icon"><i class="fas fa-bullhorn"></i></div>
+                    <h4>Lead Gen & Marketing</h4>
+                    <p>Google + Meta Ads. SEO + location-specific service pages. Social media. Logistics content + video. B2B campaigns for exporters, importers, e-com sellers. Enquiry reporting.</p>
+                </div>
+                <div class="cs-pillar">
+                    <div class="cs-pillar-icon"><i class="fas fa-chart-line"></i></div>
+                    <h4>Courier Business Growth</h4>
+                    <p>Shipping enquiry + booking campaigns. Local branch marketing. International shipping communication. WhatsApp rate enquiries. Lead follow-up workflows.</p>
+                </div>
+                <div class="cs-pillar">
+                    <div class="cs-pillar-icon"><i class="fas fa-code"></i></div>
+                    <h4>Logistics Technology</h4>
+                    <p>Courier booking apps. Customer-facing mobile apps. Shipment tracking. Booking + rate enquiry journeys. Logistics dashboards + business software. Carrier integrations.</p>
+                </div>
+                </div>
+            </div>
+
+            <div class="cs-projects-head">
+                <h3 class="cs-projects-title">Projects we've worked on</h3>
+                <span class="cs-projects-count">6 case studies</span>
+            </div>
+
+            <div class="cs-mega-grid">
+                <article class="cs-mega-card" data-category="logistics technology">
+                    <div class="cs-mega-visual" style="background:linear-gradient(135deg,#0c4a6e 0%,#0284c7 100%);">
+                        <div class="cs-mega-bg-icon"><i class="fas fa-truck"></i></div>
+                        <div class="cs-mega-visual-top">
+                            <span class="cs-mega-persona-tag">LOGISTICS &middot; Courier Management</span>
+                            
+                        </div>
+                    </div>
+                    <div class="cs-mega-body">
+                        <h3 class="cs-mega-title">Courier Management System for <strong>a mid-sized 3PL</strong></h3>
+                        <p class="cs-mega-sub">Admin + Driver + Customer apps + billing + reporting. Live in production.</p>
+                        <div class="cs-mega-stats">
+                            <div class="cs-mega-stat"><strong>50K+</strong><span>Monthly shipments</span></div>
+                            <div class="cs-mega-stat"><strong>3</strong><span>Apps shipped</span></div>
+                            <div class="cs-mega-stat"><strong>-70%</strong><span>Manual ops</span></div>
+                            <div class="cs-mega-stat"><strong>API</strong><span>+ Webhook ready</span></div>
+                        </div>
+                        <div class="cs-mega-services-wrap">
+                            <div class="cs-mega-services-label">What we delivered</div>
+                            <div class="cs-mega-services">
+                                <span class="cs-mega-chip"><i class="fas fa-tachometer-alt"></i> Admin Dashboard</span>
+                            <span class="cs-mega-chip"><i class="fas fa-mobile-alt"></i> Driver App</span>
+                            <span class="cs-mega-chip"><i class="fas fa-user-circle"></i> Customer App</span>
+                            <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Billing + Invoicing</span>
+                            <span class="cs-mega-chip"><i class="fas fa-chart-bar"></i> Operational Reports</span>
+                            <span class="cs-mega-chip"><i class="fas fa-plug"></i> API + Webhooks</span>
+                            <span class="cs-mega-chip"><i class="fas fa-barcode"></i> AWB + Barcode</span>
+                            <span class="cs-mega-chip"><i class="fas fa-route"></i> Route Optimisation</span>
+                            </div>
+                        </div>
+                        <div class="cs-mega-ctas">
+                            <a href="/case-studies/courier-management-system.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                            <a href="/contact.php?src=cs_courier-management-system" class="cs-mega-cta-secondary">Discuss a Similar Project</a>
+                        </div>
+                    </div>
+                </article>
+                <article class="cs-mega-card" data-category="logistics saas technology">
+                    <div class="cs-mega-visual" style="background:linear-gradient(135deg,#14532d 0%,#22c55e 100%);">
+                        <div class="cs-mega-bg-icon"><i class="fas fa-globe-asia"></i></div>
+                        <div class="cs-mega-visual-top">
+                            <span class="cs-mega-persona-tag">LOGISTICS &middot; Cross-border SaaS</span>
+                            
+                        </div>
+                    </div>
+                    <div class="cs-mega-body">
+                        <h3 class="cs-mega-title">Cross-border courier <strong>SaaS platform</strong></h3>
+                        <p class="cs-mega-sub">Multi-tenant SaaS for cross-border logistics operators.</p>
+                        <div class="cs-mega-stats">
+                            <div class="cs-mega-stat"><strong>Multi-tenant</strong><span>Architecture</span></div>
+                            <div class="cs-mega-stat"><strong>5+</strong><span>Carrier integrations</span></div>
+                            <div class="cs-mega-stat"><strong>Live</strong><span>In production</span></div>
+                            <div class="cs-mega-stat"><strong>API-first</strong><span>+ Reporting</span></div>
+                        </div>
+                        <div class="cs-mega-services-wrap">
+                            <div class="cs-mega-services-label">What we delivered</div>
+                            <div class="cs-mega-services">
+                                <span class="cs-mega-chip"><i class="fas fa-layer-group"></i> Multi-tenant SaaS</span>
+                            <span class="cs-mega-chip"><i class="fas fa-plug"></i> Carrier Integrations</span>
+                            <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Billing + Subscription</span>
+                            <span class="cs-mega-chip"><i class="fas fa-chart-bar"></i> Analytics</span>
+                            <span class="cs-mega-chip"><i class="fas fa-users"></i> Role-based Access</span>
+                            <span class="cs-mega-chip"><i class="fas fa-shield-alt"></i> Compliance</span>
+                            </div>
+                        </div>
+                        <div class="cs-mega-ctas">
+                            <a href="/case-studies/cross-border-courier-platform-saas.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                            <a href="/contact.php?src=cs_cross-border-courier-platform-saas" class="cs-mega-cta-secondary">Discuss a Similar Project</a>
+                        </div>
+                    </div>
+                </article>
+                <article class="cs-mega-card" data-category="logistics saas technology">
+                    <div class="cs-mega-visual" style="background:linear-gradient(135deg,#1e3a8a 0%,#3b82f6 100%);">
+                        <div class="cs-mega-bg-icon"><i class="fas fa-shipping-fast"></i></div>
+                        <div class="cs-mega-visual-top">
+                            <span class="cs-mega-persona-tag">LOGISTICS &middot; Fleet SaaS</span>
+                            
+                        </div>
+                    </div>
+                    <div class="cs-mega-body">
+                        <h3 class="cs-mega-title">Fleet management <strong>SaaS for a 3PL operator</strong></h3>
+                        <p class="cs-mega-sub">GPS + driver app + analytics + billing, multi-tenant.</p>
+                        <div class="cs-mega-stats">
+                            <div class="cs-mega-stat"><strong>500+</strong><span>Vehicles tracked</span></div>
+                            <div class="cs-mega-stat"><strong>Real-time</strong><span>GPS + geofence</span></div>
+                            <div class="cs-mega-stat"><strong>SaaS</strong><span>Multi-tenant</span></div>
+                            <div class="cs-mega-stat"><strong>API</strong><span>+ Reports</span></div>
+                        </div>
+                        <div class="cs-mega-services-wrap">
+                            <div class="cs-mega-services-label">What we delivered</div>
+                            <div class="cs-mega-services">
+                                <span class="cs-mega-chip"><i class="fas fa-map-marked-alt"></i> Live GPS Tracking</span>
+                            <span class="cs-mega-chip"><i class="fas fa-mobile-alt"></i> Driver App</span>
+                            <span class="cs-mega-chip"><i class="fas fa-chart-area"></i> Analytics Dashboard</span>
+                            <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Trip Billing</span>
+                            <span class="cs-mega-chip"><i class="fas fa-draw-polygon"></i> Geofencing</span>
+                            <span class="cs-mega-chip"><i class="fas fa-exchange-alt"></i> API Integrations</span>
+                            </div>
+                        </div>
+                        <div class="cs-mega-ctas">
+                            <a href="/case-studies/fleet-management-saas-3pl-logistics.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                            <a href="/contact.php?src=cs_fleet-management-saas-3pl-logistics" class="cs-mega-cta-secondary">Discuss a Similar Project</a>
+                        </div>
+                    </div>
+                </article>
+                <article class="cs-mega-card" data-category="logistics technology">
+                    <div class="cs-mega-visual" style="background:linear-gradient(135deg,#1e40af 0%,#60a5fa 100%);">
+                        <div class="cs-mega-bg-icon"><i class="fas fa-box-open"></i></div>
+                        <div class="cs-mega-visual-top">
+                            <span class="cs-mega-persona-tag">LOGISTICS &middot; Courier Booking App</span>
+                            
+                        </div>
+                    </div>
+                    <div class="cs-mega-body">
+                        <h3 class="cs-mega-title">On-demand <strong>courier booking app</strong></h3>
+                        <p class="cs-mega-sub">Customer-side booking, dynamic pricing, live tracking, payments.</p>
+                        <div class="cs-mega-stats">
+                            <div class="cs-mega-stat"><strong>5K+</strong><span>Daily bookings</span></div>
+                            <div class="cs-mega-stat"><strong>iOS +</strong><span>Android</span></div>
+                            <div class="cs-mega-stat"><strong>Live</strong><span>Rider matching</span></div>
+                            <div class="cs-mega-stat"><strong>Payments</strong><span>Integrated</span></div>
+                        </div>
+                        <div class="cs-mega-services-wrap">
+                            <div class="cs-mega-services-label">What we delivered</div>
+                            <div class="cs-mega-services">
+                                <span class="cs-mega-chip"><i class="fas fa-mobile-alt"></i> Customer App</span>
+                            <span class="cs-mega-chip"><i class="fas fa-calculator"></i> Dynamic Pricing</span>
+                            <span class="cs-mega-chip"><i class="fas fa-map-marker-alt"></i> Live Tracking</span>
+                            <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Payments</span>
+                            <span class="cs-mega-chip"><i class="fas fa-bell"></i> Push + SMS</span>
+                            <span class="cs-mega-chip"><i class="fas fa-user-tag"></i> Referrals</span>
+                            </div>
+                        </div>
+                        <div class="cs-mega-ctas">
+                            <a href="/case-studies/on-demand-courier-booking-app.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                            <a href="/contact.php?src=cs_on-demand-courier-booking-app" class="cs-mega-cta-secondary">Discuss a Similar Project</a>
+                        </div>
+                    </div>
+                </article>
+                <article class="cs-mega-card" data-category="logistics saas technology">
+                    <div class="cs-mega-visual" style="background:linear-gradient(135deg,#1e40af 0%,#3b82f6 100%);">
+                        <div class="cs-mega-bg-icon"><i class="fas fa-route"></i></div>
+                        <div class="cs-mega-visual-top">
+                            <span class="cs-mega-persona-tag">LOGISTICS &middot; Logistics SaaS</span>
+                            
+                        </div>
+                    </div>
+                    <div class="cs-mega-body">
+                        <h3 class="cs-mega-title">Smart logistics <strong>SaaS platform</strong></h3>
+                        <p class="cs-mega-sub">Fleet + tracking + billing + analytics in one platform.</p>
+                        <div class="cs-mega-stats">
+                            <div class="cs-mega-stat"><strong>SaaS</strong><span>Multi-tenant</span></div>
+                            <div class="cs-mega-stat"><strong>Fleet</strong><span>+ Tracking</span></div>
+                            <div class="cs-mega-stat"><strong>Billing</strong><span>Automated</span></div>
+                            <div class="cs-mega-stat"><strong>API</strong><span>+ Webhooks</span></div>
+                        </div>
+                        <div class="cs-mega-services-wrap">
+                            <div class="cs-mega-services-label">What we delivered</div>
+                            <div class="cs-mega-services">
+                                <span class="cs-mega-chip"><i class="fas fa-truck"></i> Fleet Mgmt</span>
+                            <span class="cs-mega-chip"><i class="fas fa-map-marked-alt"></i> Live Tracking</span>
+                            <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Auto Billing</span>
+                            <span class="cs-mega-chip"><i class="fas fa-chart-line"></i> Analytics</span>
+                            <span class="cs-mega-chip"><i class="fas fa-plug"></i> API + Webhooks</span>
+                            <span class="cs-mega-chip"><i class="fas fa-shield-alt"></i> Role-based Access</span>
+                            </div>
+                        </div>
+                        <div class="cs-mega-ctas">
+                            <a href="/case-studies/smart-logistics-saas-platform.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                            <a href="/contact.php?src=cs_smart-logistics-saas-platform" class="cs-mega-cta-secondary">Discuss a Similar Project</a>
+                        </div>
+                    </div>
+                </article>
+                <article class="cs-mega-card" data-category="logistics lead-gen marketing">
+                    <div class="cs-mega-visual" style="background:linear-gradient(135deg,#78350f 0%,#d97706 100%);">
+                        <div class="cs-mega-bg-icon"><i class="fas fa-plane"></i></div>
+                        <div class="cs-mega-visual-top">
+                            <span class="cs-mega-persona-tag">LOGISTICS &middot; International Courier Marketing</span>
+                            <span class="cs-mega-nda-badge"><i class="fas fa-shield-alt"></i> Under NDA</span>
+                        </div>
+                    </div>
+                    <div class="cs-mega-body">
+                        <h3 class="cs-mega-title">International courier company <strong>lead-gen for exporters</strong></h3>
+                        <p class="cs-mega-sub">Specialist courier marketing: shipping-rate enquiries, exporter campaigns, WhatsApp enquiry automation.</p>
+                        <div class="cs-mega-stats">
+                            <div class="cs-mega-stat"><strong>5.1x</strong><span>Monthly rate enquiries</span></div>
+                            <div class="cs-mega-stat"><strong>Rs 45L</strong><span>Monthly ad spend managed</span></div>
+                            <div class="cs-mega-stat"><strong>-40%</strong><span>Cost per enquiry</span></div>
+                            <div class="cs-mega-stat"><strong>12</strong><span>Service-city pages</span></div>
+                        </div>
+                        <div class="cs-mega-services-wrap">
+                            <div class="cs-mega-services-label">What we delivered</div>
+                            <div class="cs-mega-services">
+                                <span class="cs-mega-chip"><i class="fab fa-google"></i> Google Ads (shipping-rate queries)</span>
+                            <span class="cs-mega-chip"><i class="fab fa-meta"></i> Meta Ads for e-commerce sellers</span>
+                            <span class="cs-mega-chip"><i class="fas fa-search"></i> City + corridor SEO (12 pages)</span>
+                            <span class="cs-mega-chip"><i class="fab fa-whatsapp"></i> WhatsApp rate-enquiry automation</span>
+                            <span class="cs-mega-chip"><i class="fas fa-map-marker-alt"></i> Google Business for branches</span>
+                            <span class="cs-mega-chip"><i class="fas fa-video"></i> Shipping explainer videos</span>
+                            <span class="cs-mega-chip"><i class="fas fa-funnel-dollar"></i> Enquiry CRM + follow-up journeys</span>
+                            <span class="cs-mega-chip"><i class="fas fa-chart-pie"></i> Lead-source reporting</span>
+                            </div>
+                        </div>
+                        <div class="cs-mega-ctas">
+                            <a href="https://wa.me/918450978544" class="cs-mega-cta-primary" target="_blank" rel="noopener">Discuss This on WhatsApp <i class="fas fa-arrow-right"></i></a>
+                            <a href="/contact.php?src=cs_international_courier_marketing" class="cs-mega-cta-secondary">Discuss a Similar Project</a>
+                        </div>
+                    </div>
+                </article>
+            </div>
+
+            <div class="cs-cat-cta" style="background:linear-gradient(135deg,#0284c7 0%, #0f1e3d 100%);">
+                <div class="cs-cat-cta-text">
+                    <h3>Let's Grow Your Logistics Business.</h3>
+                    <p>Marketing + technology under one roof for logistics operators. Rate enquiry campaigns, courier branch marketing, booking apps, tracking dashboards.</p>
+                </div>
+                <div class="cs-cat-cta-btns">
+                    <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-cat-cta-primary" data-source="cs_cat_logistics_calendly" target="_blank" rel="noopener"><i class="fas fa-calendar-alt"></i> Book a 30-min Call</a>
+                    <a href="https://wa.me/918450978544" class="cs-cat-cta-secondary" target="_blank" rel="noopener"><i class="fab fa-whatsapp"></i> WhatsApp Us</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CATEGORY 05 - Technology and Product Development -->
+    <section class="cs-cat-section" id="cat-tech" data-cat-color="#7c3aed">
+        <div class="container">
+            <div class="cs-cat-head">
+                <span class="cs-cat-order" style="color:#7c3aed;">Category 05 of 05</span>
+                <h2 class="cs-cat-title"><i class="fas fa-code" style="color:#7c3aed; margin-right:14px;"></i>Technology and Product Development</h2>
+                <p class="cs-cat-intro">For founders building an app, SaaS, marketplace, booking system, portal, or internal business tool. We build technology products end-to-end &mdash; design, engineering, infra, and operations.</p>
+            </div>
+
+            <div class="cs-pillars-row">
+                <div class="cs-pillars-label">What we help with</div>
+                <div class="cs-pillars-grid">
+                <div class="cs-pillar">
+                    <div class="cs-pillar-icon"><i class="fas fa-mobile-alt"></i></div>
+                    <h4>Mobile Applications</h4>
+                    <p>Android + iOS. Customer-facing apps. Booking + ordering apps. Courier + logistics apps. Business-specific workflow apps.</p>
+                </div>
+                <div class="cs-pillar">
+                    <div class="cs-pillar-icon"><i class="fas fa-tachometer-alt"></i></div>
+                    <h4>Web Apps & SaaS</h4>
+                    <p>Business dashboards. Customer + admin portals. Workflow management systems. Subscription platforms. API + third-party integrations.</p>
+                </div>
+                <div class="cs-pillar">
+                    <div class="cs-pillar-icon"><i class="fas fa-shopping-cart"></i></div>
+                    <h4>E-commerce & Marketplaces</h4>
+                    <p>E-commerce platforms. Multi-vendor marketplaces. Catalogues + ordering. Vendor + customer journeys. Payment + fulfilment integrations.</p>
+                </div>
+                <div class="cs-pillar">
+                    <div class="cs-pillar-icon"><i class="fas fa-cogs"></i></div>
+                    <h4>Custom Business Software</h4>
+                    <p>Internal ops tools. Industry-specific apps. Automation workflows. Reporting dashboards. Software designed around business requirements.</p>
+                </div>
+                </div>
+            </div>
+
+            <div class="cs-projects-head">
+                <h3 class="cs-projects-title">Projects we've worked on</h3>
+                <span class="cs-projects-count">10 case studies</span>
+            </div>
+
+            <div class="cs-mega-grid">
+                <article class="cs-mega-card" data-category="technology deeptech">
+                    <div class="cs-mega-visual" style="background:linear-gradient(135deg,#1a1240 0%,#7c3aed 100%);">
+                        <div class="cs-mega-bg-icon"><i class="fas fa-atom"></i></div>
+                        <div class="cs-mega-visual-top">
+                            <span class="cs-mega-persona-tag">TECH &middot; Deep Tech</span>
+                            <span class="cs-mega-nda-badge"><i class="fas fa-shield-alt"></i> Under NDA</span>
+                        </div>
+                    </div>
+                    <div class="cs-mega-body">
+                        <h3 class="cs-mega-title">Quantum-era data platform for a <strong>deep-tech R&amp;D client</strong></h3>
+                        <p class="cs-mega-sub">Dedicated Python + DevOps pod. Active engagement.</p>
+                        <div class="cs-mega-stats">
+                            <div class="cs-mega-stat"><strong>Active</strong><span>Build in progress</span></div>
+                            <div class="cs-mega-stat"><strong>Large</strong><span>Scale datasets</span></div>
+                            <div class="cs-mega-stat"><strong>LT</strong><span>Roadmap partner</span></div>
+                            <div class="cs-mega-stat"><strong>Python</strong><span>+ DevOps pod</span></div>
+                        </div>
+                        <div class="cs-mega-services-wrap">
+                            <div class="cs-mega-services-label">What we delivered</div>
+                            <div class="cs-mega-services">
+                                <span class="cs-mega-chip"><i class="fab fa-python"></i> Python Services</span>
+                            <span class="cs-mega-chip"><i class="fas fa-server"></i> DevOps + Cloud</span>
+                            <span class="cs-mega-chip"><i class="fas fa-stream"></i> Data Pipelines</span>
+                            <span class="cs-mega-chip"><i class="fas fa-sync"></i> CI/CD</span>
+                            <span class="cs-mega-chip"><i class="fas fa-chart-line"></i> Observability</span>
+                            <span class="cs-mega-chip"><i class="fas fa-cube"></i> Containerised</span>
+                            </div>
+                        </div>
+                        <div class="cs-mega-ctas">
+                            <a href="/case-studies/quantum-era-data-platform.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                            <a href="/contact.php?src=cs_quantum-era-data-platform" class="cs-mega-cta-secondary">Discuss a Similar Project</a>
+                        </div>
+                    </div>
+                </article>
+                <article class="cs-mega-card" data-category="technology edtech">
+                    <div class="cs-mega-visual" style="background:linear-gradient(135deg,#581c87 0%,#9333ea 100%);">
+                        <div class="cs-mega-bg-icon"><i class="fas fa-graduation-cap"></i></div>
+                        <div class="cs-mega-visual-top">
+                            <span class="cs-mega-persona-tag">TECH &middot; EdTech / LMS</span>
+                            
+                        </div>
+                    </div>
+                    <div class="cs-mega-body">
+                        <h3 class="cs-mega-title">EdTech LMS with <strong>live classes + payments</strong></h3>
+                        <p class="cs-mega-sub">Full LMS: live classes, video, assessments, payments, mobile apps.</p>
+                        <div class="cs-mega-stats">
+                            <div class="cs-mega-stat"><strong>5K+</strong><span>Daily sessions</span></div>
+                            <div class="cs-mega-stat"><strong>Live</strong><span>Streaming</span></div>
+                            <div class="cs-mega-stat"><strong>Mobile</strong><span>+ Web</span></div>
+                            <div class="cs-mega-stat"><strong>Multi-batch</strong><span>Enrollment</span></div>
+                        </div>
+                        <div class="cs-mega-services-wrap">
+                            <div class="cs-mega-services-label">What we delivered</div>
+                            <div class="cs-mega-services">
+                                <span class="cs-mega-chip"><i class="fas fa-video"></i> Live Class Streaming</span>
+                            <span class="cs-mega-chip"><i class="fas fa-book-reader"></i> LMS Core</span>
+                            <span class="cs-mega-chip"><i class="fas fa-mobile-alt"></i> iOS + Android</span>
+                            <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Payments</span>
+                            <span class="cs-mega-chip"><i class="fas fa-tasks"></i> Assessment Engine</span>
+                            <span class="cs-mega-chip"><i class="fas fa-chart-line"></i> Analytics</span>
+                            </div>
+                        </div>
+                        <div class="cs-mega-ctas">
+                            <a href="/case-studies/edtech-lms-live-classes-platform.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                            <a href="/contact.php?src=cs_edtech-lms-live-classes-platform" class="cs-mega-cta-secondary">Discuss a Similar Project</a>
+                        </div>
+                    </div>
+                </article>
+                <article class="cs-mega-card" data-category="technology foodtech">
+                    <div class="cs-mega-visual" style="background:linear-gradient(135deg,#7c2d12 0%,#ea580c 100%);">
+                        <div class="cs-mega-bg-icon"><i class="fas fa-utensils"></i></div>
+                        <div class="cs-mega-visual-top">
+                            <span class="cs-mega-persona-tag">TECH &middot; Food Tech</span>
+                            
+                        </div>
+                    </div>
+                    <div class="cs-mega-body">
+                        <h3 class="cs-mega-title">Vendor ops system for <strong>food delivery platform</strong></h3>
+                        <p class="cs-mega-sub">Order management + POS + inventory for merchants.</p>
+                        <div class="cs-mega-stats">
+                            <div class="cs-mega-stat"><strong>2K+</strong><span>Daily orders</span></div>
+                            <div class="cs-mega-stat"><strong>Multi-outlet</strong><span>Chain-ready</span></div>
+                            <div class="cs-mega-stat"><strong>Live</strong><span>Order flow</span></div>
+                            <div class="cs-mega-stat"><strong>POS</strong><span>Integrated</span></div>
+                        </div>
+                        <div class="cs-mega-services-wrap">
+                            <div class="cs-mega-services-label">What we delivered</div>
+                            <div class="cs-mega-services">
+                                <span class="cs-mega-chip"><i class="fas fa-cash-register"></i> POS Integration</span>
+                            <span class="cs-mega-chip"><i class="fas fa-clipboard-list"></i> Order Mgmt</span>
+                            <span class="cs-mega-chip"><i class="fas fa-boxes"></i> Inventory</span>
+                            <span class="cs-mega-chip"><i class="fas fa-store-alt"></i> Multi-outlet</span>
+                            <span class="cs-mega-chip"><i class="fas fa-chart-bar"></i> Vendor Reports</span>
+                            <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Settlements</span>
+                            </div>
+                        </div>
+                        <div class="cs-mega-ctas">
+                            <a href="/case-studies/food-delivery-vendor-operations-system.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                            <a href="/contact.php?src=cs_food-delivery-vendor-operations-system" class="cs-mega-cta-secondary">Discuss a Similar Project</a>
+                        </div>
+                    </div>
+                </article>
+                <article class="cs-mega-card" data-category="technology marketplace">
+                    <div class="cs-mega-visual" style="background:linear-gradient(135deg,#92400e 0%,#f59e0b 100%);">
+                        <div class="cs-mega-bg-icon"><i class="fas fa-store"></i></div>
+                        <div class="cs-mega-visual-top">
+                            <span class="cs-mega-persona-tag">TECH &middot; Marketplace</span>
+                            
+                        </div>
+                    </div>
+                    <div class="cs-mega-body">
+                        <h3 class="cs-mega-title">Multi-vendor marketplace app for <strong>food + grocery</strong></h3>
+                        <p class="cs-mega-sub">Customer + Vendor + Rider + Admin, all native.</p>
+                        <div class="cs-mega-stats">
+                            <div class="cs-mega-stat"><strong>4</strong><span>Apps shipped</span></div>
+                            <div class="cs-mega-stat"><strong>Native</strong><span>iOS + Android</span></div>
+                            <div class="cs-mega-stat"><strong>Live</strong><span>Payments</span></div>
+                            <div class="cs-mega-stat"><strong>Driver</strong><span>Live tracking</span></div>
+                        </div>
+                        <div class="cs-mega-services-wrap">
+                            <div class="cs-mega-services-label">What we delivered</div>
+                            <div class="cs-mega-services">
+                                <span class="cs-mega-chip"><i class="fas fa-mobile-alt"></i> Customer App</span>
+                            <span class="cs-mega-chip"><i class="fas fa-store-alt"></i> Vendor App</span>
+                            <span class="cs-mega-chip"><i class="fas fa-motorcycle"></i> Rider App</span>
+                            <span class="cs-mega-chip"><i class="fas fa-tachometer-alt"></i> Admin Dashboard</span>
+                            <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Payments</span>
+                            <span class="cs-mega-chip"><i class="fas fa-map-marker-alt"></i> Live Tracking</span>
+                            </div>
+                        </div>
+                        <div class="cs-mega-ctas">
+                            <a href="/case-studies/multi-vendor-marketplace-app-food-grocery.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                            <a href="/contact.php?src=cs_multi-vendor-marketplace-app-food-grocery" class="cs-mega-cta-secondary">Discuss a Similar Project</a>
+                        </div>
+                    </div>
+                </article>
+                <article class="cs-mega-card" data-category="technology fintech">
+                    <div class="cs-mega-visual" style="background:linear-gradient(135deg,#064e3b 0%,#059669 100%);">
+                        <div class="cs-mega-bg-icon"><i class="fas fa-coins"></i></div>
+                        <div class="cs-mega-visual-top">
+                            <span class="cs-mega-persona-tag">TECH &middot; Fintech / NBFC</span>
+                            
+                        </div>
+                    </div>
+                    <div class="cs-mega-body">
+                        <h3 class="cs-mega-title">NBFC <strong>loan origination dashboard</strong></h3>
+                        <p class="cs-mega-sub">KYC + underwriting + disbursal + collections workflow.</p>
+                        <div class="cs-mega-stats">
+                            <div class="cs-mega-stat"><strong>Live</strong><span>Production</span></div>
+                            <div class="cs-mega-stat"><strong>KYC</strong><span>Aadhaar + PAN</span></div>
+                            <div class="cs-mega-stat"><strong>Multi-stage</strong><span>Workflow</span></div>
+                            <div class="cs-mega-stat"><strong>Audit</strong><span>Trail</span></div>
+                        </div>
+                        <div class="cs-mega-services-wrap">
+                            <div class="cs-mega-services-label">What we delivered</div>
+                            <div class="cs-mega-services">
+                                <span class="cs-mega-chip"><i class="fas fa-id-card"></i> KYC + eSign</span>
+                            <span class="cs-mega-chip"><i class="fas fa-check-double"></i> Underwriting</span>
+                            <span class="cs-mega-chip"><i class="fas fa-money-check-alt"></i> Disbursal</span>
+                            <span class="cs-mega-chip"><i class="fas fa-handshake"></i> Collections</span>
+                            <span class="cs-mega-chip"><i class="fas fa-shield-alt"></i> Compliance + Audit</span>
+                            <span class="cs-mega-chip"><i class="fas fa-chart-line"></i> Portfolio Analytics</span>
+                            </div>
+                        </div>
+                        <div class="cs-mega-ctas">
+                            <a href="/case-studies/nbfc-loan-origination-dashboard-fintech.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                            <a href="/contact.php?src=cs_nbfc-loan-origination-dashboard-fintech" class="cs-mega-cta-secondary">Discuss a Similar Project</a>
+                        </div>
+                    </div>
+                </article>
+                <article class="cs-mega-card" data-category="technology marketplace">
+                    <div class="cs-mega-visual" style="background:linear-gradient(135deg,#164e63 0%,#0ea5e9 100%);">
+                        <div class="cs-mega-bg-icon"><i class="fas fa-fish"></i></div>
+                        <div class="cs-mega-visual-top">
+                            <span class="cs-mega-persona-tag">TECH &middot; Marketplace / Perishable</span>
+                            
+                        </div>
+                    </div>
+                    <div class="cs-mega-body">
+                        <h3 class="cs-mega-title">Fish delivery <strong>marketplace app</strong></h3>
+                        <p class="cs-mega-sub">Perishable-first marketplace: live inventory, cold-chain-aware.</p>
+                        <div class="cs-mega-stats">
+                            <div class="cs-mega-stat"><strong>Live</strong><span>Inventory sync</span></div>
+                            <div class="cs-mega-stat"><strong>Cold-chain</strong><span>SLA aware</span></div>
+                            <div class="cs-mega-stat"><strong>Multi-vendor</strong><span>Catalog</span></div>
+                            <div class="cs-mega-stat"><strong>Driver</strong><span>Routing</span></div>
+                        </div>
+                        <div class="cs-mega-services-wrap">
+                            <div class="cs-mega-services-label">What we delivered</div>
+                            <div class="cs-mega-services">
+                                <span class="cs-mega-chip"><i class="fas fa-mobile-alt"></i> Customer App</span>
+                            <span class="cs-mega-chip"><i class="fas fa-sync"></i> Live Inventory</span>
+                            <span class="cs-mega-chip"><i class="fas fa-truck"></i> Driver App</span>
+                            <span class="cs-mega-chip"><i class="fas fa-snowflake"></i> Cold-chain SLA</span>
+                            <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Payments</span>
+                            <span class="cs-mega-chip"><i class="fas fa-store-alt"></i> Multi-vendor</span>
+                            </div>
+                        </div>
+                        <div class="cs-mega-ctas">
+                            <a href="/case-studies/online-fish-delivery-marketplace-app.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                            <a href="/contact.php?src=cs_online-fish-delivery-marketplace-app" class="cs-mega-cta-secondary">Discuss a Similar Project</a>
+                        </div>
+                    </div>
+                </article>
+                <article class="cs-mega-card" data-category="technology realestate whatsapp">
+                    <div class="cs-mega-visual" style="background:linear-gradient(135deg,#78350f 0%,#f59e0b 100%);">
+                        <div class="cs-mega-bg-icon"><i class="fas fa-building"></i></div>
+                        <div class="cs-mega-visual-top">
+                            <span class="cs-mega-persona-tag">TECH &middot; Real Estate CRM</span>
+                            
+                        </div>
+                    </div>
+                    <div class="cs-mega-body">
+                        <h3 class="cs-mega-title">Real estate CRM with <strong>WhatsApp automation</strong></h3>
+                        <p class="cs-mega-sub">Lead-to-walkthrough automation for property teams.</p>
+                        <div class="cs-mega-stats">
+                            <div class="cs-mega-stat"><strong>Live</strong><span>Production</span></div>
+                            <div class="cs-mega-stat"><strong>Auto</strong><span>Lead routing</span></div>
+                            <div class="cs-mega-stat"><strong>WhatsApp</strong><span>+ Email + SMS</span></div>
+                            <div class="cs-mega-stat"><strong>Multi-user</strong><span>Teams</span></div>
+                        </div>
+                        <div class="cs-mega-services-wrap">
+                            <div class="cs-mega-services-label">What we delivered</div>
+                            <div class="cs-mega-services">
+                                <span class="cs-mega-chip"><i class="fas fa-user-plus"></i> Lead Capture</span>
+                            <span class="cs-mega-chip"><i class="fab fa-whatsapp"></i> WhatsApp Auto</span>
+                            <span class="cs-mega-chip"><i class="fas fa-building"></i> Property Mgmt</span>
+                            <span class="cs-mega-chip"><i class="fas fa-funnel-dollar"></i> Lead Scoring</span>
+                            <span class="cs-mega-chip"><i class="fas fa-calendar-check"></i> Visit Scheduling</span>
+                            <span class="cs-mega-chip"><i class="fas fa-chart-pie"></i> Pipeline Reports</span>
+                            </div>
+                        </div>
+                        <div class="cs-mega-ctas">
+                            <a href="/case-studies/real-estate-crm-whatsapp-automation.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                            <a href="/contact.php?src=cs_real-estate-crm-whatsapp-automation" class="cs-mega-cta-secondary">Discuss a Similar Project</a>
+                        </div>
+                    </div>
+                </article>
+                <article class="cs-mega-card" data-category="technology foodtech">
+                    <div class="cs-mega-visual" style="background:linear-gradient(135deg,#991b1b 0%,#ef4444 100%);">
+                        <div class="cs-mega-bg-icon"><i class="fas fa-concierge-bell"></i></div>
+                        <div class="cs-mega-visual-top">
+                            <span class="cs-mega-persona-tag">TECH &middot; Restaurant Tech</span>
+                            
+                        </div>
+                    </div>
+                    <div class="cs-mega-body">
+                        <h3 class="cs-mega-title">Restaurant <strong>POS + online ordering platform</strong></h3>
+                        <p class="cs-mega-sub">Dine-in POS, online ordering, KDS, inventory, reports.</p>
+                        <div class="cs-mega-stats">
+                            <div class="cs-mega-stat"><strong>Live</strong><span>Multi-outlet</span></div>
+                            <div class="cs-mega-stat"><strong>KDS</strong><span>Kitchen display</span></div>
+                            <div class="cs-mega-stat"><strong>Online +</strong><span>Dine-in</span></div>
+                            <div class="cs-mega-stat"><strong>Settlements</strong><span>Auto</span></div>
+                        </div>
+                        <div class="cs-mega-services-wrap">
+                            <div class="cs-mega-services-label">What we delivered</div>
+                            <div class="cs-mega-services">
+                                <span class="cs-mega-chip"><i class="fas fa-cash-register"></i> POS</span>
+                            <span class="cs-mega-chip"><i class="fas fa-tv"></i> Kitchen Display</span>
+                            <span class="cs-mega-chip"><i class="fas fa-shopping-cart"></i> Online Ordering</span>
+                            <span class="cs-mega-chip"><i class="fas fa-boxes"></i> Inventory</span>
+                            <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Payments</span>
+                            <span class="cs-mega-chip"><i class="fas fa-chart-bar"></i> Reports</span>
+                            </div>
+                        </div>
+                        <div class="cs-mega-ctas">
+                            <a href="/case-studies/restaurant-pos-online-ordering-platform.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                            <a href="/contact.php?src=cs_restaurant-pos-online-ordering-platform" class="cs-mega-cta-secondary">Discuss a Similar Project</a>
+                        </div>
+                    </div>
+                </article>
+                <article class="cs-mega-card" data-category="technology saas retail">
+                    <div class="cs-mega-visual" style="background:linear-gradient(135deg,#365314 0%,#84cc16 100%);">
+                        <div class="cs-mega-bg-icon"><i class="fas fa-boxes"></i></div>
+                        <div class="cs-mega-visual-top">
+                            <span class="cs-mega-persona-tag">TECH &middot; Retail SaaS</span>
+                            
+                        </div>
+                    </div>
+                    <div class="cs-mega-body">
+                        <h3 class="cs-mega-title">SaaS <strong>inventory management</strong> for retail chains</h3>
+                        <p class="cs-mega-sub">Multi-location, barcode, reorder, reports, integrations.</p>
+                        <div class="cs-mega-stats">
+                            <div class="cs-mega-stat"><strong>Multi-site</strong><span>Live sync</span></div>
+                            <div class="cs-mega-stat"><strong>Barcode</strong><span>+ Scanner</span></div>
+                            <div class="cs-mega-stat"><strong>Tally</strong><span>Integrated</span></div>
+                            <div class="cs-mega-stat"><strong>Reports</strong><span>Daily</span></div>
+                        </div>
+                        <div class="cs-mega-services-wrap">
+                            <div class="cs-mega-services-label">What we delivered</div>
+                            <div class="cs-mega-services">
+                                <span class="cs-mega-chip"><i class="fas fa-barcode"></i> Barcode + SKU</span>
+                            <span class="cs-mega-chip"><i class="fas fa-map-marker-alt"></i> Multi-location</span>
+                            <span class="cs-mega-chip"><i class="fas fa-sync"></i> Live Sync</span>
+                            <span class="cs-mega-chip"><i class="fas fa-exchange-alt"></i> Tally / ERP Integrations</span>
+                            <span class="cs-mega-chip"><i class="fas fa-truck-loading"></i> Reorder Logic</span>
+                            <span class="cs-mega-chip"><i class="fas fa-chart-area"></i> Reports</span>
+                            </div>
+                        </div>
+                        <div class="cs-mega-ctas">
+                            <a href="/case-studies/saas-inventory-management-retail-chains.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                            <a href="/contact.php?src=cs_saas-inventory-management-retail-chains" class="cs-mega-cta-secondary">Discuss a Similar Project</a>
+                        </div>
+                    </div>
+                </article>
+                <article class="cs-mega-card" data-category="technology healthcare">
+                    <div class="cs-mega-visual" style="background:linear-gradient(135deg,#0c4a6e 0%,#06b6d4 100%);">
+                        <div class="cs-mega-bg-icon"><i class="fas fa-user-md"></i></div>
+                        <div class="cs-mega-visual-top">
+                            <span class="cs-mega-persona-tag">TECH &middot; Healthcare / Telemed</span>
+                            
+                        </div>
+                    </div>
+                    <div class="cs-mega-body">
+                        <h3 class="cs-mega-title">Telemedicine app <strong>HIPAA + ABDM compliant</strong></h3>
+                        <p class="cs-mega-sub">Video consult + EHR + prescription + payments.</p>
+                        <div class="cs-mega-stats">
+                            <div class="cs-mega-stat"><strong>HIPAA</strong><span>+ ABDM</span></div>
+                            <div class="cs-mega-stat"><strong>Live</strong><span>Video + Chat</span></div>
+                            <div class="cs-mega-stat"><strong>EHR</strong><span>Integrated</span></div>
+                            <div class="cs-mega-stat"><strong>eRx</strong><span>Enabled</span></div>
+                        </div>
+                        <div class="cs-mega-services-wrap">
+                            <div class="cs-mega-services-label">What we delivered</div>
+                            <div class="cs-mega-services">
+                                <span class="cs-mega-chip"><i class="fas fa-video"></i> Video Consult</span>
+                            <span class="cs-mega-chip"><i class="fas fa-file-medical"></i> EHR Records</span>
+                            <span class="cs-mega-chip"><i class="fas fa-prescription"></i> e-Prescription</span>
+                            <span class="cs-mega-chip"><i class="fas fa-shield-virus"></i> HIPAA + ABDM</span>
+                            <span class="cs-mega-chip"><i class="fas fa-credit-card"></i> Payments</span>
+                            <span class="cs-mega-chip"><i class="fas fa-mobile-alt"></i> Patient + Doctor Apps</span>
+                            </div>
+                        </div>
+                        <div class="cs-mega-ctas">
+                            <a href="/case-studies/telemedicine-app-hipaa-abdm-compliant.php" class="cs-mega-cta-primary">View Case Study <i class="fas fa-arrow-right"></i></a>
+                            <a href="/contact.php?src=cs_telemedicine-app-hipaa-abdm-compliant" class="cs-mega-cta-secondary">Discuss a Similar Project</a>
+                        </div>
+                    </div>
+                </article>
+            </div>
+
+            <div class="cs-cat-cta" style="background:linear-gradient(135deg,#7c3aed 0%, #0f1e3d 100%);">
+                <div class="cs-cat-cta-text">
+                    <h3>Have a Product Idea? Let's Build It.</h3>
+                    <p>End-to-end product engineering. Design + mobile + web + SaaS + infra + launch. From founder MVP to enterprise-scale platform.</p>
+                </div>
+                <div class="cs-cat-cta-btns">
+                    <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-cat-cta-primary" data-source="cs_cat_tech_calendly" target="_blank" rel="noopener"><i class="fas fa-calendar-alt"></i> Book a 30-min Call</a>
+                    <a href="https://wa.me/918450978544" class="cs-cat-cta-secondary" target="_blank" rel="noopener"><i class="fab fa-whatsapp"></i> WhatsApp Us</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="cs-section">
+        <div class="container">
+            <aside class="cs-nda-callout">
                 <div class="cs-nda-icon"><i class="fas fa-user-shield"></i></div>
                 <div>
                     <h3>More work we cannot show publicly</h3>
@@ -1955,373 +1946,75 @@
                 <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-nda-cta" data-source="case_study_hub_nda_callout" target="_blank" rel="noopener">Book a 30-min NDA Call <i class="fas fa-arrow-right" style="margin-left: 6px;"></i></a>
             </aside>
         </div>
-    </div>
+    </section>
 
-    <!-- End Case Studies Section -->
-
-    <!-- Start Testimonials Section
-    ============================================= -->
-    <!-- SEO / AEO / GEO Case Study FAQ -->
+    <!-- SEO / AEO / GEO FAQ -->
     <section class="cs-section alt" aria-labelledby="cs-faq-title">
         <div class="container">
             <div class="cs-section-head">
-                <div class="cs-section-eyebrow">Frequently asked</div>
+                <span class="cs-section-eyebrow">Frequently asked</span>
                 <h2 id="cs-faq-title" class="cs-section-title">Questions prospective clients ask</h2>
                 <p class="cs-section-sub">The things people usually want to know before booking a call.</p>
             </div>
             <div class="cs-faq-list">
                 <details class="cs-faq-item">
-                    <summary class="cs-faq-q">Do you work with D2C brands or only B2B / Enterprise?</summary>
-                    <div class="cs-faq-a">Both. Roughly half our book is D2C marketing (skincare, jewelry, fashion, beauty, food, wellness) and half is B2B / enterprise technology (logistics SaaS, fintech, healthcare, marketplaces, deep-tech). Pick the persona at the top of this page to see work that looks like yours.</div>
+                    <summary class="cs-faq-q">Which types of businesses does ITD GrowthLabs work with?</summary>
+                    <div class="cs-faq-a">Five main types: D2C and consumer brands (skincare, jewelry, fashion, beauty, food, wellness), retail and store launches, B2B and manufacturing, logistics and courier businesses, and technology product development (apps, SaaS, marketplaces). Pick the category on this page that matches your business.</div>
                 </details>
                 <details class="cs-faq-item">
                     <summary class="cs-faq-q">Why are most of your D2C case studies anonymized?</summary>
-                    <div class="cs-faq-a">D2C is a fiercely competitive space. Most of our brand clients prefer confidentiality while they are still scaling — competitors watching their creative, ad spend ratios, or vendor stack is a real risk. On a 30-minute discovery call we are happy to share the brand name, named references, and specific metrics under NDA.</div>
+                    <div class="cs-faq-a">D2C is a fiercely competitive space. Most of our brand clients prefer confidentiality while they are still scaling. On a 30-minute discovery call we are happy to share brand names, named references, and specific metrics under NDA.</div>
                 </details>
                 <details class="cs-faq-item">
                     <summary class="cs-faq-q">Can you share named client references?</summary>
-                    <div class="cs-faq-a">Yes, after a short discovery call. We can connect you directly with past clients — founders, CMOs, Heads of Growth — to ask about delivery quality, attribution honesty, and what it is like to work with the team. We do not route reference calls through us; you talk to them directly.</div>
+                    <div class="cs-faq-a">Yes, after a short discovery call. We can connect you directly with past clients to ask about delivery quality, attribution honesty, and what it is like to work with the team.</div>
                 </details>
                 <details class="cs-faq-item">
-                    <summary class="cs-faq-q">What is the typical duration of a D2C engagement?</summary>
-                    <div class="cs-faq-a">Minimum 6 months to see compounding; most mature engagements run 12 to 24 months. Our skincare case study on this page is a 24-month engagement that scaled from Rs 15L to Rs 2 Cr monthly revenue. We also run shorter 90-day sprints for brands that want to test fit before committing.</div>
+                    <summary class="cs-faq-q">Do you work on retail store launches?</summary>
+                    <div class="cs-faq-a">Yes. We run a 4-phase launch system: Launch Strategy, Digital Presence & Launch Assets, Demand Generation, and Post-Launch Growth. Covers jewellery, perfume, lifestyle, skincare, and other category launches &mdash; both single-outlet launches and multi-city rollouts.</div>
+                </details>
+                <details class="cs-faq-item">
+                    <summary class="cs-faq-q">Can you support an international brand entering India (or vice versa)?</summary>
+                    <div class="cs-faq-a">Yes. We handle market entry strategy, consumer research, localisation, Indian D2C store + payments + logistics setup, trilingual creative (EN + HI + regional), and retail store launch support. Current engagements include GCC brands entering India.</div>
+                </details>
+                <details class="cs-faq-item">
+                    <summary class="cs-faq-q">What is the typical duration of an engagement?</summary>
+                    <div class="cs-faq-a">D2C marketing engagements: 6-24 months. Store launches: 90-day sprint plus optional post-launch growth. B2B lead-gen: 6-12 months. Technology product builds: 3-12 months depending on scope. Longer engagements compound; we recommend a minimum of 6 months for marketing work.</div>
                 </details>
                 <details class="cs-faq-item">
                     <summary class="cs-faq-q">What is the minimum budget to work with ITD?</summary>
-                    <div class="cs-faq-a">Our D2C Growth tier starts at Rs 1 to 1.5L per month retainer (ad spend is pass-through, billed by the client directly on platforms). Enterprise B2B platform builds are typically Rs 15L+ per quarter depending on scope. We publish all tier pricing on <a href="/pricing.php">pricing.php</a>.</div>
+                    <div class="cs-faq-a">D2C Growth tier starts at Rs 1 to 1.5L / month retainer. Ad spend is pass-through, client-billed. Store launch packages start at Rs 2L for the 90-day launch system. B2B lead-gen tiers start at Rs 1.5L / month. Technology builds are typically Rs 15L+ per quarter. Full tiers on <a href="/pricing.php">pricing.php</a>.</div>
                 </details>
                 <details class="cs-faq-item">
                     <summary class="cs-faq-q">Do you work internationally?</summary>
-                    <div class="cs-faq-a">Yes. Active engagements across India, UAE (Dubai, Abu Dhabi), Saudi Arabia (Riyadh, Jeddah), UK, US, and Australia. Our skincare case study expanded into Dubai + Abu Dhabi + Riyadh + Jeddah with trilingual creative + Snapchat + local compliance. See our <a href="/services/digital-marketing-dubai.php">Dubai page</a> and <a href="/services/digital-marketing-london.php">London page</a>.</div>
+                    <div class="cs-faq-a">Yes. Active engagements across India, UAE (Dubai, Abu Dhabi), Saudi Arabia (Riyadh, Jeddah), UK, US, and Australia. Specific regional pages: <a href="/services/digital-marketing-dubai.php">Dubai</a>, <a href="/services/digital-marketing-london.php">London</a>, <a href="/services/digital-marketing-new-york.php">New York</a>.</div>
                 </details>
                 <details class="cs-faq-item">
                     <summary class="cs-faq-q">What is included in a 30-minute discovery call?</summary>
-                    <div class="cs-faq-a">A direct call with senior leadership (not an SDR). We review your current attribution, ROAS, repeat rate, retention funnel or your product roadmap. You walk away with a 90-day action plan, named references, and a fixed-quote proposal within 48 hours. Zero commitment.</div>
+                    <div class="cs-faq-a">A direct call with senior leadership (not an SDR). We review your current ad engine, website, attribution, and funnel &mdash; or your product roadmap for tech builds. You walk away with a 90-day action plan, named references, and a fixed-quote proposal within 48 hours. Zero commitment.</div>
                 </details>
                 <details class="cs-faq-item">
-                    <summary class="cs-faq-q">How is ITD different from a traditional creative agency?</summary>
-                    <div class="cs-faq-a">We are a tech + marketing studio, not a creative shop. We rebuild attribution, write production code, run performance ads, build the subscription funnel, ship the mobile app &mdash; often inside the same engagement. One of our skincare clients ran the SEO silo, the WhatsApp CRM, and the subscription infrastructure all through our pod. Agencies hand you a deck; we hand you a working system.</div>
+                    <summary class="cs-faq-q">How is ITD GrowthLabs different from a traditional agency?</summary>
+                    <div class="cs-faq-a">We are a tech + marketing studio, not a creative shop. One pod can rebuild your attribution, write production code, run performance ads, build your subscription funnel, and ship your mobile app &mdash; all inside the same engagement. Agencies hand you a deck; we hand you a working system.</div>
                 </details>
                 <details class="cs-faq-item">
                     <summary class="cs-faq-q">Can you help us if we are pre-launch?</summary>
-                    <div class="cs-faq-a">Yes. We have pre-funding stealth launches on both sides &mdash; D2C brands that are weeks away from first product drop, and B2B platforms that are code-first and not yet in market. We help with brand positioning, Shopify / app build, launch creative, first retention loops, and first-paid-spend playbooks.</div>
+                    <div class="cs-faq-a">Yes. We have pre-funding stealth launches on both sides &mdash; D2C brands weeks away from first product drop, and B2B platforms that are code-first and not yet in market. We help with brand positioning, Shopify / app build, launch creative, first retention loops, and first-paid-spend playbooks.</div>
                 </details>
                 <details class="cs-faq-item">
-                    <summary class="cs-faq-q">What tech stack do you build B2B platforms on?</summary>
-                    <div class="cs-faq-a">Backend: Python, Node, PHP (Laravel), Go for high-throughput services. Frontend: React, Next.js, Vue. Mobile: Flutter + native iOS / Android. Infra: AWS + GCP + DigitalOcean, containerised, CI/CD. Data: PostgreSQL, Mongo, Redis, Kafka. We pick stack to fit the problem; we don't do framework-first builds.</div>
+                    <summary class="cs-faq-q">What tech stack do you build on?</summary>
+                    <div class="cs-faq-a">Backend: Python, Node, PHP (Laravel), Go. Frontend: React, Next.js, Vue. Mobile: Flutter + native iOS / Android. Infra: AWS + GCP + DigitalOcean, containerised, CI/CD. Data: PostgreSQL, Mongo, Redis, Kafka. We pick stack to fit the problem, not framework-first.</div>
                 </details>
             </div>
             <div style="text-align:center; margin-top:36px;">
-                <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call" data-source="cs_faq_cta" target="_blank" rel="noopener" style="display:inline-block; padding:16px 36px; background:var(--color-primary); color:#fff; border-radius:10px; font-weight:700; font-size:15px; text-decoration:none; box-shadow:0 10px 28px rgba(241,111,48,0.25);">Have a different question? Book a 30-min Call <i class="fas fa-arrow-right" style="margin-left:8px;"></i></a>
+                <a href="https://calendly.com/itdgrowthlabs-info/30min" class="js-book-call cs-faq-cta" data-source="cs_faq_cta" target="_blank" rel="noopener">Have a different question? Book a 30-min Call <i class="fas fa-arrow-right" style="margin-left:8px;"></i></a>
             </div>
         </div>
     </section>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Which types of businesses does ITD GrowthLabs work with?","acceptedAnswer":{"@type":"Answer","text":"Five main types: D2C and consumer brands (skincare, jewelry, fashion, beauty, food, wellness), retail and store launches, B2B and manufacturing, logistics and courier businesses, and technology product development (apps, SaaS, marketplaces). Pick the category on this page that matches your business."}},{"@type":"Question","name":"Why are most of your D2C case studies anonymized?","acceptedAnswer":{"@type":"Answer","text":"D2C is a fiercely competitive space. Most of our brand clients prefer confidentiality while they are still scaling. On a 30-minute discovery call we are happy to share brand names, named references, and specific metrics under NDA."}},{"@type":"Question","name":"Can you share named client references?","acceptedAnswer":{"@type":"Answer","text":"Yes, after a short discovery call. We can connect you directly with past clients to ask about delivery quality, attribution honesty, and what it is like to work with the team."}},{"@type":"Question","name":"Do you work on retail store launches?","acceptedAnswer":{"@type":"Answer","text":"Yes. We run a 4-phase launch system: Launch Strategy, Digital Presence & Launch Assets, Demand Generation, and Post-Launch Growth. Covers jewellery, perfume, lifestyle, skincare, and other category launches -- both single-outlet launches and multi-city rollouts."}},{"@type":"Question","name":"Can you support an international brand entering India (or vice versa)?","acceptedAnswer":{"@type":"Answer","text":"Yes. We handle market entry strategy, consumer research, localisation, Indian D2C store + payments + logistics setup, trilingual creative (EN + HI + regional), and retail store launch support. Current engagements include GCC brands entering India."}},{"@type":"Question","name":"What is the typical duration of an engagement?","acceptedAnswer":{"@type":"Answer","text":"D2C marketing engagements: 6-24 months. Store launches: 90-day sprint plus optional post-launch growth. B2B lead-gen: 6-12 months. Technology product builds: 3-12 months depending on scope. Longer engagements compound; we recommend a minimum of 6 months for marketing work."}},{"@type":"Question","name":"What is the minimum budget to work with ITD?","acceptedAnswer":{"@type":"Answer","text":"D2C Growth tier starts at Rs 1 to 1.5L / month retainer. Ad spend is pass-through, client-billed. Store launch packages start at Rs 2L for the 90-day launch system. B2B lead-gen tiers start at Rs 1.5L / month. Technology builds are typically Rs 15L+ per quarter. Full tiers on pricing.php."}},{"@type":"Question","name":"Do you work internationally?","acceptedAnswer":{"@type":"Answer","text":"Yes. Active engagements across India, UAE (Dubai, Abu Dhabi), Saudi Arabia (Riyadh, Jeddah), UK, US, and Australia. Specific regional pages: Dubai, London, New York."}},{"@type":"Question","name":"What is included in a 30-minute discovery call?","acceptedAnswer":{"@type":"Answer","text":"A direct call with senior leadership (not an SDR). We review your current ad engine, website, attribution, and funnel -- or your product roadmap for tech builds. You walk away with a 90-day action plan, named references, and a fixed-quote proposal within 48 hours. Zero commitment."}},{"@type":"Question","name":"How is ITD GrowthLabs different from a traditional agency?","acceptedAnswer":{"@type":"Answer","text":"We are a tech + marketing studio, not a creative shop. One pod can rebuild your attribution, write production code, run performance ads, build your subscription funnel, and ship your mobile app -- all inside the same engagement. Agencies hand you a deck; we hand you a working system."}},{"@type":"Question","name":"Can you help us if we are pre-launch?","acceptedAnswer":{"@type":"Answer","text":"Yes. We have pre-funding stealth launches on both sides -- D2C brands weeks away from first product drop, and B2B platforms that are code-first and not yet in market. We help with brand positioning, Shopify / app build, launch creative, first retention loops, and first-paid-spend playbooks."}},{"@type":"Question","name":"What tech stack do you build on?","acceptedAnswer":{"@type":"Answer","text":"Backend: Python, Node, PHP (Laravel), Go. Frontend: React, Next.js, Vue. Mobile: Flutter + native iOS / Android. Infra: AWS + GCP + DigitalOcean, containerised, CI/CD. Data: PostgreSQL, Mongo, Redis, Kafka. We pick stack to fit the problem, not framework-first."}}]}</script>
 
-    <!-- FAQPage schema for SEO + AEO + GEO -->
-    <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do you work with D2C brands or only B2B / Enterprise?","acceptedAnswer":{"@type":"Answer","text":"Both. Roughly half our book is D2C marketing (skincare, jewelry, fashion, beauty, food, wellness) and half is B2B / enterprise technology (logistics SaaS, fintech, healthcare, marketplaces, deep-tech). Pick the persona at the top of this page to see work that looks like yours."}},{"@type":"Question","name":"Why are most of your D2C case studies anonymized?","acceptedAnswer":{"@type":"Answer","text":"D2C is a fiercely competitive space. Most of our brand clients prefer confidentiality while they are still scaling \u2014 competitors watching their creative, ad spend ratios, or vendor stack is a real risk. On a 30-minute discovery call we are happy to share the brand name, named references, and specific metrics under NDA."}},{"@type":"Question","name":"Can you share named client references?","acceptedAnswer":{"@type":"Answer","text":"Yes, after a short discovery call. We can connect you directly with past clients \u2014 founders, CMOs, Heads of Growth \u2014 to ask about delivery quality, attribution honesty, and what it is like to work with the team. We do not route reference calls through us; you talk to them directly."}},{"@type":"Question","name":"What is the typical duration of a D2C engagement?","acceptedAnswer":{"@type":"Answer","text":"Minimum 6 months to see compounding; most mature engagements run 12 to 24 months. Our skincare case study on this page is a 24-month engagement that scaled from Rs 15L to Rs 2 Cr monthly revenue. We also run shorter 90-day sprints for brands that want to test fit before committing."}},{"@type":"Question","name":"What is the minimum budget to work with ITD?","acceptedAnswer":{"@type":"Answer","text":"Our D2C Growth tier starts at Rs 1 to 1.5L per month retainer (ad spend is pass-through, billed by the client directly on platforms). Enterprise B2B platform builds are typically Rs 15L+ per quarter depending on scope. We publish all tier pricing on pricing.php."}},{"@type":"Question","name":"Do you work internationally?","acceptedAnswer":{"@type":"Answer","text":"Yes. Active engagements across India, UAE (Dubai, Abu Dhabi), Saudi Arabia (Riyadh, Jeddah), UK, US, and Australia. Our skincare case study expanded into Dubai + Abu Dhabi + Riyadh + Jeddah with trilingual creative + Snapchat + local compliance. See our Dubai page and London page."}},{"@type":"Question","name":"What is included in a 30-minute discovery call?","acceptedAnswer":{"@type":"Answer","text":"A direct call with senior leadership (not an SDR). We review your current attribution, ROAS, repeat rate, retention funnel or your product roadmap. You walk away with a 90-day action plan, named references, and a fixed-quote proposal within 48 hours. Zero commitment."}},{"@type":"Question","name":"How is ITD different from a traditional creative agency?","acceptedAnswer":{"@type":"Answer","text":"We are a tech + marketing studio, not a creative shop. We rebuild attribution, write production code, run performance ads, build the subscription funnel, ship the mobile app -- often inside the same engagement. One of our skincare clients ran the SEO silo, the WhatsApp CRM, and the subscription infrastructure all through our pod. Agencies hand you a deck; we hand you a working system."}},{"@type":"Question","name":"Can you help us if we are pre-launch?","acceptedAnswer":{"@type":"Answer","text":"Yes. We have pre-funding stealth launches on both sides -- D2C brands that are weeks away from first product drop, and B2B platforms that are code-first and not yet in market. We help with brand positioning, Shopify / app build, launch creative, first retention loops, and first-paid-spend playbooks."}},{"@type":"Question","name":"What tech stack do you build B2B platforms on?","acceptedAnswer":{"@type":"Answer","text":"Backend: Python, Node, PHP (Laravel), Go for high-throughput services. Frontend: React, Next.js, Vue. Mobile: Flutter + native iOS / Android. Infra: AWS + GCP + DigitalOcean, containerised, CI/CD. Data: PostgreSQL, Mongo, Redis, Kafka. We pick stack to fit the problem; we don't do framework-first builds."}}]}</script>
-    <!-- End FAQ Section -->
+    <?php include(__DIR__ . "/includes/footer.php"); ?>
 
-    <!-- Start Bottom CTA Section
-    ============================================= -->
-    <div class="bottom-cta-section pt-80 pb-80">
-        <div class="container" style="position: relative; z-index: 2;">
-            <div class="row align-items-center">
-                <div class="col-lg-8">
-                    <h2 class="text-white mb-15" style="font-size: 34px; font-weight: 700;">Have a Project Idea? Let's Build It Together.</h2>
-                    <p class="text-white mb-0" style="font-size: 16px; opacity: 0.9; max-width: 550px; line-height: 1.7;">Whether you need a mobile app, web platform, or a complete SaaS solution — our team is ready to turn your vision into a market-ready product.</p>
-                </div>
-                <div class="col-lg-4 text-lg-end mt-4 mt-lg-0">
-                    <a href="contact-us.php" class="btn btn-light btn-md" style="padding: 15px 35px; border-radius: 30px; font-weight: 600; font-size: 15px; color: var(--color-primary); box-shadow: 0 5px 20px rgba(0,0,0,0.15);">
-                        Get a Free Consultation <i class="fas fa-arrow-right" style="margin-left: 8px;"></i>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Bottom CTA Section -->
-
-    <!-- Start Footer
-    ============================================= -->
-    <footer class="bg-dark text-light" style="background-image: url(assets/img/shape/5.png);">
-        <div class="container">
-            <div class="f-items default-padding-bottom pt-70 pt-xs-0">
-                <div class="row">
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Core Tech Services</h4>
-                            <ul>
-                                <li><a href="../services/website-development-company.php" target="_blank">Website Design & Development</a></li>
-                                <li><a href="../services/Template-Based-Website-Development.php" target="_blank">Template-Based Website Development</a></li>
-                                <li><a href="../services/WordPress-Website-Development.php" target="_blank">WordPress Website Development</a></li>
-                                <li><a href="../services/Custom-Website-Development.php" target="_blank">Custom Website Development</a></li>
-                                <li><a href="../services/E-commerce-Website-Development.php" target="_blank">E-commerce Website Development</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">End-to-End Services</h4>
-                            <ul>
-                                <li><a href="../services/website-development-company.php" target="_blank">Website Design & Development</a></li>
-                                <li><a href="../services/content-marketing-services.php" target="_blank">Content Marketing Services</a></li>
-                                <li><a href="../services/seo-auditing-services.php" target="_blank">SEO Audit and Optimization</a></li>
-                                <li><a href="../services/social-media-marketing.php" target="_blank">Social Media Marketing</a></li>
-                                <li><a href="../services/google-search-ads-services.php" target="_blank">Google Search Ads</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">More Tech Solutions</h4>
-                            <ul>
-                                <li><a href="../services/App-Development.php" target="_blank">App Development</a></li>
-                                <li><a href="../services/IT-Outsourcing-Services.php" target="_blank">IT Outsourcing Services</a></li>
-                                <li><a href="../services/IT-Team-Outsourcing.php" target="_blank">IT Team Outsourcing</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">SEO &amp; Content Writing</h4>
-                            <ul>
-                                <li><a href="../services/website-content-writing.php" target="_blank">Website Content Writing</a></li>
-                                <li><a href="../services/seo-article-writing.php" target="_blank">SEO Article Writing</a></li>
-                                <li><a href="../services/blog-writing-services.php" target="_blank">Blog Writing</a></li>
-                                <li><a href="../services/case-study-writing-services.php" target="_blank">Case Study Writing</a></li>
-                                <li><a href="../services/product-description-writing-services.php" target="_blank">Product Description</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Specialized Content Services</h4>
-                            <ul>
-                                <li><a href="../services/content_writing_strategy.php" target="_blank">Content Writing & Strategy</a></li>
-                                <li><a href="../services/technical-writing-services.php" target="_blank">Technical Writing Services</a></li>
-                                <li><a href="../services/White-Papers-Case-Studies.php" target="_blank">White Papers & Case Studies</a></li>
-                                <li><a href="../services/Content-Team-Outsourcing.php" target="_blank">Content Team Outsourcing</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Industries We Serve</h4>
-                            <ul>
-                                <li><a href="../services/logistics-content-marketing.php" target="_blank">Logistics</a></li>
-                                <li><a href="../services/Industries-We-Serve-Manufacturing.php" target="_blank">Manufacturing</a></li>
-                                <li><a href="../services/Industries-We-Serve-Technology.php" target="_blank">Technology</a></li>
-                                <li><a href="../services/ecommerce-content-services.php" target="_blank">E-commerce</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Content Services</h4>
-                            <ul>
-                                <li><a href="../services/website-content-writing.php">Website Content Writing</a></li>
-                                <li><a href="../services/seo-article-writing.php">SEO Article Writing</a></li>
-                                <li><a href="../services/blog-writing-services.php">Blog Writing</a></li>
-                                <li><a href="../services/case-study-writing-services.php">Case Study Writing</a></li>
-                                <li><a href="../services/product-description-writing-services.php">Product Description</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">End-to-End Services</h4>
-                            <ul>
-                                <li><a href="../services/website-development-company.php">Website Design & Development</a></li>
-                                <li><a href="../services/content-marketing-services.php">Content Marketing Services</a></li>
-                                <li><a href="../services/seo-auditing-services.php">SEO Audit and Optimization</a></li>
-                                <li><a href="../services/social-media-marketing.php">Social Media Marketing</a></li>
-                                <li><a href="../services/google-search-ads-services.php">Google Search Ads</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Custom Solutions</h4>
-                            <ul>
-                                <li><a href="../services/Custom-eLearning-Development.php" target="_blank" style="text-transform: none;">Custom eLearning Development</a></li>
-                                <li><a href="../services/Powerpoint-to-eLearning-Conversion.php" target="_blank" style="text-transform: none;">PowerPoint to eLearning Conversion</a></li>
-                                <li><a href="../services/Mobile-Learn-Microlearning.php" target="_blank">Mobile Learning / Microlearning</a></li>
-                                <li><a href="../services/Gamified-Learning-Modules.php" target="_blank">Gamified Learning Modules</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Use Cases</h4>
-                            <ul>
-                                <li><a href="../services/Employee-Onboarding.php" target="_blank">Employee Onboarding</a></li>
-                                <li><a href="../services/Talent-Development.php" target="_blank">Talent Development</a></li>
-                                <li><a href="../services/Compliance-Training.php" target="_blank">Compliance Training</a></li>
-                                <li><a href="../services/Sales-Enablement.php" target="_blank">Sales Enablement</a></li>
-                                <li><a href="../services/Customer-Education.php" target="_blank">Customer Education</a></li>
-                                <li><a href="../services/Partner-Enablement.php" target="_blank">Partner Enablement</a></li>
-                                <li><a href="../services/Frontline-Workforce-Training.php" target="_blank">Frontline Workforce Training</a></li>
-                                <li><a href="../services/Member-Training.php" target="_blank">Member Training</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Industries We Serve</h4>
-                            <ul>
-                                <li><a href="industries/information_tech.php">IT &amp; Technology</a></li>
-                                <li><a href="industries/finance.php">Finance &amp; FinTech</a></li>
-                                <li><a href="industries/manufacturing.php">Manufacturing</a></li>
-                                <li><a href="industries/healthcare.php">Healthcare</a></li>
-                                <li><a href="industries/ecommerce.php">E-Commerce &amp; D2C</a></li>
-                                <li><a href="industries/education.php">Education &amp; E-Learning</a></li>
-                                <li><a href="industries/realestate.php">Real Estate</a></li>
-                                <li><a href="industries/logistics.php">Logistics &amp; Supply Chain</a></li>
-                                <li><a href="industries/professional_services.php">Professional Services</a></li>
-                                <li><a href="industries/startups.php">Startups</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Video Services</h4>
-                            <ul>
-                                <li><a href="../services/Explainer-Videos.php">Explainer Videos</a></li>
-                                <li><a href="../services/Demo-Videos.php">Demo Videos</a></li>
-                                <li><a href="../services/Video-Ads.php">Video Ads</a></li>
-                                <li><a href="../services/Social-Media-Videos.php">Social Media Videos</a></li>
-                                <li><a href="../services/Repurpose-Videos.php">Repurpose Videos</a></li>
-                                <li><a href="../services/Video-Editing.php">Video Editing</a></li>
-                                <li><a href="../services/How-To-Videos.php">How-to Videos</a></li>
-                                <li><a href="../services/Onboarding-Videos.php">Onboarding Videos</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                        <h4 class="widget-title">WhatsApp Marketing</h4>
-                        <ul>
-                            <li><a href="whatsapp_marketing/WhatsApp-Business-API.php">WhatsApp Business API</a></li>
-                            <li><a href="whatsapp_marketing/WhatsApp-Automation.php">WhatsApp Automation</a></li>
-                            <li><a href="whatsapp_marketing/WhatsApp-Chatbot.php">WhatsApp Chatbot</a></li>
-                            <li><a href="whatsapp_marketing/WhatsApp-Commerce.php">WhatsApp Commerce</a></li>
-                            <li><a href="whatsapp_marketing/WhatsApp-Flow.php">WhatsApp Flow</a></li>
-                        </ul>
-                    </div>
-
-                    <div class="f-item link mt-5">
-                        <h4 class="widget-title">UAE Digital Services</h4>
-                        <ul>
-                            <li><a href="uae/website-design-development.php">Website Design & Development</a></li>
-                            <li><a href="uae/web-application-development.php">Web Application Development</a></li>
-                            <li><a href="uae/mobile-app-development.php">Mobile App Development</a></li>
-                            <li><a href="uae/digital-marketing-services.php">Digital Marketing Services</a></li>
-                        </ul>
-                    </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                        <h4 class="widget-title">Data Services</h4>
-                        <ul>
-                            <li><a href="data_services/Documents-PDF-Data-Entry-Services.php">Documents & PDF Data Entry</a></li>
-                            <li><a href="data_services/Offline-Data-Entry-Services.php">Offline Data Entry Services</a></li>
-                            <li><a href="data_services/Online-Data-Entry-Services.php">Online Data Entry Services</a></li>
-                            <li><a href="data_services/Product-Data-Entry-Services.php">Product Data Entry Services</a></li>
-                            <li><a href="data_services/Content-Moderation-Services.php">Content Moderation Services</a></li>
-                        </ul>
-                    </div>
-
-
-                    <div class="f-item link mt-5">
-                        <h4 class="widget-title">Africa Digital Services</h4>
-                        <ul>
-                            <li><a href="africa/website-design-development.php">Website Design & Development</a></li>
-                            <li><a href="africa/web-application-development.php">Web Application Development</a></li>
-                            <li><a href="africa/mobile-app-development.php">Mobile App Development</a></li>
-                            <li><a href="africa/digital-marketing-services.php">Digital Marketing Services</a></li>
-                        </ul>
-                    </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Data Annotation Services</h4>
-                            <ul>
-                                <li><a href="../data_services/Data-Labeling-Services.php">Data Labeling Services</a></li>
-                                <li><a href="../data_services/Image-Annotation-Services.php">Image Annotation Services</a></li>
-                                <li><a href="../data_services/Text-Annotation-Services.php">Text Annotation Services</a></li>
-                                <li><a href="../data_services/Video-Annotation-Services.php">Video Annotation Services</a></li>
-                            </ul>
-                        </div>
-                        <div class="f-item link mt-5">
-                        <h4 class="widget-title">Australia Digital Services</h4>
-                        <ul>
-                            <li><a href="australia/website-design-development.php">Website Design & Development</a></li>
-                            <li><a href="australia/web-application-development.php">Web Application Development</a></li>
-                            <li><a href="australia/mobile-app-development.php">Mobile App Development</a></li>
-                            <li><a href="australia/digital-marketing-services.php">Digital Marketing Services</a></li>
-                        </ul>
-                    </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                    <div class="f-item link">
-                        <h4 class="widget-title">UK Digital Services</h4>
-                        <ul>
-                            <li><a href="uk/website-design-development.php">Website Design & Development</a></li>
-                            <li><a href="uk/web-application-development.php">Web Application Development</a></li>
-                            <li><a href="uk/mobile-app-development.php">Mobile App Development</a></li>
-                            <li><a href="uk/digital-marketing-services.php">Digital Marketing Services</a></li>
-                        </ul>
-                    </div>
-                    <div class="f-item link mt-5">
-                        <h4 class="widget-title">USA Digital Services</h4>
-                        <ul>
-                            <li><a href="usa/website-design-development.php">Website Design & Development</a></li>
-                            <li><a href="usa/web-application-development.php">Web Application Development</a></li>
-                            <li><a href="usa/mobile-app-development.php">Mobile App Development</a></li>
-                            <li><a href="usa/digital-marketing-services.php">Digital Marketing Services</a></li>
-                        </ul>
-                    </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-50 footer-item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Resources</h4>
-                            <ul>
-                                <li><a href="../resources/all-blogs.php">Blogs</a></li>
-                                                            <li><a href="about.php">About Us</a></li>
-                                <li><a href="contact-us.php">Contact Us</a></li>
-                                <li><a href="privacy_policy.php">Privacy Policy</a></li>
-                            </ul>
-                        </div>
-                        <br>
-                        <div class="f-item contact">
-                            <h4 class="widget-title">Contact Us</h4>
-                            <p><i class="fa-solid fa-phone"></i> <a href="https://wa.me/918450978544" target="_blank" style="color:#dedede">Phone:+91 8450978544</a></p>
-                            <p><i class="fa fa-envelope"></i> <a href="mailto:info@itdgrowthlabs.com" style="color:#dedede"> Email: info@itdgrowthlabs.com </a></p>
-                            <p><i class="fa fa-globe"> </i> <a href="https://itdgrowthlabs.com/" style="color:#dedede"> Website: www.itdgrowthlabs.com </a></p>
-                            <ul>
-                                <li>Andheri, Mumbai, India</li>
-                            </ul>
-                            <div class="mt-3">
-                                <a href="https://www.linkedin.com/company/itd-growthlabs/" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-linkedin"></i></a>
-                                <a href="https://www.instagram.com/itdgrowthlabs/" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-instagram"></i></a>
-                                <a href="https://www.facebook.com/itdgrowthlabs/" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-facebook"></i></a>
-                                <a href="https://twitter.com/itdgrowthlabs" target="_blank" style="color:#dedede; margin-right: 15px; font-size: 18px;"><i class="fab fa-twitter"></i></a>
-                                <a href="https://www.youtube.com/@itdgrowthlabs" target="_blank" style="color:#dedede; font-size: 18px;"><i class="fab fa-youtube"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="footer-bottom bg-dark text-light text-center">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <p>Copyright &copy; 2026 ITD GrowthLabs All Rights Reserved</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
     <script src="assets/js/jquery-3.6.0.min.js"></script>
     <script src="assets/js/bootstrap.bundle.min.js"></script>
     <script src="assets/js/jquery.appear.js"></script>
@@ -2344,113 +2037,35 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
     <script src="assets/js/custom.js"></script>
 
-    <!-- Case-studies filter: persona-first + 2-level narrow -->
+
+    <!-- Smooth-scroll for category selector -->
     <script>
     (function(){
-        var personaBtns = document.querySelectorAll('.cs-persona-btn');
-        var cards       = document.querySelectorAll('.case-study-card');
-        var ndaCallout  = document.querySelector('.cs-nda-callout');
-        if (!personaBtns.length || !cards.length) return;
-
-        var state = { persona: 'all', industry: null, service: null };
-
-        var d2cGroup = document.querySelector('[data-persona-group="d2c-industry"]');
-        var b2bGroup = document.querySelector('[data-persona-group="b2b-industry"]');
-
-        function syncGroups() {
-            if (!d2cGroup || !b2bGroup) return;
-            if (state.persona === 'd2c') {
-                d2cGroup.classList.remove('is-collapsed');
-                b2bGroup.classList.add('is-collapsed');
-            } else if (state.persona === 'b2b') {
-                d2cGroup.classList.add('is-collapsed');
-                b2bGroup.classList.remove('is-collapsed');
-            } else {
-                d2cGroup.classList.remove('is-collapsed');
-                b2bGroup.classList.remove('is-collapsed');
-            }
-        }
-
-        function resetGroup(group, keep) {
-            if (!group) return;
-            group.querySelectorAll('.cs-filter-btn').forEach(function(b){
-                var isDefault = (b.getAttribute('data-filter') === keep);
-                b.classList.toggle('is-active', isDefault);
-                b.setAttribute('aria-pressed', isDefault ? 'true' : 'false');
-            });
-        }
-
-        function applyFilter() {
-            cards.forEach(function(card){
-                var cats = (card.getAttribute('data-category') || '').split(/\s+/);
-                var ok = true;
-                // persona filter
-                if (state.persona !== 'all') {
-                    ok = ok && cats.indexOf(state.persona) !== -1;
-                }
-                // industry filter (null = any)
-                if (ok && state.industry && state.industry !== 'd2c' && state.industry !== 'b2b') {
-                    ok = ok && cats.indexOf(state.industry) !== -1;
-                }
-                // service filter
-                if (ok && state.service && state.service !== 'all-services') {
-                    ok = ok && cats.indexOf(state.service) !== -1;
-                }
-                card.classList.toggle('is-hidden', !ok);
-            });
-            // NDA callout: show when persona = d2c or all
-            if (ndaCallout) {
-                ndaCallout.classList.toggle('is-hidden', state.persona === 'b2b');
-            }
-        }
-
-        // Persona buttons
-        personaBtns.forEach(function(btn){
-            btn.addEventListener('click', function(){
-                personaBtns.forEach(function(b){
-                    b.classList.remove('is-active');
-                    b.setAttribute('aria-pressed', 'false');
-                });
-                btn.classList.add('is-active');
-                btn.setAttribute('aria-pressed', 'true');
-                state.persona = btn.getAttribute('data-persona');
-                // reset industry + service to defaults on persona change
-                state.industry = null;
-                state.service = null;
-                resetGroup(d2cGroup, 'd2c');
-                resetGroup(b2bGroup, 'b2b');
-                resetGroup(document.querySelector('[data-persona-group="service"]'), 'all-services');
-                syncGroups();
-                applyFilter();
-                var head = document.querySelector('.case-studies-area');
-                if (head) head.scrollIntoView({behavior:'smooth', block:'start'});
-            });
-        });
-
-        // Industry + Service filter buttons (scoped to groups)
-        document.querySelectorAll('.cs-filter-group').forEach(function(group){
-            var scope = group.getAttribute('data-persona-group');
-            group.querySelectorAll('.cs-filter-btn').forEach(function(btn){
-                btn.addEventListener('click', function(){
-                    group.querySelectorAll('.cs-filter-btn').forEach(function(b){
-                        b.classList.remove('is-active');
-                        b.setAttribute('aria-pressed', 'false');
-                    });
-                    btn.classList.add('is-active');
-                    btn.setAttribute('aria-pressed', 'true');
-                    var val = btn.getAttribute('data-filter');
-                    if (scope === 'service') {
-                        state.service = val;
-                    } else {
-                        state.industry = val;
+        document.querySelectorAll('.cs-selector-card, .cs-view-all-link').forEach(function(a){
+            a.addEventListener('click', function(e){
+                var href = a.getAttribute('href');
+                if (href && href.startsWith('#')) {
+                    e.preventDefault();
+                    var el = document.querySelector(href);
+                    if (el) {
+                        var hdr = document.querySelector('header');
+                        var offset = hdr ? hdr.offsetHeight + 20 : 90;
+                        window.scrollTo({ top: el.getBoundingClientRect().top + window.pageYOffset - offset, behavior: 'smooth' });
                     }
-                    applyFilter();
-                });
+                }
             });
         });
-
-        syncGroups();
-        applyFilter();
+        // Also smooth-scroll Explore Our Work hero CTA
+        var exploreBtn = document.querySelector('.cs-hero-cta-primary[href="#categories"]');
+        if (exploreBtn) {
+            exploreBtn.addEventListener('click', function(e){
+                e.preventDefault();
+                var el = document.getElementById('categories');
+                var hdr = document.querySelector('header');
+                var offset = hdr ? hdr.offsetHeight + 20 : 90;
+                if (el) window.scrollTo({ top: el.getBoundingClientRect().top + window.pageYOffset - offset, behavior: 'smooth' });
+            });
+        }
     })();
     </script>
 
