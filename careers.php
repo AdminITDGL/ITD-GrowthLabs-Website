@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="ITD GrowthLabs careers — 11 open roles in 2026: Sales Executive, Brand Manager, Sr Social Media Manager, Performance Marketing Manager, Web Developer, Designer + Video Editor, UI/UX, Social Media Associate, Social Media Manager, Content Writer (all Mumbai) + Quantum Computing Engineer (Remote). Full-Time + Internship.">
+    <meta name="description" content="ITD GrowthLabs careers — 9 open roles in 2026: Sales Executive, Brand Manager, Sr Social Media Manager, Performance Marketing Manager, Designer + Video Editor, Social Media Associate, Social Media Manager, Content Writer (all Mumbai) + Quantum Computing Engineer (Remote). Full-Time + Internship. Web Developer + UI/UX Designer currently paused.">
     <title>Careers &mdash; 11 Open Roles at ITD GrowthLabs (Mumbai + Remote) 2026 | ITD GrowthLabs</title>
     <link rel="canonical" href="https://itdgrowthlabs.com/careers.php" />
     <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
@@ -38,14 +38,9 @@
     <script type="application/ld+json">
     {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Careers", "item": "https://itdgrowthlabs.com/careers.php"}]}
     </script>
-    <script type="application/ld+json">
-    {"@context": "https://schema.org", "@type": "JobPosting", "title": "Web Developer (Full-Time / Internship)", "description": "Build websites, e-commerce stores and custom web apps for India + global clients.", "datePosted": "2026-06-24", "validThrough": "2026-12-31", "employmentType": ["FULL_TIME", "INTERN"], "hiringOrganization": {"@type": "Organization", "name": "ITD GrowthLabs", "sameAs": "https://itdgrowthlabs.com", "logo": "https://itdgrowthlabs.com/assets/img/logo.jpg"}, "jobLocation": {"@type": "Place", "address": {"@type": "PostalAddress", "streetAddress": "Andheri", "addressLocality": "Mumbai", "addressRegion": "Maharashtra", "postalCode": "400053", "addressCountry": "IN"}}, "url": "https://itdgrowthlabs.com/careers/web-developer.php", "totalJobOpenings": 2, "directApply": true, "experienceRequirements": {"@type": "OccupationalExperienceRequirements", "monthsOfExperience": 12}, "baseSalary": {"@type": "MonetaryAmount", "currency": "INR", "value": {"@type": "QuantitativeValue", "minValue": 300000, "maxValue": 1200000, "unitText": "YEAR"}}}
-    </script>
+    <!-- Web Developer + UI/UX Designer JobPosting schemas paused — roles temporarily closed. Re-enable by restoring the two <script> blocks from git history. -->
     <script type="application/ld+json">
     {"@context": "https://schema.org", "@type": "JobPosting", "title": "Graphic Designer + Video Editor (Full-Time / Internship)", "description": "Design social, ad creatives, brand assets and edit short + long-form video. AI-tool fluent.", "datePosted": "2026-06-24", "validThrough": "2026-12-31", "employmentType": ["FULL_TIME", "INTERN"], "hiringOrganization": {"@type": "Organization", "name": "ITD GrowthLabs", "sameAs": "https://itdgrowthlabs.com", "logo": "https://itdgrowthlabs.com/assets/img/logo.jpg"}, "jobLocation": {"@type": "Place", "address": {"@type": "PostalAddress", "streetAddress": "Andheri", "addressLocality": "Mumbai", "addressRegion": "Maharashtra", "postalCode": "400053", "addressCountry": "IN"}}, "url": "https://itdgrowthlabs.com/careers/graphic-designer-video-editor.php", "totalJobOpenings": 2, "directApply": true, "experienceRequirements": {"@type": "OccupationalExperienceRequirements", "monthsOfExperience": 12}, "baseSalary": {"@type": "MonetaryAmount", "currency": "INR", "value": {"@type": "QuantitativeValue", "minValue": 300000, "maxValue": 1000000, "unitText": "YEAR"}}}
-    </script>
-    <script type="application/ld+json">
-    {"@context": "https://schema.org", "@type": "JobPosting", "title": "UI / UX Designer (Full-Time / Internship)", "description": "Design websites, mobile apps and SaaS interfaces for India + global clients.", "datePosted": "2026-06-24", "validThrough": "2026-12-31", "employmentType": ["FULL_TIME", "INTERN"], "hiringOrganization": {"@type": "Organization", "name": "ITD GrowthLabs", "sameAs": "https://itdgrowthlabs.com", "logo": "https://itdgrowthlabs.com/assets/img/logo.jpg"}, "jobLocation": {"@type": "Place", "address": {"@type": "PostalAddress", "streetAddress": "Andheri", "addressLocality": "Mumbai", "addressRegion": "Maharashtra", "postalCode": "400053", "addressCountry": "IN"}}, "url": "https://itdgrowthlabs.com/careers/ui-ux-designer.php", "totalJobOpenings": 1, "directApply": true, "experienceRequirements": {"@type": "OccupationalExperienceRequirements", "monthsOfExperience": 12}, "baseSalary": {"@type": "MonetaryAmount", "currency": "INR", "value": {"@type": "QuantitativeValue", "minValue": 400000, "maxValue": 1200000, "unitText": "YEAR"}}}
     </script>
     <script type="application/ld+json">
     {"@context": "https://schema.org", "@type": "JobPosting", "title": "Social Media Associate (Full-Time / Internship)", "description": "Manage 3–5 client accounts. Calendars, copy, scheduling, community, reporting.", "datePosted": "2026-06-24", "validThrough": "2026-12-31", "employmentType": ["FULL_TIME", "INTERN"], "hiringOrganization": {"@type": "Organization", "name": "ITD GrowthLabs", "sameAs": "https://itdgrowthlabs.com", "logo": "https://itdgrowthlabs.com/assets/img/logo.jpg"}, "jobLocation": {"@type": "Place", "address": {"@type": "PostalAddress", "streetAddress": "Andheri", "addressLocality": "Mumbai", "addressRegion": "Maharashtra", "postalCode": "400053", "addressCountry": "IN"}}, "url": "https://itdgrowthlabs.com/careers/social-media-associate.php", "totalJobOpenings": 2, "directApply": true, "experienceRequirements": {"@type": "OccupationalExperienceRequirements", "monthsOfExperience": 12}, "baseSalary": {"@type": "MonetaryAmount", "currency": "INR", "value": {"@type": "QuantitativeValue", "minValue": 300000, "maxValue": 800000, "unitText": "YEAR"}}}
@@ -324,6 +319,13 @@
     transition: gap .2s ease;
 }
 .job-card:hover .job-card-cta { gap: 12px; }
+
+/* Paused job state — greyed out, no hover lift, no cursor pointer */
+.job-card.job-card-paused { opacity: 0.55; filter: grayscale(0.8); cursor: default; pointer-events: auto; }
+.job-card.job-card-paused:hover { transform: none; box-shadow: 0 4px 14px rgba(15, 30, 61, 0.06); border-color: var(--md-border); }
+.job-card.job-card-paused:hover .job-card-cta { gap: 0; }
+.job-card-pill.job-card-pill-paused { background: rgba(100, 116, 139, 0.14); color: #475569; }
+.job-card-pill.job-card-pill-paused i { color: #94a3b8; }
 </style>
 </head>
 
@@ -376,24 +378,24 @@
                     <span class="job-card-cta">View role &amp; apply <i class="fas fa-arrow-right"></i></span>
                 </div>
             </a>
-            <a href="/careers/web-developer.php" class="job-card" style="--card-grad-a:#1e40af;--card-grad-b:#3b82f6;">
+            <div class="job-card job-card-paused" style="--card-grad-a:#64748b;--card-grad-b:#94a3b8;" aria-label="Web Developer role is currently paused" title="This role is currently paused — not accepting applications">
                 <div class="job-card-banner">
                     <div class="job-card-icon"><i class="fas fa-code"></i></div>
                     <div class="job-card-meta-row">
-                        <span class="job-card-pill"><i class="fas fa-circle" style="font-size:6px;"></i> 02 open</span>
+                        <span class="job-card-pill job-card-pill-paused"><i class="fas fa-pause-circle"></i> Paused</span>
                     </div>
                 </div>
                 <div class="job-card-body">
                     <h3>Web Developer</h3>
                     <p class="job-card-tagline">WordPress + Shopify + React + Node.js + PHP</p>
-                    <p class="job-card-blurb">Build websites, e-commerce stores and custom web apps for India + global clients.</p>
+                    <p class="job-card-blurb">This role is temporarily paused and not accepting applications right now. Submit your CV via the Careers landing form to be notified when it reopens.</p>
                     <div class="job-card-tags">
                         <span class="tag"><i class="fas fa-briefcase"></i>Full-Time / Internship</span>
                         <span class="tag"><i class="fas fa-location-dot"></i>Mumbai</span>
                     </div>
-                    <span class="job-card-cta">View role &amp; apply <i class="fas fa-arrow-right"></i></span>
+                    <span class="job-card-cta" style="color:#64748b;">Not accepting applications</span>
                 </div>
-            </a>
+            </div>
             <a href="/careers/graphic-designer-video-editor.php" class="job-card" style="--card-grad-a:#e91e63;--card-grad-b:#f97316;">
                 <div class="job-card-banner">
                     <div class="job-card-icon"><i class="fas fa-pen-fancy"></i></div>
@@ -412,24 +414,24 @@
                     <span class="job-card-cta">View role &amp; apply <i class="fas fa-arrow-right"></i></span>
                 </div>
             </a>
-            <a href="/careers/ui-ux-designer.php" class="job-card" style="--card-grad-a:#8b5cf6;--card-grad-b:#a78bfa;">
+            <div class="job-card job-card-paused" style="--card-grad-a:#64748b;--card-grad-b:#94a3b8;" aria-label="UI / UX Designer role is currently paused" title="This role is currently paused — not accepting applications">
                 <div class="job-card-banner">
                     <div class="job-card-icon"><i class="fas fa-object-group"></i></div>
                     <div class="job-card-meta-row">
-                        <span class="job-card-pill"><i class="fas fa-circle" style="font-size:6px;"></i> 01 open</span>
+                        <span class="job-card-pill job-card-pill-paused"><i class="fas fa-pause-circle"></i> Paused</span>
                     </div>
                 </div>
                 <div class="job-card-body">
                     <h3>UI / UX Designer</h3>
                     <p class="job-card-tagline">Figma + prototyping + design systems</p>
-                    <p class="job-card-blurb">Design websites, mobile apps and SaaS interfaces for India + global clients.</p>
+                    <p class="job-card-blurb">This role is temporarily paused and not accepting applications right now. Submit your CV via the Careers landing form to be notified when it reopens.</p>
                     <div class="job-card-tags">
                         <span class="tag"><i class="fas fa-briefcase"></i>Full-Time / Internship</span>
                         <span class="tag"><i class="fas fa-location-dot"></i>Mumbai</span>
                     </div>
-                    <span class="job-card-cta">View role &amp; apply <i class="fas fa-arrow-right"></i></span>
+                    <span class="job-card-cta" style="color:#64748b;">Not accepting applications</span>
                 </div>
-            </a>
+            </div>
             <a href="/careers/social-media-associate.php" class="job-card" style="--card-grad-a:#00b894;--card-grad-b:#10b981;">
                 <div class="job-card-banner">
                     <div class="job-card-icon"><i class="fas fa-share-nodes"></i></div>

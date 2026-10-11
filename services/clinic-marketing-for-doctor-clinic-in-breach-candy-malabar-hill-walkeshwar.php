@@ -259,6 +259,8 @@
     <?php include("../includes/popup_modal.php") ?>
     <script src="../assets/js/jquery-3.6.0.min.js"></script>
     <script src="../assets/js/bootstrap.bundle.min.js"></script>
+    <script src="../assets/js/wow.min.js"></script>
+    <script src="../assets/js/validnavs.js"></script>
     <script src="../assets/js/main.js"></script>
     <script>
       (function(){

@@ -35,9 +35,8 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17674012925"></script>
     <script>window.dataLayer=window.dataLayer||[];function gtag(){gtag.q=gtag.q||[];gtag.q.push(arguments);}gtag('js',new Date());gtag('config','AW-17674012925');</script>
 
-    <script type="application/ld+json">
-    {"@context": "https://schema.org", "@type": "JobPosting", "title": "Web Developer (Full-Time / Internship)", "description": "You will join the web engineering pod and ship production websites, e-commerce stores, custom web apps and SaaS marketing sites for India + USA + UK + UAE + Australia + Africa clients. You'll work alongside senior practice leads with 12+ years of in-category experience, and own the front-end and back-end of real client projects from kickoff to launch.", "datePosted": "2026-06-24", "validThrough": "2026-12-31", "employmentType": ["FULL_TIME", "INTERN"], "hiringOrganization": {"@type": "Organization", "name": "ITD GrowthLabs", "sameAs": "https://itdgrowthlabs.com", "logo": "https://itdgrowthlabs.com/assets/img/logo.jpg"}, "jobLocation": {"@type": "Place", "address": {"@type": "PostalAddress", "streetAddress": "Andheri", "addressLocality": "Mumbai", "addressRegion": "Maharashtra", "postalCode": "400053", "addressCountry": "IN"}}, "url": "https://itdgrowthlabs.com/careers/web-developer.php", "totalJobOpenings": 2, "directApply": true, "experienceRequirements": {"@type": "OccupationalExperienceRequirements", "monthsOfExperience": 12}, "baseSalary": {"@type": "MonetaryAmount", "currency": "INR", "value": {"@type": "QuantitativeValue", "minValue": 300000, "maxValue": 1200000, "unitText": "YEAR"}}}
-    </script>
+    <!-- Web Developer JobPosting schema paused — role temporarily closed. Google Jobs removes within 1-3 days of recrawl. Re-enable by restoring the <script> block from git history. -->
+    <meta name="robots" content="noindex, follow">
     <script type="application/ld+json">
     {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://itdgrowthlabs.com/"}, {"@type": "ListItem", "position": 2, "name": "Careers", "item": "https://itdgrowthlabs.com/careers.php"}, {"@type": "ListItem", "position": 3, "name": "Web Developer (Full-Time / Internship)", "item": "https://itdgrowthlabs.com/careers/web-developer.php"}]}
     </script>
@@ -323,6 +322,10 @@
             <div class="icon-circle"><i class="fas fa-code"></i></div>
             <span class="tagline">WordPress + Shopify + React + Node.js + PHP</span>
             <h1>Web Developer (Full-Time / Internship)</h1>
+            <div style="background:linear-gradient(135deg,#fef3c7,#fde68a);border-left:5px solid #d97706;color:#78350f;padding:16px 22px;border-radius:10px;margin:18px 0 20px;font-size:15px;line-height:1.6;max-width:720px;">
+                <strong style="display:block;font-size:17px;margin-bottom:4px;"><i class="fas fa-pause-circle" style="margin-right:6px;"></i>This role is currently paused</strong>
+                We are not accepting applications for this position right now. We'll reopen this role in a future hiring cycle. In the meantime, you can share your CV via the <a href="/careers.php#careers-cv-form" style="color:#78350f;text-decoration:underline;font-weight:700;">Careers landing form</a> to be notified when it reopens, or explore our <a href="/careers.php" style="color:#78350f;text-decoration:underline;font-weight:700;">other open roles</a>.
+            </div>
             <div class="job-meta-row">
                 <span class="meta-pill"><i class="fas fa-briefcase"></i>Full-Time / Internship</span>
                 <span class="meta-pill"><i class="fas fa-location-dot"></i>Mumbai (Andheri HQ, on-site)</span>
@@ -398,21 +401,22 @@
 
     <section class="apply-cta-section" id="apply">
         <div class="container">
-            <div class="apply-cta-block">
-                <h2>Ready to apply?</h2>
-                <p>Takes 2 minutes. We review every CV personally and reply within 5 business days &mdash; no ghosting.</p>
-                <button type="button" class="btn-apply" data-bs-toggle="modal" data-bs-target="#careerApplyModal">
-                    <i class="fas fa-paper-plane"></i>Apply for this role
-                </button>
-                <div class="micro">PDF / DOC / DOCX &middot; max 5 MB &middot; your data goes to info@itdgrowthlabs.com only</div>
+            <div class="apply-cta-block" style="background:linear-gradient(135deg,#f1f5f9,#e2e8f0);color:#334155;">
+                <h2 style="color:#0f1e3d;"><i class="fas fa-pause-circle" style="margin-right:8px;color:#d97706;"></i>This role is currently paused</h2>
+                <p>We're not accepting applications for the Web Developer role right now. We'll reopen in a future hiring cycle.</p>
+                <a href="/careers.php" class="btn-apply" style="background:#1e3a8a;text-decoration:none;">
+                    <i class="fas fa-arrow-left"></i>See other open roles
+                </a>
+                <div class="micro">Want to be notified when this role reopens? Submit your CV via the <a href="/careers.php#careers-cv-form" style="color:#1e3a8a;font-weight:700;">Careers landing form</a> &mdash; we'll keep you in our talent pool.</div>
             </div>
         </div>
     </section>
 
     <?php
-        $career_job_slug  = "web-developer";
-        $career_job_title = "Web Developer (Full-Time / Internship)";
-        include(__DIR__ . "/../includes/career_application_form.php");
+        // Application form include disabled while role is paused — uncomment to re-enable.
+        // $career_job_slug  = "web-developer";
+        // $career_job_title = "Web Developer (Full-Time / Internship)";
+        // include(__DIR__ . "/../includes/career_application_form.php");
     ?>
 
     <?php include(__DIR__ . "/../includes/footer.php"); ?>
