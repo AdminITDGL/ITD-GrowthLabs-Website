@@ -30,7 +30,7 @@
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-        gtag('config', 'G-ZR348BRLFX');
+        gtag('config', 'G-ZR348BRLFX'); gtag('config', 'GT-NNXW9MV6');
     </script>
 
     <link rel="canonical" href="https://itdgrowthlabs.com/resources/EdTech_App_Development_Online_Learning_Live_Classes_LMS_Cost_India_2026.php" />

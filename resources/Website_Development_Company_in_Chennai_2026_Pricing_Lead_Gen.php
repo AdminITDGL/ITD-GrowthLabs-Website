@@ -30,7 +30,7 @@
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-        gtag('config', 'G-ZR348BRLFX');
+        gtag('config', 'G-ZR348BRLFX'); gtag('config', 'GT-NNXW9MV6');
     </script>
 
     <link rel="canonical" href="https://itdgrowthlabs.com/resources/Website_Development_Company_in_Chennai_2026_Pricing_Lead_Gen.php" />

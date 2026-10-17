@@ -42,7 +42,7 @@
     <link href="../assets/css/style.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17674012925"></script>
-    <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','AW-17674012925');</script>
+    <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','AW-17674012925'); gtag('config','GT-NNXW9MV6');</script>
 
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Service","name":"E-commerce &amp; D2C Technology","serviceType":"Industry-Specific Software Development","description":"Custom Shopify, WooCommerce and headless storefronts, multi-vendor marketplaces, conversion-engineered landing pages, performance marketing for D2C brands.","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com","logo":"https://itdgrowthlabs.com/assets/img/logo.jpg"},"areaServed":["India","United States","United Kingdom","United Arab Emirates","Australia","Africa"],"offers":{"@type":"Offer","availability":"https://schema.org/InStock","url":"https://itdgrowthlabs.com/industries/ecommerce.php"}}

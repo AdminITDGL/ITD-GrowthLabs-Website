@@ -51,7 +51,7 @@
         }
         gtag('js', new Date());
 
-        gtag('config', 'G-ZR348BRLFX');
+        gtag('config', 'G-ZR348BRLFX'); gtag('config', 'GT-NNXW9MV6');
     </script>
 
     <!-- Google tag (gtag.js) -->

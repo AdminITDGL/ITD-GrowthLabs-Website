@@ -42,7 +42,7 @@
     <link href="assets/css/style.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17674012925"></script>
-    <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','AW-17674012925');</script>
+    <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','AW-17674012925'); gtag('config','GT-NNXW9MV6');</script>
 
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Service","name":"Custom App, Web App and SaaS Development","serviceType":"Software Development","description":"Custom mobile app, web app and SaaS development. iOS, Android, Flutter, React Native, Next.js, Node, Python. Senior-led India studio, fixed-quote, 100% code ownership.","provider":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com","logo":"https://itdgrowthlabs.com/assets/img/logo.jpg"},"areaServed":["India","United States","United Kingdom","United Arab Emirates","Australia","Africa"],"offers":{"@type":"Offer","availability":"https://schema.org/InStock","url":"https://itdgrowthlabs.com/app_development.php"}}

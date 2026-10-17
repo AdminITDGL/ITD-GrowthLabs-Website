@@ -39,7 +39,7 @@
             dataLayer.push(arguments);
         }
         gtag('js', new Date());
-        gtag('config', 'G-ZR348BRLFX');
+        gtag('config', 'G-ZR348BRLFX'); gtag('config', 'GT-NNXW9MV6');
     </script>
     <!--[if lte IE 9]>
         <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>

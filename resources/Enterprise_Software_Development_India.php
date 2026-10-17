@@ -41,7 +41,7 @@
             dataLayer.push(arguments);
         }
         gtag('js', new Date());
-        gtag('config', 'G-ZR348BRLFX');
+        gtag('config', 'G-ZR348BRLFX'); gtag('config', 'GT-NNXW9MV6');
     </script>
 
     <!--[if lte IE 9]>
