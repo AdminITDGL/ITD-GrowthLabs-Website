@@ -50,7 +50,7 @@
         }
         gtag('js', new Date());
 
-        gtag('config', 'AW-17674012925'); gtag('config', 'GT-NNXW9MV6');
+        gtag('config', 'AW-17674012925');
     </script>
     <script>
         gtag('config', 'AW-17674012925/L6w9CJf84rIbEP2R0OtB', {

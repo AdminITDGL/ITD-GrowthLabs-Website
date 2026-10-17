@@ -22,7 +22,7 @@
     <link href="style.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZR348BRLFX"></script>
-    <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-ZR348BRLFX'); gtag('config','GT-NNXW9MV6');</script>
+    <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-ZR348BRLFX');</script>
     <link rel="canonical" href="https://itdgrowthlabs.com/resources/Best_Digital_Marketing_Agencies_in_India_2026_Honest_Rankings.php" />
     <meta property="og:title" content="Best Digital Marketing Agencies in India 2026 &mdash; Honest Rankings, Pricing &amp; How to Choose" />
     <meta property="og:description" content="Honest rankings of the best digital marketing agencies in India for 2026 — by tier, by city, by specialism. Real monthly retainers, vetting checklist, and the 5 questions that separate top agencies from average ones." />

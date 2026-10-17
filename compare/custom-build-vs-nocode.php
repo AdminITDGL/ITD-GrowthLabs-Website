@@ -37,7 +37,7 @@
     <link href="../assets/css/style.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17674012925"></script>
-    <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','AW-17674012925'); gtag('config','GT-NNXW9MV6');</script>
+    <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','AW-17674012925');</script>
 
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Article","headline":"Custom Build vs No-Code (Bubble, Webflow, FlutterFlow) — When to Outgrow, When to Stay (2026)","author":{"@type":"Organization","name":"ITD GrowthLabs Editorial Team","url":"https://itdgrowthlabs.com/team.php"},"publisher":{"@type":"Organization","name":"ITD GrowthLabs","url":"https://itdgrowthlabs.com","logo":{"@type":"ImageObject","url":"https://itdgrowthlabs.com/assets/img/logo.jpg"}},"datePublished":"2026-06-20","dateModified":"2026-06-20"}

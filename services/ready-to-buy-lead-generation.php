@@ -25,7 +25,7 @@
     <link href="../assets/css/style.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17674012925"></script>
-    <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','AW-17674012925'); gtag('config','GT-NNXW9MV6');</script>
+    <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','AW-17674012925');</script>
 
     <meta property="og:title" content="Ready-to-Buy Lead Generation — AI-Driven, Qualified Leads Monthly | ITD GrowthLabs">
     <meta property="og:description" content="Dedicated, ready-to-buy leads every month from our in-house AI-driven lead system. Multi-platform, niche-specific, location-targeted. No junk. Real-time delivery.">

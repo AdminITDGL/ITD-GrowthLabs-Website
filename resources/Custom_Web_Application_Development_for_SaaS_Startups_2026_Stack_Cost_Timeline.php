@@ -30,7 +30,7 @@
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-        gtag('config', 'G-ZR348BRLFX'); gtag('config', 'GT-NNXW9MV6');
+        gtag('config', 'G-ZR348BRLFX');
     </script>
 
     <link rel="canonical" href="https://itdgrowthlabs.com/resources/Custom_Web_Application_Development_for_SaaS_Startups_2026_Stack_Cost_Timeline.php" />

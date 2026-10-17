@@ -22,7 +22,7 @@
     <link href="style.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZR348BRLFX"></script>
-    <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-ZR348BRLFX'); gtag('config','GT-NNXW9MV6');</script>
+    <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-ZR348BRLFX');</script>
     <link rel="canonical" href="https://itdgrowthlabs.com/resources/Digital_Marketing_Agency_in_Mumbai_2026_Honest_Comparison.php" />
     <meta property="og:title" content="Digital Marketing Agency in Mumbai 2026 &mdash; Honest Comparison &amp; How to Pick the Right One" />
     <meta property="og:description" content="Honest comparison of digital marketing agencies in Mumbai 2026 — what each tier delivers, real monthly costs, vetting checklist, and the 4 cases when a Mumbai agency beats a remote one. From an agency that says no to bad-fit work." />

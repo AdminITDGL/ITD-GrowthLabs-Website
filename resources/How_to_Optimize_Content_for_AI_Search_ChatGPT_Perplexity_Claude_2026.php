@@ -30,7 +30,7 @@
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-        gtag('config', 'G-ZR348BRLFX'); gtag('config', 'GT-NNXW9MV6');
+        gtag('config', 'G-ZR348BRLFX');
     </script>
 
     <link rel="canonical" href="https://itdgrowthlabs.com/resources/How_to_Optimize_Content_for_AI_Search_ChatGPT_Perplexity_Claude_2026.php" />

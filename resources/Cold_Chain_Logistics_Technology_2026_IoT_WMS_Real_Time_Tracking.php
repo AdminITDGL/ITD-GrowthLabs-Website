@@ -30,7 +30,7 @@
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-        gtag('config', 'G-ZR348BRLFX'); gtag('config', 'GT-NNXW9MV6');
+        gtag('config', 'G-ZR348BRLFX');
     </script>
 
     <link rel="canonical" href="https://itdgrowthlabs.com/resources/Cold_Chain_Logistics_Technology_2026_IoT_WMS_Real_Time_Tracking.php" />

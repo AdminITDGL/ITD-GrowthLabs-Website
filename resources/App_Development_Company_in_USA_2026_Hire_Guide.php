@@ -30,7 +30,7 @@
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-        gtag('config', 'G-ZR348BRLFX'); gtag('config', 'GT-NNXW9MV6');
+        gtag('config', 'G-ZR348BRLFX');
     </script>
 
     <link rel="canonical" href="https://itdgrowthlabs.com/resources/App_Development_Company_in_USA_2026_Hire_Guide.php" />

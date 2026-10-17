@@ -22,7 +22,7 @@
     <link href="style.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZR348BRLFX"></script>
-    <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-ZR348BRLFX'); gtag('config','GT-NNXW9MV6');</script>
+    <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-ZR348BRLFX');</script>
     <link rel="canonical" href="https://itdgrowthlabs.com/resources/Website_Development_Cost_in_India_2026_Honest_Pricing_Guide.php" />
     <meta property="og:title" content="Website Development Cost in India 2026 &mdash; Honest Pricing Guide (Real Ranges, Hidden Costs)" />
     <meta property="og:description" content="Honest website development cost ranges in India for 2026 — landing page to enterprise web platform, page-by-page pricing, the 5 hidden costs every quote misses, and the realistic timeline from kickoff to launch." />
